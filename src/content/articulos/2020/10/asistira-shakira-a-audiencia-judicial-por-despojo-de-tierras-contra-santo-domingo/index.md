@@ -1,0 +1,48 @@
+---
+title: "¿Asistirá Shakira a audiencia judicial por despojo de tierras?"
+pubDate: "2020-10-08 02:38:43"
+author: "Lucio"
+categories: ["Análisis"]
+
+featuredImage: "./hero.jpg"
+---
+
+\[caption id="attachment\_12849" align="aligncenter" width="702"\]![](./shakira-y-pique-en-nueva-york-efe-1-1024x576.jpeg) **¿Asistirá Shakira?** La famosa cantante, aparece con su esposo Piqué. Será invitada a audiencia contra la **Fundación Santo Domingo.** (Cortesía Diariogol).\[/caption\] La pregunta esencial: ¿Asistirá Shakira a la audiencia judicial dónde procesan a la Fundacion Santo Domingo y a su cómplice el Inspector de Policía de Arroyogrande por despojar a la familia afro Hernández Vergara? En uno de los sonados casos de despojo de tierra a familias afros, los abogados de la familia **Hernández Vergara**, solicitaron a la Fiscalía que se invite a **Shakira,** la famosa cantante barranquillera, en la próxima diligencia de la audiencia judicial.  En esta se procesan al inspector de policía de Bayunca por prevaricato y al presidente de la **Fundación Santo Domingo, Pablo Obregón Santo Domingo**, por despojo (falsedad y desplazamiento forzado). La audiencia que se debió cumplir hoy, fue aplazada para otra fecha. En esta ocasión el juez de garantías se declaró impedido por la amistad estrecha que tiene con el apoderado del inspector de **Arroyo Grande Victor Arrieta Ávila.**
+
+## ¿Asistirá Shakira?
+
+¿Por que razón invitaron a Shakira?  El abogado de los Hernández, **Ángel María Carrillo**, en exclusiva, dijo a Vox Populi:
+
+> «_La próxima audiencia que se haga va a participar nuestra artista Shakira.  La vamos a citar para que se dé cuenta directamente el porqué nosostros nos hemos opuesto, no al colegio,  sino a que despojen a la familia Hernández de su tierra. Ella tiene una acción muy noble. Pero todo tiene que ser dentro del principio de legalidad. Tengo entendido que esta artista no participa en las cuestiones ilegales. Si ella no viene personalmente, será con un representante, porque la vamos a cita_r».
+
+Los apoderados judiciales reiteraron que ellos pueden donar el lote para construir el colegio. ¿Asistirá Shakira para que se entere de la verdad? En tanto la **Fundación** **Santo Domingo** donó un área de las tierras en litigio para que se construyera el colegio **«Villa Aranjuez»** de la fundación **«Pies Descalsos»**. Shakira ya puso la primera piedra en un evento en el que participaron medios nacionales e internacionales. La familia Hernández considera que los Santo Domingo están utilizando a Shakira para legalizar el despojo. Quieren hacerlo pasar como un acto humanitario al donarle a la cantante el predio donde construirían el megcolegio.
+
+## La denuncia penal
+
+Los Hernández presentaron una denuncia penal contra funcionarios públicos que se prestaron para que los Santo Domingo consumaran el despojo. Al mismo tiempo, solicitaron incidente de desacato ante el Juzgado Noveno Civil Municipal (**Rad No 13001-40003-004-2018**) contra el alcalde **William Dau Chamat** y su Secretario del Interior, **David Múnera Cavadía, quienes con su  omisión, se han negado a cumplir con la orden de tutela**. Con esta conducta omisiva, quieren favorecer a los Santo Domingo.
+
+**INCIDENTE DE DESACATO DE MÚNERA Y DAU QUIENES SE NIEGAN A RESTITUIR A LA FAMILIA DESPOJADA**
+
+![](./IMG-20201007-WA0174-485x1024.jpg) La corte constitucional mediante sentencia de tutela [No T—176—19](/articulos/relatoria/2019/T-176-19.htm) ordenó anular todo el proceso policivo adelantado por la **Inspección de Policía de Bayunca** en el año 2017. La orden de tutela de la Corte restableció el derecho fundamental al debido proceso conculcado a la Fundación Santo Domingo. La Corte Constitucional dijo en esa oportunidad:
+
+> _**«Tercero. – ORDENAR**_ _al Inspector de Policía Rural de Bayunca del Distrito de Cartagena de Indias rehacer el trámite de policía sub examine, a partir de la fecha y hora dispuestos en el numeral anterior y de conformidad con la parte motiva de esta sentencia»_.
+
+## ¿Por qué Múnera y Dau se niegan?
+
+¿Qué significó esa orden? Qué la Secretaría del Interior del Distrito en cabeza de **Múnera Cavadía** debe reiniciar el proceso policivo desde enero de 2018. Y para cumplir esta orden, el Distrito de Cartagena debe restituir en las tierras a la familia Hernandez. Estos fueron sacados con la fuerza pública por orden del inspector de policía de Arroyo Grande, **José Arrieta Ávila.** Este funcionario aparece procesado por la Fiscalía 40 Seccional Delitos contra la Administración Pública. Además del inspector de policía, en el proceso que conoce la fiscal 40 seccional, **Dora Patricia Cáceres Fuentes,** aparece como procesado el presidente de la Fundación Santo Domingo, **Pablo Obregón Santo Domingo**. ¿Asistirá Shakira a esta audiencia?
+
+## Los Hernández y la historia
+
+¿Por qué han dilatado la audiencia? ¿Será porque está involucrada directamente la Fundación Santo Domingo como victimaria? La peor corrupción de Cartagena no es la de los políticos sino de aquellas personas que han arrebatado las tierras del Estado y de familias afros adquiridas legalmente. Las tierras en disputa hacen parte de la finca **Magulla que** realmente era propiedad de la familia Hernández Vergara, descendientes de **Pedro Hernández.** Fue un hombre, cuyos padres habían sido esclavos en las grandes plantaciones del norte de Bolívar. Era analfabeta. No sabía leer ni escribir. Ni siquiera su nombre. Sus hijos tampoco estudiaron. (¿Quieres saber más de esta historia? Lea: [Shakira, inducida a un error](/articulos/shakira-inducida-a-un-error-de-un-horror-de-los-santo-domingo-ii/)). El patriarca de los Hernández contrató a un capataz para administrar la hacienda. Se trató de **Alfonso Campo.** Contrario a los Hernández, era alfabeta, hábil con los números y con la palabra. Podía llevarle las riendas de la hacienda. Cuando murió el viejo Pedro Hernández, apareció Alfonso Campo como dueño de gran parte de esas tierras, Así se inició el despojo. Campo adquirió ilegalmente parte de las tierras de los Hernández y luego se la vendió a un tercero y éste se las transfirió a los Santo Domingo mediante escrituras y registros falsos. Está tesis está demostrado con la escritura madre (382 1893) arrimada al proceso por los Hernández. ¿Por qué los Santo Domingo no muestran la escritura pública de esas tierras? No la pueden mostrar. La que tienen es espuria. ¿Asistirá Shakira a esta audiencia para que se entere de la verdad?
+
+## Los cómplices de Santo Domingo
+
+\[caption id="attachment\_11084" align="aligncenter" width="712"\]![](./IMG-20191214-WA0137.jpg) En esta reunión aparecen: **William Dau, Cynthia Pérez Amador** (a lo Tom Soyer), **Pablo Obregón Santo Domingo, Dolly González y** otros funcionarios del Distrito legalizando el despojo de los afros.\[/caption\] Los Santo Domingo despojan a los herederos de los negros esclavos con la aquiescencia, incluso, de otros afros domesticados por el sistema corrupto. Vean en la foto cómo aparece **Cynthia Pérez Amador** al lado de **William Dau y de Pablo Obregón Santo Domingo**. Se parece a la **«Negrita Puloy»** de Tom Soyer. Un monumento de la discriminación étnica y de la domesticación afro. Los «**blancos**» a veces necesitan a los «**negros** **domesticados**» para someter a los negros rebeldes, cimarrones y libres. ¿Acaso la historia de despojo de América no se llevó a cabo con indios y negros domesticados? ¿Por qué hay afros empobrecidos que alaban la política de discriminación del presidente Duque? Pero los «blancos» despojadores cuentan con un ejército de cómplices, incluso de afros domesticados (a la manera como lo cuestionó Malcom X). Igualmente, con la complicidad de funcionarios corruptos enquistados en el Estado. Funcionarios que están en la Secretaría del Interior, las notarias, la Oficina de Registros, Inspecciones de Policía, en despachos judiciales y representantes legales de entes territoriales. Esta fue la gran omisión del «**Libro Blanco**», una gran distracción de la lucha contra la corrupción. En el artículo publicado en febrero de 2020, denunciamos:
+
+> «El alcalde **William Dau Chamat y su administración** ya se arrodillaron ante los Santo Domingo**. Se reunieron en el proceso de empalme, y lo hicieron después.**  Pero no solo Dau es el único arrodillado, también su secretario del Interior **David Múnera Cavadía (representante legal de sindicatos y líder del Polo)**, la directora del Plan de Emergencia Social **Karen Margarita Gutiérrez** (líder afro), el director de Corvivienda **Néstor Edilson Castro Castañeda** (ex detective del DAS), y la Secretaria de Educación **Olga Acosta Amel,** del Sindicato Único de Educadores de Bolivar, **Sudeb»**.
+
+Este litigio es la **historia de despojo sangriento de familias afros**. **Los Hernández** **Vergara** son los verdaderos dueños de la tierra del colegio de **Shakira**, quien colocó la primera piedra sin saber que estaba manchada de sangre. ¿Asistirá Shakira? Ojalá en la próxima diligencia de la audiencia llegara Shakira para conocer la verdad de este despojo a los Hernández. **Me aseguraré que lea estos artículos publicados por la prensa libre, incluso de los negreros modernos.** Y podrá saber dónde están los ladrones.
+
+#### Te puede interesar
+
+## [Predios del colegio de Shakira fueron despojados por los Santo Domingo](/articulos/predios-del-colegio-de-shakirashakira-fueron-despojados-por-santo-domingo/)

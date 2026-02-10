@@ -1,0 +1,44 @@
+---
+title: "La cruz de Cynthia la carga el padre Cristian y su iglesia (I)"
+pubDate: "2020-10-25 02:48:35"
+author: "Lucio"
+categories: ["Análisis"]
+
+featuredImage: "./hero.jpg"
+---
+
+LA CRUZ DE CYNTHIA Y DE MONSEÑOR
+
+> 57 «¿_Y por qué no juzgáis por vosotros mismos lo que es justo?_ _58 Cuando vayas al magistrado con tu adversario, **procura en el camino arreglarte con él, no sea que te arrastre al juez, y el juez te entregue al alguacil, y el alguacil te meta en la cárcel.**59_ _Te digo que no saldrás de allí, hasta que hayas pagado aun la última blanca_». (Mateo 5:25-26)
+
+Mientras el padre **Cristian Mercado**, párroco de la iglesia católica «**María Madre de los Pobres»** del barrio El Educador, **carga la cruz de Cynthia Amador** rumbo al Gólgota del escarnio público, monseñor **Jorge Enrique Jiménez Carvaja**l, Arzobispo de Cartagena —como **Simone de Sirene**— salió en su ayuda y prepara una **«estrategia (...) para la defensa del Padre, de la Parroquia y de la Arquidiócesis»**. \[caption id="attachment\_12998" align="aligncenter" width="480"\]![](./mosenor-jorge-enrique-jimenez.jpg) ¿**Monseñor Jorge Enrique Jiménez** ayudará a cargar **la cruz de Cynthia** y del padre Cristian o dirá la verdad? ¿Usará el derecho canónico o el código penal?\[/caption\] **La cruz de Cynthia**, no solo la está cargando el alcalde **William Dau Chama**t, también **Diana Martínez Berrocal**, Secretaria General de la alcaldía de Cartagena, **Martha Carvaja**l, jefe de Talento Humano de la época. Si hay justicia, es probable que cojan cárcel si no se arreglan con el juez. El caso Cynthia demostró la verdadera catadura de la actual administración. Mostró las tripas de una de las peores corrupciones, la del ser. De paso, permitió que aflorara con claridad la desfachatez del burgomaestre de los cartageneros. Como se analizó en un artículo anterior, ([«Caso Cynthia»: Las claves para descubrir a un gobernante malandro](/articulos/caso-cynthia-las-claves-para-descubrir-a-un-gobernante-malandro/ "«Caso Cynthia»: Las claves para descubrir a un gobernante malandro")) la Cruz de Cynthia sirvió para construir el patrón del gobernante corrupto. **(I)** El arte de engañar a los más pendejos de la sociedad. **(III)** Hacer creer que gobierna, pero no gobierna. **(II)** Y robarse el dinero como si fuera un acto humanitario para con los pobres y marginados.
+
+## La cruz de Cynthia es la cruz de Cristian
+
+Lo anterior significa que los periodistas no podríamos conocer directamente del padre **Cristian Mercado** las razones, circunstancias y motivos que llevaron al clérigo a pagar la suma de $17,5 millones al sistema Nacional de Pensiones. La denuncia de la líder social y exfuncionaria, **Jacqueline Perea**, no pierde validez si dio a conocer una menor cifra a la realmente pagada por la iglesia. **Lo importante es saber de dónde salió ese dinero, como salió y si hubo un reconocimiento de la parroquia de la presunta vinculación laboral de Cynthia Pérez Amador.** Según ella, recibía una **«bonificación»** de $100 mil de la parroquia. En un comunicado de prensa difundido este sábado, Cynthia Amador dice:
+
+> _«Sí conozco al **Padre Christian** y soy feligrés de la parroquia a la cual pertenece. De cualquier manera presté mis servicios en la misma por una bonificación de $100.000 mensuales. Y que debido a las condiciones económicas de la parroquia en la fecha no canceló ningún monto a seguridad social. Al momento de registrar esta información en mi hoja de vida, llama la atención de entidades de control y fue notificado la arquidiócesis quien (Sic). Al corroborar la información decidió cancelar la seguridad social correspondiente al período de mi vinculación con ellos»_.
+
+Sea la suma que sea, la **parroquia debe explicar a la opinión pública la verdad.** Debe decir en qué condiciones se encontraba vinculada Cynthia. ¿Voluntariado? ¿Empleada? Si estaba como voluntariado, no tenía ningún vínculo laboral. Y el auxilio de $100 pudo ser para el transporte. Hay muchas personas en las diferentes parroquias e iglesias evangélicas que hacen voluntariado. Algunas reciben un auxilio y otras no. Si la Curia le pagó a Cynthia ¿por qué no le pagan a las centenares de personas que hacen voluntariado en las diferentes parroquias? Sería injusto que le reconocieran a Cynthia y a las otras personas no. Habría discriminación y se **violaría el derecho fundamental a la igualdad**.
+
+## ¿Se puede hacer menos pesada la Cruz de Cynthia?
+
+A este punto podemos decir que lejos de aliviar el peso de la Cruz de Cynthia, **la decisión del padre Christian de pagarle el costo de la seguridad social, la hizo más pesada, muy pesada**. Ahora no solo le debe meter el hombro monseñor, sino también los vicarios y toda la jerarquía eclesiástica. Si la parroquia no estaba obligada a pagar esa seguridad social ¿por qué lo hizo? ¿Quería hacer un acto caritativo a la pobre Cynthia? La iglesia estaría obligada si estuviese precedido por un acto administrativo o judicial donde se le reconociera a **Cynthia Pérez Amador la sujeción laboral a la iglesia. Lo contrario, sería una defraudación al Sistema Nacional de Pensiones. Es decir, al Estado.** Para un periodista de investigación y de análisis cabe una pregunta clave. ¿**Por qué razón el párroco Cristian Mercado pagó esa millonaria suma al sistema de pensiones si no estaba obligado?** La pregunta cobra mayor validez con el comunicado de la misma Cynthia donde reconoce que era una **«bonificación»**. Esto es, no tenía ninguna característica de factor salarial como para plantearse una relación de carácter laboral con la parroquia. Además, Cynthia no ha reclamado salarios caídos ni otras prestaciones. Puesto que si reclama seguridad social, es porque hubo un lazo laboral. En **el fondo, el comunicado de Cynthia trata de eximir al padre Cristian Mercado**. Pero cometió un error. Reconoció que no tuvo vinculación laboral con la parroquia. En cambio, recibió una **«bonificación»** de $100 mil mensuales. En la época de su voluntariado esa cifra no alcanzaba medio salario mínimo. O sea, no era un salario. Porque si fuese salario, la parroquia tenía que hacer una liquidación mayor de esos ingresos.
+
+## La carta: «el problema es delicado»
+
+En una carta dirigida a la hermandad católica de la Arquidiócesis de Cartagena, **monseñor Jorge Enrique Jiménez**, se refiere a la reunión del próximo miércoles 28 de octubre con ocasión del Encuentro _**Fratelli Tutti.** Monseñor_ dijo:
+
+> _«En ese momento espero poder dar respuestas a las preguntas que ustedes tengan al respecto y que la podamos hacer en el marco del presbiterio. Les ruego que tengan paciencia, **porque el problema es delicado, viene de atrás, no es del Padre Christian Mercado y es importante que lo entendamos plenamente**»._ 
+
+Monseñor, es cierto lo que usted dice. «**El problema es delicado»**. Aquí, no decir la verdad es un **pecado capital**. Y tiene una implicación teológica que puede infringir el derecho canónico. Además, y esto es más delicado para el mundo laico, no decir la verdad es ser cómplice o coautor de un delito grave: ¡Falsedad! Monseñor promete **«hacer claridad»** para buscarle una **«respuesta al problema»**. Pero esto no implica que sea una solución. La respuesta puede ser un agravante, como lo ha sido el esfuerzo de Cynthia por tapar una irregularidad administrativa que le impedía recibir un ingreso mayor. Monseñor, de todas maneras, pidió confianza:
+
+> _«Sencillamente les pido que tengan confianza en mí que estoy junto con las personas que me pueden ayudar en la Arquidiócesis, haciendo claridad sobre la situación y buscando una respuesta al problema que, Dios quiera, implicará hacer claridad plena y salir adelante a acusaciones que ciertamente no están basadas **en la totalidad de la verdad**»._
+
+Cómo sabemos que la Curia no va a dejar solo al padre Christian cargando la **Cruz de Cynthia,** a juzgar por el tenor de la carta de monseñor, la Arquidiócesis de Cartagena asumirá una decisión el próximo miércoles 28 de octubre. Toda la hermandad católica le meterá el hombro a la Cruz de Cynthia como si fuera **Simone de Zirene** rumbo a la crucifixión. Pero, finalmente, es importante hacernos una pregunta. Además de Cynthia, Diana Martínez Berrocal, Martha Carvajal y William Dau Chamat ¿quienes más crucificarán en el Gólgota del escarnio público? ¿Monseñor Jorge Enrique Jiménez? ¿Será el cordero que le quitará el pecado de falsedad, no solo a Cynthia, sino al alcalde Dau Chamat?
+
+#### Te puede interesar:
+
+#### [«El raponazo» al Adulto Mayor, «aúnan esfuerzos». Caso Morales—Bolívar (I)](/articulos/procurador-este-es-el-raponazo-al-adulto-mayor-caso-morales-bolivar/ "«El raponazo» al Adulto Mayor, «aúnan esfuerzos». Caso Morales—Bolívar (I)")
+
+### [Cynthia, «La Negrita Puloy» del alcalde racista (I)](/articulos/cynthia-la-negrita-puloy-del-alcalde-racista-i/)

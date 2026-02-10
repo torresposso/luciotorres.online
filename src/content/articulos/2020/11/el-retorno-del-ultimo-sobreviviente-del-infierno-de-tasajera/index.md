@@ -1,0 +1,36 @@
+---
+title: "El retorno del último sobreviviente del infierno de Tasajera"
+pubDate: "2020-11-02 00:50:27"
+author: "Lucio"
+categories: ["Crónica"]
+
+featuredImage: "./hero.jpg"
+---
+
+El retorno del último sobreviviente del infierno de Tasajera fue un acontecimiento singular en el corregimiento. El que había muerto regresó con otra visión de la vida y de las cosas. **Mauricio Martínez Rada, 26 años,** retornó del infierno. Regresó a la vida. Y allí están sus heridas. Son las huellas de un guerrero que le ganó la batalla al rey del averno, a la muerte. Se le escapó. Una nueva oportunidad. Nuevos sueños vendrán para el último sobreviviente. Quiere ser licenciado en educación física. Estudió vigilancia y desea trabajar en eso para pagarse sus estudios.
+
+## LA ENTREVISTA CON EL ÚLTIMO SOBREVIVIENTE
+
+## El último sobreviviente
+
+Regresar después de tres meses del fatídico día para Mauricio Martínez se le hace extraño. No se halla. El calor. La humedad. El fastidio del ambiente. Debe estar 24 horas en un cuarto con aire acondicionado. Contó con la ayuda de muchas personas. De la gobernación del Magdalena. Solo conversamos 15 minutos. Al termino, el calor ya le estaba afectando la piel. La tiene muy sensible. No puede salir del cuarto donde permanece en un ambiente de 24 grados. En esos tres meses que duró por fuera, tuvo el acompañamiento y ayuda de la gobernación del Magdalena. Nunca se le olvida dar los agradecimientos a Dios, y a las personas que tuvieron que ver con su recuperación. Es el agradecimiento del último sobreviviente de la explosión de Tasajera.
+
+## La gran batalla del último sobreviviente
+
+El 6 de julio de 2020 es un día que quedó tatuado para siempre en el 65 por ciento de su piel. Tatuado en su mente. En sus entrañas. Fueron tres meses batallando por su vida en el hospital Simón Bolívar y luego en el de Suba. Tres meses escapando del infierno. Sobre todo, ese día que estuvo muerto 10 minutos. Pero sobrevivió. Y ahora este último sobreviviente está frente a mí en la sala de la casa de su mamá en Tasajera. **Mauricio Martínez** me cuenta la historia. Es un gran guerrero que muestra orgullosamente sus heridas de la gran batalla que libró contra Lucifer. Razón tiene su hermana Zulay Cuello que dice: **«Es mi guerrero»**. Las dos hermanas que lo atendieron fueron dos ángeles que estuvieron día y noche a su lado. Se turnaban para cuidarlo y estar atentas a cualquier necesidad. Mientras me habla, Mauricio une sus dos manos formando un corazón. A veces se toca las escamas de sus sentidas heridas. Alrededor de su cara están las huellas de las quemaduras. Sus manos, brazos, piernas, no hay un lugar que el fuego dejara libre de quemaduras. Casi todo su cuerpo está invadido de un mapa blancuzco indicador de que sus heridas están sanando. Que la pigmentación de su piel nueva se confunde con la vieja. Que la epidermis ya no existe en el 65 por ciento de su cuerpo. Si. Estas son las huellas de esa batalla que le ganó a Lucifer en las entrañas del infierno. Ganó la vida. Ahora es un Mauricio nuevo. Agradecido de la vida y de Dios.
+
+## El cuarto de hora
+
+\[caption id="attachment\_13097" align="aligncenter" width="702"\]![](/wp-content/uploads/2020/11/SOBREVIVIENTE-DE-TASAJERA2-1024x768.jpg) La primera entrevista concedida por el último sobreviviente de la explosión de Tasajera, Mauricio Martínez rada.\[/caption\] Fue un cuarto de hora que esperaban aprovechar al máximo. Uno le dijo al otro. De pronto, en el escenario donde se encontraba el camión con la panza hacia el lado, estaba lleno de mototaxistas, vendedores ambulantes, rebuscadores de la vida. \[caption id="attachment\_13098" align="aligncenter" width="702"\]![](./placeholder.jpg) El último sobreviviente. Aquí en la puerta de la casa de sus hermanas en Tasajera.\[/caption\] Para Mauricio, como el último sobreviviente, quedaron atrás los 15 minutos febriles que precedieron a la gran explosión del camión cisterna aventado de gasolina. Fueron 15 minutos donde más de 100 jóvenes y adultos buscaban la forma de sacar alguna pimpina de combustible de la panza del camión. ¿Cómo extraerla? Pero antes de que alguien sacara siquiera una gota de gasolina, un sujeto desapareció en las entrañas del camión para extraer la batería. ¡Buuuuuummm! Pareciera que hubiese explotado la bomba de Hirosima en un área de 50 metros a la redonda. Mauricio estaba a 10 metros del camión.
+
+> «Yo no sé cómo hice. Pero tomé la moto y ayudé a sacar del lugar a mi primo **Jaime Carrillo Escalante** rumbo a Tasajera. Jaime me dijo que le diera más despacio, porque se estaba ahogando. Llegamos al peaje de Tasajera y de allí no me acuerdo de más nada. Perdí el conocimiento».
+
+No todo el mundo retorna del infierno. Su primo Jaime no aguantó. «Que Dios lo tenga en su Santo Reino», lanzó su mirada al techo de la humilde casa. Tampoco retornaron 39 de los heridos que fueron llevados a diferentes centros hospitalarios del Magdalena, Cesar, Atlántico y Bogotá.
+
+## Agradezco al gobernador Caicedo
+
+\[caption id="attachment\_13096" align="aligncenter" width="702"\]![](./TASAJERA-CON-GOBERNADOR-1024x682.jpg) El gobernador del Magdalena fue el otro ángel que apoyó en su recuperación del último sobreviviente.\[/caption\] A Zulay Cuello me la encontré en la gobernación del Magdalena. Se había entrevistado con el Secretario del Interior del Magdalena, José Humberto Torres, quien es uno de los altos funcionarios que le facilitó todo su apoyo en la capital de la República. También Jorge Rojas. Le dije que quería visitar a Mauricio en su propia casa de Tasajera. Y ella se ofreció a recibirnos. Efectivamente al día siguiente, por la mañana, ya estábamos en la humilde residencia del último sobreviviente de la explosión de Tasajera. «Le doy gracias a todo el grupo de la Gobernación, más que todo al gobernador Carlos Caicedo que se portó muy bien conmigo, es una bendición que me ha llegado a mí y mi familia, estamos muy agradecidos con él». **Retornar del infierno no es tarea fácil**. Es una dura batalla. Batalla por la vida. Dos meses hospitalizado. Un mes más en Bogotá para una debida recuperación. Y el regreso —como un héroe triunfante— a Tasajera. Acaso sus heridas profundas y sanadas ¿no son las charreteras de este valeroso guerrero que aprendió una dura lección de la vida? Mauricio volvió a la vida. El cuarto de hora que pensaba aprovechar  para comprarle la medicina y los pañales desechables a su madre postrada, se convirtió en un infierno. Muchas horas sobre el quirófano. Corneas y piel reconstruidas. Dolorosas curaciones. Fue el precio de esos 15 minutos que se convirtieron en un infierno. «_Ahora seré un profesor de educación física. Quiero estudiar esa licenciatura. Yo soy vigilante. Espero encontrar un trabajo cerca. Ojalá la concesión vial me apoye. **Soy un nuevo Mauricio.»**_
+
+#### Te puede interesar:
+
+## [El caimán de Tasajera reclama su territorio](/articulos/el-caiman-de-tasajera-reclama-su-territorio/)

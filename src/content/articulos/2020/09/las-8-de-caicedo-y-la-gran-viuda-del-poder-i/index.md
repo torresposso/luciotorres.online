@@ -1,0 +1,45 @@
+---
+title: "Las 8 de Caicedo y la «Gran Viuda del Poder» (I)"
+pubDate: "2020-09-13 02:17:52"
+author: "Lucio"
+categories: ["Análisis"]
+
+featuredImage: "./hero.jpg"
+---
+
+\[caption id="attachment\_12679" align="aligncenter" width="702"\]![](./las-8-de-caicedo-2-1024x664.png) **Las 8 de Caicedo y la «Gran Viuda del Poder»**. Aquí tomando el juramento de la Junta de Educación. (Composición Laura Botett).\[/caption\] Las 8 de Caicedo Omar, el gobernador de **Fuerza Ciudadana**, durante estos primeros 8 meses de gestión **marcó un gran desafío**. En efecto, el coronavirus lo hizo reinventarse y adaptar su plan de desarrollo **«Magdalena Renace»** a las nuevas circunstancias. Pero el desafío más grande que tuvo el temperamental gobernador fue la clase política, ahora calificada como la **«Gran Viuda del Poder»**. En el Magdalena está todo por hacer. Gobernabilidad, gobernanza, desarrollo económico y social. Participación ciudadana. Gestión pública eficiente y eficaz. Educación. Cultura.
+
+## La pobreza y la «Gran Viuda del Poder»
+
+**Pero el desafío es sacar al Magdalena del infame ranking de los 5 departamentos con mayor pobreza.** Es el cuarto con más pobreza multidimensional, desigualdad y desidia social. Esto significa que Caicedo tiene  una gran oportunidad para despacharse y dejar en mejores condiciones a **un departamento víctima de una clase política corrupta, negligente y parásita.** En este infame ranking de la pobreza del país aparecen, desafortunadamente, 4 **departamentos de la Costa Caribe** con la población mayoritariamente pobre. Sin duda, después del Chocó (49,9 por ciento) donde hay más personas en condiciones de **pobreza** extrema están La Guajira (47,9), Córdoba (40,3) Magdalena (36,1), y Sucre, que tiene el 35,7 por ciento. **En realidad, es el verdadero desafío de la gestión administrativa que le depara a Carlos Caicedo Omar en los próximos tres años y 4 meses.** Si logra concretar las estrategias y las metas del plan de desarrollo **«Magdalena Renace»**, no solo le callará la boca a sus principales detractadores sino que impedirá que la clase política corrupta regrese al poder.
+
+## La «Gran Viuda del Poder»
+
+\[caption id="attachment\_12673" align="aligncenter" width="712"\]![](./La-gran-familia-del-Magdalena.jpg) **La gran familia Cotes**. Exgobernadores y exalcaldes que perpetuaron la pobreza del Magdalena. La Gran viuda del poder. Cortesía.\[/caption\] **La pobreza de un territorio se debe a su gente.** Eligen a los gobernantes con la esperanza de que gobiernen para ellos. Pero en realidad la clase política tradicional del Magdalena ha gobernado para un sector económico involucrado en la corrupción política y en la economía del narcotráfico y el contrabando. ¿Quiénes están en el poder en el Magdalena? **Los Cotes, los DíazGranados, los Dávila, los Zúñiga, los Lacouture, los Vives, entre otros.** Ellos son los que han dominado a lo largo de estos últimos 50 años la política y la economía del Magdalena. Es una economía corrompida que recibe dinero del narcotráfico, el contrabando y de la expoliación del presupuesto público. **No había cabida para más nadie hasta cuando llegó Carlos Caicedo Omar**. Primero fue rector de la Universidad del Magdalena. Luego se convirtió en alcalde de Santa Marta. Y con su movimiento **Fuerza Ciudadana** puso a su sucesor, **Rafael Martínez**. Éste, a su vez, hizo elegir con su movimiento a **Virna Lizi Johnson Salcedo.** Es la actual alcaldesa del Distrito de Santa Marta. Es decir, que **Fuerza Ciudadana** hizo _moñona_ en el Magdalena. Les quitó a la clase política la alcaldía y ahora la gobernación. Por eso es que a esa clase política se le califica hoy como la **«Gran Viuda del Poder»**. Eso es lo que pasa con el Magdalena y su capital Santa Marta.
+
+## Las 4 revoluciones
+
+Durante los primeros ocho meses de gobierno, el mandatario del Magdalena Carlos Caicedo Omar recorrió los 29 municipios del departamento concertando el **Plan de Desarrollo Departamental «Magdalena Renace»**. La obsesión de Caicedo es sacar de la pobreza e inequidad al departamento. Busca transformar al Magdalena en una región competitiva que le apueste a la agricultura con innovación y al turismo sostenible como motores de desarrollo. **Quiere hacer cuatro revoluciones: Equidad, Productividad, Gobernabilidad y Sostenibilidad**. Las cuatro revoluciones de Caicedo Omar se realizarán a través de cuatro estrategias: **participación popular, educación y emprendimiento, autonomía territorial y, finalmente, fortalecimiento de lo público.** 
+
+## Las 8 de Caicedo y la Gran Viuda del Poder
+
+Vamos a hacer una síntesis de la gestión de Caicedo Omar en estos 8 meses de gobierno. Podremos dejar por fuera muchas de ellas, pero por efecto del análisis, debemos ser selectivo. Enumeraremos las 8 acciones de gobierno más importantes, y en próxima entrega detallaremos sus acciones.
+
+1.  **Adopción de un plan de acción eficaz** para controlar la propagación de Covid-19.
+2.  **Entrega de 135 mil kits de elementos de protección personal en hospitales y clínicas** de los municipios para proteger a los trabajadores de la salud del contagio de Covid-19-
+3.  **Habilitación de 17 nuevas camas de Unidad de Cuidados Intensivos (UC**I) en el hospital San Cristóbal de Ciénaga para la atención de pacientes críticos de Covid-19.
+4.  **Entrega del Plan de Alimentación Escolar (PAE)** en Casa a padres de familia de 633 instituciones educativas oficiales.
+5.  **Creación del Fondo de Becas de Gratuidad de la Educación Superior**, que permitirá el aporte de $3.500 millones cofinanciar el 100% de la gratuidad de las matrículas para los estudiantes de la Universidad del Magdalena.
+6.  P**uesta en marcha del proyecto de mejoramiento de circuitos viales para 10 municipios de las Subregiones** Norte y Centro del Magdalena (Ciénaga, Zona Bananera, Aracataca, El Retén, Fundación, Tenerife, Plato, Chibolo, San Ángel, Ariguaní y Nueva Granada), con una inversión de 39 mil millones de pesos de regalías. Igualmente, de obras de ampliación y optimización de los sistemas de acueducto de Pivijay, Aracataca, Ciénaga y Puebloviejo.
+7.  **Aprobación del Plan de Acción Territorial (PAT),** articulado al Plan de Desarrollo Departamental **«Magdalena Renace»**, que beneficiará a 335 mil víctimas del conflicto armado.
+8.  Constitución de la **Junta Departamental de Educación (Jude),** que por primera vez funcionará en el departamento como un órgano científico de carácter consultor en materia de planificación y mejoramiento del servicio educativo.
+
+## La «Gran Viuda del Poder» y Caicedo
+
+La «Gran Viuda del Poder» quiere derribar de la gobernación a Caicedo Omar. Tiene a la Fiscalía. Cuenta con la Procuraduría y la Contraloría que jamás hicieron nada por denunciar los actos de corrupción de las diferentes administraciones de la clase política del Magdalena. **Rosa Cotes** Vives fue la gobernadora que Caicedo reemplazó. Cotes Vives fue dos veces primera dama del Distrito de Santa Marta. Lo que indica que su familia era la dueña de la alcaldía. Y ella vivía de la gestión de su sobrino con el fin de promocionarse como gran líderesa. Su marido,  [José Francisco Zúñiga Riascos](/articulos/w/index.php?title=Jos%C3%A9_Francisco_Z%C3%BA%C3%B1iga_Riascos&action=edit&redlink=1 "José Francisco Zúñiga Riascos (aún no redactado)"), ha sido su respaldo. Luego su sobrino **Luis Miguel «Mello» Cotes** fue gobernador, y ella se convirtió en la primera dama, figura del medioevo traída a la modernidad por los feudales del poder. \[caption id="attachment\_12676" align="alignnone" width="702"\]![](./IMG-20200903-WA0073-1024x576.jpg) **El «Mello» Cotes**, miembro de la **Gran Familia** viuda del poder. Cortesía.\[/caption\] La familia Cotes decidió que Rosa fuera gobernadora. Y fue gobernadora. Pero la gente del Magdalena estaba cansada de tanta corrupción y decidieron elegir a Carlos Caicedo Omar como gobernador del Magdalena. **Fue la gran derrota de esa clase política que hoy se le llama la «Gran Viuda del Poder».** En las próximas entregas detallaremos los logros de Carlos Caicedo. Este dirigente, si bien es temperamental, le ha dado sopa y seco a la clase política del Magdalena.  Su desafío es sacar de la pobreza a su departamento. Tiene cuatro revoluciones por acometer. En estos 8 meses logró desafiar el cornavirus y enfrentar los primeros ataques de la **«Gran Viuda del Poder»**. Su logro principal: su plan de desarrollo **«Magdalena Renace**».
+
+#### Te puede intersar:
+
+## [No han iniciado recuperación de la vía Salamina — El Piñón](/articulos/24en-tela-de-juicio-cuatro-alcaldes-del-magdalena/ "No han iniciado recuperación de la vía Salamina — El Piñón")
+
+## [Caicedo y FFMM, ¡guerra contra «Los Pachenca»! (I)](/articulos/caicedo-y-ffmm-guerra-contra-los-pachenca-i/)

@@ -1,0 +1,40 @@
+---
+title: "«No hay cama p'a tanta gente» con Covid-19! SOS Cartagena (III)"
+pubDate: "2020-05-28 01:40:46"
+author: "Lucio"
+categories: ["Análisis"]
+
+featuredImage: "./hero.jpg"
+---
+
+Es verdad. **«No hay cama p'a tanta gente».** Cartagena está **cundida de Covid—19**. El gobierno nacional intervino el Distrito para adoptar las medidas urgentes que el alcalde **William Dau** debió tomar cuando en marzo implementó el toque de queda. Pasaron dos meses, y los resultados fueron adversos. ¿Las causas? Se pueden identificar: Una ciudad caótica y una administración ídem. **«No hay cama p'a tanta gente enferma de Covid».** La clínica Gestión Salud colapsó. «No cabe un alma». Las camas UCI la desocupan cuando muere el paciente. Son muy pocos los que se salvan cuando entran en estado crítico. El número de fallecimientos intrahospitalario por Covid crece en forma alarmante. Hoy, 8 defunciones. Mañana no se sabe cuánto serán.
+
+## **«No hay cama p'a tanta gente»**
+
+\[caption id="attachment\_11790" align="alignnone" width="1280"\]![](./CUADRO-COVID.jpeg) Hoy, la ocupación hospitalaria Covid—19 está a punto de colapsar: 85%. **«No hay cama p'a tanta gente».** Cortesía Dadis.\[/caption\] Es probable que cuando usted lea este artículo, ya la ocupación Covid—19 haya colapsado. Con urgencia se necesitan 250 camas UCI y 130 camas de cuidado intermedio. UCI está ocupado en un 85%. **«No hay cama p'a tanta gente».** Mientras esto escribo, el Ministerio de Salud informa que hoy miércoles 27 de mayo  las estadísticas son: **120 contagiados y 8 muertos.** En el país 27 muertes y 1.101 Covid—19 positivo. En Bolívar se registraron 16 contaminados. El país sobrepasó los 24.104 mil infectados y llegamos a 803 fallecidos.
+
+> **Por ciudades, la más afectada por las muertes es Bogotá, en donde ha ocurrido el 28 % de las muertes. Le siguen Cartagena, con el 13,6 %; Cali, con el 12,6 %; Leticia, con 6,9 %, y Barranquilla, con 5,7 %. En Tumaco el 2,5 % de los fallecimientos.**
+
+Sin embargo, para Cartagena la situación es grave. Tiene la mitad de las estadísticas de Bogotá que posee una población de 7.4 millones. La Heroica cuenta con 1.07 millones. Es decir, 7 veces menos. Una ciudad con mayor población tiene más interrelación social, es decir, más contacto directo y mayor posibilidad de contagiarse.
+
+## ¿Por qué estamos cundido de Covid—19?
+
+En el Caribe colombiano no hay cohesión social. La desigualdad social y económica nos lleva a una pobreza mental por la falta de una educación de calidad. Incluso, **muchas personas se preguntan si lo del virus es verdad**. No creen que mata. ¿Por qué estamos cundido de Covid—19? Si no hay cohesión social es porque existe desorden social. No existe jerarquía. No hay gobernanza. Tampoco gobernabilidad. No existe desde los años 80s. La elección popular de alcaldes no resolvió la situación de desorden. **Antes, cuando el alcalde era nombrado por el gobernador, existía una cohesión social que venía de arriba hacia abajo.** Se imponía. Se obedecía. ¿Y el alcalde? William Dau inició el relajo, la guachafita y la mamadera de gallo. **Nadie lo toma como un mandatario serio.** Solo miremos el caso del pico y género. **La administración se retractó tres veces por los errores cometidos.** Para saldar la cuenta, se inventó un concurso pendejo para darle cuerda al reloj centenario de la Plaza de la Paz. Pero tampoco eso sirvió.
+
+## La guachafita del «**Tractor»**
+
+**Con esa guachafita perdieron dos meses.** Hoy, cuando comenzamos a pellizcarnos, ya nos encontramos cundido de Covid—19. **«No hay cama p'a tanta gente».** No se preparó la zona de expansión hospitalaria. No aparecieron las 250 camas UCI que anunciaron. Tampoco adecuaron los dos pisos del Hospital Universitario del Caribe. No reorganizaron el mercado público. No aislaron los barrios donde ya se registraban los primeros focos de infección. Se aplicó la cuarentena, pero no se aseguró la asistencia de salud a los residentes. Las ayudas humanitarias no llegaron a tiempo. Los infectados no fueron aislados en sus casas garantizándoles la asistencia médica y las ayudas a toda la familia. **Ejemplo de ello, fue lo que pasó en El Pozón.** En una residencia, por ejemplo, viven dos y hasta tres núcleos familiares. Si un miembro familiar se ve afectado, el Dadis, las Eps y la Unidad de Riesgo no asumieron el control de esa vivienda con el fin de aislarla y socorrerla en sus principales necesidades. Por esto **«no hay cama p'a tanta gente».**
+
+## La primera en colapsar**.**
+
+Somo la segunda ciudad en contagiados y, lo que es peor, en número de muertos. Pero somos la ciudad que está a punto de colapsar por el Covid—19. Es cierto, **«no hay cama p'a tanta gente».** Al tiempo, nos gustan las actividades lúdicas sociales. Jugamos dominó, dados y damas en la terraza de la casa con los vecinos. Nos encontrarnos en la tienda para mamar gallo, hablar de política, del gobierno y del coronavirus. Para remate, en un fin de semana se presentan más de 600 riñas reportadas por la policía. El consumo de alcohol y droga no cesa. Las fiestas clandestinas continúan. A finales de marzo teníamos dos focos del virus. Bocagrande y el centro Histórico. En abril se expandió a El Pozón, Olaya Herrera, La María y Nelson Mandela. **El punto de contaminación fue el mercado de Bazurto**. Los epidemiólogos consultados coincidieron en esto. **El virus voló a esos barrios y a los municipios cercanos de Cartagena:** Santa Rosa, Santa Catalina, Turbaco, Arjona, San Cristobal y Turbana. Los barrios y municipios que interactúan con Bazurto fueron los principales afectados.  Gran parte de esta población trabaja alrededor y en Bazurto. Muchos tienen negocios en la plaza del mercado. Llevan y traen mercancías. El exdirector del Dadis, **Álvaro Fortich, había propuesto tomar medidas de aislamiento de Bazurto**. Dau no hizo caso. **No garantizó la ejecución de un plan integral** que hubiese contenido el virus en el centro, en Bazurto y Bocagrande, los sitios que inicialmente fueron afectados. Consecuencia: **«No hay cama p'a tanta gente» con el nuevo coronavirus.**
+
+## ¿Qué dice Cotelco?
+
+\[caption id="attachment\_11789" align="alignright" width="440"\]![](./luz-estela.jpg) **Luz Stella Flórez,** presidente de Cotelco, tiene la palabra. **«No hay cama p'a tanta gente».** Cortesía\[/caption\] Nunca es tarde para adoptar las medidas necesarias. **Vendrán las camas UCI**. Los respiradores artificiales. Un plan integral de atención. Una zona de expansión hospitalaria, y el gobierno nacional se meterá la mano al dril. Por supuesto, las cosas no las podría contratar el Distrito. E**ntre tanto, los días de William Dau como alcalde están contados.** Si hay justicia disciplinaria, penal y fiscal, en los próximos días lo podrían suspender provisionalmente. Contraloría, Fiscalía y Procuraduría lo tienen en la mira. Si lo hacen, jamás regresaría al palacio de la Aduana. Pero se debería ir por incompetente e inepto, dicen los veedores. Con motivo de la [Asamblea Nacional de Cotelco](/articulos/eventos/pasarela2020) que se realizará en forma virtual, vale la pena tener respuesta frente a esta propuesta: los hoteles deben disponer sus habitaciones para Covid—19. Porque **«no hay cama p'a tanta gente».** **Vale la siguiente pregunta. ¿Qué hotel se le mide para que el Distrito aisle a enfermos de Covid—19?** ¿Qué dicen los Araújo, Hilsaca, y demás empresarios de la ciudad del sector hotelero? Recuerden, hospital viene de hotel, hospitalidad, albergue. ¿Cuántas habitaciones Covid—19 podrán proponer el gremio de hoteleros? ¿Qué dice Luz Stella Flórez Hernández, p**residente de Cotelco? Ustedes tienen la palabra.**
+
+### Te puede interesar:
+
+### [Covid-19: ¡Cartagena se derrumba, y el alcalde de rumba! (I)](/articulos/covid-19-cartagena-se-derrumba-y-el-alcalde-de-rumba-i/)
+
+## [SOS Cartagena: ¡Hoy, 10 muertos! Alcalde de rumba (II)](/articulos/sos-por-cartagena-hoy-10-muertos-la-mitad-del-pais/ "SOS Cartagena: ¡Hoy, 10 muertos! Alcalde de rumba (II)")
