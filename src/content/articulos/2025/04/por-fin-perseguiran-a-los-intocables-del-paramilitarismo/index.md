@@ -46,7 +46,7 @@ La falta de justicia, el desconocimiento de los derechos de **10 millones de ví
 
 ## Matera, Macías y otros
 
-[FISCALIA\_RAFAEL MATERA](/wp-content/uploads/2025/04/FISCALIA_RAFAEL-MATERA-1.pdf)[Descargar](/wp-content/uploads/2025/04/FISCALIA_RAFAEL-MATERA-1.pdf)
+[FISCALIA\_RAFAEL MATERA](FISCALIA_RAFAEL-MATERA-1.pdf)[Descargar](FISCALIA_RAFAEL-MATERA-1.pdf)
 
 Son dos radicados de los procesos de Justicia y Paz que compulsaron copia a la Fiscalía general de la Nación para que acometiera las acciones de su pertinencia. Estos son: los 08001-22-52-0004-2021-00007 y el 08001-22-19-00053-00.
 

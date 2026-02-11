@@ -24,7 +24,7 @@ https://youtu.be/3Uajo0iayRU
 
 ## Duque miente
 
-En esa comunicación ([Carta A Petro Y Francia Que No Se Repita La Historia De Hidrohituango, y Urr](/wp-content/uploads/2022/07/Carta-a-Petro-y-Francia-Que-no-se-Repita-la-Historia-de-Hidrohiruango-y-Urra.pdf)á) se propuso:
+En esa comunicación (Carta A Petro Y Francia Que No Se Repita La Historia De Hidrohituango, y Urr (documento no disponible)á) se propuso:
 
 > "En los Diferentes foros que se han hecho para promocionar el citado proyecto, el gobierno de **Iván Duque Márquez y Martha Lucía Ramírez** le han mentido al País y al mundo. Mienten al manifestar que el proyecto es de **Restauración Ambiental y Ecológica, cuando en realidad es un proyecto netamente económico**. Así quedó evidenciado en las observaciones que hicieran expertos sobre la materia el día 28 de octubre en mesa de trabajo de la Procuraduría Delegada para Asuntos Ambientales y Agrarios. Esta fue instalada a petición de las comunidades".
 

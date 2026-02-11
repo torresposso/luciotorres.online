@@ -47,7 +47,7 @@ Recordemos que en 2018 el Grupo Intergubernamental de Expertos sobre el Cambio C
 
 > "_Este problema se debe fundamentalmente al hecho de que el crecimiento económico previsto impulsa la demanda de energía a un ritmo mayor que el del despliegue de la capacidad de generar energías limpias (Raftery et al., 2017). Esto ya ha supuesto un problema en el siglo xxi. A día de hoy, el mundo genera anualmente 8.000 millones más de megavatios/hora de energía limpia que en el año 2000, lo que es un aumento importante. Sin embargo, durante este mismo periodo, la demanda de energía aumentó en 48.000 millones de megavatios/hora"_.
 > 
-> [El DECRECIMIENTO: La teoría de la abundancia radical](/wp-content/uploads/2020/01/El_decrecimiento_la_teoria_de_la_abundancia_radical_ESF_2020_compressed-1.pdf).
+> El DECRECIMIENTO: La teoría de la abundancia radical (documento no disponible).
 
 En síntesis, esta teoría señala que el ritmo habitual de crecimiento económico llevará a rebasar el límite de dióxido de carbono a mediano plazo. Pero esto no supondrá un problema si eliminamos el dióxido de carbono (CO2) de la atmósfera a lo largo de este siglo. Y aquí reside el problema.
 

@@ -98,4 +98,4 @@ Todos estos derechos les fueron reconocidos a 500 docentes convencionales y del 
 
 ## El viacrucis de 68 docentes de convención
 
-[SINOPSIS DE UN VIACRUCIS FRAGUADO POR INSOLIDARIDAD (1)](/wp-content/uploads/2024/12/SINOPSIS-DE-UN-VIACRUCIS-FRAGUADO-POR-INSOLIDARIDAD-1.pdf)[Descargar](/wp-content/uploads/2024/12/SINOPSIS-DE-UN-VIACRUCIS-FRAGUADO-POR-INSOLIDARIDAD-1.pdf)
+SINOPSIS DE UN VIACRUCIS FRAGUADO POR INSOLIDARIDAD (1) (documento no disponible)Descargar (documento no disponible)

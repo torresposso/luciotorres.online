@@ -87,4 +87,4 @@ Y terminó diciendo:
 
 > Siempre (traté) de acercarme al convocado (Alex Char) y siempre me rechazó.
 
-[SOLICITUD\_DE\_CONCILIACIÓN\_STEVEN\_CHAR\_redacted](/wp-content/uploads/2025/10/SOLICITUD_DE_CONCILIACION_STEVEN_CHAR_redacted.pdf)[Descargar](/wp-content/uploads/2025/10/SOLICITUD_DE_CONCILIACION_STEVEN_CHAR_redacted.pdf)
+[SOLICITUD\_DE\_CONCILIACIÓN\_STEVEN\_CHAR\_redacted](SOLICITUD_DE_CONCILIACION_STEVEN_CHAR_redacted.pdf)[Descargar](SOLICITUD_DE_CONCILIACION_STEVEN_CHAR_redacted.pdf)

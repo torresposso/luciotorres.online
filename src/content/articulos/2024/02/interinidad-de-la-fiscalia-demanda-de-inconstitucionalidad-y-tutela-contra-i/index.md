@@ -51,4 +51,4 @@ En la próxima entrega se analizará la tutela radicada hoy por el profesor **Al
 
 Esta es la demanda radicada por el jurista ante la Corte Constitucional.
 
-## [Descargue](/wp-content/uploads/2024/02/INCONSTITUCIONALIDAD_CONTRA_EL_DECRETO_LEY_016_DEL_240212_095134-2.pdf) (dele clic) [la demanda de nulidad](/wp-content/uploads/2024/02/INCONSTITUCIONALIDAD_CONTRA_EL_DECRETO_LEY_016_DEL_240212_095134-2.pdf)
+## Descargue (documento no disponible) (dele clic) la demanda de nulidad (documento no disponible)

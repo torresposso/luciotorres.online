@@ -83,7 +83,7 @@ Sin embargo, la fiscal que tiene a su conocimiento las investigaciones penales d
 
 ¿Por qué esta mora en la actuación de la fiscal? Existe indicios de que probablemente se debe a la fuerza política y económica del principal implicado. Cuenta con el apoyo de un jefe político que ha recobrado el mayor poder en el departamento de Bolívar.
 
-Vale destacar que todo el entramado criminal ―de acuerdo al estado del proceso― apunta al concejal de Cambio Radical, **[Pedro de Jesús Aponte García](/wp-content/uploads/2024/05/H.V.-PEDRO-DE-JESUS-APONTE-GARCIA.pdf)**. Un gris abogado, nacido en Santa Marta en 1988. Residía en Las Gavias del barrio Líbano, al sur de Cartagena. En este sitio vivió con su padre del mismo nombre y también abogado penalista de delincuentes de _baja estofa_.
+Vale destacar que todo el entramado criminal ―de acuerdo al estado del proceso― apunta al concejal de Cambio Radical, **Pedro de Jesús Aponte García (documento no disponible)**. Un gris abogado, nacido en Santa Marta en 1988. Residía en Las Gavias del barrio Líbano, al sur de Cartagena. En este sitio vivió con su padre del mismo nombre y también abogado penalista de delincuentes de _baja estofa_.
 
 ## Aponte, «el hombre de atrás**»**
 

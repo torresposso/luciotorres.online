@@ -106,11 +106,11 @@ El mismo **Salvatore Mancuso Gómez** máximo ex comandante de las AUC  bajo ju
 
 ¿Sabe de quién era esa finca, Señora Fiscal? El propietario era **Alfonso Macías Vargas**. Ahora pasó a sus hijos **Alfonso Macias Azuero,** identificado con cédula de ciudadanía No. 72.308.680 y **Olga Lucia Macias Azuero**, identificada con cédula de ciudadanía No 22.581.852. Ahora pasó a su empresa familiar Inversiones Macias Azuero & Compañía S. En C. con Nit No. 800.079.868.-8.
 
-[Finca POTOSÍ-Certificado de tradición-ElCopey](/wp-content/uploads/2025/01/oficina-de-registro-de-instrumentos-publicos.pdf)[Descargar](/wp-content/uploads/2025/01/oficina-de-registro-de-instrumentos-publicos.pdf)
+Finca POTOSÍ-Certificado de tradición-ElCopey (documento no disponible)Descargar (documento no disponible)
 
 Se le recuerda que **Alfonso Macias Azuero**, según declaraciones los ex jefes paramilitares, ayudó a su padre, **Alfonso Macias Vargas**, a remover con un bulldozer las fosas comunes donde yacían los cuerpos de los desaparecidos del paramilitarismo en su finca POTOSI. Si no lo sabía doctora **Luz Adriana Camargo**, lea las compulsas de copia emitidas por el Tribunal de Justicia y Paz así como lo hizo este periodista para escribir narrar este horror de Los Intocables.
 
-[FINCA POTOSÍ-Cámara de Comercio](/wp-content/uploads/2025/01/FINCA-POTOSI-Camara-de-Comercio.pdf)[Descargar](/wp-content/uploads/2025/01/FINCA-POTOSI-Camara-de-Comercio.pdf)
+FINCA POTOSÍ-Cámara de Comercio (documento no disponible)Descargar (documento no disponible)
 
 ## Su palabra
 

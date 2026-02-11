@@ -18,7 +18,7 @@ Consideran los nativos que el día 28 de enero de 2021, a las 8:30 de la mañana
 
 ## Familia Girado denunció
 
-Para los denunciantes existió indebida notificación. Pero se fueron al sitio (parqueadero de playa blanca) y se encontraron a la inspectora solamente con el perito y la parte demandante, el abogado representante de Gabriel Echavarría. Ellos les hicieron saber que en el citatorio no aparecía especificado los linderos y medidas del bien objeto de inspección ocular y no le presto atención a la reclamación. (Lea: [Denuncia penal](/wp-content/uploads/2021/08/denuncia-Fiscalia-Girado.pdf)).
+Para los denunciantes existió indebida notificación. Pero se fueron al sitio (parqueadero de playa blanca) y se encontraron a la inspectora solamente con el perito y la parte demandante, el abogado representante de Gabriel Echavarría. Ellos les hicieron saber que en el citatorio no aparecía especificado los linderos y medidas del bien objeto de inspección ocular y no le presto atención a la reclamación. (Lea: Denuncia penal (documento no disponible)).
 
 Por esa razón, no fueron notificadas en legal forma, lo que amerita pedir la nulidad de acuerdo a lo preceptuado en el artículo **133 del CGP**, numeral 8. 
 

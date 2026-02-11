@@ -72,4 +72,4 @@ En suma, podríamos sintetizar a los protagonistas de este enredo mafioso relata
 
 ## Lea el comunicado de la familia
 
-[Dian\_atentado\_COMUNICADO DE PRENSA 27-04-2025](/wp-content/uploads/2025/04/Dian_atentado_COMUNICADO-DE-PRENSA-27-04-2025.pdf)[Descargar](/wp-content/uploads/2025/04/Dian_atentado_COMUNICADO-DE-PRENSA-27-04-2025.pdf)
+[Dian\_atentado\_COMUNICADO DE PRENSA 27-04-2025](Dian_atentado_COMUNICADO-DE-PRENSA-27-04-2025.pdf)[Descargar](Dian_atentado_COMUNICADO-DE-PRENSA-27-04-2025.pdf)

@@ -40,7 +40,7 @@ Pero estos hechos trascendieron la intimidad de Prasca. La denuncia viene de la 
 
 ## Le piden al procurador que destituyan al rector
 
-[Lea: DENUNCIA CONTRA PRASCA](/wp-content/uploads/2019/01/DENUNCIA-CONTRA-PRASCA.pdf)[Descargar](/wp-content/uploads/2019/01/DENUNCIA-CONTRA-PRASCA.pdf)
+Lea: DENUNCIA CONTRA PRASCA (documento no disponible)Descargar (documento no disponible)
 
 Mientras tanto, estudiantes le pidieron a la Procuraduría Regional inicie una **investigación disciplinaria** y suspenda provisionalmente por tres meses al rector Prasca. El argumento de los denunciantes, acogido por **Fernando Carrillo**, quien visitó el _alma mater_ en solidaridad con las estudiantes, se fundamenta en que el funcionario cuestionado violó los artículos 34 y 35 del Código Disciplinario Único (Ley 734 de 2002).
 

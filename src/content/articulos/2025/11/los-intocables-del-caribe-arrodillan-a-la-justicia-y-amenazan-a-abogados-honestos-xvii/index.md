@@ -91,4 +91,4 @@ Si ese día vuelve a aplazarse la audiencia, el caso prescribirá y **la amenaz
 Será, una vez más, **la victoria de los Intocables del Caribe sobre la justicia**.  
 Y en ese silencio judicial, quedará claro que en Barranquilla, como en Macondo, **la impunidad también se hereda.**
 
-[Nuevo doc 2020-02-03 08.53.07\_20200203085544](/wp-content/uploads/2025/11/Nuevo-doc-2020-02-03-08.53.07_20200203085544.pdf)[Descargar](/wp-content/uploads/2025/11/Nuevo-doc-2020-02-03-08.53.07_20200203085544.pdf)
+[Nuevo doc 2020-02-03 08.53.07\_20200203085544](Nuevo-doc-2020-02-03-08.53.07_20200203085544.pdf)[Descargar](Nuevo-doc-2020-02-03-08.53.07_20200203085544.pdf)

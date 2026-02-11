@@ -101,4 +101,4 @@ En las próximas entregas, se realizará un razonamiento lógico de las pruebas 
 
 ## La sentencia de absolución de Hilsaca
 
-[Turco-889165307-Tribunal-dejo-en-firme-absolucion-de-Alfonso-del-Cristo-Hilsaca-Eljaude](/wp-content/uploads/2025/07/Turco-889165307-Tribunal-dejo-en-firme-absolucion-de-Alfonso-del-Cristo-Hilsaca-Eljaude.pdf)[Descargar](/wp-content/uploads/2025/07/Turco-889165307-Tribunal-dejo-en-firme-absolucion-de-Alfonso-del-Cristo-Hilsaca-Eljaude.pdf)
+[Turco-889165307-Tribunal-dejo-en-firme-absolucion-de-Alfonso-del-Cristo-Hilsaca-Eljaude](Turco-889165307-Tribunal-dejo-en-firme-absolucion-de-Alfonso-del-Cristo-Hilsaca-Eljaude.pdf)[Descargar](Turco-889165307-Tribunal-dejo-en-firme-absolucion-de-Alfonso-del-Cristo-Hilsaca-Eljaude.pdf)

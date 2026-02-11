@@ -94,4 +94,4 @@ La curiosidad nos llevará a explorar otras razones que determinó esa decisión
 
 ## Lea la Tutela que dio vida jurídica al «cheque en blanco»
 
-[Hato-Viejo\_tutela\_-2022-00289-M](/wp-content/uploads/2022/11/Hato-Viejo_tutela_-2022-00289-M.pdf)[Descarga](/wp-content/uploads/2022/11/Hato-Viejo_tutela_-2022-00289-M.pdf)
+Hato-Viejo\_tutela\_-2022-00289-M (documento no disponible)Descarga (documento no disponible)

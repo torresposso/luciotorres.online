@@ -7,7 +7,7 @@ categories: ["Análisis","Investigación"]
 featuredImage: "./hero.jpg"
 ---
 
-![](./Guillermo-Avila-2.jpg)Otra falsedad ideológica de la administracion Dau. El proyecto de acuerdo **No 044 del 2020** de alumbrado público presentado por el alcalde de Cartagena **William Dau Chamat,** es más falso que una moneda de cuero. La certificación anexada por su Secretario de Planeación **Guillermo Avila falsea la realidad**. Contrario a lo que Ávila certifica, su contenido no está contemplado en el acuerdo [**No 027 DE 2020 del Plan de Desarrollo Salvemos a Cartagena**](/wp-content/uploads/2020/04/PLAN-DE-DESARROLLO-1.pdf). ![](./alumbrado_Mesa-de-trabajo-1-copia-3_Mesa-de-trabajo-1-copia-3-1024x909.jpg)
+![](./Guillermo-Avila-2.jpg)Otra falsedad ideológica de la administracion Dau. El proyecto de acuerdo **No 044 del 2020** de alumbrado público presentado por el alcalde de Cartagena **William Dau Chamat,** es más falso que una moneda de cuero. La certificación anexada por su Secretario de Planeación **Guillermo Avila falsea la realidad**. Contrario a lo que Ávila certifica, su contenido no está contemplado en el acuerdo **No 027 DE 2020 del Plan de Desarrollo Salvemos a Cartagena** (documento no disponible). ![](./alumbrado_Mesa-de-trabajo-1-copia-3_Mesa-de-trabajo-1-copia-3-1024x909.jpg)
 
 ## La audiencia del concejo
 

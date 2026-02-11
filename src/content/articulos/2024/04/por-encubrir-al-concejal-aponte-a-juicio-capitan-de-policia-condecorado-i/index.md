@@ -82,6 +82,6 @@ Tanto es así, que algunos de ellos solo esperaban el día señalado. Se sabía 
 
 En la **próxima entrega** analizaremos el caso del exconcejal Luis Javier Cassiani Valiente y de otros concejales en el complot y el juicio contra Cadena Tanganá.
 
-[Escrito\_de\_Acusacion\_](/wp-content/uploads/2024/04/Escrito_de_Acusacion_CADENA1.pdf)[Descargar](/wp-content/uploads/2024/04/Escrito_de_Acusacion_CADENA1.pdf)
+Escrito\_de\_Acusacion\_ (documento no disponible)Descargar (documento no disponible)
 
 vcvc

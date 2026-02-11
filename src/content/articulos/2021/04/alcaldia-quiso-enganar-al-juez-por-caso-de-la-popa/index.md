@@ -33,7 +33,7 @@ Es menester señalar que esas pruebas la reafirmaron en la audiencia de incident
 
 Y para que no haya duda de que la alcaldía quiso engañar al juez, el abogado relacionó las «pruebas» presentadas al juez en el mismo oficio. De esta manera reafirmaron las mismas pruebas el día de la audiencia.
 
-> _«Pruebas que se Aportan: Copia del convenio interadministrativo No. 003 suscrito entre el Distrito de Cartagena y la Empresa EDURBE S.A. Informe de avances de intervención en cumplimiento del plan de acción específico Cerro de la Popa – **salto del cabrón distrito de Cartagena.** Informe del Censo realizado por organismos de prevención. Copia de Oficio EPA-OFI-002228-2020, mediante la cual se convoca mesa de trabajo»_. ([Lea el informe del Distrito y constate las falsedades](/wp-content/uploads/2021/04/Informe-Incidente-Desacato-2015-00053.pdf)).
+> _«Pruebas que se Aportan: Copia del convenio interadministrativo No. 003 suscrito entre el Distrito de Cartagena y la Empresa EDURBE S.A. Informe de avances de intervención en cumplimiento del plan de acción específico Cerro de la Popa – **salto del cabrón distrito de Cartagena.** Informe del Censo realizado por organismos de prevención. Copia de Oficio EPA-OFI-002228-2020, mediante la cual se convoca mesa de trabajo»_. (Lea el informe del Distrito y constate las falsedades (documento no disponible)).
 
 Resulta que las obras de Salto del Cabrón del Cerro de la Popa fueron ejecutadas por Edurbe respondiendo a la urgencia manifiesta. No así a la orden judicial de la Acción Popular, ya que ésta tiene otros objetivos específicos.
 

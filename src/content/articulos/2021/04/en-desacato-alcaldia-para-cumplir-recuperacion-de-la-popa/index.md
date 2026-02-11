@@ -23,7 +23,7 @@ El proceso se inició con una Acción Popular que presentó la Defensoría del P
 
 También ordenó:
 
-> _«El ESTABLECIMINETO PUBLICO AMBIENTAL, deberá aprobar e implementar un PLAN DE PROTECCION AMBIENTAL INTEGRAL para el cerro de la Popa en la ciudad de Cartagena, teniendo en cuenta los considerandos de esta providencia. **Para tal efecto se concede el término de un (1) año»**_. ([Lea el fallo](/wp-content/uploads/2021/04/ACCION-POPULAR-PARTE-UNO-CERRO-DE-LA-POPA.pdf)).
+> _«El ESTABLECIMINETO PUBLICO AMBIENTAL, deberá aprobar e implementar un PLAN DE PROTECCION AMBIENTAL INTEGRAL para el cerro de la Popa en la ciudad de Cartagena, teniendo en cuenta los considerandos de esta providencia. **Para tal efecto se concede el término de un (1) año»**_. ([Lea el fallo](ACCION-POPULAR-PARTE-UNO-CERRO-DE-LA-POPA.pdf)).
 
 Ese fallo fue apelado por la alcaldía ante el Tribunal Administrativo de Bolívar. Pero en agosto de 2019, ratificó el fallo de primera instancia. Ordenó que la alcaldía debe realizar de inmediato un censo de población de los 5 barrios ilegales que existían en esa época. Podemos mencionar **Kennedy**, **El Hoyo**, **La Bendición de Dios, Loma del Rosario y la Boca del Diablo**. 
 

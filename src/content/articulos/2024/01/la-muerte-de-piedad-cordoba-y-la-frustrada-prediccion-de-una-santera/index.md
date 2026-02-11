@@ -16,11 +16,11 @@ Desde que la santera ―cuyo nombre el periodista Gerardo Reyes no reveló en su
 
 En el 2010, según el Ministerio Público, la congresista incurrió en falta gravísima a título de dolo porque supuestamente había contribuido económicamente a la campaña del entonces candidato a la Cámara de Representantes, Ricardo Antonio Montenegro Velásquez. La inhabilitó por 14 años y no pudo presentarse a las presidenciales. Lo propio había hecho con el exalcalde de entonces, Gustavo Petro.
 
-Después de ser un cadáver político, Piedad Córdoba revivió con el levantamiento de su inhabilidad política por parte del [Consejo de Estado](/wp-content/uploads/2016/10/ANULAN-SANCI%C3%93N-DE-LA-PROCURADUR%C3%8DA-A-EXSENADORA-PIEDAD-C%C3%93RDOBA.pdf). La Comisión Segunda, al anular el fallo de Ordoñez, llegó a la siguiente conclusión:
+Después de ser un cadáver político, Piedad Córdoba revivió con el levantamiento de su inhabilidad política por parte del Consejo de Estado (documento no disponible). La Comisión Segunda, al anular el fallo de Ordoñez, llegó a la siguiente conclusión:
 
 > «(...) la investigación de la Procuraduría General de la Nación se basó en conjeturas e indicios que no fueron demostrados y que no constituyen medios de prueba a la luz del Código Disciplinario.»
 > 
-> [ANULAN SANCIÓN DE LA PROCURADURÍA A EXSENADORA PIEDAD CÓRDOBA](/wp-content/uploads/2016/10/ANULAN-SANCI%C3%93N-DE-LA-PROCURADUR%C3%8DA-A-EXSENADORA-PIEDAD-C%C3%93RDOBA.pdf)
+> ANULAN SANCIÓN DE LA PROCURADURÍA A EXSENADORA PIEDAD CÓRDOBA (documento no disponible)
 
 ## Piedad Córdoba, una mujer de _hacha y machete_
 

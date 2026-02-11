@@ -27,7 +27,7 @@ Los líderes de la protesta denunciaron que el ESMAD está usando no solo gases 
 
 https://twitter.com/Gu2Hail/status/1393040400550596609?s=20
 
-Si eso es así, la Policía Nacional entraría en desacato frente a una acción de tutela que tuteló el derecho a la salud y a la vida de una persona contra el Estado colombiano por los constantes ataques del ESMAD con gases tóxicos. El [**Juzgado Quinto Laboral del Circuito de Bogotá**](/wp-content/uploads/2020/11/Fallo-de-Tutela.pdf) ordenó, de forma inmediata, al Presidente de la República y a la Nación – Ministerio Defensa Nacional – Policía Nacional **que suspenda el uso de los siguientes agentes químicos durante las protestas ciudadanas que se realicen:**
+Si eso es así, la Policía Nacional entraría en desacato frente a una acción de tutela que tuteló el derecho a la salud y a la vida de una persona contra el Estado colombiano por los constantes ataques del ESMAD con gases tóxicos. El **Juzgado Quinto Laboral del Circuito de Bogotá** (documento no disponible) ordenó, de forma inmediata, al Presidente de la República y a la Nación – Ministerio Defensa Nacional – Policía Nacional **que suspenda el uso de los siguientes agentes químicos durante las protestas ciudadanas que se realicen:**
 
 1.  El dispositivo lanzador de pimienta con propulsión pirotécnica, gas o aire comprimido.  
 2.  Las granadas con carga química CS, OC.  

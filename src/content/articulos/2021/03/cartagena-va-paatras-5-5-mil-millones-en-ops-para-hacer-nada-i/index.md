@@ -59,7 +59,7 @@ Elizabeth Diaz, en forma dubitativa, respondió:
 
 > _«Bueno... No teníamos plan de desarrollo. Solo en agosto de 2020 fue el inicio del plan de desarrollo. Y por eso contratamos menos profesionales y personal de ayuda a la gestión»_.
 
-En otras palabras, en el primer semestre hicieron nada. «Solo en agosto» comenzaron a gestionar. ¿Qué gestionaron? Nada. **Por el contrario, casi pierden los recursos del proyecto Ciudadela de la Paz.** Se pudo salvar este proyecto gracias a que los sindicatos del Distrito promovieron un debate de control político en el concejo en julio de 2020. Los recursos para las siguientes etapas de construcción del proyecto se encontraban consignados en la fiduciaria La Previsora desde enero. **Esto se llama negligencia, ineptitud y corrupción administrativa. (**[Lea el informe de gestión contractual de Corvivienda)](/wp-content/uploads/2021/03/Informe-de-gesti%C3%B3n-contrataci%C3%B3n-Corvivienda.pdf)**.**
+En otras palabras, en el primer semestre hicieron nada. «Solo en agosto» comenzaron a gestionar. ¿Qué gestionaron? Nada. **Por el contrario, casi pierden los recursos del proyecto Ciudadela de la Paz.** Se pudo salvar este proyecto gracias a que los sindicatos del Distrito promovieron un debate de control político en el concejo en julio de 2020. Los recursos para las siguientes etapas de construcción del proyecto se encontraban consignados en la fiduciaria La Previsora desde enero. **Esto se llama negligencia, ineptitud y corrupción administrativa. (**Lea el informe de gestión contractual de Corvivienda) (documento no disponible)**.**
 
 ## «La niña de sus ojos»
 

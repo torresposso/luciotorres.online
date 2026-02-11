@@ -55,4 +55,4 @@ No obstante, para el alcalde de Barranquilla, **Alejandro Char Chaljub**, la exp
 
 **«_Hijo negado, sale pintado_»**. Sin equívocos, este dicho se cumple con el hijo negado de Alex Char. No hay la menor duda razonable para no creer que **el mentón de Steven es de los Char Chaljub**. Si no alteran la prueba genética de **Alejandro**, seguramente la familia Char tendrá un psicólogo para que dirija las terapias mentales que necesitan sus miembros.
 
-[SECUENCIA 7679](/wp-content/uploads/2025/07/SECUENCIA-7679.pdf)[Descargar](/wp-content/uploads/2025/07/SECUENCIA-7679.pdf)
+[SECUENCIA 7679](SECUENCIA-7679.pdf)[Descargar](SECUENCIA-7679.pdf)

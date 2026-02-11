@@ -63,7 +63,7 @@ Cuando extraditan a un personaje como alias «Otoniel», nos hace recordar cuand
 
 ## Una guerra perdida
 
-No obstante,  esa guerra se ha perdido, según varios estudios internacionales. Por ejemplo, puede citarse el de la [Rights Human Fundation.](/wp-content/uploads/2019/05/WoD_Online-version-FINAL.pdf) En Estados Unidos, cuando el corrupto y adicto al alcohol **Richard Nixon lanzó en 1971** este plan denominado **guerra contra las drogas**, 1 norteamericano moría de **sobredosis** por cada 100 mil habitantes. Hoy mueren 6. Esta guerra ha producido mucho más muertes por las acciones de las organizaciones criminales asociadas al negocio. Es un fracaso total en salud y seguridad ciudadana. 
+No obstante,  esa guerra se ha perdido, según varios estudios internacionales. Por ejemplo, puede citarse el de la Rights Human Fundation. (documento no disponible) En Estados Unidos, cuando el corrupto y adicto al alcohol **Richard Nixon lanzó en 1971** este plan denominado **guerra contra las drogas**, 1 norteamericano moría de **sobredosis** por cada 100 mil habitantes. Hoy mueren 6. Esta guerra ha producido mucho más muertes por las acciones de las organizaciones criminales asociadas al negocio. Es un fracaso total en salud y seguridad ciudadana. 
 
 Aunque el narcotráfico produce ingentes recursos financieros a los grandes empresarios asociados al negocio, los gobiernos del imperio han invertido, en medio siglo de guerra contra las drogas, una suma que va de **300 trillones a 640 mil millones de dólares**, según datos de esos estudios.
 

@@ -48,7 +48,7 @@ Según el artículo 73 de los estatutos de la empresa, actualizados hasta el 201
 
 > En ningún evento los aportes estatales, directos o indirectos, podrán exceder del ochenta y nueve por ciento (89%) del capital suscrito. Cuando sea del caso, el Municipio o las entidades estatales deberán poner en venta las acciones necesarias para mantener el porcentaje máximo indicado.
 > 
-> Estatutos actualizados hasta 2019. [Sus estatutos](/wp-content/uploads/2019/08/ESTATUTOS%20ACTUALIZADO%20A%20CORTE%20DE%202%20JULIIO%20DE%202019..pdf))
+> Estatutos actualizados hasta 2019. Sus estatutos (documento no disponible))
 
 La verdadera intención de ese artículo es perpetuar el control de los privados sobre la Triple AAA. ¿Es constitucional ese dique que le pusieron a las acciones del municipio de Barranquilla? Sin duda, es anticonstitucional. Porque la única exigencia para una empresa de economía mixta es que su participación accionaria sea superior al 50%. ¿Por qué la llevaron hasta tener solo el 15%? Desnaturalizaron la empresa Triple A.
 
@@ -58,7 +58,7 @@ En aquella época vivimos esa situación como periodista, pero también como con
 
 Sin embargo, 5 años más tarde, los españoles y algunos colombianos torcidos (INASSA S.A.) operadores privados, se compincharon con uno de los gobiernos del Movimiento Ciudadano (**Edgar George González**) y algunos accionistas minoritarios para **modificar ilegalmente la estructura tarifaria**. Y así robarle el dinero a los barranquilleros. En esta asamblea de 1996, como si saliera del cubilete de un mago, **fue creada la acción tipo C**. Fueron **8.385.324 acciones Clase C**. o sea, el **43.31%** del total accionario, que suscribió a partir de la correspondiente oferta privada.
 
-De manera que para lograr ese cometido, modificaron el artículo 82 de los estatutos que se elevó a **escrituras públicas Nos. 2845 del 21 de octubre de 1996 y 2988** del 1o. de noviembre de 1996 de la Notaría Tercera de Barranquilla, respectivamente. ([Ver sus estatutos](/wp-content/uploads/2019/08/ESTATUTOS%20ACTUALIZADO%20A%20CORTE%20DE%202%20JULIIO%20DE%202019..pdf)).
+De manera que para lograr ese cometido, modificaron el artículo 82 de los estatutos que se elevó a **escrituras públicas Nos. 2845 del 21 de octubre de 1996 y 2988** del 1o. de noviembre de 1996 de la Notaría Tercera de Barranquilla, respectivamente. (Ver sus estatutos (documento no disponible)).
 
 ## **«Tío Christian»** y la toma de Triple A
 

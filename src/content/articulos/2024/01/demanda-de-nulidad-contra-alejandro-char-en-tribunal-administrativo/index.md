@@ -77,4 +77,4 @@ Esta demanda se fundamenta en mi rol de ciudadano colombiano, defensor de los de
 
 ## Lea la demanda y comparta la noticia y el video. Toda Barranquilla debe saber que tiene un alcalde tramposo
 
-[DEMANDA-DE-NULIDAD-ELECTORAL-CONTRA-LA-ELECCION-DE-ALEX-CHAR](/wp-content/uploads/2024/01/DEMANDA-DE-NULIDAD-ELECTORAL-CONTRA-LA-ELECCION-DE-ALEX-CHAR.pdf)[Descargar](/wp-content/uploads/2024/01/DEMANDA-DE-NULIDAD-ELECTORAL-CONTRA-LA-ELECCION-DE-ALEX-CHAR.pdf)
+DEMANDA-DE-NULIDAD-ELECTORAL-CONTRA-LA-ELECCION-DE-ALEX-CHAR (documento no disponible)Descargar (documento no disponible)

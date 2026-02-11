@@ -19,7 +19,7 @@ Para respondernos esa pregunta de ¿dónde está el ladrón? basta con hacer un 
 
 ## **Cuentas claras**
 
-**Analicemos el contrato (déle clic) [Contrato No 07-20](/wp-content/uploads/2020/04/Contrato-No-07-20.pdf) por $1.215 millones.** Dau compró 10 mil litros de gel, con un sobreprecio de **$33 mil por litro** para un total en este rubro de **$330 millones**. Si lo comparamos con la compra de Blel, el sobreprecio es de $21 mil. **Pero este mismo gel a precio de proveedor local nos costaría $16 mil el litro**. (Vea la lista de precios de un proveedor reconocido y haga una revisión general en Mercado Libre). El sobreprecio es de $33 mil por cada litro, o sea, **$330 millones** -dineros de los cartageneros- que le dio al contratista.
+**Analicemos el contrato (déle clic) [Contrato No 07-20](Contrato-No-07-20.pdf) por $1.215 millones.** Dau compró 10 mil litros de gel, con un sobreprecio de **$33 mil por litro** para un total en este rubro de **$330 millones**. Si lo comparamos con la compra de Blel, el sobreprecio es de $21 mil. **Pero este mismo gel a precio de proveedor local nos costaría $16 mil el litro**. (Vea la lista de precios de un proveedor reconocido y haga una revisión general en Mercado Libre). El sobreprecio es de $33 mil por cada litro, o sea, **$330 millones** -dineros de los cartageneros- que le dio al contratista.
 
 RELACIÓN COMPARATIVA GOBERNACIÓN DE BOLÍVAR Y ALCALDIA
 

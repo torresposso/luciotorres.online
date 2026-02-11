@@ -30,7 +30,7 @@ A raíz de la petición hecha por los campesinos de Cachenche, el gobernador de 
 
 Como se recordará, en marzo de 2021 se inició el desalojo de los campesinos de Cachenche. Hecho que fue abortado en abril por la decisión de la tutela que falló a favor de los labriegos y que fue confirmnada en segunda instancia por el fraude a resolución judicial. ¿Por qué? Porque estaría incumpliendo el fallo de tutela de Segunda Instancia el Juzgado Primero Penal del Circuito de Turbaco (Bolívar).
 
-En esa ocasión el gobernador fue mediador para que no desalojaran a los campesinos hasta que se clarificara su situación.   Por tanto, es esta la razón para que el gobernador haga uso de sus facultades en beneficio de esa jurisprudencia y de sus funciones constitucionales y legales. ([Ver la petición de los campesinos al gobernador](/wp-content/uploads/2021/08/PETICION-CAMPESINOS-CACHENCHE-.pdf)).
+En esa ocasión el gobernador fue mediador para que no desalojaran a los campesinos hasta que se clarificara su situación.   Por tanto, es esta la razón para que el gobernador haga uso de sus facultades en beneficio de esa jurisprudencia y de sus funciones constitucionales y legales. (Ver la petición de los campesinos al gobernador (documento no disponible)).
 
 Esa petición también se la dirigieron al comandante de la Policía de Bolívar, Tahir Rivera Suescún, al presidente nacional de la SAE, Andrés Alberto Ávila Ávila y al ministro de Hacienda José Manuel Restrepo.
 

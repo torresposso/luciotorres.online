@@ -52,7 +52,7 @@ Ante ese hecho probatorio, los agentes de la Sijin cerraron de inmediato la esta
 
 > "El hidrocarburo (para la venta) no cuenta con original y copia de la guía única de transporte terrestre de combustible por lo que se procede a realizar el procedimiento de incautación quedando en custodia del señor Edison Pérez Ramírez, en las instalaciones de la estación de servicio automotriz".
 > 
-> [Acta de incautación y cierre de la estación de gasolina San Miguel.](/wp-content/uploads/2023/09/INFORME-EDS-SAN-MIGUEL-1.pdf)
+> Acta de incautación y cierre de la estación de gasolina San Miguel. (documento no disponible)
 
 ## Transporte y venta ilegal de combustibles
 

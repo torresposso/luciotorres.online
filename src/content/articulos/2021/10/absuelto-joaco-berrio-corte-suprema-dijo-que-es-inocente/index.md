@@ -24,7 +24,7 @@ En efecto, en la página 71 de la sentencia de absolución se señala que el arg
 
 El magistrado ponente, Jorge Emilio Caldas Vera, rebatió los planteamientos del ente acusador y consideró que Joaco Berrío es inocente. 
 
-Así fue la absolución: «Absolver a Joaco Hernando Berrío Villarreal, de la acusación que como autor del delito de prevaricato por omisión presentó la Fiscalía General de la nación en su contra». Para los que quieran leer la sentencia de absolución pueden picar aquí: [No 00128-2021](/wp-content/uploads/2021/10/JOACO-SEP-00128-2021-ACTA-86-14-10-2021-50211.pdf).
+Así fue la absolución: «Absolver a Joaco Hernando Berrío Villarreal, de la acusación que como autor del delito de prevaricato por omisión presentó la Fiscalía General de la nación en su contra». Para los que quieran leer la sentencia de absolución pueden picar aquí: No 00128-2021 (documento no disponible).
 
 ## Un dilatado caso
 

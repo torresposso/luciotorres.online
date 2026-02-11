@@ -10,7 +10,7 @@ featuredImage: "./hero.jpg"
 ![Se desploma Char, perdió 25,1% en solo tres meses. . Dumek Turbay ascendió y ¿Comienza a desmoronarse el Califato Daeschariano?](./Du_Char_Yahir.jpg)
 *Dumek Turbay ascendió y Alejandro Char perdió 26,1% en solo tres meses. ¿Comienza a desmoronarse el Califato Daeschariano?*
 
-Se desploma Char. En tres meses **perdió 26,1%**. ¿Por qué tanto en poco tiempo? Es la principal noticia de la [Gran Encuesta del Caribe](/wp-content/uploads/2024/04/SEGUNDA-GRAN-ENCUESTA-DEL-CARIBE-ABRIL-2024.pdf) del mes de julio. La medición del alcalde de Barranquilla nos trajo una gran sorpresa: La imagen positiva (66%) de **Alejandro Char Chaljub** está lejos del 93% de abril. Contrario a ello, la imagen positiva (**81%**) del alcalde de Cartagena **Dumek Turbay Paz** creció en forma sostenida.
+Se desploma Char. En tres meses **perdió 26,1%**. ¿Por qué tanto en poco tiempo? Es la principal noticia de la Gran Encuesta del Caribe (documento no disponible) del mes de julio. La medición del alcalde de Barranquilla nos trajo una gran sorpresa: La imagen positiva (66%) de **Alejandro Char Chaljub** está lejos del 93% de abril. Contrario a ello, la imagen positiva (**81%**) del alcalde de Cartagena **Dumek Turbay Paz** creció en forma sostenida.
 
 En este informe analizaremos las causas de los hallazgos de esta medición del mes de julio sobre la opinión positiva y negativa en las ciudades capitales de la región.
 
@@ -37,7 +37,7 @@ En la próxima entrega, analizaremos los resultados de la gobernación donde **Y
 
 La citada encuesta fue dirigida por el economista **Oscar Brieva**, gerente de **Mediciones Estratégica** avalada por el Consejo Nacional Electora―CNE.
 
-Se adjunta los resultados de la La [Gran Encuesta del Caribe](/wp-content/uploads/2024/04/SEGUNDA-GRAN-ENCUESTA-DEL-CARIBE-ABRIL-2024.pdf) (déle clic) sobre la imagen(positiva y/o negativa) y los primeros 100 días de gobierno de los alcaldes de las ciudades capitales: Barranquilla, Cartagena, Santa Marta, Montería, Sincelejo, Valledupar y Riohacha, de los gobernadores de los  
+Se adjunta los resultados de la La Gran Encuesta del Caribe (documento no disponible) (déle clic) sobre la imagen(positiva y/o negativa) y los primeros 100 días de gobierno de los alcaldes de las ciudades capitales: Barranquilla, Cartagena, Santa Marta, Montería, Sincelejo, Valledupar y Riohacha, de los gobernadores de los  
 departamentos de la región caribe colombiana: Atlántico, Bolívar,  
 Magdalena, Cesar, Guajira, Córdoba, Sucre y el Archipiélago de San  
 Andrés, Providencia y Santa Catalina y de algunos municipios  

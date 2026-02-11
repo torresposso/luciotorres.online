@@ -61,7 +61,7 @@ Al final de su carrera como paramilitar, el Chepe Barrera fue cooptado por el je
 
 ## El nuevo desalojo confirma la complicidad estatal
 
-Por otra parte, según el Observatorio de Restitución de Tierra, ([Despojo paramilitar en el Magdalena](/wp-content/uploads/2018/06/Despojo-en-el-Magdalena-Junio-20-de-20181.pdf)) el proceso de despojo contó con la complicidad de la justicia, el Estado y de grandes empresarios y terratenientes. Muchos de esos predios en Santa Ana están en manos de testaferros. Pero lo sorprendente es que las mismas autoridades siguen prolongando ese despojo sin que las víctimas sean reparadas.
+Por otra parte, según el Observatorio de Restitución de Tierra, (Despojo paramilitar en el Magdalena (documento no disponible)) el proceso de despojo contó con la complicidad de la justicia, el Estado y de grandes empresarios y terratenientes. Muchos de esos predios en Santa Ana están en manos de testaferros. Pero lo sorprendente es que las mismas autoridades siguen prolongando ese despojo sin que las víctimas sean reparadas.
 
 Es así que el desalojo que tiene previsto el alcalde del municipio de Santa Ana, **Wilman Bermúdez**, es típico del comportamiento consuetudinario de esas autoridades que favorecieron los delitos de lesa humanidad durante el reinado de los paramilitares. Allí están comprometidos jueces, funcionarios públicos, alcaldes, fiscales y notarios.
 

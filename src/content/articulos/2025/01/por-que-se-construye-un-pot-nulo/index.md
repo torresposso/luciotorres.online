@@ -116,4 +116,4 @@ Próxima entrega: **¿Cuál es la clave para el Éxito del POT**?
 
 ## ESTE ESL DECRETO ENGAVETADO
 
-[PROYECTO\_DE\_DECRETO\_JUSTIFICATORIO\_DE\_LA\_REGRESIÓN\_DEL\_RÁMITE\_Y](/wp-content/uploads/2025/01/PROYECTO_DE_DECRETO_JUSTIFICATORIO_DE_LA_REGRESION_DEL_RAMITE_Y.pdf)[Descargar](/wp-content/uploads/2025/01/PROYECTO_DE_DECRETO_JUSTIFICATORIO_DE_LA_REGRESION_DEL_RAMITE_Y.pdf)
+PROYECTO\_DE\_DECRETO\_JUSTIFICATORIO\_DE\_LA\_REGRESIÓN\_DEL\_RÁMITE\_Y (documento no disponible)Descargar (documento no disponible)

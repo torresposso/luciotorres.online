@@ -80,7 +80,7 @@ El supuesto contrato los obtuvo con 4 meses de haberse constituido en la Cámara
 
 ## Nueva certificación de Majul
 
-De otra parte, debemos decir que la Secretaria General de la alcaldía de Manatí, Adriana Majul, expidió otro documento que tiene (pique para leerlo) [fecha del 10 de noviembre de 2021](/wp-content/uploads/2021/11/CERTIFICACION-ADRIANA-MAJUL.pdf) con el mismo objeto social del convenio certificado falsamente donde aparece la firma del exalcalde Abel Devia. La diferencia es que Majul no certifica la ejecución del contrato sino la **«existencia de una carpeta donde reposa el convenio No 00150 de 2015, cuyo objeto social es**:». 
+De otra parte, debemos decir que la Secretaria General de la alcaldía de Manatí, Adriana Majul, expidió otro documento que tiene (pique para leerlo) fecha del 10 de noviembre de 2021 (documento no disponible) con el mismo objeto social del convenio certificado falsamente donde aparece la firma del exalcalde Abel Devia. La diferencia es que Majul no certifica la ejecución del contrato sino la **«existencia de una carpeta donde reposa el convenio No 00150 de 2015, cuyo objeto social es**:». 
 
 > Programa de promoción y prevención de la violencia sexual, el consumo de sustancias psicoactivas y el reclutamiento y utilización de niñas, niños y adolescentes por los grupos armados al margen de la ley y de grupos organizados de delincuencia en el municipio de Manatí.
 

@@ -56,4 +56,4 @@ Por esa razón, el **Código General del Proceso** establece que el juez puede p
 
 Es decir, que Alex Char obra contrario a los preceptos constitucionales y legales que amparan la dignidad humana de Steven Castellanos. El joven tiene derecho a comprobar si el alcalde de Barranquilla es su padre. En tanto con esta última oportunidad de Alex Char, tiene la oportunidad de ser un buen padre.
 
-[066Auto08-05-2025](/wp-content/uploads/2025/07/066Auto08-05-2025.pdf)[Descargar](/wp-content/uploads/2025/07/066Auto08-05-2025.pdf)
+[066Auto08-05-2025](066Auto08-05-2025.pdf)[Descargar](066Auto08-05-2025.pdf)

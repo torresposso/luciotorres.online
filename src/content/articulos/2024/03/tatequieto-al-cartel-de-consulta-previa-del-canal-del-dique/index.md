@@ -90,7 +90,7 @@ El caso de **Pasacaballos** amerita una entrega especial sobre los aportes de Co
 
 **Leer el escrito de acusación de la Fiscalía 22 Seccional de Bolívar**:
 
-[001-Escrito-acusacion-David.-E.-Gonzalez-C.-y-otros](/wp-content/uploads/2024/03/001-Escrito-acusacion-David.-E.-Gonzalez-C.-y-otros.pdf)[Descargar](/wp-content/uploads/2024/03/001-Escrito-acusacion-David.-E.-Gonzalez-C.-y-otros.pdf)
+001-Escrito-acusacion-David.-E.-Gonzalez-C.-y-otros (documento no disponible)Descargar (documento no disponible)
 
 ## Los otros 7 implicados
 
@@ -102,6 +102,6 @@ En este caso concreto, VoxPopuli Digital presentó el soporte de su investigaci�
 
 **Leer el auto de Juzgado Segunda Penal**:
 
-[2024.03.04\_2024-017-Avoca-conocimiento](/wp-content/uploads/2024/03/2024.03.04_2024-017-Avoca-conocimiento.pdf)[Descargar](/wp-content/uploads/2024/03/2024.03.04_2024-017-Avoca-conocimiento.pdf)
+2024.03.04\_2024-017-Avoca-conocimiento (documento no disponible)Descargar (documento no disponible)
 
 Próxima entrega: El cartel de la Consulta Previa el caso de Gambote y Pasacaballos, la ANI y el ministerio del Interior.

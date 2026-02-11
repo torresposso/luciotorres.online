@@ -56,7 +56,7 @@ El ya desaparecido veedor, **Milciades Garcés** dijo en alguna oportunidad que 
 
 ## ¿«La agenda oscura» en Nueva York?
 
-Regresemos al caso de ahora. Si uno lee con atención el oficio [**No 0113152—2021**](/wp-content/uploads/2021/10/DAU-AMC-OFI-0113152-2021-Oficio-solicitud-permiso-salida-del-pa%C3%ADs.pdf), mediante el cual el acalde solicitó permiso al concejo, no se encuentra anexa una agenda oficial del 11 al 20 de octubre de 2021 en Nueva York y Washington. Tampoco aparece en la «agenda» encuentros con representantes de organizaciones ni posible firmas de convenios de cooperación. Nada. Solo lugares comunes. Por ejemplo:
+Regresemos al caso de ahora. Si uno lee con atención el oficio **No 0113152—2021** (documento no disponible), mediante el cual el acalde solicitó permiso al concejo, no se encuentra anexa una agenda oficial del 11 al 20 de octubre de 2021 en Nueva York y Washington. Tampoco aparece en la «agenda» encuentros con representantes de organizaciones ni posible firmas de convenios de cooperación. Nada. Solo lugares comunes. Por ejemplo:
 
 > «Con el acostumbrado respeto me permito solicitar a la corporación que usted preside se sirva autorizar mi salida del país con **destino a la ciudad desde Washington y New York** en Estados Unidos de América por los días 11 al 20 de octubre del año en curso, en **comisión de servicios con la finalidad de adelantar una agenda de reuniones** que tienen, **como propósito, el acercamiento** con importantes **actores, personalidades y organizaciones benefactoras, filántropos, miembros de organizaciones no gubernamentales, congresistas y funcionarios de alto rango del gobierno de los Estados Unidos**».
 > 

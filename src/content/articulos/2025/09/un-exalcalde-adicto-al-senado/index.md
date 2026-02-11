@@ -16,7 +16,7 @@ Además de ese caso que está en firme, Dau recientemente recibió otra sanción
 
 ## Exalcalde adicto inhabilitado
 
-[Certificado (4)](/wp-content/uploads/2025/09/Certificado-4.pdf)[Descargar](/wp-content/uploads/2025/09/Certificado-4.pdf)
+[Certificado (4)](Certificado-4.pdf)[Descargar](Certificado-4.pdf)
 
 En consecuencia, el exalcalde adicto, **no reúne uno de los tres requisitos que exige el Comité de Ética del Pacto Histórico**: no tener inhabilidad política.
 
@@ -82,7 +82,7 @@ Por el contrario, Dau, a través de su apoderado **Oswaldo Burgos Valet**, en no
 
 Así lo señalamos en su momento. **El Tribunal Administrativo de Bolívar** —con ponencia de **José Rafael Guerrero Leal**— llegó a una tesis certera que **favorece la libertad de prensa**. Declaró que no hay pruebas para censurar  las publicaciones de **VoxPopuli.Digital** sobre las actuación del alcalde de Cartagena **William Dau Chamat**. Revocó, por tanto, la decisión de primera instancia de la juez 1° Administrativo del Circuito  Cartagena, **Esther María Meza Camera**, quien tuteló los derechos al buen nombre del burgomaestre.
 
-El fallo fue proferido por la Sala Primera del Tribunal Administrativo compuesta, además  del ponente, **Luis Miguel Villalobo Álvarez y Roberto Mario Chavarro Colpas**. (Lea la sentencia: [WILLIAM DAU VS LUCIO TORRES -VOXPOPULI (Revoca – improcedente)](/wp-content/uploads/2020/11/WILLIAM-DAU-VS-LUCIO-TORRES-VOXPOPULI-Revoca-improcedente.pdf).
+El fallo fue proferido por la Sala Primera del Tribunal Administrativo compuesta, además  del ponente, **Luis Miguel Villalobo Álvarez y Roberto Mario Chavarro Colpas**. (Lea la sentencia: WILLIAM DAU VS LUCIO TORRES -VOXPOPULI (Revoca – improcedente) (documento no disponible).
 
 Lea el informe que publicamos: [Tribunal niega censura contra VxoPopuli Digital](/articulos/tribunal-administrativo-niega-censurar-a-periodista-por-publicaciones-contra-dau/)
 

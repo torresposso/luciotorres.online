@@ -88,4 +88,4 @@ Porque mientras los Char y sus aliados la traten como una Supertienda Olímpica,
 
 ## La tutela que negó el amparo al debido proceso
 
-[tuela\_udea-2025- 00253 fallo](/wp-content/uploads/2025/11/tuela_udea-2025-00253-fallo.pdf)[Descargar](/wp-content/uploads/2025/11/tuela_udea-2025-00253-fallo.pdf)
+[tuela\_udea-2025- 00253 fallo](tuela_udea-2025-00253-fallo.pdf)[Descargar](tuela_udea-2025-00253-fallo.pdf)

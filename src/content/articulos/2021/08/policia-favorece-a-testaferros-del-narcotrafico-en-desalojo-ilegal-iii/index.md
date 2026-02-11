@@ -44,7 +44,7 @@ En efecto, la Sala de Extinción de Dominio del Tribunal Superior de Bogotá neg
 
 ## La tutela
 
-Los campesinos presentaron la acción de tutela para defender los derechos fundamentales al debido proceso, la vivienda, la vida y al trabajo en conexidad con el mínimo vital. ([Lea la tutela](/wp-content/uploads/2021/08/TUTELA-DESPOJOS-CAMPESINOS-COLOMBIA.pdf)).
+Los campesinos presentaron la acción de tutela para defender los derechos fundamentales al debido proceso, la vivienda, la vida y al trabajo en conexidad con el mínimo vital. (Lea la tutela (documento no disponible)).
 
 En ese sentido le pidieron al juez de tutela ordenar a la Unidad de Restitución de Tierras y a la Agencia Nacional de Tierras realizar un censo y caracterización de todas las familias campesinas que fueron ilegalmente desalojadas de estos predios. Muchas de esas personas se les violaron sus derechos.
 

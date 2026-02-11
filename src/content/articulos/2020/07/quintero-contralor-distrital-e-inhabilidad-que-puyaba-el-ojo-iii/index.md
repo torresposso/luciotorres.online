@@ -53,7 +53,7 @@ En tanto, si la directiva se hubiese detenido a considerar la inhabilidad de Fre
 
 ## La advertencia
 
-La directiva del concejo recibió el **3 de enero 2020** una clara observación de la veeduría ([para leerla, dele clic](/wp-content/uploads/2020/02/OBSERVACION-VEEDURIA-CARTAGENA-ES-DE-TODOS-.pdf)) **«Cartagena es de Todos»** donde le advertía sobre la evidente inhabilidad de Fredys Quintero. **Pero los directivos se hicieron de la vista gorda**. En este caso tampoco pueden alegar ignorancia supina como el caso de la ilegal elección de Héctor Consuegra Salinas.
+La directiva del concejo recibió el **3 de enero 2020** una clara observación de la veeduría (para leerla, dele clic (documento no disponible)) **«Cartagena es de Todos»** donde le advertía sobre la evidente inhabilidad de Fredys Quintero. **Pero los directivos se hicieron de la vista gorda**. En este caso tampoco pueden alegar ignorancia supina como el caso de la ilegal elección de Héctor Consuegra Salinas.
 
 Tal observación aparece publicada en la web del concejo. El hallazgo se hizo en una rigurosa búsqueda de evidencias para demostrar lo evidente de la inhabilidad de Fredys Quintero. La advertencia les decía:
 

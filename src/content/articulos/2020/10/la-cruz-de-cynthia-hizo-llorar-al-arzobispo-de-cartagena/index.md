@@ -25,7 +25,7 @@ No obstante lo dicho por el arzobispo de Cartagena, el certificado que el párro
 
 *   _Desde el 21 de febrero de 2002 hasta el 01 de junio del mismo año._
 *   _Desde el 25 de enero de 2007 hasta el 02 de octubre de 2008_
-*   _(...) Que los aportes al sistema general de seguridad social fueron realizados en su totalidad para los períodos laborados.» (El papelito habla. LEA: [CERTIFICADO DEL PADRE CHRISTIAN Y APORTES EN LÍNEAS](/wp-content/uploads/2020/10/CERTIFICADO-Y-APORTES-EN-LINEAS.pdf))._
+*   _(...) Que los aportes al sistema general de seguridad social fueron realizados en su totalidad para los períodos laborados.» (El papelito habla. LEA: [CERTIFICADO DEL PADRE CHRISTIAN Y APORTES EN LÍNEAS](CERTIFICADO-Y-APORTES-EN-LINEAS.pdf))._
 
 La fecha de expedición del certificado fue el 9 de marzo de 2020. Fue entregado a la Contraloría el **16 de marzo a las 11:56**. Es decir, faltando 4 minutos para las 12. ¿La contradicción dónde está? El padre **Nelson Arango,** «por su desorden», le dio una certificación de tres años de labores firmada el 14 de septiembre de 2009. **¿Por qué razón no certificaron los tres años sino año y medio?** ¿Por qué razón solo pagaron año y siete meses a la seguridad social y parafiscales? ¿Es un descuido de la Arquidiócesis que se puede interpretar como una defraudación al fisco nacional? ¿O fue un certificado para que la Contraloría desviara su investigación e inducir a error a los investigadores? He aquí el grave problema. Es el uso de ese documento. No lo olviden, se trataba de justificar el cobro de $33,6 millones que ahora la alcaldía dijo que devolvió al fisco.
 

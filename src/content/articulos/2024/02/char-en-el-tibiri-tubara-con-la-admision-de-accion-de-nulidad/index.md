@@ -55,4 +55,4 @@ Ponerle coto al ansia fenicia de la familia Char de acumular riquezas a costa de
 
 ## Lea el acto de la admisión
 
-[Admision\_accion\_de\_Nulidad](/wp-content/uploads/2024/02/Admision_accion_de_Nulidad.pdf)[Descargar](/wp-content/uploads/2024/02/Admision_accion_de_Nulidad.pdf)
+Admision\_accion\_de\_Nulidad (documento no disponible)Descargar (documento no disponible)

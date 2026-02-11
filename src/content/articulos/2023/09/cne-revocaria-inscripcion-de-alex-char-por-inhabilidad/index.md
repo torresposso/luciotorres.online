@@ -14,7 +14,7 @@ featuredImage: "./hero.jpg"
 
 Por tanto, la solicitud de revocatoria podría prosperar en el CNE, porque el poder de los Char en las altas cortes se ha debilitado. En este caso concreto, su evidente inhabilidad está relacionada no solo con los **contratos financieros suscritos entre Serfinanza** y el Estado, en el orden nacional, departamental y distrital. También existen otros tres hechos que daremos cuenta en las próximas entregas.
 
-Empecemos por decir, que la conducta de **Alejandro Char Chaljub** _—_en su papel de alcalde metropolitano_—_ firmó un acuerdo del área metropolitana en 2016 con el fin de crear el **Fondo Metropolitano de Estabilización Tarifaria del Sistema Masivo de Transporte_—_Trasmetro.** Luego, dolosamente, ese acuerdo fue reemplazada por el **[No 003 de 2019](/wp-content/uploads/2019/12/ACUERDO-METROPOLITANO-003-DE-2019-FET.pdf)** con la firma de Jorge Padilla Sundheim con la única finalidad de beneficiar a la empresa suya y de su familia, **Serfinanza**. Y, de paso, esquilmar los recursos públicos que son de todos los barranquilleros.
+Empecemos por decir, que la conducta de **Alejandro Char Chaljub** _—_en su papel de alcalde metropolitano_—_ firmó un acuerdo del área metropolitana en 2016 con el fin de crear el **Fondo Metropolitano de Estabilización Tarifaria del Sistema Masivo de Transporte_—_Trasmetro.** Luego, dolosamente, ese acuerdo fue reemplazada por el **No 003 de 2019 (documento no disponible)** con la firma de Jorge Padilla Sundheim con la única finalidad de beneficiar a la empresa suya y de su familia, **Serfinanza**. Y, de paso, esquilmar los recursos públicos que son de todos los barranquilleros.
 
 ## Un entramado para usufructuar Transmetro
 

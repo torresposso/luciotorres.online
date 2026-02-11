@@ -18,7 +18,7 @@ Lo anterior lleva a inferir, en un razonamiento lógico, que se trata de llevar 
 
 ## Lost Prevention desmiente a Caracol
 
-[ANGEL-MARIA-CARRILLO-SALGADO-120237720013731\_000011](/wp-content/uploads/2024/03/ANGEL-MARIA-CARRILLO-SALGADO-120237720013731_000011.pdf)[Descargar](/wp-content/uploads/2024/03/ANGEL-MARIA-CARRILLO-SALGADO-120237720013731_000011.pdf)
+ANGEL-MARIA-CARRILLO-SALGADO-120237720013731\_000011 (documento no disponible)Descargar (documento no disponible)
 
 Con este oficio (para leerlo darle clic a _descargar_) dirigido al abogado Ángel María Carrillo Salgado como respuesta a una petición, la Fiscalía Primera Delegada ante el Tribunal Superior del Distrito de Bogotá le aclara que su nombre no está mencionado en el proceso que se le sigue a Nicolás Petro.
 

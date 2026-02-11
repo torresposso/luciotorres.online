@@ -91,4 +91,4 @@ _Periodismo que incomoda al poder. Con la verdad, por encima de la impunidad._ *
 
 ## NO CONCILIACIÓN
 
-[CONSTANCIA 1 NOVIEMBRE 6](/wp-content/uploads/2025/11/CONSTANCIA-1-NOVIEMBRE-6.pdf)[Descargar](/wp-content/uploads/2025/11/CONSTANCIA-1-NOVIEMBRE-6.pdf)
+[CONSTANCIA 1 NOVIEMBRE 6](CONSTANCIA-1-NOVIEMBRE-6.pdf)[Descargar](CONSTANCIA-1-NOVIEMBRE-6.pdf)

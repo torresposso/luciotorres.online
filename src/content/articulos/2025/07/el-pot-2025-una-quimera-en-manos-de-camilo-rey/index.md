@@ -106,4 +106,4 @@ Pero el timonazo del POT 2025 lo tiene que dar en su sabiduría el alcalde Mayor
 
 ## ESTAS SON LAS 150 RESPUESTAS
 
-[**Las 150 respuestas del Secretario de** Planeación **Camilo Rey**](/wp-content/uploads/2025/07/AMC-OFI-0049835-2025-EDISON-LUCIO-TORRES-EXT-AMC-25-0029941-1.pdf)[Descargar](/wp-content/uploads/2025/07/AMC-OFI-0049835-2025-EDISON-LUCIO-TORRES-EXT-AMC-25-0029941-1.pdf)
+[**Las 150 respuestas del Secretario de** Planeación **Camilo Rey**](AMC-OFI-0049835-2025-EDISON-LUCIO-TORRES-EXT-AMC-25-0029941-1.pdf)[Descargar](AMC-OFI-0049835-2025-EDISON-LUCIO-TORRES-EXT-AMC-25-0029941-1.pdf)

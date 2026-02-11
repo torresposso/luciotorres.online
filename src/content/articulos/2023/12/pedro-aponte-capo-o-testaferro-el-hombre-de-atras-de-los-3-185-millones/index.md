@@ -67,4 +67,4 @@ _El hombre de atrás_ de este contrato es, sin duda, Pedro Aponte, Las diferente
 
 ## Vea el contrato
 
-[contrato-urgencia-ingenuis](/wp-content/uploads/2023/12/contrato-urgencia-ingenuis.pdf)[Descargar](/wp-content/uploads/2023/12/contrato-urgencia-ingenuis.pdf)
+contrato-urgencia-ingenuis (documento no disponible)Descargar (documento no disponible)

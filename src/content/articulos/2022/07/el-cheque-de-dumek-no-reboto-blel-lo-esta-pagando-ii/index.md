@@ -18,7 +18,7 @@ De igual manera, informamos que **existen cuatro fuentes de la deuda total** de 
 
 El cheque de Dumek sí tiene fondo. Una fuente de Tesorería de la gobernación de Bolívar me suministró hoy el soporte de lo que realmente **Vicente Blel Escaf le está pagando a la UdeC** por concepto del convenio de pago firmado con Dumek. Se debe reconocer que su conducta es la de un monje tibetano honrando a la deuda. He aquí la relación de pago, la cual la contrasté con la fuente de la Universidad de Cartagena. Esta fuente me confirmó que es exactamente como aparece en el archivo que les comparto.
 
-[DEUDA-UDEC-07-06-2022-13.55](/wp-content/uploads/2022/07/DEUDA-UDEC-07-06-2022-13.55.pdf)[Descarga](/wp-content/uploads/2022/07/DEUDA-UDEC-07-06-2022-13.55.pdf)
+DEUDA-UDEC-07-06-2022-13.55 (documento no disponible)Descarga (documento no disponible)
 
 ## El cheque de Dumek no rebotó
 

@@ -29,7 +29,7 @@ En ese sentido, la acción tiene las siguiente pretensiones:
 
 Por esa razón, con el objetivo de que la comunidad se entere de la providencia del juez Moreno publicamos esta providencia. El enlace de la admisión de la Acción Popular para que cualquier ciudadano la pueda leer. (**Admisión de Acción Popular contra Transcaribe**):
 
-[ADMITE-ACCION-POPULAR-2022](/wp-content/uploads/2022/07/ADMITE-ACCION-POPULAR-2022.pdf)[Descarga](/wp-content/uploads/2022/07/ADMITE-ACCION-POPULAR-2022.pdf)
+ADMITE-ACCION-POPULAR-2022 (documento no disponible)Descarga (documento no disponible)
 
 ## Alta accidentalidad de Transcaribe
 
