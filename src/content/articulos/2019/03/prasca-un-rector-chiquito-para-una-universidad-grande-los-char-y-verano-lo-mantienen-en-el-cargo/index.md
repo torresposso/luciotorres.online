@@ -11,7 +11,7 @@ Barranquilla se despierta este miércoles con una cruz de ceniza en la frente y 
 
 La suspensión por tres meses que le hizo la Procuraduría confirma lo anunciado en [www.voxpopuli.digital](/articulos/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/): debe ser declarado insubsistente **¡ipso facto**!
 
-![](/wp-content/uploads/2019/03/caricatura-prasca.jpg)
+![](caricatura-prasca.jpg)
 *Prasca es un rey de burlas, quedó chiquito ante la grandeza de la Universidad del Atlántico.*
 
 #### Le sugiero: [A Prasca, recto(r) de UA, le gusta el «chiquito»](/articulos/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/) 

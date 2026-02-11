@@ -7,7 +7,6 @@ categories: ["Cartagena","Investigación"]
 featuredImage: "./hero.jpg"
 ---
 
-![](/wp-content/uploads/2019/03/IMG_1183.jpg)
 *En un amanecer frente a Casa Covo, patrimonio cultural, aplastada por la mole de cemento Astorga 414 en Manga.*
 
 Si los Quiroz están detrás de rejas, a quienes investigué por sus construcciones ilegales, **¿por qué los constructores piratas de alto turmequé siguen edificando adefesios como _Acuarela_ y _Astorga 414_** que afectan sustantivamente el patrimonio cultural de Cartagena con la complicidad directa de la Curaduría, Planeación Distrital e IPCC? Por una sola razón: dinero. El afán de lucro determina **falsificar el contenido de sus resoluciones mediante un concierto para delinquir**.
@@ -56,7 +55,7 @@ Aparentemente todo es legal, las licencias para demoler y para construir. Recibe
 
 ## La tramoya
 
-![](/wp-content/uploads/2019/03/IMG_0868.jpg)
+![](IMG_0868.jpg)
 
 El constructor oficia a las autoridades correspondientes, como Planeación, IPCC y Curaduría Urbana. Estas responden siempre afirmativamente. Movicom le ofició al IPCC si los cuatro predios con referencias catastral No 01-01-0188-0002-000, 01-01-0188-0003-000, 0188-0004-000, 0188-0006-000 se encuentran contenidas en el POT.
 

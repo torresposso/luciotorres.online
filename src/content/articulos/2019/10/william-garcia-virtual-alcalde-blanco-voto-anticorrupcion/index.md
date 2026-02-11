@@ -7,7 +7,7 @@ categories: ["Análisis"]
 featuredImage: "./hero.jpg"
 ---
 
-![William García, virtual alcalde.](/wp-content/uploads/2019/10/wgt-pueblo.jpg)
+![William García, virtual alcalde.](wgt-pueblo.jpg)
 *Solo esperamos las 5 de la tarde de hoy 27 de octubre para que se confirme lo que dicen las encuestas: William García Tirado virtual alcalde de Cartagena. El voto en blanco, segundo lugar.*
 
 Todas las encuestas y la percepción en los barrios de la ciudad lo dicen: **William García, virtual alcalde**. Pero el **voto en blanc**o viene creciendo. Si gana, se repetirían las elecciones y no podrían participar los actuales candidatos.

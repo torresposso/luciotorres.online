@@ -7,7 +7,6 @@ categories: ["Análisis"]
 featuredImage: "./hero.jpg"
 ---
 
-![](/wp-content/uploads/2019/10/Registraduria.jpg)
 *Así estaba el sitio donde se realizan los escrutinios de Cartagena. ¿Chocorazo o fraude?Cortesía*
 
 Cartagena necesita claridad de las elecciones por la alcaldía ganadas en forma sorpresiva por **William Dau Chamat.** **¿Chocorazo o fraude?**, tal es la situación que se vive ahora. Los escrutinios deben estar acompañados de los organismos de control y de los partidos políticos que participaron en la contienda electoral del pasado 27 de octubre. Hay que garantizar el voto libre de los cartageneros.
@@ -20,7 +19,7 @@ Te puede interesar: [¿Dau, un buitre de corto vuelo? Derrotadas las maquinarias
 
 ## ¿Chocorazo o fraude?
 
-![](/wp-content/uploads/2019/10/formularios.jpg)
+![](formularios.jpg)
 *Este es uno de los 10 formularios analizados. Cortesía.*
 
 Para resolver la pregunta ¿chocorazo o fraude? debemos partir del principio de transparencia que es lo contrario a corrupción. Si hay una vigilancia pública y de los organismos de control se podría evitar un chocorazo. Y esto, a su vez, despejaría cualquier duda sobre el proceso electoral.

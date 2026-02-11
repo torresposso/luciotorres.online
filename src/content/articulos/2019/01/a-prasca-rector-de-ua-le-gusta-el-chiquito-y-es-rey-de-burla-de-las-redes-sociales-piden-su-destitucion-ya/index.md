@@ -28,7 +28,6 @@ Si lo declaran insubsistente, **los representantes estudiantiles piden que se ad
 
 Primero fue un _runrun_ entre los estudiantes. Luego algunos líderes decidieron publicar el pasado 24 de enero las conversaciones eróticas de guasap con una supuesta estudiante de la UA. Finalmente se conoció varios audios, fotografías y videos pornográficos donde aparece _**encuero**_ el benemérito rector Prasca, ficha inmacable del senador **Arturo Char Chaljub** y de su hermano, **Alex Char Chaljub**, alcalde de Barranquilla.
 
-![](/wp-content/uploads/2019/01/gobernadorleyendo.jpg)
 *El día de la elección de Carlos Prasca como rector de la UA. Fue una maniobra de los Char para quedarse con el poder de la UA. Foto UA.*
 
 Prasca está en la rectoría por voluntad política de **Alex Char**, quien presionó al gobernador del Atlántico **Eduardo Verano** para que, en su calidad de presidente del Consejo Superior, votara por él en perjuicio de otros candidatos moralmente idóneos. Se dice que Prasca como Char son **«cucarachas del mismo calabazo»**.

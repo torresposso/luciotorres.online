@@ -7,7 +7,7 @@ categories: ["Análisis"]
 featuredImage: "./hero.jpg"
 ---
 
-![](/wp-content/uploads/2019/11/dau-y-su-combo.jpg)
+![](dau-y-su-combo.jpg)
 *Embriagados de triunfo. No paran de celebrar. Aquí el alcalde electo, William Dau, acompañado de uno de sus combos. Cortesía.*
 
 **¿Peor el remedio que la enfermedad?** William Dau Chamat, mientras destrozaba un _**baby beef,**_ en una cena a la que me había invitado, me propuso su apoyo para que yo fuera elegido gobernador de Bolívar. En cambio me pidió que **lo apoyara para la alcaldía de Cartagena**. ¿Que nos unía? La lucha contra la corrupción.

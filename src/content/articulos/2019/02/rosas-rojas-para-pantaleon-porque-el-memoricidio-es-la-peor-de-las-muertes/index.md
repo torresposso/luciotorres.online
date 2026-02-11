@@ -7,7 +7,7 @@ categories: ["Crónica","Mi Ciudad"]
 featuredImage: "./hero.jpg"
 ---
 
-![](/wp-content/uploads/2019/02/oracion.jpg?fit=702%2C395&ssl=1)
+![](oracion.jpg?fit=702%2C395&ssl=1)
 *Seis mil cartageneros murieron durante el Sitio. Aquí homenaje a los mártires desconocidos compuestos por humildes personas que entregaron su vida por la libertad.*
 
 Rosas rojas en honor a la memoria de los mártires de la libertad de Cartagena. Una Rosa roja para Pantaleón Ribón y Martín Amador, quienes no se amilanaron frente a sus verdugos y reclamaron la justeza de su lucha emancipadora. Fue un acto sencillo. Simbólico. Significativo. Una oración eficaz para recibir esa energía de esperanza y resistir al _**memoricidio**_, que es la peor muerte del ser humano.
@@ -26,7 +26,6 @@ Cuatro años antes de la publicación del libro **Cartagena en la Independencia*
 
 ## El olvido
 
-![](/wp-content/uploads/2019/02/flores-a-Pantaleon.jpg)
 *Pantaleón murió defendiendo su papel en la primera revolución de Cartagena 1811.*
 
 ¿Acaso hemos olvidado a nuestros héroes? Si los fusilaron y ahorcaron en el cadalso hace 203 años por ser líderes de la independencia y constructores de la Primera República Libre Cartagena 1811-1815, ¿por qué los hemos olvidado? Es tarea de los historiadores provocar nuevas miradas sobre dichos acontecimientos para interrogar a la historia sobre los aportes en la política, la economía y la cultura de dichos acontecimientos.
@@ -43,7 +42,6 @@ Se resalta el valor de **Pantaleón Germán Ribó**n (momposino) y el de los car
 
 ## Una fosa común
 
-![](/wp-content/uploads/2019/02/pantaleon.jpg)
 *Las mujeres también pusieron su cuota de sacrificio durante el Sitio a Cartagena (1815)*
 
 Mientras hacía el homenaje y llevaba las flores a los mártires, un hombre que pasó de prisa se apresuró a decir:

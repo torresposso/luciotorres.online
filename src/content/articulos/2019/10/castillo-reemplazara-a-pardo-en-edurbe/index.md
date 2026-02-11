@@ -7,8 +7,6 @@ categories: ["Análisis"]
 featuredImage: "./hero.jpg"
 ---
 
-![](/wp-content/uploads/2019/10/rocio-y-romaña.jpg)
-*Izquierda, Ramiro Romaña. Derecha, Rocío Castillo García, quien, por mandato estatutario, debe ser la nueva gerente, ya que es la Secretaria General.*
 
 El renunciado gerente de Edurbe, **Bernardo Pardo Ramos, convocó para este jueves 10 de octubre a su última junta directiva.** Por mandato estatutario, la secretaria general, Rocío Castillo reemplazará a Pardo. **Tomar decisión diferente, llevaría a la junta directiva a incurrir en prevaricato.**
 

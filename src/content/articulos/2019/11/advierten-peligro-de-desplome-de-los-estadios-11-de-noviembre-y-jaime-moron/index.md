@@ -36,7 +36,7 @@ Te puede interesar: [Cartagena sin alcalde electo](/articulos/cartagena-sin-alca
 
 ## Informe técnico
 
-![¡Peligro de desplome!](/wp-content/uploads/2019/11/quintana.jpg)
+![¡Peligro de desplome!](quintana.jpg)
 *Jorge Quintana Sosa, tiene una documentación donde sustenta el peligro de desplome de los estadios "11 de noviembre" y "Jaime Morón".*
 
 El ingeniero civil **Rocha Rodríguez** le envió al veedor una reseña del informe denominado **Revisión de los Estudios de Vulnerabilidad Sísmica de los Estadios Jaime Morón y Once de Noviembre**. La advertencia de peligro de desplome fue dejada sentada en varias instancias del Distrito. En el caso del **"11 de Noviembre"** presenta 10 ítems que se deben tomar en cuenta para su reforzamiento estructural. En tanto para el estadio "Jaime Morón" se especificaron 4 ítems.

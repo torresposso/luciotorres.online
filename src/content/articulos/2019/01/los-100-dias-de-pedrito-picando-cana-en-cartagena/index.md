@@ -7,7 +7,7 @@ categories: ["Análisis","Cartagena","Mi Ciudad"]
 featuredImage: "./hero.jpg"
 ---
 
-![](/wp-content/uploads/2019/01/pedrito-y-los-secretarios.jpg)
+![](pedrito-y-los-secretarios.jpg)
 *Pedrito*
 
 **Pedrito está picando caña**. Trabaja día y noche. El tiempo de su gobierno es breve, muy breve. Quiere resultados pronto. Lo principal, **la confianza de los cartageneros** que está en el suelo por la inestabilidad reinante. **Pedrito Pereira Caballero** quiere ser _**Pedro El Grande**_ en solo 465 días.
@@ -29,7 +29,6 @@ Cuando se posesionó Pedrito, dijo:
 
 ## 100 días picando caña
 
-![](/wp-content/uploads/2019/01/pedrito-en-familia.jpg)
 *En los 100 días de Pedrito no descuidó a su familia pese que a que pasó 24/7 en torno al solio del Palacio de la Aduana.*
 
 **No crean que Pedrito la ha tenido fácil.** Como diría un chofer de bus de Cartagena, de esos que lidiaba todos los días su padre **Pedro Pereira**, a sus hijos y a su mujer les puso una fotografía grande en la sala para que se acordaran que vive en esa casa. Los choferes viven la mayor de su tiempo detrás del timón. Las 24/7 Pedrito es alcalde. Se la pasa picando caña.

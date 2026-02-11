@@ -50,7 +50,7 @@ No obstante, esa maroma fue tan descarada que una fuente allegada al poder judic
 
 Su abogado, **Alex León Arcos**, tuvo una suerte de _**perro en misa**_ con el reparto de la demanda de sucesión. La presentó a las **2:26:30** de la tarde. Cayó en el juzgado Primero de Familia del Circuito de Barranquilla. La retiró y la volvió a presentar con una diferencia de un poco más de tres minutos, a las **2:29:33**, y cayó en el mismo juzgado. La volvió a presentar a las **2.31:46**, pero con tan mala suerte que le cayó por tercera vez en el mismo despacho del circuito. Fueron 16 intentos, hasta que cayó en el juez **Tercero de Familia del Circuito de Barranquilla**, **Gustavo Antonio Saade Marcos,**quien en sus fallos ha sido muy condescendiente con el alcalde **Alex Char, primos hermanos y del mismo círculo familiar.**
 
-*   ![](/wp-content/uploads/2019/03/farid-2.jpg)
+*   ![](farid-2.jpg)
 *   ![](./farid-fraude.png)
     *Así manipularon el sistema informático para que el caso le cayera al juez Saade Marcos.*
     

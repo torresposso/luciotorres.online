@@ -9,7 +9,7 @@ featuredImage: "./hero.jpg"
 
 > _En una sociedad corrupta y de falsedad, la verdad es revolucionaria, y quienes la buscan, son perseguidos y crucificados. Pulitzer dijo que los periodistas deben alinearse con los débiles y no con los poderosos. Kapucinsky mostró _**«su preocupación por los sectores más desfavorecidos y por su independencia frente a presiones de todo signo, que han tratado de tergiversar su mensaje»**_._
 
-![](/wp-content/uploads/2019/11/alcalde-y-dau.jpg)
+![](alcalde-y-dau.jpg)
 *El abrazo de Dau. En la primera reunión de la comisión de empalme. Cortesía.*
 
 Esta es la verdad electoral: Cartagena está sin alcalde electo. El preconteo de votos, donde **William Dau Chamat** obtuvo **113.627** y **William García Tirado** **102.708**, es un mero ejercicio informativo **sin valor jurídico**, según la Registraduría Nacional. Es más, existen cerca de 100 reclamaciones que podrían modificar los resultados electorales.
@@ -20,7 +20,6 @@ Este es el decreto **[No 8264 Comisión de Empalme de Pedrito](/articulos/images
 
 ## Entre paréntesis
 
-![](/wp-content/uploads/2019/11/InShot_20190922_111758736.jpg)
 
 **Nota de Lucio:** _Algunos epígonos del_ **_Pequeño Malandrín_** _-la mayoría encubiertos y bajo el anonimato- vienen desplegando un ataque sistemático contra este periodista que_ **_le está diciendo la verdad a la ciudad_**_. Es una campaña sistémica agenciada por una **jauría digital** que derrama su mala leche y, además, atacó mis redes sociales, las cuales fueron cerradas en las dos últimas semanas de la campaña electoral con el propósito de silenciarme. Esos epígonos quieren acomodarse en el tren de una victoria dudosa del "Tractor". De la misma manera como se acomodaron con_ **_Guillermo Panizza y Judith Pinedo, quienes estuvieron al servicio de las élites dominantes de Cartagena_**_._
 
