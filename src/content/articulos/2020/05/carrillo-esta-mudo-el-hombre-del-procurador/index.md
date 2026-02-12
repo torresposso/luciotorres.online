@@ -5,10 +5,10 @@ pubDate: "2020-05-11 18:25:03"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/carrillo-esta-mudo-el-hombre-del-procurador/"./hero.jpg"
 ---
 
-\[caption id="attachment\_11699" align="alignnone" width="958"\]![](./hero.jpg) El procurador Fernando **Carrillo está mudo**. No individualiza sus denuncias. Puro comentarios, nada de **acción pura**. Cortesía. (Tuiter).\[/caption\]
+\[caption id="attachment\_11699" align="alignnone" width="958"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/carrillo-esta-mudo-el-hombre-del-procurador/hero.jpg) El procurador Fernando **Carrillo está mudo**. No individualiza sus denuncias. Puro comentarios, nada de **acción pura**. Cortesía. (Tuiter).\[/caption\]
 
 _«La **esposa del César no solo debe** ser honesta, sino parecerlo»_
 
@@ -24,7 +24,7 @@ De otra parte, Carrillo y sus procuradores regionales cohonestan con la corrupci
 
 ## Ana María González
 
-\[caption id="attachment\_11458" align="alignnone" width="632"\]![](./ana-maria-gonzalez.jpg) **Ana María González**,  jefe de la Oficina de Cooperación Internacional del Distrito. **Y la zarina de la contratación distrital**. Cortesía Tuiter.\[/caption\] El procurador Carrillo está mudo. Conoce muy bien a Ana María González Forero. **Ella es el cerebro de William Dau Chamat.** Es activista social. Politóloga. Es mediática. Magister en Educación. Vivió en Nueva York para la misma época en que se radicó el autodenominado **_Tractor_** a trabajar con el fondo buitre gringo Blackston. Como cerebro de Dau, muy probablemente le diseña las acciones propagandisticas. Ella estaba detrás en la campaña electoral. **Es posible que la González le diseñó cómo atacar a la clase política desprestigiada de Cartagena en su estrategia digital.** ¡También el uso y abuso de las bodegas digitales! La politóloga **Ana María González es experta en actos escandalosos para recibir el enfoque de micrófonos y cámaras de medios de comunicación**. Ella le reventó un huevo en los pies al que fuera Ministro de Defensa de Uribe, Juan Manuel Santos, elegido presidente en los siguientes dos periodos.
+\[caption id="attachment\_11458" align="alignnone" width="632"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/carrillo-esta-mudo-el-hombre-del-procurador/ana-maria-gonzalez.jpg) **Ana María González**,  jefe de la Oficina de Cooperación Internacional del Distrito. **Y la zarina de la contratación distrital**. Cortesía Tuiter.\[/caption\] El procurador Carrillo está mudo. Conoce muy bien a Ana María González Forero. **Ella es el cerebro de William Dau Chamat.** Es activista social. Politóloga. Es mediática. Magister en Educación. Vivió en Nueva York para la misma época en que se radicó el autodenominado **_Tractor_** a trabajar con el fondo buitre gringo Blackston. Como cerebro de Dau, muy probablemente le diseña las acciones propagandisticas. Ella estaba detrás en la campaña electoral. **Es posible que la González le diseñó cómo atacar a la clase política desprestigiada de Cartagena en su estrategia digital.** ¡También el uso y abuso de las bodegas digitales! La politóloga **Ana María González es experta en actos escandalosos para recibir el enfoque de micrófonos y cámaras de medios de comunicación**. Ella le reventó un huevo en los pies al que fuera Ministro de Defensa de Uribe, Juan Manuel Santos, elegido presidente en los siguientes dos periodos.
 
 ## La Unidad de Contratación
 
@@ -40,7 +40,7 @@ La González tiene como asesora especial a la abogada **María Eugenia García,*
 
 ## El hombre del Procurador
 
-\[caption id="attachment\_11700" align="alignnone" width="1080"\]![](./tadeo.jpg) Tadeo Martínez Méndez, tomándose el tinto dulce del poder. (Tuiter).\[/caption\] Lamento referirme a un colega. Pero el caso del abogado y periodista **Tadeo Martínez** nos sirve de ejemplo del porqué el procurador Carrillo está mudo. Uno no entiende cuál es el papel de Martínez en la administración de Dau. Funge de jefe de prensa, pero muchas de las decisiones que le competen no las asume él. **Tadeo Martínez Méndez es una persona de confianza del procurador Fernando Carrillo Flórez**. Cuando el periodista salió de la revista Semana, se lo llevó para su despacho de procurador. ¿Por qué vino un periodista que fuera de Semana y del despacho del Procurador al gabinete de William Dau? ¿Quién lo recomendó? ¿Llegó como lo hizo la Nena Arrázola, quien también estaba en Semana?
+\[caption id="attachment\_11700" align="alignnone" width="1080"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/carrillo-esta-mudo-el-hombre-del-procurador/tadeo.jpg) Tadeo Martínez Méndez, tomándose el tinto dulce del poder. (Tuiter).\[/caption\] Lamento referirme a un colega. Pero el caso del abogado y periodista **Tadeo Martínez** nos sirve de ejemplo del porqué el procurador Carrillo está mudo. Uno no entiende cuál es el papel de Martínez en la administración de Dau. Funge de jefe de prensa, pero muchas de las decisiones que le competen no las asume él. **Tadeo Martínez Méndez es una persona de confianza del procurador Fernando Carrillo Flórez**. Cuando el periodista salió de la revista Semana, se lo llevó para su despacho de procurador. ¿Por qué vino un periodista que fuera de Semana y del despacho del Procurador al gabinete de William Dau? ¿Quién lo recomendó? ¿Llegó como lo hizo la Nena Arrázola, quien también estaba en Semana?
 
 ## La hipótesis
 

@@ -5,10 +5,10 @@ pubDate: "2023-06-07 01:19:45"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/marta-lucia-jorge-40-y-la-conexion-mafiosa-italiana/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/marta-lucia-jorge-40-y-la-conexion-mafiosa-italiana/hero.jpg)
 
 La exvicepresidenta de Colombia, **Marta Lucía Ramírez** se pudo concertar criminalmente con presuntos testaferros de **«Jorge 40»** para intentar defraudar al estado colombiano y al italiano. Por el otro, igualmente, el exprimer ministro de Italia **Massimo D´Alema** y sus compinches, presuntamente se habían concertados para defraudar a Colombia e Italia detrás de una «coima» de 80 millones de euros. Esta es la cantidad que recibirían por la compra de naves, aeronaves y material bélico del Estado colombiano a dos importantes empresas italianas, Leonardo y Fincantieri. La Fiscalía de Nápoles inició la investigación y solicitó la colaboración de su similar de Colombia donde se encuentran involucrados, además de la exvicepresidenta colombiana y del exprimer ministro italiano, una firma norteamericana de abogados.
 
@@ -26,7 +26,7 @@ Además de Eder Perneth, estaban el otrora jefe del paramilitarismo en Barranqui
 
 ## La investigación italiana a Marta Lucía
 
-![](./corriere-della-sera.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/marta-lucia-jorge-40-y-la-conexion-mafiosa-italiana/corriere-della-sera.jpg)
 
 Como suele suceder, la Fiscalía colombiana siempre está a la zaga de las investigaciones, especialmente, cuando se refiere a casos de corrupción de alto turmequé, como en este caso de la frustrada compra a las dos firmas italianas. Pero, por suerte, la Fiscalía napolitana ya abrió la investigación y pidió la colaboración a su similar colombiana para echarle el guante a los principales protagonistas de este delito transnacional.
 

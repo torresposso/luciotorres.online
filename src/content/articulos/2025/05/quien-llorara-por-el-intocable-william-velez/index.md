@@ -5,10 +5,10 @@ pubDate: "2025-05-21 02:42:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/quien-llorara-por-el-intocable-william-velez/"./hero.jpg"
 ---
 
-![El intocable William Vélez murió en un accidente doméstico, se cayó en el baño](./hero.jpg)
+![El intocable William Vélez murió en un accidente doméstico, se cayó en el baño](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/quien-llorara-por-el-intocable-william-velez/hero.jpg)
 *El intocable William Vélez murió en un accidente doméstico, se cayó en el baño.*
 
 ¿Quién llorará por el intocable **William Vélez Sierra**, señalado testaferro de **Vicente Castaño**? ¿Lo lloraran los **tres millones de víctimas del paramilitarismo** y de los grupos armados en el Caribe colombiano que esperan desde hace 20 años **verdad, reparación y garantía de no repetición**? Probablemente Vélez Sierra no disparó un solo tiro, contrario a su paisano Pablo Escobar, pero tuvo que ver con con muchas masacres. Hoy murió sin que el guante de la justicia lo tocara. Son **700 compulsas de copias** para que investiguen a Los Intocables que se las comen el comején en los anaqueles de Justicia y Paz, y en la Fiscalía.

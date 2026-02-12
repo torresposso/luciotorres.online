@@ -5,10 +5,10 @@ pubDate: "2023-05-30 03:32:16"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/reeleccion-del-contralor-de-bolsillo/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/reeleccion-del-contralor-de-bolsillo/hero.jpg)
 
 Existen tres razones para que el contralor de «bolsillo», **Carlos Hernán Rodríguez**, no se presente en su reelección de contralor. O, lo que es lo mismo, en el proceso de selección para escoger al **Contralor General de la República**. Una de carácter legal. Las otras dos, política y ética. La legal, como es obvio, se impone ante las otras dos. Y no tiene discusión. Un colega periodista, una vez leyó nuestra primera entrega sobre la caída del contralor, lanzó esta pregunta: ¿Puede haber reelección del contralor como lo señalan algunos medios nacionales? Nuestra respuesta fue tajante. ¡No!
 

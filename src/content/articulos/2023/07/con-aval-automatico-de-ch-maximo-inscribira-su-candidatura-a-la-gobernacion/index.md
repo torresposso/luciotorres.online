@@ -5,10 +5,10 @@ pubDate: "2023-07-27 21:45:11"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/con-aval-automatico-de-ch-maximo-inscribira-su-candidatura-a-la-gobernacion/"./hero.jpg"
 ---
 
-!["Atlántico al Máximo" con aval automático de Colombia Humana, se inscribirá Máximo Noriega. /Cortesía.](./hero.jpg)
+!["Atlántico al Máximo" con aval automático de Colombia Humana, se inscribirá Máximo Noriega. /Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/con-aval-automatico-de-ch-maximo-inscribira-su-candidatura-a-la-gobernacion/hero.jpg)
 *"Atlántico al Máximo" con aval automático de Colombia Humana, se inscribirá Máximo Noriega. /Cortesía.*
 
 En uso de las facultades ganadas al vencer limpiamente en la consulta popular interna de Colombia Humana (CH), **Máximo Noriega** se inscribirá a la gobernación del Atlántico con **aval automático**. Lo hará en nombre del Frente Amplio "**Atlántico al Máximo**", constituido por la mayoría de agrupaciones que compone el **Pacto Histórico** de ese departamento. **Aparte de tener un derecho adquirido con la consulta popular,** importantes sectores de la coalición que llevó a la presidencia a **Gustavo Petro**, como el Polo Democrático, **no apoyarían a Alfredo Varela**, porque sería un contrasentido a los principios democráticos y populares definidos por la Constitución y la ley.

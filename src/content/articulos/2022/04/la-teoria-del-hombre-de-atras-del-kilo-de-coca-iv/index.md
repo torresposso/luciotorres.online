@@ -5,10 +5,10 @@ pubDate: "2022-04-07 00:41:05"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-teoria-del-hombre-de-atras-del-kilo-de-coca-iv/"./hero.jpg"
 ---
 
-![Algunos indicios nos llevan a esta pregunta complicada y de extrema gravedad: ¿Quién es «el hombre de atrás» del Caso Gloria Estrada?](./andy-reales.jpeg)
+![Algunos indicios nos llevan a esta pregunta complicada y de extrema gravedad: ¿Quién es «el hombre de atrás» del Caso Gloria Estrada?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-teoria-del-hombre-de-atras-del-kilo-de-coca-iv/andy-reales.jpeg)
 *Algunos indicios nos llevan a esta pregunta complicada y de extrema gravedad: ¿Quién es «el hombre de atrás» Andy Reales y del complot?*
 
 Algunos indicios nos llevan a esta pregunta complicada y de extrema gravedad: **¿Quién es «el hombre de atrás» del Caso Gloria Estrada?** ¿Quién pudo determinar, en última instancia, que ese perverso caso se llevara a cabo? En el proceso de la Fiscalía existe suficiente material probatorio que demuestra la **teoría del complot que se expuso en VoxPopuli Digital**. También hay pruebas de la autoría material e intelectual de este crimen. 
@@ -35,7 +35,7 @@ Escucha este análisis.
 
 ## Policía pide la baja
 
-![El hombre de atrás. Aquí aparece el policía que compró el kilo de cocaína y quien supuestamente la halló en la camioneta de Martín Barreto para configurar el complot contra Gloría Estrada.](./hero.jpg)
+![El hombre de atrás. Aquí aparece el policía que compró el kilo de cocaína y quien supuestamente la halló en la camioneta de Martín Barreto para configurar el complot contra Gloría Estrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-teoria-del-hombre-de-atras-del-kilo-de-coca-iv/hero.jpg)
 *El hombre de atrás. Aquí aparece el policía que compró el kilo de cocaína y quien supuestamente la halló en la camioneta de Martín Barreto para configurar el complot contra Gloría Estrada.*
 
 Mientras resolvemos algunos de esos interrogantes, se conoció que otro de los policías que participó en el «operativo» del pasado 14 de enero de 2022**,** **pidió la baja de la institución**. Recordemos que el policía (**Alexander Salas**) que **_“descubrió el kilo de cocaína”_** en la camioneta donde se transportaban las posibles víctimas del complot, extrañamente, fue separado de la policía. Es **extraño este hecho, porque debió ser premiado con honores y diplomas, si este operativo fuera cierto.**
@@ -44,7 +44,7 @@ Entre tanto, Pedro Aponte correteó el lunes y martes al alcalde de Cartagena Wi
 
 ## Aponte estrecha relación con Negrete
 
-![El alcalde local 1, Luis Negrete, en plena cuarentena, celebrando con su  «hombre de atrás», Abraham Dau. Papi le dió ese juguete por cuatro años.  ](./negrete-y-dau.jpeg)
+![El alcalde local 1, Luis Negrete, en plena cuarentena, celebrando con su  «hombre de atrás», Abraham Dau. Papi le dió ese juguete por cuatro años.  ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-teoria-del-hombre-de-atras-del-kilo-de-coca-iv/negrete-y-dau.jpeg)
 *El alcalde local 1, Luis Negrete, en plena cuarentena, celebrando con su «hombre de atrás», Abraham Dau. Papi le dió ese juguete por cuatro años.*
 
 De igual manera, se recuerda que los ediles **Pedro Aponte y Oscar Marbello,** y el alcalde de la localidad 2, **Andy Reales Arroyo**, aparecen como sospechosos en calidad de autoría intelectual. Pero todo hace indicar que Reales Arroyo, al parecer, fue instrumentalizado por «el hombre de atrás» a través de **Pedro Aponte**, quien estrechó más sus relaciones con el alcalde de la localidad No 1, **Luis Hernán Negrete Blanco,** el protegido **de Abraham Dau,** hijo del alcalde de Cartagena**.**
@@ -55,7 +55,7 @@ Recordemos que, a pesar de las evidencias, sospechosamente la Procuraduría abso
 
 ## El papel del contralor
 
-![Aquí Pedro Aponte hace otra celebración con Mauro Martínez de la Puente el supuesto "caballo de troya" que le regalaron a Gloria Estrada.](./gloria-aponte-y-mauro.jpeg)
+![Aquí Pedro Aponte hace otra celebración con Mauro Martínez de la Puente el supuesto "caballo de troya" que le regalaron a Gloria Estrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-teoria-del-hombre-de-atras-del-kilo-de-coca-iv/gloria-aponte-y-mauro.jpeg)
 *Aquí Pedro Aponte hace otra celebración con Mauro Martínez de la Puente el supuesto "caballo de troya" contra Gloria Estrada.*
 
 Asimismo, debemos destacar el papel jugado por la Contraloría Distrital en el control fiscal. Y la contratación de Negrete debía ser objeto del control fiscal. Igualmente, debemos recordar que **Rafael Castillo Fortich** (hoy contralor Distrital encargado) era director de Responsabilidad y Control Fiscal de esa entidad. Llegó a ese cargo gracias a Gloria Estrada, la presidenta actual del concejo.
@@ -94,7 +94,7 @@ En un crimen se debe analizar las motivaciones de los autores. Es claro que Pedr
 
 ## Abraham Dau y el regalo de papi
 
-![](./Abraham-y-Lidy.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-teoria-del-hombre-de-atras-del-kilo-de-coca-iv/Abraham-y-Lidy.jpg)
 *Abraham Dau. Papi le regaló la localidad No 1 para que financie el movimiento Fuera Malandrines y se pensione en los cuatro años. Aquí aparece con la ideóloga, Lidys Ramirez, quien se quedó sin hacha. calabaza y miel.*
 
 **Entre Pedro Aponte y Abraham Dau hay muchas similitudes**. El alcalde de la localidad No 1, Luis Negrete, tiene como protector y probable "inversionista" a **Abraham Dau** (el hijo de William Dau), Las tres localidades manejan cerca $150 mil millones en los cuatro años de administración. Si el contralor **Castillo Fortich** pudo suspender a Reales, a Pedro Aponte se le iban cerca de **$26 mil millones** en contratación que correspondía al presupuesto 2022 y 2023. En plata blanca, para los dueños de esos contratos representarían aproximadamente un ingreso neto de **$13 mil millones** (3.5 millones de dólares). «»
@@ -125,7 +125,7 @@ No obstante, hay interrogantes que vale la pena formular ahora. ¿Por qué quier
 
 ## Pretendían asesinar a Estrada
 
-![A Gloria Estrada la querían muerta. ](./gloria-reunion-de-muejres.jpeg)
+![A Gloria Estrada la querían muerta. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-teoria-del-hombre-de-atras-del-kilo-de-coca-iv/gloria-reunion-de-muejres.jpeg)
 *A Gloria Estrada la querían muerta.*
 
 VoxPopuli Digital tiene información creíble de que los autores del complot lo que buscaban realmente era asesinar a Gloria Estrada. Pero se detuvieron. ¿Por qué optaron por una medida menos drástica? Porque los contactos que tocaron les hicieron ver que la primera pareja sentimental de Gloria Estrada (**Miguel Ramón Vega**, el popular **“Ratón”,** jefe de escoltas de la empresaria del chance **Enilce López** y con quien tiene una hija) los podría perseguir hasta sus guaridas.

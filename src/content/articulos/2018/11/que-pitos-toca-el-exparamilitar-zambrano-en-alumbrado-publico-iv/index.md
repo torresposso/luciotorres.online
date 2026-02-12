@@ -5,10 +5,10 @@ pubDate: "2018-11-06 02:05:27"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/que-pitos-toca-el-exparamilitar-zambrano-en-alumbrado-publico-iv/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/que-pitos-toca-el-exparamilitar-zambrano-en-alumbrado-publico-iv/hero.jpg)
 *¿Alias «Zambrano» , uno de los comandantes de los escuadrones de la muerte que operó en el Canal del Dique, le está haciendo mofa a Justicia y Paz? Foto de El Universal.*
 
   
@@ -20,7 +20,7 @@ heroImage: "./hero.jpg"
 
 **El Tribunal de Justicia y Paz,** los condenó por los siguientes actos criminales: **135 homicidios; 165 desaparición forzada**; 137 torturas; 151 despojos; 159 casos de desplazamiento forzado; 138 hechos de abusos sexual; 144 actos de terrorismo; 154 situaciones de destrucción y apropiación de bienes; 347 amenazas; 244 extorsiones; 149 detenciones ilegales; **384 crímenes relacionados con el tráfico de droga; 141 casos de prostitución o esclavitud sexual; y 162 reclutamientos ilícitos.** Por todos esos crímenes, incluyendo los de lesa humanidad, Vecino, Banquez y Mancilla **recibieron una pena de 8 años cada uno**.
 
-![](./ovidio_cordoba-2.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/que-pitos-toca-el-exparamilitar-zambrano-en-alumbrado-publico-iv/ovidio_cordoba-2.jpg)
 *Esta es la prueba reina para que Mancilla pierda sus atributos de Justicia y Paz y regrese a la cárcel. Al parecer, tienen una oficina de cobros. Ovidio Córdoba actúa como cobrador de Mancilla*
 
 _**Los ex escuadrones de la muerte**_ que andan sueltos de madrina, le siguen copiando a sus cabecillas como Córdoba le sigue a Zambrano, de acuerdo a la información que poseemos y que las autoridades también tienen. El hecho de que Ovidio Córdoba **reconozca que cobra en nombre de Mancilla es una prueba** que podría ser **cabeza de proceso** para que Justicia y Paz elimine los beneficios que está disfrutando en Barranquilla, después de haber cometido los numerosos crímenes, y regrese a la cárcel para que pague una pena superior a los 35 años. Incluso, también lo tendría que acompañarlo Ovidio Córdoba, quien **«no podría actuar sin el consentimiento de Mancilla»**, tal como me lo aseguró un personaje cercano al jefe paramilitar.
@@ -31,7 +31,7 @@ A Mancilla le puede suceder, lo que le pasó a **Marco Tulio Pérez Guzmán**, *
 
 ## La historia
 
-![](./jose-villalba-beltran-2.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/que-pitos-toca-el-exparamilitar-zambrano-en-alumbrado-publico-iv/jose-villalba-beltran-2.jpg)
 *José Villalba Beltrán, sonriente. Uno de los acompañantes es el consejero del presidente Duque, el exsenador Jaime Amín Hernández. Cortesía.*
 
 En mayo de 2003, **José _Monito_ Villalba Beltrán**, (el mismo dueño de **SOS**) con cédula de ciudadanía No 8.667.396, aparece firmando un contrato de pignoración de 1.667 cuotas partes del Consorcio Electroconstrucciones e ISM. Villalba actúa como **acreedor prendario** y **Juan Rodriguez Franco** como **deudor prendario**. Esto es, que Rodriguez cede a Villalba y éste tiene derecho a usufructuar los beneficios de su participación en la sociedad. El contrato se hizo a 15 años. (Esta historia donde aparece el _Monito_ Villalba la contaré en detalles en próximas entregas). Pero no fue la única cesión de cuotas. Existen varias, donde actúa Rodriguez Franco, como presunto testaferro de los Curi. Incluso, uno de esos contratos  lo elevaron a escritura pública en la Notaría 27 de Bogotá, el cual fue avalado por **William Arabia** y su esposa **Claudia Torres**, según el libro No 36.631 de la Cámara de Comercio de Cartagena.

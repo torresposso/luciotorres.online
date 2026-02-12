@@ -5,18 +5,18 @@ pubDate: "2021-01-10 20:24:32"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/los-char-jorge-40-y-la-guerra-que-perdio-barranquilla/"./hero.jpg"
 ---
 
 La memoria colectiva persigue a la gente que participó en la locura colectiva por el poder. Es un fantasma del eterno retorno. La guerra que perdió Barranquilla con el narcotráfico y  **«Jorge 40**» —en la última década del siglo 20 y comienzo del siglo 21— **significó el ascenso al poder político de los Char**. Pero también la aparición de una generación de grandes empresarios y comerciantes emergentes. **El surgimiento de esta nueva hegemonía estuvo ligado al narcotráfico y a la corrupción político-administrativa**.
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/los-char-jorge-40-y-la-guerra-que-perdio-barranquilla/hero.jpg)
 
 La lucha contra la guerrilla, la extorsión y secuestro fue una falsa motivación para justificar una guerra que jamás debió producirse. Por ejemplo, **el Gaula del Atlántico fue instrumento de esa guerra**. Está documentado que el Gaula usó la información para el homicidio al servicio de los paramilitares. Si bien las motivaciones de la guerra eran reales, el resultado es que la **inseguridad ciudadana persiste** y los nuevos amos de la ciudad tienen un ejército privado para cuidarlos. Pero la estela de 500 homicidios y de miles de desplazado es el precio que hemos pagado.
 
 ## El precio
 
-\[caption id="attachment\_13658" align="aligncenter" width="454"\]![Guzmán Quintero Torres, mi hermano, mi amigo. Su homicidio es un delito de lesa humanidad.](./guzman-lesa-humanidad.jpg) **Guzmán Quintero Torres**, mi hermano, mi amigo, mi discípulo. Su homicidio es un delito de lesa humanidad.\[/caption\]
+\[caption id="attachment\_13658" align="aligncenter" width="454"\]![Guzmán Quintero Torres, mi hermano, mi amigo. Su homicidio es un delito de lesa humanidad.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/los-char-jorge-40-y-la-guerra-que-perdio-barranquilla/guzman-lesa-humanidad.jpg) **Guzmán Quintero Torres**, mi hermano, mi amigo, mi discípulo. Su homicidio es un delito de lesa humanidad.\[/caption\]
 
 Como periodista, fui protagonista de una parte de la historia política de Barranquilla. **Aunque trabajé en un medio de los Char, nunca tuve un acercamiento con ellos.** Mantuve mi independencia. Y cuando vi que era insostenible mi continuidad, me dediqué a emprender. Tampoco ocupé un cargo público. Pero siempre he pensado que para salir del estado de cosas dominante, las buenas personas debemos tener la capacidad y el valor de **lanzarnos a resolver la crisis de dirección del mundo**. Y cuando se habla de «buenas personas», nos referimos a **Ser antes que tener**. Por esta razón, **impulsamos el Movimiento Ciudadano para** una salida social al grave problema que padecía Barranquilla. Una ciudad que me dio mucho de lo que amo. Allí nació mi descendencia.
 
@@ -54,7 +54,7 @@ Tales son las preguntas que se hacen familiares de las víctimas fatales de las 
 
 ## Alex, el futuro de los Char
 
-\[caption id="attachment\_13653" align="aligncenter" width="747"\]![](./alex-char.jpg) **Alex**, la cara presidencialista de los Char, introdujo una forma de gobierno **heredada del paramilitarismo/.** Facebook.\[/caption\]
+\[caption id="attachment\_13653" align="aligncenter" width="747"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/los-char-jorge-40-y-la-guerra-que-perdio-barranquilla/alex-char.jpg) **Alex**, la cara presidencialista de los Char, introdujo una forma de gobierno **heredada del paramilitarismo/.** Facebook.\[/caption\]
 
 Si el futuro que nos promete a los colombianos el hijo más ambicioso de **Fuad Char Abdala**, **Alex Char Chaljub** —exalcalde de Barranquilla y exgobernador del Atlántico— es lo que hizo en esta hermosa y pacífica ciudad, sería la continuidad de una historia de ignominia, descomposición social e inconsciencia colectiva.
 
@@ -76,7 +76,7 @@ Como periodista, conocí de cerca a Fuad Char Abdala y Faryala Hanna Arana. Así
 
 ## Los Char y Bernardo Hoyos
 
-\[caption id="attachment\_13659" align="aligncenter" width="710"\]![](./bernardo-hoyos-2.jpg) **El padre Bernardo Hoyos Montoya** es un excelente anfitrión. A sus 80 años sigue siendo un buen guía en el Centro Social Don Bosco.\[/caption\]
+\[caption id="attachment\_13659" align="aligncenter" width="710"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/los-char-jorge-40-y-la-guerra-que-perdio-barranquilla/bernardo-hoyos-2.jpg) **El padre Bernardo Hoyos Montoya** es un excelente anfitrión. A sus 80 años sigue siendo un buen guía en el Centro Social Don Bosco.\[/caption\]
 
 El triunfo del padre **Bernardo Hoyos Montoya (1992)** no resolvió el problema central, esto es, el poder ciudadano y la voluntad popular.  Su mandato (1993—1994) **fue una apertura a sectores sociales y de izquierda que nunca habían saboreado el poder**. Pero su participación fue marginal, muy a pesar de que gente del pueblo llegó a ocupar puestos de mando en los gobiernos del Movimiento Ciudadano.
 

@@ -5,10 +5,10 @@ pubDate: "2022-06-14 02:02:44"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/que-hay-del-periodismo-amenazado-en-cartagena/"./hero.jpg"
 ---
 
-![El periodismo amenazado. Los periodistas carlos Figueroa y Germán terán en reunión con la Secretaria del Interior, Paola Pianeta y otros funcionarios del Distrito de Cartagena.](./hero.jpg)
+![El periodismo amenazado. Los periodistas carlos Figueroa y Germán terán en reunión con la Secretaria del Interior, Paola Pianeta y otros funcionarios del Distrito de Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/que-hay-del-periodismo-amenazado-en-cartagena/hero.jpg)
 *El periodismo amenazado. Los periodistas carlos Figueroa y Germán Terán en reunión con la Secretaria del Interior, Paola Pianeta y otros funcionarios del Distrito de Cartagena el pasado 10 de junio 2022.*
 
 ¿Por qué el periodismo en Cartagena está amenazado? **Germán Terán y Carlos Figueroa** se suman a los periodistas amenazados. Quien suscribe este escrito, por ejemplo, está siendo amenazado por fuerzas que se amparan en el anonimato. Es una situación que se viene agravando debido al contexto de inseguridad que vive la ciudad.  
@@ -47,7 +47,7 @@ Ante esa situación, la Secretaría del Interior del Distrito activó la ruta de
 
 ## Tatiana Tatis
 
-![](./TATIANA-TATIS1.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/que-hay-del-periodismo-amenazado-en-cartagena/TATIANA-TATIS1.jpg)
 *Tatiana Tatis, comunicadora social-periodista antes de la pandemia había sido amenazada.*
 
 De igual manera, también la periodista Tatiana Tatis había sido amenazada por un desconocido. Ella dijo a la prensa local, en su momento, que un individuo la citó:

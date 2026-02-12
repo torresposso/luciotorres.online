@@ -5,10 +5,10 @@ pubDate: "2024-03-25 15:50:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/yo-voy-a-mandar-la-fiscal-al-presidente-i/"./hero.jpg"
 ---
 
-![](./Luz_Adriana_Camargo_Gustavo_Petro-1024x826.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/yo-voy-a-mandar-la-fiscal-al-presidente-i/Luz_Adriana_Camargo_Gustavo_Petro-1024x826.jpeg)
 *Luego de tomar posesión ante el Presidente, al ser interpelada por los medios, Luz Adriana Camargo dejó todo claro: «Yo voy a mandar»./Foto Presidencia.*
 
 ¿Podemos creer en esta importante frase que define a una funcionaria tan poderosa como el presidente mismo? **«La fiscal soy yo y voy a mandar»**. Así, **Luz Adriana Camargo Garzón**, poco después de posesionarse ante el **presidente Gustavo Petro**, le salió al paso a los periodistas que la interpelaron sobre su autonomía frente al presidente de la República o de la misma **Corte Suprema de Justicia**. Si la palabra de la nueva fiscal es sincera y si está alineada a su identidad, seguramente tendremos una Fiscalía General de la Nación que su misión, en forma cabal, cumplirá . Pero hay algo que no se refirió ni ante los medios de comunicación ni en su misma posesión: **cómo transformará este ente, cuya moralidad está en el lodo.**
@@ -41,7 +41,7 @@ De hecho, la pregunta a la fiscal no es si va a transformar al ente sino cómo l
 
 ## «La fiscal soy yo»
 
-![Al firmar: «Yo voy a mandar»./Foto Presidencia](./Luz-Adriana_firma-1024x469.jpeg)
+![Al firmar: «Yo voy a mandar»./Foto Presidencia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/yo-voy-a-mandar-la-fiscal-al-presidente-i/Luz-Adriana_firma-1024x469.jpeg)
 *Foto Fiscalía.*
 
 Por ejemplo, ante la insistente pregunta sesgada del periodista de El Tiempo si iba a ser independiente, **Luz Adriana Camargo**, dijo:
@@ -58,7 +58,7 @@ Esa respuesta de la fiscal deja de ser evasiva para enfrentarse a una realidad h
 
 ## Una fiscalía sin agenda política
 
-![Proceso contra el hijo del presidente está avanzado. Va para juicio. «Yo voy a mandar»./Foto Presidencia](./hero.jpg)
+![Proceso contra el hijo del presidente está avanzado. Va para juicio. «Yo voy a mandar»./Foto Presidencia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/yo-voy-a-mandar-la-fiscal-al-presidente-i/hero.jpg)
 *El proceso contra el hijo del presidente está avanzado.*
 
 Ahora bien, toda acción jurídica encierra una acción social y política en el sentido amplio de la palabra. Tanto como estamos en un Estado Social de Derecho donde lo jurídico está determinado por lo social, tal como lo expresan pensadores modernos desde Weber hasta los filósofos de la Escuela de Fráncfort. Lo jurídico es una prolongación de la cosa política como dirección estatal. En un Estado punitivo y, al mismo tiempo, garante, como el nuestro, la Fiscalía es un baluarte para preservar la transparencia o contener las acciones delictivas de los asociados.
@@ -79,7 +79,7 @@ Por esa razón, respetando la autonomía de los fiscales, la Fiscal debe velar q
 
 ## «La fiscal soy yo» y la prueba de fuego
 
-![¿Procesará a Roa? «Yo voy a mandar»./Foto Presidencia](./ricardo-roa_ecopetrol-1024x1024.jpg)
+![¿Procesará a Roa? «Yo voy a mandar»./Foto Presidencia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/yo-voy-a-mandar-la-fiscal-al-presidente-i/ricardo-roa_ecopetrol-1024x1024.jpg)
 *¿Acusarán a los autores del delito de falsedad para mantener los topes de financiación de la campaña presidencial?*
 
 Empero, **Luz Adriana Camargo** tiene varias pruebas de fuego en forma inmediata. Así demostrará si es una fiscal autónoma o de bolsillo que se deje embriagar del poder. Son los casos asociados a **Nicolás Petro Burgos**, el hijo del presidente comprometido con los delitos de enriquecimiento ilícito y lavado de activos, la supuesta violación de los topes y falsedades de la campaña presidencial y los hechos relacionados con la _Paz Total_.

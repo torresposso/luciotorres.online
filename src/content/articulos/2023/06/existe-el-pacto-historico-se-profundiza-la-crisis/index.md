@@ -5,10 +5,10 @@ pubDate: "2023-06-15 00:33:18"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/existe-el-pacto-historico-se-profundiza-la-crisis/"./hero.jpg"
 ---
 
-![¿Existe el Pacto Histórico? No existe jurídicamente y carece de una dirección democrática./Darwin Núñez-Pacto Histórico.](./hero.jpg)
+![¿Existe el Pacto Histórico? No existe jurídicamente y carece de una dirección democrática./Darwin Núñez-Pacto Histórico.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/existe-el-pacto-historico-se-profundiza-la-crisis/hero.jpg)
 *¿Existe el Pacto Histórico? No existe jurídicamente y carece de una dirección democrática. Hoy esta foto quedó fragmentada/Darwin Núñez-Pacto Histórico.*
 
 ¿Existe el Pacto Histórico jurídica y políticamente? ¿Puede avalar candidatos? A nivel nacional se registra una amalgama de irregularidades en la selección de candidatos para las corporaciones públicas y cargos uninominales que nada le puede envidiar a los partidos tradicionales. A esto se suma el hecho de que es una coalición y no un partido político y a la imposibilidad de avalar candidaturas si no cuentan con el apoyo unánime de todas sus organizaciones coaligadas. Sin duda, esta situación expresa una crisis total del Pacto que concluyó con la elección del presidente Gustavo Petro en junio 2022.
@@ -19,7 +19,7 @@ En la capital de la república como en las diferentes regiones, hasta ahora no e
 
 ## Si no hay consenso, no hay coalición
 
-![¿El Pacto Histórico existe?](./Pacto-Historico-1.jpg)
+![¿El Pacto Histórico existe?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/existe-el-pacto-historico-se-profundiza-la-crisis/Pacto-Historico-1.jpg)
 *¿El Pacto Histórico existe?*
 
 Ahora bien. Si todos los movimientos y partidos minoritarios que hicieron la coalición de partidos volvieran a congregarse para organizar, planificar y reglamentar la participación para las elecciones de este año, le daría nueva vida política y de legitimidad ante el Consejo Nacional Electoral. Pero allí no podría estar Colombia Humana, ya que es el partido del presidente.
@@ -30,7 +30,7 @@ Sin embargo, en la medida en que todos los partidos y movimientos minoritarios q
 
 ## Las directrices del Pacto Histórico
 
-![](./Partidos-coalicion-PH.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/existe-el-pacto-historico-se-profundiza-la-crisis/Partidos-coalicion-PH.jpg)
 *Son 12 movimientos con personería jurídica, y 13 sin aval.*
 
 En la circular política electoral No 7, la Coordinación Nacional (Comité Político Nacional -Comisión Nacional Electoral) del Pacto Histórico señala que no puede haber exclusiones:

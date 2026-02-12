@@ -5,10 +5,10 @@ pubDate: "2022-04-14 20:21:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-esperanza-de-la-resurreccion-en-semana-santa/"./hero.jpg"
 ---
 
-![La esperanza de la resurrección en Semana Santa. Cristo resucitó en mí.](./hero.jpg)
+![La esperanza de la resurrección en Semana Santa. Cristo resucitó en mí.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-esperanza-de-la-resurreccion-en-semana-santa/hero.jpg)
 *La esperanza de la resurrección en Semana Santa. Cristo resucitó en mí. Cortesía.*
 
 Desde el punto de vista filosófico e histórico la esperanza de la resurrección de Cristo despierta mucho interés en el mundo cristiano. Pero, sobretodo, crea un estado espiritual para la reflexión de que _polvo somos y en polvo nos convertiremos_, **pero con la esperanza de resucitar**. En este sentido, se conmemora la Semana Santa como la pasión, la muerte y **la resurrección de Jesucristo.**
@@ -27,7 +27,7 @@ De la misma manera, los días Jueves y Viernes Santos teníamos limitaciones. No
 
 ## El Viernes Santos que viví
 
-![El gobernador Vicente Blel en una procesión de Magangué.](./vicente-blel.jpg)
+![El gobernador Vicente Blel en una procesión de Magangué.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-esperanza-de-la-resurreccion-en-semana-santa/vicente-blel.jpg)
 *El gobernador Vicente Blel y su esposa Natalia Eljach en una procesión de Magangué.*
 
 Un Viernes Santo ví ese remolino de hojas y madera secas color marrón. Era un torbellino que se llevaba casi todo lo que encontraba a su paso. Trozos de trapos, zapatos viejos y toda clase de objetos naturales y artificiales que volaban a lo más alto del cielo. Cuando leí Cien Años de Soledad supuse que [**Gabriel García Márquez**](https://www.cervantes.es/bibliotecas_documentacion_espanol/creadores/garcia_marquez_gabriel.htm) debió inspirarse en uno de estos remolinos para narrar la escena de la ascensión de [Remedios, la bella, al cielo](https://webcache.googleusercontent.com/search?q=cache:Jn1atXiGZpsJ:/articulos/isimu/article/download/10669/10813/25564+&cd=19&hl=es-419&ct=clnk&gl=co). Cuando regresé a casa agitado y asustado, mi abuela Ana Luisa, quien guardaba muy bien los preceptos cristianos, me dijo:

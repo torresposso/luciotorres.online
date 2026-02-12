@@ -5,10 +5,10 @@ pubDate: "2023-04-23 15:48:16"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/amenazas-causan-zozobra-pre-electoral/"./hero.jpg"
 ---
 
-![Zozobra pre-electoral causa nuevas amenazas con dos precandidatos a la alcaldía y líderes sociales.](./hero.jpg)
+![Zozobra pre-electoral causa nuevas amenazas con dos precandidatos a la alcaldía y líderes sociales.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/amenazas-causan-zozobra-pre-electoral/hero.jpg)
 *Zozobra pre-electoral causa nuevas amenazas contra tres precandidatos a la alcaldía, líderes sociales y abogados. Aquí aparecen Héctor Pérez Fernández y Fidian García en el peaje de Turbaco.*
 
 Nuevas amenazas de muerte contra líderes sociales, precandidatos a la alcaldía y periodistas de Cartagena de Indias **—**en medio de un contexto de inseguridad diciente**—** causan **zozobra pre-electoral**. Estas amenazas se dieron cuando la ciudad vivió, el jueves 20 de abril de 2023, el día más sangriento del mes: **tres sicariatos en menos de 10 horas**. Además, entre los amenazados hay tres precandidatos a la alcaldía de Cartagena, **Héctor Pérez, Javier Julio Bejarano y Fidian García,** popularmente conocido como **_Capitán No + a los Peajes_.**
@@ -17,7 +17,7 @@ Este contexto violento pondría en **cuidados intensivos las elecciones locales*
 
 ## Los precandidatos a la alcaldía
 
-![](./La-policia-ofrece-escuchar-a-amenazados.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/amenazas-causan-zozobra-pre-electoral/La-policia-ofrece-escuchar-a-amenazados.jpg)
 
 La policía invitó a los amenazados a una reunión el lunes 24 de abril a las 9 de la mañana. Allí están los precandidatos a la alcaldía, **Héctor Pérez Fernández** (Colombia Libres) y **Javier Julio Bejarano** (Mais) y **Fidían García**, inscribió su movimiento **Social No +**. Esta es la lista oficial de los movimientos significativos de ciudadanos inscritos ante la Registraduría Distrital:
 
@@ -61,7 +61,7 @@ La policía invitó a los amenazados a una reunión el lunes 24 de abril a las 9
 
 ## Zozobra pre**—**electoral
 
-![Zozobra electoral](./salvemos-a-Cartagena-de-Dau.jpg)
+![Zozobra electoral](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/amenazas-causan-zozobra-pre-electoral/salvemos-a-Cartagena-de-Dau.jpg)
 *Zozobra pre—electoral se vive en Cartagena de Indias.*
 
 La zozobra pre**—**electoral causada por tales amenazas que viven líderes sociales, veedores, precandidatos a la alcaldía debe ser analizada y ponderada por la Fiscalía en forma concreta y rápida para saber de dónde viene esta coacción y judicializar a los responsables. Pero también el gobierno nacional debe pronunciarse a través del ministerio de Defensa y la Unidad Nacional de Protección-UNP. Los periodistas de investigación, en especial **VoxPopuli Digital**, que también acompañamos estos procesos sociales, somos objetos de constantes amenazas de muerte y hostigamiento judicial y policial que la FLIP denunció ante la UNP.
@@ -72,7 +72,7 @@ La UNP solamente le implementó un esquema por emergencia a **Fredis Martínez**
 
 ## UNP desdeña amenazas
 
-![](./UNP_Augusto-Rodriguez-y-la-UNP.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/amenazas-causan-zozobra-pre-electoral/UNP_Augusto-Rodriguez-y-la-UNP.jpeg)
 *La UNP a tomar medidas ciertas frente a las reales amenazas.*
 
 Con motivo de la lucha contra los peajes, por ejemplo, se presentaron nuevas amenazas. Esta vez contra **Adil Meléndez Márquez, Héctor Pérez Fernández, Javier Julio Bejarano, Fidian García, Erick Urueta Benavides, Cleiner Almanza, José Arrieta, Freddy Martínez, Jhon Jaime León, Yeison Laso Pajarito**

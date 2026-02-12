@@ -5,10 +5,10 @@ pubDate: "2023-03-11 02:21:12"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/aida-el-retorno-de-un-fantasma/"./hero.jpg"
 ---
 
-![Aída, el retorno de un fantasma](./hero.jpg)
+![Aída, el retorno de un fantasma](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/aida-el-retorno-de-un-fantasma/hero.jpg)
 *Aída, el retorno de un fantasma*
 
 **El retorno de un fantasma que amenaza con presentar material probatorio de sus viejas acusaciones contra mafias políticas del Caribe colombiano.** Así se podría considerar el regreso de la condenada y deportada **Aída Merlano Rebolledo** a Colombia. La exsenadora con su pose de víctima, realizó una improvisada rueda de prensa con el beneplácito de Migración Colombia, el INPEC y la SIJIN que la escoltaron como si fuera un trofeo de guerra.

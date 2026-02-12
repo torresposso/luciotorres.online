@@ -5,10 +5,10 @@ pubDate: "2024-04-08 03:13:35"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/acto-heroico-salvar-las-eps-o-hundir-la-reforma-a-la-salud-i/"./hero.jpg"
 ---
 
-![«Acto heroico»: ¿salvar las Eps o hundir la reforma a la Salud](./hero.jpg)
+![«Acto heroico»: ¿salvar las Eps o hundir la reforma a la Salud](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/acto-heroico-salvar-las-eps-o-hundir-la-reforma-a-la-salud-i/hero.jpg)
 *Una de las escenas de la Comisión VII antes de decidir la negativa de la Reforma a la Salud. En el fondo, el cuadro de Jorge Eliécer Gaitán. Cortesía.*
 
 ¿«Acto heroico»? La clase política puso a los colombianos frente a una falsa disyuntiva: **salvar las Eps o hundir la reforma a la salud**. El pulso político al interior de la Comisión VII del senado, como ya se sabe, se definió a favor de hundir la tan accidentada reforma que se llevó a 5 ministros. Al mismo tiempo, el gobierno se acordó que tenía Ministerio de Salud y, además, Superintendencia de Salud, las cuales soltó como perros tras la presa putrefacta del sistema.
@@ -55,7 +55,7 @@ Por esa razón, el modelo adoptado por Colombia devino en crisis por su poca cob
 
 Con el fin de tener una idea clara y objetiva de la rentabilidad del negocio de la salud, basta comparar los ingresos netos de las Eps con las empresas comunes de Colombia. Por ejemplo, veamos los ingresos de las principales EPS en el ejercicio financiero de 2021:
 
-![El ingreso neto de las EPS](./Captura-de-pantalla-178.png)
+![El ingreso neto de las EPS](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/acto-heroico-salvar-las-eps-o-hundir-la-reforma-a-la-salud-i/Captura-de-pantalla-178.png)
 
 Como se puede apreciar en ese cuadro elaborado por el Ministerio de la Salud con el apoyo de expertos del Banco Mundial y de la Organización Panamericana de la Salud, encontró que esas Eps eran las más sólidas, porque presentan una situación de “bajo riesgo financiero y de sobrevivencia”. Pero, hoy, Sanitas y la Nueva EPS acaban de ser intervenida y Sura está a punto de serlo.
 
@@ -65,7 +65,7 @@ De hecho, si, en 2021, sus rentabilidades se contrasta con la de las 1.000 empre
 
 ## ¿«Acto heroico» defender la integración vertical del negocio?
 
-![Jaime González Montaño, 25 años detrás de Coosalud. De mondado a empresario exitoso de la salud.](./dr_gonzalez-886x1024-1.jpg)
+![Jaime González Montaño, 25 años detrás de Coosalud. De mondado a empresario exitoso de la salud.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/acto-heroico-salvar-las-eps-o-hundir-la-reforma-a-la-salud-i/dr_gonzalez-886x1024-1.jpg)
 *Jaime González Montaño, 25 años detrás de Coosalud. De mondado a empresario exitoso de la salud. Presuntamente patrocina concejales, diputados, senadores y mandatarios.*
 
 Si Sanitas solo produjera 1,28% para el español **Joseba Grajales**, dueño de la multinacional Keralty, desde hace rato se hubiese ido de Colombia. Puesto que sus ganancias netas están muy por debajo de la rentabilidad promedio de las empresas colombianas, que fue del **14,3%**.

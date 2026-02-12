@@ -5,10 +5,10 @@ pubDate: "2022-03-01 01:16:35"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/paro-mototaxistas-una-bomba-de-humo-del-alcalde/"./hero.jpg"
 ---
 
-![Un despliegue de fuerza hizo el gobierno distrital para controlar la protesta de los mototaxista. Es parte dela bomba de humo.](./hero.jpg)
+![Un despliegue de fuerza hizo el gobierno distrital para controlar la protesta de los mototaxista. Es parte dela bomba de humo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/paro-mototaxistas-una-bomba-de-humo-del-alcalde/hero.jpg)
 *Un despliegue de fuerza hizo el gobierno distrital para controlar la protesta de los mototaxista. Es parte de la bomba de humo. Cortesía.*
 
 Cartagena de Indias fue sometida en el día de hoy a una situación caótica y de parálisis de las actividades. **Estalló una bomba de humo**. Se impuso la manipulación de la opinión pública ejercida por un alcalde que prefirió la megalomanía salvadora a una salida concertada y razonable con un sector marginado y excluido como es el mototaxismo.  
@@ -17,7 +17,7 @@ En realidad, el desenlace violento de **la protesta puede ser una acción premed
 
 ## Bomba de humo
 
-![Un consejo de seguridad que solo se fijó en los actos vandálicos para disimular la bomba de humo del alcalde.](./consejo-de-seguridad-alcalde.jpg)
+![Un consejo de seguridad que solo se fijó en los actos vandálicos para disimular la bomba de humo del alcalde.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/paro-mototaxistas-una-bomba-de-humo-del-alcalde/consejo-de-seguridad-alcalde.jpg)
 *Un consejo de seguridad que solo se fijó en los actos vandálicos para disimular la bomba de humo del alcalde. Cortesía.*
 
 Lo que está sucediendo con el tratamiento oficial a la protesta social del mototaxismo, podría ser simplemente una bomba de humo. Dau la hizo estallar para distraer a la opinión pública.
@@ -48,7 +48,7 @@ Por su parte, los mototaxistas convocaron a una jornada de protesta para detener
 
 ## Ilegalizar la protesta y Pacto Histórico callado
 
-![¡Militarizada cartagena! Bomba de humo del alcalde Dau.](./militarizada-la-ciudad.jpg)
+![¡Militarizada cartagena! Bomba de humo del alcalde Dau.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/paro-mototaxistas-una-bomba-de-humo-del-alcalde/militarizada-la-ciudad.jpg)
 *¡Militarizada cartagena! Bomba de humo del alcalde Dau.*
 
 De la misma manera, denunciaron que la conducta del burgomaestre en la mesa de diálogo fue de distracción hasta llegar a la dilación. Estimaron que fue una estrategia para poder adoptar el mencionado decreto sin ninguna concertación con el gremio y declarar la protesta ilegal.
@@ -69,7 +69,7 @@ Así se confirma la pretensión de William Dau al descalificar la protesta —a 
 
 ## Pianeta, en el Pacto Histórico
 
-![Paola Pianeta, la escaladora Secretaria del Interior. De defensora de los mototaxista a detractora, todo por el cargo. Es una pieza de esta bomba de humo del alcalde. Cuota del Pacto Histórico en el gobierno de Dau.](./paola-pianeta-2.jpg)
+![Paola Pianeta, la escaladora Secretaria del Interior. De defensora de los mototaxista a detractora, todo por el cargo. Es una pieza de esta bomba de humo del alcalde. Cuota del Pacto Histórico en el gobierno de Dau.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/paro-mototaxistas-una-bomba-de-humo-del-alcalde/paola-pianeta-2.jpg)
 *Paola Pianeta, la escaladora Secretaria del Interior. De defensora de los mototaxista a detractora, todo por el cargo. Es una pieza de esta bomba de humo del alcalde. Cuota del Pacto Histórico en el gobierno de Dau y seguidora de Gustavo Petro.*
 
 La secretaria del Interior (e) **Paola Pianeta**, excandidata a Edil avalada por e**l Movimiento Alternativo Indígena y Social (Mais),** es una de las que le habla al oído al burgomaestre**.** Ella hace parte del **Pacto Histórico**, fue la encargada de dirigir toda la artillería de desprestigio contra el movimiento de mototaxista. La protesta la calificó de «vandalismo» que merecían el tratamiento de represión como se le dio en el día de hoy. (Ver el video), Consultamos a dirigentes del Pacto Histórico sobre la pertenencia de Pianeta a esa alianza, y manifestaron que no es cuota de ellos.

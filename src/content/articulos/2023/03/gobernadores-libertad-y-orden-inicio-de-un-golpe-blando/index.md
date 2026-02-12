@@ -5,10 +5,10 @@ pubDate: "2023-03-23 00:07:26"
 author: "Lucio"
 categories: ["Análisis","Mi País","Política"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/gobernadores-libertad-y-orden-inicio-de-un-golpe-blando/"./hero.jpg"
 ---
 
-![Gobernadores: «¡Libertad y Orden!» ¿Inicio de un golpe blando?](./hero.jpg)
+![Gobernadores: «¡Libertad y Orden!» ¿Inicio de un golpe blando?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/gobernadores-libertad-y-orden-inicio-de-un-golpe-blando/hero.jpg)
 *«¡Libertad y Orden!» ¿Inicio de un golpe blando?*
 
 La campaña **«¡Libertad y Orden!»** surgida de la **Primera Cumbre de Gobernadores 2023** —realizada en Quindío— dio origen a especulaciones de **teorías conspirativas** entre la izquierda y la derecha colombiana. Aparentemente, solo fue resultado de la creatividad espontánea de varios gobernadores para enfrentar algunos hechos que afectan la democracia. Pero, si se trata de analizar la construcción de un **«**golpe de Estado blando**»**, no podemos soslayar los grandes errores estratégicos del **gobierno compartido** de Gustavo Petro y de su **lectura equivocada del conflicto armado colombiano**.
@@ -33,14 +33,14 @@ El orden sin libertad se convierte en dictadura. La libertad sin orden es el cao
 
 ## «¡Libertad y Orden!» en la Cumbre de Gobernadores
 
-![En la Primera Cumbre de Gobernadores Quindío 2023 surgió la idea de colocar en los estados de sus redes sociales la frase «¡Libertad y Orden!».](./Cumbre-de-gobernadores-2023_quindio.jpg)
+![En la Primera Cumbre de Gobernadores Quindío 2023 surgió la idea de colocar en los estados de sus redes sociales la frase «¡Libertad y Orden!».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/gobernadores-libertad-y-orden-inicio-de-un-golpe-blando/Cumbre-de-gobernadores-2023_quindio.jpg)
 *En la Primera Cumbre de Gobernadores Quindío 2023 surgió la idea de colocar en los estados de sus redes sociales la frase «¡Libertad y Orden!».*
 
 Al final de la **Primera Cumbre de Gobernadores de 2023** surgió la idea de colocar en los estados de sus redes sociales la frase «¡Libertad y Orden!». Y esto ocasionó dos lecturas de teorías conspirativas diametralmente opuestas. Por un lado, la derecha colombiana —anidada en la oposición política— lo consideró como parte de una decisión política para cuestionar las directrices presidenciales en materia de orden público. Directrices que son de naturaleza constitucional. Los gobernadores asumen un papel secundario y complementario cedido por el gobierno nacional.
 
 Por otro lado, la izquierda política alertó la posibilidad de estar naciendo un **«**golpe de Estado blando**»**. Todo esto matizado por las circunstancias de orden público en el campo y la agravación de la seguridad ciudadana. Estos dos problemas están siendo dinamizados por las organizaciones criminales armadas que tienen presencia en el territorio nacional. No es lo mismo enfrentar una guerrilla tradicional que bandas criminales. La motivación de estas es el negocio ilegal como finalidad. La guerrilla, por el contrario, el negocio es un medio para conseguir recursos que le permita derrocar al gobierno constitucional o forzar grandes reformas con su desmovilización o reinserción social.
 
-![Aníbal Gaviria, gobernador de Antioquia, fue uno de los mandatarios en utilizar la frase «¡Libertad y Orden!» en la Cumbre de 2023.](./Anibal_Gaviria_cumbre_2023.jpg)
+![Aníbal Gaviria, gobernador de Antioquia, fue uno de los mandatarios en utilizar la frase «¡Libertad y Orden!» en la Cumbre de 2023.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/gobernadores-libertad-y-orden-inicio-de-un-golpe-blando/Anibal_Gaviria_cumbre_2023.jpg)
 *Aníbal Gaviria, gobernador de Antioquia, fue uno de los mandatarios en utilizar la frase «¡Libertad y Orden!» en la Cumbre de 2023.*
 
 No obstante, el gobernador del Meta, Juan Guillermo Zuluaga, para desvirtuar todo tipo de especulaciones conspirativas, dijo a RCN:

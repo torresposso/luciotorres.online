@@ -5,7 +5,7 @@ pubDate: "2021-05-12 18:47:49"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/carlos-caicedo-se-siente-perseguido-en-su-gobernacion/"./hero.jpg"
 ---
 
 \[caption id="attachment\_14979" align="aligncenter" width="1280"\](imagen no disponible) El presidente Duque con el gobernador Caicedo cuando no había el pulso de hoy.\[/caption\]
@@ -26,7 +26,7 @@ La molestia del gobernador del Magdalena se profundizó en las últimas. El pasa
 
 El líder del gobierno del Magdalena, no solo se encuentra molesto por el maltrato que dice recibir del presidente Duque. También señala que está atentando contra el legítimo derecho del pueblo del Magdalena de autogobernarse.
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/carlos-caicedo-se-siente-perseguido-en-su-gobernacion/hero.jpg)
 *Carlos Caicedo se siente perseguido por el presidente y Uribe.*
 
 En ese sentido, **Carlos Caicedo**, señaló cinco punto

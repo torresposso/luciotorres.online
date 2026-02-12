@@ -5,10 +5,10 @@ pubDate: "2020-12-23 00:42:36"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/12/covid-19-no-da-tregua-este-martes-llego-a-mas-de12-mil-contagiados/"./hero.jpg"
 ---
 
-\[caption id="attachment\_13536" align="aligncenter" width="705"\]![](./hero.jpg) Fernando Ruiz. Ministro de Salud y Protección Social. **La covid-19 no da tregua.**\[/caption\] Al tiempo que el Ministerio de Salud busca establecer un control del ingreso de ciudadanos ingleses a Colombia, **la Covid—19 no da tregua**. En los últimos días se ha incrementado. Hoy Colombia registró 12.526 casos nuevos de coronavirus. Se registraron 251 fallecidos. El número de contagiados llegó a 1’530.593, de los cuales **91.129 están activos**, **1’394.374 se han recuperado del virus y 40.931 han muerto**, según el Ministerio de Salud. El gobierno del presidente Iván Duque tomó la decisión de cerrar los vuelos internacionales procedentes de Londres. En esta ciudad se descubrió una nueva cepa del nuevo coronavirus. Es más contagiable. Es decir, se propaga con facilidad, pero menos letal. **Entre tanto, el Ministerio de Salud informó hoy que las zonas de mayor contagio son: Bogotá con 3.439, Antioquia con 1.944 y Valle con 801. Cartagena tuvo un contagio de 752 y 4 fallecidos.**
+\[caption id="attachment\_13536" align="aligncenter" width="705"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/12/covid-19-no-da-tregua-este-martes-llego-a-mas-de12-mil-contagiados/hero.jpg) Fernando Ruiz. Ministro de Salud y Protección Social. **La covid-19 no da tregua.**\[/caption\] Al tiempo que el Ministerio de Salud busca establecer un control del ingreso de ciudadanos ingleses a Colombia, **la Covid—19 no da tregua**. En los últimos días se ha incrementado. Hoy Colombia registró 12.526 casos nuevos de coronavirus. Se registraron 251 fallecidos. El número de contagiados llegó a 1’530.593, de los cuales **91.129 están activos**, **1’394.374 se han recuperado del virus y 40.931 han muerto**, según el Ministerio de Salud. El gobierno del presidente Iván Duque tomó la decisión de cerrar los vuelos internacionales procedentes de Londres. En esta ciudad se descubrió una nueva cepa del nuevo coronavirus. Es más contagiable. Es decir, se propaga con facilidad, pero menos letal. **Entre tanto, el Ministerio de Salud informó hoy que las zonas de mayor contagio son: Bogotá con 3.439, Antioquia con 1.944 y Valle con 801. Cartagena tuvo un contagio de 752 y 4 fallecidos.**
 
 ## **La covid-19 no da tregua**
 

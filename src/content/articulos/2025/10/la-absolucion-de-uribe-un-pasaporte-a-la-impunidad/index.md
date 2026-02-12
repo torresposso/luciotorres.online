@@ -5,10 +5,10 @@ pubDate: "2025-10-22 03:50:29"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/la-absolucion-de-uribe-un-pasaporte-a-la-impunidad/"./hero.jpg"
 ---
 
-![](./Juicio-Alvaro-Uribe-1024x567.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/la-absolucion-de-uribe-un-pasaporte-a-la-impunidad/Juicio-Alvaro-Uribe-1024x567.jpeg)
 *Absolución de Uribe: ¿Una victoria judicial precaria? Se polariza más el debate y la política.*
 
 La absolución de Uribe lejos de resolver la discusión sobre su pasado _non sancto_, ahora la polarizó. La decisión judicialmente es débil y tiene una alta dosis de interpretación política. En una eventual revisión de casación, seguramente corregirán el error de la Sala Penal del Tribunal Superior de Bogotá. Pero el efecto político y el daño a la moralidad pública ya están causados. Fueron ocho años de litigios. Un juicio que no tuvo la atención de los medios de comunicación tradicionales hasta cuando se produjo la sentencia condenatoria de primera instancia.

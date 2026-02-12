@@ -5,10 +5,10 @@ pubDate: "2024-10-23 14:59:49"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/revelaciones-de-la-condena-contra-juancho-dique-i/"./hero.jpg"
 ---
 
-![¿Arrepentimiento? ¿Garantía de no repetición? ¡Pamplinas! La puerca pollera nunca pierde el vicio. ¿Este decir costeño aplica para el exjefe paramilitar Uber Enrique Banquez, más conocido con el nombre criminal de «Juancho Dique»? La sentencia del juzgado 22 Municipal de Garantías de Bogotá, en primera instancia, lo condenó por fraude procesal y falso testimonio. Le mintió a la Corte Suprema de Justicia en los procesos contra los senadores de la época de los hechos, Javier Cáceres y Piedad Zuccardi.](./Uber_banquez_laverdad-1024x550.jpeg)
+![¿Arrepentimiento? ¿Garantía de no repetición? ¡Pamplinas! La puerca pollera nunca pierde el vicio. ¿Este decir costeño aplica para el exjefe paramilitar Uber Enrique Banquez, más conocido con el nombre criminal de «Juancho Dique»? La sentencia del juzgado 22 Municipal de Garantías de Bogotá, en primera instancia, lo condenó por fraude procesal y falso testimonio. Le mintió a la Corte Suprema de Justicia en los procesos contra los senadores de la época de los hechos, Javier Cáceres y Piedad Zuccardi.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/revelaciones-de-la-condena-contra-juancho-dique-i/Uber_banquez_laverdad-1024x550.jpeg)
 *Ahora Uber Banquez («Juancho Dique») posa de santo. ¿Podemos creerle después de esta condena? Cortesía.*
 
 ¿Arrepentimiento? ¿Garantía de no repetición? ¡Pamplinas! _La puerca pollera nunca pierde el vicio_. ¿Este decir costeño aplica para el exjefe paramilitar **Uber Enrique Banquez**, más conocido con el nombre criminal de **«Juancho Dique»**? La sentencia del **juzgado 22 Municipal de Garantías** de Bogotá, en primera instancia, lo **condenó por fraude procesal** y **falso testimonio**. Le mintió a la **Corte Suprema de Justicia** en los procesos contra los senadores de la época de los hechos, **Javier Cáceres y Piedad Zuccardi**.
@@ -21,14 +21,14 @@ Pero, además de no ser el único que miente, su caso es más complejo y de alto
 
 ## **«Juancho Dique»** y su estela criminal
 
-![](./Uber_banquez.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/revelaciones-de-la-condena-contra-juancho-dique-i/Uber_banquez.jpeg)
 *Uber Enrique Banquez de hizo bachiller, abogado y administrador de empresa luego de someterse a Justicia y Paz. ¿Cambió su carácter criminal? La condena del juzgado penal dice lo contrario. La puerca pollera nunca pierde el vicio. X.*
 
 El perfil criminal de **Uber Enrique Banquez Martínez** responde al de un hombre formado por el ejército colombiano que luego ejecuta los peores crímenes so pretexto de luchar contra la guerrilla. Obedecía ciegamente y sin escrúpulos las órdenes horripilantes de su jefe inmediato, alias _Cadena_, el _Matarife de Macayepo_. O sea, es una **máquina de acero** para el crimen.
 
 No obstante, si se ahonda en este caso, se encontrará que su personalidad asume diferentes caretas según las circunstancias que lo determinan. A la manera como lo explica el psicoanalista **Karl Jung**:
 
-![Revelaciones de la condena contra «Juancho Dique» indican que siguió delinquiendo.](./Huber-Enrique-Banquez.jpeg)
+![Revelaciones de la condena contra «Juancho Dique» indican que siguió delinquiendo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/revelaciones-de-la-condena-contra-juancho-dique-i/Huber-Enrique-Banquez.jpeg)
 *Revelaciones de la condena contra «Juancho Dique» indican que siguió delinquiendo. X.*
 
 > **«**L**os seres humanos no desarrollamos nuestro carácter a partir de la nada sino que estamos influenciados por el inconsciente colectivo**».

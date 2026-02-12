@@ -5,10 +5,10 @@ pubDate: "2024-05-19 13:59:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/la-triquinuela-juridica-de-uribe-aplazo-la-audiencia-de-acusacion/"./hero.jpg"
 ---
 
-![Aspecto de la transmisión de la audiencia pública donde se debía escuchar la acusación contra el intocable número 1 de Colombia. La triquiñuela jurídica de Uribe aplazó la audiencia de acusación](./Audiencia_uribe-1024x514.jpeg)
+![Aspecto de la transmisión de la audiencia pública donde se debía escuchar la acusación contra el intocable número 1 de Colombia. La triquiñuela jurídica de Uribe aplazó la audiencia de acusación](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/la-triquinuela-juridica-de-uribe-aplazo-la-audiencia-de-acusacion/Audiencia_uribe-1024x514.jpeg)
 *Aspecto de la transmisión de la audiencia pública donde se debía escuchar la acusación contra el intocable número 1 de Colombia. La triquiñuela jurídica de Uribe aplazó la audiencia de acusación*
 
 La triquiñuela jurídica de Uribe le dio resultado, por ahora, para impedir que lo juzguen. **Jaime Granados Peña**, el jefe de la defensa del expresidente **Álvaro Uribe Vélez**, sacó debajo de su manga mágica dos cartas con el fin de **dilatar la llegada de juicio contra su defendido**. La primera carta no le funcionó. Pidió que se aplazara la audiencia de acusación porque se hizo una adición de un párrafo a la resolución de acusación en el último momento que fue notificado al compartir el enlace de la transmisión de la audiencia. Pero la Juez 44 Penal del Circuito de Bogotá, **Sandra Liliana Heredia** la rechazó de plano.

@@ -5,10 +5,10 @@ pubDate: "2024-10-18 02:34:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/petro-uribe-gemelos-de-la-opinion-negativa-ii/"./hero.jpg"
 ---
 
-![](./Uribe_Petro_miniatura-1024x575.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/petro-uribe-gemelos-de-la-opinion-negativa-ii/Uribe_Petro_miniatura-1024x575.jpeg)
 *Petro/Uribe: ¿Gemelos de la opinión negativa?*
 
 **Petro/Uribe**: ¿Gemelos de la opinión negativa? ¿La opinión pública está cansada de la polarización? La estrategia comunicativa dominante quiere reencauchar a **Álvaro Uribe Vélez** como jefe natural de la oposición a raíz del debate de la **reforma laboral** que cursa en la cámara de representantes. Los dos líderes políticos **―**que están situados en los extremos ideológicos**―** no gozan de una aceptación ante la opinión pública.
@@ -65,7 +65,7 @@ De lo anterior se colige que el presidente solo quiere terminar su mandato con u
 
 ## Alianza con todos
 
-![El intercambio de sombrero que dejó perplejas a las víctimas del paramilitarismo. (Cortesía Colprensa)](./Petro_Mancuso.jpeg)
+![El intercambio de sombrero que dejó perplejas a las víctimas del paramilitarismo. (Cortesía Colprensa)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/petro-uribe-gemelos-de-la-opinion-negativa-ii/Petro_Mancuso.jpeg)
 *El intercambio de sombrero que dejó perplejas a las víctimas del paramilitarismo. (Cortesía Colprensa).*
 
 Tanto Petro como Uribe no tienen empacho para unirse hasta con el diablo. Lo importante son sus objetivos. Uribe usó, por ejemplo, a **Salvatore Mancuso** para expandir el poder paramilitar desde la gobernación de Antioquia. Los procesos judiciales de La Granja y del Aro, lo comprometen seriamente sino como determinador, sí por omisión.

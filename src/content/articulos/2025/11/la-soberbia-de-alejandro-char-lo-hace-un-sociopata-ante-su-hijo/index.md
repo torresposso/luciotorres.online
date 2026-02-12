@@ -5,10 +5,10 @@ pubDate: "2025-11-09 18:01:55"
 author: "Lucio"
 categories: ["Ahora","Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/la-soberbia-de-alejandro-char-lo-hace-un-sociopata-ante-su-hijo/"./hero.jpg"
 ---
 
-![La soberbia de Alejandro Char lo hace un sociópata ante su hijo](./hero.jpg)
+![La soberbia de Alejandro Char lo hace un sociópata ante su hijo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/la-soberbia-de-alejandro-char-lo-hace-un-sociopata-ante-su-hijo/hero.jpg)
 *La soberbia de Alejandro Char lo hace un sociópata ante su hijo.*
 
 La soberbia de **Alejandro Char** fue evidente. Dejó esperando a Steven Char Ramos este 6 de noviembre en el **Centro de Conciliación Liborio Mejía** de Barranquilla. Como aquel día remoto, hace 33 años, cuando su madre **Diana Ramos** lo esperó con el alma hecha trizas, justo después de confesarle que llevaba su destino palpitando en el vientre.
@@ -27,7 +27,7 @@ Cada barranquillero, especialmente las mujeres y jóvenes, debe pensar la actuac
 
 ## La soberbia de Alejandro Char
 
-![No conciliación de Char](./acta-de-no-conciliacion-654x1024.jpg)
+![No conciliación de Char](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/la-soberbia-de-alejandro-char-lo-hace-un-sociopata-ante-su-hijo/acta-de-no-conciliacion-654x1024.jpg)
 *No conciliación de Char*
 
 **Alejandro Char Chaljub**, alcalde de Barranquilla, volvió a quedarse en silencio. No asistió. La cita, que incluso se habilitó en modalidad virtual para facilitar su participación, fue ignorada con la misma frialdad con la que, según Steven, lo ha hecho toda la vida. Lo dejó esperando como hace 33 años cuando su madre lo esperó en el centro comercial de Las Américas de Bogotá.
@@ -38,7 +38,7 @@ Esa ausencia no fue solo la de un hombre que elude una diligencia jurídica. Fue
 
 ### **El hijo que pidió diálogo**
 
-![La soberbia de Alejandro Char expresa su condición de sociópata](./Steven_char_alejo_.jpg)
+![La soberbia de Alejandro Char expresa su condición de sociópata](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/la-soberbia-de-alejandro-char-lo-hace-un-sociopata-ante-su-hijo/Steven_char_alejo_.jpg)
 *Los dos hijos de Alejandro Char: el primogénito Steven y el junior, Alejandro.*
 
 El 22 de octubre, Steven Char Ramos —ya con el fallo judicial que certifica su filiación— actuó con nobleza. No buscó venganza, ni exhibición mediática. Envió un escrito formal al **Centro de Conciliación**, solicitando una audiencia **extrajudicial en derecho** para dialogar con su padre, con la esperanza de un encuentro que nunca llegó.

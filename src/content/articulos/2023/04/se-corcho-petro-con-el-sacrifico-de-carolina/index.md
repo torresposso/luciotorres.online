@@ -5,10 +5,10 @@ pubDate: "2023-04-29 22:49:32"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/se-corcho-petro-con-el-sacrifico-de-carolina/"./hero.jpg"
 ---
 
-![El presidente Gustavo Petro salió de Diana Carolina Corcho de una manera criticada por sectores importantes de la salud.  ¿Se corchó Petro con el sacrifico de Carolina?](./hero.jpg)
+![El presidente Gustavo Petro salió de Diana Carolina Corcho de una manera criticada por sectores importantes de la salud.  ¿Se corchó Petro con el sacrifico de Carolina?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/se-corcho-petro-con-el-sacrifico-de-carolina/hero.jpg)
 *El presidente Gustavo Petro salió de Diana Carolina Corcho de una manera criticada por sectores importantes de la salud. ¿Se corchó Petro con el sacrifico de Carolina?*
 
 ¿Se corchó Petro con el sacrificio de **Diana Carolina Corcho** **Mejía**, la hoy exministra de Salud? **Sectores de la Colombia Humana** y de organizaciones que integran el **Pacto Histórico** expresaron toda su solidaridad a la exfuncionaria, la principal sacrificada con el cambio ministerial. Ahora tenemos un gabinete incondicional y moldeable al deseo absoluto del **presidente Gustavo Petro**, cuya Colombia Humana brilla por su debilidad orgánica. Un gabinete sin disenso, proclive al unanimismo, lo llevaría a **un falso consenso**.

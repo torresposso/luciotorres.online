@@ -5,7 +5,7 @@ pubDate: "2022-07-03 00:39:33"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-deuda-eterna-de-126-mil-millones-de-bolivar-a-udec-provocaria-un-colapso-i/"./hero.jpg"
 ---
 
 La deuda eterna de $126 mil millones que la gobernación de Bolívar tiene con la Universidad de Cartagena (UdeC) **puede llevar a un colapso administrativo al Alma Máter**. Cada cuatrimestre la deuda aumenta, lo cual afecta el funcionamiento de la misma. El gobernador **Vicente Blel**, como presidente del Consejo Superior, está llamado a ponerse al día con el **convenio de pago firmado en 2017 por Dumek Turbay.**
@@ -24,7 +24,7 @@ Con esos $126 mil millones la Universidad de Cartagena puede resolver el tema pe
 
 ## El cheque de Dumek
 
-![Este cheque rebotó a tres bandas. El convenio fue incumplido por la gobernación. La buena intención de Dumek Turbay se desvaneció con el incumplimiento y profundizó la deuda eterna.](./hero.jpg)
+![Este cheque rebotó a tres bandas. El convenio fue incumplido por la gobernación. La buena intención de Dumek Turbay se desvaneció con el incumplimiento y profundizó la deuda eterna.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-deuda-eterna-de-126-mil-millones-de-bolivar-a-udec-provocaria-un-colapso-i/hero.jpg)
 *Este cheque rebotó a tres bandas. El convenio fue incumplido por la gobernación. La buena intención de Dumek Turbay se desvaneció con el incumplimiento y profundizó la deuda eterna.*
 
 En 2017, el gobernador de ese entonces, Dumek Turbay Paz, reconoció la deuda y firmó un convenio de pago con el rector de la época **Edgar Parra Chacón**, por la suma de $120 mil millones. Fue un paso muy importante para reconocer la deuda histórica. Idearon una forma propagandística de lanzar y presentar el convenio ante la prensa con lo que se llamó el **"cheque de Dumek"**. Pero el convenio fue incumplido por la gobernación y el cheque rebotó a tres bandas. Es decir, salió chimbo a partir de 2019 que dejaron de pagar.

@@ -5,10 +5,10 @@ pubDate: "2023-03-25 16:55:12"
 author: "Lucio"
 categories: ["Análisis","Investigación","Post Conflicto"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/los-intocables-la-fosa-comun-de-alfonso-macias-ii/"./hero.jpg"
 ---
 
-![«Los intocables»: La fosa común de Alfonso Macías (II)](./hero.jpg)
+![«Los intocables»: La fosa común de Alfonso Macías (II)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/los-intocables-la-fosa-comun-de-alfonso-macias-ii/hero.jpg)
 *«Los intocables»: La fosa común de Alfonso Macías. Esta fue la audiencia de publicación de la macro-sentencia donde compulsaron copias para que se investigara a los 9 empresarios, entre ellos, Alfonso Macías.*
 
 Esta es la historia de la fosa común de **Alfonso Macías**, uno de **«**Los intocables**»**. G_anadero, palmicultor, empresario_ y propietario de la finca **El Potosí**, en la vía a El Copey, Cesar. Hoy, según los que lo conocen, aparenta ser una prestante persona muy respetuosa de los derechos de los demás. Él, como también **Rafael Matera Lajud**, siempre lleva a cuesta una mochila, en cuyo interior hay una pistola preparada para matar. Esta historia pareciera que fuera inverosímil, pues, muchas personas no creen que el ser humano puede llegar a cometer horribles hechos inhumanos, que aquí solo referenciamos.
@@ -25,7 +25,7 @@ Quizás casi todo lo que siga en esta entrega periodística se conoce. El grueso
 
 ## ¿Por qué **«**Los intocables**»** y la fosa común?
 
-![Jorge 40 sigue siendo el capo dei capi. Se está preparando para ser gestor de paz con el apoyo de amigos cercanos al Alto Comisionado de Paz sin haber pagado sus crímenes y devuelto los bienes a sus víctimas. La fosa común de Alfonso Macías.](./Yo_soy_Jorge_40_Portada.jpg)
+![Jorge 40 sigue siendo el capo dei capi. Se está preparando para ser gestor de paz con el apoyo de amigos cercanos al Alto Comisionado de Paz sin haber pagado sus crímenes y devuelto los bienes a sus víctimas. La fosa común de Alfonso Macías.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/los-intocables-la-fosa-comun-de-alfonso-macias-ii/Yo_soy_Jorge_40_Portada.jpg)
 *«Jorge 40» sigue siendo el capo dei capi. Se está preparando para ser gestor de paz con el apoyo de amigos cercanos al Alto Comisionado de Paz, Danilo Rueda, sin haber pagado sus crímenes y devuelto los bienes a sus víctimas.*
 
 A esos empresarios que se les sindica de esos crímenes atroces, nada les pasa... mejor, nada les pasaba. Por esto se les apodan **«**Los intocables**»**. El único que está detrás de reja y condenado, que no es lo mismo, es **Darío Laino Scopetta**. Hasta hace tres meses, andaba como _Pedro por su casa_ en Barranquilla y la Costa Caribe. Se codeaba como un próspero palmicultor, ganadero y empresario de la industria del blindaje. Extraoficialmente informó una fuente, que en uno de sus vehículos blindados se transportaba el hoy **Alto Comisionado de Paz, Danilo Rueda**, cuando visitaba la cárceles del país hablando del **«perdón social»**.
@@ -36,7 +36,7 @@ Sorprende que uno de los paramilitares **—Juan Francisco Segura Gómez**, alia
 
 ## La fosa común es uno de los crímenes de Macías
 
-![](./Alfonso-Macia1.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/los-intocables-la-fosa-comun-de-alfonso-macias-ii/Alfonso-Macia1.jpg)
 *Así luce hoy Alfonso Macías Vargas. (Captura de video).*
 
 **Los crímenes de Alfonso Macías no paran allí**, en la fosa común, según varios testimonios de Justicia y Paz. La pregunta segura que la justicia debe formularle **—**además de sus viejos crímenes de lesa humanidad que no prescriben**—** ¿cuándo y cómo ha cometido otros delitos para borrar evidencias de sus legendarios crímenes contra la humanidad, como desaparición forzada, desplazamiento forzado, secuestro, homicidio en persona protegida, entre otros?
@@ -51,8 +51,8 @@ De esa manera se planeó y se ejecutó el doble asesinato donde cayó el alcalde
 
 ## La fosa común en Potosí
 
-*   ![Este el mismo documento enviado por la Fiscalía Quinta Delegada ante Jueces Penales del Circuito especializados de Barranquilla a la Unidad Nacional de Extinción de Dominio](./Paracos_matricula_Potosi.jpg)
-*   ![](./paracos_matricula_potosi_2-1.jpg)
+*   ![Este el mismo documento enviado por la Fiscalía Quinta Delegada ante Jueces Penales del Circuito especializados de Barranquilla a la Unidad Nacional de Extinción de Dominio](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/los-intocables-la-fosa-comun-de-alfonso-macias-ii/Paracos_matricula_Potosi.jpg)
+*   ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/los-intocables-la-fosa-comun-de-alfonso-macias-ii/paracos_matricula_potosi_2-1.jpg)
 
 Llama la atención la versión libre de **Francisco Gaviria**, alias **«Mario Chiquito»**, sobre el caso de la fosa común en la finca Potosí. Este relato lo corrobora alias **«El Alacrán»**. Gaviria dijo en Justicia y Paz que en esa finca se cometieron horrendos crímenes, **la mayoría ordenados por Alfonso Macías**. Señala que se enterraron en una fosa común cerca de **12 personas que siguen desaparecidas**.
 
@@ -64,7 +64,7 @@ Según el juez que hace el traslado de pruebas, la finca Potosí es de **Alfonso
 
 ## Se le acabó la suerte a **«**Los intocables**»**
 
-![](./laino-scopetta.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/los-intocables-la-fosa-comun-de-alfonso-macias-ii/laino-scopetta.jpg)
 *La paradoja de la justicia. Se sindica que Alfonso Macías es más sanguinario que Laino Scopetta. Macías tiene una fosa común.*
 
 Al primero de **«**Los intocables**»** que se le acabó su racha de buena suerte, como se dijo, fue al empresario **Darío Laino Scoppetta**, alias **«Ojitos Azules»**. ¿Había comprado su impunidad en estos 20 años? Sin dudarlo dos veces, [la justicia colombiana es una de las más corruptas de América Latina](./colombia-no-mejora-en-el-indice-de-percepcion-de-corrupcion/). Hasta el 2018 no se conocía una sola foto actualizada de **«Ojitos Azules»** asociada a los crímenes del pasado que lo perseguían como un fantasma. De la misma manera, hay pocas fotos del empresario **Alfonso Macías**.
@@ -92,7 +92,7 @@ Sin embargo, esas investigaciones, al parecer, están paralizadas. Por esta raz�
 
 ## La carta de un ciudadano
 
-![Esta es la respuesta del presidente de la Sala de Justicia y Paz  a un ciudadano que se queja porque no están cumpliendo con la macrosentencia.](./Paracos_carta_presidente_SalaJyP.jpg)
+![Esta es la respuesta del presidente de la Sala de Justicia y Paz  a un ciudadano que se queja porque no están cumpliendo con la macrosentencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/los-intocables-la-fosa-comun-de-alfonso-macias-ii/Paracos_carta_presidente_SalaJyP.jpg)
 *Esta es la respuesta del presidente de la Sala de Justicia y Paz a un ciudadano que se queja porque no están cumpliendo con la macrosentencia.*
 
 **Carlos Andrés Pérez Alarcón** presidente de la Sala de Justicia y Paz del Tribunal Superior de Barranquilla, atendiendo la falta de efectividad de esas compulsas, le respondió a un ciudadano que le elevó un derecho de petición:

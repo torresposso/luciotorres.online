@@ -5,10 +5,10 @@ pubDate: "2022-11-20 16:03:16"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/deslizamientos-de-tierra-por-dano-ambiental-en-turbana-y-cartagena-i/"./hero.jpg"
 ---
 
-![Luis Alberto Caraballo explica como se viene desmoronando la tierra a más de 10 metros de altura. Deslizamientos de tierra por daño ambiental en Turbana .](./hero.jpg)
+![Luis Alberto Caraballo explica como se viene desmoronando la tierra a más de 10 metros de altura. Deslizamientos de tierra por daño ambiental en Turbana .](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/deslizamientos-de-tierra-por-dano-ambiental-en-turbana-y-cartagena-i/hero.jpg)
 *Luis Alberto Caraballo explica como se viene desmoronando la tierra a más de 10 metros de altura.*
 
 Los consabidos sitios de Cartagena y Bolívar donde se presentan deslizamientos de tierra, es consecuencia de sobreexplotación de sus recursos naturales. Por ejemplo, canteras o bosques. De igual forma, construcciones improvisadas y violación de las normas ambientales. Esto es lo que podría suceder en la falda de **La Popa, San Francisco, y Loma del Marión**. En tanto que en Turbana, tiene una sistemática explotación de canteras que sirven de drenaje y contención natural de las aguas. Esta sería la causa primordial de los deslizamientos en la vereda **El Chorro y la Legua**.
@@ -25,7 +25,7 @@ Como se muestra en este documental, así se caen a pedazos varias parcelas de la
 
 ## Deslizamientos de tierra de Loma del Marión
 
-![Deslizamientos de tierra por daño ambiental. Este es una de las viviendas construidas en cercanía de la Loma del Marión , Cartagena de Indias. Cortesía.](./loma-del-marion1.jpg)
+![Deslizamientos de tierra por daño ambiental. Este es una de las viviendas construidas en cercanía de la Loma del Marión , Cartagena de Indias. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/deslizamientos-de-tierra-por-dano-ambiental-en-turbana-y-cartagena-i/loma-del-marion1.jpg)
 *Deslizamiento de tierra por daño ambiental. Este es una de las viviendas construidas en cercanía de la Loma del Marión , Cartagena de Indias. Cortesía de la comunidad.*
 
 Los deslizamientos de tierra donde se hace más evidente es en La **Loma del Marión**, ubicado en la Urbanización Nueva Granada, al suroccidente de Cartagena, sigue desmoronándose. Hasta ahora se desconoce el número de damnificados que viven en situación de riesgo y zozobra. Gran parte de la loma se vino abajo. El muro de contención construido en 2010 impidió el deslizamiento de tierra hacia donde se encuentran las primeras viviendas.
@@ -36,7 +36,7 @@ La Oficina Asesora para la Gestión del Riesgo de Desastres de Cartagena (OAGRD
 
 ## Deslizamientos de tierra en Turbana
 
-![Así se viene partiendo la corteza terrestre desde el 7 de noviembre, en una de las parcelas de El Chorro y La Legua. Este deslizamientos de tierra se produjo por la explotación de las canteras. ](./hero.jpg)
+![Así se viene partiendo la corteza terrestre desde el 7 de noviembre, en una de las parcelas de El Chorro y La Legua. Este deslizamientos de tierra se produjo por la explotación de las canteras. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/deslizamientos-de-tierra-por-dano-ambiental-en-turbana-y-cartagena-i/hero.jpg)
 *Así se viene partiendo la corteza terrestre desde el 7 de noviembre, en una de las parcelas de El Chorro y La Legua. Este deslizamientos de tierra se produjo por la explotación de las canteras.*
 
 Para ir a **El Chorro y La Legua**, veredas del municipio de Turbana, debemos transitar una vía de herradura hacia dentro desde la doble calzada hacia Barú, antes de Pasacaballos. Ni los mulos pueden pasar por ese camino. Algunos cuadrúpedos quedaban atollados por el nivel característica del barro que se forma. Los deslizamientos se produjeron desde el 7 de noviembre. Esto ocurre a menos de 12 kilómetros del suroccidente de Cartagena de Indias. El día de nuestra visita, llegó una comisión de la alcaldía de Turbana que verificó la situación.
@@ -47,7 +47,7 @@ Vale decir que se destruyeron varias hectáreas de productos de pancoger, como *
 
 ## Las parcelas afectadas por deslizamiento de tierra
 
-![La altura del deslizamiento de tierra tenía 10 metros. Las toneladas de lodo cubrieron cultivos y pozas de piscicultura de la parcela Bendición de Dios de Luis Caraballo, cuya vivienda de dos pisos, corre inminente peligro.](./El-chorro_miniatura.jpg)
+![La altura del deslizamiento de tierra tenía 10 metros. Las toneladas de lodo cubrieron cultivos y pozas de piscicultura de la parcela Bendición de Dios de Luis Caraballo, cuya vivienda de dos pisos, corre inminente peligro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/deslizamientos-de-tierra-por-dano-ambiental-en-turbana-y-cartagena-i/El-chorro_miniatura.jpg)
 *La altura del deslizamiento de tierra tenía 10 metros en El Chorro. Las toneladas de lodo cubrieron cultivos y pozas de piscicultura de la parcela Bendición de Dios de Luis Caraballo, cuya vivienda de dos pisos, corre inminente peligro.*
 
 Son más de 5 parcelas de El Chorro las que sufrieron las consecuencias de este fenómeno. **Luis Alfredo Caraballo**, uno de los afectados, manifiesta que la causa principal de esta situación fue la sobreexplotación de una cantera de piedra contigua a la zona del deslizamiento. Desde que extrajeron miles de toneladas de piedra y arena, esas tierras se volvieron deleznable. Por lo que considera que es la causa estructural del deslizamiento de tierra. Las aguas lluvias que cayeron en los últimos días aceleró el fenómeno.
@@ -60,7 +60,7 @@ Hay dos caminos para llegar a las veredas de El Chorro. En uno de ellos las mula
 
 ## Licencias para explotar canteras
 
-![Este era el tipo de piedra que explotaron en una cantera que tenía aproximadamente 10 hectáreas cerca de la parcela donde Luis Alfredo Caraballo sufrió los daños por el deslizamiento de tierra.](./El-Chorro_piedra.jpg)
+![Este era el tipo de piedra que explotaron en una cantera que tenía aproximadamente 10 hectáreas cerca de la parcela donde Luis Alfredo Caraballo sufrió los daños por el deslizamiento de tierra.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/deslizamientos-de-tierra-por-dano-ambiental-en-turbana-y-cartagena-i/El-Chorro_piedra.jpg)
 *Este era el tipo de piedra que explotaron en una cantera que tenía aproximadamente 10 hectáreas cerca de la parcela donde Luis Alfredo Caraballo sufrió los daños por el deslizamiento de tierra.*
 
 El presidente de la Junta de Acción Comunal (JAC) de El Chorro y La Legua, **Ronald David Meza Bautista**, denunció que las comunidades no fueron informadas de licencias para explotar recursos naturales y, especialmente, canteras de piedra caliza y arena. La comunidad considera que esta es la causa de que las aguas lluvias desencadenaran los deslizamientos. Las piedras y la arena se constituía en un sistema de drenaje natural que permitía que las tres fuentes de agua (ojos de agua) que existen en la zona, se filtrara sin causar daño alguno.

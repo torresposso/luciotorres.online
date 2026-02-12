@@ -5,10 +5,10 @@ pubDate: "2022-05-24 02:28:16"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/el-senador-tono-correa-en-aprieto-por-mermelada-de-5-mil-millones/"./hero.jpg"
 ---
 
-![El senador electo Antonio «Toño» Correa  en aprieto.](./hero.jpg)
+![El senador electo Antonio «Toño» Correa  en aprieto.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/el-senador-tono-correa-en-aprieto-por-mermelada-de-5-mil-millones/hero.jpg)
 *El senador electo Antonio «Toño» Correa en aprieto. ¿Le espera La Picota? Cortesía.*
 
 El senador electo **Antonio «Toño» Correa está en aprieto**. Es muy probable que no alcance a calentar la silla que tiene asignada en el senado desde julio. Todo por una «mermelada» (cupo indicativo) de **$5.000 millones.**  La Sala de Indagación de la Corte Suprema de Justicia (CSJ) lo acaba de llamar a indagatoria. Existen claros indicios y material probatorio de haber recibido una **comisión del 12%** por obras de infraestructura deportiva que se ejecutaron a medias en El Peñón (Bolívar) y  Santa Cruz de Lorica, Córdoba. 
@@ -51,7 +51,7 @@ Para cometer la tramoya, Coldeportes celebró con El Peñón (Bolívar) en 2017 
 
 ## ¿Cómo se hizo la tramoya?
 
-![Arlin Arias García, exalcalde de El Peñón fue condenado a 7 años de cárcel, Fue el regalo del Nilo Dios que recibió el 23 de diciembre de 2019. ¿«Toño» Correa en aprieto?](./arlin_capturado.jpg)
+![Arlin Arias García, exalcalde de El Peñón fue condenado a 7 años de cárcel, Fue el regalo del Nilo Dios que recibió el 23 de diciembre de 2019. ¿«Toño» Correa en aprieto?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/el-senador-tono-correa-en-aprieto-por-mermelada-de-5-mil-millones/arlin_capturado.jpg)
 *Arling Arias García, exalcalde de El Peñón del partido Conservador, fue condenado a 7 años de cárcel, Fue el regalo del Nilo Dios que recibió el 23 de diciembre de 2019. ¿«Toño» Correa en aprieto? Cortesía.*
 
 La licitación para la adjudicación del contrato, como es lógico, la arreglan. Los mismos futuros contratistas elaboran el pliego de condiciones de la licitación y colocaron los interventores escogidos de la misma forma. Según el expediente, esto mismo se hizo con la cancha de El Peñón. Recordemos que Dicon SAS fue una de las empresas que permitió a **Dionisio Vélez**, alcalde de Cartagena en 2014, dilapidar la suma de **$79 mil millones de pesos para intervenir 171 calles**. Ese dinero hizo parte del préstamo de **$250 mil millones** que le aprobó el concejo de la época. 
@@ -62,7 +62,7 @@ La construcción de la cancha de El Peñón tuvo muchos tropiezos. Los construct
 
 ## En Lorica hicieron lo mismo
 
-![Nancy Sofía Jattin, exalcaldesa de Santa Cruz de Lorica, implicada en este caso del senador. «Toño» Correa en apuro.](./sofia-jattin.jpg)
+![Nancy Sofía Jattin, exalcaldesa de Santa Cruz de Lorica, implicada en este caso del senador. «Toño» Correa en apuro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/el-senador-tono-correa-en-aprieto-por-mermelada-de-5-mil-millones/sofia-jattin.jpg)
 *Nancy Sofía Jattin, exalcaldesa de Santa Cruz de Lorica, implicada en este caso del senador. «Toño» Correa en apuro.*
 
 De igual manera, los otros $**1.566 millones** fueron adjudicados mediante un convenio entre Coldeportes y la alcaldesa de Santa Cruz de Lorica, **Nancy Sofía Jattin**. Allí debieron construir tres canchas sintéticas en Morales, Tierralta y La Doctrina, corregimientos de Lorica. Los contratistas beneficiados fueron consorcio MDT 2018 de María Inés Pineda Contreras, conformado por la Constructora PC & PG SAS y Amado Miguel Ortiz. 

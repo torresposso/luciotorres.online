@@ -5,11 +5,11 @@ pubDate: "2023-09-10 17:29:42"
 author: "Lucio"
 categories: ["Análisis","Crónica","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/impedimento-del-magistrado-farfan-la-estrategia-del-rey-arturo/"./hero.jpg"
 ---
 
 ![Impedimento del magistrado Farfán, la estrategia del «rey» Arturo.
-De izquierda a derecha, el magistrado  (CSJ) Francisco Javier Farfán Molina, el exmagistrado  (CSJ) José Luis Barceló y el procesado, el expresidente del senado Arturo Char Chaljub.](./Arturo_magistrado_portada.jpg)
+De izquierda a derecha, el magistrado  (CSJ) Francisco Javier Farfán Molina, el exmagistrado  (CSJ) José Luis Barceló y el procesado, el expresidente del senado Arturo Char Chaljub.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/impedimento-del-magistrado-farfan-la-estrategia-del-rey-arturo/Arturo_magistrado_portada.jpg)
 *De izquierda a derecha, el magistrado (CSJ) Francisco Javier Farfán Molina, el exmagistrado (CSJ) José Luis Barceló y el procesado, el expresidente del senado Arturo Char Chaljub.*
 
 Detrás del connotado abogado Iván Cancino _—_el penalista que dio la cara en la defensa del «rey**»** **Arturo Char Chaljub**, expresidente del senado_—_ no solo está la expresidenta de Findeter **Sandra Gómez Arias**. También el cerebro de la nueva estrategia jurídica de su defensa, el exmagistrado de la Sala de Casación de la Corte Suprema de Justicia (CSJ), [**José Luis Barceló Camacho**](https://luciotorres.local/corte/index.php/presidente/). Todo apunta al viejo truco para torcerle el pescuezo a la justicia. Esto es, buscar que se declare el impedimento del magistrado [Francisco Farfán Molina](https://luciotorres.local/corte/index.php/2019/06/18/francisco-javier-farfan-molina-2/) de la Sala de Instrucción de esa corporación, antes de proferir cualquier acto que incumbe a este sonado proceso de corrupción política y electoral.
@@ -37,7 +37,7 @@ Como saben los especialistas, el artículo 30 del Código Contencioso Administra
 
 ## Barceló, el muñeco de la defensa
 
-![Capture de pantalla. Aquí esta el radicado de la denuncia impetrada por el abogado Renzo Montalvo contra los magistrados de la Sala Penal de la CSJ, entre ellos, José Luis Barceló. El impedimento del magistrado Barceló.](./hero.jpg)
+![Capture de pantalla. Aquí esta el radicado de la denuncia impetrada por el abogado Renzo Montalvo contra los magistrados de la Sala Penal de la CSJ, entre ellos, José Luis Barceló. El impedimento del magistrado Barceló.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/impedimento-del-magistrado-farfan-la-estrategia-del-rey-arturo/hero.jpg)
 *Capture de pantalla. Aquí esta el radicado de la denuncia impetrada por el abogado Renzo Montalvo contra los magistrados de la Sala Penal de la CSJ, entre ellos, José Luis Barceló.*
 
 Como quiera que la Corte tiene el acervo probatorio suficiente y eficaz de la responsabilidad penal del expresidente del senado, determinó recluirlo en La Picota y no en ninguna otra parte. Por lo menos, en esta etapa del proceso.
@@ -54,7 +54,7 @@ No obstante, aparte de ese acervo probatorio, la determinación también obedece
 
 ## El abogado Renzo contra Barceló
 
-![](./Renzo_Montalvo.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/impedimento-del-magistrado-farfan-la-estrategia-del-rey-arturo/Renzo_Montalvo.jpg)
 *El abogado Renzo Montalvo Jiménez, litigante ante las altas cortes. Aquí en la Sala Penal de la Corte Suprema de Justicia.*
 
 Para demostrar la tesis del conflicto de intereses de Barceló y que se abstenga de asumir la defensa de Arturo Char, es urgente y necesario apelar a la denuncia entablada (octubre de 2019) por el abogado barranquillero **Renzo Efrain Montalvo Jiménez**. La denuncia la presentó ante la Comisión de Acusaciones de la cámara de representantes contra los tres magistrados de la Sala Penal de la Corte Suprema de Justicia. Estos son: José Luis Barceló Camacho, Fernando Castro Caballero y Luis Antonio Hernández Barbosa.

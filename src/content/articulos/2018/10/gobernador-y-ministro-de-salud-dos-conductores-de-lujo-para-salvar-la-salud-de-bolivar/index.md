@@ -5,10 +5,10 @@ pubDate: "2018-10-18 05:19:06"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/gobernador-y-ministro-de-salud-dos-conductores-de-lujo-para-salvar-la-salud-de-bolivar/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/gobernador-y-ministro-de-salud-dos-conductores-de-lujo-para-salvar-la-salud-de-bolivar/hero.jpg)
 *Los dos conductores de lujo de la ambulancia, el ministro de Salud Uribe Restrepo y el gobernador Dumek. Va directa a la Clínica Maternidad Rafael Calvo. ¿La podrán salvar? Foto Oficina de Prensa Bolívar Sí Avanza.*
 
 Dos conductores de lujo para una ambulancia medicalizada que salvará al hospital **Clínica de Maternidad Rafael Calvo** de la debacle financiera en la que se encuentra sumida, aparecieron en la tarde de este jueves 18 de octubre: **Juan Pablo Uribe Restrepo** (ministro de Salud) y **Dumek Turbay** (gobernador de Bolívar). A la 1:30 pm, cuando el sol canicular nos achicharraba, el ministro atinó a decir:
@@ -19,7 +19,7 @@ La deuda que tienen las EPS con la **Clínica de Maternidad Rafael Calvo** llega
 
 ## ¿Cómo salvar a la Maternidad?
 
-![](./ministro-de-salud-y-secretaria.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/gobernador-y-ministro-de-salud-dos-conductores-de-lujo-para-salvar-la-salud-de-bolivar/ministro-de-salud-y-secretaria.jpg)
 *El ministro de Salud Uribe Restrepo en un diálogo franco con el gobernasdor Dumek, la secretaria de Salud Verena Polo y la gerente de la Clínica Maternidad, Heyliana Guzmán López. Foto Lucio.*
 
 No obstante, si el ministro de Salud, **Uribe Restrepo, el gobernador Dumek y la Secretaria de Salud de Bolívar, Verena Polo**, quieren sacar adelante a la Maternidad y convertirla en el centro que fue, deberían acompañar a la gerente **Heyliana Guzmán López** para que haga una excelente gestión social.
@@ -34,7 +34,7 @@ No obstante, si el ministro de Salud, **Uribe Restrepo, el gobernador Dumek y la
 
 ¿Podrán escucharnos? Estamos para servir. Este periodismo le hará seguimiento a la nueva etapa de la clínica.
 
-![](./ministro-gobernador-gerente.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/gobernador-y-ministro-de-salud-dos-conductores-de-lujo-para-salvar-la-salud-de-bolivar/ministro-gobernador-gerente.jpg)
 *El Ministro de Salud Uribe Restrepo, el gobernador Dumek y Heyliana Guzmán, en un trío dinámico para salvar a la Maternidad Rafael Calvo. En el fondo, la ambulancia que entregaron a la clínica.*
 
 Debemos creerle al ministro. **Vino a salvar la Maternidad**. Miles de usuarias empobrecidas de Cartagena y de otros municipios de Bolívar llegan a parir allí. Su mercado se ha quedado reducido a las venezolanas y mujeres de estratos 1 que no tienen para el copago. Los afiliados de **Mutual Ser** y de **Coosalud** se los entregaron a sus clínicas privadas para su integración vertical. Más puede el poder del dinero que del servicio social. Lo complicado de este asunto es que **el dinero que el gobierno gira puntualmente para los pobres, en algún bolsillo de algún empresario privado se queda**. ¿Cómo la ves tú?

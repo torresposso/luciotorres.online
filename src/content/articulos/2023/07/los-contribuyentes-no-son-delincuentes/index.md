@@ -5,7 +5,7 @@ pubDate: "2023-07-23 23:00:11"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-contribuyentes-no-son-delincuentes/"./hero.jpg"
 ---
 
 ¡Levanten los embargos! Los contribuyentes del catastro y de las licencias de conducción, no son delincuentes. Pero en el país los tratan como tales. En Cartagena, por ejemplo, vienen persiguiendo con embargos masivos que rayan en actos confiscatorios delpatrimonio privado. Ante esta situación se está gestando un movimiento social que exige el desembargo de las cuentas de los contribuyentes.

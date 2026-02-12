@@ -5,10 +5,10 @@ pubDate: "2024-04-09 01:38:52"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-vomito-prieto-de-la-udec-dos-cuentos-y-la-historia-verdadera-ii/"./hero.jpg"
 ---
 
-![](./William_malkun-1024x697.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-vomito-prieto-de-la-udec-dos-cuentos-y-la-historia-verdadera-ii/William_malkun-1024x697.jpeg)
 *¿"El Vómito prieto" de la UdeC? Dos cuentos y la historia verdadera. En la entrevista que el rector William Malkún concedió a VoxPopuliDigital*
 
 «El Vómito prieto» (devolver los $200 mil millones) tiene dos cuentos y una historia verdadera, al decir del rector de la Universidad de Cartagena, **William Malkún Castillejo**. Uno contado por Ecopetrol sacado de las artimañas jurídicas. El otro es la **acción de cumplimiento** que favoreció en 2007 a la Universidad de Cartagena en primera y segunda instancia. La historia verdadera dice que realmente el deudor es Ecopetrol y no la universidad **101° de América Latina** y 1.201° del mundo, con más de 100 doctores, según el **[World University Rankings 2024](/articulos/world-university-rankings/universidad-de-cartagena)**.
@@ -19,7 +19,7 @@ Por su parte, el gobernador de Bolívar, **Yamilito Arana Padauí**, ratificó e
 
 ## Unidos por la UdeC
 
-![Aspectos del primer Consejo Superior de 2024 presidido por el gobernador Yamil Arana Padauí para respaldar a la Universidad en este momento crucial.](./hero.jpg)
+![Aspectos del primer Consejo Superior de 2024 presidido por el gobernador Yamil Arana Padauí para respaldar a la Universidad en este momento crucial.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-vomito-prieto-de-la-udec-dos-cuentos-y-la-historia-verdadera-ii/hero.jpg)
 *Aspectos del primer Consejo Superior de 2024 presidido por el gobernador Yamil Arana Padauí para respaldar a la Universidad en este momento crucial.*
 
 La idea es que esos **$200 mil millones** se queden en la institución. Por esta razón el gobernador respalda íntegramente al rector para lograr ese objetivo. No es hora de pugnas internas sino unificar a la comunidad universitaria para que la institución salga adelante. Ese fue el mensaje central del gobernador Arana cuando presidió el primer Consejo Superior de este año.
@@ -52,7 +52,7 @@ Ante esa decisión judicial favorable a la universidad en las dos instancias, se
 
 ## Cómo se invirtió el «vómito prieto»
 
-![](./edificio_ciencia_udec.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-vomito-prieto-de-la-udec-dos-cuentos-y-la-historia-verdadera-ii/edificio_ciencia_udec.jpg)
 *Este es uno de los edificios del campus Zaragocilla donde se invirtió el dinero que Ecopetrol dice que le devuelva.*
 
 Hasta allí todo estaba bien para la Universidad de Cartagena. Los dineros se incorporaron al presupuesto de la estampilla, según lo dictaminó la ley 1405 de 2011, y se invirtieron así:

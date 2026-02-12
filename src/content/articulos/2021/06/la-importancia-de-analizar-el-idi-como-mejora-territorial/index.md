@@ -5,10 +5,10 @@ pubDate: "2021-06-09 19:51:26"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-importancia-de-analizar-el-idi-como-mejora-territorial/"./hero.jpg"
 ---
 
-\[caption id="attachment\_15382" align="aligncenter" width="800"\]![](./hero.jpg) Director de Función Pública, **Nerio José Alvis Barranco con el gobernador de Cundinamarca, Nicolás García Bustos, puntaje: 98,2  de 100 posibles.**\[/caption\]
+\[caption id="attachment\_15382" align="aligncenter" width="800"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-importancia-de-analizar-el-idi-como-mejora-territorial/hero.jpg) Director de Función Pública, **Nerio José Alvis Barranco con el gobernador de Cundinamarca, Nicolás García Bustos, puntaje: 98,2  de 100 posibles.**\[/caption\]
 
 ¿Por qué es importante analizar los resultados del **Índice de Desempeño Institucional—IDI a la luz de la gestión pública**? Se trata de buscar una mejora territorial. **Los indicadores son síntomas de la enfermedad pero también de la salud en la gestión pública**. No podemos saber si estamos bien o mal si no examinamos el cuerpo administrativo. Más allá de llenar unos formularios, lo que debemos ver **es si los resultados se están dando**. Si las obras se ejecutan o no.
 
@@ -26,12 +26,12 @@ Los medios de comunicación solemos tomar los datos oficiales y reproducirlos si
 
 ## Los entes con mejores y mayores esfuerzos
 
-![](./Imagen2_idi.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-importancia-de-analizar-el-idi-como-mejora-territorial/Imagen2_idi.png)
 *La mayor variación en la mejora territorial la tuvo Nariño con 15,05 puntos. El mejor puntaje es el de Cundinamarca.*
 
 Si observamos los resultados generales, nos encontramos con aparentemente sorpresas. El departamento del Meta con su gobernador **Juan Guillermo Zuluaga** logró ubicarse en el segundo puesto con **97,7,** superando al departamento de Antioquia. El salto cuantitativo que dio la gobernación de Nariño de **15,05** para lograr **73,5** y ubicarse en el puesto 
 
-![](./Imagen3_idi.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-importancia-de-analizar-el-idi-como-mejora-territorial/Imagen3_idi.png)
 *El IDI incluye también a 1.101 municipios de Colombia. El municipio con mejor indicador de la Costa es San Juan del Cesar, La Guajira.*
 
 De acuerdo con la Función Pública, el consolidado de los resultados del IDI vigencia 2020 de las 32 gobernaciones del país y de los 1.101 municipios del territorio nacional fue producto del diligenciamiento del **Formulario Único de Reporte a la Gestión (Furag)**. Esta es una herramienta que hace parte del **Modelo Integrado de Planeación y Gestión (MIPG).**

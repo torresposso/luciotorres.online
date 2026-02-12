@@ -5,10 +5,10 @@ pubDate: "2023-06-10 00:28:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-arte-de-bruno-y-la-ficcion-de-la-vida/"./hero.jpg"
 ---
 
-![El arte de Bruno y la ficción de la vida. Aquí con el tmabién escritor y su corrector de estilo, Laurent Céspedes. Foto suministrada.](./hero.jpg)
+![El arte de Bruno y la ficción de la vida. Aquí con el tmabién escritor y su corrector de estilo, Laurent Céspedes. Foto suministrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-arte-de-bruno-y-la-ficcion-de-la-vida/hero.jpg)
 *El arte de Bruno y la ficción de la vida. Aquí con el también escritor y su corrector de estilo, Laurent Céspedes. Foto suministrada.*
 
 Una de las mentes que puede revolucionar el pensamiento latinoamericano es **el arte de Bruno**. Sus escritos sobrepasan la ficción de la vida. Ya en la literatura, ya en la filosofía o en la historia del arte. ¿Por qué el homínido, esta especie de la cual salimos los humanos, desde sus orígenes quiso dejar una huella de su percepción artificial de la vida? Es decir, ¿por qué el hombre o la mujer de la caverna recreó la vida real? Por la ficción de la vida. Untarla de esa creatividad infinita que dura más en la memoria humana que la propia realidad.
@@ -17,7 +17,7 @@ Ejemplo de ello es el **Poema de Gilgamesh**, el más antiguo de la literatura s
 
 ## El arte de Bruno
 
-![El arte de Bruno.](./El-artes-sin_portada.jpg)
+![El arte de Bruno.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-arte-de-bruno-y-la-ficcion-de-la-vida/El-artes-sin_portada.jpg)
 *El arte de Bruno.*
 
 Abstraer esa realidad no es fácil. Trasmitirle toda su complejidad mental, su subjetividad y transformarla en algo increíble y, al mismo tiempo, verosímil, es una tarea que nace de lo más adentro de los creadores de ficción. Es el sitio donde se anida lo más profundo del arte.

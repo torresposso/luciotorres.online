@@ -5,10 +5,10 @@ pubDate: "2023-01-14 00:43:33"
 author: "Lucio"
 categories: ["Análisis","Barranquilla"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-triple-a-inassa-el-nulo-contrato-y-el-tio-christian-i/"./hero.jpg"
 ---
 
-![Son los dueños de todo. La Triple A , Inassa, el nulo contrato y el «tío Christian». Como en la bonanza marimbera.](./hero.jpg)
+![Son los dueños de todo. La Triple A , Inassa, el nulo contrato y el «tío Christian». Como en la bonanza marimbera.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-triple-a-inassa-el-nulo-contrato-y-el-tio-christian-i/hero.jpg)
 *Son los dueños de todo. La Triple A, Inassa, el nulo contrato y el «tío Christian». Como en la bonanza marimbera, los dueños del balón. Cortesía.*
 
 El presidente de la república, **Gustavo Petro Urrego**, tiene en sus manos la solución del descarado robo de la Triple A. Los autores son **empresarios emergentes** —ligados al narcotráfico y al lavado de activos. ¿La solución? Que la SAE declare —¡_**ipso facto**_!— la nulidad del contrato mediante el cual **Alumbrado Público de Barranquilla** (APBAQ) le compró el **82.1% de las acciones** adquiridas, a su vez, fraudulentamente por INASSA. Este espurio negocio fue aupado por el **«tío Christian» Dae**s, quien posteriormente posó de **Santa Teresa de Calcuta** cediendo el 7%.

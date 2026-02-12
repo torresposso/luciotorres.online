@@ -5,10 +5,10 @@ pubDate: "2022-03-15 01:11:26"
 author: "Lucio"
 categories: ["Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/con-la-adhesion-de-zuluaga-a-fico-el-regimen-busca-salvador/"./hero.jpg"
 ---
 
-![El régimen busca salvador con Federico «Fico» Gutiérrez](./hero.jpg)
+![El régimen busca salvador con Federico «Fico» Gutiérrez](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/con-la-adhesion-de-zuluaga-a-fico-el-regimen-busca-salvador/hero.jpg)
 *El régimen busca salvador con Federico «Fico» Gutiérrez. ¿Se polarizará el debate presidencial entre Gustavo Petro y Gutiérrez?*
 
 Con la renuncia y adhesión a la candidatura de **Federico «Fico» Gutiérrez** del candidato del Centro Democrático, **Óscar Iván Zuluaga,** ¿el régimen busca salvador presidencial? Por esta razón se polarizará el debate electoral. Sin duda, el debate se decantará. Las tres coaliciones políticas que participaron en la consulta presidencial se reducirían en la práctica a dos, ya que Sergio Fajardo está objetivamente muy debilitado para enfrentar a Gustavo Petro. 

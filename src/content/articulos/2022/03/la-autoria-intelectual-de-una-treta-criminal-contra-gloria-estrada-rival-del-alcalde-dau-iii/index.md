@@ -5,7 +5,7 @@ pubDate: "2022-03-12 20:31:09"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-autoria-intelectual-de-una-treta-criminal-contra-gloria-estrada-rival-del-alcalde-dau-iii/"./hero.jpg"
 ---
 
 https://youtu.be/QUadct4TPag
@@ -18,7 +18,7 @@ Ese hecho podría explicar la conexidad de los autores materiales con los intele
 
 ## ¿Celebración perversa?
 
-![Pedro Aponte, Andy reales y Oscar Marbello. Los sospechosos de la autoría intelectual de la tetra criminal contra Gloria Estrada](./hero.jpg)
+![Pedro Aponte, Andy reales y Oscar Marbello. Los sospechosos de la autoría intelectual de la tetra criminal contra Gloria Estrada](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-autoria-intelectual-de-una-treta-criminal-contra-gloria-estrada-rival-del-alcalde-dau-iii/hero.jpg)
 *Pedro Aponte, Andy Reales y Oscar Marbello celebraron en la noche del 14 de enero. Los sospechosos de la autoría intelectual de la tetra criminal contra Gloria Estrada.*
 
 **Mientras la presidenta del concejo de Cartagena Gloria Estrada y Martín Barreto** vivían su propio drama en el sitio de detención de la Fiscalía de Cartagena, **Andy Reales**, alcalde de la localidad, y los ediles **Pedro Aponte y Oscar Marbello,**  y otros políticos como **Mauro Martínez de la Puente**, libaban copas, se reían y charlaban en una suntuosa residencia de **Barcelona de Indias,** al norte de Cartagena. 
@@ -27,7 +27,7 @@ Ese hecho podría explicar la conexidad de los autores materiales con los intele
 
 ## Autoría intelectual de una **treta criminal**
 
-![En la autoría intelectual de la treta criminal contra Gloria Estrada estaría el alcalde de la localidad No 2 de Cartagena. Fue quien tentó a algunos policías, según el testimonio de uno de ellos. ](./andy-reales.jpeg)
+![En la autoría intelectual de la treta criminal contra Gloria Estrada estaría el alcalde de la localidad No 2 de Cartagena. Fue quien tentó a algunos policías, según el testimonio de uno de ellos. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-autoria-intelectual-de-una-treta-criminal-contra-gloria-estrada-rival-del-alcalde-dau-iii/andy-reales.jpeg)
 *En la autoría intelectual de la treta criminal contra Gloria Estrada estaría el alcalde de la localidad No 2 de Cartagena. Fue quien tentó a algunos policías, según el testimonio de uno de ellos.*
 
 Como lo hemos explicado, Andy Reales llegó a la alcaldía local gracias al apoyo de Pedro Aponte. Fue el edil que buscó el respaldo de sus colegas **Marcel Pareja y Oscar Marbello**. De esta manera, el alcalde William Dau Chamat decidió que el alcalde menor fuera Andy Reales de una terna que le entregó la Junta Administradora Local. Según el testimonio de un policía que ya aparece en el proceso de la Fiscalía, fue la persona que contactó a los agentes de policía con el fin de hacerle la maldad «a un man» que vive en el edificio Regatta del barrio Manga. Por supuesto, se refería a Martín Barreto.
@@ -60,7 +60,7 @@ Ciertamente, se podría confirmar la teoría de la treta criminal que venimos es
 
 ## Autoría intelectual de la treta criminal contra Gloria
 
-![La autoría intelectual de la tetra criminal contra Gloria Estrada se comienza a destapar.](./gloria-reunion-de-muejres.jpeg)
+![La autoría intelectual de la tetra criminal contra Gloria Estrada se comienza a destapar.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-autoria-intelectual-de-una-treta-criminal-contra-gloria-estrada-rival-del-alcalde-dau-iii/gloria-reunion-de-muejres.jpeg)
 *La autoría intelectual de la tetra criminal contra Gloria Estrada se comienza a destapar.*
 
 Como se dijo, son tres hechos concomitantes. Están íntimamente relacionados. Son reveladores de que la presidenta del concejo de Cartagena de Indias fue víctima de una treta criminal orquestada por rivales políticos de la ciudad. Treta que buscaba sacar del juego político a la presidenta del concejo de Cartagena. Una lideresa política del partido Liberal. 
@@ -71,7 +71,7 @@ El detonante para diseñar, crear y ejecutar esa treta criminal fue la suspensi�
 
 ## Alias «Piti-Piti», el jíbaro
 
-![«Piti-Piti» (Oscar Alexander Pinedo Lopera)  le vendió la droga al policía. Esta reseña fue de la última vez que estuvo en la cárcel. Nos lleva a la autoría intelectual de la treta criminal.](./piti-piti.jpg)
+![«Piti-Piti» (Oscar Alexander Pinedo Lopera)  le vendió la droga al policía. Esta reseña fue de la última vez que estuvo en la cárcel. Nos lleva a la autoría intelectual de la treta criminal.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-autoria-intelectual-de-una-treta-criminal-contra-gloria-estrada-rival-del-alcalde-dau-iii/piti-piti.jpg)
 *«Piti-Piti» (Oscar Alexander Pinedo Lopera)  le vendió la droga al policía. Esta reseña fue de la última vez que estuvo en la cárcel. Nos lleva a la autoría intelectual de la treta criminal.*
 
 Una fuente de entero crédito le dijo a **VoxPopuli Digital** que alias **«Piti-Piti»** (Oscar Alexander Pinedo Lopera)  le vendió la droga a un policía. Su lugar de expendio es una **«**hoya**»** del barrio San Francisco. Y no era una droga para vender sino que fue hecha especialmente para **«hacerle la maldad»** a las víctimas. Era un «pangolito» que apenas debía marcar un grado de pureza de 60% de clorhidrato de cocaína.  La droga comercial utilizada para el microtráfico en Cartagena suele ser de un grado de pureza superior a 85 %, según lo manifestado por un expolicía a este periodista.
@@ -80,7 +80,7 @@ Una fuente de entero crédito le dijo a **VoxPopuli Digital** que alias **«Piti
 
 ## El comprador del «pangolito»
 
-![En la parte superior izquierda aparece el agente Alexander Salas, destituido esta semana. En la parte superior derecha, aparece Esleiner López Valencia, sospechoso de haber comprado la droga a «Piti-Piti». ](./agentes-que-participaron-en-lacaptura.jpg)
+![En la parte superior izquierda aparece el agente Alexander Salas, destituido esta semana. En la parte superior derecha, aparece Esleiner López Valencia, sospechoso de haber comprado la droga a «Piti-Piti». ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-autoria-intelectual-de-una-treta-criminal-contra-gloria-estrada-rival-del-alcalde-dau-iii/agentes-que-participaron-en-lacaptura.jpg)
 *En la parte superior izquierda aparece el agente Alexander Salas, destituido esta semana. En la parte superior derecha, aparece Esleiner López Valencia, sospechoso de haber comprado la droga a «Piti-Piti». Abajo Braulio Vanegas.*
 
 Sin embargo, si reducimos el grado del ángulo de mira, podemos observar que el comprador del «pangolito» se encuentra entre dos agentes de policía. Y no fue **Alexander Salas Mercado**, quien supuestamente halló el kilo de cocaína y quien pudo tentar a los demás policías para acometer el acto criminal. No. 

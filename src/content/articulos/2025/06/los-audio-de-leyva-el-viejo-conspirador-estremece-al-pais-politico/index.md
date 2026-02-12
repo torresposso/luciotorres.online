@@ -5,10 +5,10 @@ pubDate: "2025-06-30 02:44:37"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/los-audio-de-leyva-el-viejo-conspirador-estremece-al-pais-politico/"./hero.jpg"
 ---
 
-![«El viejo conspirador» estremece al país político. Aquí  Leyva acompañando a Petro en la posesión del presidente de Brasil, Lula da Silva.](./Leyva_petro_lula.jpeg)
+![«El viejo conspirador» estremece al país político. Aquí  Leyva acompañando a Petro en la posesión del presidente de Brasil, Lula da Silva.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/los-audio-de-leyva-el-viejo-conspirador-estremece-al-pais-politico/Leyva_petro_lula.jpeg)
 *«El viejo conspirador» estremece al país político. Aquí Leyva acompañando a Petro en la posesión del presidente de Brasil, Lula da Silva.*
 
 «El viejo conspirador», **Álvaro Leyva Durán**, estremece al país político buscando **apoyo norteamericano para un potencial acuerdo político** que saque del poder a **Gustavo Petro**. Con su conducta se demuestra que no perdió su inveterada costumbre de _conspireta_ y que **la idea de tumbar al presidente viene de adentro del gobierno del Cambio**. Parece que conspirar contra la institucionalidad dominante fuera su deporte favorito. **Las preguntas clave del análisis:** ¿Hasta dónde llegó Leyva con su conducta conspiradora? ¿Quiénes de los que él menciona realmente dieron el primer paso para conspirar?
@@ -77,7 +77,7 @@ Además, Leyva hizo una exposición de motivos que justifica una conspiración p
 
 Quizás esta parte es lo más complejo de los audios de Leyva. ¿Francia Márquez, vicepresidenta de la República hace parte de esta trama por el poder? La vicepresidenta en la tarde de hoy aclaró la situación en un comunicado público donde expresó que tiene la conciencia tranquila, porque **«jamás he traicionado, ni cuestionado la autoridad legítima del primer mandatario de la Nación»**.
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/los-audio-de-leyva-el-viejo-conspirador-estremece-al-pais-politico/hero.jpg)
 
 ## Síntesis
 

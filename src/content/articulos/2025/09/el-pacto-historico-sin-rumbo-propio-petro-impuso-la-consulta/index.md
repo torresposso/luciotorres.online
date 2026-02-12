@@ -5,10 +5,10 @@ pubDate: "2025-09-27 01:33:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-pacto-historico-sin-rumbo-propio-petro-impuso-la-consulta/"./hero.jpg"
 ---
 
-![A consulta popular del Pacto Histórico  Daniel Quintero, exalcalde de Medellín; Carolina Corcho, exministra de Salud; e Iván Cepeda, senador del Polo](./Pacto_historico.jpeg)
+![A consulta popular del Pacto Histórico  Daniel Quintero, exalcalde de Medellín; Carolina Corcho, exministra de Salud; e Iván Cepeda, senador del Polo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-pacto-historico-sin-rumbo-propio-petro-impuso-la-consulta/Pacto_historico.jpeg)
 *A consulta popular del Pacto Histórico Daniel Quintero, exalcalde de Medellín; Carolina Corcho, exministra de Salud; e Iván Cepeda, senador del Polo.*
 
 El Pacto Histórico volvió a demostrar que, a la hora de tomar decisiones estratégicas, su margen de autonomía es limitado. Para zanjar la discusión sobre el mecanismo de elección del candidato presidencial, con solo dos líneas de 13 palabras en X, su red social preferida, **el presidente Gustavo Petro impuso la consulta popular en su coalición de gobierno**.
@@ -23,7 +23,7 @@ El jefe de Estado, a través de un mensaje en X, zanjó la controversia: **sí 
 
 ### Bajo la sombra de Petro
 
-![Petro impuso consulta en el Pacto Histórico](./hero.jpg)
+![Petro impuso consulta en el Pacto Histórico](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-pacto-historico-sin-rumbo-propio-petro-impuso-la-consulta/hero.jpg)
 *El Pacto Histórico sin rumbo propio, Petro impuso la consulta.*
 
 No solo Petro impuso la consulta sino que también hizo que todos se plegaran a su designio. De un abanico amplio de aspirantes y fuertes choques internos, quedaron en competencia tres figuras: Daniel Quintero, exalcalde de Medellín; Carolina Corcho, exministra de Salud; e Iván Cepeda, senador del Pacto Histórico.
@@ -38,7 +38,7 @@ En paralelo, los tres precandidatos iniciarán 30 días de campaña intensa en b
 
 ### Renuncias y fracturas
 
-![](./Gustav_-Bolivar-1024x632.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-pacto-historico-sin-rumbo-propio-petro-impuso-la-consulta/Gustav_-Bolivar-1024x632.jpg)
 *Gustavo Bolívar renunció a su precandidatura. Petro impuso la consulta.*
 
 La imposición de la consulta también derivó en renuncias significativas. **Gustavo Bolívar, María José Pizarro y Susana Muhamad** declinaron sus aspiraciones presidenciales. Bolívar fue enfático:

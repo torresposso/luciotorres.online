@@ -5,7 +5,7 @@ pubDate: "2019-03-20 15:11:42"
 author: "Lucio"
 categories: ["Cartagena","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/el-acuarelazo-que-perturba-el-patrimonio-cultural-de-manga-astorga-414-i/"./hero.jpg"
 ---
 
 *En un amanecer frente a Casa Covo, patrimonio cultural, aplastada por la mole de cemento Astorga 414 en Manga.*
@@ -21,7 +21,7 @@ Y de eso si sabe el director de la división de patrimonio del Instituto de Patr
 
 ¿Cómo así? ¿**Acuarela y Astorga 414** respetaron el patrimonio cultural? No. Son dos gemelos que están destruyendo el patrimonio histórico de la humanidad. Tienen el mismo patrón criminal para burlar la normatividad vigente que protege los Bienes de Interés Cultural (**BIC**) y el patrimonio histórico. En estos actos se incurriría en d**elitos como falsedad ideológica en documento público, prevaricato, concierto para delinquir**, entre otros.
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/el-acuarelazo-que-perturba-el-patrimonio-cultural-de-manga-astorga-414-i/hero.jpg)
 
 Los funcionarios implicados emiten resoluciones y documentos públicos bajo el imperio de la falsedad y, a sabiendas que son falsos, lo presentan como legales. Es decir, que hay un alto grado de perversidad, por lo cual dicha conducta debe ser sancionada severamente.
 
@@ -56,7 +56,7 @@ Aparentemente todo es legal, las licencias para demoler y para construir. Recibe
 
 ## La tramoya
 
-![](IMG_0868.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/el-acuarelazo-que-perturba-el-patrimonio-cultural-de-manga-astorga-414-i/IMG_0868.jpg)
 
 El constructor oficia a las autoridades correspondientes, como Planeación, IPCC y Curaduría Urbana. Estas responden siempre afirmativamente. Movicom le ofició al IPCC si los cuatro predios con referencias catastral No 01-01-0188-0002-000, 01-01-0188-0003-000, 0188-0004-000, 0188-0006-000 se encuentran contenidas en el POT.
 

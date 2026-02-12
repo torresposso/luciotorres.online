@@ -5,12 +5,12 @@ pubDate: "2020-08-09 00:47:38"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/ito-el-intocable-de-la-champeta-ataca-de-nuevo/"./hero.jpg"
 ---
 
 # **_ESCUCHE lA ENTREVISTA «MÚSICA PARA BANDIDOS»_**
 
-  \[audio mp3="/wp-content/uploads/2020/08/ito-entrevista-final.mp3"\]\[/audio\] \[caption id="attachment\_12321" align="aligncenter" width="1222"\]![](./iTO-3.jpg "Música para bandidos") **_«_Música para bandidos_»_**, la música de los marginados. Ito el Intocable es uno de sus protagonistas. (Melissa Villarreal).\[/caption\] _**«Música para bandidos»**_ es la música de los marginados, de los que se ganan el día a día con el sudor de su frente. De los que se gastan el fruto de su trabajo en parrandas, en el vacile y en los «chonchitos». En la última década, la  _**«Música para bandidos»**_ fue absorbida por el _statu quo y_ el mercado global. Hoy, prevalece la dictadura de **Sony Music, el Rey y el Imperio** (en Cartagena) para enriquecerse y, al mismo tiempo, empobrecer a los amantes de esta música pegajosa y de la mayoría de sus artistas. **Ito El Intocable** es nuestro invitado de hoy. Tiene pegado un éxito: **Taka—taka**. Ahora viene con otro petardo: **«Amor de bandidos»**. Seguramente lo seguirá poniendo vigente en el mundo de la champeta. Curioso, es un artista libre. No tiene manager. Y, sin embargo, está pegado de cerquita al picó.
+  \[audio mp3="/wp-content/uploads/2020/08/ito-entrevista-final.mp3"\]\[/audio\] \[caption id="attachment\_12321" align="aligncenter" width="1222"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/ito-el-intocable-de-la-champeta-ataca-de-nuevo/iTO-3.jpg "Música para bandidos") **_«_Música para bandidos_»_**, la música de los marginados. Ito el Intocable es uno de sus protagonistas. (Melissa Villarreal).\[/caption\] _**«Música para bandidos»**_ es la música de los marginados, de los que se ganan el día a día con el sudor de su frente. De los que se gastan el fruto de su trabajo en parrandas, en el vacile y en los «chonchitos». En la última década, la  _**«Música para bandidos»**_ fue absorbida por el _statu quo y_ el mercado global. Hoy, prevalece la dictadura de **Sony Music, el Rey y el Imperio** (en Cartagena) para enriquecerse y, al mismo tiempo, empobrecer a los amantes de esta música pegajosa y de la mayoría de sus artistas. **Ito El Intocable** es nuestro invitado de hoy. Tiene pegado un éxito: **Taka—taka**. Ahora viene con otro petardo: **«Amor de bandidos»**. Seguramente lo seguirá poniendo vigente en el mundo de la champeta. Curioso, es un artista libre. No tiene manager. Y, sin embargo, está pegado de cerquita al picó.
 
 ## Amor de bandidos
 

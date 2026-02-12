@@ -5,10 +5,10 @@ pubDate: "2020-07-07 02:20:11"
 author: "Lucio"
 categories: ["Entrevista"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/galan-despues-de-4-anos-la-marihuana-es-un-regalo-de-dios/"./hero.jpg"
 ---
 
-\[caption id="attachment\_11972" align="alignnone" width="940"\]![](./juan-manuel-galan.jpeg) El autor de la ley que autoriza el uso medicinal de la marihuana, **Juan Manuel Galán**. En el fondo, una pintura con la figura de su padre, **Luis Carlos Galán.**\[/caption\]
+\[caption id="attachment\_11972" align="alignnone" width="940"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/galan-despues-de-4-anos-la-marihuana-es-un-regalo-de-dios/juan-manuel-galan.jpeg) El autor de la ley que autoriza el uso medicinal de la marihuana, **Juan Manuel Galán**. En el fondo, una pintura con la figura de su padre, **Luis Carlos Galán.**\[/caption\]
 
 **_«La marihuana es un regalo de Dios»_**. Fue la frase impactante pronunciada por el cardenal **José de Jesús Pimiento** para defender el proyecto de ley presentado —hace 4 años— por el senador liberal **Juan Manuel Galán.** El proyecto se convirtió en la ley que legalizó el uso medicinal y científico del cannabis.
 

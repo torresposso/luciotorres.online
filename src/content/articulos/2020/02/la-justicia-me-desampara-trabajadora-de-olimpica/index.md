@@ -5,10 +5,10 @@ pubDate: "2020-02-21 16:24:36"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/la-justicia-me-desampara-trabajadora-de-olimpica/"./hero.jpg"
 ---
 
-\[caption id="attachment\_11176" align="aligncenter" width="508"\]![Jalima](./hero.jpg) Después de evitar las agresiones, Jalima pide auxilio. La policía llegó a los 15 minutos. El agresor huyó. Trabaja donde ella rabaja: Olímpica. La justicia tardía.\[/caption\] Recibí una llamada desesperada. En la otra línea, una joven con voz angustiada, me dijo:
+\[caption id="attachment\_11176" align="aligncenter" width="508"\]![Jalima](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/la-justicia-me-desampara-trabajadora-de-olimpica/hero.jpg) Después de evitar las agresiones, Jalima pide auxilio. La policía llegó a los 15 minutos. El agresor huyó. Trabaja donde ella rabaja: Olímpica. La justicia tardía.\[/caption\] Recibí una llamada desesperada. En la otra línea, una joven con voz angustiada, me dijo:
 
 > «Doctor Lucio, ayúdeme. Mi ex marido me quiere matar. No soporto el acoso. Me persigue. Me ataca. Me he mudado tres veces. Ayer me dijo que me va a matar. Ayúdeme. ¡Es verdad, me va a matar! La justicia no me protege. **¡La justicia es puro papel!**»
 
@@ -36,7 +36,7 @@ Se entiende —de acuerdo con Wikipedia— _«que el trastorno psicopático prod
 
 ## **"Uno de los dos morirá"**
 
-\[caption id="attachment\_11177" align="alignleft" width="197"\]![](./jalima-3-138x300.png) Estos son los mensajes amenazan\[/caption\] En concordancia con las denuncias ante las comisarías, inspecciones y la Fiscalía y del testimonio brindado a este periodista por la víctima, **el agresor fue identificado como Jesús David Tinoco Orozco**, 30 años, vecino de Los Cerezos, al suroriente de Cartagena. Trabaja para la cadena de **Supermercados Olímpica**. Los dos son empleados de la misma entidad. Allí se conocieron. Hace dos días publicó en un perfil falso de Facebook, donde suplantó el nombre de su víctima, dice:
+\[caption id="attachment\_11177" align="alignleft" width="197"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/la-justicia-me-desampara-trabajadora-de-olimpica/jalima-3-138x300.png) Estos son los mensajes amenazan\[/caption\] En concordancia con las denuncias ante las comisarías, inspecciones y la Fiscalía y del testimonio brindado a este periodista por la víctima, **el agresor fue identificado como Jesús David Tinoco Orozco**, 30 años, vecino de Los Cerezos, al suroriente de Cartagena. Trabaja para la cadena de **Supermercados Olímpica**. Los dos son empleados de la misma entidad. Allí se conocieron. Hace dos días publicó en un perfil falso de Facebook, donde suplantó el nombre de su víctima, dice:
 
 > **_«Hasta no matarse uno de los dos, no me quedo quieto (.) a mi mamá se respeta. Con el mismo machete que amenazaste a mi mamá, te voy a dar»_**
 

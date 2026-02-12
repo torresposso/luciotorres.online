@@ -5,10 +5,10 @@ pubDate: "2022-04-10 20:27:18"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/jorge-quintana-una-veeduria-con-resultados/"./hero.jpg"
 ---
 
-![Jorge Quintana: Una veeduría con resultados](./hero.jpg)
+![Jorge Quintana: Una veeduría con resultados](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/jorge-quintana-una-veeduria-con-resultados/hero.jpg)
 *Jorge Quintana: Una veeduría con resultados.*
 
 Si hablamos de Jorge Quintana, estamos hablando de **una veeduría con resultados en Cartagena**. Lo mismo que exigiríamos de la Contraloría General de la República (CGR) y de sus ramificaciones en el orden local y regional. Las denuncias de este veedor terminan en sonados procesos judiciales. Uno de ellos se refiere a la elección de la contralora distrital de Cartagena, **Nubia Fontalvo**, por quien supuestamente **J.J. Vásquez y Manolo Duque** pagaron a los concejales. El hecho se conoció como **El Caso de los Libros.**

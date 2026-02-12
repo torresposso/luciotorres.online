@@ -5,10 +5,10 @@ pubDate: "2022-05-18 00:24:40"
 author: "Lucio"
 categories: ["Análisis","Opinión","Podcast"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/senor-juez-la-audiencia-publica-es-publica-salvo-excepciones/"./hero.jpg"
 ---
 
-![Señor Juez Guido Guevara Herrera, 11 Penal Municipal. Solicitamos rectificación.](./hero.jpg)
+![Señor Juez Guido Guevara Herrera, 11 Penal Municipal. Solicitamos rectificación.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/senor-juez-la-audiencia-publica-es-publica-salvo-excepciones/hero.jpg)
 *Señor Juez Guido Guevara Herrera, 11 Penal Municipal de Cartagena decidió reservar la audiencia pública.*
 
 Señor Juez 11 Penal Municipal **Guido Guevara Herrera**: ¿Por qué vulneró el derecho a la información del periodismo? ¿Por qué expulsó de la audiencia pública **Caso Gloria Estrada** a **VoxPopuli Digital** que, desde los inicios de este caso, lo está cubriendo? ¿Acaso se extralimitó en su poder autonómico? ¿Por qué no manifestó y sustentó en la audiencia su calidad de reserva?
@@ -25,7 +25,7 @@ Excelentísimo juez, ¿cuál de las partes del proceso solicitó la reserva de l
 
 ## La audiencia
 
-![Señor Juez Guido Guevara (izq.) y Angélica María Berrío Navarro, abogada de Avelino Villamizar.](./audiencia-gloria-estrada.jpg)
+![Señor Juez Guido Guevara (izq.) y Angélica María Berrío Navarro, abogada de Avelino Villamizar.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/senor-juez-la-audiencia-publica-es-publica-salvo-excepciones/audiencia-gloria-estrada.jpg)
 *Señor Juez Guido Guevara (izq.) y Angélica María Berríos Navarro, abogada de Avelino Villamizar.*
 
 Los días 12 y 16 se realizó la audiencia presidida por el Juzgado 11 Penal Municipal con Función de Control de Garantías a cargo de **Guido Guevara Herrera.** El objetivo de la vista pública era escuchar la solicitud de revocatoria de la medida de aseguramiento de los defensores, que encabeza Enrique del Río. Los tres implicados en el presunto hecho de tráfico de estupefacientes y porte ilegal de armas: **Gloria Estrada, Martín Barreto y Avelino Villamizar**. 
@@ -54,7 +54,7 @@ Ahora bien. Veamos lo que dice la jurisprudencia de la  Corte Constitucional (*
 
 ## Juicios paralelos
 
-![William Dau es un experto en el engaño y la manipulación. Señor Juez, este si hizo un juicio paralelo contra Gloria Estrada, víctima de un complot narcopolítico. ](./Cartagena-Sonada.jpg)
+![William Dau es un experto en el engaño y la manipulación. Señor Juez, este si hizo un juicio paralelo contra Gloria Estrada, víctima de un complot narcopolítico. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/senor-juez-la-audiencia-publica-es-publica-salvo-excepciones/Cartagena-Sonada.jpg)
 *William Dau es un experto en el engaño y la manipulación. Señor Juez, este si hizo un juicio paralelo contra Gloria Estrada, víctima de un complot narcopolítico. Aquí lo vemos al lado del padre Rafael Castillo Torres hablando de Nuestra Cartagena Soñada ¿La del bochinche y la perversidad de los vencejos?*
 
 Es cierto que algunas veces los medios de comunicación realizan juicios paralelos. Un ejemplo de ello fue este mismo caso. El pasado 14 de enero y sucesivo, los medios de comunicación jugaron un papel de juzgamiento contra la presidenta del concejo **Gloria Estrada**. El mismo alcalde **William Dau Chamat** realizó un juicio donde condenó a Gloria Estrada y demás procesados a quienes calificó de traquetos y  traficantes. 

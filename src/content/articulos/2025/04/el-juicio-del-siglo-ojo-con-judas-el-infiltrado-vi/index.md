@@ -5,10 +5,10 @@ pubDate: "2025-04-18 12:23:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-juicio-del-siglo-ojo-con-judas-el-infiltrado-vi/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-juicio-del-siglo-ojo-con-judas-el-infiltrado-vi/hero.jpg)
 *El Juicio del Siglo: Ojo con Judas ¡el infiltrado!*
 
 Ojo con Judas ¡el infiltrado! **Bladimir Cuadro Crespo** escaló demasiado peldaños en la justicia para ser hoy potencialmente el Judas de la sociedad colombiana en **«el Juicio del Siglo»**. ¿Hay suficiente material probatorio para inferir que el abogado del charismo sea _punta de lanza_ de la defensa del expresidente **Álvaro Uribe Vélez**?
@@ -57,7 +57,7 @@ Tras ser uno de los funcionarios de confianza de Ordoñez **―**un aliado natur
 
 ## Bladimir y el charismo
 
-![«El Juicio del Siglo»: ¿El Judas?](./image-1.png)
+![«El Juicio del Siglo»: ¿El Judas?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-juicio-del-siglo-ojo-con-judas-el-infiltrado-vi/image-1.png)
 *«El Juicio del Siglo»: ¿El Judas?*
 
 Comenzando 2019, Bladimir tomó poder judicial para la defensa de la exparlamentaria **Aida Merlano Rebolledo**. Su principal estrategia era la solicitud de rebaja de pena con el fin de que ella se echara la responsabilidad. Con esta conducta buscaba detener el proceso que amenazaba llegar a **Fuad Char y sus hijos Arturo y Alejandro Char**, y otros aliados del charismo.
@@ -66,7 +66,7 @@ Pero, la fuga de Merlano el 1 de octubre de 2019, llevó a la Corte Suprema de J
 
 ## Ojo con Judas en el juicio
 
-![Decreto de nombramiento de Bladimiro Cuadro Crespo firmado por la procuradora Margarita Cabello.](./Captura-de-pantalla-2025-04-17-071518.png)
+![Decreto de nombramiento de Bladimiro Cuadro Crespo firmado por la procuradora Margarita Cabello.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-juicio-del-siglo-ojo-con-judas-el-infiltrado-vi/Captura-de-pantalla-2025-04-17-071518.png)
 *Decreto de nombramiento de Bladimiro Cuadro Crespo firmado por la procuradora Margarita Cabello.*
 
 Bladimir Cuadro, estaría jugando a la doble. Por un lado, no cumpliría con su misión como Procurador Delegado en lo penal, representando a la sociedad colombiana para que se cumpla con la Constitución y la ley. Por otro lado, sería instrumento de la defensa para que la estrategia de esta se materialice.

@@ -5,10 +5,10 @@ pubDate: "2021-11-17 23:20:51"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/la-ruta-del-cimarron-y-el-despojo-en-el-canal-del-dique/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/la-ruta-del-cimarron-y-el-despojo-en-el-canal-del-dique/hero.jpg)
 *El proyecto «Restauración de los Ecosistemas Degradados Canal del Dique» es impulsado por la vicepresidenta Martha Lucía Ramírez.*
 
 Recorrer las huellas de los negros cimarrones del siglo XVI, XVII y XVII, es confirmar que la esclavitud sigue siendo una institución anacrónica, infame, deshumana. La Ruta del Cimarrón nos confirma que existe una esclavitud diferente, moderna, soterrada, pero esclavitud al fin y al cabo. La historia negra del Caribe y del Pacífico es la historia del despojo de sus bienes preciados. El macroproyecto **_Restauración de los Ecosistemas Degradados del Canal del Dique_** confirma el enfoque degradante y colonialista del desarrollo económico colombiano. 
@@ -59,7 +59,7 @@ Esas comunidades no están contra el desarrollo, quieren hacer parte del desarro
 
 ## Desarrollo y violencia
 
-![Canal del Dique](./Canal-del-dique-Onu-scaled-1.jpg)
+![Canal del Dique](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/la-ruta-del-cimarron-y-el-despojo-en-el-canal-del-dique/Canal-del-dique-Onu-scaled-1.jpg)
 *En la sede de Vox Populi Corporación se reunieron representantes de la ONU para hacer una escucha con los líderes de las comunidades del canal del Dique.*
 
 La línea de violencia asociada al desarrollo en el ecosistema Canal del Dique se pretende prolongar con el macroproyecto Restauracación de los Ecosistemas Degradados Canal del Dique (nombre real Ruta 5G). La Agencia Nacional de Infraestructura (ANI) viene imponiendo violentamente dicho proyecto. Las consultas previas, más que un diálogo intercultural, las han transformado en una acción violenta de amenazas y desplazamientos. Testigos de ese accionar es la misma comunidad de Boca Cerrada. 

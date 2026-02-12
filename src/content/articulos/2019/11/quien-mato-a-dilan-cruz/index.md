@@ -5,10 +5,10 @@ pubDate: "2019-11-26 13:47:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/quien-mato-a-dilan-cruz/"./hero.jpg"
 ---
 
-![Dilan Cruz, iconografía del crimen de Duque.](./hero.jpg)
+![Dilan Cruz, iconografía del crimen de Duque.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/quien-mato-a-dilan-cruz/hero.jpg)
 *Dilan Cruz Medina, 18 años, iconografía del crimen de Duque. Cortesía.*
 
 Esta es una pregunta que se hacen las personas con conciencia social: **¿quién mató a Dilan Cruz?** ¿El Esmad o el presidente Iván Duque? Dilan Cruz Medina, 18 años, **será el nombre iconográfico de las grandes jornadas de protesta social del 21N.** Pero también este es el justo momento para señalar que **la responsabilidad de su muerte es la del presidente Iván Duque** y no solo del comandante del Esmad.

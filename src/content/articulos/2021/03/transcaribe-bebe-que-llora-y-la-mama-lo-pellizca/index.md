@@ -5,10 +5,10 @@ pubDate: "2021-04-01 02:05:14"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/transcaribe-bebe-que-llora-y-la-mama-lo-pellizca/"./hero.jpg"
 ---
 
-\[caption id="attachment\_14383" align="aligncenter" width="1300"\]![](./hero.jpg) Se acrecienta crisis en Transcaribe. Se paraliza el sistema. El bebé que llora.\[/caption\]
+\[caption id="attachment\_14383" align="aligncenter" width="1300"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/transcaribe-bebe-que-llora-y-la-mama-lo-pellizca/hero.jpg) Se acrecienta crisis en Transcaribe. Se paraliza el sistema. El bebé que llora.\[/caption\]
 
 Transcaribe realmente es un «bebé que llora y su papá lo pellizca». **Tiene un modelo de negocio que lo mata lentamente.** Los operadores privados se quedan con el 70% de la tarifa y a la empresa solo le giran el 4%. Pero tenemos un alcalde que —en ves de salvarlo— **le puso una almohada en la cara,** inexorablemente lo asfixiará para que la muerte sea triste y penosa.
 
@@ -50,7 +50,7 @@ Angela María Orozco dijo que Dau desistió de la otra alternativa, el crédito
 
 ## Bebé que llora y su tercera oportunidad
 
-\[caption id="attachment\_14384" align="aligncenter" width="700"\]![](./transcaribe-ministra.jpg) La ministra dijo hoy que le mandó dos salvavidas para Transcaribe, pero el alcalde los rechazó. Aquí la ministra de Transporte, **Angela Orozco** con la vicepresidenta **Martha Lucía Ramírez**.\[/caption\]
+\[caption id="attachment\_14384" align="aligncenter" width="700"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/transcaribe-bebe-que-llora-y-la-mama-lo-pellizca/transcaribe-ministra.jpg) La ministra dijo hoy que le mandó dos salvavidas para Transcaribe, pero el alcalde los rechazó. Aquí la ministra de Transporte, **Angela Orozco** con la vicepresidenta **Martha Lucía Ramírez**.\[/caption\]
 
 «El bebé» de Dau tiene una segunda —mejor dicho, una tercera—oportunidad. Transcaribe se puede salvar si el alcalde se pellizca. La misma ministra le ofreció el crédito que no aprovechó el año pasado:
 

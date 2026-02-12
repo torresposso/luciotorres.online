@@ -5,10 +5,10 @@ pubDate: "2022-08-18 02:35:30"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/mintransporte-y-minambiente-posiciones-opuestas/"./hero.jpg"
 ---
 
-![¿Existen posiciones opuestas entre el ministerio de Medio Ambiente y el ministerio de Transporte en torno al megaproyecto Canal del Dique? ](./hero.jpg)
+![¿Existen posiciones opuestas entre el ministerio de Medio Ambiente y el ministerio de Transporte en torno al megaproyecto Canal del Dique? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/mintransporte-y-minambiente-posiciones-opuestas/hero.jpg)
 *¿Existen posiciones opuestas entre el ministerio de Medio Ambiente y el ministerio de Transporte en torno al megaproyecto Canal del Dique?*
 
 ¿Existen posiciones opuestas entre el ministerio de Medio Ambiente y el ministerio de Transporte? Con la llegada hoy del ministro de Transporte **Guillermo Reyes** a Cartagena para dialogar con los empresarios y periodistas, puso al descubierto su decisión: **La adjudicación de la licitación no tendrá más aplazamientos después del 12 de septiembre.** Contrario a lo que dijo la Ministra del Medio Ambiente **Susana Muhamad**. Ella explicó que el megaproyecto **"Restauración de los Ecosistemas Degradados Canal del Dique"** debe cumplir con las consultas previas y tener una licencia ambiental.

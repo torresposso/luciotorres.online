@@ -5,10 +5,10 @@ pubDate: "2025-06-06 01:38:15"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/en-libertad-campesinos-detenidos-arbitrariamente-por-la-policia-nacional/"./hero.jpg"
 ---
 
-![Así sacaron esposadas con manos atrás a María Cristina Pérez Rodríguez, una de las campesinas. Hoy fue puesta en libertad, Hoy, los campesinos detenidos arbitrariamente por la Policía Nacional, están en libertad.](./hero.jpg)
+![Así sacaron esposadas con manos atrás a María Cristina Pérez Rodríguez, una de las campesinas. Hoy fue puesta en libertad, Hoy, los campesinos detenidos arbitrariamente por la Policía Nacional, están en libertad.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/en-libertad-campesinos-detenidos-arbitrariamente-por-la-policia-nacional/hero.jpg)
 *Así sacaron esposadas con manos atrás a María Cristina Pérez Rodríguez, una de las campesinas. Hoy, los campesinos detenidos arbitrariamente por la Policía Nacional, están en libertad.*
 
 ¿Se privatizó el acto policivo? Esto es lo que pudiese estar pasando con los campesinos detenidos en forma arbitrarias. Actos policivos financiadas supuestamente por un directivo de Camacol que tiene intereses particulares. Hoy pusieron en libertad a 5 campesinos del corregimiento de Pontezuela (Cartagena) detenidos por agentes de la **Policía Nacional** el pasado miércoles.
@@ -17,7 +17,7 @@ Libres están los campesinos de la **familia Rodríguez** que poseen una franja 
 
 ## Campesinos detenidos
 
-![La policía custodia a los detenidos. Algunos son adultos mayores.](./Pontezuela_campesinos_detenidos-819x1024.jpg)
+![La policía custodia a los detenidos. Algunos son adultos mayores.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/en-libertad-campesinos-detenidos-arbitrariamente-por-la-policia-nacional/Pontezuela_campesinos_detenidos-819x1024.jpg)
 *La policía custodia a los campesinos detenidos. Algunos son adultos mayores.*
 
 En un operativo policivo **―**donde participaron agentes de policía beneficiados con giros financieros hechos por **Álvaro Montes Cubas**, directivo de Camacol Bolívar**―** fueron detenidos los campesinos que hacen posesión de sus tierras heredadas.

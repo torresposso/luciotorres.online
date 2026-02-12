@@ -5,10 +5,10 @@ pubDate: "2025-04-22 11:57:43"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-punetazo-de-la-muerte-del-papa-francisco/"./hero.jpg"
 ---
 
-![En Cartagena de Indias (2017) el papa Francisco sufrió un "puñetazo" cuando por accidente se golpeó en el ojo en medio de la muchedumbre](./papa_francisco.jpeg)
+![En Cartagena de Indias (2017) el papa Francisco sufrió un "puñetazo" cuando por accidente se golpeó en el ojo en medio de la muchedumbre](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-punetazo-de-la-muerte-del-papa-francisco/papa_francisco.jpeg)
 *En Cartagena de Indias (2017) el papa Francisco sufrió un "puñetazo" cuando por accidente se golpeó en el ojo en medio de la muchedumbre. /Cortesía.*
 
 **«Queridos hermanos y hermanas, ¡feliz Pascua!»**, fue la última frase que en público pronunció el papa Francisco antes que el **«**puñetazo» de la muerte lo lanzara a la lona de la eternidad.

@@ -5,12 +5,12 @@ pubDate: "2022-03-22 22:56:58"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-clave-del-fraude-electoral-que-va-del-tigrillo-noriega-al-gatico-vega/"./hero.jpg"
 ---
 
 **En el preconteo está la clave del fraude electoral.** La transmisión de datos, es decir, **la información del resultado electoral**, por mucha tecnología que tenga, se constituye en una debilidad en la etapa humana de recolección. Es el ser humano quien maneja la tecnología. No lo contrario. En este sentido vale preguntarnos. ¿Qué va del **«Tigrillo» Noriega al «Gatico»  Vega**? ¿El fraude electoral? ¿Qué va de **Rojas Pinilla a Gustavo Petro**? Son dos preguntas históricas que debemos responder a la luz de lo que sucedió en las elecciones del 13 de marzo pasado. 
 
-![¿Qué va del «Tigrillo» Noriega al «Gatico» Vega? ¿El fraude electoral?](./hero.jpg)
+![¿Qué va del «Tigrillo» Noriega al «Gatico» Vega? ¿El fraude electoral?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-clave-del-fraude-electoral-que-va-del-tigrillo-noriega-al-gatico-vega/hero.jpg)
 *¿Qué va del «Tigrillo» Noriega al «Gatico» Vega? ¿El fraude electoral?*
 
 Por esta razón, como la tecnología en la información electoral no lo explica todo, porque es una espada de doble filo, ¿dónde debemos buscar las causas del problema?  Viajaremos al humano que empuña esa espada. 
@@ -49,7 +49,7 @@ Esas elecciones la recuerdo tanto, porque acompañé a mi padre **Juan Torres Or
 
 ## Del «Tigrillo» Noriega al «Gatico» Vega
 
-![El M-19 surgió del fraude electoral al general Rojas Pinilla.](./bandera-m-19.jpg)
+![El M-19 surgió del fraude electoral al general Rojas Pinilla.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-clave-del-fraude-electoral-que-va-del-tigrillo-noriega-al-gatico-vega/bandera-m-19.jpg)
 *El M-19 surgió del fraude electoral al general Rojas Pinilla.*
 
 En ese encuentro del hotel El Prado, esto fue lo que me dijo —10 años después— el «Tigrillo» Noriega: 

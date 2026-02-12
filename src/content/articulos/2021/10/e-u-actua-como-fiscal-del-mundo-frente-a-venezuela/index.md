@@ -5,10 +5,10 @@ pubDate: "2021-10-23 22:39:10"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/e-u-actua-como-fiscal-del-mundo-frente-a-venezuela/"./hero.jpg"
 ---
 
-![El fiscal del mundo](./hero.jpg)
+![El fiscal del mundo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/e-u-actua-como-fiscal-del-mundo-frente-a-venezuela/hero.jpg)
 *Tío Sam Acusa. El fiscal del mundo. Cortesía.*
 
 **¿Por qué Estados Unidos de América actúa como fiscal del mundo frente a Venezuela?** En efecto, la extradición a ese país del empresario **Alex Saab**, y de las solicitudes hechas contra el exjefe de Inteligencia **Hugo «el Pollo» Carvajal** y de la extesorera **Nacional Claudia Díaz Guillén**, indicarían que **está suplantando la justicia venezolana**. Es decir, que no solamente hay un bloqueo económico sino también un cerco judicial. 
@@ -23,7 +23,7 @@ Desde el 2011 se conoce denuncias contra Alex Saab, y ahora es que inician juici
 
 ## El fiscal del mundo
 
-![](./polite-nashville-1.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/e-u-actua-como-fiscal-del-mundo-frente-a-venezuela/polite-nashville-1.jpg)
 *¿Será E.U. el fiscal del mundo? El Secretario de Justicia Auxiliar Kenneth A. Polite Jr. en el centro.*
 
 Esos tres casos emblemáticos tienen los reflectores de la prensa mundial. Explican de por sí la capacidad de dominio de Estados Unidos para lograr la extradición de sujetos que previamente les fija un precio por sus cabezas, al viejo estilo del oeste norteamericano. ¿Qué existe en el fondo de esta situación? Si bien es cierto que Norteamérica se erige como el gendarme, el fiscal y el juez del mundo para ejercer su posición dominante, no podemos desconocer los abusos que altos funcionarios y empresarios cometen para enriquecerse ilegalmente. Es una especie de **suprajusticia global** que suple el déficit de justicia de países que, como el de Venezuela, hay una corrupción galopante de los altos exponentes del gobierno.
@@ -40,7 +40,7 @@ El caso de Andrade podría ser la carnada para lograr que Alex Saab comience a c
 
 ## La enfermera de Chávez
 
-![](./Claudia-Diaz-2.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/e-u-actua-como-fiscal-del-mundo-frente-a-venezuela/Claudia-Diaz-2.jpg)
 *Claudia Díaz Guillén, Extesorera Nacional de venezuela, extraditada a Estados Unidos. Cortesía.*
 
 El pasado 15 de octubre la Audiencia Nacional de España autorizó la extradición a Norteamerica de **Claudia Díaz Guillén,** Extesorera Nacional hasta abril del 2013, mes en que fue destituida por Maduro. La extradición se hizo por estar acusada de **blanqueo de capitales y organización criminal.** Presuntamente la alta funcionaria chavista participó en un entramado de cambio de divisas que le dejó centenares de millones de dólares de ganancias. 
@@ -55,7 +55,7 @@ Según P**anamá Papers**, su [esposo Adrián Velásquez](https://talcualdigital
 
 ## Detienen la extradición del Pollo Carvajal
 
-![](./4BF25A66-66EB-4642-9248-646AAE6DA0E1_w1597_n_r1_st.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/e-u-actua-como-fiscal-del-mundo-frente-a-venezuela/4BF25A66-66EB-4642-9248-646AAE6DA0E1_w1597_n_r1_st.png)
 *Hugo "El Pollo" Carvajal en una sesión de la Audiencia Nacional Española. Cortesía Voz de América.*
 
 Según informó Voz de América, la Sección Tercera de la Sala de lo Penal de la Audiencia Nacional ha decidido frenar, por una formalidad, la _**[extradición a Estados Unidos del exjefe de inteligencia del gobierno de Venezuela](/articulos/a/espa%C3%B1a-extradici%C3%B3n-hugo-el-pollo-carvajal/6279696.html)**_, Hugo “El Pollo” Carvajal, quien es reclamado por la nación norteamericana por supuestos delitos relacionados con el tráfico de droga y de armas. Se encuentra en la cárcel de Estremera, Madrid, desde que en septiembre la Policía Española junto a la DEA, lo arrestaron en un apartamento fortificado. 
@@ -68,7 +68,7 @@ Carvajal es uno de los históricos de la Revolución Bolivariana. Participó jun
 
 ## Alex Saab
 
-![](./camila-fabbri-hugo-saab.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/e-u-actua-como-fiscal-del-mundo-frente-a-venezuela/camila-fabbri-hugo-saab.jpg)
 *Camila Fabbri, esposa de Alex Saab en una concentración en Caracas el pasado 17 de octubre. Foto: EFE*
 
 El empresario barranquillero, Álex Nain Saab Morán, se enfrenta al juez federal juez federal John O’Sullivan del Distrito Sur de Florida. O´Sullivan es juez desde 1999. La primera comparecencia de Saab fue el lunes 18 de octubre. La Fiscalía lo acusa de violar la Ley sobre Prácticas Corruptas en el Extranjero (_Foreign Corrupt Practices Act_, **FCPA**).  En concreto, se le acusa de lavar presuntamente hasta 350 millones de dólares defraudados a través del sistema de control cambiario en Venezuela. Fue detenido en Cabo Verde desde junio de 2020. En estos momentos se encuentra en una cárcel estadounidense. 

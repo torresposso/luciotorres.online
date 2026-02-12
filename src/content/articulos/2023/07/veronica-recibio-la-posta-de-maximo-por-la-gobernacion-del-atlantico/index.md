@@ -5,10 +5,10 @@ pubDate: "2023-07-30 20:29:05"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/veronica-recibio-la-posta-de-maximo-por-la-gobernacion-del-atlantico/"./hero.jpg"
 ---
 
-![Verónica recibió la posta de Máximo como candidata a la gobernación del atlántico. Su esposo le alza el brazo derecho. ¿El Plab B le ganará a Eduardo Verano y a Alfredo Varela? ](./hero.jpg)
+![Verónica recibió la posta de Máximo como candidata a la gobernación del atlántico. Su esposo le alza el brazo derecho. ¿El Plab B le ganará a Eduardo Verano y a Alfredo Varela? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/veronica-recibio-la-posta-de-maximo-por-la-gobernacion-del-atlantico/hero.jpg)
 *Verónica recibió la posta de Máximo como candidata a la gobernación del atlántico. Su esposo le alza el brazo derecho. ¿El Plab B le ganará a Eduardo Verano y a Alfredo Varela?*
 
 En medio del terremoto político que causó la detención del hijo del presidente, **Nicolás Petro,** Verónica recibió la posta de **Máximo Noriega,** quien no pudo inscribir su candidatura a la gobernación del Atlántico debido a la dictadura del centralismo bogotano. Un poco antes había aplicado sin problemas el formulario E-06 con el aval de Colombia Humana, cuya consulta popular ganó. Pero no pasó la verificación del sistema, porque su aval fue revocado por la dirección nacional una hora después de su expedición. Todo indica que se propaló una falsa especie según la cual tenía orden de captura en su contra que se iba a hacer efectiva una vez se estuviese inscribiendo.

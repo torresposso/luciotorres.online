@@ -5,10 +5,10 @@ pubDate: "2023-11-15 03:49:14"
 author: "Lucio"
 categories: ["Cartagena","Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/dumek-y-yamilito-recibieron-credenciales-y-comenzo-guerra-sucia/"./hero.jpg"
 ---
 
-![Dumek y Yamilito recibieron credenciales y comenzó guerra sucia.](./hero.jpg)
+![Dumek y Yamilito recibieron credenciales y comenzó guerra sucia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/dumek-y-yamilito-recibieron-credenciales-y-comenzo-guerra-sucia/hero.jpg)
 *Dumek y Yamilito recibieron credenciales y comenzó guerra sucia.*
 
 Los mandatarios electos de Bolívar, **Yamil Hernando Arana Padauí**, y de Cartagena, **Dumek José Turbay Paz**, recibieron credenciales hoy martes, ante los delegados especiales de Bolívar y del registrador distrital de Cartagena, respectivamente. En el caso de **Dumek Turbay**, al recibir su credencial, la debió usar como escudo frente a la sistemática _**guerra sucia**_ con falsas noticias que deliberadamente desataron contra él. Campaña grosera y antiética como la conducta del alcalde saliente que es una pesadilla para los cartageneros.
@@ -21,7 +21,7 @@ Te puede interesar: [Yamilito gobernador: «la gracia es de Dios y de la virgen 
 
 ## Recibieron credenciales en medio de guerra sucia
 
-![Dumek Turbay, al lado de su esposa Liliana Majana, exibe la credencial de alcalde electo. Recibieron credenciales/foto suministrada.](./Dumek_credencial.jpg)
+![Dumek Turbay, al lado de su esposa Liliana Majana, exibe la credencial de alcalde electo. Recibieron credenciales/foto suministrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/dumek-y-yamilito-recibieron-credenciales-y-comenzo-guerra-sucia/Dumek_credencial.jpg)
 *Dumek Turbay, al lado de su esposa Liliana Majana, exibe la credencial de alcalde electo./foto suministrada.*
 
 Los elegidos recibieron credenciales. Pero los detractores de Turbay utilizaron como artillería las investigaciones vigentes contra el nuevo mandatario de los cartageneros. Sin embargo, si bien algunos de esos procesos están vigentes, el nuevo mandatario de los cartageneros está seguro que los resolverá en las primeras de cambio de su administración.
@@ -34,13 +34,13 @@ Te puede interesar: [¡Conjurada la maldición! Dumek, alcalde electo de Cartage
 
 ## Una burda guerra sucia
 
-![](./Dumek_fake_.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/dumek-y-yamilito-recibieron-credenciales-y-comenzo-guerra-sucia/Dumek_fake_.jpg)
 *Recibieron credenciales en medio de guerra sucia. Dumek aclaró y dijo que es un documento falso.*
 
 Mientras **Dairo Turizo**, registrador distrital, le entregaba la credencial al alcalde electo, este periodista recibió los pantallazos de un supuesto auto emitido por la Corte Suprema de Justicia. Supuestamente, allí se fijaba una citación para el 24 de enero de 2024 donde el alcalde electo debería presentarse para una audiencia de imputación y medida de aseguramiento.
 
 ![Dumek y Yamilito recibieron credenciales.
-Dairo Turizo, registrador distrital, entrega la credencial al alcalde electo.](./dairo-turizo.jpg)
+Dairo Turizo, registrador distrital, entrega la credencial al alcalde electo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/dumek-y-yamilito-recibieron-credenciales-y-comenzo-guerra-sucia/dairo-turizo.jpg)
 *Dairo Turizo, registrador distrital, entrega la credencial al alcalde electo./Captura de video.*
 
 Si bien, a primera vista se nota la falsedad del documento, puede crear confusión e inducir al error a los periodistas que estén fuera de base. Además, obliga a los medios de comunicación averiguar las diferentes fuentes con el fin de descartar la falsedad. Pero el verdadero sentido de esas falsedades es crear una sensación determinada para disminuir la gobernabilidad del gobernante que, independientemente de sus errores, lo hará mejor, de la tierra a la luna.
@@ -53,7 +53,7 @@ Por último, hablamos con Dumek Turbay. El mismo alcalde electo dijo a **VoxPopu
 
 ## El gobernador y sus diputados
 
-![Los diputados que recibieron credenciales 2023 junto con el gobernador Yamilito Arana./Foto suministrada.](./Credenciales_bolivarmejor.jpg)
+![Los diputados que recibieron credenciales 2023 junto con el gobernador Yamilito Arana./Foto suministrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/dumek-y-yamilito-recibieron-credenciales-y-comenzo-guerra-sucia/Credenciales_bolivarmejor.jpg)
 *Los diputados que recibieron credenciales 2023, junto con el gobernador Yamilito Arana./Foto suministrada.*
 
 Delegados del Consejo Nacional Electoral (CNE) y de la Registraduría Especial del Estado Civil fueron los encargados de declarar oficialmente la elección de Arana Padauí, y delos diputados elegidos el pasado 29 de octubre.  

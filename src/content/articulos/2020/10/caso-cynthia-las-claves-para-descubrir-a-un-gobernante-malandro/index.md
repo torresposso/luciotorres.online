@@ -5,10 +5,10 @@ pubDate: "2020-10-21 00:24:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/caso-cynthia-las-claves-para-descubrir-a-un-gobernante-malandro/"./hero.jpg"
 ---
 
-![](./hero.jpg) **El «Caso Cynthia Amador»** le permita al analista descubrir **tres claves para delatar a un gobernante malandro**. ¿Cuáles son esas claves? **(I)** El arte de engañar a los más pendejos de la sociedad. **(II)** Hacer creer que gobierna, pero no gobierna. **(II)** Y robarse el dinero como si fuera un acto humanitario para con los pobres y marginados. El estudio del **«Caso Cynthia» es revelador. «El Reculador» echó para atrás el contrato. Lo liquidó.** Más allá de una noticia cualquiera, corrobora unos patrones de conducta corrupta que son usuales en el alcalde William Dau Chamat. Pero también puede ser una conducta patológica que no lo puede desinhibir de su responsabilidad fiscal, disciplinaria y penal que lo hace un verdadero malandro de 7 suelas. Es el mejor actor bufón de la lucha contra la corrupción. Sabe engañar y distraer a las masas empobrecidas o alienadas. Engaña a personas realmente indignadas por los actos corruptos de los que han gobernado a Cartagena a lo largo de estos últimos 30 años.
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/caso-cynthia-las-claves-para-descubrir-a-un-gobernante-malandro/hero.jpg) **El «Caso Cynthia Amador»** le permita al analista descubrir **tres claves para delatar a un gobernante malandro**. ¿Cuáles son esas claves? **(I)** El arte de engañar a los más pendejos de la sociedad. **(II)** Hacer creer que gobierna, pero no gobierna. **(II)** Y robarse el dinero como si fuera un acto humanitario para con los pobres y marginados. El estudio del **«Caso Cynthia» es revelador. «El Reculador» echó para atrás el contrato. Lo liquidó.** Más allá de una noticia cualquiera, corrobora unos patrones de conducta corrupta que son usuales en el alcalde William Dau Chamat. Pero también puede ser una conducta patológica que no lo puede desinhibir de su responsabilidad fiscal, disciplinaria y penal que lo hace un verdadero malandro de 7 suelas. Es el mejor actor bufón de la lucha contra la corrupción. Sabe engañar y distraer a las masas empobrecidas o alienadas. Engaña a personas realmente indignadas por los actos corruptos de los que han gobernado a Cartagena a lo largo de estos últimos 30 años.
 
 ## **Clave No 1. Engañar**
 

@@ -5,10 +5,10 @@ pubDate: "2022-10-31 01:22:27"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/lula-resucitado-o-novo-presidente-do-brasil/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/lula-resucitado-o-novo-presidente-do-brasil/hero.jpg)
 *¡Lula resucitado! Bolsonaro aplastado*
 
 Se fortalece la posibilidad de un nuevo bloque de la izquierda latinoamericano. Por tercera vez **Luiz Inácio Lula Da Silva** fue elegido hoy presidente de un Brasil que soporta el rigor de cuatro años de un gobierno de derecha encabezado por su archirrival, el presidente **Jair Bolsonaro**. La jornada electoral de hoy demostró una realidad que se había predicho en la primera vuelta de estas elecciones. Esto es, **¡Lula resucitado!**
@@ -47,7 +47,7 @@ Se dijo que Lula es el único sobreviviente del **“socialismo del siglo XXI”
 
 Entre 2003-2010, como presidente de Brasil, hizo reformas radicales en búsqueda de la promesa de una transformación social y económica de Brasil. Sacó de la pobreza extrema a 30 millones de compatriotas con programas sociales vanguardistas: como [Hambre Cero](https://luciotorres.local/wiki/Hambre_Cero) o [Bolsa Familia](https://luciotorres.local/wiki/Bolsa_Familia). Triplicó su PIB per cápita según el Banco Mundial. De manera que **Brasil se convirtió en la sexta economía del mundo**. Mucho mejor que algunos países de Europa. Aprovechó los precios internacionales de las materias prima y estimuló la relocalización de grandes multinacionales de la industria mundial.
 
-![](./lula-The-New-York-Times.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/lula-resucitado-o-novo-presidente-do-brasil/lula-The-New-York-Times.jpg)
 *¡Lula Resucitado! Hoy en Sao Paulo. Cortesía The New York Times.*
 
 De la primera ola del **“socialismo del siglo XXI”**, en aquellos tiempos del presidente venezolano Hugo Chávez, resurge de las cenizas y de un inminente final triste a raíz de las acusaciones por corrupción que adelantó un juez de la república. Todas estas acusaciones se cayeron porque se demostró que el juez obró en forma parcial. Es decir, tuvo razones políticas e ideológicas para mantener preso a Lula Da Silva por más de un año.

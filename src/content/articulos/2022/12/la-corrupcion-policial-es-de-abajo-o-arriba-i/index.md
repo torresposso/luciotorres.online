@@ -5,10 +5,10 @@ pubDate: "2022-12-22 23:00:58"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-corrupcion-policial-es-de-abajo-o-arriba-i/"./hero.jpg"
 ---
 
-![¿La corrupción policial es de abajo o arriba? (I) La patrullera Daniela Echeverry Gómez fue capturada en Arauca por trata de persona. Estuvo 5 años en la Policía Metropolitana de Cartagena en la división de Infancia y Adolescencia](./patrullera1.jpeg)
+![¿La corrupción policial es de abajo o arriba? (I) La patrullera Daniela Echeverry Gómez fue capturada en Arauca por trata de persona. Estuvo 5 años en la Policía Metropolitana de Cartagena en la división de Infancia y Adolescencia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-corrupcion-policial-es-de-abajo-o-arriba-i/patrullera1.jpeg)
 *La patrullera Daniela Echeverry Gómez fue capturada en Arauca por trata de persona. Estuvo 5 años en la Policía Metropolitana de Cartagena en la división de Infancia y Adolescencia. Foto policía.*
 
 La **pequeña madame**, como agente de la policía de Infancia y Adolescencia, satisfacía la voracidad depredadora de turistas sexuales en las islas del Rosario traficando adolescentes como **comida para buitres**. Asimismo, tres patrulleros separados de sus cargos, y su jefe de Distrito investigado disciplinariamente por haber evidencias de participar en el complot político del kilo de cocaína contra **Gloria Estrada,** presidenta del concejo de Cartagena. Un teniente detenido por ser jefe de la banda criminal transnacional **Tren de Aragua en Bogotá**. Decenas de agentes capturados por delincuencia común y al servicio de bandas criminales. Fiestas de cumpleaños de capos de la mafia que la policía deja libre en un tiroteo con dos muertos. ¿La corrupción solo se da en la base de la pirámide de la Policía Nacional y de las Fuerzas Armadas? Las evidencias dicen lo contrario: **la corrupción viene de arriba**.
@@ -19,7 +19,7 @@ Si bien el ministro Velásquez tiene poca experiencia en seguridad de Estado y s
 
 ## La corrupción policial y la transparencia de las F.F.A.A.
 
-![El teniente Víctor Manuel Flechas, comandante del CAI Caldas, ubicado muy cerca a Corabastos en Kennedy donde operaba el Tren de Aragua.](./hero.jpg)
+![El teniente Víctor Manuel Flechas, comandante del CAI Caldas, ubicado muy cerca a Corabastos en Kennedy donde operaba el Tren de Aragua.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-corrupcion-policial-es-de-abajo-o-arriba-i/hero.jpg)
 *El teniente Víctor Manuel Flechas, comandante del CAI Caldas, ubicado muy cerca a Corabastos en Kennedy donde operaba el Tren de Aragua.*
 
 En el primer encuentro que Velásquez Gómez tuvo con la organización internacional de derechos humanos, WOLA, precisó la necesidad de poner la responsabilidad de la seguridad civil directamente en **manos de los civiles.** Agregó, que una de sus tareas es luchar contra la corrupción para construir unas fuerzas de seguridad fuertes **que no violen los derechos humanos**.

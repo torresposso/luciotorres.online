@@ -5,10 +5,10 @@ pubDate: "2023-01-21 19:52:23"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/presidente-petro-cierre-caregato/"./hero.jpg"
 ---
 
-![Presidente Petro: ¡Cierre Caregato!](./PROTESTA.jpeg)
+![Presidente Petro: ¡Cierre Caregato!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/presidente-petro-cierre-caregato/PROTESTA.jpeg)
 *Presidente Petro: ¡Cierre Caregato!*
 
 ¿Quiénes pueden conocer la situación que se vive en la subregión de **La Mojana** que sus propios pobladores? Pues bien, las comunidades le **gritan con clamor al presidente Gustavo Petro**: **¡Cierre Caregato!** Este chorro del río Cauca, ubicado en San Jacinto del Cauca, se rompió en agosto de 2021. Desde entonces, **más de 63 mil familias sufren las consecuencias de las inundaciones**.
@@ -19,7 +19,7 @@ En ese sentido, el abogado **Mario Ojeda**, quien tiene una pequeña propiedad a
 
 ## ¿Por qué claman el **cierre Caregato**?
 
-![El gobierno nacional con la ministra de Agricultura buscando solución a La Mojana. El cierre de Caregato es necesario para la búsqueda de una solución. ](./Ministra-de-agricultura.jpeg)
+![El gobierno nacional con la ministra de Agricultura buscando solución a La Mojana. El cierre de Caregato es necesario para la búsqueda de una solución. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/presidente-petro-cierre-caregato/Ministra-de-agricultura.jpeg)
 *El gobierno nacional con la ministra de Agricultura, Cecilia López, buscando solución a La Mojana. El cierre de Caregato es necesario para la búsqueda de una solución.*
 
 La pregunta que los expertos de prevención de desastre y sus asesores ambientalistas no se han hecho es por qué razón las comunidades están pidiendo el **cierre de **Caregato****. La complejidad ambiental de La Mojana no la han entendido los ambientalistas fundamentalistas del gobierno central. ¿Por qué? Esta subregión está determinada por un complejo lagunar entretejido para formar lo que se llamó la **Depresión Momposina**. Esta tiene como finalidad ambiental regular los cauces de los ríos Magdalena, Cauca y San Jorge.
@@ -54,7 +54,7 @@ Por esa razón, los líderes de este movimiento cívico consideran que el gobier
 
 ## Cierre Caregato es la prioridad de las comunidades
 
-![Este es el impacto incumplido. Al oído del presidente Petro. Cierre Caregato.](./hero.jpg)
+![Este es el impacto incumplido. Al oído del presidente Petro. Cierre Caregato.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/presidente-petro-cierre-caregato/hero.jpg)
 *Este es el pacto incumplido por el gobierno. Al oído del presidente Petro. Cierre Caregato.*
 
 El cierre de **Caregato** es un acto prioritario. Pero también significa la incomprensión del gobierno nacional del fenómeno conocido como **cultura anfibia** al proponer como solución estructural la reubicación de la población. Esta medida va en contravía de todas las evidencias sociológicas y culturales que la misma población le ha expuesto al gobierno nacional.

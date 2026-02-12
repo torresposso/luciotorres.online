@@ -5,10 +5,10 @@ pubDate: "2023-02-06 03:26:22"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/yo-me-llamo-jorge-40-un-embustero-en-la-jep-iii/"./hero.jpg"
 ---
 
-![Yo soy  «Jorge 40»: Un embustero en la JEP.. Aquí la magistrada, Sandra Castro Ospina lo interpela para que precise, .(Captura de Pantalla).](./hero.jpg)
+![Yo soy  «Jorge 40»: Un embustero en la JEP.. Aquí la magistrada, Sandra Castro Ospina lo interpela para que precise, .(Captura de Pantalla).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/yo-me-llamo-jorge-40-un-embustero-en-la-jep-iii/hero.jpg)
 *Yo «Yo me llamo Jorge 40»: Un embustero en la JEP.. Aquí la magistrada, Sandra Castro Ospina lo interpela para que precise, .(Captura de Pantalla).*
 
 Si la audiencia pública de **Rodrigo Tovar Pupo** se transformó en la segunda temporada de **«Yo me llamo Jorge 40»**, ¿cómo será la audiencia reservada de febrero? En realidad, es un embustero en la JEP que jamás dirá la verdad.
@@ -19,7 +19,7 @@ No hubo un solo aporte a la verdad para demostrar que Rodrigo Tovar Pupo fue age
 
 ## «Yo me llamo Jorge 40» o la ventanilla siniestra
 
-![Danilo Rueda, Comisionado Nacional de Paz, el principal artífice de «Yo me llamo Jorge 40».](./Yo_soy_Jorge_40_Portada.jpg)
+![Danilo Rueda, Comisionado Nacional de Paz, el principal artífice de «Yo me llamo Jorge 40».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/yo-me-llamo-jorge-40-un-embustero-en-la-jep-iii/Yo_soy_Jorge_40_Portada.jpg)
 *Danilo Rueda, Comisionado Nacional de Paz, el principal artífice de «Yo me llamo Jorge 40».*
 
 Si bien la audiencia fue frustrante para las víctimas y la sociedad, reflejó lo que podría significar l**a Paz Total** si aceptan a Tovar Pupo en la justicia transicional escondiendo la verdad y olvidando la justicia. Como la propuesta presidencial busca el perdón social de los victimarios, la ausencia de verdad y de justicia sin redimir a los **ocho millones de víctimas**, condenaría la propuesta gubernamental en una **nueva ventanilla siniestra para lavar los crímenes de lesa humanidad de los genocidas**.

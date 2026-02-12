@@ -5,10 +5,10 @@ pubDate: "2022-03-09 00:02:11"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-13-de-marzo-seguiran-los-mismos-cacicazgos-segun-la-tercera-gran-encuesta-del-caribe/"./hero.jpg"
 ---
 
-![José Alfredo Gnecco (Cesar), Arturo Char (Atlántico) y Lidio García (Bolívar), tendrían la mayor votación para senado en la Costa caribe. los mismos cacicazgos.](./hero.jpg)
+![José Alfredo Gnecco (Cesar), Arturo Char (Atlántico) y Lidio García (Bolívar), tendrían la mayor votación para senado en la Costa caribe. los mismos cacicazgos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-13-de-marzo-seguiran-los-mismos-cacicazgos-segun-la-tercera-gran-encuesta-del-caribe/hero.jpg)
 *José Alfredo Gnecco (Cesar), Arturo Char (Atlántico) y Lidio García (Bolívar), tendrían la mayor votación para senado en la Costa caribe. los mismos cacicazgos.*
 
 A 5 días de las elecciones del 13 de marzo —en la región Caribe— el comportamiento electoral no tendrá mayor modificación de lo tradicional. Esto **indica que seguirán los mismos cacicazgos**.  Lo pronóstica una lectura de los últimos resultados emanados de la **Tercera Gran Encuesta del Caribe** realizada por **Mediciones Estratégicas**. En esta oportunidad la diferencia política es la significativa votación de la coalición centro izquierda **Pacto Histórico**. 
@@ -17,7 +17,7 @@ Por otro lado, **Gustavo Petro y Pacto Histórico**, de las tres coaliciones, se
 
 ## Los mismos cacicazgos
 
-![](./las-tres-senadoras.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-13-de-marzo-seguiran-los-mismos-cacicazgos-segun-la-tercera-gran-encuesta-del-caribe/las-tres-senadoras.jpg)
 *Dayra Galvis (CR), Nadia Blel (Conservador) y Laura Fortich (Liberal). La que tiene la situación dura para su elección es Daira Galvis. Los mismos cacicazgos.*
 
 El estudio, además de indagar sobre la consulta presidencial, pregunta sobre la intención de voto en cada departamento de la costa para cámara y senado. Por coalición, el Pacto Histórico gana en la mayor parte de los departamentos: Atlántico, Bolívar, Cesar, Sucre y San Andrés. Pero en realidad, el mayor porcentaje en toda la región lo tiene el **no sabe/no responde** y **por ninguno**.
@@ -42,11 +42,11 @@ Este es el análisis que hicimos en el pasado informe.
 
 ## Atlántico
 
-![](./Encuesta-senado-Atlantico.jpg)![](./Encuesta-camara-Atlantico.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-13-de-marzo-seguiran-los-mismos-cacicazgos-segun-la-tercera-gran-encuesta-del-caribe/Encuesta-senado-Atlantico.jpg)![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-13-de-marzo-seguiran-los-mismos-cacicazgos-segun-la-tercera-gran-encuesta-del-caribe/Encuesta-camara-Atlantico.jpg)
 
 ## Bolívar
 
-![](./Encuesta-Senado-Bolivar.jpg)![](./Encuesta-camara-Bolivar.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-13-de-marzo-seguiran-los-mismos-cacicazgos-segun-la-tercera-gran-encuesta-del-caribe/Encuesta-Senado-Bolivar.jpg)![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-13-de-marzo-seguiran-los-mismos-cacicazgos-segun-la-tercera-gran-encuesta-del-caribe/Encuesta-camara-Bolivar.jpg)
 
 ## Vea toda la encuesta
 

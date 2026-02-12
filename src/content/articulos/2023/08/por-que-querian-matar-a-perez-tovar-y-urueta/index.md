@@ -5,10 +5,10 @@ pubDate: "2023-08-11 22:44:10"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/por-que-querian-matar-a-perez-tovar-y-urueta/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/por-que-querian-matar-a-perez-tovar-y-urueta/hero.jpg)
 *¿Por qué querían matar a Pérez, Tovar y Urueta?*
 
 Mucha extrañeza causa el hecho de que la directiva del **Club Campestre de Cartagena** —hasta ahora— no se haya pronunciado sobre el horroroso plan —concebidos por varios de sus socios en la cancha de Golf— para asesinar, ya no solo al abogado **Héctor Pérez Fernández** sino a otros líderes sociales. **VoxPopuli Digital** pudo establecer que el plan de exterminio se extendía, al parecer, al también abogado y veedor **Erick Urueta Benavides** y al presidente de la **Asociación de Campesinos Montes de Dios de Turbana, Enaldo Tovar** Monterrosa, ¿Por qué querían matar a Pérez, Tovar y Urueta?
@@ -17,7 +17,7 @@ De acuerdo al hilo conductor de la historia que venimos relatando en las tres en
 
 ## Villamizar y su parque industrial
 
-![¿Por qué querían matar a Pérez, Tovar y Urueta?  Allí está Jhon Villamizar Gómez, entre Luis Fernando Lemus  (porta el trofeo de golf) y Rodrigo Rendón, en la extrema derecha. ¿Tienen ellos otros intereses fuera de Cachenche?](./Jhon-Villamizar-en-el-juego.jpg)
+![¿Por qué querían matar a Pérez, Tovar y Urueta?  Allí está Jhon Villamizar Gómez, entre Luis Fernando Lemus  (porta el trofeo de golf) y Rodrigo Rendón, en la extrema derecha. ¿Tienen ellos otros intereses fuera de Cachenche?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/por-que-querian-matar-a-perez-tovar-y-urueta/Jhon-Villamizar-en-el-juego.jpg)
 *¿Por qué querían matar a Pérez, Tovar y Urueta? Allí está Jhon Villamizar Gómez, entre Luis Fernando Lemus (porta el trofeo de golf) y Rodrigo Rendón, en la extrema derecha. ¿Tienen ellos otros intereses fuera de Cachenche?*
 
 ¿Qué intereses afectaba la conducta de los veedores y líderes sociales? En principio, se debe indicar que el proceso de Cachenche finalizó con la decisión de la Sociedad de Activos Especiales-SAE de ceder ese predio a los campesinos organizados alrededor de la Corporación Montes de Dios.

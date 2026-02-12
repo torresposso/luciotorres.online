@@ -5,10 +5,10 @@ pubDate: "2020-11-15 22:19:37"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/el-huracan-iota-no-es-idiota-prevengase/"./hero.jpg"
 ---
 
-\[caption id="attachment\_13235" align="aligncenter" width="500"\]![](./GIF.gif) El huracán Iota se transformará en cuarta categoría, según CNH.\[/caption\] Cuando usted lea esta nota, probablemente el fenómeno tropical que azotó a Colombia sea Huracán Iota. Su transformación de tormenta tropical a huracán categoría 2 ó 3 es cuestión de horas. Aunque este accidente meteorológico pase lejos de San Andrés y Providencia, podría ocasionar graves daños en su ruta.
+\[caption id="attachment\_13235" align="aligncenter" width="500"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/el-huracan-iota-no-es-idiota-prevengase/GIF.gif) El huracán Iota se transformará en cuarta categoría, según CNH.\[/caption\] Cuando usted lea esta nota, probablemente el fenómeno tropical que azotó a Colombia sea Huracán Iota. Su transformación de tormenta tropical a huracán categoría 2 ó 3 es cuestión de horas. Aunque este accidente meteorológico pase lejos de San Andrés y Providencia, podría ocasionar graves daños en su ruta.
 
 ## Huracán Iota a Honduras
 

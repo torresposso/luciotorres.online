@@ -5,10 +5,10 @@ pubDate: "2024-07-24 18:32:50"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/increible-el-intocable-rafael-matera-se-orino-en-plena-audiencia/"./hero.jpg"
 ---
 
-![Captura de pantalla del momento preciso cuando Rafael Matera Lajud (alias "300") le respondió al abogado Johnny González con una meada que trascendió la audiencia virtual. ](./La-meada-de-alias-300-1024x216.jpeg)
+![Captura de pantalla del momento preciso cuando Rafael Matera Lajud (alias "300") le respondió al abogado Johnny González con una meada que trascendió la audiencia virtual. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/increible-el-intocable-rafael-matera-se-orino-en-plena-audiencia/La-meada-de-alias-300-1024x216.jpeg)
 *Captura de pantalla del momento preciso cuando Rafael Matera Lajud (alias "300") le respondió al abogado Johnny González con una meada que trascendió la audiencia virtual.*
 
 **Los Intocables** financiaron delitos de lesa humanidad: desplazamientos forzados, fosas comunes, homicidios, desapariciones forzosas, hasta se robaron parte del río Ariguaní, entre otros. Lo increíble, a la mayoría no le pasa nada. Por ejemplo, en plena audiencia judicial virtual, **el Intocable Rafael Matera Lajud (alias «300»)**, mostró en cámara cuando orinaba mientras el reconocido penalista **Johnny González** le hacía una pregunta sobre su participación en la financiación del paramilitarismo.
@@ -23,7 +23,7 @@ Si bien, el hecho sucedió en enero del 2022 en una audiencia del Consejo Seccio
 
 ## El Intocable Rafael Matera
 
-![Rafael Matera Lajud, los Intocables que amenazan](./hero.jpg)
+![Rafael Matera Lajud, los Intocables que amenazan](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/increible-el-intocable-rafael-matera-se-orino-en-plena-audiencia/hero.jpg)
 *Los intocables que amenazan y, presuntamente, siguen delinquiendo.*
 
 La conducta del **Intocable Rafael Matera Lajud**, financiador de las autodefensas, según las declaraciones de sus jefes que comparecieron en Justicia y Paz, fue un acto de desprecio contra la justicia. Expresa su prepotencia con seguridad de que no le pasaría nada. Tal como se demuestra en las compulsas de copias de la ley de **Justicia y Paz** a la Fiscalía para que los investiguen. Esta es la razón por la cual se convirtieron en los intocables de la justicia colombiana.
@@ -56,14 +56,14 @@ La conducta de Matera no es cosa menor. Es un mensaje explícito de desprecio a 
 
 ## Financiador del paramilitarismo
 
-![Compulsa de copia de la sentencia donde se condenaron a integrantes del frente "José Pablo Díaz" donde se encontraban como financiadores Alfonso Macías Vargas (ya fallecido) y Rafael Matera Lajud, Alias "300"](./Compulsa_rafael_matera.jpeg)
+![Compulsa de copia de la sentencia donde se condenaron a integrantes del frente "José Pablo Díaz" donde se encontraban como financiadores Alfonso Macías Vargas (ya fallecido) y Rafael Matera Lajud, Alias "300"](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/increible-el-intocable-rafael-matera-se-orino-en-plena-audiencia/Compulsa_rafael_matera.jpeg)
 *Compulsa de copia de la sentencia donde se condenaron a integrantes del frente "José Pablo Díaz" donde se encontraban como financiadores Alfonso Macías Vargas (ya fallecido) y Rafael Matera Lajud, Alias "300".*
 
 Vale destacar que Justicia y Paz, hasta el 2023, hizo más de **18 mil compulsas de copia** a la justicia ordinaria, en este caso, a la Fiscalía para investigar a los comprometidos en la financiación del paramilitarismo. La mayoría de estas investigaciones están sepultadas por el polvo del olvido.
 
 Para la Fiscalía de **Francisco Barbosa** _―_según le respondió a El Tiempo en el 2020_―_ la entidad adelantaba tres líneas de trabajo: (1) consolidación del inventario de compulsas y procesos que vienen de Justicia y Paz; (2) dar **impulso procesal** a esas investigaciones, y (3) priorización de los procesos. Es decir, son casi los mismos anuncios que hizo la actual fiscal **Luz Adriana Camargo** al conmemorarse los 19 años de Justicia y paz.
 
-![](./La-prueba-de-Alacran-1024x1024.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/increible-el-intocable-rafael-matera-se-orino-en-plena-audiencia/La-prueba-de-Alacran-1024x1024.jpg)
 *Reabren proceso por homicidio a Los intocables... Los del matadero.*
 
 ¿Por qué los casos de _terceros responsables_ en el campo económico y político no han tenido impulso dentro de las prioridades de la Fiscalía? A manera de hipótesis, debemos decir que todavía **Los Intocables** mantienen el poder económico y político conquistado en el período del paramilitarismo.

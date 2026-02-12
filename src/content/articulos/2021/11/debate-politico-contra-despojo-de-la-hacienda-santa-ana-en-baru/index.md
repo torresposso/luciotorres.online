@@ -5,7 +5,7 @@ pubDate: "2021-11-14 23:49:27"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/debate-politico-contra-despojo-de-la-hacienda-santa-ana-en-baru/"./hero.jpg"
 ---
 
 (imagen no disponible)
@@ -17,7 +17,7 @@ Pero resulta que después de 134 años, Hacienda Santa Ana de Barú pasó a mano
 
 De acuerdo con el veedor **Héctor Pérez Fernández**, el debate que se prepara en el congreso no solo cobija las tierras de Santa Ana sino que se extenderá al proceso de despojo de Barú, Canal del Dique y de la zona costera de Cartagena.
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/debate-politico-contra-despojo-de-la-hacienda-santa-ana-en-baru/hero.jpg)
 
 La Hacienda Santa Ana data desde la expansión de la economía colonial cuando el mercantilismo tomó apogeo en Cartagena de Indias. Los comerciantes de la provincia comenzaron a comprar propiedades rurales y montar haciendas en el campo. Pero la Hacienda Santa Ana fue cedida por la Corona a las dos hermanas **Margarita M. Benévolo y Juana de Benoli Paz**, según el protocolo 129 de 1872  de la Notaría Primera. 
 
@@ -33,7 +33,7 @@ Ese plan buscaba integrar las tierras de Barú al desarrollo económico del merc
 
 ## La denuncia
 
-![](./Portada.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/debate-politico-contra-despojo-de-la-hacienda-santa-ana-en-baru/Portada.jpg)
 *Guillermo Paniza y Judith Pinedo, los exalcaldes condenados tienen un punto de entronque: son de la Casa Araújo, grupo familiar cuestionado por adquirir tierras en forma fraudulenta en Barú. El mismo Panizza está denunciado por adquirir propiedades en forma ilegal. El actual alcalde, William Dau Chamat, es de la misma cuerda familiar.*
 
 **David Martínez Guerrero**, personero delegado distrital de Cartagena en 1995, según lo informó El Tiempo, presentó una denuncia penal en la Fiscalía General contra el alcalde de la época, **Guillermo Paniza Ricardo**, quien mágicamente había adquirido una propiedad en la isla de Barú. Al respecto, Panizza manifestó que su propiedad fue adquirida en forma legal. Aunque la denuncia incluía a todo Barú, el caso de la hacienda Santa Ana es particular, porque es indiscutible su propiedad colectiva. Todas las escrituras que salieron de esa propiedad están viciadas de nulidad.

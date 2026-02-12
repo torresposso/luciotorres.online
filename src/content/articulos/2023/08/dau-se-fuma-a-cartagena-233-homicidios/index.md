@@ -5,10 +5,10 @@ pubDate: "2023-08-13 17:49:14"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/dau-se-fuma-a-cartagena-233-homicidios/"./hero.jpg"
 ---
 
-![El alcalde William Dau se fuma a Cartagena: 233 homicidios. Mientras hace payasadas.](./hero.jpg)
+![El alcalde William Dau se fuma a Cartagena: 233 homicidios. Mientras hace payasadas.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/dau-se-fuma-a-cartagena-233-homicidios/hero.jpg)
 *El alcalde William Dau se fuma a Cartagena: 233 homicidios. Mientras hace payasadas.*
 
 Hoy, William Dau, como siempre, se metió su fuma mañanera antes de salir para la ciclovía. _El Zambiloco_ se le vio pedalear unos metros por la avenida Santander. Sus pulmones y los tabiquetes de su nariz parecen que están desgatados para resistir el pedaleo, como se puede notar en la foto que se adjunta. Mucho humo almizclado han pasado por sus vías respiratorias. Mientras hacía esta payasada, la Policía Metropolitana de Cartagena―Mecar nos dijo hoy, que los muertos de anoche son: Laura Vanessa Molinares Martínez (comerciante), Yeison Castro Luna (mecánico) y Ronald David Gómez Cervantes (concejal de Tolú). Son 233 homicidios hasta la noche del sábado 12 de agosto.
@@ -25,7 +25,7 @@ Cartagena es líquida como su alcalde. Si no fuera así, desde hace rato lo hubi
 
 ## ¿Por qué la violencia? 233 homicidios
 
-![Laura Vanessa Morelos Martínez, es una de los asesinados la noche del sábado. Van 233 homicidios.](./Laura-Vanessa-Morelos-Martinez.jpg)
+![Laura Vanessa Morelos Martínez, es una de los asesinados la noche del sábado. Van 233 homicidios.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/dau-se-fuma-a-cartagena-233-homicidios/Laura-Vanessa-Morelos-Martinez.jpg)
 *Laura Vanessa Morelos Martínez, es una de los asesinados la noche del sábado. Van 233 homicidios.*
 
 La teoría de la alienación, entre otras, que utilicé para explicar el fenómeno de la violencia en Colombia en el libro [¿Adiós a la Guerra?](/articulos/politica/lanzan-libro-adios-la-guerra-234510-CXeu341715) (2016) , se podría utilizar en el caso cartagenero, como el fenómeno de las ciudades más violentas del mundo. Sin embargo, existen unas particularidades que el investigador social debe descubrir para entregar un análisis científico. Si bien la alienación es un proceso donde el individuo queda enajenado y actúa guiado por un sistema de creencias, existen unos factores que son detonadores de su comportamiento violento.

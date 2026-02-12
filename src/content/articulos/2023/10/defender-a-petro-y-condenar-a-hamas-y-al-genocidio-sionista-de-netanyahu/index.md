@@ -5,10 +5,10 @@ pubDate: "2023-10-18 03:09:23"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/defender-a-petro-y-condenar-a-hamas-y-al-genocidio-sionista-de-netanyahu/"./hero.jpg"
 ---
 
-![Defender a Petro y condenar a Hamás y al genocidio sionista de Netanyahu.](./hero.jpg)
+![Defender a Petro y condenar a Hamás y al genocidio sionista de Netanyahu.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/defender-a-petro-y-condenar-a-hamas-y-al-genocidio-sionista-de-netanyahu/hero.jpg)
 *Defender a Petro y condenar a Hamás y al genocidio sionista de Netanyahu.*
 
 Defender a Petro y combatir el **genocidio sionista** de derecha sin caer en el **antisemitismo**, es una línea aparentemente confusa y contradictoria para la comprensión del conflicto palestino-israelí. Pero, esta posición es muy consciente que debe llevar a Colombia a solidarizarse con el pueblo palestino y, al mismo tiempo, expresar cero tolerancia a la **barbarie sionista y al terrorismo de Hamás** expresado el pasado **7 de octubre**. Este ataque a la población civil provocó la ira del sionista fundamentalista **Bejamin Netanyahu**. Una ira que ya deja **2.400 palestinos asesinados**, dos veces más de lo sufrido por Israel.
@@ -19,7 +19,7 @@ Explicaremos por qué es necesario defender a Petro y cuestionar el sionismo de 
 
 ## Defender a Petro
 
-![Defender a Petro frente a la agresión del neocolonialismo eurocentrico.](./Gustavo_Petro_.jpg)
+![Defender a Petro frente a la agresión del neocolonialismo eurocentrico.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/defender-a-petro-y-condenar-a-hamas-y-al-genocidio-sionista-de-netanyahu/Gustavo_Petro_.jpg)
 *Defender a Petro frente a la agresión del neocolonialismo eurocentrico.*
 
 Si analizamos la posición del presidente Gustavo Petro, ella no es contraria a la que vienen proponiendo los sectores de oposición política del **régimen extremista de Benjamín Netanyahu en Israel. El Primer Ministro hizo coalición con los sectores más derechistas de corte fascista de ese país.** No representa el espíritu democrático de la mayoría israelí. **V**eamos un extracto del siguiente post del presidente de los colombianos:
@@ -46,7 +46,7 @@ Te puede interesar: [Quitarle el caviar a los ricos y la soledad de Petro (II)](
 
 ## Lo curioso
 
-![Benjamín Netanyahu, ultranacionalista, unido con los sionistas extremistas de israel. Defender a Petro y condenar a Hamás y al genocidio sionista](./image-2.png)
+![Benjamín Netanyahu, ultranacionalista, unido con los sionistas extremistas de israel. Defender a Petro y condenar a Hamás y al genocidio sionista](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/defender-a-petro-y-condenar-a-hamas-y-al-genocidio-sionista-de-netanyahu/image-2.png)
 *Benjamín Netanyahu, ultranacionalista, unido con los sionistas extremistas de israel. Defender a Petro y condenar a Hamás y al genocidio sionista*
 
 No obstante, lo más curioso del ataque de Hamás es la falta de sospecha de la inteligencia militar para prever el ataque terrorista. No se dieron cuenta de los movimientos del grupo miliciano que debió tener varios meses de preparación para esa agresión perpetrada por comandados armados que penetraron hasta los kitbutz. Al respecto, Horowittz, señala:

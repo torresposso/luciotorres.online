@@ -5,10 +5,10 @@ pubDate: "2024-07-09 16:55:48"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/gobernadores-yamil-arriba-8057-verano-abajo-4792-ii/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/gobernadores-yamil-arriba-8057-verano-abajo-4792-ii/hero.jpg)
 *Durante el primer semestre, Yamil Arana ocupó el primer lugar de todos los gobernadores de la región Caribe.*
 
 Resultados de la **Gran Encuesta del Caribe** de julio de los gobernadores de la costa Caribe. El de mayor aprobación (**80,57%**) es el de Bolívar, **Yamil Arana Padauí**. El peor calificado (**47,92%**), es del Atlántico, **Eduardo Verano de la Rosa**. Si en Barranquilla el alcalde **Alejandro Char** perdió **26,1%** de aprobación en solo tres meses, en la gobernación del Atlántico fue una debacle. **¿Qué está provocando el cambio de percepción de la opinión pública barranquillera y atlanticense?** Te presentaremos varias claves.
@@ -23,26 +23,26 @@ Desde hace casi dos décadas los gobernantes de Barranquilla y Atlántico gozaba
 
 ## El ranking de gobernadores
 
-![Encuesta de gobernadores. Yamil rodeado de trabajadores de una de las obras públicas en construcción.](./Yamil_obreros-1024x729.jpeg)
+![Encuesta de gobernadores. Yamil rodeado de trabajadores de una de las obras públicas en construcción.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/gobernadores-yamil-arriba-8057-verano-abajo-4792-ii/Yamil_obreros-1024x729.jpeg)
 *Encuesta de gobernadores. Yamil rodeado de trabajadores de una de las obras públicas en construcción.*
 
 Incluso, Yamil Arana no solo tiene la mejor imagen sino también la menor imagen negativa, 6,29%.
 
-![Encuesta de los gobernadores.](./image.jpeg)
+![Encuesta de los gobernadores.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/gobernadores-yamil-arriba-8057-verano-abajo-4792-ii/image.jpeg)
 *Encuesta de los gobernadores.*
 
 ## Yamil (96,97% San Juan ) y (93,33%) en Magangué
 
 En esta medición, llama la atención que **Yamil Arana** en su ciudad natal (Magangué) alcanzó el **93,33%**. Pero fue superada por San Juan Nepomuceno donde marcó **96,97**%. En Cartagena, Yamil tiene una imagen positiva del **58%**, la menor de los 11 entes territoriales donde se hizo la medición.
 
-![](./Imagen-de-WhatsApp-2024-07-08-a-las-10.36.34_1777d229.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/gobernadores-yamil-arriba-8057-verano-abajo-4792-ii/Imagen-de-WhatsApp-2024-07-08-a-las-10.36.34_1777d229.jpg)
 *En 11 de los 45 municipios de Bolívar*
 
 ## Yamil, No 1
 
 La opinión pública de Cartagena es compleja. Existe un alto resentimiento de la opinión pública con las clase dominantes. Probablemente esto se debe a la herencia colonialista, o a lo que algunos cartageneros llaman el _síndrome del cangrejo_. Pese a ello, Yamil obtuvo el 58% de imagen positiva. Puede mejorar, ya que solo tiene el 9% de imagen negativa.
 
-![](./Encuesta_Yamil_imagen_julio-1024x575.jpeg)![](./Encuesta_yamil_6_ranking.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/gobernadores-yamil-arriba-8057-verano-abajo-4792-ii/Encuesta_Yamil_imagen_julio-1024x575.jpeg)![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/gobernadores-yamil-arriba-8057-verano-abajo-4792-ii/Encuesta_yamil_6_ranking.jpeg)
 
 ## De los gobernadores, Verano, el último
 

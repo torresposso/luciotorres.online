@@ -5,10 +5,10 @@ pubDate: "2025-07-17 13:05:20"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/la-absolucion-de-hilsaca-y-las-incongruencias-del-tribunal-superior-i/"./hero.jpg"
 ---
 
-![La absolución de Hilsaca tan controvertida como él mismo.](./hero.jpg)
+![La absolución de Hilsaca tan controvertida como él mismo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/la-absolucion-de-hilsaca-y-las-incongruencias-del-tribunal-superior-i/hero.jpg)
 *La absolución de Hilsaca tan controvertida como él mismo. Superó el segundo escollo de tres.*
 
 La **Sala Penal del Tribunal Superior de Bogotá** **―**enmascarando el principio _in dubio pro reo_**―** ratificó la absolución de Hilsaca sobre el asesinato del hijo del _expara_ **Luis Emel Ovallos**. El empresario y contratista bolivarense **Alfonso **«**el Turco**»** Hilsaca Eljadue** obtuvo una segunda victoria jurídica. Pero todavía tiene un escollo de este hecho sucedido en 2009: La Corte Suprema de Justicia.
@@ -31,7 +31,7 @@ En el eventual caso de que llegue a casación, la **Corte Suprema de Justicia** 
 
 ## Un dato relevante
 
-![La absolución de Hilsaca y las incongruencias del Tribunal Superior](./Hilsaca_absolucion.jpg)
+![La absolución de Hilsaca y las incongruencias del Tribunal Superior](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/la-absolucion-de-hilsaca-y-las-incongruencias-del-tribunal-superior-i/Hilsaca_absolucion.jpg)
 *La absolución de Hilsaca y las incongruencias del Tribunal Superior.*
 
 En uno de mis viajes a Bogotá, por casualidad, me topé con Hilsaca. Estaba desparramado en una silla de primera clase del avión. Lo saludé. Le manifesté que deseaba hablar con él sobre su situación judicial. Me dijo que después me llamaba. Todavía estoy esperando esa llamada. Le quise dar la oportunidad de explicar el fallo de primera instancia que ya había pasado a segunda instancia en el Tribunal Superior de Bogotá.

@@ -5,10 +5,10 @@ pubDate: "2021-04-12 23:29:34"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/alcaldia-quiso-enganar-al-juez-por-caso-de-la-popa/"./hero.jpg"
 ---
 
-![](./william-dau-policia.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/alcaldia-quiso-enganar-al-juez-por-caso-de-la-popa/william-dau-policia.jpeg)
 
 **La alcaldía de Cartagena quiso engañar al Juez Octavo Administrativo de Cartagena.** Presentó por lo menos tres pruebas falsas. Quiso demostrar un supuesto cumplimiento del fallo judicial  resultado de la acción popular para la **protección integral del Cerro de la Popa**.
 

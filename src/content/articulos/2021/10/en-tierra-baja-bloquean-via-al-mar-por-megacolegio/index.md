@@ -5,10 +5,10 @@ pubDate: "2021-10-29 16:35:14"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-tierra-baja-bloquean-via-al-mar-por-megacolegio/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-tierra-baja-bloquean-via-al-mar-por-megacolegio/hero.jpg)
 
 La gente de Tierra Baja, vereda del corregimiento de La Boquilla se vieron obligados al bloqueo de la vía al mar en la mañana de hoy. ¿La razón? El gobierno distrital y el IGAC han tardado demasiado para realizar los procesos previos a la construcción del Megacolegio que fue aprobado por regalías en 2016. La protesta se inició a las 6 hasta las 9 de la mañana, hora en que llegaron funcionarios de la Personería Distrital. ¡Solo necesitan la carta catastral que le exige la misma Secretaria de Planeación Distrital. En tanto la Secretaría de Educación Distrital de **Olga Acosta Amel** no ha sido capaz de obtenerla. Cada dependencia funciona como una isla.
 
@@ -48,7 +48,7 @@ Esa situación llevó al mismo gobierno de Manolo Duque despriorizar el proyecto
 
 ## La protesta
 
-![](./bloqueo-via-al-mar.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-tierra-baja-bloquean-via-al-mar-por-megacolegio/bloqueo-via-al-mar.jpg)
 *Desde las 6 de la mañana los habitantes de Tierra Baja bloquearon la Vía al Mar para que el Distrito, la Secretaría de Educación, Planeación Distrital y el IGAC le den vía libre a la construcción de su Megacolegio.*
 
 De acuerdo a la información entregada por la presidenta de la Junta de Acción Comunal, **Diana Marrugo**, la protesta fue el último recurso que tenían para exigirle a la administración distrital que actúe de inmediato. Es ella que debe garantizar ese derecho. Si bien es cierto que es el Instituto Agustín Codazzi (IGAC) debe entregar la carta catastral, las relaciones interinstitucionales de la administración les debe permitir **gestionar cabalmente** un trámite formal. Es un requisito previo para iniciar la construcción del megacolegio. Además, Planeación Distrital debe proceder a darle trámite al proceso formal que no puede ser impedimento para que los niños disfruten del derecho fundamental a la educación.

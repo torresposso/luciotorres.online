@@ -5,10 +5,10 @@ pubDate: "2024-04-30 13:12:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 tags: ["Dumek Turbay"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/caso-baru-trafico-en-secretaria-del-interior-e-inspecciones-de-policia/"./hero.jpg"
 ---
 
-![](./Claudia_quintero.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/caso-baru-trafico-en-secretaria-del-interior-e-inspecciones-de-policia/Claudia_quintero.jpeg)
 *Claudia Patricia Quintero Otero. ¿Tráfico en Secretaría del Interior e inspecciones de policía?*
 
 Dentro del viejo conflicto de tierras de la familia nativa de los Girado con el empresario **Gabriel Echavarría Obregón,** en Playa Blanca (Barú), Cartagena, el inspector de policía de Pasacaballos, **Fernán Pérez Saravia**, le concedió a los supuestos invasores (los Girado) 5 días hábiles para desocupar el lote del cual hacen posesión en **Punta Seca, isla de Barú**. Si bien esta decisión despertó un malestar generalizado dentro de la comunidad nativa que podría ocasionar hechos que lamentar, ello **reflejaría un presunto tráfico en la Secretaría del Interior de Cartagena** como en las inspecciones de policía.
@@ -19,7 +19,7 @@ En ese sentido, ¿existe tráfico en Secretaría del Interior? El tráfico de in
 
 ## Encadenados en la inspección de Pasacaballos
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/caso-baru-trafico-en-secretaria-del-interior-e-inspecciones-de-policia/hero.jpg)
 *Hoy, los Girado se encadenaron en la puerta de la inspección de policía rural de Pasacaballos. ¿Tráfico en Secretaría del Interior?*
 
 La redacción de **VoxPopuli Digital** tiene varios casos que contar sobre resolución de conflictos de tierras en jurisdicción de Cartagena, tanto en la zona urbana como en la rural. En el 91% de los 551 kilómetros cuadrados de Cartagena existen conflictos por la posesión de la tierra.
@@ -32,7 +32,7 @@ Sin embargo, el problema más grave de este problema se relaciona con medidas ad
 
 ## La querella de Echavarría
 
-![Gabriel Echavarría. En los fallos administrativos de los inspectores siempre sale ganando. ¿Tráfico en Secretaría del Interior?](./gabriel-Echavarria-1024x576.jpg)
+![Gabriel Echavarría. En los fallos administrativos de los inspectores siempre sale ganando. ¿Tráfico en Secretaría del Interior?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/caso-baru-trafico-en-secretaria-del-interior-e-inspecciones-de-policia/gabriel-Echavarria-1024x576.jpg)
 *Gabriel Echavarría. En los fallos administrativos de los inspectores siempre sale ganando. ¿Tráfico en Secretaría del Interior?*
 
 El inspector de policía de Pasacaballos, **Fernán Pérez Saravia**, decidió no conceder el recurso de reposición mediante auto No 12 del 23 de abril de 2024 a una reclamación del abogado Enrique Banquez en representación de los Girado. Es decir, que tal decisión favoreció a **Gabriel Echavarría Obregón,** propietario de Punta Iguana, quien presentó en 2022 una querella contra los Girado por perturbación e invasión de una propiedad que está en litigio con esa familia nativa de Barú. La zona está ubicada en Santa Ana de la isla de Barú denominada "Buenavista”. Se identifica con matrícula inmobiliaria **No. 060-16964** y referencia catastral **No. 00-04- 0001-0320-000**. Asimismo, predio “La Coqueta” identificado con el folio de matrícula inmobiliaria **No. 060-16966** y referencia catastral **No. 00-04-0001-0321-000** y predio **“Lucas Girado”**, identificado con matrícula inmobiliaria **No. 060-157405** y referencia catastral **No. 00-04-0001-0324-000.**
@@ -43,7 +43,7 @@ De manera que, dentro de esta línea de hechos, mediante resolución del **27 de
 
 ## La decisión del inspector
 
-![Caso Barú ¿Tráfico en Secretaría del Interior e inspecciones de policía? ](./Fernan-Perez_1.jpeg)
+![Caso Barú ¿Tráfico en Secretaría del Interior e inspecciones de policía? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/caso-baru-trafico-en-secretaria-del-interior-e-inspecciones-de-policia/Fernan-Perez_1.jpeg)
 *Inspector de Policía de Pasacaballos.*
 
 La decisión del auto No 12 del 23 de abril de 2024, que el representante de la familia Girado pide al inspector aclarar, en su parte resolutiva señala lo siguiente:
@@ -58,7 +58,7 @@ La decisión del auto No 12 del 23 de abril de 2024, que el representante de la 
 
 ## Acumulan querellas
 
-![Caso Barú ¿Tráfico en Secretaría del Interior e inspecciones de policía? Los Girado manifiestan que siguen siendo dueños de Punta Seca en Barú.](./la-escritura-de-Vicente-Girado-768x1024.jpeg)
+![Caso Barú ¿Tráfico en Secretaría del Interior e inspecciones de policía? Los Girado manifiestan que siguen siendo dueños de Punta Seca en Barú.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/caso-baru-trafico-en-secretaria-del-interior-e-inspecciones-de-policia/la-escritura-de-Vicente-Girado-768x1024.jpeg)
 *Caso Barú ¿Tráfico en Secretaría del Interior e inspecciones de policía? Los Girado manifiestan que siguen siendo dueños de Punta Seca en Barú.*
 
 El abogado de los Girado manifiesta en su escrito de aclaración del auto del 23 de diciembre de 2023 que cuando se acumulan procesos y se deciden en la misma sentencia ambos asuntos, los artículos 150 y 351 del Código General del Proceso señalan que debe resolverse en la misma sentencia de cada asunto o proceso por separado. En la parte resolutiva, señala la solicitud, no existe una individualización de cada querella formulada por el accionante.

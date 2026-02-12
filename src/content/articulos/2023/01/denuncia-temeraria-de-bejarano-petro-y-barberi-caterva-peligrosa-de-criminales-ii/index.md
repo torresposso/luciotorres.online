@@ -5,10 +5,10 @@ pubDate: "2023-01-03 01:26:07"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/denuncia-temeraria-de-bejarano-petro-y-barberi-caterva-peligrosa-de-criminales-ii/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/denuncia-temeraria-de-bejarano-petro-y-barberi-caterva-peligrosa-de-criminales-ii/hero.jpg)
 *¿Denuncia temeraria de Bejarano?: «Petro y Barberi, caterva peligrosa de criminales». Es una acusación peligrosa que las autoridades deben esclarecer de inmediato.*
 
 ¿La denuncia evidentemente temeraria del fiscal Bejarano contra un Fiscal Especializado por venganza personal o interés de la mafia, se le podría devolver como un bumerang? Los hechos —y las pruebas que el periodista posee— sugieren que es una denuncia temeraria y de mala fe. Temeraria, porque la presentó dos veces sin ninguna justificación jurídica. De mala fe, porque son falsas acusaciones contra el fiscal Barberi por el simple hecho de que este expresó que le simpatizaba las propuestas del hoy presidente Petro, a quien Bejarano considera **«jefe de una caterva peligrosa de criminales»**.
@@ -61,7 +61,7 @@ Entonces, ¿cómo se ganó ese remoquete de ser **«el fiscal de la mafia»**? P
 
 ## ¿Denuncia temeraria del fiscal Bejarano?
 
-![¿Denuncia temeraria de Bejarano? «Petro y Barberi, caterva peligrosa de criminales». El juramento de Bejarano en su segunda denuncia con radicado 39640 de octubre 2019. La primera la hizo eñ 23 de abril de 2022. El documento está a disposición de las autoridades.](./bejarano-falso-testimonio.jpg)
+![¿Denuncia temeraria de Bejarano? «Petro y Barberi, caterva peligrosa de criminales». El juramento de Bejarano en su segunda denuncia con radicado 39640 de octubre 2019. La primera la hizo eñ 23 de abril de 2022. El documento está a disposición de las autoridades.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/denuncia-temeraria-de-bejarano-petro-y-barberi-caterva-peligrosa-de-criminales-ii/bejarano-falso-testimonio.jpg)
 *¿Denuncia temeraria de Bejarano? «Petro y Barberi, caterva peligrosa de criminales». El juramento de Bejarano en su segunda denuncia con radicado 39640 de octubre 2019. La primera la hizo eñ 23 de abril de 2022. El documento está a disposición de las autoridades.*
 
 Dicho lo anterior —que es una relación de evidentes hechos del lado oscuro del fiscal Bejarano— se pasa a responder la segunda parte de la pregunta problemática propuesta en el titular de este informe periodístico de investigación y análisis. ¿Es una denuncia temeraria la del fiscal Bejarano contra el fiscal Barberi? Como lo explicamos y comprobamos en la primera entrega, las denuncias supuestamente anónimas conocidas por la **Fiscalía seccional 186 en 2019** fueron declaradas infundadas. No tenían hechos evidentes de delitos. Ni siquiera había asomo de contravención disciplinaria alguna. \[Por favor, lea la primera entrega: **[¿Por qué le mueven el piso al fiscal Barberi?](/articulos/por-que-le-mueven-el-piso-al-fiscal-barberi/)** [(I)](/articulos/por-que-le-mueven-el-piso-al-fiscal-barberi/)\]
@@ -72,7 +72,7 @@ En la segunda denuncia juró que no había presentado la misma denuncia contra e
 
 ## Denuncia temeraria y suplantación
 
-![](./Bejarano-uniforme.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/denuncia-temeraria-de-bejarano-petro-y-barberi-caterva-peligrosa-de-criminales-ii/Bejarano-uniforme.jpg)
 *Estas son las charreteras de un fiscal que estaría incurso en un delito y denuncia temeraria. ¿Enlodó el uniforme de reserva de las Fuerzas Armadas y de la Fiscalía?*
 
 Entonces, asistimos a un concurso de posibles delitos cometidos por la conducta del fiscal delegado Ricardo Bejarano Beltrán. Pero sobre todo, **observamos una clara expresión política antidemocrática y violatoria del derecho de expresión. Es lo que se presenta en esta denuncia temeraria contra el fiscal Barberi. De carambola, es un atentado al buen nombre del presidente de la república que se convierte en un combustible para un posible golpe de estado blando procedente de la Fiscalía General de la República y de las mismas Fuerzas Armadas**. Es una corriente de pensamiento dominante en esas dos instituciones. (Por favor lea: **[De Petro a Castillo ¿gobierno compartido o golpe blando?](/articulos/de-petro-a-castillo-gobierno-compartido-o-golpe-blando-i/)** [(I)](/articulos/de-petro-a-castillo-gobierno-compartido-o-golpe-blando-i/))

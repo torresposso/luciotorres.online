@@ -5,10 +5,10 @@ pubDate: "2024-05-19 03:25:04"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/directora-del-ipcc-cenirse-a-la-ley-para-proveer-cargos/"./hero.jpg"
 ---
 
-![Directora del IPCC, ceñirse a la ley para proveer cargos, piden los prepensionados. El distrito debe respetar los derechos de estabilidad laboral reforzada.](./hero.jpg)
+![Directora del IPCC, ceñirse a la ley para proveer cargos, piden los prepensionados. El distrito debe respetar los derechos de estabilidad laboral reforzada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/directora-del-ipcc-cenirse-a-la-ley-para-proveer-cargos/hero.jpg)
 *Directora del IPCC, ceñirse a la ley para proveer cargos, piden los prepensionados. El distrito debe respetar los derechos de estabilidad laboral reforzada.*
 
 Cerca **500 trabajadores** en provisionalidad de la alcaldía de Cartagena, con más de 15 años de vinculación, saldrían de nómina. Así lo advierten a la directora del IPCC, **Lucy Espinosa**, los prepensionados de la entidad. Esto como consecuencia del concurso de méritos de la **Comisión Nacional del Servicio Civil- CNSC** de los cargos a proveer del ente territorial. Para las organizaciones sindicales del Distrito, es un concurso plagado de presuntas irregularidades que lo hace inaplicable y es contradictorio con el lema _Cartagena con Derechos_. Si bien fue concebido en el gobierno de William Dau, le toca a esta administración implementarlo.
@@ -29,7 +29,7 @@ Por tanto, la finalidad de la comunicación es advertirle a la directora del IPC
 
 En otras palabras, la directora del IPCC debe ceñirse a lo estipulado en el parágrafo citado. Los prepensionados, que están en provisionalidad, tienen un derecho de estabilidad laboral reforzada.
 
-![Cartagena con derechos, debe respetar los derechos de estabilidad laboral reforzada.](./Dumek_-1024x1012.jpg)
+![Cartagena con derechos, debe respetar los derechos de estabilidad laboral reforzada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/directora-del-ipcc-cenirse-a-la-ley-para-proveer-cargos/Dumek_-1024x1012.jpg)
 *Cartagena con derechos, debe respetar los derechos de estabilidad laboral reforzada que violarla el concurso de William Dau, el anterior alcalde y la CNSC.*
 
 ## Forma de proveer los cargos

@@ -5,10 +5,10 @@ pubDate: "2024-08-22 01:44:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/palenque-libre-de-mahates-presidente-petro-proclamara-su-libertad/"./hero.jpg"
 ---
 
-![Palenque ¡libre de Mahates!. Durante la campaña a congreso, el hoy presidente acompañó a Dorina Hernández, elegida representante por el Pacto Histórico. ](./Petro_palenque_ley-1024x571.jpeg)
+![Palenque ¡libre de Mahates!. Durante la campaña a congreso, el hoy presidente acompañó a Dorina Hernández, elegida representante por el Pacto Histórico. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/palenque-libre-de-mahates-presidente-petro-proclamara-su-libertad/Petro_palenque_ley-1024x571.jpeg)
 *Palenque ¡libre de Mahates!. Durante la campaña a congreso, el hoy presidente acompañó a Dorina Hernández, elegida representante por el Pacto Histórico. /Captura de pantalla.*
 
 Un mes después de sancionar la **ley 2379 de 2024** que modifica la **ley 617 del 2000**, el presidente **Gustavo Petro** declararía en la plaza pública: **«Palenque ¡libre de Mahates!»**. Por segunda vez, este pueblo de negros libres, probará la libertad, ya no del yugo español, sino del polvoriento y olvidado Mahates, que corre la misma suerte de pobreza de los otros 45 municipios de Bolívar.
@@ -19,7 +19,7 @@ Esta libertad decretada legalmente por el congreso para elevarlo de corregimient
 
 ## ¿La segunda libertad de Palenque?
 
-![La directora de la Unidad de Víctimas, Lilia Solano, será una de las altas funcionarias que estará con el compañero Presidente en San Basilio de Palenque.](./lilia_solano-1024x576.jpeg)
+![La directora de la Unidad de Víctimas, Lilia Solano, será una de las altas funcionarias que estará con el compañero Presidente en San Basilio de Palenque.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/palenque-libre-de-mahates-presidente-petro-proclamara-su-libertad/lilia_solano-1024x576.jpeg)
 *La directora de la Unidad de Víctimas, Lilia Solano, será una de las altas funcionarias que estará con el compañero Presidente en San Basilio de Palenque.*
 
 Palenque es **Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad** (2005). Tiene más de 3 mil habitantes de orígenes disímiles de pueblos africanos que fueron esclavizados por otras tribus africanas enemigas vendidas a negreros belgas, portugueses y holandeses. Los barcos ingleses, portugueses y españoles los transportaban en condiciones infrahumanas al continente americano ávido de una mano de obra para sus plantaciones y las profundidades de sus socavones.
@@ -38,7 +38,7 @@ Por tanto, no basta con proclamar el siguiente nivel de San Basilio de Palenque,
 
 ## ¿Compensación para Mahates?
 
-![avid Benavides y Alonso del Río Jiménez, diputados del partido conservador. Palenque ¡libre de Mahates!](./hero.jpg)
+![avid Benavides y Alonso del Río Jiménez, diputados del partido conservador. Palenque ¡libre de Mahates!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/palenque-libre-de-mahates-presidente-petro-proclamara-su-libertad/hero.jpg)
 *Javid Benavides y Alonso del Río Jiménez, diputados del partido conservador.*
 
 Pero, también, se debe pensar un tipo de **compensación para Mahates**. El nuevo municipio reduciría sus ingresos por concepto del turismo que el mismo pueblo de Palenque le genera. Ahora quedaría prácticamente desmantelado y profundizaría aún más su pobreza histórica, cuya responsabilidad es de la misma clase dirigente.
@@ -52,7 +52,7 @@ En efecto, para que se concrete ese mandato legislativo, el gobernador Yamil Ara
 ## ¿Palenque ¡libre de Mahates!?
 
 ![Palenque ¡libre de Mahates!
-Zaith Adechine, diputado y jefe de la oposición de la asamblea de Bolívar considera la complejidad del proyecto de ordenanza.](./Zaith_adechine-1024x682.jpeg)
+Zaith Adechine, diputado y jefe de la oposición de la asamblea de Bolívar considera la complejidad del proyecto de ordenanza.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/palenque-libre-de-mahates-presidente-petro-proclamara-su-libertad/Zaith_adechine-1024x682.jpeg)
 *Zaith Adechine, diputado y jefe de la oposición de la asamblea de Bolívar considera la complejidad del proyecto de ordenanza.*
 
 ¿Pero esto hará libre nuevamente a San Basilio de Palenque? ¿Se librará de la pobreza histórica de Mahates? No es fácil responder esta pregunta. El hecho de que al ser declarada **Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad**, no trajo automáticamente prosperidad para Palenque, pone a dudar a cualquier persona con dos dedos de frente.
@@ -73,7 +73,7 @@ No obstante, hay un hándicap para el próximo nivel de San Basilio de Palenque.
 
 ## ¿Un municipio hidrocefálico?
 
-![El presidente de la Asamblea (centro) está esperando el proyecto para darle inicio al debate.](./asamblea_de_Bolivar.jpeg)
+![El presidente de la Asamblea (centro) está esperando el proyecto para darle inicio al debate.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/palenque-libre-de-mahates-presidente-petro-proclamara-su-libertad/asamblea_de_Bolivar.jpeg)
 *El presidente de la Asamblea, Jorge Rodriguez Sosa (centro) está esperando el proyecto (¿Palenque ¡libre de Mahates!? para abrir el debate.*
 
 Otro de los temores fundados de los diputados de Bolívar es que se podría crear un municipio hidrocefálico. ¿De dónde va a salir los recursos para mantener una frondosa burocracia? La Asamblea Departamental de Bolívar tiene tres meses para oficializar a Palenque como municipio. Faltan dos meses para que la corporación realice el debate correspondiente y apruebe la ordenanza.

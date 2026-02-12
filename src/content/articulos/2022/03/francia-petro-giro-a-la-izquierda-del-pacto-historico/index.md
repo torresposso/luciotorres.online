@@ -5,10 +5,10 @@ pubDate: "2022-03-24 20:01:19"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/francia-petro-giro-a-la-izquierda-del-pacto-historico/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/francia-petro-giro-a-la-izquierda-del-pacto-historico/hero.jpg)
 *Francia Márquez la fórmula vicepresidencial de Gustavo Petro en el acto de lanzamiento.*
 
 ¿Francia aseguraría la presidencia a Petro? Tal es la pregunta que se formula para este análisis. Como la meta no es ganar la presidencia sino saber ganar para cambiar el régimen, **Francia Márquez es la decisión que encaja en esa concepción**. Pero, si se trata de solo ganar la presidencia, un acuerdo con el partido liberal le pudiese asegurar esa meta. **¿Qué quería Petro y los integrantes del Pacto Histórico cuando se gastaron semanas hablando con el expresidente liberal César Gaviria?**
@@ -39,7 +39,7 @@ El papel del senador Roy Barreras en el seno del Pacto Histórico era de bisagra
 
 ## La ruptura con Gaviria
 
-![Francia Márquez, la piedra de la ruptura de un pacto imposible.](./gaviria-francia-petro.jpg)
+![Francia Márquez, la piedra de la ruptura de un pacto imposible.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/francia-petro-giro-a-la-izquierda-del-pacto-historico/gaviria-francia-petro.jpg)
 *Francia Márquez, la piedra de la ruptura de un pacto imposible.*
 
 El miércoles por la mañana del 23 de marzo no había nada que hacer. La ruptura con Gaviria era un hecho. A Petro no le quedó otra que aceptar la propuesta del Polo, UP y otros de que sea Francia Márquez la fórmula a la vicepresidencia. Por la tarde, Petro mandó una carga de profundidad, ahogando toda posibilidad con el liberalismo:
@@ -50,7 +50,7 @@ El miércoles por la mañana del 23 de marzo no había nada que hacer. La ruptur
 
 Ante esa situación, diferentes voceros del liberalismo expresaron su apoyo a César Gaviria. Uno de ellos fue Lidio García, quien acababa de reelegirse en el senado con la primera votación del partido Liberal y una de las figuras sobresalientes del Caribe colombiano.
 
-![](./LIDIO-GARCIA.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/francia-petro-giro-a-la-izquierda-del-pacto-historico/LIDIO-GARCIA.jpeg)
 *Lidio García salió en defensa de su jefe de partido César Gaviria.*
 
 https://twitter.com/Lidiosenado/status/1506818864251904001?s=20&t=jiR1piBmjDzynG880-U3eg

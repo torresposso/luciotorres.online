@@ -5,10 +5,10 @@ pubDate: "2023-03-28 23:09:05"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País","Post Conflicto"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/mancuso-los-crimenes-de-los-intocables-y-la-jep-iii/"./hero.jpg"
 ---
 
-![En el centro (borroso), Alfonso Macías, Salvatore Mancuso (derecha) y Rafael Matera Lajud. Mancuso, los crímenes de «Los intocables» y la JEP.](./hero.jpg)
+![En el centro (borroso), Alfonso Macías, Salvatore Mancuso (derecha) y Rafael Matera Lajud. Mancuso, los crímenes de «Los intocables» y la JEP.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/mancuso-los-crimenes-de-los-intocables-y-la-jep-iii/hero.jpg)
 *En el centro (borroso), Alfonso Macías, Salvatore Mancuso (derecha) y Rafael Matera Lajud. Mancuso, los crímenes de «Los intocables» y la JEP.*
 
 La declaratoria de **Salvatore Mancuso Gómez** ante la JEP viene despertando grandes expectativas sobre los crímenes de **«Los intocables»**. Las víctimas esperan la verdad real y no solo judicial. Es un desafío de la justicia alternativa para que no ocurra lo mismo que sucedió en la audiencia única con **«Jorge 40»**, quien especuló tanto sin revelar nada nuevo. Mancuso, como se sabe, fue uno de los cofundadores del proyecto contrainsurgente de las **Autodefensas Unidas de Colombia —AUC**—. Actúo como jefe de alias **«Ojitos Azules»**, Alias **«**300**»** (**Rafael Antonio Matera Lajud**) y alias **«**Comandante J-1**»**, **Alfonso Macías**. Todos ellos ahora pasan como honestos y ricos empresarios.
@@ -54,7 +54,7 @@ Tomando en cuenta que la filosofía de este seriado periodístico de **«Los int
 
 ## La Fiscalía y la impunidad
 
-![](./Fiscal-barbosa_portada2.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/mancuso-los-crimenes-de-los-intocables-y-la-jep-iii/Fiscal-barbosa_portada2.jpg)
 *Francisco Barbosa, fiscal general ¿tocará a Los Intocables?*
 
 Las debilidades en las investigaciones judiciales parten desde la misma Fiscalía. La corrupción, el miedo y la negligencia son algunos de los problemas de este ente investigador y del poder judicial. La Fiscalía, por ejemplo, no valora con eficacia y eficiencia las compulsas de copias de la Justicia Transicional. Sobre **«Los intocables»** pesan cuatro compulsas de copia y nada pasa. Ante esta evidente verdad, el presidente de la Sala de Justicia y Paz del Tribunal Superior de Barranquilla dijo:

@@ -5,10 +5,10 @@ pubDate: "2023-09-28 01:04:58"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/petro-propone-otro-acuerdo-nacional-al-establecimiento/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/petro-propone-otro-acuerdo-nacional-al-establecimiento/hero.jpg)
 
 Como le fracasó su propuesta de gobierno compartido con los partidos tradicionales para sacar las reformas sociales, el presidente Gustavo Petro, en el balconazo de hoy, propuso un nuevo Acuerdo Nacional basado en tres ejes estratégicos: Verdad, Tierra y Educación. De esta manera, concluyó una jornada de marchas convocada por el gobierno y sus aliados. El acuerdo va dirigido a los gremios empresariales y a la Gran Prensa. El presidente no fue explícito en este aspecto.
 

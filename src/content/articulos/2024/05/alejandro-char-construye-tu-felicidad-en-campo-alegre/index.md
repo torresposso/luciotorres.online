@@ -5,10 +5,10 @@ pubDate: "2024-05-06 03:26:22"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Alejandro Char"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/alejandro-char-construye-tu-felicidad-en-campo-alegre/"./hero.jpg"
 ---
 
-![La entrada de la casa de “Alejandro Char construye tu felicidad” en Campo Alegre.](./alejandro_Char_campoi_alegre.jpeg)
+![La entrada de la casa de “Alejandro Char construye tu felicidad” en Campo Alegre.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/alejandro-char-construye-tu-felicidad-en-campo-alegre/alejandro_Char_campoi_alegre.jpeg)
 *La entrada de la casa de “Alejandro Char construye tu felicidad” en Campo Alegre.*
 
 **“Alejandro Char construye tu felicidad”** y las casas construidas en Campo Alegre, entre 2002 y 2005, se vinieron abajo en menos de 4 años. Las 400 familias que compraron, desde entonces, viven un drama que pronto cumplirá 20 años. Demandaron y ganaron los fallos judiciales. Pero ni Alejandro Char ni el Distrito, hasta hoy, han cumplido. Por esta razón, esas familias hicieron un plantón hoy 5 de mayo denunciando la corrupción judicial y distrital que no les pagan las indemnización a que tienen lugar.
@@ -17,7 +17,7 @@ Pero el ingeniero Alejandro Char no dio la cara. Nunca apareció. Y los del plan
 
 ## El verdadero Alejandro Char
 
-![](./Alejandro-char_posesion-fuad.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/alejandro-char-construye-tu-felicidad-en-campo-alegre/Alejandro-char_posesion-fuad.jpeg)
 
 En efecto, el caso Campo Alegre retrata el verdadero carácter y la esencia de **Alejandro Char Chaljub** que la ciudadanía desconoce. Su verdadera catadura está retratada con Campo Alegre. Los barranquilleros no lo sabían porque sus publicistas y periodistas _construyeron un relato fascinante de su personalidad de bacán_, de empresario exitoso. Relato que es paja de la fina.
 
@@ -41,7 +41,7 @@ En esa primera alcaldía el dicho popular fue:
 
 ## Campo Alegre, el fantasma de Char
 
-![Roberto Tapia Ahumada, uno de los abogados de los damnificados.](./Alejandro-char_planto_roberto_tapia_ahumada.jpeg)
+![Roberto Tapia Ahumada, uno de los abogados de los damnificados.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/alejandro-char-construye-tu-felicidad-en-campo-alegre/Alejandro-char_planto_roberto_tapia_ahumada.jpeg)
 *Roberto Tapia Ahumada, uno de los abogados de los damnificados./Captura de pantalla.*
 
 Fue la principal publicidad engañosa que le surtió efecto en la manipulación de la población. Como ingeniero constructor de vivienda para la clase media, logró vender sus dos proyectos que demostraron, no solo su mediocridad como empresario, sino también ser un individuo sin escrúpulos para engañar a la gente con su falsa personalidad.

@@ -5,10 +5,10 @@ pubDate: "2021-07-25 14:31:25"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/por-corrupcion-en-rocha-denuncian-a-exdirectivos-de-consejos-comunitarios/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/por-corrupcion-en-rocha-denuncian-a-exdirectivos-de-consejos-comunitarios/hero.jpg)
 *La Casa del Pescador la compraron por $14 millones y sin hacerle nada estructural, solo la pintaron, pasaron la cuenta por $180 millones. Las demás obras por compensaciones, no sirven de nada. Están en obra gris. Dilapidaron $900 millones.*
 
 La situación en Rocha, corregimiento de Arjona, sigue siendo preocupante por los duros enfrentamientos que se vive al interior del consejo comunitario. **El dinero de las consultas previa y de las compensaciones no ha sido utilizado adecuadamente por los directivos de los consejos comunitarios.** Esta vez fueron denunciados ante la Fiscalía General 9 personas, entre ellos, 7 exdirectivos de esa organización y dos contratistas. 
@@ -41,7 +41,7 @@ La ley establece que las entidades ejecutoras deben financiar las consultas prev
 
 ## Los implicados
 
-![](./IMG-20210725-WA0085.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/por-corrupcion-en-rocha-denuncian-a-exdirectivos-de-consejos-comunitarios/IMG-20210725-WA0085.jpg)
 *Los principales DENUNCIADOS por los actos de corrupción en Rocha, corregimiento de Arjona.*
 
 De acuerdo a la denuncia, los implicados en estos presuntos delitos estuvieron en algún momento al frente del consejo Comunitario. En el caso de Rocha, corregimientos de Arjona, los denunciantes hicieron una lista de los implicados. Lo grave es que las autoridades de Arjona, principalmente su secretaria General y de Gobierno están respaldando a los más corruptos de los consejos comunitarios, según reza la denuncia.
@@ -56,7 +56,7 @@ De igual manera de denunciaron penalmente a David **González Cardales** represe
 
 De acuerdo con la noticia criminal, los denunciantes de estos presuntos delitos, son: **Edinson Maza Miranda, Yorley Salas Pérez, Ingeberto Noriega Matute, Armando  Alfaro Rivera, Manuel Salas Mallarino.**
 
-![](./marta-lucia.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/por-corrupcion-en-rocha-denuncian-a-exdirectivos-de-consejos-comunitarios/marta-lucia.jpg)
 *Marta Lucía Ramírez venía todas las semanas a Cartagena. Ahora como canciller llega menos pero siempre está pendiente del macro proyecto del Canal del Dique.*
 
 Esta es la segunda denuncia penal que se entabla contra directivos y asesores presuntamente corruptos que están esquilmando los recursos que son de la comunidad. Corpolucha denunció penalmente a Henry Guizamano asesor de varias comunidades como El Recreo, Matunilla y Leticia. En este caso se refiere a la consulta previa del proyecto que lidera el gobierno nacional a través de su vicepresidenta **Marta Lucía Ramírez.**

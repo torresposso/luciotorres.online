@@ -5,10 +5,10 @@ pubDate: "2025-02-26 03:37:34"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/fiscalia-entrego-el-puerto-a-la-mafia-i/"./hero.jpg"
 ---
 
-![A la izquierda, la captura del verdadero capo José Nibardo Marín, alias «El Abogado», «Top», «Jota Indio» o «Don José». A la derecha, la captura injusta del comerciante guajiro Álvaro Barrios Díaz, que la Fiscalía 15 Especializada hizo pasar como alias «El Abogado». ](./hero.jpg)
+![A la izquierda, la captura del verdadero capo José Nibardo Marín, alias «El Abogado», «Top», «Jota Indio» o «Don José». A la derecha, la captura injusta del comerciante guajiro Álvaro Barrios Díaz, que la Fiscalía 15 Especializada hizo pasar como alias «El Abogado». ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/fiscalia-entrego-el-puerto-a-la-mafia-i/hero.jpg)
 *A la izquierda, la captura del verdadero capo José Nibardo Marín, alias «El Abogado», «Top», «Jota Indio» o «Don José». A la derecha, la captura injusta del comerciante guajiro Álvaro Barrios Díaz, que la Fiscalía 15 Especializada de Cartagena hizo pasar como alias «El Abogado». ¿Cómo se armó esta patraña legalizada por un juez penal de Cartagena? Este día la Fiscalía entregó el puerto al mafioso que anduvo libre hasta que fue capturado en marzo del 2023.*
 
 Las evidencias indican que desde el día que la **Fiscalía entregó el puerto marítimo** **a la mafia del narcotráfico y el contrabando**, se desató la peor guerra del hampa de Cartagena que ―hasta el 2024― produjo una ola de **1.225 homicidios**. Ese día (25 de agosto 2021) también transformó la vida de **Álvaro José Barrios Díaz**, comerciante y productor de la economía popular guajiro con arraigo en Cartagena. Que de respetable comerciante pasó a ser el peor delincuente de La Heroica, gracias a un **criminal complot, al parecer, urdido desde el interior de la Policía y Fiscalía**.
@@ -35,7 +35,7 @@ Los alcaldes de las tres _Perlas del Caribe_, **Alejandro Char** (Barranquilla),
 
 ## ¿Fiscalía entregó el puerto a la mafia?
 
-![Alvaro José Barrios en uno de sus negocios en 2011. ¿Fiscalía entregó el puerto a la mafia? ](./alvaro-barrios-1-989x1024.jpg)
+![Alvaro José Barrios en uno de sus negocios en 2011. ¿Fiscalía entregó el puerto a la mafia? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/fiscalia-entrego-el-puerto-a-la-mafia-i/alvaro-barrios-1-989x1024.jpg)
 *¿Fiscalía entregó el puerto a la mafia con la captura de un comerciante inocente y la protección del jefe de la mafia de Cartagena? Aquí Álvaro José Barrios Díaz en uno de sus negocios de Cartagena que tuvo que cerrar después de su injusta detención.*
 
 La lucha del reconocido comerciante **Álvaro José Barrios** contra la extorsión de _Los Paisas_, desde la sociedad civil de los pequeños comerciantes, lo llevó a un enfrentamiento fuerte con algunos oficiales del **Gaula de la Policía.** Denunció su inacción y su presunta corrupción en el **período 2011―2018**. Todo esto está documentado y anexado en las denuncias ante la Fiscalía.
@@ -46,7 +46,7 @@ Lo peor no fue eso. No. Los casi dos años de cárcel que sufrió el comerciante
 
 ## La guerra de Cartagena: **1.225 homicidios**
 
-![Muertos solo deja la guerra por el control del puerto de Cartagena. ¿Fiscalía entregó el puerto a la mafia? ](./ATENTADO-2.jpg)
+![Muertos solo deja la guerra por el control del puerto de Cartagena. ¿Fiscalía entregó el puerto a la mafia? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/fiscalia-entrego-el-puerto-a-la-mafia-i/ATENTADO-2.jpg)
 *«Los Salsas Mexicanos», banda del CJNG, se enfrentaron a las estructuras locales del Clan del Golfo por el control del puerto de Cartagena.*
 
 Esa guerra ―hasta el 2024― produjo una ola de **1.225 homicidios** en solo Cartagena. Marín creó su estructura criminal La Heroica, al lado de **Armando Buelvas**, alias ****_«_******Paty Paty****_»_**************. Este fue capturado en Caldas a principio de 2023 cuando huía de la guerra que ellos desataron. La piedra de la discordia fue el presunto robo de un cargamento de cocaína a narcos protegidos por el Clan del Golfo.

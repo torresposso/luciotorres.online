@@ -5,10 +5,10 @@ pubDate: "2025-06-18 03:19:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/la-dupleta-dumek-yamilito-imparable-segun-invamer/"./hero.jpg"
 ---
 
-![Invamer: Dumek y Yamilito los mejores del Caribe en el mes de junio de 2025.](./hero.jpg)
+![Invamer: Dumek y Yamilito los mejores del Caribe en el mes de junio de 2025.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/la-dupleta-dumek-yamilito-imparable-segun-invamer/hero.jpg)
 *La dupleta Dumek―Yamilito, los mejores del Caribe en el mes de junio de 2025.*
 
 De acuerdo con la encuesta de hoy de Invamer Poll, la dupleta Dumek―Yamilito es ¡imparable! Son los mejores mandatarios del Caribe, _duélale a quien le duela_. **Dumek Turbay** (75%) y **Yamilito Arana** (62%), alcalde de Cartagena y gobernador de Bolívar, respectivamente, tienen las mejores preferencias del Caribe colombiano y ocupan el segundo lugar en todo el país.
@@ -23,7 +23,7 @@ De acuerdo a la encuesta de Invamer, la dupleta Dumek―Yamilito se destacó en 
 
 ## Dumek, el alcalde preferido
 
-![](./image-3.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/la-dupleta-dumek-yamilito-imparable-segun-invamer/image-3.png)
 
 En el caso de los cartageneros, la **dupleta Dumek―Yamilito** se destacó en su preferencia. El alcalde tiene la mejor opinión favorable de su imagen con **75%**. Subió 9% en un lapso de dos meses. Por el contrario, su imagen negativa cayó al **23%**. Bajó 9% después que en abril era del 32%. Aunque el alcalde de Medellín, **Federico Gutiérrez**, se mantiene en el primer lugar de todo el país con 79% positiva y 19% negativa.
 
@@ -45,7 +45,7 @@ Además, se destaca por su enfoque en la educación étnica y por ofrecer servic
 
 ## Yamilito, 25 puntos sobre Verano
 
-![](./Captura-de-pantalla-2025-06-17-214411-1024x563.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/la-dupleta-dumek-yamilito-imparable-segun-invamer/Captura-de-pantalla-2025-06-17-214411-1024x563.png)
 
 [La encuesta de Invame](/articulos/document/877414942/2025-06-Invamer-Poll-167#from_embed)r indica que ―si bien **Yamilito Arana** cedió el primer lugar al bajar de 66% en abril a 62% en junio― se posiciona en la opinión de los bolivarense, especialmente en Cartagena. Los 4 puntos en lo positivo que le lleva el gobernador de Antioquia **Andrés Julián Rendón** (66%), Arana se lo descuenta en imagen negativa. La imagen negativa de Rendón es de **26%**, la de Yamilito es de **22%**. O sea, que se encuentran en un **empate técnico** con el antioqueño.
 

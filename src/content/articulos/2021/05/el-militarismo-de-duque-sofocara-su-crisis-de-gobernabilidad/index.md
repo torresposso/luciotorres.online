@@ -5,10 +5,10 @@ pubDate: "2021-05-31 11:31:27"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/el-militarismo-de-duque-sofocara-su-crisis-de-gobernabilidad/"./hero.jpg"
 ---
 
-\[caption id="attachment\_15183" align="aligncenter" width="720"\]![](./hero.jpg) Después de la horrible noche del 28 de mayo. Las marchas populares del 30 de mayo se hicieron sentir.\[/caption\]
+\[caption id="attachment\_15183" align="aligncenter" width="720"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/el-militarismo-de-duque-sofocara-su-crisis-de-gobernabilidad/hero.jpg) Después de la horrible noche del 28 de mayo. Las marchas populares del 30 de mayo se hicieron sentir.\[/caption\]
 
 Frente a la crisis del **régimen neobonapartista,** el presidente Iván Duque intensifica más el militarismo. Su propuesta de diálogo lo instrumentalizó para bajar la intensidad de la protesta. No le resultó. ¿Sofocará su crisis de gobernabilidad al sacar el ejército a las calles para acabar con las barricadas del movimiento popular? ¿Detendrá la llegada de la primavera?
 
@@ -26,7 +26,7 @@ En la noche del 29 de mayo —un mes después del 28A—, el régimen formalizó
 
 ## Un movimiento impredecible y 66 muertos
 
-![](./FB_IMG_1622462846717.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/el-militarismo-de-duque-sofocara-su-crisis-de-gobernabilidad/FB_IMG_1622462846717.jpg)
 *El 28 de mayo fueron movilizaciones masivas para sellar un mes de Paro Nacional. El régimen atacó esa noche las barricadas de Cali ocasionando 13 muertos y numerosos heridos.*
 
 Duque abrió la posibilidad legal de sacar al ejército para destrozar la protesta social legal, so pretexto de acabar con el vandalismo. Se dio cuenta que todavía existen varios bastiones de resistencia de la protesta generalizada. Son bastiones con características insurreccionales sostenidas por jóvenes que no tienen nada que perder ni mucho menos obedecen a una conducción política determinada. Entregan todo, hasta sus vidas. [**Son 66 muertos**](/articulos/victimas-de-violencia-homicida-en-el-marco-del-paro-nacional/), según las organizaciones defensoras de **Derechos Humanos.**  La mayoría caídos por las balas estatales o paraestatales. La **Defensoría del Pueblo reportan 43 muertos. Además, hay más de 2.000 heridos y 170 casos** de abuso policial desde el inicio del paro nacional en Colombia. Incluyendo agresiones sexuales contra las adolescentes.
@@ -39,7 +39,7 @@ Ni los de arriba ni los de abajo intuían ese mar de lava que corría por dentro
 
 ## Francachela con vino kosher en medio de la protesta
 
-![](./REUNION-DE-PETRO-CON-LA-COMUNIDAD.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/el-militarismo-de-duque-sofocara-su-crisis-de-gobernabilidad/REUNION-DE-PETRO-CON-LA-COMUNIDAD.jpg)
 *Gustavo Petro convenciendo a empresarios de la Comunidad Judía colombiana de que él no es un peligro para sus intereses ni para el sistema.*
 
 Mientras en las calles el régimen mataba a los jóvenes, el líder político más sobresaliente de la izquierda —**Gustavo Petro, creador de Colombia Humana**— se sentaba a manteles con empresarios de la comunidad judía colombiana a saborear un vino kosher. Era una suculenta comida, además de vino kosher, habían platos especiales como sambusak y boreka  promovida por **Jean Claude Bessudo.** Un almuerzo servido por meseros de finos modales que calmaban la hambruna del conspicuo líder de la izquierda colombiana. **Petro pedía apoyo implícito para financiar su campaña electoral presidencial.** 
@@ -52,7 +52,7 @@ Entiendo que Petro quería aclarar que él es inofensivo para los intereses de l
 
 ## ¿Y la Coalición de la Esperanza? 
 
-![](./602568c988feb.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/el-militarismo-de-duque-sofocara-su-crisis-de-gobernabilidad/602568c988feb.jpeg)
 *La primera foto distribuida por la Coalición de la Esperanza.*
 
 Si los parlamentarismo del Pacto Histórico andan disgregados y confundidos ¿qué pasa con los de la Coalición de la Esperanza? No tienen nada que hacer. Se desdibujaron cuando fueron a escuchar la demagogia del presidente Duque. Lo primero que debieron hacer es escuchar al Comité del Paro Nacional y a los que estaban del otro lado de las barricadas. Era trazar un puente para el diálogo.

@@ -5,10 +5,10 @@ pubDate: "2023-06-17 01:44:21"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tumbar-a-petro-con-fuente-anonima-i/"./hero.jpg"
 ---
 
-![a máxima es que todo dictador debe ser tumbado por el pueblo ¿Es válido con el caso Petro? ¿Tumbar a Petro con fuente anónima? /Fotomontaje de Semana.](./hero.jpg)
+![a máxima es que todo dictador debe ser tumbado por el pueblo ¿Es válido con el caso Petro? ¿Tumbar a Petro con fuente anónima? /Fotomontaje de Semana.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tumbar-a-petro-con-fuente-anonima-i/hero.jpg)
 *La máxima es que todo dictador debe ser tumbado por el pueblo ¿Es válido con el caso Petro? ¿Tumbar a Petro con fuente anónima? /Fotomontaje de Semana.*
 
 ¿Tumbar a Petro? La noticia fue concebida como una bomba de alto poder. Pero con una fuente anónima, secundaria y sin el rigor de la veracidad. Con una fuente anónima —**«Garganta de lata»**— el Whasington Post tumbó al presidente de los Estados Unidos, **Richard Nixon**, con el caso de **«Watergate»**. Pero, también, con una fuente anónima una de sus periodistas, **Janet Cook**, ganó el premio Pulitzer con una historia falsa. Ahora, **la revista Semana quiere tumbar a Petro** al atribuirle la propiedad de los supuestos **$3 mil millones** hurtados de la residencia de **Laura Sarabia Torres**, la exjefa de gabinete del presidente de los colombianos.
@@ -31,7 +31,7 @@ Hoy, 3 años después, desafortunadamente tuvimos razón: **William Dau es más 
 
 ## ¿El dinero es de Petro?
 
-![¿Tumbar a Petro?](./Petro_teniente_portada.jpg)
+![¿Tumbar a Petro?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tumbar-a-petro-con-fuente-anonima-i/Petro_teniente_portada.jpg)
 *¿Tumbar a Petro con el caso de las chuzadas?*
 
 Ahora bien. Para tumbar a Petro no bastaría con elucubrar o decir que el dinero es de Petro. Semana dice que se lo dijo un personaje anónimo que, a su vez, se lo dijo el coronel que estaba más comprometido por el caso de las chuzadas. ¿Quién puede hablar por el muerto? Una persona que supuestamente se suicidó pocas horas después de que le mandara **$50 millones en efectivo al abogado Miguel Ángel del Rí**o para que lo defendiera de ese berenjenal en lo que lo había metido su jefe inmediato, el también coronel **Carlos Feria Buitrago**.
@@ -64,7 +64,7 @@ Los resultados de esa encuesta coinciden con el nivel de desfavorabilidad de otr
 
 ## ¿Semana hace oposición?
 
-![¿Quién ordenó las chuzadas? Y colocan en portada a Laura Sarabia, la otrora jefe de gabinete de Petro. ¡Tumbar a Petro?](./Semana-portada-Las-chuzadas.jpg)
+![¿Quién ordenó las chuzadas? Y colocan en portada a Laura Sarabia, la otrora jefe de gabinete de Petro. ¡Tumbar a Petro?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tumbar-a-petro-con-fuente-anonima-i/Semana-portada-Las-chuzadas.jpg)
 *¿Quién ordenó las chuzadas? Y colocan en portada a Laura Sarabia, la otrora jefe de gabinete de Petro.*
 
 Hacer periodismo de análisis —que no de opinión ni informativo— es muy complicado en un medio acostumbrado a supervalorar las fuentes oficiales. Pero, ninguna de las grandes verdades que se transformaron en escándalos políticos devinieron en crisis de gobernabilidad durante los 8 años de gobierno de **Álvaro Uribe**, los 8 de **Juan Manuel Santos** y los cuatro de **Iván Duque**. La **Gran Prensa**, si bien destapó esos hechos, los estrategas de esos presidentes le dieron un tratamiento diferente. Además de utilizar las cortinas de humo, los dueños de los grandes medios estaban bien atendidos por esos presidentes.

@@ -5,10 +5,10 @@ pubDate: "2021-06-10 22:52:42"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-cidh-recibio-solicitud-para-investigar-despojos-a-poblaciones-afros/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-cidh-recibio-solicitud-para-investigar-despojos-a-poblaciones-afros/hero.jpg)
 *La CIDH recibió denuncia en su visita a Cali. Cortesía.*
 
 La CIDH recibió denuncias para investigar despojos a poblaciones afros de la Costa Caribe. Fueron varias peticiones que diferentes organizaciones de derechos humanos le presentaron en la plataforma digital. La Comisión Interamericana de Derechos Humanos—CIDH visita a Colombia.
@@ -27,7 +27,7 @@ La CIDH recibió denuncia de los manifestantes de Cali.
 
 Los informes sirven para que la CIDH tenga suficiente material para hacer un análisis de contexto de la verdadera situación de los derechos humanos en Colombia. **Carlos Arturo Bossa Ojeda, presidente de la Veeduría Social de Cartagena,** le puso en conocimiento el despojo de la familia **Hernández Vergara**. Las tierras de esta familia afrodescendiente terminaron en manos de los **Santo Domingo**, después de un entramado con la complicidad de instituciones de justicia y policiva. 
 
-\[caption id="attachment\_15413" align="aligncenter" width="1497"\]![](./CIDH-5-e1623369793207.jpg) La CIDH recibió denuncia en Bogota.\[/caption\]
+\[caption id="attachment\_15413" align="aligncenter" width="1497"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-cidh-recibio-solicitud-para-investigar-despojos-a-poblaciones-afros/CIDH-5-e1623369793207.jpg) La CIDH recibió denuncia en Bogota.\[/caption\]
 
 Las víctimas hacen parte del consejo de comunidades negras del corregimiento de Bayunca. También se refieren a casos de despojos de nativos de la isla de Barú.
 

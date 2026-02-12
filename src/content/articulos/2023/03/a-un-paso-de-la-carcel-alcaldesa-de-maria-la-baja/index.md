@@ -5,10 +5,10 @@ pubDate: "2023-03-17 19:50:51"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/a-un-paso-de-la-carcel-alcaldesa-de-maria-la-baja/"./hero.jpg"
 ---
 
-![¿A la cárcel? alcaldesa de María la Baja](./hero.jpg)
+![¿A la cárcel? alcaldesa de María la Baja](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/a-un-paso-de-la-carcel-alcaldesa-de-maria-la-baja/hero.jpg)
 *¿A la cárcel? Raquel Victoria Sierra Cassiani*
 
 ¿A la cárcel alcaldesa de María la Baja, **Raquel Victoria Sierra Cassiani**? Es el principal interrogante que se desprende de la incertidumbre jurídica en que se encuentra la funcionaria. ¿La razón? Este 21 de marzo se le escuchará en audiencia de **imposición de medida de aseguramiento** solicitada por la Fiscalía 22 seccional de Turbaco que la sindica del delito de **prevaricato por acción**. El caso tiene como víctima a **Álvaro Castro Beltrán, 82 años de edad,** quien después de 23  años de habérsele reconocido su pensión de jubilación, la funcionaria se la desmontó parcialmente.

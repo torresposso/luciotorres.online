@@ -5,10 +5,10 @@ pubDate: "2022-09-03 21:33:18"
 author: "Lucio"
 categories: ["Análisis","Investigación","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-entre-el-hampa-y-la-delincuencia-politica-i/"./hero.jpg"
 ---
 
-![Cartagena: Entre el hampa y la delincuencia política (I)](./hero.jpg)
+![Cartagena: Entre el hampa y la delincuencia política (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-entre-el-hampa-y-la-delincuencia-politica-i/hero.jpg)
 *El Raulito retrata la alienación social de la sociedad cartagenera: Entre el hampa y la delincuencia. Cortesía Fiscalía General.*
 
 En el gobierno del alcalde **William Dau Chamat**, Cartagena se debate entre el hampa y la delincuencia política. Nunca antes las organizaciones criminales habían crecido como lo han hecho durante estos dos últimos años. Tampoco se había cuestionado severamente la institucionalidad de la alcaldía y del concejo. Pero sobretodo, de un alcalde que ha sido cuestionado por su idoneidad administrativa, moral y mental. Un alcalde que refleja la enfermedad que padece la sociedad que lo eligió.
@@ -17,7 +17,7 @@ La sociedad cartagenera está tan enferma que existen dos escuelas de sicarios, 
 
 ## ¿Hemos caído al fondo?
 
-![](./sicariato1.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-entre-el-hampa-y-la-delincuencia-politica-i/sicariato1.jpg)
 *Una del as víctimas del sicariato, Kevin José Herrera Pérez en Las Palmeras. Entre el hampa y la delincuencia política. Cortesía.*
 
 Un análisis concienzudo de las cifras de homicidio y, en especial, de la modalidad de sicariato, confirma la premisa del deterioro de la salud mental de los cartageneros. Jamás se había incrementado el número de homicidios como hoy (**240 asesinatos** en lo que va el año). Nunca antes se había disparado el microtráfico y el consumo de drogas alucinógenas entre la juventud, y el basuco entre los adultos. La ciudad no estaba en disputa de bandas criminales como hoy. Ni siquiera en los mejores tiempos del Clan del Golfo, Los Urabeños, Los Pachenca, Los Paisas, Los Costeños, entre otras.

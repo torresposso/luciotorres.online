@@ -5,10 +5,10 @@ pubDate: "2018-10-30 03:45:46"
 author: "Lucio"
 categories: ["Mi Ciudad","Uncategorized"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/sonriente-zully-renuncio-en-la-ultima-junta-de-corpoturismo/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/sonriente-zully-renuncio-en-la-ultima-junta-de-corpoturismo/hero.jpg)
 *"Es una noticia agridulce", dice Pedrito Pereira, alcalde de Cartagena, al registrar la partida de Zully Salazar de Corporturismo a Fontur.*
 
 **Sonriente** y radiante Zully renunció. Así lució hoy la sucreña **Zully Salazar Fuentes** cuando presentó su renuncia irrevocable ante una reunión extraordinaria de la junta directiva de la Corporación de Turismo de Cartagena –**CORPOTURISMO**– presidida por el alcalde **Pedrito Pereira Caballero**. 
@@ -25,7 +25,7 @@ Destacó la importancia de aumentar las cifras en la visita turística de nuestr
 
 ## "Noticia agridulce"
 
-![](./ZULLY-SALAZAR-EN-JUNTA.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/sonriente-zully-renuncio-en-la-ultima-junta-de-corpoturismo/ZULLY-SALAZAR-EN-JUNTA.jpg)
 *La última junta de Zully Salazar. Sus compañeros de junta se alegran con la partida porque desde Fontur podrá desarrollar una labor mayor.*
 
 Al respecto, el alcalde **Pedrito Pereira Caballero** dijo **tener un sentimiento agridulce** con la partida de **Zully Salazar.** Va a probar suerte como gerente general del Fondo Nacional de Turismo-**Fontur,** designada por el ministro de Turismo, **Juan Pablo Franky,**  y el **presidente Duque**.

@@ -5,10 +5,10 @@ pubDate: "2020-05-31 22:43:37"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/se-estremece-el-imperio-por-muerte-de-floyd/"./hero.jpg"
 ---
 
-\[caption id="attachment\_11827" align="alignnone" width="976"\]![](./hero.jpg) Se estremece el imperio. Nos recuerda los años 60 en la lucha por derechos civiles. Cortesía BBC.\[/caption\] Se estremece el imperio. Las calles de 50 ciudades norteamericanas se agitan con la ira ciudadana. Protestan por el crimen del afrosdescendiente **George Floyd,** 47 años. Mientras el policía Derek Chauvin le ponía todo su peso con la rodilla en el cuello de Floyd, éste lanzó sus últimos estertores. Sus pulmones llenos de sangre anunciaron su muerte. Repitió una frase hasta cuando dejó de gemir:
+\[caption id="attachment\_11827" align="alignnone" width="976"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/se-estremece-el-imperio-por-muerte-de-floyd/hero.jpg) Se estremece el imperio. Nos recuerda los años 60 en la lucha por derechos civiles. Cortesía BBC.\[/caption\] Se estremece el imperio. Las calles de 50 ciudades norteamericanas se agitan con la ira ciudadana. Protestan por el crimen del afrosdescendiente **George Floyd,** 47 años. Mientras el policía Derek Chauvin le ponía todo su peso con la rodilla en el cuello de Floyd, éste lanzó sus últimos estertores. Sus pulmones llenos de sangre anunciaron su muerte. Repitió una frase hasta cuando dejó de gemir:
 
 > «¡No puedo respirar! ¡No puedo respirar! ¡No puedo respirar! ¡Please! ¡Please!»
 

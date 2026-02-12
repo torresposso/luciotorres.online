@@ -5,22 +5,22 @@ pubDate: "2025-07-20 02:08:19"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/tribunal-superior-violento-precedente-juridico-al-absolver-a-hilsaca/"./hero.jpg"
 ---
 
-![Tribunal Superior violentó precedente jurídico  al absolver a Hilsaca](./hero.jpg)
+![Tribunal Superior violentó precedente jurídico  al absolver a Hilsaca](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/tribunal-superior-violento-precedente-juridico-al-absolver-a-hilsaca/hero.jpg)
 *Tribunal Superior violentó precedente jurídico al absolver a Hilsaca*
 
 Con la absolución de **Alfonso **del Cristo**** **Hilsaca Eljadue**  (****«**el Turco**»****), ¿el **Tribunal Superior violentó precedente jurídico** sobre la duda en materia penal, entre otros principios? Son muchos los vacíos de la sentencia absolutoria de segunda instancia. Después de un prolongado (¡10 años!), doloroso (varios muertos) y dilatado juicio, el **Juzgado 7° Penal del Circuito de Bogotá** lo absolvió en primera instancia. Solo tiene comparación con el  **«juicio del siglo»** donde se juzga al expresidente **Álvaro Uribe Vélez.**
 
 Se debe anotar que la Sala de decisión estuvo constituida por los magistrados **Hermens Lara Acuña, Isabel Álvarez Fernández y Manuel Antonio Merchán Gutiérrez**. La sentencia del Tribunal ratificó la absolución de **Alfonso Hilsaca** **Eljadue** y revocó la de **Javier Eduardo Donado Rueda** proferidas por el Juez 7° Penal del Circuito de Bogotá, **David Gutiérrez Camacho**. Los hermanos **Borré Barreto** (Juan Manuel y Javier Eduardo), exparas, exrastrojos, ex Clan del Golfo fueron los testigos base para tomar esta decisión judicial.
 
-![Juez 7° Penal del Circuito de Bogotá, David Gutiérrez Camacho. Tribunal Superior violentó precedente jurídico](./David_Gutierrez_Camacho_juez_7_Bogota.png)
+![Juez 7° Penal del Circuito de Bogotá, David Gutiérrez Camacho. Tribunal Superior violentó precedente jurídico](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/tribunal-superior-violento-precedente-juridico-al-absolver-a-hilsaca/David_Gutierrez_Camacho_juez_7_Bogota.png)
 *Juez 7° Penal del Circuito de Bogotá, David Gutiérrez Camacho absolvió a Javier Donado y Alfonso Hilsaca. Luego el Tribunal revocó la absolución de Donado y condenó*
 
 ## ¿El Tribunal Superior violentó precedente jurídico?
 
-![Hermens Lara Acuña, el magistrado  ponente de la incongruente sentencia del Tribunal Superior de Bogotá](./Hermens_lara_acuna.jpg)
+![Hermens Lara Acuña, el magistrado  ponente de la incongruente sentencia del Tribunal Superior de Bogotá](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/tribunal-superior-violento-precedente-juridico-al-absolver-a-hilsaca/Hermens_lara_acuna.jpg)
 *Hermens Lara Acuña, el magistrado ponente de la incongruente sentencia del Tribunal Superior de Bogotá*
 
 Si el Tribunal Superior violentó precedente jurídico con la sentencia **Rad\_2014\_00205**, es un problema que debe resolver la **Sala de Casación Penal de la Corte Suprema de Justicia**. Estas son **las preguntas clave** de esta segunda entrega y que el alto tribunal se haría al momento de la casación.
@@ -33,7 +33,7 @@ Por tanto, este segundo informe de **VoxPopuli Digital** analiza las principales
 
 ## **¿Se puede ignorar el precedente?**
 
-![Magistrada Isabel Álvarez Fernández constituyó Sala para la absolución de Hilsaca. Tribunal Superior violentó precedente jurídico](./Magistrada_alvarez.jpg)
+![Magistrada Isabel Álvarez Fernández constituyó Sala para la absolución de Hilsaca. Tribunal Superior violentó precedente jurídico](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/tribunal-superior-violento-precedente-juridico-al-absolver-a-hilsaca/Magistrada_alvarez.jpg)
 *Magistrada Isabel Álvarez Fernández constituyó Sala para la absolución de Hilsaca.*
 
 El principal error técnico del fallo es el desconocimiento del estándar jurisprudencial frente al valor probatorio de los testimonios de exparamilitares. En numerosos fallos, la Corte Suprema señaló que sus relatos son admisibles siempre que cumplan ciertos criterios: **coherencia interna, corroboración periférica, persistencia y contextualización**.
@@ -50,7 +50,7 @@ Por ende, las declaraciones de los hermanos Borré Barreto son creíbles, como l
 
 Pero, según la Fiscalía, esos testigos los amenazaron de muerte a igual que **Llensi Soraida Bueno** **de la Cruz**, quien declaró contra ****«**el Turco**»****. Ella lo señaló como la persona que entregó ****«****la tula llena de plata****»**** para la organización de _Los rastrojos costeños_ que **cometió el crimen por orden de Uber Enrique Bánquez Martínez**.
 
-![Wilfrido Pedroza Pacheco (alias El Vizco, El Tuerto y El Gamba), sicario confeso, declaró a favor de Alfonso Hilsaca. El Tuerto asesinó a la enfermera  Miladis Velandia Galvis en 2010.](./wilfrido_pedroza_.jpg)
+![Wilfrido Pedroza Pacheco (alias El Vizco, El Tuerto y El Gamba), sicario confeso, declaró a favor de Alfonso Hilsaca. El Tuerto asesinó a la enfermera  Miladis Velandia Galvis en 2010.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/tribunal-superior-violento-precedente-juridico-al-absolver-a-hilsaca/wilfrido_pedroza_.jpg)
 *Wilfrido Pedroza Pacheco (alias El Vizco, El Tuerto y El Gamba), sicario confeso, con su declaración a favor de Alfonso Hilsaca se creó dudas en el testimonio de Llensi Soraida Bueno de la Cruz. En la foto cuando El Tuerto asesinó a la enfermera  Miladis Velandia Galvis en 2010. Capturado el día de ese asesinato en su guarida de Nuevo Porvenir del barrio Olaya de Cartagena. Cortesía*
 
 En tanto que **Wilfrido Pedroza Pacheco** (alias El Vizco, El Tuerto y El Gamba) recibió dinero para declarar a favor de Alfonso Hilsaca. El padre de la victima, Luis Emel Ovallos Angarita estuvo bajo el mando de l señor Uber Enrique Bánquez en el bloque de los Montes de María. En el 2009, año en el que murió su hijo, ya se había desmovilizado y se había acogido a ley de Justicia y Paz.
@@ -167,7 +167,7 @@ Corte Suprema
 
 ## **Una justicia que pierde el rumbo**
 
-![El día que capturaron a Alfonso Hilsaca. Dijo que era "un falso positivo", como en efecto hasta ahora es, según las decisiones de primera y segunda instancia.Cortesía.](./Alfonso_Hilsaca_captura.jpg)
+![El día que capturaron a Alfonso Hilsaca. Dijo que era "un falso positivo", como en efecto hasta ahora es, según las decisiones de primera y segunda instancia.Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/tribunal-superior-violento-precedente-juridico-al-absolver-a-hilsaca/Alfonso_Hilsaca_captura.jpg)
 *El día que capturaron a Alfonso Hilsaca. Dijo que era "un falso positivo", como en efecto hasta ahora es, según las decisiones de primera y segunda instancia. Cortesía.*
 
 ¿El Tribunal Superior violentó precedente jurídico al absolver a Hilsaca? Lo que está en juego con esta decisión no es solo una condena contra un empresario determinado, sino el mensaje que la justicia colombiana envía a las víctimas del conflicto armado. **Son 10 millones** **de personas que esperan justicia**. La sociedad colombiana espera justicia.

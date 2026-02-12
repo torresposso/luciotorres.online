@@ -5,7 +5,7 @@ pubDate: "2023-03-20 22:38:10"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/tres-perlas-del-caribe-en-poder-de-la-mafia-santa-marta-barranquilla-y-cartagena-i/"./hero.jpg"
 ---
 
 > **«**Santa Marta, Barranquilla y Cartagena  
@@ -13,7 +13,7 @@ heroImage: "./hero.jpg"
 > Tres estrellas del mar, del Mar Caribe  
 > Que descansan en la orilla de la playa**»**
 
-![Así promocionan las «tres perlas del Caribe»: Santa Marta, Barranquilla y Cartagena.](./hero.jpg)
+![Así promocionan las «tres perlas del Caribe»: Santa Marta, Barranquilla y Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/tres-perlas-del-caribe-en-poder-de-la-mafia-santa-marta-barranquilla-y-cartagena-i/hero.jpg)
 *Así promocionan las «tres perlas del Caribe»: Santa Marta, Barranquilla y Cartagena. (Cortesía).*
 
 Como va este año (2023) en materia de violencia, confirma que Colombia podría romper la **tasa** de homicidios estable desde 2014 hasta 2021 con cifras que oscilan entre **24 y 26,1 homicidios** por cada 100.000 habitantes. Los niveles históricos podrían regresar. Lo más significativo y dramático que observamos en nuestra región se refiere a que, dos de las **«tres perlas del Caribe»**, se encuentran entre las **50 ciudades más violentas del mundo**, según el ranking de la ong mexicana **[Seguridad, Justicia y Paz](/articulos/seguridadjusticiaypaz/webpage/boletin.php)**.
@@ -34,7 +34,7 @@ La decisión fue justificada por el ministro del Interior y portavoz del Gobiern
 
 ## El fracaso de un modelo de ciudad
 
-![Equipo por Colombia con la frase “firme #AlexCharPresidente”. Aquí aparece Jhon Horacio Rueda Polanía tiene un historial de tráfico de estupefacientes y lavado de activos. (Foto suministrada). las «tres perlas del Caribe»](./Alex-char-y-narco.jpg)
+![Equipo por Colombia con la frase “firme #AlexCharPresidente”. Aquí aparece Jhon Horacio Rueda Polanía tiene un historial de tráfico de estupefacientes y lavado de activos. (Foto suministrada). las «tres perlas del Caribe»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/tres-perlas-del-caribe-en-poder-de-la-mafia-santa-marta-barranquilla-y-cartagena-i/Alex-char-y-narco.jpg)
 *Equipo por Colombia con la frase “firme #AlexCharPresidente”. Aquí aparece Jhon Horacio Rueda Polanía tiene un historial de tráfico de estupefacientes y lavado de activos. (Foto suministrada).*
 
 Por tanto, este estado de cosas, el incremento de la violencia en las **«tres perlas del Caribe»**, refleja el **fracaso de dos décadas de modelo de ciudad** que quieren venderle al país y al mundo. Por ejemplo, la próspera Barranquilla de los Daes, Char y sus aliados de la clase política dominante que han cooptado casi todo: la economía, la política, la cultura, el deportes y la justicia. Un modelo de desarrollado basado en la **narcoeconomía** que destruyó los cimientos de la industrialización, la competencia sana y la democracia. **Esta es la razón del Califato Daeschariano**. Todos los procesos contractuales de gran impacto (contratos de concesión) de los últimos 25 años tienen una jugada chueca asociada a la **violencia narcoparamilitar** como es el caso de INASSA.
@@ -48,7 +48,7 @@ La ejecución de esas masacres en las **«tres perlas del Caribe»** expresa el 
 ## Sin contrapeso
 
 ![las «tres perlas del Caribe». 
-¿Es muy coincidente que el Daescharismo esté rodeado de gente sindicadas de delitos de narcotráfico, lavado de activos y despojos de tierra? Aquí con Oscar Laino Vargas. (Foto suministrada). ](./Alex-Char_Omar-Ladino_1.jpg)
+¿Es muy coincidente que el Daescharismo esté rodeado de gente sindicadas de delitos de narcotráfico, lavado de activos y despojos de tierra? Aquí con Oscar Laino Vargas. (Foto suministrada). ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/tres-perlas-del-caribe-en-poder-de-la-mafia-santa-marta-barranquilla-y-cartagena-i/Alex-Char_Omar-Ladino_1.jpg)
 *¿Es muy coincidente que el Daescharismo esté rodeado de gente sindicadas de delitos de narcotráfico, lavado de activos y despojos de tierra? Aquí con Omar Alexander Ladino Vargas (alias ‘El Señor del Portafolio’), quien había sido sindicado de ser uno de los jefes de Los Costeños. El juez Primero Penal Municipal con Funciones de Control de Garantías de Barranquilla, José Sastoque no lo mandó a la cárcel. El mismo que también le dio casa por cárcel a Digno Palomino, sindicado de ser jefe de de Los Pepes, un ala armada de Los Costeños surgida en su pelea con Jorge Eliécer Díaz Collazos, alias ‘Castor’ . (Foto suministrada).*
 
 Además, el poder dominante no tiene contrapeso en el sector público como privado. Las próximas elecciones amenazan con seguir lo mismo. El Pacto Histórico no levanta cabeza para ser alternativa de poder, pues, en su interior muchos han sido cooptado por ese mismo sistema dominante. Ni siquiera las universidades (incluso, el movimiento estudiantil o de docentes) han desafiado ese poder real. Vale destacar el caso de la **Universidad del Atlántico**, entidad que está bajo sus dominios, luego de asesinar sistemáticamente a la dirigencia universitaria durante la década de **1995—2005**.
@@ -71,7 +71,7 @@ Por ejemplo, en el marco de referencia de 2021**—**2022 se limitaban a señala
 
 > **«**El distrito de Barranquilla es la menor tasa de homicidios registrada con 25.4 por cada 100.000 habitantes (Cartagena 33.5 y Santa Marta 34.6)**»**.
 
-![](./Universidad-del-norte.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/tres-perlas-del-caribe-en-poder-de-la-mafia-santa-marta-barranquilla-y-cartagena-i/Universidad-del-norte.jpg)
 
 Esa información estadística aparentemente es real. Pero no es así. Padece de tres problemas. **Uno**. Muchos de los muertos los colocan en Soledad, debido a que existen límites invisibles entre las dos ciudades. **Dos**, si sumamos Barranquilla y soledad en las estadísticas, nos encontraríamos que el Área Metropolitana de Barranquilla sería una de las más violentas. **Tres**. No toman en cuenta la **categoría de homicidios** los muertos por **defensa propia**, entre otras maquilladas de las estadísticas que producen los observatorios del delito.
 

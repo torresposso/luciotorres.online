@@ -5,10 +5,10 @@ pubDate: "2022-12-30 21:25:09"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/luis-manuel-pena-el-popular-lucho-loco-victima-de-sicarios-adolescentes-o-de-un-grande/"./hero.jpg"
 ---
 
-![¿«Lucho Loco» víctima de sicarios adolescentes o de un «grande»? El comandante de la policía de Bolívar, José Abdón galindo Sánchez presentó el informe de los sicarios adolescentes.](./coronel-jose-galindo-2.jpeg)
+![¿«Lucho Loco» víctima de sicarios adolescentes o de un «grande»? El comandante de la policía de Bolívar, José Abdón galindo Sánchez presentó el informe de los sicarios adolescentes.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/luis-manuel-pena-el-popular-lucho-loco-victima-de-sicarios-adolescentes-o-de-un-grande/coronel-jose-galindo-2.jpeg)
 *¿«Lucho Loco» víctima de sicarios adolescentes o de un «grande»? El comandante de la policía de Bolívar, José Abdón Galindo Sánchez presentó el informe de los sicarios adolescentes.*
 
 ¿**Luis Manuel Peña, el popular «Lucho Loco»**, víctima de sicarios adolescentes o de un «grande»? El comandante de la Policía de Bolívar, coronel **José Abdón Galindo Sánchez**, presentó hoy en Cartagena un informe sobre la detención preventiva de dos presuntos autores materiales del asesinato del activista social y político **«Lucho Loco»**. Y son dos adolescentes que apenas cumplieron 15 años. Si la hipótesis construida por las autoridades es cierta ¿cómo nacieron a la vida delincuencial estos dos jóvenes estudiantes del Liceo Vélez?
@@ -31,7 +31,7 @@ Ante esa situación, el coronel Galindo presidió hoy una rueda de prensa en el 
 
 ## ¿Es sostenible la teoría oficial?
 
-![¿Sicarios adolescentes acabaron con Lucho Loco? ](./hero.jpg)
+![¿Sicarios adolescentes acabaron con Lucho Loco? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/luis-manuel-pena-el-popular-lucho-loco-victima-de-sicarios-adolescentes-o-de-un-grande/hero.jpg)
 *¿Sicarios adolescentes acabaron con Lucho Loco?*
 
 La descomposición social, política y moral de Magangué es evidente. Es la ciudad intermedia mas grande de la region. La violencia intrafamiliar, la prostitución, la drogadicción, el microtráfico, el narcotráfico, el aumento de la tasa de homicidio y de la inseguridad es proporcional al crecimiento del hambre, la pobreza y de la desigualdad social. Los indicadores sociales así lo señalan.

@@ -5,10 +5,10 @@ pubDate: "2021-03-23 22:25:41"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/como-se-vacunas-contra-el-covid-19-en-colombia/"./hero.jpg"
 ---
 
-\[caption id="attachment\_14271" align="aligncenter" width="900"\]![](./hero.jpg) Se aplicarán 61.5 millones de vacunas contra el Covid-19. Cortesía.\[/caption\]  
+\[caption id="attachment\_14271" align="aligncenter" width="900"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/como-se-vacunas-contra-el-covid-19-en-colombia/hero.jpg) Se aplicarán 61.5 millones de vacunas contra el Covid-19. Cortesía.\[/caption\]  
 
 ¿Cómo se aplicarán las vacunas contra el Covid-19? Se vacunarán a 35 millones de personas en Colombia en dos fases y 5 etapas, según el Plan Nacional de Vacunación estructurado por el Ministerio de Salud. Hasta ahora solo han aplicado 1.250.008 dosis de los 61.5 millones previstas.
 
@@ -24,7 +24,7 @@ De acuerdo a la información oficial el Estado colombiano ha comprado 20 millone
 *   **Moderna:** el Gobierno Nacional acaba de adquirir 10 millones de dosis para 5 millones de personas.
 *   **Sinovac:** 2.5 millones de dosis para 1.250.000 personas.
 
-![](./Etapa-1-vacunacion.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/como-se-vacunas-contra-el-covid-19-en-colombia/Etapa-1-vacunacion.jpeg)
 
 **Te puede interesar:**
 

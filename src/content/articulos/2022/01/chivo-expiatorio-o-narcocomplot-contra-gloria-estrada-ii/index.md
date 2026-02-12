@@ -5,10 +5,10 @@ pubDate: "2022-01-17 02:45:23"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/chivo-expiatorio-o-narcocomplot-contra-gloria-estrada-ii/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/chivo-expiatorio-o-narcocomplot-contra-gloria-estrada-ii/hero.jpg)
 *William Dau le declaró la guerra a Gloria Estrada. El poder ejecutivo contra el poder de control político. ¿Narcocomplot?*
 
 El alcalde de Cartagena, **William Dau Chamat,** tiene una risa de oreja a oreja desde que detuvieron a **Gloria Estrada Benavides**. Dau condenó de hecho a Estrada con sus declaraciones concedidas a El Universal, el periódico _cuasioficial_ de su administración. Contrario a ello, todo indicaría que se tejió un narcocomplot para incriminar a la presidenta del concejo Distrital, una dura rival del lengüilargo burgomaestre.
@@ -49,7 +49,7 @@ De tal manera que Gloria Estrada hizo posible la elección de Rafael Castillo Fo
 
 ## La Guerra de Aponte contra Barreto
 
-![](./Aponte-y-Barreto.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/chivo-expiatorio-o-narcocomplot-contra-gloria-estrada-ii/Aponte-y-Barreto.jpg)
 *El año pasado se vivió un momento crítico en la pelea de estos dos jóvenes políticos. El círculo cercano de Aponte dice que gente de Barreto los mandó atracar y le quitaron el reloj rolex en Bocacagrande, el 10 de octubre de 2021. La gente de Barreto cree que el kilo de cocaína es un complot de la gente de Aponte. ¿Narcocomplot?*
 
 Lo que el común de la gente en Cartagena no sabe es que existe una guerra no declarada entre dos jefes políticos y financistas emergentes. Se trata de **Martín Barreto**, marido de Gloria Estrada, y **Pedro Aponte**, edil y mecena del alcalde de la localidad 2, Andy Reales Arroyo, hijo de un expolicía. 
@@ -60,7 +60,7 @@ El alcalde Reales tiene el apoyo del alcalde mayor, pero también de **Pedro Apo
 
 ## Los Aráujo con Dau y Aponte
 
-![](./Araujo-1.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/chivo-expiatorio-o-narcocomplot-contra-gloria-estrada-ii/Araujo-1.jpeg)
 *Fernando Araújo y Kike Cabrales. Jessy Carolina Palomino, compañera de Aponte, es la cuota de la administración Dau en la lista del Centro Democrático de Bolívar.*
 
 Que la familia Araújo sea la protectora de William Dau es un secreto a voces que no pueden ocultar. Eso es tan cierto que Araújo está aupando a la esposa de , sexta en la lista a Cámara Bolívar del Centro Democrático. Ella, Aponte y un gran sector de la administración de William Dau votarán por la lista del Centro Democrático y, en particular, al senado por **Kike Cabrales**, cuñado de Tomás Uribe, hijo del expresidente Álvaro Uribe. 
@@ -91,7 +91,7 @@ Una ruta metodológica de la investigación nos debería llevar hacia los sospec
 
 Entonces, ¿por qué Barreto tiene tanto dinero como para financiar una campaña exitosa hacia el concejo y la Junta Administradora Local? Que si no hubiera sido marido de Gloria Estrada, estuviese en la lista a la cámara del partido Liberal. Y de lejos le hubiese ganado a Silvio Carrasquilla la curul. Sus asesores políticos le aconsejaron que no se lanzara en esa aventura a la Cámara. Apareció fotografiado apoyando a Fernando Niño a la cámara por el partido conservador.
 
-![](./patricia-zapata-1.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/chivo-expiatorio-o-narcocomplot-contra-gloria-estrada-ii/patricia-zapata-1.jpg)
 *En el gobierno de Patricia Zapata, alcaldesa de la localidad No 3, Martín Barreto agrandó su fortuna.*
 
 ¿Barreto de dónde sacó mil o dos mil millones que le pudo costar la campaña de Gloria Estrada? Martín Barreto es el mecena de Gloria Estrada, pero también de **Patricia Zapata, exalcaldesa de la localidad 3**. Estrada y Zapata trabajaban en llave. La primera como edil y la segunda como alcaldesa local. Algunas fuentes señalan que Barreto manejó toda la contratación de la alcaldía menor de Zapata a través de un entramado de fundaciones y firmas de papel. También tenía la capacidad de comprar los contratos públicos para ejecutarlo. 

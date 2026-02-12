@@ -5,10 +5,10 @@ pubDate: "2026-01-16 01:01:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Sin categoría"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/la-fiscal-que-no-resuelve-el-complot-contra-gloria/"./hero.jpg"
 ---
 
-![El momento de la captura de Gloria Estrada. El agente Alexander  Mercado le respira en el oído](./hero.jpg)
+![El momento de la captura de Gloria Estrada. El agente Alexander  Mercado le respira en el oído](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/la-fiscal-que-no-resuelve-el-complot-contra-gloria/hero.jpg)
 *El momento de la captura de Gloria Estrada. El agente Alexander Mercado le respira en el oído.*
 
 En toda gran intriga hay un instante en el que la verdad ya no está oculta: está **detenida**. Después de cuatro años de ocurrido el complot contra Gloria Estrada, presidenta del concejo de la época, el crimen sigue impune, pese a la vinculación de dos altos oficiales de la Policía Nacional. Este instante tiene nombre propio: **Fiscal Dora Patricia Cáceres**.
@@ -23,7 +23,7 @@ Y alguien lo escribió. ¿Quién lo hizo?
 
 ## El complot y su escena
 
-![](./GLORIA-COLLAGGE.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/la-fiscal-que-no-resuelve-el-complot-contra-gloria/GLORIA-COLLAGGE.jpg)
 *El complot del 14 de enero de 2022.*
 
 Una tarde soleada en Cartagena de Indias. Como solía suceder, Gloria Estrada se montó en la camioneta de su marido después de salir del recinto del concejo.
@@ -72,7 +72,7 @@ No un agente. No un patrullero. Es **un poder civil que usó a la Policía como 
 
 ## La verdad que la Fiscalía sí probó
 
-![](./pedro-aponte-luis-cassiani_mayorbueno.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/la-fiscal-que-no-resuelve-el-complot-contra-gloria/pedro-aponte-luis-cassiani_mayorbueno.jpg)
 *El mayor (r) Gustavo Bueno ¿el eslabón que une a los autores materiales con los autores intelectuales?*
 
 La Fiscalía logró algo fundamental: demostrar que **Gloria Estrada y Martín Barreto eran inocentes**. Pero esta verdad no bastaba. Se debe llegar a los que crearon el complot.
@@ -91,7 +91,7 @@ Pero el expediente se detuvo justo donde empezaba a volverse peligroso para los 
 
 ## La investigación se congeló
 
-![](./Dora-Patricia-Caceres-Puentes-1024x641.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/la-fiscal-que-no-resuelve-el-complot-contra-gloria/Dora-Patricia-Caceres-Puentes-1024x641.jpeg)
 *Dora Patricia Cáceres Puentes y el complot.*
 
 Como se sabe, toda operación criminal tiene tres niveles:

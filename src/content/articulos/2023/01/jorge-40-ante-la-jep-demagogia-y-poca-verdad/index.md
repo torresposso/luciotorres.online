@@ -5,10 +5,10 @@ pubDate: "2023-01-27 19:47:28"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/jorge-40-ante-la-jep-demagogia-y-poca-verdad/"./hero.jpg"
 ---
 
-![Jorge 40 ante la JEP](./hero.jpg)
+![Jorge 40 ante la JEP](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/jorge-40-ante-la-jep-demagogia-y-poca-verdad/hero.jpg)
 
 El primer día (26 de enero) de audiencia del temido «Jorge 40» ante la JEP fue una sesión frustrante, ondulante y divagante. Un discurso difuso, discriminatorio, condenatorio. Mucho discurso y poca verdad. Más justificación que confesión. Esto se resume en este parafraseo del primer día de la audiencia de **Rodrigo Tovar Pupo**, alias «Papa» o «Jorge 40»:
 

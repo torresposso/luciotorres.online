@@ -5,10 +5,10 @@ pubDate: "2022-02-25 14:33:26"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/hoy-se-resuelve-presunta-inhabilidad-de-happy-becerra/"./hero.jpg"
 ---
 
-![Happy Becerra](./hero.jpg)
+![Happy Becerra](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/hoy-se-resuelve-presunta-inhabilidad-de-happy-becerra/hero.jpg)
 *Happy Becerra en Hatillo de Loba.*
 
 Hoy es un día crucial para diferentes campañas electorales, especialmente para el candidato a la cámara de representantes por el partido liberal de Bolívar, [Ignacio «Happy» Becerra](https://www.facebook.com/happy.becerra). El Consejo Nacional Electoral (CNE), en audiencia de fallo, resolverá la petición de inhabilidad por el hecho de que su presunta compañera permanente, **Vivian Karina Bayuelo Vergara**,  es la contralora Provincial de Cartagena y, además, su hermana **Nadia Milena Becerra Baños**, es la subgerente de Infraestructura del Iderbol. 
@@ -27,7 +27,7 @@ En poder de [**VoxPopuli Digital**](https://www.facebook.com/voxpopuli.digital) 
 
 > «El supervisor del contrato resultante designado por el Gerente General será el subgerente de Infraestructura y Planeación o quien haga sus veces.»
 
-![Esta foto fue publicada por Facebook el 21 de julio de 2021 cuando Happy Becerra y Vivian Bayuelo se graduaron de abogados en la Universidad Libre](./happy-becerra-grado2.jpg)
+![Esta foto fue publicada por Facebook el 21 de julio de 2021 cuando Happy Becerra y Vivian Bayuelo se graduaron de abogados en la Universidad Libre](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/hoy-se-resuelve-presunta-inhabilidad-de-happy-becerra/happy-becerra-grado2.jpg)
 *Esta foto fue publicada por Facebook el 21 de julio de 2021. Happy Becerra y Vivian Bayuelo se graduaron de abogados en la Universidad Libre en 2019.*
 
 Quisimos contactar a «Happy» Becerra, pero no fue posible. Una fuente allegada a él manifestó que esperan resolver la situación ante el CNE y salir victorioso de esa situación.

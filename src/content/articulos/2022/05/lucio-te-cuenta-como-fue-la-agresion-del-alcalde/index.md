@@ -5,7 +5,7 @@ pubDate: "2022-05-27 02:55:24"
 author: "Lucio"
 categories: ["Análisis","Opinión","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/lucio-te-cuenta-como-fue-la-agresion-del-alcalde/"./hero.jpg"
 ---
 
 Fue una triple agresión de alcalde en la sede del comando de la Policía Metropolitana de Cartagena —MECAR. Primero contra la presidenta del concejo, **Gloria Estrada**, y el contralor distrital de Cartagena, **Rafael Castillo Fortich**. Luego cuando se estrelló contra el muro de la contrapregunta de **Lucio Torres**, se calló y lo único que pudo atinar es ordenarle a la misma policía que me sacaran. Aunque su guardaespalda empujó al periodista, como forma de intimidación, la policía no me sacó del recinto. 
@@ -28,7 +28,7 @@ La triple agresión del alcalde
 
 ## La agresión del alcalde
 
-![Luego del triple ataque, el alcalde Dau se integró a la rueda de prensa con el Ministro de la Defensa, Diego Molano y el comandante de la Policía Metropolitana de Cartagena-MECAR, B.G. Nicolás Zapata.](./hero.jpg)
+![Luego del triple ataque, el alcalde Dau se integró a la rueda de prensa con el Ministro de la Defensa, Diego Molano y el comandante de la Policía Metropolitana de Cartagena-MECAR, B.G. Nicolás Zapata.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/lucio-te-cuenta-como-fue-la-agresion-del-alcalde/hero.jpg)
 *Luego del triple ataque, el alcalde Dau se integró a la rueda de prensa con el Ministro de la Defensa, Diego Molano y el comandante de la Policía Metropolitana de Cartagena-MECAR, B.G. Nicolás Zapata.*
 
 Luego de amenazar directamente a la presidenta del concejo, **Gloria Estrada, y al contralor distrital de Cartagena, Rafael Castillo**, William Dau se estrelló contra su propia amenaza al no responder la contrapregunta de Lucio Torres. De hecho, el periodista puso de manifiesto que era una amenaza directa para impedir control fiscal y control político que deben desarrollar la contraloría y el concejo distritales.

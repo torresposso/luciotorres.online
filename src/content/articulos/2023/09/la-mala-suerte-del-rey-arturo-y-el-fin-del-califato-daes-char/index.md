@@ -5,10 +5,10 @@ pubDate: "2023-09-10 00:48:31"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/la-mala-suerte-del-rey-arturo-y-el-fin-del-califato-daes-char/"./hero.jpg"
 ---
 
-![La mala suerte del «rey» Arturo y el fin del Califato  Daes—Char ](./hero.jpg)
+![La mala suerte del «rey» Arturo y el fin del Califato  Daes—Char ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/la-mala-suerte-del-rey-arturo-y-el-fin-del-califato-daes-char/hero.jpg)
 *La mala suerte del «rey» Arturo y el fin del Califato  Daes—Char . Momento de su reseña. Foto suministrada.*
 
 Vivir en Miami a todo comfort a dormir en los calabozos de la Sijin, es como bajar del cielo al infierno. Ayer fue la primera noche en prisión que marcará para siempre la caída y la mala suerte del «rey**»** **Arturo Char Chaljub**, expresidente del senado de la República. Pero también, el principio del fin del _Califato Daes—Char._ Recordemos, nos encontramos en una coyuntura electoral marcada por un hecho inédito: se desarrolla bajo un gobierno de izquierda que había sido siempre de oposición. La **Corte Suprema de Justicia** (CSJ) determinó que Char será recluido en la sala de los _parapolíticos_ de **La Picota**, una vez fue notificada por las autoridades migratorias de Colombia de su detención.
@@ -19,7 +19,7 @@ Te puede interesar: [Caída de «Casa Blanca» ¿fin del califato Daes—Char? (
 
 ## Ojo al defensor del «rey**»** **Arturo**
 
-![](./Jose-Luis-Barcelo.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/la-mala-suerte-del-rey-arturo-y-el-fin-del-califato-daes-char/Jose-Luis-Barcelo.jpeg)
 *José Luis Barceló Camacho, exmagistrado de la Corte Suprema de Justicia, el defensor del «rey» Arturo Char Chaljub*
 
 No obstante, la seguridad con que el patriarca le dio la orden a su hijo para que regresara al país y enfrentara a la CSJ no se debe a que están seguros de su inocencia. ¡No! Por el contrario, no tienen las pruebas ni los argumentos. Pero confían en el blindaje que le proporcionará un exmiembro de ese tribunal de cierre.
@@ -38,7 +38,7 @@ Te puede interesar este artículo: [Expediente No 114: La fortuna de los Char pr
 
 ## No son alianzas, es concierto para delinquir
 
-![](./Fuad_char.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/la-mala-suerte-del-rey-arturo-y-el-fin-del-califato-daes-char/Fuad_char.jpg)
 *Fuad Ricardo Char, el ejemplo de sus hijos, especialmente del «rey» Arturo y de Alex.*
 
 La otra reunión, que fue resultado de la primera organizada por **Germán Vargas y Fuad Char** en la casa de éste, la realizaron en _octubre de 2017_. La misma Corte se refirió a esa reunión en la sentencia de septiembre de 2019. Allí participó el «rey**»** **Arturo**.

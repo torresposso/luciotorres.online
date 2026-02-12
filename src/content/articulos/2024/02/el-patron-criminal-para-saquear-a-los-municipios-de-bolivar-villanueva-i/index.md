@@ -5,10 +5,10 @@ pubDate: "2024-02-27 12:20:46"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-patron-criminal-para-saquear-a-los-municipios-de-bolivar-villanueva-i/"./hero.jpg"
 ---
 
-![El patrón criminal de los alcaldes de Villanueva (Bolívar), el saliente (Edwin Puerta Orozco, izq.) y el entrante, el famoso «Ipe» que regresa por la olla.](./hero.jpg)
+![El patrón criminal de los alcaldes de Villanueva (Bolívar), el saliente (Edwin Puerta Orozco, izq.) y el entrante, el famoso «Ipe» que regresa por la olla.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-patron-criminal-para-saquear-a-los-municipios-de-bolivar-villanueva-i/hero.jpg)
 *El patrón criminal de los alcaldes de Villanueva (Bolívar), el saliente (Edwin Puerta Orozco, izq.) y el entrante, el famoso «Ipe» que regresa por la olla.*
 
 Construir el **patrón criminal** de cómo la mayoría de alcaldes municipales se convierten en **pieza clave para saquear y empobrecer a los municipios** de Bolívar y del Caribe colombiano, es el reto de **VoxPopuli Digital** y de **VoxPopuli Fundación** en el 2024 en esta investigación. Los planes de desarrollo no deben (no deben) enriquecer a unos pocos sino irrigar de **bienestar social** a la región y al país. Hoy, iniciamos con **Villanueva (Bolívar)**, donde sus alcaldes ―el saliente y el entrante― pretenden quedarse, por ejemplo, con los **dineros destinados al acueducto y alcantarillado**.
@@ -53,7 +53,7 @@ Vale recordar que **la Fiscalía 40 Seccional** detuvo en el año 2014 a **Guzm�
 
 ## **«Ipe»** regresa por la olla
 
-![Aquí observamos a «Ipe» (centro) compartiendo con otros mandatarios en la Cumbre de Alcaldes de Bolívar realizada en Mompox el 31 de enero de 2024. Elpatrón criminal.](./alcalde_villanueva_y_zambrano-1024x494.jpg)
+![Aquí observamos a «Ipe» (centro) compartiendo con otros mandatarios en la Cumbre de Alcaldes de Bolívar realizada en Mompox el 31 de enero de 2024. Elpatrón criminal.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-patron-criminal-para-saquear-a-los-municipios-de-bolivar-villanueva-i/alcalde_villanueva_y_zambrano-1024x494.jpg)
 *Aquí observamos a «Ipe» (centro) compartiendo con otros mandatarios en la Cumbre de Alcaldes de Bolívar realizada en Mompox el 31 de enero de 2024.*
 
 El patrón criminal, del cual estamos descubriendo, presuntamente se usó en la primera administración de **«Ipe»**, del partido Cambio Radical. Fue elegido en ese cargo en las elecciones atípicas de 2018. Ahora regresa por la olla que raspó Edwin Puerta. En su primera administración no alcanzó a cumplir su objetivo: enriquecerse.

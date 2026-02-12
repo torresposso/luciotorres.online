@@ -5,10 +5,10 @@ pubDate: "2018-12-04 14:20:09"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/quien-llorara-al-viejo-nico-el-ultimo-cacique/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/quien-llorara-al-viejo-nico-el-ultimo-cacique/hero.jpg)
 *Nicolás Curi y su compañera Esmeralda Prada, recibiendo a los hijos del presidente de los Estados Unidos, Ivanka y Donald Trump Jr.*
 
 La primera vez que traté a **Nicolás Curi Vergara**, el último cacique, fue en una accidentada entrevista que nos concedió en vivo y en directo. Eran los tiempos cuando teníamos el informativo radial **Vox Populi** en Radio Vigía. _**El viejo Nico**_—así lo conocían sus amigos— se había destapado como candidato a la alcaldía de La Heroica (2005) que finalmente ganó en esas elecciones atípicas. Era su tercera alcaldía.
@@ -29,7 +29,7 @@ Estamos en una sociedad de hipócritas. Y para saberlo, basta ir a los funerales
 
 ## Fenómeno político
 
-![](./Los-trump-y-nicolas-2-1.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/quien-llorara-al-viejo-nico-el-ultimo-cacique/Los-trump-y-nicolas-2-1.jpg)
 *Así cubrió El universal la llegada de los Trump a Cartagena*
 
 Curi fue un fenómeno político desde que comenzó sus lides electorales. Controvertido. Quizás despiadado con sus rivales. Carismático. Algunos decían que era perverso. Que se hacía el enfermo grave para no cumplirle la promesa electoral a alguien. Que se quedó con muchas tierras valiéndose de su influencia. Pero **Nicolás Curi Vergara murió en la escasez**. Los tiempos de abundancia se habían acabado.

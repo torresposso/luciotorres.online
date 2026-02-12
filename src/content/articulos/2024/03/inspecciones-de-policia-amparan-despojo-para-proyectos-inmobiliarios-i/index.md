@@ -5,10 +5,10 @@ pubDate: "2024-03-28 22:43:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 tags: ["Dumek Turbay"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/"./hero.jpg"
 ---
 
-![Inspecciones de policía amparan despojo para proyectos inmobiliarios. En el centro, el directivo de Camacol, Luis Cubas Montes, empresario constructor que pretende se la ingenió para pretender a la Ingeniosa.](./hero.jpg)
+![Inspecciones de policía amparan despojo para proyectos inmobiliarios. En el centro, el directivo de Camacol, Luis Cubas Montes, empresario constructor que pretende se la ingenió para pretender a la Ingeniosa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/hero.jpg)
 *Inspecciones de policía amparan despojo para proyectos inmobiliarios. En el centro, el directivo de Camacol, Luis Cubas Montes, (resaltado) empresario constructor que se la ingenió para pretender a La Ingeniosa.*
 
 Así como están abandonadas física y administrativamente las inspecciones de policía de Cartagena de Indias, no contribuyen a la seguridad de la propiedad sino que **amparan el despojo a los campesinos**. Por ejemplo, ante la **Inspección Rural de Policía de Pontezuela**, al norte de Cartagena de Indias, jurisdicción de la Localidad Dos, asistimos a la expedición de un **amparo policivo con una presunta motivación falsa**. Solo busca legalizar el despojo a los campesinos para entregarle la propiedad a oportunistas del negocio inmobiliario y turístico de Cartagena aliados con inversores foráneos.
@@ -17,7 +17,7 @@ En ese caso, hablamos de la **finca La Ingeniosa** con matrícula inmobiliaria *
 
 ## Los herederos de La Ingeniosa
 
-![Inspecciones de policía amparan el despojo. Caso Pontezuela](./La-ingeniosa_losarrayanes.png)
+![Inspecciones de policía amparan el despojo. Caso Pontezuela](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/La-ingeniosa_losarrayanes.png)
 *Inspecciones de policía amparan el despojo. Caso Pontezuela. /Suministrada a VoxPopuli Digital.*
 
 De hecho, en **VoxPopuli Digital**, los campesinos herederos del finado **Nicasio Rodríguez**, denunciaron que el amparo policivo lo concedieron arbitrariamente. No tuvo en cuenta los documentos legales exhibidos y presentados por los herederos del predio. Pero también, es llamativo que, pese a los esfuerzos, su patrimonio hoy corre riesgo por un amparo policivo dictado por el inspector **Martín Arce Gutiérrez**. Los predios de La Ingeniosa están ubicados al lado del **Gimnasio Altair**,
@@ -26,12 +26,12 @@ Vale recordar que **Arce Gutiérrez** lo desvincularon en el 2013 cuando siendo 
 
 ## ¡Última hora!
 
-![Ana María Ortega, líder campesina de Pontezuela, por defender su propiedad, policía la tiene, la maltrata y la esposa junto a otro campesino adulto mayor. Cuatro detenidos en el proyecto Los Arrayanes, al lado del Gimnasio Altair de Pontezuela.](./Detienen-a-lideresa-1024x973.jpg)
+![Ana María Ortega, líder campesina de Pontezuela, por defender su propiedad, policía la tiene, la maltrata y la esposa junto a otro campesino adulto mayor. Cuatro detenidos en el proyecto Los Arrayanes, al lado del Gimnasio Altair de Pontezuela.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/Detienen-a-lideresa-1024x973.jpg)
 *Ana María Ortega, líder campesina de Pontezuela, por defender su propiedad, policía la tiene, la maltrata y la esposa junto a otro campesino adulto mayor. Cuatro detenidos en el proyecto Los Arrayanes, al lado del Gimnasio Altair de Pontezuela.*
 
 En el día de hoy, Jueves Santos, se presentó nuevamente un piquete de policía en la finca La Ingeniosa y se llevaron retenidos a cuatro miembros de la familia Rodríguez, entre ellos, **María Cristina Ortega**, una de sus voceras de los reclamantes. Denunciaron que fue una detención arbitraria. Además les decomisaron los celulares que estaban usando para grabar la escena de desalojo.
 
-![](./Maria-Cristina_Ortega.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/Maria-Cristina_Ortega.jpg)
 *Una de las líderes de la familia Rodríguez, María Cristina Ortega, fue retenida por un piquete de policía cuando defendía su propiedad. Cortesía.*
 
 Ante esa situación le dieron poder al bufete del abogado **Héctor Pérez Fernández** para que asuma la defensa de su propiedad que está siendo objeto de despojo. Mientras esto se escribe, un piquete de policía busca desalojar del predio referenciado.
@@ -40,7 +40,7 @@ Ante esa situación le dieron poder al bufete del abogado **Héctor Pérez Fern�
 
 ## Las dos querellas
 
-![Las dos querellas. La de los campesinos y la de los constructores. Amparan el despojo.](./Querella_rodriguez.jpeg)![La querella de los compradores de posesión](./Querella_Espana_moratho.jpeg)
+![Las dos querellas. La de los campesinos y la de los constructores. Amparan el despojo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/Querella_rodriguez.jpeg)![La querella de los compradores de posesión](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/Querella_Espana_moratho.jpeg)
 
 Al despacho de **Martín Alonso Arce Gutiérrez**, inspector de Policía Rural de Pontezuela, al norte de Cartagena, llegaron dos querellas pidiendo amparo policivo para un mismo predio ubicado al lado del **Colegio Altair**. La primera, la presentaron el **28 de septiembre de 2023** por los herederos del finado **Estefanor Rodríguez** **Manrique**, hijo de **Nicasio Rodríguez**, dueño legítimo, según escritura **No 2966 del 11 de octubre de 1988**. La segunda, el 24 de noviembre de 2023 por **José Faustino España Moratho y Álvaro Luis Cubas Montes**. Estos, supuestamente, le compraron el derecho de posesión a **Ruperto Zurita Berrío**. Lo curioso, el inspector en vez de atender la petición de los herederos que presentaron documentos del buen derecho, prefirió tramitar la de los supuestos poseedores que presentaron pruebas fabricadas por peritos.
 
@@ -54,7 +54,7 @@ La clave del informe pericial es demostrar que los supuestos poseedores tienen m
 
 ## Vendieron 7 hectáreas
 
-![La ingeniosa o Los Arrayanes](./los-arrayanes.jpg)
+![La ingeniosa o Los Arrayanes](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/los-arrayanes.jpg)
 *La ingeniosa o Los Arrayanes, al lado del Gimnasio Altair. España Moratho y Cubas tienen un proyecto de negocios.*
 
 Los Rodriguez, legítimos herederos, manifiestan que efectivamente en 1988, su abuelo **Estefanor Rodríguez** **Manrique** le vendió a Zurita 7 hectáreas del globo de terreno más grande que ellos poseen. En esa época existía una medida cautelar. Por esta razón vendieron esa cantidad para salvar el resto del área que no vendieron. Al parecer, el ingeniero **José Faustino España Moratho y Álvaro Luis Cubas Montes**, compraron la posesión a Zurita. Ahora ellos reclaman que son poseedores legítimos sin títulos, no solo de de las 7 hectáreas sino de todo el predio de La Ingeniosa que llega a 43 hectáreas.
@@ -65,7 +65,7 @@ Esas denuncias están soportadas con títulos legítimos que arrimaron en la que
 
 ## ¿Las inspecciones amparan el despojo?
 
-![El Plan Titán debe llevarse a las inspecciones de Policía, pide la  ciudadanía.. Amparan el desalojo](./plan_titan.jpg)
+![El Plan Titán debe llevarse a las inspecciones de Policía, pide la  ciudadanía.. Amparan el desalojo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/plan_titan.jpg)
 *El Plan Titán debe llevarse a las inspecciones de Policía que amparan el despojo, pide la ciudadanía.*
 
 Las inspecciones de policía son muy importantes para impartir justicia en la clarificación de las propiedades rurales. Hasta ahora muchas de estas inspecciones amparan el despojo, especialmente de los más débiles. Como quiera que la falta de claridad de la propiedad es uno de los problemas esenciales del campo, transparentizar el ejercicio de esta función, es clave para **mejorar la convivencia, la paz y el desarrollo**. Es una tarea directa del alcalde de Cartagena de Indias, **Dumek Turbay Paz** asumir el compromiso ante la sociedad para que erradique cualquier tipo conducta desviada de los inspectores en estos conflictos de tierra.

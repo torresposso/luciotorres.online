@@ -5,10 +5,10 @@ pubDate: "2023-11-22 02:45:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/petro-busca-acuerdo-nacional-con-empresarios/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/petro-busca-acuerdo-nacional-con-empresarios/hero.jpg)
 
 El presidente Gustavo Petro busca de cualquier manera un Acuerdo Nacional con los grandes empresarios del país. Pero, hasta ahora, soslaya a los pequeños y microempresarios que son los sectores que más plaza de trabajo producen dentro de la **economía popular**, como la llama su plan de desarrollo nacional.
 
@@ -28,6 +28,6 @@ De hecho, el discurso del primer mandatario giró sobre tres ejes: **La educaci�
 > 
 > Estos son los puntos que se empezarán a desarrollar en mesas de trabajo y al cual invitamos que muchos colombianos y colombianas puedan acceder a través de sus propuestas.
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/petro-busca-acuerdo-nacional-con-empresarios/hero.jpg)
 
 /articulos/infopresidencia/status/1727145205395308843?s=20

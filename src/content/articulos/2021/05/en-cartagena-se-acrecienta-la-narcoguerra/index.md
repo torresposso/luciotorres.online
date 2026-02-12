@@ -5,10 +5,10 @@ pubDate: "2021-05-27 18:43:10"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-cartagena-se-acrecienta-la-narcoguerra/"./hero.jpg"
 ---
 
-![](./Alias-el-gordo.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-cartagena-se-acrecienta-la-narcoguerra/Alias-el-gordo.jpeg)
 *La narcoguerra. Este era «Gordo» o «JJ» cuando fue capturado por la Policía de Barranquilla.*
 
 En Cartagena se acrecienta la **narcoguerra**. **La muerte por sicarios del «Gordo» o «JJ» en la zona de la Bomba de El Amparo de Cartagena no es un hecho aislado.** Es uno de los episodios de la guerra de los narcos de la Costa Caribe contra los del Clan del Golfo.
@@ -25,7 +25,7 @@ La muerte del Gordo es consecuencia del asesinato de otro narco del **Clan del G
 
 ## Capturan a los sicarios
 
-![](./SICARIOS.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-cartagena-se-acrecienta-la-narcoguerra/SICARIOS.jpeg)
 *Los sicarios, según la MECAR, habían ofrecido $25 millones para que no los capturaran. La Narcoguerra. Cortesía Mecar.*
 
 Por su parte, la Policía Metropolitana de Cartagena —MECAR— sobre la captura de los sicarios, manifestó:

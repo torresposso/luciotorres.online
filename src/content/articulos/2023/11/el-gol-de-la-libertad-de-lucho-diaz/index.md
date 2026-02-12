@@ -5,10 +5,10 @@ pubDate: "2023-11-06 04:10:50"
 author: "Lucio"
 categories: ["Análisis","Deportes"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-gol-de-la-libertad-de-lucho-diaz/"./hero.jpg"
 ---
 
-![Después de anotar el gol de la libertad, la mirada de Lucho Díaz no es de alegría. Liverpool empató con Luton. «¡Libertad para papá!»](./hero.jpg)
+![Después de anotar el gol de la libertad, la mirada de Lucho Díaz no es de alegría. Liverpool empató con Luton. «¡Libertad para papá!»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-gol-de-la-libertad-de-lucho-diaz/hero.jpg)
 *Después de anotar el gol de la libertad, la mirada de Lucho Díaz no es de alegría. Liverpool empató con Luton. «¡Libertad para papá!». (Cortesía X de Luis Díaz).*
 
 El gol de la libertad se forjó en tiempo extendido. **Minuto 82:42**. Luton 1 Liverpool 0. El técnico **Jürgen Klopp** ordenó el ingreso de **«Lucho**»** Díaz** como una forma de solidarizarse por el drama que vive su jugador con el secuestro de su padre **«Mane**»**** Díaz. **Minuto 94:35**. El tiempo extendido se agota. Su compañero **Konaté** gana un rebote en el área de Luton y se la pasa a **Elliott**. Este paró el balón, levantó la cara y luego lo cruzó a la izquierda cuando vio que el ariete colombiano se adentraba en la zona de candela. A este solo le bastó dar un salto y lamer la pelota con su frente para cambiarle su trayectoria directa al ángulo derecho de la red defendida por el cancerbero **Kaminski**.: ¡Gol de la libertad! ¡**«Lucho**, la gente te quiere****»****! Gritó el narrador emocionado.
@@ -33,7 +33,7 @@ Te puede interesar: [Suicidio político del Eln y secuestro de Díaz (II)](/arti
 
 ## Un solo ser humano
 
-![¿El ELN liberará a padre de Luis Diaz? El gol de la libertad.](./Luis-Diaz_padre.jpg)
+![¿El ELN liberará a padre de Luis Diaz? El gol de la libertad.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-gol-de-la-libertad-de-lucho-diaz/Luis-Diaz_padre.jpg)
 *¿El ELN liberará a padre de Luis Diaz?*
 
 Si un líder político, un dirigente guerrillero o un gobernante, de izquierda o de derecha, no es capaz de darlo todo por un solo ser humano, es un síntoma inequívoco de que estamos frente a un ser despojado de su condición humana. ¿Ese ser puede conducir una organización que busca el progreso humano? Es más: ¿Puede dirigir toda una nación sin esa humana condición?
@@ -50,7 +50,7 @@ De hecho, **«Mane**»**** Díaz no es el típico caso del padre que abandona a 
 
 ## Secuestrar para financiar
 
-![Pablo Beltrán fue uno de los primeros en iniciar el diálogo de paz con el gobierno de Gustavo Petro. El gol de la libertad.](./Gustavo-petro-pablobeltran-portada.jpg)
+![Pablo Beltrán fue uno de los primeros en iniciar el diálogo de paz con el gobierno de Gustavo Petro. El gol de la libertad.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-gol-de-la-libertad-de-lucho-diaz/Gustavo-petro-pablobeltran-portada.jpg)
 *Pablo Beltrán fue uno de los primeros en iniciar el diálogo de paz con el gobierno de Gustavo Petro.*
 
 En agosto de 2023, ya lo había dicho uno de los comandantes del ELN, **Pablo Beltrán** (Israel Ramírez Pineda), al periodista **Yamit Amat**:
@@ -67,7 +67,7 @@ Te puede interesar: [EL Coce del Eln ordenó liberación del padre de Luis Díaz
 
 ## La vida de un ser humano
 
-![Che Guevara](./che.jpg)
+![Che Guevara](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-gol-de-la-libertad-de-lucho-diaz/che.jpg)
 
 Ernesto Guevara de la Serna (Ché Guevara), dijo en su texto _El socialismo y el hombre nuevo_:
 

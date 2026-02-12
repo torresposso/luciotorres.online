@@ -5,10 +5,10 @@ pubDate: "2021-11-06 03:46:40"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/exgobernador-usurpa-propiedad-publica-en-arroyo-de-piedra/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/exgobernador-usurpa-propiedad-publica-en-arroyo-de-piedra/hero.jpg)
 *Carlos Mendivil Ciodaro y Evelia Ayazo deben devolver esos predios de El Rinconcito. Lo usufructúan desde 1993. Cortesía ElUniversal.*
 
 El exgobernador de Bolívar (2 de enero de 1992—2 de enero de 1995) y destacado abogado y escritor de temas jurídicos, oriundo de Mompox, **Carlos Mendivil Ciodaro**, se viene apropiando de mala fe, desde la época en que era gobernante, de la vía antigua que comunica a Arroyo de Piedra con Pontezuela, al norte de Cartagena Vía al Mar. No conforme con eso, le impide el paso a todos los propietarios de predios que se encuentran detrás de El Rinconcito, la propiedad de los Ciodaro Ayazo.

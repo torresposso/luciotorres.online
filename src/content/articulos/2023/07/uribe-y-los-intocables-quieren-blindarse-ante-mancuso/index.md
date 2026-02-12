@@ -5,10 +5,10 @@ pubDate: "2023-07-26 01:54:15"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/uribe-y-los-intocables-quieren-blindarse-ante-mancuso/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/uribe-y-los-intocables-quieren-blindarse-ante-mancuso/hero.jpg)
 *El expresidente Álvaro Uribe Vélez y su primer ministro del Interior deberán ser investigados por desmontar el esquema de seguridad de Eudaldo Díaz, alcalde de El Roble asesinado por paramilitares en abril de 2003.*
 
 Justicia Especial de Paz (JEP) deberá compulsar copia a la Corte Suprema de Justicia (CSJ) para que **el expresidente Álvaro Uribe Vélez** y su ministro del Interior,Fernando londoño, sean investigados por concierto para delinquir y homicidio agravado por el secuestro y muerte del alcalde de El Roble **Eudaldo León (_Tito)_ _Díaz_ Salgado**. En tanto que, en una reacción tardía, el exmandatario presentó hoy denuncia penal por injuria y calumnia agravada contra el excomandante de las Autodefensas Unidas de Colombia (AUC), **Salvatore Mancuso Gómez**.

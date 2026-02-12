@@ -5,10 +5,10 @@ pubDate: "2024-05-04 15:26:14"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/la-camara-corregira-reforma-pensional-chueca-ii/"./hero.jpg"
 ---
 
-![¿La cámara corregirá reforma pensional?](./gloria-ines.jpeg)
+![¿La cámara corregirá reforma pensional?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/la-camara-corregira-reforma-pensional-chueca-ii/gloria-ines.jpeg)
 *La ministra del Trabajo, Gloria Ramírez con el representante de la CIDH, Javier Palummo Lantes. ¿La cámara corregirá reforma pensional?*
 
 Partimos de este interrogante: ¿La cámara corregirá reforma pensional chueca? La ministra del Trabajo, **Gloria Inés Ramírez**, lidera un equipo de gobierno con el fin de que la **reforma pensional** supere los dos debates de la cámara de representantes que le faltan antes del 20 de junio, fecha límite para que sea aprobada. Sin embargo, con el misil lanzado por las acusaciones del subdirector de la UNGRD, **Sneyder Pinilla**, pone entredicho la legitimidad de la iniciativa por presunta corrupción de trámite.

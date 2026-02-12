@@ -5,10 +5,10 @@ pubDate: "2021-05-12 23:26:26"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-alianza-maquiavelica-privatizaran-las-vias-del-centro-historico-como-parqueaderos/"./hero.jpg"
 ---
 
-\[caption id="attachment\_14986" align="aligncenter" width="1280"\]![](./Directiva-del-concejo.jpeg) William Dau, **en alianza con el concejo**, privatizarán las vías del centro histórico. Aquí los directivos del concejo.\[/caption\]
+\[caption id="attachment\_14986" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-alianza-maquiavelica-privatizaran-las-vias-del-centro-historico-como-parqueaderos/Directiva-del-concejo.jpeg) William Dau, **en alianza con el concejo**, privatizarán las vías del centro histórico. Aquí los directivos del concejo.\[/caption\]
 
 En una alianza, considerada por algunos como maquiavélica, el alcalde y su concejo privatizarán las vías públicas de Cartagena de India. **William Dau Chamat y su coalición mayoritaria aprobaron el proyecto de acuerdo No 66**. Esta iniciativa prácticamente permitirá el usufructo privado de las principales vías del Centro Histórico y de todo el casco urbano.
 
@@ -26,7 +26,7 @@ Aunque los considerandos del acuerdo hablan del POT y del PDD, no específica el
 
 ## ¿Privatizarán las vías ilegalmente?
 
-\[caption id="attachment\_14987" align="aligncenter" width="1280"\]![](./hero.jpg) El otrora opositor y anti neoliberal, **ahora es el "Sancho Panza" de las locuras del alcalde Dau,** **David Múnera Cavadía**, líder del MOIR, hoy Dignidad. Aquí dándole la bendición al concejo. \[/caption\]
+\[caption id="attachment\_14987" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-alianza-maquiavelica-privatizaran-las-vias-del-centro-historico-como-parqueaderos/hero.jpg) El otrora opositor y anti neoliberal, **ahora es el "Sancho Panza" de las locuras del alcalde Dau,** **David Múnera Cavadía**, líder del MOIR, hoy Dignidad. Aquí dándole la bendición al concejo. \[/caption\]
 
 **En realidad, aquí lo que asistimos es a un proceso de privatización de las vías, tipo concesión pagadas vía peajes.** Le dieron facultades al alcalde para entregar las vías a un concesionario. Este invertirá algunos recursos y tendrá una tasa de retorno vía tarifas, las cuales cobrarán a propietarios de vehículos que usen las Zonas de Estacionamiento Regulado (ZER). 
 

@@ -5,10 +5,10 @@ pubDate: "2021-07-29 17:56:35"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/desalojo-irregular-de-campesinos-en-la-europa/"./hero.jpg"
 ---
 
-![](./europa1.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/desalojo-irregular-de-campesinos-en-la-europa/europa1.jpeg)
 *Un desalojo irregular.Desde las 5 de la mañana del 27 de julio de 2021, el ESMAD se presentó en los predios de la finca La Europa. Uno de los campesinos tomó esta fotografía.En el fondo se ve un piquete de policía motorizada. Cortesía*
 
 Curioso, por decir lo menos, la conducta de la Policía MECAR en un desalojo irregular de familias campesinas de la finca La Europa (corregimiento de Pasacaballos-Cartagena de Indias) ejecutado el pasado martes 27 de julio a las 5 de la mañana. ¿Por qué j**urídicamente fue un desalojo irregular?** Primero llegó un sujeto del interior del país con la policía a ejecutar la acción policiva el 17 de julio. Pero se dieron cuenta de que habían pasado más de **48 horas** desde que se produjo la ocupación del predio. 
@@ -39,14 +39,14 @@ Para constatar la hipótesis aquí planteada del despojo y del proceso de gentri
 
 ## Un desalojo irregular y en secreto
 
-![](./Europa-rancho.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/desalojo-irregular-de-campesinos-en-la-europa/Europa-rancho.jpeg)
 *Un campesino adulto mayor mira como el humo sale de la hornilla donde una hora antes había preparado el café de la mañana. Pero el tinto se le amargó con la llegada de la policía nacional. En el fondo se ve el ESMAD vestido de robocot luego de haber "cumplido con la ley". Cortesía.*
 
 Todo hace indicar que fue un desalojo irregular, pero también secreto. ¿Por qué? La Policía Nacional no le avisó a la Defensoría del Pueblo ni a la prensa. Tampoco conminaron a los campesinos a desalojar voluntariamente los predios y darle la oportunidad de oponerse legalmente. 
 
 El comandante de la MECAR, **BG Luis Carlos Hernández Aldana**, no entregó ninguna información en el boletín dirigido a los medios de comunicación de la ciudad. Hubo silencio total antes, durante y después del desalojo. Como prueba de este hecho, en el boletín entregado a Vox Populi Digital del 27 de julio se refiere a la siguiente noticia: 
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/desalojo-irregular-de-campesinos-en-la-europa/hero.jpg)
 *B.G. Luis Carlos Hernández Aldana, comandante de la MECAR deberá responder por esta presunto desalojo irregular.*
 
 > _“La Policía Metropolitana de Cartagena recupera equipo móvil a turista de nacionalidad española”_.

@@ -5,10 +5,10 @@ pubDate: "2023-09-16 00:41:07"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/cne-revocaria-inscripcion-de-alex-char-por-inhabilidad/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/cne-revocaria-inscripcion-de-alex-char-por-inhabilidad/hero.jpg)
 *Alex Char recibió la visa, pero se puede quedar sin inscripción. ¿CNE revocaría inscripción de Alex Char por inhabilidad sobreviniente?*
 
 ¿CNE revocaría inscripción de Alex Char? Es la principal pregunta que el **Consejo Nacional Electoral** deberá responder ante una solicitud de revocatoria directa de su inscripción producto de este informe periodístico de investigación. Estos hechos acentúan la inseguridad de una candidatura que se debilita cada día más. Son docenas de denuncias e investigaciones penales, disciplinarias y fiscales atrancadas por los organismos de justicia. Pero, con el proceso contra su hermano **Arturo Char**, su situación jurídica se debilita más que devendrá, inexorablemente, en su caída.
@@ -29,7 +29,7 @@ Te puede interesar el artículo (2011): [Alex Char, el alcalde contratista.](/ar
 
 ## El hecho inhabilitante
 
-![¿CNE revocaría inscripción de Alex Char por inhabilidad? Tabla accionario hasta diciembre 2022. Alex Char tiene más de 41 millones de acciones. (Tomado de Serfinanza, 2023).](./serfinanza_2022_actualizado.jpg)
+![¿CNE revocaría inscripción de Alex Char por inhabilidad? Tabla accionario hasta diciembre 2022. Alex Char tiene más de 41 millones de acciones. (Tomado de Serfinanza, 2023).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/cne-revocaria-inscripcion-de-alex-char-por-inhabilidad/serfinanza_2022_actualizado.jpg)
 *¿CNE revocaría inscripción de Alex Char por inhabilidad? Tabla accionario hasta diciembre 2022. Alex Char tiene más de 41 millones de acciones. (Tomado de Serfinanza, 2023).*
 
 El banco **Serfinanza** administra, de facto, el Fondo Metropolitano de Estabiliazación Tarifaria de Transmetro creado por el mismo Alex Char en 2016. El contrato de fiducia está vigente. En tanto, el Banco Serfinanza es de la familia Char. En particular, Alejandro Char Chaljub es accionista. O sea, tiene un interés privado en ello. Además, firmó el acuerdo metropolitano que dio origen a esos contratos fiduciarios y financieros que se renuevan automáticamente cada año.
@@ -40,7 +40,7 @@ Te puede interesar: [Serfinanza y Valorcon, la Corte cierra el cerco financiero 
 
 ## Los hechos inhabilitantes: ¿CNE revocaría inscripción de Alex Char?
 
-![El acuerdo 005 rige a partir de 1 de octubre. No ha sido derogado por otro. Es decir, está vigente. Esto es una delegación de sus funciones del alcalde metropolitano, Alejandro Char Chaljub, al gerente de la AMB, Jaime Berdugo Pérez.](./acuerdo_fondo_firma_2016.jpg)
+![El acuerdo 005 rige a partir de 1 de octubre. No ha sido derogado por otro. Es decir, está vigente. Esto es una delegación de sus funciones del alcalde metropolitano, Alejandro Char Chaljub, al gerente de la AMB, Jaime Berdugo Pérez.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/cne-revocaria-inscripcion-de-alex-char-por-inhabilidad/acuerdo_fondo_firma_2016.jpg)
 *El acuerdo 005 rige a partir de 1 de octubre. No ha sido derogado por otro. Es decir, está vigente. Esto es una delegación de sus funciones del alcalde metropolitano, Alejandro Char Chaljub, al gerente de la AMB, Jaime Berdugo Pérez.*
 
 En efecto, Alejandro Char Chaljub _—_según información de la Registraduría Nacional del Estado Civil_—_ a las 9:24 de la mañana del 28 de julio de 2023, se inscribió por tercera vez a la Alcaldía de Barranquilla con el aval del partido Cambio Radical.
@@ -55,7 +55,7 @@ Te puede interesar: [Expediente No 114: La fortuna de los Char proviene de su so
 
 ## Serfinanza, el Fondo y la Fiducia
 
-![¿CNE revocaría inscripción de Alex Char por inhabilidad? Este es el artículo 5 del acuerdo metropolitano que autorizó al gerente contratar una Fiduciaría que por supuesto abrió las cuentas en el Banco Serfinanza](./Acuerdo_fiducia.jpg)
+![¿CNE revocaría inscripción de Alex Char por inhabilidad? Este es el artículo 5 del acuerdo metropolitano que autorizó al gerente contratar una Fiduciaría que por supuesto abrió las cuentas en el Banco Serfinanza](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/cne-revocaria-inscripcion-de-alex-char-por-inhabilidad/Acuerdo_fiducia.jpg)
 *¿CNE revocaría inscripción de Alex Char por inhabilidad? Este es el artículo 5 del acuerdo metropolitano firmado por Char y delegó en el gerente del AMB, Luis Berdugo Pérez, contratar una Fiduciaría, que por supuesto abrió las cuentas en el Banco Serfinanza, contratos que siguen vigentes.*
 
 Como se puede observar, con este acuerdo, el alcalde metropolitano de Barranquilla, **Alejandro Char Chaljub** delegó al gerente del AMB, **Jaime Berdugo Pérez**, o quien haga sus veces, seleccionar la **entidad fiduciaria** que administrará los dineros del fondo. Es un hecho incontrovertible que desde el banco Serfinanza se manejan los dineros que el Distrito y la nación le giran a Transmetro. Como se pudo evidenciar, el último giro no llegó a su destino final porque una de las cuentas de la fiducia en Serfinanza está embargada.
@@ -66,7 +66,7 @@ Te puede interesar: [Se derrite el teflón del Califato Daes—Char y la ética 
 
 ## El acuerdo 003 de 2019 renovó la delegación
 
-![Se delega al AMB para que constituya un encargo fiduciario que administre los recursos. Estas cuentas se administran a través de Serfinanza. ¿CNE revocaría inscripción de Alex Char?](./Acuerdo-No_03_encargo_fiduciario.jpg)
+![Se delega al AMB para que constituya un encargo fiduciario que administre los recursos. Estas cuentas se administran a través de Serfinanza. ¿CNE revocaría inscripción de Alex Char?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/cne-revocaria-inscripcion-de-alex-char-por-inhabilidad/Acuerdo-No_03_encargo_fiduciario.jpg)
 *Se delega al AMB para que constituya un encargo fiduciario que administre los recursos. Estas cuentas se administran a través de Serfinanza.*
 
 Es necesario ponerle mucha atención a esto. A la luz de la **ley 80 de 1993**, el delegante no se exime de las responsabilidades del delegatario. En forma coloquial, quiere decir, que siendo Alex Char el alcalde metropolitano de Barranquilla, aunque haya delegado en **Jorge Padilla Sundheim** sus funciones. las sigue manteniendo. Esto es, la expedición del acuerdo **003 de 2019** que sustituye integralmente el acuerdo metropolitano **No 5 de 2016** y que delega en el gerente del AMB sus facultades para crear el encargo fiduciario y éste lo administra Serfinanza, simplemente renueva las facultades del titular en cabeza de Alejandro Char.
@@ -75,7 +75,7 @@ Ese hecho se pudo evidenciar el pasado 11 de septiembre cuando el ministerio de 
 
 Como los asesores jurídicos del alcalde metropolitano, **Alejandro Char Chaljub**, advirtieron un conflicto de intereses al firmar el acuerdo No 05 de 2016, lo sustituyeron con el acuerdo No 003 del 31 de octubre 2019. Este está firmado por uno de los testaferros de Alex Char, Jorge Padilla Sundheim, quien era de la oficina jurídica de su alcaldía 2016-2019 y allí fungía como presidente de la Junta Metropolitana de Barranquilla por delegación del alcalde mayor.
 
-![](./acuerdo_003_fondo_2019.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/cne-revocaria-inscripcion-de-alex-char-por-inhabilidad/acuerdo_003_fondo_2019.jpg)
 *En forma dolosa, Alejandro Char quiso remediar su conducta, al sustituir el acuerdo No 05 de 2016 por el No 03 de 2019. Pero, en esencia, es la misma delegación.*
 
 Para los investigadores de la Corte Suprema de Justicia que procesan a Arturo Char y para el magistrado del CNE que le correspondería estudiar la solicitud de revocatoria directa de la inscripción de Alejandro Char, les debe llamar la atención la actuación de  **Jaime Luis Berdugo Pérez** (gerente) y **Jorge Padilla Sundheim** (presidente delegado), cuando fueron contratados por el congreso en la época que el senador Arturo Char era su presidente.
@@ -84,7 +84,7 @@ Te puede interesar: [Impedimento del magistrado Farfán, la estrategia del «rey
 
 ## El testaferro de Alex
 
-![Jorge Padilla Sundheim, supuesto testaferro de Alex Char, lo reemplazó al firmar el nuevo acuerdo. ¿CNE revocaría inscripción de Alex Char?](./Jorge_padilla_Sundheim.jpg)
+![Jorge Padilla Sundheim, supuesto testaferro de Alex Char, lo reemplazó al firmar el nuevo acuerdo. ¿CNE revocaría inscripción de Alex Char?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/cne-revocaria-inscripcion-de-alex-char-por-inhabilidad/Jorge_padilla_Sundheim.jpg)
 *Jorge Padilla Sundheim, supuesto testaferro de Alex Char, lo reemplazó al firmar el nuevo acuerdo. ¿CNE revocaría inscripción de Alex Char?*
 
 El gerente actual de la entidad, **Libardo García**, frente al fallo de segunda instancia del Tribunal Administrativo del Atlántico, dijo en marzo de 2023, que el "**fallo deja vigente" lo sustantivo** del acuerdo 005 de 2016 firmado por Char. Así está sustentado en la sentencia de primera instancia del Juzgado 12 Administrativo Oral del Circuito de Barranquilla. Al respecto, dijo:

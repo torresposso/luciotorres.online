@@ -5,10 +5,10 @@ pubDate: "2021-11-03 21:42:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/eutanasia-a-martha-el-misterio-de-la-muerte/"./hero.jpg"
 ---
 
-![Eutanasia a Martha](./hero.jpg)
+![Eutanasia a Martha](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/eutanasia-a-martha-el-misterio-de-la-muerte/hero.jpg)
 *La eutanasia a Martha fue aprobada pese a que no está en estado terminal. ¿Para qué esperar ese momento?*
 
 La eutanasia a Martha ya está autorizada aunque no esté en estado terminal. El misterio de la muerte produce más polémica prejuiciosa que explicaciones científicas o teológicas. ¿Cuándo se ha visto que una persona recurra a una acción judicial extraordinaria para reclamar **el derecho a morir dignamente**? En Colombia teóricamente estamos en un Estado Social de Derecho, pero una persona para ejercer su derecho debe utilizar, por ejemplo, la acción de tutela. 
@@ -43,7 +43,7 @@ En el último escrito del 27 de octubre, en su página de Facebook, Martha anunc
 
 ## Hawking y Asprilla
 
-![](./guillermo-asprilla.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/eutanasia-a-martha-el-misterio-de-la-muerte/guillermo-asprilla.jpg)
 *Cuando Guillermo Asprilla tomó posesión como secretario de Gobierno del alcalde Petro. Murió en 2014 cuando había cumplido 54 años.*
 
 **Stephen Hawking**, uno de los grandes físicos teóricos contemporáneos, sufrió de **ELA**. Su cuerpo estaba paralizado. Lo único que movía eran sus párpados. Todas las demás partes de su cuerpo quedó inmovilizado. Pero aún así, pudo  escribir sus últimos libros con una interfaz. Así evitó que el cerebro quedara atrapado en un cuerpo que ya no le respondía para nada. Murió en 2018 a los 76 años. En 1963 le detectaron la misma enfermedad que sufre Martha y la que mató al escritor O**scar Collazos y al político Guillermo Asprilla.** 
@@ -56,12 +56,12 @@ Así como Asprilla, en los últimos días, Hawking no movía nada. Sus sistema n
 
 ## Ovidio: «Me muero por viajar»
 
-![](./Matador_viaje-2.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/eutanasia-a-martha-el-misterio-de-la-muerte/Matador_viaje-2.jpg)
 *"Me muero por viajar".*
 
  En Pereira «un zapatero bohemio, anarquista y ateo» decidió hacer un viaje al otro mundo. Quería morir dignamente aquejado de un singular cáncer que le estaba destruyendo toda su cara. Los dolores eran insoportables. Su espíritu estaba menguado. Su formación liberal lo llevó a tomar una determinación que está amparada en la Constitución Nacional: la eutanasia. Pero en su camino —hacia ese viaje sin tiquete de regreso— se hizo largo y tortuoso. Encontró muchas trabas del sistema de Salud. Como este es un sistema guiado por el vaivén del mercado y no por el derecho a vivir dignamente, le negó la solicitud Ovidio González. Como quien dice, sigue sufriendo en esta vida.
 
-![](./matador-eutanasia.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/eutanasia-a-martha-el-misterio-de-la-muerte/matador-eutanasia.jpg)
 *El 3 de julio de 2015 se cumplió la eutanasia a Ovidio González, padre del caricaturista Matador. Cortesía.*
 
 Sin embargo, el 3 de julio de 2015, Ovidio González, padre del caricaturista Matador, recibió el pasaporte para la otra vida. Ese día debió enfrentarse a la muerte. Pero lo que no sabemos —quizás nos morimos de la duda— es si se fue a quitarle el báculo a San Pedro o el trinche al Diablo. Ovidio no creía en ninguna de los dos personajes. Estamos en un país de libertad de credos.

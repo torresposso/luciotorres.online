@@ -5,10 +5,10 @@ pubDate: "2023-09-06 15:22:36"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/nausicrate-va/"./hero.jpg"
 ---
 
-![Nusícrate va, "¡no renunciaré!" . ](./hero.jpg)
+![Nusícrate va, "¡no renunciaré!" . ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/nausicrate-va/hero.jpg)
 *Nausícrate va, "¡no renunciaré!" .*
 
 El abogado, veedor, exconcejal, y exsecretario de gobierno de Cartagena **—**de entrada**—** aclaró que no renunciará a su candidatura a la alcaldía y llegará al final. Fue tajante. Nausícrate va. Cuando apenas me vio, me dijo:
@@ -33,7 +33,7 @@ Te puede interesar: [«El abrazo de Dau» enterró a «Mariamulata» y benefici�
 
 ## Como concejal, salió sin carro
 
-![No renunciaré, Nausícrate Pérez.](./nausicrate_perez_cartel.jpg)
+![No renunciaré, Nausícrate Pérez.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/nausicrate-va/nausicrate_perez_cartel.jpg)
 *Nausícrate, ¡No renunciaré!*
 
 En 1994, fue elegido concejal por el partido conservador. Para esos tiempos, ya vestía muy formal con su compañera inseparable, la corbata. Camisas y pantalones con doblez milimétrico, era su forma de vestir. Elegante, sobrio y refinado en el andar y el hablar. Cuando comenzó sesiones en 1995, llegó a la sede del concejo, ubicada en los bajos del Palacio de La Proclamación, en su camioneta Dodge modelo 85.

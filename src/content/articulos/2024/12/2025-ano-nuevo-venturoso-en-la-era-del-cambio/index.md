@@ -5,10 +5,10 @@ pubDate: "2024-12-31 23:26:09"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/2025-ano-nuevo-venturoso-en-la-era-del-cambio/"./hero.jpg"
 ---
 
-![2025: ¿Año Nuevo Venturoso en la Era del Cambio? ](./ECONOMIA_-1024x553.jpeg)
+![2025: ¿Año Nuevo Venturoso en la Era del Cambio? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/2025-ano-nuevo-venturoso-en-la-era-del-cambio/ECONOMIA_-1024x553.jpeg)
 *2025: ¿Año Nuevo Venturoso en la Era del Cambio?*
 
 Mientras el presidente Gustavo Petro visitaba una tienda de _Pescaito_ de Santa Marta ―el barrio del _Pibe_ Valderrama y de otros famosos futbolistas de Colombia― para despedir el Año Viejo, el analista se pregunta: ¿Cuáles son las grandes oportunidades económicas en la **Era del Cambio** para que el 2025 sea el Año Venturoso de los colombianos? Como base de este análisis integral y multidimensional, **se debe establecer que el éxito o el fracaso de la política económica del presidente Gustavo Petro depende de la estabilidad económica.**
@@ -27,7 +27,7 @@ En tanto que el impacto de esas políticas económicas durante la Era del Cambio
 
 ## Política fiscal no humana
 
-![](./Petro_pescaito.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/2025-ano-nuevo-venturoso-en-la-era-del-cambio/Petro_pescaito.jpeg)
 *Gustavo Petro en una con un tendero del barrio Pescaito de Santa Marta.*
 
 En su momento, **VoxPopuli Digital** llamó la atención para que el presidente Petro girara el timón de la regla fiscal a favor de la gente. De igual manera, el pago de la deuda externa y el Fondo de Estabilización del Precio de los Combustibles (**FEPC**). Es más, hoy el gobierno está en mora de tomar las riendas de una política fiscal que no sacrifique el nivel de vida de la clase media y de los sectores populares. O si no, esos recortes presupuestales afectarán inevitablemente a la gente más menesterosa.

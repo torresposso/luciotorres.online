@@ -5,10 +5,10 @@ pubDate: "2024-01-11 21:24:15"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/vea-la-fantasia-erotica-del-secretario-de-hacienda/"./hero.jpg"
 ---
 
-![Atlántico para la gente, Iván «el Tigre» Borrero, la fantasía erótica que le frustró su nuevo cargo.](./hero.jpg)
+![Atlántico para la gente, Iván «el Tigre» Borrero, la fantasía erótica que le frustró su nuevo cargo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/vea-la-fantasia-erotica-del-secretario-de-hacienda/hero.jpg)
 *Atlántico para la gente, Iván «el Tigre» Borrero, la fantasía erótica que le frustró su nuevo cargo.*
 
 ¿Quién no ha tenido una fantasía erótica? ¿Un trío? ¡Uff¡ Quizás fue esta fantasía la que le costó el puesto al Secretario de Hacienda de Bolívar, **Iván __«__el Tigre_»_ Borrero**. Él y su esposa estuvieron acompañando a **Elsita Noguera** en la gobernación del Atlántico. En principio, **el acto sexual entre tres personas adultas** no es una conducta reprochable ni causalidad para que lo despidan de un cargo público. Pero, hacer sexo en público y en un sitio familiar, no deja de ser escandaloso ni reprochable.
@@ -35,7 +35,7 @@ Lo cierto es que el cumplimiento de esta **fantasía erótica** en un baño púb
 
 ## El comunicado del Country Club
 
-![](./country-club-barranquilla_9304660_20240109194943.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/vea-la-fantasia-erotica-del-secretario-de-hacienda/country-club-barranquilla_9304660_20240109194943.jpg)
 
 ## Lo que dicen los expertos
 

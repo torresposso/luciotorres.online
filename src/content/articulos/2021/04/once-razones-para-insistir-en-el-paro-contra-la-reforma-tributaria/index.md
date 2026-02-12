@@ -5,10 +5,10 @@ pubDate: "2021-04-26 20:06:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/once-razones-para-insistir-en-el-paro-contra-la-reforma-tributaria/"./hero.jpg"
 ---
 
-\[caption id="attachment\_14694" align="aligncenter" width="600"\]![](./hero.jpg) Paro contra la reforma tributaria.\[/caption\]
+\[caption id="attachment\_14694" align="aligncenter" width="600"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/once-razones-para-insistir-en-el-paro-contra-la-reforma-tributaria/hero.jpg) Paro contra la reforma tributaria.\[/caption\]
 
 Las centrales de trabajadores del país insistieron en el paro nacional contra la reforma tributaria y la ola de asesinatos de líderes sociales. El paro se realizará este miércoles 28 de abril. Es un paro justo y necesario para desenmascarar la demagogia de este gobierno que usa la mentira como método de manipulación.
 
@@ -26,7 +26,7 @@ Son 11 razones que los sindicalistas han señalado para decir que es un engaño 
 
 ## Afecta a empresarios y trabajadores
 
-\[caption id="attachment\_14695" align="aligncenter" width="899"\]![](./paro-colombia.jpg) Paro contra la reforma. Afecta a empresarios y trabajadores. Cortesía\[/caption\]
+\[caption id="attachment\_14695" align="aligncenter" width="899"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/once-razones-para-insistir-en-el-paro-contra-la-reforma-tributaria/paro-colombia.jpg) Paro contra la reforma. Afecta a empresarios y trabajadores. Cortesía\[/caption\]
 
 **4\. Duro golpe a los bolsillos de los trabajadores.** La ampliación de la base tributaria hasta quienes devenguen un poco más de 1 millón de pesos, significa que 3 millones de colombianos, adicionales a los que hay, deben declarar renta y por lo menos la mitad de estos deben pagar impuesto. Duro golpe al bolsillo de los trabajadores y los más pobres.
 

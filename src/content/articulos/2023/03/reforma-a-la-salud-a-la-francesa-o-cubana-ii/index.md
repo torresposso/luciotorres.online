@@ -5,10 +5,10 @@ pubDate: "2023-03-11 02:22:05"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reforma-a-la-salud-a-la-francesa-o-cubana-ii/"./hero.jpg"
 ---
 
-![Las encuesta dicen sí a la reforma. ¿Qué propone el gobierno? Reforma: ¿a la francesa o  cubana?](./hero.jpg)
+![Las encuesta dicen sí a la reforma. ¿Qué propone el gobierno? Reforma: ¿a la francesa o  cubana?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reforma-a-la-salud-a-la-francesa-o-cubana-ii/hero.jpg)
 *Las encuesta dicen sí a la reforma. ¿Qué propone el gobierno? Reforma: ¿a la francesa o cubana?*
 
 El gran desafío de una verdadera reforma a la salud es centrarse en el ser humano y no solo en el dinero. Y sí creemos en esta concepción, ¿qué referente tendremos? ¿A la francesa o cubana? Ni la reforma de la salud será como e**l presidente Gustavo Petro**, la vicepresidenta **Francia Márquez** y la ministra de Salud de Colombia **Carolina Corcho**, quieren o seguirá igual como pretenden los dueños de las EPS.
@@ -27,7 +27,7 @@ Para redactar este informe periodístico, agradecemos los aportes del abogado **
 
 ## ¿A la francesa o cubana?
 
-![Carolina Corcho, ministra de Salud, tiene la responsabilidad de llevar la reforma: de la salud hasta que se cumpla en ley.  ¿A la francesa o  cubana? (Cortesía Ministerio de Salud).](./Carolina-Corcho2.jpg)
+![Carolina Corcho, ministra de Salud, tiene la responsabilidad de llevar la reforma: de la salud hasta que se cumpla en ley.  ¿A la francesa o  cubana? (Cortesía Ministerio de Salud).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reforma-a-la-salud-a-la-francesa-o-cubana-ii/Carolina-Corcho2.jpg)
 *Carolina Corcho, ministra de Salud, tiene la responsabilidad de llevar la reforma de la salud hasta que se cumpla en ley. ¿A la francesa o cubana? (Cortesía Ministerio de Salud).*
 
 Cuando se trata de pensar un modelo de salud, la reforma que presenta el gobierno de Petro al congreso no reclama la experiencia vivida por el país en esa materia, a partir de la ley 90 de 1946. Como se sabe, esta norma introdujo por primera vez el **aseguramiento de salud**. Este desconocimiento también se reflejó cuando los gobiernos comenzaron a desarrollar el nuevo mandato constitucional. ¿Qué pasó en ese período que va desde la **ley 90/46 a la ley 100/93**? ¿Sabías que en 1945 Francia (Charles de Gaulle) y Colombia (Alfonso López) se propusieron un mismo modelo de salud?). En la próxima entrega analizaremos los avances y retrocesos que se vivió en Colombia en ese lapso. No solo es una cuestión de tiempo sino de fenómenos que la reforma propuesta por Petro no se plantea.
@@ -48,7 +48,7 @@ En ese sentido, el presidente **Juan Manuel Santos** modificó el sistema con po
 
 ## Lo que tenemos: **«**yo con yo**»**
 
-![Carlos Palacino el magnate de la salud caído en desgracia. Después de esta Reforma surgirán los nuevos Palacino. ¿A la francesa o cubana? ](./Palacino_coosalup.jpg)
+![Carlos Palacino el magnate de la salud caído en desgracia. Después de esta Reforma surgirán los nuevos Palacino. ¿A la francesa o cubana? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reforma-a-la-salud-a-la-francesa-o-cubana-ii/Palacino_coosalup.jpg)
 *Carlos Palacino el magnate de la salud caído en desgracia. Después de esta Reforma surgirán los nuevos Palacino.*
 
 En Colombia tenemos una de las constituciones más avanzadas en materia de derechos fundamentales que busca consolidar un **Estado Social de Derecho**. Eso en teoría. Como se sustenta en mi libro **[¿Adiós a la guerra?](/articulos/adiosalaguerra/)** existe una ambivalencia en la propuesta discursiva de las élites políticas dominantes. El discurso, las normas y las políticas públicas no son puestas en prácticas en lo fundamental. Se supuso que la ya citada ley 100 de 1993, que sepultó el anterior régimen, teóricamente garantizaba la dignidad humana:
@@ -69,7 +69,7 @@ En efecto, si el presidente Petro pretende garantizar la atención primaria y la
 
 ## El estado actual
 
-![](./Ulahy-Beltran.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reforma-a-la-salud-a-la-francesa-o-cubana-ii/Ulahy-Beltran.jpeg)
 *Superintendente Ulahí Beltrán López hablando a actores del sistema de salud en Cali*
 
 En el sector salud nos encontramos con los nuevos ricos que se vienen forjando desde las épocas aciagas del paramilitarismo. En la región Caribe, por ejemplo, lo que primero atrapó **«**Jorge 40**»** y sus esbirros fue el sector salud. Esta conducta poco piadosa con los recursos de la salud, produjo un estado de cosas que la misma Supersalud reconoce. En  en 2022 recibió **1.2 millones** de peticiones, quejas, reclamos y denuncias (PQRD) y en su mayoría fueron clasificadas en la categoría de **_riesgos de vida_**.

@@ -5,7 +5,7 @@ pubDate: "2018-12-20 11:18:19"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/mierda-en-catabre-corte-abre-las-puertas-para-que-familia-alfonso-lopez-entre-a-la-jep/"./hero.jpg"
 ---
 
 (imagen no disponible)

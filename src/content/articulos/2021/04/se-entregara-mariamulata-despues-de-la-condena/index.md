@@ -5,7 +5,7 @@ pubDate: "2021-04-13 00:50:06"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/se-entregara-mariamulata-despues-de-la-condena/"./hero.jpg"
 ---
 
 \[caption id="attachment\_14536" align="aligncenter" width="1200"\](imagen no disponible) ¿Se entregará Maríamulata? Vivian Eljaiek cayó en la misma cochada. William García debe sentir un fresquito.\[/caption\]
@@ -47,7 +47,7 @@ Eso quiere decir que en las próximas horas tanto Judith Pinedo como Vivian Elja
 
 ## William García
 
-\[caption id="attachment\_14537" align="aligncenter" width="1280"\]![](./hero.jpg) Cuando un debate político tiene un desenlace como la condena de una alcaldesa. William García ¿sacará pecho? ¿Se entregará Maríamulata?\[/caption\]
+\[caption id="attachment\_14537" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/se-entregara-mariamulata-despues-de-la-condena/hero.jpg) Cuando un debate político tiene un desenlace como la condena de una alcaldesa. William García ¿sacará pecho? ¿Se entregará Maríamulata?\[/caption\]
 
 Si se trata de hallar el responsable de que esta decisión se llevara a cabo, podríamos decir que es William García Tirado. Fue un implacable contradictor de la administración de Maríamulata. Desde el concejo ejerció un control político estricto con investigaciones irrefutables.
 

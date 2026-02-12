@@ -5,10 +5,10 @@ pubDate: "2024-06-13 05:53:53"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/los-periodistas-temporal-por-dia-de-caracol-noticias-y-los-antiturbayistas/"./hero.jpg"
 ---
 
-![Los periodistas «temporal por día» de Caracol Noticias y los «antiturbayistas» (I)](./hero.jpg)
+![Los periodistas «temporal por día» de Caracol Noticias y los «antiturbayistas» (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/los-periodistas-temporal-por-dia-de-caracol-noticias-y-los-antiturbayistas/hero.jpg)
 *Juan Roberto Vargas y los periodistas «temporal por día» de Caracol Noticias y los «antiturbayistas» (I)/Cortesía.*
 
 Uno de los hechos que mostró con claridad la precariedad laboral del ecosistema periodístico colombiano, fue la salida de **Jheivan Pinzón** como uno de los periodistas «temporal por día» de **Caracol Noticias**, el medio que más factura en Colombia: **$977.473 millones**. Y todo porque el periodista tuvo un ingreso comercial de **$200 millones** desde 2018 hasta 2024. Al mismo tiempo, observamos a periodistas que defienden a sus amos, menoscabando a sus colegas que no disfrutan las mieles del poder.
@@ -23,7 +23,7 @@ En el caso cartagenero, fue _sui generi_ por lo pintoresco del personaje que est
 
 ## Aclaración
 
-![Tanto Yamilito Arana como Dumek Turbay son comunicadores sociales por naturaleza. Entienden la importancia de la prensa. periodistas «temporal por día»](./Dumek_yamilito_credencial.jpg)
+![Tanto Yamilito Arana como Dumek Turbay son comunicadores sociales por naturaleza. Entienden la importancia de la prensa. periodistas «temporal por día»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/los-periodistas-temporal-por-dia-de-caracol-noticias-y-los-antiturbayistas/Dumek_yamilito_credencial.jpg)
 *Tanto Yamilito Arana como Dumek Turbay son comunicadores sociales por naturaleza. Entienden la importancia de la prensa.*
 
 Como principio de transparencia, declaro que tengo las mejores relaciones con el alcalde **Dumek Turbay Paz**, el gobernador **Yamilito Arana** y el presidente **Gustavo Petro**. Si bien declaro que Turbay es un gobernante de acción y con resultados, no me exime para estar en desacuerdo que se inspire en el modelo de ciudad de Barranquilla. Pero su plan de Desarrollo _Cartagena ciudad de derechos_, teóricamente, promete un modelo diferente al de los Char. ¿De quien depende? Del control social y de la participación ciudadana en la ejecución de dicho plan.
@@ -74,7 +74,7 @@ Sin embargo, justifican a los grandes conglomerados de los medios de comunicaci�
 
 Además, los grandes medios controlan la inversión en publicidad digital en Colombia que alcanzó un total de **$2.6  billones** en el 2023. Representa el 51% de la torta total. Esto se pudo constatar en el **IAB Day 2024** realizado la semana pasada en Bogotá. En ese evento se analizó la evolución de la publicidad digital en Colombia y Latinoamérica que está quedando en pocas manos.
 
-![](./image-1.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/los-periodistas-temporal-por-dia-de-caracol-noticias-y-los-antiturbayistas/image-1.png)
 *Cortesía de Valora.*
 
 ## El doble racero
@@ -87,7 +87,7 @@ Eso es lo que sucede en Colombia con la inmensa mayoría de los periodistas que 
 
 ## Los periodistas «temporal por día» de Caracol
 
-![](./Jheivan-Pinzon-Gonzalez-1024x574.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/los-periodistas-temporal-por-dia-de-caracol-noticias-y-los-antiturbayistas/Jheivan-Pinzon-Gonzalez-1024x574.jpeg)
 *Captura de Pantalla.*
 
 **Jheivan Pinzón** quedó sin su chamba en Caracol Noticias a raíz de la publicación de los denunciantes. Es el trofeo que ahora alzan contra el alcalde Dumek Turbay mientras ensalzan en Barranquilla a Alejandro Char.

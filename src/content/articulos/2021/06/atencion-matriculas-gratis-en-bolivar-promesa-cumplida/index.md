@@ -5,10 +5,10 @@ pubDate: "2021-06-13 15:25:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/atencion-matriculas-gratis-en-bolivar-promesa-cumplida/"./hero.jpg"
 ---
 
-![](./Matriculas-gratis.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/atencion-matriculas-gratis-en-bolivar-promesa-cumplida/Matriculas-gratis.jpeg)
 *De izq. a derecha, Sacra Nader (UNIBAc), Edgar Parra Chacón(UdeC), María Victoria Angulo, Ministra de Educación y Vicente Blel, gobernador de Bolívar, una vez firmaron el acuerdo.*
 
 Los estudiantes de la Universidad de Cartagena—**UdeC** y Universidad de Bellas Artes y Ciencias de Bolívar—**UNIBAC**. tendrán matrículas gratis. El gobernador **Vicente Blel firmó el viernes pasado el convenio que ratifica su apoyo al programa Matrícula Cero.** Esta inicia beneficia a estudiantes de los estratos 1, 2 y 3 de esos dos centros de educación superior.
@@ -27,7 +27,7 @@ Sin duda, el programa Matricula Cero beneficiará a los hijos de hogares que se 
 
 ## Alianza para matriculas gratis
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/atencion-matriculas-gratis-en-bolivar-promesa-cumplida/hero.jpg)
 *¡Celebrando las matrículas gratis! para estudiantes de estratos 1,2,3.*
 
 En tanto que la Ministra de Educación, **María Victoria Angulo**, aseguró que la gratuidad fue un anhelo por muchos años. Fruto de varios procesos y acuerdos. Por primera vez en el país, se está garantizando la gratuidad para los estratos 1, 2 y 3 de todas las instituciones públicas.

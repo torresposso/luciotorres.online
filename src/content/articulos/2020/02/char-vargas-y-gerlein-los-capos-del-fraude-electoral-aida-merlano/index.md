@@ -5,18 +5,18 @@ pubDate: "2020-02-07 15:58:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/char-vargas-y-gerlein-los-capos-del-fraude-electoral-aida-merlano/"./hero.jpg"
 ---
 
 ## _Estuve en Maracaibo tras el rastro de Aída Merlano. El SEBIN me retuvo temporalmente._
 
-1.  \[caption id="attachment\_11126" align="aligncenter" width="683"\]![Aquí vivía Aida Merlano](./hero.jpg) Edificio donde residía Aída Merlano cuando fue capturada por el Sebin. Foto Lucio.\[/caption\]
+1.  \[caption id="attachment\_11126" align="aligncenter" width="683"\]![Aquí vivía Aida Merlano](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/char-vargas-y-gerlein-los-capos-del-fraude-electoral-aida-merlano/hero.jpg) Edificio donde residía Aída Merlano cuando fue capturada por el Sebin. Foto Lucio.\[/caption\]
 
 La historia de vida de la inteligente y audaz exsenadora colombiana, **Aida Merlano Rebolledo**, dio un giro de 90 grados. Pasó de ser **reina del fraude electoral** colombiano a una **víctima del sistema de corrupción** que captura ilegalmente el Estado para ponerlo a su servicio. Por lo menos eso fue lo que denunció en una audiencia especial ante las autoridades venezolanas **al indicar que los Char, Vargas y Gerlein son los verdaderos capos del fraude electoral del Caribe colombiano**. Pero también Merlano Rebolledo pudo ser exhibida como **trofeo de guerra por Nicolás Maduro en medio del conflicto con el presidente colombiano Iván Duque, un gobernante plegado a la política internacional de los Estados Unidos**. Las revelaciones de Merlano en una **audiencia especial** con las autoridades venezolanas confirma lo que habiamos publicado el 27 de abril de 2017, [«confidencias de una reunión secreta: Vargas, Char y (La Gata=) Montes»](./). Un año posterior, el 25 de marzo de 2018, publicamos en [www.luciotorres.co](/articulos/) el artículo anunciado en forma de pregunta: (haga clic) [¿El imperio del fraude electoral?: Char, Vargas y la Gata (I). El caso Aída Merlano](./).
 
 ## **Char, Vargas y Gerleín, los capos de la mafia política**
 
-\[caption id="attachment\_11128" align="aligncenter" width="359"\]![](./IMG-20200207-WA0016-300x252.jpg) Aída Merlano cantó como Pavaroti, según el fiscal de Venezuela, Tarek William.\[/caption\] En esa audiencia publicada por Telesur, la exparlamentaria dijo que la fuga fue posible por el apoyo de los Char que la quieren asesinar:
+\[caption id="attachment\_11128" align="aligncenter" width="359"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/char-vargas-y-gerlein-los-capos-del-fraude-electoral-aida-merlano/IMG-20200207-WA0016-300x252.jpg) Aída Merlano cantó como Pavaroti, según el fiscal de Venezuela, Tarek William.\[/caption\] En esa audiencia publicada por Telesur, la exparlamentaria dijo que la fuga fue posible por el apoyo de los Char que la quieren asesinar:
 
 > _"Cuando quise hacer un acuerdo con la Corte para contar la verdad, no me quisieron escuchar, esa verdad que guardé durante dos años por miedo a que mi familia fuera asesinada. Un abogado enviado por la familia Char (Arturo y Alex) hablaron de la fuga que organizaron. El propósito de la fuga era asesinarme cuando me sacaran de la celda"._
 

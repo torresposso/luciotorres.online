@@ -5,10 +5,10 @@ pubDate: "2023-03-31 03:10:47"
 author: "Lucio"
 categories: ["Análisis","Investigación","Post Conflicto"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-jep-cito-a-la-gata-para-que-maulle-toda-la-verdad/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-jep-cito-a-la-gata-para-que-maulle-toda-la-verdad/hero.jpg)
 *JEP citó a «la Gata». ¿Maullará la verdad que ocultó «Jorge 40»?*
 
 ¡Última oportunidad para **Enilce del Rosario López Romero**! La JEP citó a «la Gata» para que maulle la verdad, toda la verdad, en una audiencia pública, única y definitiva a realizarse los próximos 30 y 31 de mayo. De esta manera podrá estar en libertad condicional por todos los crímenes cometidos en su **relación con grupos paramilitares, parapolíticos y lavadores de activos en el marco del conflicto armado** en Bolívar, Sucre, Atlántico y Magdalena, región de la Costa Caribe donde su presencia fue activa durante 1991 al 2006. Incluso, después de los acuerdos de paz.
@@ -17,7 +17,7 @@ A partir de hoy **Enilce del Rosario López Romero** tiene cinco (5) días para 
 
 ## JEP citó a «la Gata» para que revele hechos inéditos
 
-![La JEP citó a «La Gata» para que maulle toda la verdad](./DAIRA_GATA1.jpg)
+![La JEP citó a «La Gata» para que maulle toda la verdad](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-jep-cito-a-la-gata-para-que-maulle-toda-la-verdad/DAIRA_GATA1.jpg)
 *La oscura relación Entre enilce López con políticos y empresarios. Debe aportar más de lo que dijo la exsenadora Daira Galvis Méndez.*
 
 Los aportes de verdad que haga López Romero deberán superar lo conocido por la justicia ordinaria. El 80% de los politicos y muchos empresarios hacian parte del entramado desde antes de 1990. Por ejemplo, debe referirse a la guerra que sostuvo con **«Jorge 40»** que produjo una estela de asesinatos en Barranquilla, Santa Marta, Sincelejo y Cartagena. O su relación con Salvatore Mancuso, Diego Vecino, Juancho Dique, entre muchos otros.
@@ -42,7 +42,7 @@ Son cinco temas para los cuales la JEP citó a «la Gata». Debe hablar sin dila
 
 ## La advertencia de la JEP a López
 
-![](./Audiencia_enilce_lopez_romero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-jep-cito-a-la-gata-para-que-maulle-toda-la-verdad/Audiencia_enilce_lopez_romero.jpg)
 *JEP citó a «la Gata». ¿Maullará la verdad que ocultó «Jorge 40»? Pantallazo de la citación. Se desfijará en Estado este viernes 31 de marzo a las 5:30 pm.*
 
 En ese sentido, **Enilce del Rosario López Romero**, según la advertencia de la JEP, deberá abstenerse de efectuar afirmaciones generales, vagas e imprecisas. En este caso, debe abstenerse de recuentos innecesarios sobre asuntos suficientemente decantados por la justicia ordinaria y por JEP, y conocidos por la opinión pública.

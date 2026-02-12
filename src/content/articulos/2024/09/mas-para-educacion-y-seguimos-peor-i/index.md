@@ -5,10 +5,10 @@ pubDate: "2024-09-29 19:13:22"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/mas-para-educacion-y-seguimos-peor-i/"./hero.jpg"
 ---
 
-![Más para educación y seguimos peor](./EDUCACION_RETOS-1024x479.jpeg)
+![Más para educación y seguimos peor](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/mas-para-educacion-y-seguimos-peor-i/EDUCACION_RETOS-1024x479.jpeg)
 *Más para educación y seguimos peor.*
 
 Cada año se invierte más para educación y seguimos peor. El gobierno del presidente Gustavo Petro nominalmente incrementará el **presupuesto educativo** para el 2025: **$79,2 billones**. Un incremento de **12,5%** frente al año pasado. Tal hecho, es importante destacarlo. Pero, todo indica que se busca el _ahogado río arriba_. Primero, la inversión en este sector está rezagada. **Corea del Sur**, invierte el **10% del PIB**, nuestra nación solo el **4,2%**.
@@ -45,7 +45,7 @@ En otras palabras, ni siquiera responde a los resultados que se espera de una ed
 
 ## Empresarios y Fecode
 
-![Portada del No 1 de la revista  Educación y Cultura de Fecode (1984)](./EDUCACION-Y-CULTURA.jpeg)
+![Portada del No 1 de la revista  Educación y Cultura de Fecode (1984)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/mas-para-educacion-y-seguimos-peor-i/EDUCACION-Y-CULTURA.jpeg)
 *Portada del No 1 de la revista Educación y Cultura de Fecode (1984)*
 
 Por ejemplo, el gobierno con los empresarios y Fecode ―desde una perspectiva divergente― empezaron a pensar más en el tema de la educación y a plantearse los planes decenales. No es casual que la edición No 1 de la revista _Educación y Cultura_ de Fecode, hace 40 años, fue un análisis del profesor **Jorge Engativa** sobre el **movimiento pedagógico**. Sin embargo, la educación pública no resolvió el problema esencial: **la formación integral del individuo.** Ni los empresarios, ni los docentes agremiados, resolvieron el tema de la educación centrada en el Ser.
@@ -58,19 +58,19 @@ La prueba que realiza, evalúa el desempeño en tres áreas de conocimiento: **c
 
 ## Los hallazgos
 
-![La brecha entre la instituciones oficiales y no oficiales en lo urbano es de 24,5 puntos. Con el sector rural alcanza 73,4.](./EDUCACION_BRECHAS-1024x552.jpeg)
+![La brecha entre la instituciones oficiales y no oficiales en lo urbano es de 24,5 puntos. Con el sector rural alcanza 73,4.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/mas-para-educacion-y-seguimos-peor-i/EDUCACION_BRECHAS-1024x552.jpeg)
 *La brecha entre la instituciones oficiales y no oficiales en lo urbano es de 24,5 puntos. Con el sector rural alcanza 73,4./Fundación Empresarios por la Educación.*
 
 Lo positivo, en 2023 el puntaje global promedio aumentó en 2,4 puntos respecto a 2022. Pero la brecha entre niveles socioeconómicos se amplió, al mismo tiempo, persiste la brecha entre los sectores oficial―no oficial de **31 puntos**, de acuerdo al estudio de resultados realizado por la Fundación Empresarios por la Educación. La brecha entre niveles socioeconómicos se amplió. En tanto la brecha entre estudiantes hombres y mujeres creció en 1 punto, volviendo a la brecha identificada en 2021 de 8 puntos.
 
 ## El Caribe: peor
 
-![](./Alex_char_retrato.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/mas-para-educacion-y-seguimos-peor-i/Alex_char_retrato.jpeg)
 *Alejandro Char, alcalde de Barranquilla cree que la educación es solo de tecnología.*
 
 Si a nivel nacional estamos mal, en el Caribe estamos peor. El sector privado saca la cara por Barranquilla y el Atlántico. En la prueba Saber (documento no disponible)/A/dpto/Ponderado%20Atlantico.pdf), de los 20 primeros colegios, 16 son privados. Los otros 4 son no oficiales, pero pertenecen a un proyecto educativo privado, como el colegio de la Fundación Humboldt. Estas 20 instituciones están lejos del mejor promedio nacional: **Colegio Bilingüe Divino Niño** (393). El único que se le acerca es **Centro Educativo Boston Internacional** con 386. De las 612 instituciones, sólo 192 lograron un puntaje superior al global nacional que fue de **257 puntos**.
 
-![Más para educación y seguimos peor. Concejales de Cartagena debatieron el tema para definir más recursos a la educación. ](./concejales_debate_educacion.jpeg)
+![Más para educación y seguimos peor. Concejales de Cartagena debatieron el tema para definir más recursos a la educación. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/mas-para-educacion-y-seguimos-peor-i/concejales_debate_educacion.jpeg)
 *Más para educación y seguimos peor. Concejales de Cartagena debatieron el tema para definir más recursos a la educación.*
 
 En Bolívar, por ejemplo, ninguno del sector oficial aparece entre los primeros 20 colegios de la clasificación Saber 2023 (documento no disponible)/A/dpto/Ponderado%20Bolivar.pdf). Solo 112 instituciones de 636 supera los 257 puntos, el promedio nacional.

@@ -5,7 +5,7 @@ pubDate: "2022-05-04 01:41:15"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/denuncias-de-alias-otoniel-las-universidades-podran-pedir-perdon/"./hero.jpg"
 ---
 
 (imagen no disponible)
@@ -21,7 +21,7 @@ Aunque la «Sergio» negó y rechazó la información a través de un comunicad
 
 ## El perdón moral
 
-![Rodrigo Noguera Calderón desmintió a  alias «Otoniel».](./hero.jpg)
+![Rodrigo Noguera Calderón desmintió a  alias «Otoniel».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/denuncias-de-alias-otoniel-las-universidades-podran-pedir-perdon/hero.jpg)
 *Rodrigo Noguera Calderón desmintió a alias «Otoniel».*
 
 Si la «Sergio» está en mora de reconocer las denuncias de alias **«Otoniel»,** significa que sus directivos jamás aceptarán la responsabilidad social y moral de los hechos que se le imputan. A no ser que una autoridad judicial determine lo contrario.
@@ -34,7 +34,7 @@ De tal manera que Sergio Hernández —durante su período rectoral— tuvo dife
 
 ## La universidad capturada 
 
-![Víctor Hugo Hernández, exrector de la Universidad de Córdoba (izq.) y Javier Cáceres Leal, expresidente del congreso, denunciaron por injuria y calumnia al periodista Lucio Torres. Pero los dos fueron condenados a 35 años y 9 años de cárcel, respectivamente, por los mismos hechos que el periodista investigó.](./victor_javier-caceres1.jpg)
+![Víctor Hugo Hernández, exrector de la Universidad de Córdoba (izq.) y Javier Cáceres Leal, expresidente del congreso, denunciaron por injuria y calumnia al periodista Lucio Torres. Pero los dos fueron condenados a 35 años y 9 años de cárcel, respectivamente, por los mismos hechos que el periodista investigó.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/denuncias-de-alias-otoniel-las-universidades-podran-pedir-perdon/victor_javier-caceres1.jpg)
 *Víctor Hugo Hernández, exrector de la Universidad de Córdoba (izq.) y Javier Cáceres Leal, expresidente del congreso, denunciaron por injuria y calumnia al periodista Lucio Torres. Pero los dos fueron condenados a 35 años y 9 años de cárcel, respectivamente, por los mismos hechos que el periodista investigó.*
 
 A finales de los 90 y comienzos del 2000, muchas universidades de la Costa Caribe **fueron capturadas por el paramilitarismo a sangre y fuego.** Un hecho grave, algunos profesores y directivos se prestaron para ese horrendo crimen.
@@ -73,7 +73,7 @@ No conforme con esa sentencia, Sergio Hernández recurrió a la casación. Sin e
 
 ## Lo nuevo de alias «Otoniel»
 
-![Dairo Úsuga, alias «Otoniel» en la JEP. Fue el capo de capos del Clan del Golfo](./Otoniel-Dairo-Uzuga.jpg)
+![Dairo Úsuga, alias «Otoniel» en la JEP. Fue el capo de capos del Clan del Golfo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/denuncias-de-alias-otoniel-las-universidades-podran-pedir-perdon/Otoniel-Dairo-Uzuga.jpg)
 *Dairo Úsuga, alias «Otoniel» en la JEP. Fue el capo de capos del Clan del Golfo*
 
 Si bien el proceso que mencionó el jefe del Clan del Golfo pasó a cosa juzgada, como lo señala acertadamente el comunicado firmado por el rector actual de la Universidad de Cartagena, **Edgar Parra Chacón,** abre un capítulo especial. Se trata de **establecer la verdad de lo sucedido** como garantía de no repetición, pero ahora en la justicia transicional. Y en este caso deben responder ante el tribunal JEP los condenados por la justicia ordinaria.
@@ -86,7 +86,7 @@ En consecuencia, Hernández Gamarra deberá comparecer ante la JEP antes de que 
 
 ## La UdeC aclara a alias «Otoniel»
 
-![](./comunicado-udeC.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/denuncias-de-alias-otoniel-las-universidades-podran-pedir-perdon/comunicado-udeC.jpg)
 
 Sin duda, es caso juzgado. Pero la imagen de la universidad quedó manchada. Solo queda el arrepentimiento y la voluntad de resarcir a las víctimas de los delitos de lesa humanidad. Son delitos que se les atribuye a las organizaciones criminales que se financiaron con esos contratos ficticios. Contratos que desangraron al Estado y, al mismo tiempo, estimularon una guerra que sacrificó a vidas inocentes que cayeron bajos su bombas y balas.  
 

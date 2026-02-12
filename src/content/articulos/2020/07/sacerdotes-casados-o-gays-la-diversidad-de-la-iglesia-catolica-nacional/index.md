@@ -5,14 +5,14 @@ pubDate: "2020-07-26 01:26:23"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/sacerdotes-casados-o-gays-la-diversidad-de-la-iglesia-catolica-nacional/"./hero.jpg"
 ---
 
 > «**A** **_los solteros y a las viudas les digo que sería bueno que se quedaran como yo;_****_9 pero si no pueden dominarse, que se casen; pues es mejor casarse que arder de pasión»_**. (Corintios, 7:8)
 
 ## Sacerdotes casados
 
-\[caption id="attachment\_12184" align="aligncenter" width="298"\]![](./hero.jpg) **Padre Jesús Castro**, canciller de la Iglesia Católica Nacional. Un sacerdote casado con felicidad. Archivo personal.\[/caption\] **La Iglesia Católica Nacional acepta en su seno sacerdotes casados o gays**. Ofician la misa de espalda al público y lo hacen en latín, a la vieja usanza del concilio de Trento. Son seguidores de la tradición misal romana. Pero, de alguna manera, son discriminados o confundidos por católicos apostólicos y romanos que desconocen la gran diversidad de la iglesia católica en el mundo. ¿Cómo comprender a los pobres si los ministros de Dios viven en grandes mansiones y se transportan en camionetas blindadas y de último modelo? ¿Cómo entender los problemas de familia si los sacerdotes no la tienen? ¿Cómo predicar el amor si no somos capaces de amar a una mujer? Aunque pueden aceptar sacerdotes con una inclinación sexual diferente, **la Iglesia Católica Nacional no está de acuerdo con el matrimonio gays**. Sobre este aspecto, en reportaje con **[VoxPopuli.Digital](/articulos/)**, el canciller de esta congregación, Jesús Castro, aclaró:
+\[caption id="attachment\_12184" align="aligncenter" width="298"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/sacerdotes-casados-o-gays-la-diversidad-de-la-iglesia-catolica-nacional/hero.jpg) **Padre Jesús Castro**, canciller de la Iglesia Católica Nacional. Un sacerdote casado con felicidad. Archivo personal.\[/caption\] **La Iglesia Católica Nacional acepta en su seno sacerdotes casados o gays**. Ofician la misa de espalda al público y lo hacen en latín, a la vieja usanza del concilio de Trento. Son seguidores de la tradición misal romana. Pero, de alguna manera, son discriminados o confundidos por católicos apostólicos y romanos que desconocen la gran diversidad de la iglesia católica en el mundo. ¿Cómo comprender a los pobres si los ministros de Dios viven en grandes mansiones y se transportan en camionetas blindadas y de último modelo? ¿Cómo entender los problemas de familia si los sacerdotes no la tienen? ¿Cómo predicar el amor si no somos capaces de amar a una mujer? Aunque pueden aceptar sacerdotes con una inclinación sexual diferente, **la Iglesia Católica Nacional no está de acuerdo con el matrimonio gays**. Sobre este aspecto, en reportaje con **[VoxPopuli.Digital](/articulos/)**, el canciller de esta congregación, Jesús Castro, aclaró:
 
 > _«Por caridad cristiana, nosotros respetamos a las demás personas con sus ideologías e inclinaciones. Pero, por la moral cristiana, no aceptamos la ideología de géneros, ni unión de personas del mismo sexo, ni la adopción de niños por los mismos, ni aborto ni eutanasia_».
 

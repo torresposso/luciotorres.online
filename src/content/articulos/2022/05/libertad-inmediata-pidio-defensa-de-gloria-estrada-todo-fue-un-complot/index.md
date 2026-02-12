@@ -5,10 +5,10 @@ pubDate: "2022-05-14 18:34:06"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/libertad-inmediata-pidio-defensa-de-gloria-estrada-todo-fue-un-complot/"./hero.jpg"
 ---
 
-![Pese a todo, Gloria Estrada recibió el apoyo de su gente. Ahora piden ¡Libertad inmediata!](./WhatsApp-Image-2022-05-14-at-1.01.16-PM.jpeg)
+![Pese a todo, Gloria Estrada recibió el apoyo de su gente. Ahora piden ¡Libertad inmediata!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/libertad-inmediata-pidio-defensa-de-gloria-estrada-todo-fue-un-complot/WhatsApp-Image-2022-05-14-at-1.01.16-PM.jpeg)
 *Pese a todo, Gloria Estrada recibió el apoyo de su gente. Ahora piden ¡Libertad inmediata!*
 
 **¡Libertad inmediata!** pidió la defensa de **Gloria Estrada Benavides.** Está encabezada por el reconocido jurista bolivarense, **Enrique del Río González.** La petición se la hizo en estrado al juez de la causa **Guido Guevara Herrera**. Esta petición se basa en un abundante material probatorio —obtenido legalmente— que demuestra la hipótesis que desde el principio **VoxPopuli Digital** sostuvo: **fue un complot, un «falso positivo»** de la policía con un probable encubrimiento por omisión de la Fiscalía y la Procuraduría. 
@@ -39,7 +39,7 @@ Libertad inmediata pidió la defensa en audiencia
 
 ## La audiencia
 
-![Enrique del Río, destacado abogado, es uno delos defensores que pidió ¡Libertad inmediata!](./hero.jpg)
+![Enrique del Río, destacado abogado, es uno delos defensores que pidió ¡Libertad inmediata!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/libertad-inmediata-pidio-defensa-de-gloria-estrada-todo-fue-un-complot/hero.jpg)
 *Enrique del Río, destacado abogado, es uno de los defensores que pidió Libertad inmediata. Cortesía.*
 
 La audiencia para conocer la solicitud de revocatoria de la medida de aseguramiento contra la presidenta del concejo de Cartagena, Gloria Estrada Benavides, y de sus desafortunados acompañantes, debe reanudarse en próxima fecha. En el evento judicial toman parte los abogados de los diferentes sujetos procesales como también del **fiscal 56 de la Unidad Antinarcótico, Ángel Mattos**. 

@@ -5,10 +5,10 @@ pubDate: "2023-09-17 21:56:54"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/los-intocables-que-amenazan-magistrados-son-protegidos-de-la-fiscalia-ix/"./hero.jpg"
 ---
 
-![Gustavo Roa Avendaño, autor de las macrosentencias contra el paramilitarismos y compulsas de copia a la Fiscalía desde 2014 para que se procesen a "Los intocables". Luego de soliictar la extinción de dominio de los presuntos criminales fue amenazado.](./hero.jpg)
+![Gustavo Roa Avendaño, autor de las macrosentencias contra el paramilitarismos y compulsas de copia a la Fiscalía desde 2014 para que se procesen a "Los intocables". Luego de soliictar la extinción de dominio de los presuntos criminales fue amenazado.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/los-intocables-que-amenazan-magistrados-son-protegidos-de-la-fiscalia-ix/hero.jpg)
 *Gustavo Roa Avendaño, autor de las macrosentencias contra el paramilitarismos y compulsas de copia a la Fiscalía desde 2014 para que se procesen a "Los intocables". Luego de soliictar la extinción de dominio de los presuntos criminales, fue amenazado.*
 
 El sistema corruptor que reina en la justicia colombiana y que se agudizó con el narcotráfico y el paramilitarismo, es uno de los factores que determinan la temeridad y la falta de escrúpulos de  **«Los intocables» que amenazan y siguen asesinando**. Este marco de impunidad, permeabilidad e inmovilidad de la Fiscalía General de la República de **Francisco Barbosa**, envalentona a los presuntos criminales de lesa humanidad para **amenazar, hostigar y hacerle seguimiento ilegal al hijo del magistrado Gustavo Roa Avendaño**, autor de las macrosentencias de la Sala de Justicia y Paz del Tribunal Superior de Barranquilla.
@@ -31,7 +31,7 @@ Te puede interesar: [Los 40 falsos empresarios que correrán la misma suerte de 
 
 ## «Los intocables» que amenazan
 
-![](./Rafael-Matera-Lajud_imagen.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/los-intocables-que-amenazan-magistrados-son-protegidos-de-la-fiscalia-ix/Rafael-Matera-Lajud_imagen.jpg)
 *Los intocables que amenazan. Uno de ellos es Rafael Matera Lajud.*
 
 **Rafael Matera Lajud**, uno de  «Los intocables», luego de iniciarse este seriado periodístico, contraatacó y amenazó con matar a cualquiera que le intente quitar sus pertenencias. En la junta de una de las empresas cultivadoras de palma africana, negocio, que en su mayoría, es controlado por ellos en la Costa Caribe, así se manifestó.
@@ -70,7 +70,7 @@ Como se informó, el magistrado Roa Avendaño recibió un mensaje de alerta en _
 
 Este es el texto de la solicitud de protección del magistrado al director de la Unidad Nacional de Protección (UNP), Augusto Rodríguez Ballesteros entregada el pasado 12 de septiembre.
 
-![](./Magistrado_amenaza_gustavo_roa.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/los-intocables-que-amenazan-magistrados-son-protegidos-de-la-fiscalia-ix/Magistrado_amenaza_gustavo_roa.jpg)
 
 Sin equívocos, es una amenaza de cuidado, debido a los antecedentes de estas personas que están acostumbrados a tomar por su propia mano la justicia, así como lo hicieron en la época de terror de los paramilitares donde mataron a un magistrado que se atrevió a perseguir sus delitos.
 

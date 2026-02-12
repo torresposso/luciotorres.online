@@ -5,17 +5,17 @@ pubDate: "2022-08-17 01:31:16"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad","Podcast"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/adios-a-rafael-vergara-el-espiritu-del-manglar/"./hero.jpg"
 ---
 
-![El adiós de Rafael Vergara, el popular "Dr Mangle".](./hero.jpg)
+![El adiós de Rafael Vergara, el popular "Dr Mangle".](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/adios-a-rafael-vergara-el-espiritu-del-manglar/hero.jpg)
 *El adiós de Rafael Vergara, el popular "Dr Mangle". Foto de Aroldo Mestre-El Universal.*
 
 **Rafael Vergara Navarro**, el popular "Dr. Mangle", fue un hombre controvertido. Así vivió. Así murió hoy. Perteneció a una camada de hombres y mujeres de la región Caribe que, como **Jaime Bateman Cayón y Carlos Pizarro**, se alzaron en armas contra el Estado. Fueron los tiempos del M-19. Estuvimos juntos en la historia de la lucha social de Cartagena. Pero también fuimos contradictores políticos.
 
 Los dos últimos momentos que lo pude ver fue el pasado 28 de julio en Santa Marta con motivo de la cumbre del Pacto Histórico. El segundo momento fue en el Centro de Convenciones durante la asamblea de empresarios de la Andi.
 
-![Rafael Barrios Mendivil, Gustavo Petro, Daniel Prado y Carlos Rodríguez, viejos camaradas de Rafael Vergara. Foto de Jorge Rojas Rodriguez. Cortesía.](./Rafael-barrios-y-Petro.jpg)
+![Rafael Barrios Mendivil, Gustavo Petro, Daniel Prado y Carlos Rodríguez, viejos camaradas de Rafael Vergara. Foto de Jorge Rojas Rodriguez. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/adios-a-rafael-vergara-el-espiritu-del-manglar/Rafael-barrios-y-Petro.jpg)
 *Rafael Barrios Mendivil, Gustavo Petro, Daniel Prado y Carlos Rodríguez, viejos camaradas de Rafael Vergara. Foto de Jorge Rojas Rodriguez. Cortesía.*
 
 El abogado y periodista Rafael Barrios Mendivil, compañero de trabajo y de actividades de Rafael Vergara, en febrero de 2022, lo recordó así:

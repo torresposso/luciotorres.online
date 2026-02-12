@@ -5,10 +5,10 @@ pubDate: "2023-03-17 03:14:45"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/libres-mariamulata-y-viviana-eljaiek/"./hero.jpg"
 ---
 
-![Llanto de alegría, sentimientos encontrados, abrazos cuando salieron libres «Mariamulata» y Viviana Eljaiek. Aquí en el patio del Batallón 12 de Infantería Marina de Bocagrande.](./hero.jpg)
+![Llanto de alegría, sentimientos encontrados, abrazos cuando salieron libres «Mariamulata» y Viviana Eljaiek. Aquí en el patio del Batallón 12 de Infantería Marina de Bocagrande.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/libres-mariamulata-y-viviana-eljaiek/hero.jpg)
 *Llanto de alegría, sentimientos encontrados, abrazos cuando salieron libres «Mariamulata» y Viviana Eljaiek. Aquí en el patio del Batallón 12 de Infantería Marina de Bocagrande. (Cortesía).*
 
 Hoy quedaron libres **«Mariamulata»** y **Viviana Eljaiek** por decisión de última instancia —en sede de **impugnación especial**— de la **Corte Suprema de Justicia (CSJ)**. Contrario al día triste del mes de abril de 2021, cuando se presentó de brazo con su marido Arturo Zea, **Judith Pinedo Flórez** transformó su primer día de libertad en un **acto político**. Lucía una camiseta negra estampada en letras blancas con los nombres alusivos a los héroes afrodescendientes de la historia colombiana: **Biohó, Padilla, Nieto**, etc.
@@ -55,6 +55,6 @@ Si quieres conocer detalles las razones por las cuales la Corte Suprema de Justi
 
 ## El abrazo del **«Buitre»** a **«Mariamulata»**
 
-![](./Mariamulata-abrazada.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/libres-mariamulata-y-viviana-eljaiek/Mariamulata-abrazada.jpg)
 
 Fue un abrazo efusivo. El alcalde de Cartagena, **William Dau Chamat**, fue hasta la sede del Batallón 12 de la Infantería de Marina para recibir a Judith Pinedo en sus brazos. En la próxima entrega analizaremos el abrazo del **«Buitre»** quien la está empujando para que sea ¿la alcaldía **«Buitre»** II?

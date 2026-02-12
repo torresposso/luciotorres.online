@@ -5,10 +5,10 @@ pubDate: "2024-04-16 04:15:24"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez","Arturo Char","Corte Suprema de Justicia"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/los-intocables-siguen-delinquiendo-y-la-fiscalia-lo-sabe/"./hero.jpg"
 ---
 
-![Los Intocables siguen delinquiendo y la Fiscalía lo sabe](./hero.jpg)
+![Los Intocables siguen delinquiendo y la Fiscalía lo sabe](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/los-intocables-siguen-delinquiendo-y-la-fiscalia-lo-sabe/hero.jpg)
 *Los Intocables siguen delinquiendo y la Fiscalía lo sabe. Rafael Matera.*
 
 Los empresarios de la muerte que financiaron y determinaron masacres, homicidios y desplazamientos forzados en la Costa Caribe entre 1998 y 2003 se están muriendo, pero de viejo. Es el caso de **Alfonso Macías Vargas**, quien, con su hijo **Alfonso Macías Azuero**, presuntamente, removieron con buldozer la fosa común para desenterrar 12 cadáveres de personas que asesinaron y torturaron en **el pequeño holocausto de su finca El Potosí**. _Los Intocables_ siguen delinquiendo y la Fiscalía General de la Nación (FGN) y el poder judicial lo saben. Una explicación de esa impunidad sería el hecho de que **los abogados defensores de esos genocidas**, hoy son altos funcionarios del poder judicial que obstruyen la verdadera justicia.
@@ -31,7 +31,7 @@ Las organizaciones víctimas del conflicto armado y la sociedad en general, conf
 
 ## **Gutiérrez Strauss** ¿el decano de los paramilitares?
 
-![En el fondo y al centro, Juan Carlos Gutiérrez Strauss. En ese evento de la Universidad Libre recibió homenaje en 2017 cuando Margarita Cabello lo nombraron Procurador Judicial 2°Penal.Los Intocables siguen delinquiendo. ](./Juancarlos_gutierre_strauss.jpeg)
+![En el fondo y al centro, Juan Carlos Gutiérrez Strauss. En ese evento de la Universidad Libre recibió homenaje en 2017 cuando Margarita Cabello lo nombraron Procurador Judicial 2°Penal.Los Intocables siguen delinquiendo. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/los-intocables-siguen-delinquiendo-y-la-fiscalia-lo-sabe/Juancarlos_gutierre_strauss.jpeg)
 *En el fondo y al centro, Juan Carlos Gutiérrez Strauss. En ese evento de la Universidad Libre recibió homenaje en 2017 cuando lo nombraron Procurador Judicial 2° Penal.Los Intocables siguen delinquiendo. Cortesía Prensa Universidad Libre.*
 
 En consecuencia, para demostrar la tesis central de este informe, citaremos la historia torcida del abogado barranquillero **[Juan Carlos Gutiérrez Strauss](/articulos/web/sigep/hdv/-/directorio/S510291-0878-4/view)** exdecano de Derecho de la Universidad Libre de Barranquilla. Su conducta es típica del **intelectual tránsfuga** que no tiene ningún reparo ético para pasar de un bando a otro. A finales de los 90 se encontraba vinculado a la FGN como fiscal delegado ante el Tribunal Superior de Barranquilla, desde donde, presuntamente, se puso al servicio de los paramilitares. Luego, a partir del 2000, comenzó a litigar a favor de los mismos paramilitares. ¿Qué pasa cuando un profesional cruza la delgada raya que separa su servicio profesional de defensa de su cliente a ponerse a su servicio para amparar o cometer sus crímenes? ¿Es cómplice o determinador?
@@ -42,7 +42,7 @@ Cualquiera sea la respuesta, ello expresa de cómo los defensores de los mafioso
 
 ## ¿Por qué Los Intocables siguen delinquiendo?
 
-![ Juan Carlos Gutiérrez Strauss el defensor del paramilitarismo.](./juancarlos_poder_firma.png)
+![ Juan Carlos Gutiérrez Strauss el defensor del paramilitarismo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/los-intocables-siguen-delinquiendo-y-la-fiscalia-lo-sabe/juancarlos_poder_firma.png)
 *Juan Carlos Gutiérrez Strauss el defensor del paramilitarismo desde la Universidad Libre y desde la justicia.*
 
 ¿Cómo dio esa voltereta tan descarada y espectacular el hoy procurador judicial más importante que tiene Barranquilla? Sencillo, después del 2002, el poder del presidente de la época, **Álvaro Uribe Vélez**, protegió a los líderes del paramilitarismo que devinieron en falsos empresarios de la palma, ganaderos y terratenientes que se fueron quedando con las tierras de las víctimas. Ellos financiaron la campaña del hoy enjuiciado expresidente.
@@ -67,7 +67,7 @@ De igual manera, el jurista González hizo lo propio contra **Rafael Matera Laju
 
 ## ¿El abogado del paramilitarismo?
 
-![Juan Carlos Gutiérrez Strauss  ¿El abogado del paramilitarismo? Los Intocables siguen delinquiendo](./juan_carlos_gutierrez.jpg)
+![Juan Carlos Gutiérrez Strauss  ¿El abogado del paramilitarismo? Los Intocables siguen delinquiendo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/los-intocables-siguen-delinquiendo-y-la-fiscalia-lo-sabe/juan_carlos_gutierrez.jpg)
 *Juan Carlos Gutiérrez Strauss ¿El abogado del paramilitarismo? Los Intocables siguen delinquiendo.*
 
 ¿Cómo se explica que el abogado del paramilitarismo, Gutiérrez Strauss, esté en el poder judicial? El Procurador Judicial Segundo de Barranquilla trabaja con la Procuraduría desde 2016. Presuntamente es cuota de los exjefes paramilitares, concretamente, de **Los Intocables.** ¿Cuál es su entronque político? De acuerdo con Cuestión Pública, en 2014, dos años antes de su posesión, aportó **$2 millones** a la campaña de **José David Name Cardozo**, senador del Partido de la U.

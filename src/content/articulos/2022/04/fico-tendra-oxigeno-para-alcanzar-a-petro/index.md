@@ -5,10 +5,10 @@ pubDate: "2022-04-05 02:25:28"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/fico-tendra-oxigeno-para-alcanzar-a-petro/"./hero.jpg"
 ---
 
-![¿«Fico» tendrá oxígeno para alcanzar a Petro?](./hero.jpg)
+![¿«Fico» tendrá oxígeno para alcanzar a Petro?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/fico-tendra-oxigeno-para-alcanzar-a-petro/hero.jpg)
 *¿«Fico» tendrá oxígeno para alcanzar a Petro?*
 
 Las tres últimas encuestas realizadas (Mediciones Estratégicas, Centro Nacional de Consultoría y Guarumo-EcoAnalitca Medición y Conceptos Económicos S.A,S.) propone un recorte de la distancia de **Federico «Fico» Gutiérrez** con respecto a **Gustavo Petro**. Recorte que nos lleva a la pregunta **¿«Fico» tendrá oxígeno para alcanzar a Petro?**
@@ -29,7 +29,7 @@ En tanto que la encuesta del Centro Nacional de Consultoría (**CNC)** para la r
 
 Escuche el análisis y comparta.
 
-![](./Encuesta-1-vuelta.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/fico-tendra-oxigeno-para-alcanzar-a-petro/Encuesta-1-vuelta.jpg)
 *Petro le aventaja a «Fico» en 9 puntos en esta encuesta de Guarumo. Confirma el salto que de canguro que dio en un mes.*
 
 Como se puede apreciar, el crecimiento de Petro con respecto a la anterior medición del CNC es de 4.4 puntos porcentuales. «Fico» de 1,3 puntos. La Revista Semana desdeñó este dato de la encuesta. Pero **Daniel Coronel** tampoco tuvo en cuenta la tendencia que viene marcando «Fico». Su crecimiento —de la medición del 18 de marzo con respecto a la del 18 de febrero— **fue de 19 puntos**.  Saltó de **4%**  a **23%**.
@@ -38,7 +38,7 @@ Por su parte, Petro, de la medición de febrero a la del 18 de marzo donde obtuv
 
 ## ¿«Fico» tendrá oxígeno?
 
-![Contrario a CNC, la encuesta de Guarumo para la segunda vuelta existiría un empate técnico pero a favor de Federico Gutiérrez.](./Petro-Fico-encuesta-2-vuelta1.jpg)
+![Contrario a CNC, la encuesta de Guarumo para la segunda vuelta existiría un empate técnico pero a favor de Federico Gutiérrez.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/fico-tendra-oxigeno-para-alcanzar-a-petro/Petro-Fico-encuesta-2-vuelta1.jpg)
 *Contrario a CNC, la encuesta de Guarumo señala que para la segunda vuelta existiría un empate técnico, pero a favor de Federico Gutiérrez.*
 
 **Lo anterior propone una lectura diferente a la de la Revista Semana y a la de Daniel Coronel.** En la medición de la CNC de febrero a marzo, el crecimiento de Petro es de **9 punto**s porcentuales. En tanto que el de Fico es de **20.5** puntos porcentuales. Si el candidato de Equipo Colombia y del Pacto Histórico logran mantener ese ritmo de crecimiento en un mes, o por lo menos un rendimiento del 50% de lo obtenido, «Fico» **alcanzaría 35% y Petro llegaría a 41%**, pero no le alcanzaría para ganar en primera vuelta. Es decir, que la distancia entre uno y otro se reduciría drásticamente. Sin embargo, no tendríamos presidente en primera vuelta.

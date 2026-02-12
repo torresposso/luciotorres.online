@@ -5,10 +5,10 @@ pubDate: "2023-04-13 03:08:47"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/garcia-y-espana-trascendieron-lo-material/"./hero.jpg"
 ---
 
-![Eduardo García y Rogelio España, trascendieron lo material.](./hero.jpg)
+![Eduardo García y Rogelio España, trascendieron lo material.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/garcia-y-espana-trascendieron-lo-material/hero.jpg)
 *Eduardo García y Rogelio España, trascendieron lo material.*
 
 Ellos trascendieron lo material porque supieron transmitir sus enseñanzas en tierra fértil. Cuando murió mi maestro de filosofía, **Rogelio España Vera**, el 14 de junio de 2020, mi mente estaba atribulada todavía por el coronavirus. En la noche del viernes **7 de marzo de 2023**, mi primo **Neftaly Prins Moreno**, hermano de **Rafael Prins**, el periodista comunitario asesinado en 2004, me dio la noticia de que se acababa de morir **Eduardo García Martelo**, mi maestro de castellano. Los dos fueron mis maestros **—no docentes—**que trascendieron lo material para ir a la gloria eterna. De alguna manera, soy prolongación de ellos.
@@ -21,7 +21,7 @@ Abro una página de la historia de mi generación. La historia es de hombres viv
 
 ## Cuatro años para siempre: trascendieron lo material
 
-![Eduardo García y Rogelio España Trascendieron lo material](./eduardo-garcia_retrato.jpg)
+![Eduardo García y Rogelio España Trascendieron lo material](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/garcia-y-espana-trascendieron-lo-material/eduardo-garcia_retrato.jpg)
 *Eduardo García Martelo*
 
 Entrar a estudiar al Liceo Vélez era una odisea. Llegué allá después de haber cursado el 1° de bachillerato en el Colegio Santander de **Genaro Anaya**, un gran profesor de castellano. En 1972 me gradué de primaria en la **escuela La Milagrosa de Getsemaní en Cartagena**. En 1974 hice un examen de ingreso al liceo. Salí excelente. Me dieron el cupo. **En esos momentos no tenía claro a qué vine al mundo.** Pero tenía una idea de lo que iba a hacer con mi vida. En los próximos cuatro años comenzaba el despertar.
@@ -30,7 +30,7 @@ Quizás fueron cuatro años (1974-1977) que nos formamos en una escuela de psico
 
 ## ¿Por qué trascendieron lo material
 
-![La muerte de su hijo y de su esposa Candelaria, pudieron llevar a Eduardo García a una depresión. Trascendieron lo material.](./Eduardo-Garcia-Martelo_familia.jpg)
+![La muerte de su hijo y de su esposa Candelaria, pudieron llevar a Eduardo García a una depresión. Trascendieron lo material.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/garcia-y-espana-trascendieron-lo-material/Eduardo-Garcia-Martelo_familia.jpg)
 *La muerte de su hijo y de su esposa Candelaria, pudieron llevar a Eduardo García a una depresión.*
 
 **Y pensamos salvar al mundo**, Y ellos trascendieron lo material haciendo lo que sabían. Y debíamos ser ejemplo. Un espejo donde se reflejara la nueva sociedad que pretendíamos construir. Debíamos ser transparentes, críticos, autocríticos, solidarios, amorosos y abnegados. Y no era cuestión de teoría. Salíamos a apoyar a los obreros petroleros de El Limón, Cicuco, y en contra de Ecopetrol. Lo hacíamos por solidaridad con el más débil. O los campesinos de las sabanas de Bolívar y Sucre a reclamar sus parcelas. ¡Lo hacíamos con mística! **Éramos una especie de ascetas o monjes, cuya espiritualidad estaba dada en el servicio social y en la militancia política**.
@@ -52,7 +52,7 @@ Dos años más tarde, ya estaba estudiando periodismo en la Universidad Autónom
 
 ## 1975
 
-![¿Quién no se conmovió con esta fotografía en 1972? Los que seguíamos la guerra de Vietnam nos impactó mucho. Por eso el triunfo de los norvietnamistas sobre los Estados Unidos nos llenó de alegría a la juventud de aquella época que estábamos contra la guerra](./Nina-vietnam.jpg)
+![¿Quién no se conmovió con esta fotografía en 1972? Los que seguíamos la guerra de Vietnam nos impactó mucho. Por eso el triunfo de los norvietnamistas sobre los Estados Unidos nos llenó de alegría a la juventud de aquella época que estábamos contra la guerra](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/garcia-y-espana-trascendieron-lo-material/Nina-vietnam.jpg)
 *¿Quién no se conmovió con esta fotografía en 1972? Los que seguíamos la guerra de Vietnam nos impactó mucho. Por eso el triunfo de los norvietnamistas sobre los Estados Unidos nos llenó de alegría a la juventud de aquella época que estábamos contra la guerra.*
 
 Para 1975 teníamos un gran compromiso: seguir el legado dejado por una camada de líderes estudiantiles que terminaron su bachillerato. Muchos debieron trasladarse a otras ciudades a estudiar sus carreras profesionales. **Luis Martínez, Andrés Amell, Augusto Salas, Arturo Zea** y muchos otros. Arturo, quien se distinguió por ser también un destacado propagandista y amante del arte, era responsable del circulo de estudio donde yo me encontraba. Arturo Zea, gracias a la influencia política de su cuñado, Farid Arana, fue nombrado alcalde de Magangué seis años más tarde. Eduardo García se quedó en Magangué, porque en aquel tiempo era también mensajero del Liceo Vélez. Y los directivos del Liceo no sabían de su militancia trotskista. Desconocían que era él, junto con Nestaly Prins, quienes hacían los grandes pósters de Camilo Torres o El Che, nuestros héroes en el imaginario revolucionario.

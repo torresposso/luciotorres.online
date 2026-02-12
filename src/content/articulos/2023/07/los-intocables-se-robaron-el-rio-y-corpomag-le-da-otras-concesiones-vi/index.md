@@ -5,10 +5,10 @@ pubDate: "2023-07-12 02:18:32"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-intocables-se-robaron-el-rio-y-corpomag-le-da-otras-concesiones-vi/"./hero.jpg"
 ---
 
-![Rafael Matera Lajud, dueño de matadero Camagüey, y representante de Los Intocables, al parecer se robaron el Río Ariguaní con la complicidad del director de la Corporación Autonómica Regional del Magdalena―Corpomag.](./hero.jpg)
+![Rafael Matera Lajud, dueño de matadero Camagüey, y representante de Los Intocables, al parecer se robaron el Río Ariguaní con la complicidad del director de la Corporación Autonómica Regional del Magdalena―Corpomag.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-intocables-se-robaron-el-rio-y-corpomag-le-da-otras-concesiones-vi/hero.jpg)
 *Rafael Matera Lajud (a la izquierda), dueño del matadero Camagüey, y representante de Los Intocables, al parecer se robaron el Río Ariguaní con la complicidad del director de la Corporación Autónoma Regional del Magdalena―Corpomag, Carlos Díaz-Granados.*
 
 Los valles y llanuras alrededor del río Ariguaní, además de ser un esplendor de belleza, eran una fuente de alimento que el agua producía. Pero el monocultivo y la violencia cambiaron este hermoso panorama. **_Los Intocables_**, los empresarios que financiaron y determinaron los crímenes de los paramilitares, se robaron el río Ariguaní y, no contentos con esto, la **Corporación Autónoma Regional del Magdalena―Corpomag**, les entregó tres concesiones de agua. Una de ellas, del río Magdalena. Esta afirmación es tan verdadera como la _corriente de agua clara que baja de la Sierra Nevada_, por lo cual los aborígenes la bautizaron en su lengua con el nombre **de Ariguaní**.
@@ -27,7 +27,7 @@ Se tiene conocimiento que, luego del triunfo del paramilitarismo ―como proyect
 
 ## Era un paraíso
 
-![](./Captura-de-pantalla-2023-07-11-2017260Nacimiento-del-rio-Ariguani_pueblo-bello.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-intocables-se-robaron-el-rio-y-corpomag-le-da-otras-concesiones-vi/Captura-de-pantalla-2023-07-11-2017260Nacimiento-del-rio-Ariguani_pueblo-bello.jpg)
 *A la altura de Pueblo Bello, Cesar, las aguas cristalinas del Ariguaní.*
 
 Los habitantes más antiguos de las riberas del río Ariguaní manifestaron que, tanto la parte alta como la baja, constituían un ecosistema parecido al mítico paraíso del Edén. Así lo manifestó uno de los habitantes a _RCN_, emisora radial que retomó _Voxpopuli Digital_:
@@ -40,7 +40,7 @@ Te puede interesar: Mancuso, los crímenes de «Los intocables» y la JEP (III (
 
 ## ¿Por qué se robaron el río **Ariguaní**?
 
-![Así se robaron el Río Ariguaní. Cuando comenzaron a realizar obras civiles no autorizadas legalmente con la vista gorda del director de Corpomag./ElHeraldo.](./placeholder.jpg)
+![Así se robaron el Río Ariguaní. Cuando comenzaron a realizar obras civiles no autorizadas legalmente con la vista gorda del director de Corpomag./ElHeraldo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-intocables-se-robaron-el-rio-y-corpomag-le-da-otras-concesiones-vi/placeholder.jpg)
 *Así se robaron el río Ariguaní: cuando comenzaron a realizar obras civiles no autorizadas legalmente, bajo la vista gorda del director de Corpomag. Foto El Heraldo.*
 
 Las comunidades, y entre ellas los líderes sociales, ganaderos, finqueros, campesinos y pescadores de **Bosconia, Ariguaní, El Copey, Algarrobo y San Ángel, vienen denunciando desde 2007 que en la región norte se han robado el río Ariguaní sin que las autoridades hayan detenido esa situación irregular.** Las consecuencias de ese robo se expresan en la pobreza de la población por la afectación de su economía campesina, ganadera y pesquera. Además de producir daños irreparables al medio ambiente, este hecho está afectando profundamente al núcleo económico, la forma de vida y el desarrollo cultural de la región.
@@ -51,7 +51,7 @@ El exjefe paramilitar, **Salvatore Mancuso (documento no disponible)**, en difer
 
 ## ¿Cómo se robaron el río Ariguaní?
 
-![](./Rio-ariguani.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-intocables-se-robaron-el-rio-y-corpomag-le-da-otras-concesiones-vi/Rio-ariguani.jpg)
 *Río Ariguaní.*
 
 La primera denuncia que se tiene bien documentada fue presentada formalmente a Corpomag y a Corpocesar en 2007, por **Joaquín Tomás Ovalle**, uno de los finqueros directamente afectados por la desviación del río, quien denunció que personas privadas venían realizando obras civiles para desviar el Ariguaní en un sitio localizado a 30 metros de la bocatoma _El Indio_, También se denunciaron otras construcciones ilegales como en el predio La Pola, jurisdicción del departamento del Magdalena.
@@ -64,7 +64,7 @@ La obra civil que hicieron, por su _propio cojón_, los finqueros del norte, al 
 
 ## Archivaron las investigaciones
 
-![La parte resolutiva donde se declara la cesación de proceso contra una de las tres investigaciones contra Rafael Matera Lajud. a pesar de que se robaron el Río Ariguaní](./Cormagdalena_Res1527.jpg)
+![La parte resolutiva donde se declara la cesación de proceso contra una de las tres investigaciones contra Rafael Matera Lajud. a pesar de que se robaron el Río Ariguaní](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-intocables-se-robaron-el-rio-y-corpomag-le-da-otras-concesiones-vi/Cormagdalena_Res1527.jpg)
 *Parte resolutiva donde se declara la cesación del proceso en una de las tres investigaciones contra Rafael Matera Lajud, a pesar del robo del Río Ariguaní.*
 
 Estas irregularidades están sustentadas por las quejas formales de las comunidades y de personas que, en particular, se han visto afectadas por esos abusos sobre el río. Esas dos corporaciones regionales, evidentemente, parecen estar al servicio del despojo de los recursos naturales que le pertenecen a la Humanidad y, por ende, los procesos los resolvieron a favor de los victimarios.
@@ -87,7 +87,7 @@ En Santa Marta, a **Carlos Francisco Díaz-Granados Martínez** lo conocen como 
 
 ## Las concesiones a Camag**ü**ey
 
-![](./Camaguey-rio-magdalena.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-intocables-se-robaron-el-rio-y-corpomag-le-da-otras-concesiones-vi/Camaguey-rio-magdalena.jpg)
 *Se robario el río Ariguani*
 
 Una de las últimas concesiones a **Rafael Matera Lajud** data de 2016, precisamente cuando ya los jefes del paramilitarismo, incluyendo al propio Mancuso, habían confesado sus crímenes contra la humanidad y delatado a sus financiadores, como Rafael Matera Lajud. Esta concesión fue adoptada con la resolución No 1574 de 2016-07-01 (documento no disponible):
@@ -108,7 +108,7 @@ De la misma manera, en el 2020 se le otorgó otra concepción mediante la Resolu
 
 ## ¿Qué dice Susana Muhamad?
 
-![Susana Muhuamad, ministra de Medio Ambiente debe actuar. Así se robaron el Río Ariguaní.](./Susana-Muhamad1.jpg)
+![Susana Muhuamad, ministra de Medio Ambiente debe actuar. Así se robaron el Río Ariguaní.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-intocables-se-robaron-el-rio-y-corpomag-le-da-otras-concesiones-vi/Susana-Muhamad1.jpg)
 *Susana Muhuamad, ministra de Medio Ambiente, debe actuar frente al robo del río Ariguaní.*
 
 Ante este atentado contra el patrimonio de la humanidad, decretado por varias Corporaciones Autónomas Regionales, el ministerio de Medio Ambiente debe ponerle contención a estas entidades, especialmente a sus directores que están cometiendo un crimen contra la humanidad. Si el presidente Gustavo Petro manifiesta que se debe ordenar el territorio en torno al agua, **¿por qué el ministerio de Medio Ambiente no ha adoptado las acciones pertinentes?** Lo que estamos viendo es un doble crimen contra la naturaleza. Es un proceso de privatización de nuestros recursos, especialmente del agua, fuente de vida de nuestras tierras y del ser humano. Una privatización entregada a los criminales que se apoderaron del territorio con fuego y sangre de personas despojadas de sus propiedades.

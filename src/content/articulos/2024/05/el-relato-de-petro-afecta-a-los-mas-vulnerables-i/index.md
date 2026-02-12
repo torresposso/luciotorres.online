@@ -5,10 +5,10 @@ pubDate: "2024-05-16 02:28:13"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/el-relato-de-petro-afecta-a-los-mas-vulnerables-i/"./hero.jpg"
 ---
 
-![El relato de Petro afecta a los más vulnerables (I)](./hero.jpg)
+![El relato de Petro afecta a los más vulnerables (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/el-relato-de-petro-afecta-a-los-mas-vulnerables-i/hero.jpg)
 *El relato de Petro afecta a los más vulnerables (I)*
 
 El relato de Petro es una estrategia política de contraatacar, al mismo tiempo, contra diferentes flancos y con la virulencia del discurso presidencial. Este relato instauró un clima de confrontación innecesaria en la nación que, contrario a lo que consideran sus seguidores, solo perjudica a los más vulnerables y necesitados. Para darse cuenta de esta situación, basta mirarse a sí mismo. Nada ha cambiado en su entorno. Los mismos con las mismas, como solía decir J.E. Gitán. Solo oportunidades individuales que se perciben en aquellos que tienen influencia con el alto gobierno. Bajo el temor real o no de que lo _**van a tumbar**_, sin duda, el presidente Petro, no sólo se desmitifica, también está cavando su propia muerte política que lo debilita profundamente. Esto creó una incertidumbre social y económica.

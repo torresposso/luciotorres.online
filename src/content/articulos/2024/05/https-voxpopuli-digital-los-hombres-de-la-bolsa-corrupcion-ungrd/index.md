@@ -5,11 +5,11 @@ pubDate: "2024-05-29 02:56:52"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/https-voxpopuli-digital-los-hombres-de-la-bolsa-corrupcion-ungrd/"./hero.jpg"
 ---
 
 ![¿«Las bisagras del gobierno»? / UNGRD CAJA MENOR
-](./placeholder.jpg)
+](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/https-voxpopuli-digital-los-hombres-de-la-bolsa-corrupcion-ungrd/placeholder.jpg)
 *¿«Las bisagras del gobierno»? / UNGRD CAJA MENOR*
 
 ¿Por qué les llaman **«Las bisagras del gobierno»** a los funcionarios que ocuparon la Subdirección de Manejo de Desastres? ¿Son los hombres bisagras del gobierno? Para responder estas preguntas debemos partir de tres elementos fundamentales. **El primero**. Tenemos un congreso que funciona mediante un sistema mercantil de transacción. **Lo segundo**. El papel de los personajes directamente involucrados en estos casos de corrupción es de **bisagra entre el ejecutivo que corrompe y el legislativo que extorsiona**. Por tanto, se presenta una **tercera premisa**: Se configura un **_«_dame y te doy»** (delito de cohecho) como en el viejo caso de la **«Yidispolítica»**. Es decir, La UNGRD la transformaron en una caja menor para comprar favores políticos.
@@ -18,7 +18,7 @@ En consecuencia, la conducta de estos personajes marca la continuidad y el _modu
 
 ## La Corte y la Fiscalía
 
-![¿«Las bisagras del gobierno»? Diego Vargas Vega/UNGRD.](./Diego-David-Vargas-Vega.jpeg)
+![¿«Las bisagras del gobierno»? Diego Vargas Vega/UNGRD.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/https-voxpopuli-digital-los-hombres-de-la-bolsa-corrupcion-ungrd/Diego-David-Vargas-Vega.jpeg)
 *¿«Las bisagras del gobierno»? . Diego Vargas Vega/UNGRD.*
 
 La Fiscalía y la Corte Suprema de Justicia pueden y deben construir líneas investigativas sostenibles para erradicar estas **_«_**ollas podridas**»** protagonizadas por **¿«Las bisagras del gobierno»?** Tal como lo hizo con **_«_**Las marionetas**»**,
@@ -31,7 +31,7 @@ En ese sentido, se entendería que la llegada del exconcejal **Carlos Carrillo**
 
 ## **_«_Incompetencia suprema»**
 
-![La parlamentaria de Alianza Verde calificó de «Incompetencia suprema» a Carlos Carrillo en la UNGRD. ¿«Las bisagras del gobierno»?/Cortesía Colprensa.](./Carlos_carrillo_Caterhine.jpeg)
+![La parlamentaria de Alianza Verde calificó de «Incompetencia suprema» a Carlos Carrillo en la UNGRD. ¿«Las bisagras del gobierno»?/Cortesía Colprensa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/https-voxpopuli-digital-los-hombres-de-la-bolsa-corrupcion-ungrd/Carlos_carrillo_Caterhine.jpeg)
 *La parlamentaria de Alianza Verde calificó de «Incompetencia suprema» a Carlos Carrillo en la UNGRD. ¿«Las bisagras del gobierno»?/Cortesía Colprensa.*
 
 Sin embargo, el ataque frontal de Carrillo contra algunos parlamentarios en el debate realizado este 28 de mayo en la Comisión VI de la Cámara, lo dice todo. La actuación de Carrillo fue calificada de **_«_incompetencia suprema»** por la parlamentaria **Catherine Juvinao**. Dice mucho de su verdadero papel en la UNGRD, más allá de su grandilocuente discurso contra la corrupción. En el debate, fungió de inquisidor contra los parlamentarios y no como funcionario que debía responder por los resultados de su gestión para corregir lo actuado. Actuación que es deficitaria, según la evaluación que le hicieron.
@@ -42,7 +42,7 @@ En ese debate contó con el beneplácito de la presidenta de esa unidad legislat
 
 ## **¿«Las bisagras del gobierno»?**
 
-![¿Entre el presidente y Olmedo, el hombre bisagra de presidencia? ¿«Las bisagras del gobierno»?/Cortesía Colprensa../Presidencia.](./olmedo_Lopez_Gonzalez-1024x638.jpeg)
+![¿Entre el presidente y Olmedo, el hombre bisagra de presidencia? ¿«Las bisagras del gobierno»?/Cortesía Colprensa../Presidencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/https-voxpopuli-digital-los-hombres-de-la-bolsa-corrupcion-ungrd/olmedo_Lopez_Gonzalez-1024x638.jpeg)
 *¿Entre el presidente y Olmedo, el hombre bisagra de presidencia? ¿«Las bisagras del gobierno»?/Cortesía Colprensa../Presidencia.*
 
 Todos los gobiernos que suceden en el siglo XXI ―incluyendo el de Gustavo Petro― cayeron en las profundidades de la corrupción y de la demagogia. La confesión mayor de **Olmedo De Jesús López Martínez**, exdirector general de la UNGRD, es la apropiación indebida de **$380 mil millones** para comprar congresistas con el fin de **facilitar el trámite de las reformas y la obtención de créditos oficiales**. Lo que está diciendo es que su conducta no fue un acto aislado. Por el contrario, su **rol fue de bisagra** entre el alto poder y el congreso. Papel que también debió asumir la mensajera **Sandra Ortiz**, ex Consejera para las Regiones.

@@ -5,10 +5,10 @@ pubDate: "2023-05-26 02:32:11"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/nulidad-de-eleccion-del-contralor-contralor-de-bolsillo/"./hero.jpg"
 ---
 
-![Se cayó por ilegal la estrategia de Roy Barreras para tener contralor de «bolsillo» a Carlos Hernán Rodriguez.](./hero.jpg)
+![Se cayó por ilegal la estrategia de Roy Barreras para tener contralor de «bolsillo» a Carlos Hernán Rodriguez.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/nulidad-de-eleccion-del-contralor-contralor-de-bolsillo/hero.jpg)
 *Se cayó por ilegal la estrategia de Roy Barreras para tener contralor de «bolsillo» a Carlos Hernán Rodriguez.*
 
 El Consejo de Estado decretó hoy la nulidad de la elección del contralor de «bolsillo», **Carlos Hernán Rodríguez Becerra**, para el período 2022 – 2026. Al mismo tiempo, creó un precedente histórico en la elección de altos cargos en el congreso. Si bien es un proceso político, debe ser fiel a los principios de transparencia, justicia equidad y legitimidad. La Sección Quinta del alto tribunal tomó esa decisión bajo estos principios, los cuales suelen ser violados en las elecciones locales y regionales de contralores.

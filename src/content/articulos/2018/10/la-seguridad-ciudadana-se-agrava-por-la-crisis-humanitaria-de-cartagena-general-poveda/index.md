@@ -5,7 +5,7 @@ pubDate: "2018-10-04 14:39:09"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/la-seguridad-ciudadana-se-agrava-por-la-crisis-humanitaria-de-cartagena-general-poveda/"./hero.jpg"
 ---
 
 ## **ENTREVISTA CON EL GENERAL POVEDA**

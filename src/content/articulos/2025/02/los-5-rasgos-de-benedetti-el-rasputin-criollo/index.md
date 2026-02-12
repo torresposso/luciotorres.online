@@ -5,10 +5,10 @@ pubDate: "2025-02-11 04:52:52"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/los-5-rasgos-de-benedetti-el-rasputin-criollo/"./hero.jpg"
 ---
 
-![La transformación de Armando Benedetti en el «Rasputín criollo»](./Rasputin_criollo.jpeg)
+![La transformación de Armando Benedetti en el «Rasputín criollo»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/los-5-rasgos-de-benedetti-el-rasputin-criollo/Rasputin_criollo.jpeg)
 *La transformación de Armando Benedetti en el «Rasputín criollo».*
 
 En  la «noche triste» del 4 de febrero de 2025, en el último Consejo de Ministros del Gobierno del Cambio, el presidente Gustavo Petro le dio su respaldo total al que podría ser el **«Rasputín criollo**»**.** Esta decisión, además de las renuncias irrevocables provocadas ―incluyendo la del ministro de Defensa, **Iván Velásquez**― definiría la suerte de nuestra nación en los próximos dos años.
@@ -42,7 +42,7 @@ Si nos atenemos a los biógrafos de **Grigory Yefímovich Rasputín** (1869―19
 
 ## Los 5 rasgos del **«Rasputín criollo**»****
 
-![](./Benedetti_.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/los-5-rasgos-de-benedetti-el-rasputin-criollo/Benedetti_.jpeg)
 *Las relaciones amorosas tormentosas «Rasputín criollo». (Cortesía Kas 2Orillas).*
 
 *   **Inestabilidad emocional**. Benedetti experimenta repentinamente cambios de humor. Pasa, en forma rápida, de la euforia al enfado o la depresión.

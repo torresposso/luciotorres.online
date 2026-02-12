@@ -5,10 +5,10 @@ pubDate: "2021-06-01 13:28:14"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/dionisio-miranda-los-orishas-acompanen-tu-regreso/"./hero.jpg"
 ---
 
-\[caption id="attachment\_15234" align="aligncenter" width="750"\]![](./hero.jpg) **Dionisio Miranda**, un cimarrón que se fue.\[/caption\]
+\[caption id="attachment\_15234" align="aligncenter" width="750"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/dionisio-miranda-los-orishas-acompanen-tu-regreso/hero.jpg) **Dionisio Miranda**, un cimarrón que se fue.\[/caption\]
 
 Dionisio Miranda está de regreso a la naturaleza. Sus orishas lo iluminan en su eterno retorno. Esta mañana me levanté a revisar mi trabajo periodístico. Y lo primero que hallé fue la infausta noticia de la muerte por la Covid—19 de mi hermano de lucha y de ideas, **Dionisio Miranda Tejedor. Fue un verdadero cimarrón descendiente de Benkos.**
 

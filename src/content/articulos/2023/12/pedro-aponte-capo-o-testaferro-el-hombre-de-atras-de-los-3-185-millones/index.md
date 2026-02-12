@@ -5,10 +5,10 @@ pubDate: "2023-12-22 04:31:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/pedro-aponte-capo-o-testaferro-el-hombre-de-atras-de-los-3-185-millones/"./hero.jpg"
 ---
 
-![Pedro Aponte ¿Capo o testaferro?](./hero.jpg)
+![Pedro Aponte ¿Capo o testaferro?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/pedro-aponte-capo-o-testaferro-el-hombre-de-atras-de-los-3-185-millones/hero.jpg)
 *Pedro Aponte ¿Capo o testaferro? ¿El hombre de atrás de los $3.185 millones? El alcalde William Dau se está robando la ciudad en los últimos días.*
 
 **Pedro de Jesús Aponte García**, un abogado que nunca ha litigado. Pero, de la noche a la mañana, apareció viviendo en Barcelonas de Indias en una suntuosa casa, cuyo costo supera los **$2 mil millones**. Se pasea con carros de alta gama, rolex, ropa de costosas marcas, cadenas de oro de alto gramaje y una vida de _nuevo traqueto_. De edil saltó a ser hoy uno de los concejales más votados. Le dicen, entre bambalinas, [«](https://youtu.be/rnSt6Ivgp9w?feature=shared)el Patrón[»](https://youtu.be/rnSt6Ivgp9w?feature=shared).
@@ -21,7 +21,7 @@ Te puede interesar: [E](/articulos/el-juguete-que-el-alcalde-le-dio-a-su-hijo-ab
 
 ## Pedro Aponte: ¿Capo o testaferro?
 
-![Pedro Aponte está recuperando la plata que gastó en campaña hacia el concejo.](./Pedro_aponte.jpg)
+![Pedro Aponte está recuperando la plata que gastó en campaña hacia el concejo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/pedro-aponte-capo-o-testaferro-el-hombre-de-atras-de-los-3-185-millones/Pedro_aponte.jpg)
 *Pedro Aponte parece que está recuperando la plata que gastó en campaña hacia el concejo.*
 
 ¿Quién es Pedro Aponte? Su padre era un penalista que defendía a los traquetos de su época. Vivían en un conjunto residencial de la localidad donde el 80 por ciento está en pobreza. El niño creció en ese ambiente de cruces, _pase de muletas_, arreglos y conversaciones con delincuentes de poca y de mucha monta. Su ética y su moral se formaron en medio de una elasticidad que se presta para ser lo que hoy representa en el poder local.

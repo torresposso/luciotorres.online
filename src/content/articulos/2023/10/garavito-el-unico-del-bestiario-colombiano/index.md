@@ -5,10 +5,10 @@ pubDate: "2023-10-13 01:55:53"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/garavito-el-unico-del-bestiario-colombiano/"./hero.jpg"
 ---
 
-![Una de las últimas fotos de  Luis Alfonso. Murió «La Bestia» que violó y mató a 172 personas](./hero.jpg)
+![Una de las últimas fotos de  Luis Alfonso. Murió «La Bestia» que violó y mató a 172 personas](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/garavito-el-unico-del-bestiario-colombiano/hero.jpg)
 *Una de las últimas fotos de Luis Alfonso Garavito Cubillos. Murió «La Bestia» que violó y mató a 172 personas*
 
 ¿Garavito, la única bestia del «Bestiario» colombiano que violó y mató? ¿Nadie asistirá a su entierro? No se sabe. Pero, las 172 víctimas fatales de sus vejámenes sexuales de este depravado sexual, de inclinación homosexual, deben sentir un alivio eterno, porque ya no le hará daño a más nadie. Distinta es la situación de las almas de los **6.402** _**falsos positivos**_ que la JEP contabilizó durante los dos períodos del **presidente Álvaro Uribe Vélez**. ¿Se le puede calificar de «Bestia» como se le apodó a Laureano Gómez de «El Basilisco»?

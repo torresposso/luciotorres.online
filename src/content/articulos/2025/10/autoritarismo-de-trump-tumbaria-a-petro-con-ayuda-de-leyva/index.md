@@ -5,10 +5,10 @@ pubDate: "2025-10-20 01:45:13"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/autoritarismo-de-trump-tumbaria-a-petro-con-ayuda-de-leyva/"./hero.jpg"
 ---
 
-![¿Autoritarismo de Trump tumbaría a Petro con ayuda de Leyva? Se escala crisis diplomática colombo-norteamericana. ¿Por qué Trump acusa de narcotráfico a Petro sin presentar pruebas?](./hero.jpg)
+![¿Autoritarismo de Trump tumbaría a Petro con ayuda de Leyva? Se escala crisis diplomática colombo-norteamericana. ¿Por qué Trump acusa de narcotráfico a Petro sin presentar pruebas?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/autoritarismo-de-trump-tumbaria-a-petro-con-ayuda-de-leyva/hero.jpg)
 *¿Autoritarismo de Trump tumbaría a Petro con ayuda de Leyva? Se escala crisis diplomática colombo-norteamericana. ¿Por qué Trump acusa de narcotráfico a Petro sin presentar pruebas?*
 
 Tras la gran jornada de protesta de la sociedad civil norteamericana contra el **autoritarismo de Trump** que debilitó la percepción de su figura, el presidente estadounidense escaló su ataque en el Caribe como una demostración de fortaleza para buscar cohesión interna. El estallido diplomático del 19 de octubre de 2025 marca otro escalón en la manifestación autoritaria de la Casa Blanca: **Trump acusó sin pruebas a Gustavo Petro de ser “un líder del narcotráfico”**.
@@ -19,7 +19,7 @@ Pero ese hecho no puede estimarse como excusa **para escalar la conducta hostil 
 
 ## ¿Nueva era de intervenciones?
 
-![](./Donald_trump-1024x750.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/autoritarismo-de-trump-tumbaria-a-petro-con-ayuda-de-leyva/Donald_trump-1024x750.jpeg)
 
 El anuncio de Trump abre la puerta a intervenciones militares u otras formas de coerción que atenta contra la soberanía nacional no solo de Venezuela y Colombia sino de toda la región del Caribe. Intervenciones que caracterizaron las relaciones internacionales norteamericanas con América Latina.
 
@@ -49,7 +49,7 @@ En este contexto, la relación con Colombia cambió: se revocó el estatus de al
 
 ## **La ofensiva contra Petro**
 
-![Le recomiendo a Trump leer bien a Colombia’: presidente Petro. El autoritarismo de Trump se siente en el Caribe.](./Gustavo_petro-1024x576.jpg)
+![Le recomiendo a Trump leer bien a Colombia’: presidente Petro. El autoritarismo de Trump se siente en el Caribe.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/autoritarismo-de-trump-tumbaria-a-petro-con-ayuda-de-leyva/Gustavo_petro-1024x576.jpg)
 *‘Le recomiendo a Trump leer bien a Colombia’: presidente Petro. El autoritarismo de Trump se siente en el Caribe. Foto presidencia.*
 
 Sin presentar ninguna prueba documental pública, Trump afirmó que Petro “consiente la producción masiva de drogas, en grandes y pequeñas parcelas por todo Colombia” y que EE.UU. deja de financiar “este negocio que mata, destruye y causa caos” que calificó como mayor que cualquier otro en el país andino.
@@ -76,6 +76,6 @@ El autoritarismo de Trump fue más contundente cuando anunció en su mensaje de 
 
 > Petro (...) debería cerrar estos campos de exterminio inmediato, o Estados Unidos se los cerrará, y no será bien recibido.
 
-![](./Trump_truth_.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/autoritarismo-de-trump-tumbaria-a-petro-con-ayuda-de-leyva/Trump_truth_.jpeg)
 
 Lo que está en juego no es solo la crisis entre dos gobiernos, sino la redefinición de los límites del poder estadounidense frente a la soberanía de los Estados caribeños y latinoamericanos.

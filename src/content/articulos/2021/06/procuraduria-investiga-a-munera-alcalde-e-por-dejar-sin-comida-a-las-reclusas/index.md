@@ -5,10 +5,10 @@ pubDate: "2021-06-07 18:45:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/procuraduria-investiga-a-munera-alcalde-e-por-dejar-sin-comida-a-las-reclusas/"./hero.jpg"
 ---
 
-\[caption id="attachment\_15339" align="aligncenter" width="1280"\]![](./hero.jpg) La Procuraduría investiga a David Múnera, secretario del Interior por omisión. Pero se ha demorado más de un año sin pronunciarse.\[/caption\]
+\[caption id="attachment\_15339" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/procuraduria-investiga-a-munera-alcalde-e-por-dejar-sin-comida-a-las-reclusas/hero.jpg) La Procuraduría investiga a David Múnera, secretario del Interior por omisión. Pero se ha demorado más de un año sin pronunciarse.\[/caption\]
 
 La Procuraduría investiga al Secretario del Interior Distrital, **David Múnera Cavadía**, alcalde (e) por el caso de la cárcel distrital. Es una investigación eterna, como casi todas las cosas del ente disciplinador. Las reclusas de San Diego, cárcel distrital de mujeres de Cartagena, **duraron 44 días sin recibir alimentos por negligencia de la administración central.** Para no morirse de hambre, el proveedor anterior le suministró alimentos por ese período hasta cuando hicieron una contratación de mínima cuantía. **El donante se ganó posteriormente la licitación**.
 
@@ -38,7 +38,7 @@ Como el proceso de licitación tardaba, el alcalde distrital se vio en la necesi
 
 ## EL DISCIPLINADOR
 
-\[caption id="attachment\_15346" align="aligncenter" width="1071"\]![](./IMG_20210608_051128.jpg) Procuraduría **investiga ¿hasta cuándo? Juan David Morales Barbosa,** procurador provincial. ¿Desempolvará este caso? Es una ficha de Alex Char.\[/caption\]
+\[caption id="attachment\_15346" align="aligncenter" width="1071"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/procuraduria-investiga-a-munera-alcalde-e-por-dejar-sin-comida-a-las-reclusas/IMG_20210608_051128.jpg) Procuraduría **investiga ¿hasta cuándo? Juan David Morales Barbosa,** procurador provincial. ¿Desempolvará este caso? Es una ficha de Alex Char.\[/caption\]
 
 Desde el 20 de febrero de 2020 la Procuraduría Provincial tiene el caso. ¿Esperaremos otro año más? **Guidobaldo Flórez** no lo movió, aunque en su balance de gestión presentó resultados positivos. La respuesta la tiene ahora  **Juan David Morales Barbosa,**  quien vino importado de Barranquilla por la procuradora **Margarita Cabello.** Antes de que se fuera, Fernando Carrillo había puesto en ese cargo a **Nubia Chams Sanmartin**, quien fuera una diligente funcionaria de la alcaldesa **Judith Pinedo Flórez**. 
 

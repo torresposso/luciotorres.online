@@ -5,10 +5,10 @@ pubDate: "2025-06-30 17:17:53"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/hero.jpg)
 *Nydia Quintero Turbay, el adiós de una mujer con propósito. Desafío al mundo pidiéndole el divorcio a su marido, el presidente Julio César Turbay Ayala.*
 
 Hoy fue el último adiós de una mujer con propósito. **Nydia Quintero Turbay**. Todo el país debería sentir lo que sienten aquellas personas que se beneficiaron con los servicios de la **Fundación Solidaridad por Colombia**. Contrarío las políticas represivas de su primer marido, el presidente **Julio César Turbay Ayala**, cuando tenía la marquilla de Primera Dama.
@@ -21,7 +21,7 @@ Pero Doña Nydia también desafío el convulsionado momento de una nación azota
 
 ## La muerte
 
-![](./Nydia_quintero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/Nydia_quintero.jpg)
 
 Después de estar internada en la clínica Santa Fe, desde hacía 20 días, falleció hoy en la madrugada. Allí donde se encuentra hospitalizado su nieto **Miguel Uribe Turbay**, hijo menor de **Diana Turbay Quintero**, luego del atentado criminal del 7 de junio de 2025.
 

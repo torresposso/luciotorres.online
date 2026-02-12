@@ -5,10 +5,10 @@ pubDate: "2022-03-14 04:53:05"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/petro-fico-y-fajardo-los-candidatos-de-izquierda-derecha-y-centro/"./hero.jpg"
 ---
 
-![Petro, Fico y Fajardo, los candidatos de la izquierda, la derecha y el centro](./hero.jpg)
+![Petro, Fico y Fajardo, los candidatos de la izquierda, la derecha y el centro](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/petro-fico-y-fajardo-los-candidatos-de-izquierda-derecha-y-centro/hero.jpg)
 *Petro, Fico y Fajardo, los candidatos de la izquierda, la derecha y el centro*
 
 Definitivo: Petro, Fico y Fajardo, son los candidatos de izquierda, derecha y centro. Los resultados electorales en el día de hoy presentan tres hechos para destacar. **Lo primero** que **Gustavo Petro** (4.446.970 votos), **Federico Fico Gutiérrez** (2.121.130) y **Sergio fajardo (**713.373**)**, se convirtieron esta noche en los c**andidatos de la izquierda, la derecha y el centro político** de un país que históricamente ha sido dominado por los partidos tradicionales. **Lo segundo**. Los resultados en el congreso y, específicamente en el senado, indican que seguirá el mismo cacicazgo, tal como lo habíamos predicho. 
@@ -17,7 +17,7 @@ Definitivo: Petro, Fico y Fajardo, son los candidatos de izquierda, derecha y ce
 
 ## El PH, una victoria agridulce
 
-![Petro, Fico y Fajardo, los candidatos de la izquierda, la derecha y el centro. Francia Márquez. ](./800px-Francia_Marquez_F70A6326_49199213312_cropped.jpg)
+![Petro, Fico y Fajardo, los candidatos de la izquierda, la derecha y el centro. Francia Márquez. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/petro-fico-y-fajardo-los-candidatos-de-izquierda-derecha-y-centro/800px-Francia_Marquez_F70A6326_49199213312_cropped.jpg)
 *Francia Márquez, destacada en la consulta del Pacto Histórico,*
 
 Muy a pesar de una clara victoria del Pacto Histórico, no deja de ser agridulce. Si bien en la consulta obtuvo una votación superior a los 5 millones de votos, tal hecho no se reflejó en el senado ni en la cámara. Este resultado le podría costar a Petro si es elegido presidente. Incluso, puede ser un hándicap para ganar en la primera vuelta de las presidenciales. Podría causar un desánimo en un importante sector de sus seguidores.

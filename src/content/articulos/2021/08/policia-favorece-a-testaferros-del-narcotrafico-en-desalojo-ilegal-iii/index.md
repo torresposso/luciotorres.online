@@ -5,10 +5,10 @@ pubDate: "2021-08-09 22:18:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/policia-favorece-a-testaferros-del-narcotrafico-en-desalojo-ilegal-iii/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/policia-favorece-a-testaferros-del-narcotrafico-en-desalojo-ilegal-iii/hero.jpg)
 *Este es uno de los momentos del desalojo de La Europa el pasado 27 de julio de 2021. Policía favorece a testaferros.*
 
 El comandante de la Policía Nacional de Cartagena, **general Juan Carlos Hernández Aldana,** deberá responder por dos presuntas irregularidades que favorece a testaferros del narcotráfico. Quedó comprobado que el desalojo de más de 300 campesinos de la finca La Europa (Pasacaballos-Cartagena) el pasado 27 de julio, **cometieron dos protuberantes irregularidades.** La primera, la policía actuó cuando había perdido las facultades.  **La segunda, que es la más grave, el desalojo, además de afectar a los campesinos, burlaría que el predio sea sometido a un proceso de extinción de dominio.** 
@@ -17,7 +17,7 @@ En la anterior entrega decíamos que La policía nacional debe estar al servicio
 
 ## Policía favorece a testaferros
 
-![](./Retiro-de-querella-2.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/policia-favorece-a-testaferros-del-narcotrafico-en-desalojo-ilegal-iii/Retiro-de-querella-2.jpg)
 *Aquí está la prueba reinade. La policía favorece a testaferros*
 
 El abogado de los presuntos propietarios de La Europa, **Harold León Menaza**, retiró un día antes del desalojo (26 de julio) la querella. Esto permitiría conocer el proceso a un inspector de policía, pero impedía desarrollar una acción preventiva. El retirar la querella, tanto el abogado como la policía quisieron darle un viso de legalidad al desalojo, al asumirlo como una acción preventiva. Como se sabe, este tipo de intervención de la policía puede y debe darse dentro de las 48 horas posterior al hecho perturbante de la propiedad. 

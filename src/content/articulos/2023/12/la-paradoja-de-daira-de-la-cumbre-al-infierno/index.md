@@ -5,10 +5,10 @@ pubDate: "2023-12-05 02:25:02"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 tags: ["Corte Suprema de Justicia","Daira Galvis","María del Socorro Bustamante","Turco Gil"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/la-paradoja-de-daira-de-la-cumbre-al-infierno/"./hero.jpg"
 ---
 
-![La paradoja de Daira](./hero.jpg)
+![La paradoja de Daira](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/la-paradoja-de-daira-de-la-cumbre-al-infierno/hero.jpg)
 *Daira Galvis fue ingresada al HUC en 2021/senado. La paradoja de Daira: de la cumbre al infierno.*
 
 La paradoja de Daira: de la cumbre al infierno. ¿Por qué la Corte la acusa? La otrora altiva y soberbia senadora de Cambio Radical, **Daira de Jesús Galvis Méndez**, sobrevivió al Covid-19 (2021) que la llevó hasta las puertas de _San Pedro_. Pero, el _portero del cielo_ no se las abrió. "_¡Quedate un poco más en el infierno!"_, le diría Pedro. En cambio, un año después, su navío electoral naufragó en marzo de 2022. No se reeligió senadora. Hoy, probablemente, se encomienda a todos los santos y, en particular, al alma de su eterna compañera **María del Socorro** **Bustamante** para enfrentar el juicio más trascendental de toda su vida. Ya no como apoderada sino sentada en el _banquillo de los acusados_ ante la **Corte Suprema de Justicia** (CSJ).
@@ -25,14 +25,14 @@ La fama y el dinero vino después. La bolsa se llenó, y demasiado, que no es lo
 
 ## Apoderada del capitán Salas
 
-![Capitán Alfonso Salas. La paradoja de Daira: de la cumbre al infierno. ](./capitan-alfonso-salas.jpg)
+![Capitán Alfonso Salas. La paradoja de Daira: de la cumbre al infierno. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/la-paradoja-de-daira-de-la-cumbre-al-infierno/capitan-alfonso-salas.jpg)
 *Capitán Alfonso Salas.*
 
 El ser defensora y apoderada del **capitán Alfonso Salas**, dueño de la Sociedad Portuaria y de **Juancho García** la llevó a codearse con los nuevos ricos de Cartagena. Este caso la impulsó a perseguir penalmente al veedor ciudadano **Jorge Piedrahita Aduen**. Al médico cirujano lo querían matar. Finalmente murió como consecuencia de dicha persecución política. Instrumentalizaron la justicia para sus propósitos malsanos.
 
 ## La sociedad con Enilce López
 
-![La oscura relación con Enilce López y el paramilitarismo](./DAIRA_GATA1.jpg)
+![La oscura relación con Enilce López y el paramilitarismo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/la-paradoja-de-daira-de-la-cumbre-al-infierno/DAIRA_GATA1.jpg)
 *La oscura relación con Enilce López y el paramilitarismo.*
 
 No obstante, el trabajo más importante que la llevó a ser una abogada rica y famosa fue al final de la década de los 90. Se hizo la apoderada de **Enilce del Rosario López Romero** (1952). Casi tienen la misma edad. Ella nació en 1953. Daira obtuvo poder, dinero y fama. Se hizo senadora por primera vez en Convergencia Ciudadana, después de que cayera en desgracia uno de sus socios, **Luis Alberto _Tuerto_ Gil Castillo**, condenado por la parapolítica.
@@ -53,7 +53,7 @@ Sin duda, **la paradoja de Daira** es una historia real que todavía no se ha te
 
 ## Las preguntas que Daira no le respondió a la JEP
 
-![La JEP, el frustrado intento. La paradoja de Daira: Del cielo al infierno.](./Jep3-scaled-1.jpg)
+![La JEP, el frustrado intento. La paradoja de Daira: Del cielo al infierno.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/la-paradoja-de-daira-de-la-cumbre-al-infierno/Jep3-scaled-1.jpg)
 
 El 15 de julio de 2022, cuando Daira Galvis Méndez se iba a presentar ante la JEP, publicamos un seriado. En la segunda entrega seleccionamos varias preguntas que ella no pudo responder ante ese tribunal de justicia alternativa.
 

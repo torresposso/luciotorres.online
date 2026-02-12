@@ -5,10 +5,10 @@ pubDate: "2021-06-15 18:27:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/tercera-ola-del-covid-19-los-cadaveres-se-acumulan-en-las-morgues/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/tercera-ola-del-covid-19-los-cadaveres-se-acumulan-en-las-morgues/hero.jpg)
 *La tercera ola del Covid-19. Foto AP.*
 
 Sin duda, la tercera ola del Covid-19 no da tregua en Cartagena y Barranquilla. Colombia vive una situación de urgencia. **Irma Munive**, 75 años, **murió a las 2:00 de la tarde** del 14 de junio por Coronavirus en su casa de la Urbanización El Club de Cartagena. **La Armada**, su EPS, fue a las 7:00 de la noche para expedir el certificado de defunción y **dejó su cuerpo tirado en una silla**. A las 7:00 de la mañana del día hoy la funeraria Los Olivos fue por los restos mortales que seguían en la misma silla. 
@@ -23,7 +23,7 @@ Las dos principales ciudades de la Costa Caribe acumulan **1.567 y 5.068 muertes
 
 ## La tercera ola del Covid-19
 
-![](./ESTADISTICA-UCI-COVID.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/tercera-ola-del-covid-19-los-cadaveres-se-acumulan-en-las-morgues/ESTADISTICA-UCI-COVID.jpg)
 *El 91% de las camas UCI en Cartagena para Covid están ocupadas en la tercera ola del Covid-19. Fuente Dadis.*
 
 En la tercera ola el coronavirus ha sido más contagioso y, por tanto, letal. Las camas de Unidad de Cuidados Intensivos (UCI) están atestadas.  En Cartagena, por ejemplo, 42 pacientes en estado crítico esperan una cama UCI para ser conectados a un respirador artificial. **Si no lo hacen, en las próximas 24 horas podrían tener el destino fatal de Irma Munive.**
@@ -34,7 +34,7 @@ En Cartagena, por ejemplo, hasta el 15 de junio de 2021, su ocupación llega al 
 
 ## Los que más se mueren en la tercera ola del Covid-19
 
-![](./pOBLACIONES-MAS-VULNERABLES.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/tercera-ola-del-covid-19-los-cadaveres-se-acumulan-en-las-morgues/pOBLACIONES-MAS-VULNERABLES.jpg)
 *La tercera ola del Covid-19. Estos son los sectores poblacionales más impactados. Fuente INS.*
 
 Ya no se mueren los más viejitos. El 16% de la población  más vulnerable son los mayores de 60 años. Su incidencia es de 565.521 contagiados, de los cuales murieron 70.940. Por etnia, los afros están arriba con 2.522 muertos. Bajó el conglomerado de trabajadores de la salud.
@@ -53,7 +53,7 @@ No basta diagnosticar el Covid a tiempo, que nunca lo hacen las EPS, sino que es
 
 ## La urgencia en Cartagena-Tercera ola del Covid-19
 
-![](./UCI.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/tercera-ola-del-covid-19-los-cadaveres-se-acumulan-en-las-morgues/UCI.jpg)
 *En la tercera ola del Covid-19 diez centros hospitalarios están al tope, es decir, 100% de la ocupación en la tercera ola del Covid-19. Es el caso del Hospital Universitario del Caribe-HUC. Fuente Dadis.*
 
 Vale señalar la siguiente situación, con base en la información entregada por el CRUE en la Sala Situacional del Dadis Cartagena.

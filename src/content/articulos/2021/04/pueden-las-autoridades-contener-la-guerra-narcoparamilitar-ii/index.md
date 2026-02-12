@@ -5,10 +5,10 @@ pubDate: "2021-04-05 23:54:40"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/pueden-las-autoridades-contener-la-guerra-narcoparamilitar-ii/"./hero.jpg"
 ---
 
-\[caption id="attachment\_14309" align="aligncenter" width="565"\]![](./hero.jpg) Otoniel Úsuga sigue intocable. Cualquier cosa que le pase allí está "Chiquito Malo".\[/caption\]
+\[caption id="attachment\_14309" align="aligncenter" width="565"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/pueden-las-autoridades-contener-la-guerra-narcoparamilitar-ii/hero.jpg) Otoniel Úsuga sigue intocable. Cualquier cosa que le pase allí está "Chiquito Malo".\[/caption\]
 
 ¿Pueden las autoridades contener la guerra por «Blanca Nieve»? No es la única pregunta que toda persona sensata se hace por temor a la expansión de este poder mafioso del narcotráfico. **¿Cuál es el papel de la Policía Nacional? ¿Lo está haciendo con efectividad? ¿Está cumpliendo con su deber? ¿**La rotación en las comandancias de policía es suficiente para garantizar la efectividad en el combate contra el crimen organizado? ¿Cuál es la conducta de los alcaldes distritales y gobernadores frente a esta guerra?
 
@@ -34,7 +34,7 @@ La política de compensaciones a los agentes de policía por resultados, puede c
 
 ## **¿Se acabará La guerra por «Blanca Nieve»?**
 
-\[caption id="attachment\_14447" align="aligncenter" width="768"\]![](./Otoniel-Dairo-Uzuga.jpg) **Dairo Úzuga David**, alias Otoniel, jefe del Clan del Golfo. Fue viejo guerrillero del EPL.\[/caption\]
+\[caption id="attachment\_14447" align="aligncenter" width="768"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/pueden-las-autoridades-contener-la-guerra-narcoparamilitar-ii/Otoniel-Dairo-Uzuga.jpg) **Dairo Úzuga David**, alias Otoniel, jefe del Clan del Golfo. Fue viejo guerrillero del EPL.\[/caption\]
 
 Mientras haya consumo, el narcotráfico nunca se acabará. Y si es ilegal, peor. La violencia se incrementará. Pero el 2021 y el 2022 parecen ser los años del fin de la guerra total entre las organizaciones criminales Los Pachencas y el Golfo.
 
@@ -50,7 +50,7 @@ A nivel interno, Duque tiene una fuerte presión de la opinión pública porque 
 
 ## Papel de la Policía
 
-\[caption id="attachment\_14460" align="aligncenter" width="1300"\]![](./marihuano.jpg) _Alias "Marihuano", segundo al mando del Clan del Golfo abatido en el Chocó en febrero 2021._\[/caption\]
+\[caption id="attachment\_14460" align="aligncenter" width="1300"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/pueden-las-autoridades-contener-la-guerra-narcoparamilitar-ii/marihuano.jpg) _Alias "Marihuano", segundo al mando del Clan del Golfo abatido en el Chocó en febrero 2021._\[/caption\]
 
 En ciudades como Cartagena y Barranquilla se empezó a llevar a cabo el **"Plan 100 contra el microtráfico". Por ejemplo, dentro de esta iniciativa, en cartagena** fuerzas policivas tumbaron 3 casas dedicadas al expendio de drogas en el sector de la Boquilla en Cartagena. También capturaron a 18 integrantes del Clan del Golfo dedicados al microtráfico en distintos barrios de la ciudad.
 

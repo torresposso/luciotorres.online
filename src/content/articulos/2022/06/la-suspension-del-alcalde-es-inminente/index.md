@@ -5,10 +5,10 @@ pubDate: "2022-06-07 12:42:49"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/la-suspension-del-alcalde-es-inminente/"./hero.jpg"
 ---
 
-![La suspensión del alcalde está engavetada. En los mentideros políticos locales se dice que se debe a los buenos oficios del hermano del presidente Duque. Pero el decreto debe salir pronto.](./hero.jpg)
+![La suspensión del alcalde está engavetada. En los mentideros políticos locales se dice que se debe a los buenos oficios del hermano del presidente Duque. Pero el decreto debe salir pronto.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/la-suspension-del-alcalde-es-inminente/hero.jpg)
 *La suspensión del alcalde está engavetada. En los mentideros políticos locales se dice que se debe a los buenos oficios del hermano del presidente Duque. Pero el decreto debe salir pronto.*
 
 ¿Por qué el presidente tiene engavetado decreto de suspensión del alcalde Dau? Es la pregunta que diferentes sectores de la opinión pública se hacen en Cartagena. **La resolución No 164 del 23 de mayo de 2022** emitida por la Contraloría Distrital de Cartagena mediante la cual suspendió al alcalde William Dau, es de inmediato cumplimiento. Pero por el correo de las brujas se está indicando que esa demora **se debe probablemente** **al lobby que Andrés Duque está haciendo ante su hermano el presidente de la República, Iván Duque Márquez.**
@@ -31,7 +31,7 @@ Así lo dice la resolución citada, puesto que es un acto administrativo de i**n
 
 ## El proceso de suspensión del alcalde
 
-![El pulzo entre el alcalde y el contralor distrital se inclinó con la suspensión del alcalde.](./Dau-estas-mamao.jpg)
+![El pulzo entre el alcalde y el contralor distrital se inclinó con la suspensión del alcalde.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/la-suspension-del-alcalde-es-inminente/Dau-estas-mamao.jpg)
 *El pulzo entre el alcalde y el contralor distrital se inclinó con la suspensión del alcalde.*
 
 El proceso se inició con una investigación luego de recibir una denuncia en la página web. La Contraloría Distrital  inició la investigación sobre el contrato No SA-SUB-DADIS-UAC-O47-2021. El objeto del contrato era adquirir de pruebas antígena y de RTPCR de laboratorio para detección de covid 19 Encontró una serie de hallazgos fiscales, penales y disciplinarios. Por esa razón tomó la decisión de suspender provisionalmente a la directora del DADIS, Johana Bueno,quien participó en el proceso de la contratación. Pero no hizo lo propio con **Ana María González**, quien fue la funcionaria encargada de estructurar el contrato de la Unidad de Contratación (UAC).

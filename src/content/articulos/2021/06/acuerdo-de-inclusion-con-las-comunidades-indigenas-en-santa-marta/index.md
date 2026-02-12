@@ -5,12 +5,12 @@ pubDate: "2021-06-14 19:43:03"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/acuerdo-de-inclusion-con-las-comunidades-indigenas-en-santa-marta/"./hero.jpg"
 ---
 
 Fue un acuerdo histórico de inclusión con las comunidades indígenas que se plasmó en el día de hoy. Es un convenio de cooperación mutua, inclusión e integración entre los representantes legales de las autoridades civiles (Gobernación del Magdalena y alcaldía de Santa Marta) con las autoridades ancestrales de la Sierra Nevada de Santa Marta. El acuerdo le llevaría agua a Santa Marta y a otras poblaciones de las estribaciones del complejo montañoso. Es decir, que es un beneficio mutuo.
 
-![](./firma-Magdalena.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/acuerdo-de-inclusion-con-las-comunidades-indigenas-en-santa-marta/firma-Magdalena.jpeg)
 *Aquí firman las autoridades civiles y ancestrales este acuerdo histórico. Carlos Caicedo, gobernador, Virna Jhonnson, alcaldesa de Santa Marta. También Arregoces Conchacala, Gobernador del Cabildo Indígena Kogui; Zarwawiko Torres Gobernador Calbildo Indígena Arhuaco; Jaime Luis Arias Ramírez, Gobernador Cabildo Indígena Kankuamo; y José Bolívar, Gobernador del Cabildo Indígena Wiwa. *
 
 En ese sentido el Gobernador del Magdalena, Carlos Caicedo, la Alcaldesa Virna Johnson y las autoridades indígenas del Magdalena, suscribieron un **Memorando de Entendimiento**. Con este convenio se busca ejecutar 52 proyectos en beneficio de las comunidades ancestrales del Departamento. Firmaron el acuerdo los representantes de los indígenas de la Sierra Nevada de Santa Marta. **Arregoces Conchacala**, Gobernador del Cabildo Indígena Kogui; **Zarwawiko Torres** Gobernador Calbildo Indígena Arhuaco; **Jaime Luis Arias Ramírez,** Gobernador Cabildo Indígena Kankuamo; y **José Bolívar,** Gobernador del Cabildo Indígena Wiwa. 
@@ -31,7 +31,7 @@ Por su parte, **la alcaldesa de Santa Marta, Virna Jhonnson,** se mostró satisf
 
 ## Los proyectos con las comunidades indígenas
 
-![](./acuerdo-santa-marta.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/acuerdo-de-inclusion-con-las-comunidades-indigenas-en-santa-marta/acuerdo-santa-marta.jpeg)
 *La reunión con las autoridades delas comunidades indígenas.*
 
 Entre los proyectos que contempla este plan de acción se encuentran: becas dirigidas a estudiantes indígenas a través de la Institución Universitaria Politécnica; la construcción de aulas de clases y baterías sanitarias para la sede Yemuke de la IED Gunmaku; diseño y construcción del sistema de abastecimiento de agua del resguardo indígena Wiwa corregimiento de Guachaca de Santa Marta.

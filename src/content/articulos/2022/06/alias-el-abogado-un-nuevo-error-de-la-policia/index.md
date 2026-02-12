@@ -5,12 +5,12 @@ pubDate: "2022-06-30 00:05:42"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/alias-el-abogado-un-nuevo-error-de-la-policia/"./hero.jpg"
 ---
 
 El empresario y comerciante **Álvaro Barrios Díaz** no es alias "el abogado". Precisamente luego de que la policía le solicitara antecedentes, se presentó en la Sijin el 25 de agosto del 2021 acompañado de varios de sus hermanos. Pero se encontró que tenía una orden de captura sindicado de ser del **Clan del Golfo.** Familiares y personas particulares que lo conocen, manifestaron a **VoxPopuli Digital** que es víctima de un **falso positivo** de la Policía y de la Fiscalía.
 
-![Alias "el Abogado", ¿un falso positivo?Todo indica que es un error de las autoridades. Álvaro Barrios Díaz es un prestante comerciante.](./el-abogado.jpeg)
+![Alias "el Abogado", ¿un falso positivo?Todo indica que es un error de las autoridades. Álvaro Barrios Díaz es un prestante comerciante.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/alias-el-abogado-un-nuevo-error-de-la-policia/el-abogado.jpeg)
 *Alias "el Abogado", ¿un falso positivo? Álvaro Barrios Díaz es reconocido como un comerciante que ha luchado contra la extorsión. Así lo presentó la Policía en el mes de septiembre de 2021.*
 
 Es un complot, argumentan. Según los familiares, **existe material probatorio demostrado en el proceso que hay falsos testigos** que llevaron a las autoridades a un error judicial en perjuicio de sus derechos fundamentales y de su propia familia. Su captura no se produjo en ningún operativo.
@@ -19,7 +19,7 @@ Se debe recordar que el 25 de agosto de 2021, Barrios Díaz se presentó en la s
 
 ## **El comienzo: “el Abogado”**
 
-![Álvaro Barrios Díaz en uno de sus negocios en Cartagena.](./hero.jpg)
+![Álvaro Barrios Díaz en uno de sus negocios en Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/alias-el-abogado-un-nuevo-error-de-la-policia/hero.jpg)
 *Álvaro Barrios Díaz en uno de sus negocios en Cartagena. Lejos de ser el alias "el Abogado".*
 
 Sin embargo, lo curioso es que la Policía y la Fiscalía mantuvieron en silencio dicha detención. A la semana siguiente, la Policía lo presentó a los medios de comunicación a través de una foto con el alias de “el Abogado”. Estaba en medio de dos policías con chalecos antibala. Lucía camiseta azul oscuro y jean azul rey.

@@ -5,10 +5,10 @@ pubDate: "2023-07-09 22:51:40"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/la-prueba-reina-de-que-san-andres-islas-y-misquitos-pertenecen-a-colombia-iii/"./hero.jpg"
 ---
 
-![La prueba reina de que San Andrés islas pertenecen a Colombia es la  Real Orden de 20 de noviembre de 1803 (III). Aquí el presidente Petro y el Canciller con el presidente de Brasil Lula Da Silva, en el marco de la preparación de la Gran Cumbre para salvar al Amazona. Aparecen las ministras de Medio Ambiente, Susana Muahamad y  la ministra del Trabajo, Gloria Inés Ramírez. /Presidencia.](./Cancilleria_Lula_Petro.jpeg)
+![La prueba reina de que San Andrés islas pertenecen a Colombia es la  Real Orden de 20 de noviembre de 1803 (III). Aquí el presidente Petro y el Canciller con el presidente de Brasil Lula Da Silva, en el marco de la preparación de la Gran Cumbre para salvar al Amazona. Aparecen las ministras de Medio Ambiente, Susana Muahamad y  la ministra del Trabajo, Gloria Inés Ramírez. /Presidencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/la-prueba-reina-de-que-san-andres-islas-y-misquitos-pertenecen-a-colombia-iii/Cancilleria_Lula_Petro.jpeg)
 *Aquí el presidente Petro y el Canciller con el presidente de Brasil, Lula Da Silva, en el marco de la preparación de la Gran Cumbre para salvar al Amazonas. Aparecen las ministras de Medio Ambiente, Susana Muhamad y la ministra del Trabajo, Gloria Inés Ramírez. /Presidencia.*
 
 Expertos del Caribe presentaron la Real Orden de 20 de noviembre de 1803, que es la partida de bautismo de San Andrés Islas, como prueba reina en manos de la Cancillería para rechazar las decisiones de la Corte Internacional de Justicia (CIJ) respecto al conflicto limítrofe con Nicaragua. El 13 de julio se publicará el fallo sobre la queja de Nicaragua sobre un supuesto incumplimiento del fallo de 2012. Al mismo tiempo, los expertos presentaron una petición al tribunal para resolver ―a favor de Colombia― dicho conflicto. Sin embargo, pareciera que la Cancillería colombiana ―a cargo de Álvaro Leyva Durán― sigue padeciendo el síndrome de la rana sorda, como aquella motivadora fábula infantil. ¡No escucha! Por ende, nuestra Cancillería tampoco responde las peticiones respetuosas de los expertos que le advierten de la inminencia de un nuevo desastre si se llegare a ratificar el fallo del 2012.
@@ -25,7 +25,7 @@ Por otra parte, hay expertos como el perito internacional cartagenero, Juan Robe
 
 ## «La rana sorda» del Canciller
 
-![](./Canciller-Amazonas.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/la-prueba-reina-de-que-san-andres-islas-y-misquitos-pertenecen-a-colombia-iii/Canciller-Amazonas.jpeg)
 *Mientras el Canciller Álvaro Leyva posa con nuestros indígenas del Amazonas, está dejando solos, en cambio, a los nativos del Caribe a merced de la voracidad nicaragüense. /Presidencia.*
 
 El mencionado perito Serrano Ochoa, obrando como ciudadano, presentó un escrito ante la misma Corte un día antes de que se vencieran los términos para que el gobierno presentara la oposición al fallo de 2012, que se dio a conocer en el mes de abril de 2022.  Y adjuntó pruebas históricas sobrevinientes para revertir el fallo adverso de la Corte Internacional de Justicia (CIJ) con sede en La Haya.

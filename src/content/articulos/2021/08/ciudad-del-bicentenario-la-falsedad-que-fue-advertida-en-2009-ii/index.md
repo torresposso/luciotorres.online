@@ -5,10 +5,10 @@ pubDate: "2021-08-12 00:29:47"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ciudad-del-bicentenario-la-falsedad-que-fue-advertida-en-2009-ii/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ciudad-del-bicentenario-la-falsedad-que-fue-advertida-en-2009-ii/hero.jpg)
 *Lo primero que hizo William Dau fue arrodillarse a Pablo Obregón Santo Domingo. Aquí aparece con Dolly González (condenada por la Procuraduría) y otros funcionarios del Distrito renovando el convenio con la Fundación Santo Domingo para Ciudad del Bicentenario.*
 
 La falsedad de Ciudad del Bicentenario que se reflejó en la falta de legalidad de los predios donde se construye, fue advertida desde 2009 en varios debates del concejo distrital. **Los grandes negocios de la corrupción no se gestan en las regiones.** Vienen del gobierno central con la complicidad, casi siempre, de administraciones locales corruptas. Estas administraciones se someten al poder central por las dádivas o porque hay un parlamentario o un gran empresario financista que recibe beneficios privados. 
@@ -35,7 +35,7 @@ De esa forma, el juez rechazó los argumentos de los abogados **Alfredo Sampayo 
 
 ## "Palos en la rueda" a la falsedad
 
-![](./adolfo-raad.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ciudad-del-bicentenario-la-falsedad-que-fue-advertida-en-2009-ii/adolfo-raad.jpeg)
 *Adolfo Raad y Quinto Guerra, los concejales que denunciaron el proyecto Ciudad del Centenario por ilegal. Los acusaron de "ponerles palos a la rueda a un proyecto social".*
 
 La bancada conservadora fue la protagonista del debate en el concejo en 2009. En este sentido quedó demostrado que el proyecto Ciudad del Bicentenario no tenía la documentación legal para su construcción. Y no la tenía, porque los predios carecían de títulos idóneos. Para comprobar eso, **Adolfo Raad, concejal de la época, solo tuvo que redactar una lacónica carta con dos peticiones concretas**:

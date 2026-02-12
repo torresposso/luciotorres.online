@@ -5,10 +5,10 @@ pubDate: "2023-11-28 12:11:38"
 author: "Lucio"
 categories: ["Análisis","Crónica","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/las-lagrimas-de-changaina-mujer-multicolor/"./hero.jpg"
 ---
 
-![Las lágrimas de Changaína, mujer multicolor. Grupo de expositoras de la feria de Changaína 2023.](./hero.jpg)
+![Las lágrimas de Changaína, mujer multicolor. Grupo de expositoras de la feria de Changaína 2023.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/las-lagrimas-de-changaina-mujer-multicolor/hero.jpg)
 *Las lágrimas de Changaína, mujer multicolor. Grupo de expositoras de la feria de Changaína 2023./ VoxPopuli.Digital.*
 
 Las lágrimas de Changaína, mujer multicolor se vieron en este encuentro femenino. ¿Por qué salen títulos así? Inspiración. Porque decir Changaína en Palenque, es decir mujer. Una mujer de acción. Para destacar la emocionante intervención de la Gestora Social de Bolívar, **Natalia Eljach Rocha**. Fue la despedida de Changaína en su tercera versión 2023 que, dicho sea de paso, fue un éxito total.
@@ -17,7 +17,7 @@ Esa fue una despedida llena de lágrimas y nostalgia, porque fueron cuatro años
 
 En efecto, Natalia Eljach y la Secretaría de la Mujer y la Gestión Social, **Sandra Smalbach**, realizaron el Primer Encuentro Departamental de **Mujeres Afrodescendientes, Negras y Palenqueras ‘CHANGAÍNA 2021**’. 
 
-![Las lágrimas de Changaína. ¡Emoción pura!](./Changaina_evento.jpg)
+![Las lágrimas de Changaína. ¡Emoción pura!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/las-lagrimas-de-changaina-mujer-multicolor/Changaina_evento.jpg)
 *Las lágrimas de Changaína. ¡Emoción pura!*
 
 En la versión del 2023 (noviembre 22 al 24) estuvo llena de conversatorios y exposiciones sobre el papel de la mujer y sus derechos fundamentales. En esta ocasión invitaron a la Reina Nacional de la Belleza Vanessa Mendoza, quien se encuentra vinculada a la Defensoría del Pueblo. La exreina vive ahora en Cartagena, ciudad que la catapultó a la fama nacional e internacional.
@@ -32,17 +32,17 @@ La despedida de Changaína 2023 fue doble. Llena de emoción y de lágrimas. Per
 
 > Quiero agradecer por estar aquí, por su tiempo. Gracias ... (lagrimas y aplausos). Es un equipo de personas que han estado en estos cuatro años, que hemos soñado, hemos luchado. A pesar de mi ausencia, porque me he dedicado a la mayor parte de mi tiempo a ser madre, otro sueño que había tenido siempre, ellas han estado aquí, ellos han estado aquí, Y a ustedes también quiero agradecerles (lágrimas y nuevamente aplausos del público).
 
-![Ellas ríen a carcajadas. Natalia Eljach y su equipo departamental. VoxPopuli. Digital](./Changaina_mujeres_rien_-scaled-1.jpg)
+![Ellas ríen a carcajadas. Natalia Eljach y su equipo departamental. VoxPopuli. Digital](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/las-lagrimas-de-changaina-mujer-multicolor/Changaina_mujeres_rien_-scaled-1.jpg)
 *Ellas ríen a carcajadas. Natalia Eljach y su equipo departamental. VoxPopuli. Digital*
 
 El rol de madre y de gestora social fue un reto para Natalia Eljach en estos cuatro años de gobierno de **Bolívar Primero**. Un reto que supo afrontar en medio de la pandemia y de la tristeza que significó para todo el departamento de Bolívar el virus del Covid-19.
 
-![](./Changaina_miniatura.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/las-lagrimas-de-changaina-mujer-multicolor/Changaina_miniatura.jpg)
 *Las lágrimas de Changaína, mujer multicolor. Changaína 2023. VoxPopuli.Digital*
 
 ## Mujeres multicolores.
 
-![Ella está tejiendo el futuro de Bolívar/VoxPopuli.Digital.](./natalia_changaina_zenu.jpg)
+![Ella está tejiendo el futuro de Bolívar/VoxPopuli.Digital.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/las-lagrimas-de-changaina-mujer-multicolor/natalia_changaina_zenu.jpg)
 *Ella está tejiendo el futuro de Bolívar/VoxPopuli.Digital.*
 
 Si, vimos mujeres de todos los colores y de todos los estratos. Mujeres trabajadoras, artesanas y artistas. Bellas mujeres. Inteligentes y preparadas. Madres, hermanas, soñadoras y trabajadoras. Indígenas, palenqueras, raizales, blancas y negras. Afrodescendientes. "Criollas", vistosas y hermosas. Mujeres amantes y emocionantes, que lloran, ríen y aplauden a su gente. Mucha **sororidad**. ¡Emoción y razón! La razón de ser mujer, madre, esposa e hija. La emoción, el corazoncito (¡corazón!) de mujer.

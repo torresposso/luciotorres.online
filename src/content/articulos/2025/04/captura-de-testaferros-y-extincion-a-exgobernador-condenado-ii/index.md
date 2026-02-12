@@ -5,10 +5,10 @@ pubDate: "2025-04-27 18:49:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/captura-de-testaferros-y-extincion-a-exgobernador-condenado-ii/"./hero.jpg"
 ---
 
-![En el juicio, abajo, camisa amarilla, el exgobernador condenado, Jorge Pérez Bernier](./perez_bernier_-1024x450.jpeg)
+![En el juicio, abajo, camisa amarilla, el exgobernador condenado, Jorge Pérez Bernier](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/captura-de-testaferros-y-extincion-a-exgobernador-condenado-ii/perez_bernier_-1024x450.jpeg)
 *Extinción a exgobernador y captura de testaferros. Jorge Pérez Bernier, camisa amarilla, lo condenaron a 11 años de cárcel.*
 
 En etapa de juicio se encuentra el **proceso 2019-081-2** de **extinción de bienes al otro exgobernador condenado de La Guajira, Jorge Pérez Bernier**. Mientras tanto, se destapó su cadena de testaferros que tenía en su poder **38 propiedades**, entre ellos, predios, cadena de hoteles e inmobiliarias, que para la Fiscalía, hacían parte de las propiedades adquiridas con los más de **$24 mil millones** que se robaron del contrato de obras **No.770 de 2009**.
@@ -39,7 +39,7 @@ De esa forma, el juzgado garantizaría la efectividad de la sentencia. Además p
 
 ## La extinción de bienes del exgobernador
 
-![](./Extincion_perez_bernier.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/captura-de-testaferros-y-extincion-a-exgobernador-condenado-ii/Extincion_perez_bernier.jpeg)
 
 Asimismo el Juzgado Segundo homólogo, ratificó la decisión de extinción de dominio de los bienes de Pérez Bernier. (**Clic aquí (documento no disponible)**). Destacó que las medidas son razonables, dada su vital importancia, ya que existe suficiente material probatorio que acredita los **actos de corrupción desplegados durante la administración de Jorge Pérez Bernier**.
 

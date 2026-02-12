@@ -5,10 +5,10 @@ pubDate: "2021-09-24 19:31:33"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/contrato-mintic-donde-estan-los-bandidos/"./hero.jpg"
 ---
 
-![Contrato MinTic](./hero.jpg)
+![Contrato MinTic](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/contrato-mintic-donde-estan-los-bandidos/hero.jpg)
 *El presidente Iván Duque: Que caigan todos los bandidos. Aquí con las nueras de su jefe Álvaro Uribe Vélez. A la izquierda Shaia Farah Abuchaibe, la sobrina de Karen Abudinen Abuchaibe./Instagram.*
 
 Con la caída de **Emilio Tapia Aldana**, natural de Sahagún, y de otros contratistas en manos de la Fiscalía, dentro del marco del contrato de **Mintic No 1043/20** (documento no disponible), puede provocar un nuevo giro en el sonado caso. También pondrá de manifiesto una nueva avalancha de denuncias contra funcionarios públicos, políticos y empresarios corruptos. 
@@ -17,7 +17,7 @@ Tapia es conocido por su participación protagónica en el Carrusel de la Contra
 
 ## ¿Tapia delataría a políticos y empresarios?
 
-![](./EMILIOTAPIA.jpg.webp)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/contrato-mintic-donde-estan-los-bandidos/EMILIOTAPIA.jpg.webp)
 *Emilio Tapia Aldana, estaba entre bambalinas en la empresa ICM de la UT Centros Poblados./Colprensa.*
 
 Si escuchamos con atención las declaraciones de Tapia, según la Fiscalía, de que está dispuesto a colaborar con la justicia, indicaría que es una amenaza directa al alto poder político colombiano. Pero el ente acusador le indicó que no recibiría beneficios por su delación. A lo que Tapia respondió que a él le interesa que se conozca toda la verdad. Es decir, que **está dispuesto a prender el ventilador**.

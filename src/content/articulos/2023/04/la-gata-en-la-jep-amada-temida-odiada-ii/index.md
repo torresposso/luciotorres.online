@@ -5,10 +5,10 @@ pubDate: "2023-04-10 13:54:26"
 author: "Lucio"
 categories: ["Análisis","Crónica","Investigación","Post Conflicto"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/la-gata-en-la-jep-amada-temida-odiada-ii/"./hero.jpg"
 ---
 
-![Enilce del Rosario López Romero en los tiempos de esplendor. En 2007 cayó presa por lavado de activos.](./hero.jpg)
+![Enilce del Rosario López Romero en los tiempos de esplendor. En 2007 cayó presa por lavado de activos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/la-gata-en-la-jep-amada-temida-odiada-ii/hero.jpg)
 *Enilce del Rosario López Romero en los tiempos de esplendor. En 2007 cayó presa por lavado de activos.(Foto cortesía).*
 
 Amada, temida, odiada, esa es **Enilce López**. ¿Por qué despierta tantos sentimientos encontrados? ¿Qué político del Caribe se salvará de sus arañazos? «La Gata» en la JEP es la vida de una mujer sobre la cual uno se inspiraría para escribir el mejor libro de su vida. ¿Incriminará a los alcaldes, gobernadores, parlamentarios y presidentes que financió? ¿Declarará sobre sus negocios con empresarios y políticos del país? ¿Cuál es la larga lista de medios de comunicación, periodistas, militares y administradores de justicia que financió? **¿Te encuentras en esa lista?** Son las preguntas recurrentes desde el mismo momento en que se dió a conocer la **R[esolución No 1177 del 30 de marzo de 2023](https://www.jep.gov.co/Notificaciones/Estado%20numero%20328%20SDSJ.pdf)** mediante la cual se aceptó escuchar a la rica y controvertida empresaria **Enilce del Rosario López Romero**.
@@ -25,7 +25,7 @@ De antemano, se pide excusa a Enilce López Romero por utilizar el remoquete de 
 
 ## Gran expectativa produce «La Gata» en la JEP
 
-![¿«La Gata» en la JEP será el mismo show de «Jorge 40»?](./Lagata_jorge40_miniatura.jpg)
+![¿«La Gata» en la JEP será el mismo show de «Jorge 40»?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/la-gata-en-la-jep-amada-temida-odiada-ii/Lagata_jorge40_miniatura.jpg)
 *¿«La Gata» en la JEP será el mismo show de «Jorge 40»?*
 
 ¿Por qué despierta tanta expectativa? **«La Reina del Chance»**, como también se le conoce, estuvo vinculada como **financista y promotora de grupos armados**, antes, durante y después de la creación de las extintas **Autodefensas Unidas de Colombia—**AUC. Cuando se produjo su desmovilización en 2005**—**2006, fue protagónica en este proceso por su alianza con **Salvatore Mancuso** y la guerra librada contra _**«Jorge 40»**_ por el control de las riquezas obtenidas del lavado de activos. Todo esto está debidamente documentado.

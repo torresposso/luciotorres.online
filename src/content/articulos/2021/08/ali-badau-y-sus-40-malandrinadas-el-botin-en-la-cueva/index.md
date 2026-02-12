@@ -5,10 +5,10 @@ pubDate: "2021-08-31 16:52:20"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ali-badau-y-sus-40-malandrinadas-el-botin-en-la-cueva/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ali-badau-y-sus-40-malandrinadas-el-botin-en-la-cueva/hero.jpg)
 *Dice estar enfermo, pero no dice de qué. Alí BaDau y sus 40 malandrinadas.*
 
 **«Alí BaDau» y sus 40 malandrinadas** es un caso de la vida real. Si bien es alegórico al antiguo cuento de nuestra infancia lejana, lo que aquí se narra es la purita verdad. Son 20 meses de gobierno y 40 malandrinadas que trascienden lo legal, disciplinario y fiscal. Pero vamos a elaborar el **top 20** de ellas. La clase política y empresarial transformó la ciudad Heroica en **una cueva de ladrones.** Los políticos, sus financistas y contratistas **despedazaban a sus anchas panchas el presupuesto oficial**. Por eso, al principio, la ciudad creyó en un mesía que venía con una narrativa de salvarlo de la corrupción. La ciudad quería un tractor para arrasar toda clase de maleza. Y terminó arrasándose ella misma. 
@@ -33,7 +33,7 @@ Con esas malandrinadas, al jefe de la banda se le corrió el antifaz. Quedó des
 
 ## Tu papá te quiere joder
 
-![](./william-dau-2-cortesia.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ali-badau-y-sus-40-malandrinadas-el-botin-en-la-cueva/william-dau-2-cortesia.jpg)
 *"Tu papá te quiere" joder. La megalomaía en pasta de Alí BaDau y sus 4o malandrinadas.*
 
 Remembre, después del Tractor, comenzó a llamarse **«el papá de los cartageneros»** y se descubrió que era un **papá pernicioso**. Mal ejemplo para sus hijos. Lo pusimos al descubierto el pasado 2 de febrero durante la audiencia de la revocatoria donde **gastaron $500 millones del tesoro de «Alí Badau»** para que periodistas, influencers, raperos, champeteros y artistas urbanos dijeran que **«tu papá te quiere»**. Les pagaron $500 mil pesos a cada participante, pero sus calanchines se embolsillaron el resto. Fueron $500 millones que se fumaron.

@@ -5,10 +5,10 @@ pubDate: "2023-11-21 03:06:12"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/por-que-shakira-no-probara-carcel-espanola/"./hero.jpg"
 ---
 
-![Por qué Shakira no probará cárcel española/Capture de pantalla.](./hero.jpg)
+![Por qué Shakira no probará cárcel española/Capture de pantalla.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/por-que-shakira-no-probara-carcel-espanola/hero.jpg)
 *Por qué Shakira no probará cárcel española/Capture de pantalla.*
 
 Con un _outfit_ palo de rosa, **Shakira Mebarak** aceptó y pagó a la Generalitat por evadir impuestos. Shakira no probará cárcel española. La estrella de la música pop barranquillera llegó ataviada con un fino y costoso vestido estilo blazer color rosa. Se sentó en el banquillo de los acusados. Respondió sí tres veces al juez de la causa, **José Manuel del Amo** para aceptar los cargos, arrepentirse y pagar una multa de **7,3 millones** de euros. Si no lo hacía, debía irse a juicio donde podría ser condenada a 8 años de prisión y el pago de una multa de 23,5 millones de euros por evasión de impuestos.

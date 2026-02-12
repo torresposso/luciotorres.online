@@ -5,10 +5,10 @@ pubDate: "2022-01-28 21:26:51"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/un-pobre-debate-presidencial-que-ni-siquiera-petro-brillo/"./hero.jpg"
 ---
 
-![Un debate presidencial pobre. Aquí Gustavo Petro asumió una posición trumpista.](./hero.jpg)
+![Un debate presidencial pobre. Aquí Gustavo Petro asumió una posición trumpista.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/un-pobre-debate-presidencial-que-ni-siquiera-petro-brillo/hero.jpg)
 *Un debate presidencial pobre. Aquí Gustavo Petro asumió una posición trumpista.*
 
 Después del último debate presidencial 2022 Prisa Media o de EL TIEMPO Casa Editorial y el Grupo Editorial Semana, mucha gente salió decepcionada por la pobreza y falta de brillo de las propuestas de los candidatos. Fue un debate tan pobre que el candidato del Pacto Histórico debió recurrir a tesis trompistas para diferenciarse del lote. **Gustavo Petro propuso subir los aranceles de las importaciones, medida más populistas que efectiva para generar empleo**.

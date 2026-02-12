@@ -5,10 +5,10 @@ pubDate: "2022-05-12 23:20:14"
 author: "Lucio"
 categories: ["Análisis","Entrevista","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-imbatible-habra-segunda-vuelta/"./hero.jpg"
 ---
 
-![¿Petro o Fico? ¡Petro, imbatible! Pero todo indica que hay segunda vuelta entre Petro y Fico](./hero.jpg)
+![¿Petro o Fico? ¡Petro, imbatible! Pero todo indica que hay segunda vuelta entre Petro y Fico](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-imbatible-habra-segunda-vuelta/hero.jpg)
 *¿Petro o Fico? ¡Petro imbatible! Pero todo indica que hay segunda vuelta entre Petro y Fico.*
 
 ¡Petro, imbatible! ¿ganará en primera vuelta la presidencia de la república? Las últimas encuestas para medir el favoritismo de los candidatos presidenciales nos indica que Gustavo Petro ganaría la primera vuelta. Pero tendría que hacer lo imposible para llegar al 50% del favoritismo este 29 de mayo. Las encuestas pronostican segunda vuelta.
@@ -35,18 +35,18 @@ En tanto , «**Fico»** lo incrementa en 13 puntos, casi el doble de Petro. Esto
 
 La encuesta se hizo entre el 5 y 7 de mayo en los 8 departamentos del Caribe. Los encuestados respondieron esta pregunta: ¿usted por cuál de los siguientes candidatos votaría? 
 
-![¡Petro, imbatible! en la Costa Caribe, pero habría segunda vuelta.](./encuesta-ME-primera-vuelta.jpg)
+![¡Petro, imbatible! en la Costa Caribe, pero habría segunda vuelta.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-imbatible-habra-segunda-vuelta/encuesta-ME-primera-vuelta.jpg)
 *¡Petro, imbatible! en la Costa Caribe, pero habría segunda vuelta.*
 
 La encuesta de Mediciones Estratégicas también indagó sobre la segunda vuelta presidencial. De haber segunda vuelta en la elección a la Presidencia de la República el domingo 19 de junio del
 
 2022 y los candidatos fueran los siguientes ¿Usted por quién votaría? Los resultados fueron los siguientes:
 
-![¡Petro, imbatible! en la Costa Caribe](./Encuesta-ME-2-vuelta.jpg)
+![¡Petro, imbatible! en la Costa Caribe](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-imbatible-habra-segunda-vuelta/Encuesta-ME-2-vuelta.jpg)
 *¡Petro, imbatible! en la Costa Caribe*
 
 De igual manera la encuesta hizo un comparativo con la encuesta anterior de la misma firma. Y este es el resultado.
 
-![](./Encuesta-ME-comparativo.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-imbatible-habra-segunda-vuelta/Encuesta-ME-comparativo.jpg)
 
 Sin duda, Gustavo Petro, candidato de Pacto Histórico aparece imbatible. Pero ello no indica que necesariamente pueda ganar la presidencia en primera vuelta. Para que ello suceda, por lo menos debe arañar 10 puntos del 24% de indecisos que aparecen en la Costa Caribe.

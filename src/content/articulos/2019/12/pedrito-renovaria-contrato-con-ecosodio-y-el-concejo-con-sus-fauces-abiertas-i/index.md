@@ -5,10 +5,10 @@ pubDate: "2019-12-03 13:58:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/pedrito-renovaria-contrato-con-ecosodio-y-el-concejo-con-sus-fauces-abiertas-i/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/pedrito-renovaria-contrato-con-ecosodio-y-el-concejo-con-sus-fauces-abiertas-i/hero.jpg)
 *Pedrito mirando su pasado. ¿Y el pasado del contrato del alumbrado público? Cortesía*
 
 No hay duda, **Ecosodio y William Arabia ganarán** con la renovación (reestructuración) del contrato de Alumbrado público. Por eso **Pedrito Pereira Caballero**, alcalde Mayor de Cartagena (e), preparó el proyecto de acuerdo para la reestructuración del **contrato del alumbrado público con Ecosodio S.A**., que fuera **una de las recomendaciones de Findeter**.
@@ -21,7 +21,7 @@ Realizamos varias visitas a la secretaria General de la Alcaldía, **Martha Seid
 
 ## Ecosodio de Arabia, olor a podrido
 
-![](./william-arabia-2.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/pedrito-renovaria-contrato-con-ecosodio-y-el-concejo-con-sus-fauces-abiertas-i/william-arabia-2.jpg)
 *William Arabia con su socia. Cortesía.*
 
 El multimillonario contrato del alumbrado público con Ecosodio finalizó el pasado mes de mayo. **Pedrito Pereira lo prorrogó hasta el 3 de enero de 2020.** Es decir, que es el mismo Pedrito quien debe resolver la situación antes de terminar el año. Por esta razón, esta semana presentará un proyecto de acuerdo al concejo de Cartagena para que lo apruebe y se le dé continuidad al contrato actual.

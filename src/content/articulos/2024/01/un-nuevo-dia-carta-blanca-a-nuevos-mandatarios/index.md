@@ -5,10 +5,10 @@ pubDate: "2024-01-02 03:29:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/un-nuevo-dia-carta-blanca-a-nuevos-mandatarios/"./hero.jpg"
 ---
 
-![¿Un nuevo día? ¿"Carta blanca" a nuevos mandatarios? Galán en Bogotá busca el cambio de frente; Char retoma el mando de la continuidad, y Dumek busca exorcizar la maldición de Dau.](./hero.jpg)
+![¿Un nuevo día? ¿"Carta blanca" a nuevos mandatarios? Galán en Bogotá busca el cambio de frente; Char retoma el mando de la continuidad, y Dumek busca exorcizar la maldición de Dau.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/un-nuevo-dia-carta-blanca-a-nuevos-mandatarios/hero.jpg)
 *¿Un nuevo día? ¿"Carta blanca" a nuevos mandatarios? Galán en Bogotá busca el cambio de frente; Char retoma el mando de la continuidad, y Dumek busca exorcizar la maldición de Dau.*
 
 ¿Un nuevo día para empezar de nuevo? En muchas ciudades y departamentos donde se posesionaron hoy los nuevos mandatarios con sus respectivos gabinetes, ¿será el fin de una pesadilla? El problema es que ellos entiendan que siempre hay un nuevo día para empezar de nuevo. Por ejemplo, en Bogotá (**Carlos Fernando galán**), Medellín (**Fico Gutiérrez**), Cali (**Alejandro Eder**) o Cartagena de Indias, **Dumek Turbay Paz**, cuyos antecesores administraron equívocamente sus respectivas ciudades no importa qué ideología política representaban.
@@ -31,7 +31,7 @@ El grave problema de los mandatarios es que se rigen por dogmas, ideologías pol
 
 ## Cartagena y el fin de una pesadilla
 
-![Liliana Majana acompaña a su esposo, el alcalde Dumek Turbay Paz. Cortesía](./Dumek_Liliana_majana.jpg)
+![Liliana Majana acompaña a su esposo, el alcalde Dumek Turbay Paz. Cortesía](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/un-nuevo-dia-carta-blanca-a-nuevos-mandatarios/Dumek_Liliana_majana.jpg)
 *Liliana Majana acompaña a su esposo, el alcalde Dumek Turbay Paz. /Cortesía.*
 
 La peor administración que ha tenido Cartagena de Indias, según los expertos, fue la de **William Dau Chamat**. Se autodestruyó y carcomió a la ciudad creyendo que con su conducta estaba _salvando a Cartagena_. Una mentira que contagió a los cartageneros al principio de su administración que prometía acabar con la corrupción. Alcanzó a tener el **82% por ciento de favoritismo** . . . hasta cuando hicimos la **audiencia de revocatoria el 2 de febrero de 2021**.

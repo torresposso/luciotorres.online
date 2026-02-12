@@ -5,10 +5,10 @@ pubDate: "2024-01-03 02:44:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/dias-febriles-de-los-nuevos-gobernadores-y-alcaldes/"./hero.jpg"
 ---
 
-![Los gobernadores y alcaldes elegidos el pasado 29 de octubre de 2022, comenzaron hoy un período de 4 años marcado por las expectativas del plan de desarrollo Colombia Potencia Mundial de la Vida. Pero también, un proceso de reorganización administrativa y financiera para cumplir con  ](./hero.jpg)
+![Los gobernadores y alcaldes elegidos el pasado 29 de octubre de 2022, comenzaron hoy un período de 4 años marcado por las expectativas del plan de desarrollo Colombia Potencia Mundial de la Vida. Pero también, un proceso de reorganización administrativa y financiera para cumplir con  ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/dias-febriles-de-los-nuevos-gobernadores-y-alcaldes/hero.jpg)
 *Yamilito Arana Padauí, el gobernador de Bolívar, rodeado entre mujeres bonitas e inteligentes, que no es lo mismo. Son días febriles./Cortesía.*
 
 Los gobernadores y alcaldes elegidos el pasado **29 de octubre de 2022**, viven días febriles. Sus navidades y fiestas de Fin de Año las modificaron sustancialmente. Comenzaron hoy un período de 4 años marcado por las expectativas del plan de desarrollo _Colombia Potencia Mundial de la Vida_. Se mezclan dos motivaciones. El deseo de organizar el equipo para conseguir resultados inmediatos y el apremio de tener la casa lista para los 4 años venideros.
@@ -35,7 +35,7 @@ Te puede interesar: [Pedro Aponte ¿Capo o testaferro? ¿El hombre de atrás de 
 
 ## Dumek, Char, Fico
 
-![Son días febriles para el alcalde de Cartagena Dumek Turbay Paz quiere crear una triada con el alcalde de Barranquilla Alejandro Char y el alcalde de Medellín Fico Gutiérrez./Cortesía X.](./Los-alcaldes.jpg)
+![Son días febriles para el alcalde de Cartagena Dumek Turbay Paz quiere crear una triada con el alcalde de Barranquilla Alejandro Char y el alcalde de Medellín Fico Gutiérrez./Cortesía X.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/dias-febriles-de-los-nuevos-gobernadores-y-alcaldes/Los-alcaldes.jpg)
 *El alcalde de Cartagena Dumek Turbay Paz quiere crear una triada con el alcalde de Barranquilla Alejandro Char y el alcalde de Medellín Fico Gutiérrez./Cortesía X.*
 
 Algunos alcaldes y gobernadores trazarán puentes con el gobierno del presidente Gustavo Petro. Yamilito Arana incluyó en su nómina secretarial a un representante de Colombia Humana que probablemente tiene el respaldo de **Dorina Hernández**, representante a la cámara. A ella no se le vio en la instalación del nuevo concejo.
@@ -44,7 +44,7 @@ El alcalde de Cartagena **Dumek Turbay Paz** quiere liderar una triada con el al
 
 ## Blel, discretamente visible
 
-![Vicente Blel Saad, el patriarca de los Blel. Con su gorra y su suéter azul celeste y su mirada fijada en la directiva del nuevo concejo. Fue el principal ganador de la conformación del concejo de cartagena, el contrapeso a Dumek Turbay. /VoxPopuli Digita](./Vicente-Blel-Saad.jpg)
+![Vicente Blel Saad, el patriarca de los Blel. Con su gorra y su suéter azul celeste y su mirada fijada en la directiva del nuevo concejo. Fue el principal ganador de la conformación del concejo de cartagena, el contrapeso a Dumek Turbay. /VoxPopuli Digita](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/dias-febriles-de-los-nuevos-gobernadores-y-alcaldes/Vicente-Blel-Saad.jpg)
 *Vicente Blel Saad, el patriarca de los Blel. Con su gorra y su suéter azul celeste y su mirada fijada en la directiva del nuevo concejo, vive sus propias días febriles como cuando fue elegido su hijo. Fue el principal ganador de la conformación del concejo de cartagena, el contrapeso a Dumek Turbay. /VoxPopuli Digital.*
 
 ¿Por qué Vicente Blel Saad se hizo visible en la instalación del nuevo concejo? ¿Qué mensaje quiso enviar? Hasta el mismo alcalde se acercó para saludarlo. Lo vimos sentado, muy paciente, a uno de los **jefes más poderoso de Bolívar**, el exsenador **Vicente Blel Saad**. Este veterano líder político demostró que tiene fuerza electoral proporcional a su capacidad burocrática y económica. Tiene una representación en el congreso de la República como en el mismo gabinete de Yamilito Arana y de Dumek Turbay. Como patrocinador de **Luz Marina Paria**, concejal de ASI, la primera votación del concejo de Cartagena se hizo presente en el concejo como en los viejos tiempos.
@@ -67,7 +67,7 @@ Te puede interesar: [¿Un nuevo día? ¿”Carta blanca” a nuevos mandatarios?
 
 ## Días febriles
 
-![Yamil Arana, gobernador de Bolívar, asumiendo el liderazgo de su primer gabinete. Días febriles. /Cortesía.](./yamil-arana_2.jpg)
+![Yamil Arana, gobernador de Bolívar, asumiendo el liderazgo de su primer gabinete. Días febriles. /Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/dias-febriles-de-los-nuevos-gobernadores-y-alcaldes/yamil-arana_2.jpg)
 *Yamil Arana, gobernador de Bolívar, asumiendo el liderazgo de su primer gabinete. /Cortesía.*
 
 Hoy, por ejemplo, vimos a los secretarios de la nueva alcaldía de Dumek corriendo base para llegar a la sede de la Cámara de Comercio de Cartagena. Igualmente los secretarios del gobernador **Yamil Arana Padauí**. Entre los dos mandatarios existe una armonía que promete buenos resultados para los dos entes territoriales. Esta alianza jalonaría grandes proyectos para La Heroica y Bolívar.

@@ -5,10 +5,10 @@ pubDate: "2024-02-14 15:31:43"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tutela-destrabaria-interinidad-de-la-fiscalia/"./hero.jpg"
 ---
 
-![¿Tutela destrabaría interinidad de la Fiscalía? En mano de estos magistrados está el concepto de dignidad humanada en conexidad con el acceso a la justicia./captura de pantalla.](./hero.jpg)
+![¿Tutela destrabaría interinidad de la Fiscalía? En mano de estos magistrados está el concepto de dignidad humanada en conexidad con el acceso a la justicia./captura de pantalla.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tutela-destrabaria-interinidad-de-la-fiscalia/hero.jpg)
 *¿Tutela destrabaría interinidad de la Fiscalía? En mano de estos magistrados está el concepto de dignidad humanada en conexidad con el acceso a la justicia./captura de pantalla.*
 
 ¿Una acción de tutela destrabaría **interinidad en la Fiscalía** en medio de la confrontación institucional entre presidencia y poderes judiciales del país? La acción fue impetrada este 13 de febrero **contra la Sala Plena de la Corte Suprema de Justicia (CSJ)**, que tiene en su agenda la designación de la fiscal titular de una terna presentada en agosto del 2023 por el presidente de la República, **Gustavo Petro Urrego**.
@@ -21,7 +21,7 @@ Como es de público conocimiento, la terna es integrada por las juristas **Angel
 
 ## Lucha civilizada o confrontación de poderes
 
-![](./corte.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tutela-destrabaria-interinidad-de-la-fiscalia/corte.jpg)
 
 El país se encuentra envuelto en una confrontación de poderes políticos que se torna violenta y hostil. Los hechos del 8/F son una muestra de lo que podría pasar si no se resuelve por la vía constitucional este impasse. Hoy, **esta contradicción política se manifiesta en el proceso eleccionario de la fiscalía que está en manos de la Corte Suprema de Justicia.** Dicha pelea se está oscureciendo debido a la falta de transparencia en el manejo de las contradicciones que se transforman en lucha por el poder político. El presidente Petro experimenta un terror a que no lo **"tumben"**, según sus propias palabras. No quiere terminar como **Pedro Castillo**, expresidente del Perú.
 
@@ -57,7 +57,7 @@ En ese sentido, a manera conclusiva, se debe decir que la acción de tutela del 
 
 ## Los postulados de la tutela
 
-![Tutela contra Corte Suprema. destrabaría interinidad en la Fiscalía](./alcides-arrieta.jpg)
+![Tutela contra Corte Suprema. destrabaría interinidad en la Fiscalía](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tutela-destrabaria-interinidad-de-la-fiscalia/alcides-arrieta.jpg)
 *Profesor Alcides Arrieta/VoxPopuli.Digital.*
 
 Leyendo detenidamente el cuerpo de la tutela, nos encontramos con fundamentos fácticos y constitucionales fuertes y sólidos. En cuanto a los fundamentos fácticos, está demostrado, **primero**, que el presidente presentó la terna a la CSJ en armonía con el artículo 249 de la Constitución.

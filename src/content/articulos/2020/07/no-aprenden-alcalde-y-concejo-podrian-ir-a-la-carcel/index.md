@@ -5,10 +5,10 @@ pubDate: "2020-07-15 02:40:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/no-aprenden-alcalde-y-concejo-podrian-ir-a-la-carcel/"./hero.jpg"
 ---
 
-\[caption id="attachment\_12057" align="alignnone" width="744"\]![](./hero.jpg) Héctor Consuegra, el contralor distrital elegido que no será posesionado.\[/caption\]
+\[caption id="attachment\_12057" align="alignnone" width="744"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/no-aprenden-alcalde-y-concejo-podrian-ir-a-la-carcel/hero.jpg) Héctor Consuegra, el contralor distrital elegido que no será posesionado.\[/caption\]
 
 La corrupción ciega hasta al más inteligente. Alcalde y concejo se la embarraron. Pero hoy fue más grave y doloso que hace 4 años. Eligieron como contralor Distrital  a **Héctor Consuegra Salinas**, actual **jefe de Control Interno de Edurb**e. Fue nombrado en este último cargo por el alcalde William Dau Chamat mediante el decreto 0313 del 7 de febrero de 2020.
 
@@ -16,7 +16,7 @@ Tanto los concejales de la coalición mayoritaria como el alcalde de Cartagena, 
 
 ## La prueba reina: El Decreto 0313 del 7 de febrero de 2020.
 
-![](./decreto-hector-consuegra-576x1024.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/no-aprenden-alcalde-y-concejo-podrian-ir-a-la-carcel/decreto-hector-consuegra-576x1024.jpeg)
 
 El Edurbe es una empresa estatal donde el Distrito tiene el 86% de las acciones. Encuadra en el **artículo 68 de la Ley 489 de 1998**. Como también en el inciso 5 del artículo 115 de la Constitución Nacional. Sentencia C-338 de 2011 de la Corte Constitucional. Por **tanto,** el Edurbe es objeto de control fiscal por parte de la Contraloría Distrital. O sea, _«_**yo con yo**_»_. **Esto se llama conflicto de intereses e incompatibilidad**es.
 

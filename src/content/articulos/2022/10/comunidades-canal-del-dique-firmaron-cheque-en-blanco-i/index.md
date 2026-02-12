@@ -5,10 +5,10 @@ pubDate: "2022-10-07 14:54:39"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/comunidades-canal-del-dique-firmaron-cheque-en-blanco-i/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/comunidades-canal-del-dique-firmaron-cheque-en-blanco-i/hero.jpg)
 *La firma del "cheque en blanco". Después de su firma, la seño Danit Escorcia Ortiz dejó el pelero y se fue por la puerta de atrás del palacio de la Proclamación. Entre tanto, el ministro Guillermo Reyes y el Secretario de Transparencia, Andrés Idárraga, hacía la parodia con el resto de líderes. Por eso VoxPopuli Corporación no asistió a ese teatro. Sabíamos lo que iba a suceder.*
 
 Un verdadero "cheque en blanco" le firmó la representante legal del consejo comunitario de Hato Viejo al gobierno Nacional y a la empresa Sacyr. Muy a pesar de que la tutelante desistió de la acción de tutela que buscaba proteger el derecho fundamental a la consulta previa y otros derechos, la reclamación a la APP Canal del Dique se mantiene incólume. Esto indica que el alto gobierno llegó el pasado 4 de octubre a Cartagena simplemente a firmar "acuerdos de voluntades" con el objetivo de destrabar el proceso de tutela. **Este hecho jurídico tenía aguantada la adjudicación del megaproyecto a la firma española Sacyr**.
@@ -39,7 +39,7 @@ Además, no se cumplió con la ley 70 de 1993. El mismo gobierno reconoció que 
 
 ## El desistimiento y el "cheque en blanco"
 
-![](./guillero-reyes-vicente-blel_6817546_20221004201541.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/comunidades-canal-del-dique-firmaron-cheque-en-blanco-i/guillero-reyes-vicente-blel_6817546_20221004201541.jpg)
 *En la mesa el anfitrión, el gobernador Vicente Blel, el Ministro Guillermo Reyes y el Secretario de Transparencia Andrés Idárraga.*
 
 ¿Qué implica desistir de una reclamación? De acuerdo con varios juristas consultados por este medio, desistir indicaría que el proceso judicial debe terminar de inmediato. ¿La razón? La demandante, Danit Escorcia Ortíz, representante legal del consejo comunitario de Hato Viejo **¡renuncia a todas sus pretensiones!**

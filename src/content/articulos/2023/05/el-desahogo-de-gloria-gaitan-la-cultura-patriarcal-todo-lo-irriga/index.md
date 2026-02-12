@@ -5,10 +5,10 @@ pubDate: "2023-05-11 14:16:30"
 author: "Lucio"
 categories: ["Opinión"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-desahogo-de-gloria-gaitan-la-cultura-patriarcal-todo-lo-irriga/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-desahogo-de-gloria-gaitan-la-cultura-patriarcal-todo-lo-irriga/hero.jpg)
 *Gloria Gaitán, la hija del caudillo popular, Jorge Eliécer Gaitán.*
 
 Desahogarme, es la motivación de este escrito que voy a compartir con algunos de quienes, en la actualidad, tienen una u otra conexión con El Exploratorio. En realidad de verdad, la cultura patriarcal me agrede, no solo mentalmente sino físicamente. Me siento profundamente contrariada cuando surgen expresiones que demuestran que el alma de escuderos sigue predominando en nuestra cultura.

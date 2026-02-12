@@ -5,10 +5,10 @@ pubDate: "2025-03-12 12:33:32"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-150-preguntas-del-pot-que-planeacion-distrital-debe-resolver/"./hero.jpg"
 ---
 
-![Presentamos 150 preguntas del POT para Camilo Rey Sabogal, Secretario de Planeación Distrital en este mes de su onomástico](./hero.jpg)
+![Presentamos 150 preguntas del POT para Camilo Rey Sabogal, Secretario de Planeación Distrital en este mes de su onomástico](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-150-preguntas-del-pot-que-planeacion-distrital-debe-resolver/hero.jpg)
 *Presentamos 150 preguntas del POT para Camilo Rey Sabogal, Secretario de Planeación Distrital en este mes de su onomástico. /Composición fotográfica de Planeación Distrital.*
 
 La Secretaría de Planeación Distrital anunció la actualización del expediente territorial con las mesas de diálogo. Tomando en cuenta el derecho de participación y decisión de la ciudadanía y, en particular, de los medios de comunicación, presentamos **150 preguntas del POT** para Camilo Rey Sabogal, Secretario de Planeación Distrital. Esta es una solicitud de información amparada por la Constitución y la ley.
@@ -33,7 +33,7 @@ En la administración anterior dijeron que habían construido ese documento téc
 
 ## ¿Conurbación sin Área Metropolitana?
 
-![Secretaria de Planeación de la gobernación de Bolívar, Susana Puerta Monroy](./image-3.png)
+![Secretaria de Planeación de la gobernación de Bolívar, Susana Puerta Monroy](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-150-preguntas-del-pot-que-planeacion-distrital-debe-resolver/image-3.png)
 *Secretaria de Planeación de la gobernación de Bolívar, Susana Puerta Monroy*
 
 El secretario de Planeación del Distrito, Camilo Rey Sabogal, el pasado 28 de febrero realizó un encuentro con la secretaria de Planeación de la gobernación de Bolívar, **Susana Puerta Monroy**. La reunión, en realidad fue dirigida por **Rodolfo Díaz Wrigth** , asesor de Asuntos Estratégicos de la Alcaldía de Cartagena. En vez de plantearse la creación del Área Metropolitana, Rey Sabogal, habló de conurbación. Al respecto, dijo:

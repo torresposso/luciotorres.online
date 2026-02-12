@@ -5,10 +5,10 @@ pubDate: "2023-09-20 22:57:29"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/venta-ilegal-de-combustible-permite-alcalde-de-lorica-i/"./hero.jpg"
 ---
 
-![En este vehículo cisterna, al parecer, se transporta combustible en forma ilegal, es decir, sin la respectiva guía. Transporte y venta ilegal de combustibles.](./hero.jpg)
+![En este vehículo cisterna, al parecer, se transporta combustible en forma ilegal, es decir, sin la respectiva guía. Transporte y venta ilegal de combustibles.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/venta-ilegal-de-combustible-permite-alcalde-de-lorica-i/hero.jpg)
 *En este vehículo cisterna, al parecer, se transporta combustible en forma ilegal. Es decir, no aparece registrado en el CICOM ni en la Agencia Nacional de Hidrocarburo.*
 
 El hurto y contrabando de gasolina tiene un gran impacto en la economía de la región Caribe. Lo peculiar es que las autoridades regionales y locales se hacen de la vista gorda para controlar este flagelo. Es el caso del alcalde de Lorica, Córdoba, **Jorge Isaac Negrete López** (2020-2023), que permite la venta ilegal de combustibles en su jurisdicción. Por omisión (¿deliberada?), una de las dos estaciones de gasolina, que la Sijin las había cerrado por ilegales, la reabrieron nuevamente violentando el sello de cierre. Este fue impuesto por la Policía después que agentes de la Sijin verificaran que ninguna de ellas cumplía con la normatividad vigente. Es decir, que son reincidentes.
@@ -19,7 +19,7 @@ Te sugerimos: [¿Se corchó Petro con el sacrifico de Carolina? I](/articulos/se
 
 ## El alcalde Negrete se niega a hablar
 
-![Transporte y venta ilegal de combustibles en Lorica. El alcalde Negrete López peca por omisión.](./Jorge-negrete_lorica.jpg)
+![Transporte y venta ilegal de combustibles en Lorica. El alcalde Negrete López peca por omisión.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/venta-ilegal-de-combustible-permite-alcalde-de-lorica-i/Jorge-negrete_lorica.jpg)
 *El alcalde Negrete López es responsable por omisión.*
 
 Llama la atención que uno de los hechos sospechosos que pudimos constatar en dicha visita periodística, fue la conducta displicente, omisa y altanera con que se recibieron a los periodistas. Se solicitó muy amablemente hablar con el alcalde con el fin de que explicara lo que sucedía, tomando en cuenta que es la primera autoridad del territorio. No puede permitir la venta ilegal de combustible, mucho menos cuando se le notificó de esa situación. La policía le compulsó copia del acta de cierre de las dos estaciones y tenemos la evidencia que sí la tenían, pero no hicieron nada para denunciar ante la Fiscalía, el ministerio de Minas y Energía, y otras autoridades, dicha irregularidad.
@@ -32,7 +32,7 @@ Mientras intentábamos hablar con el secretario de Gobierno, el alcalde aprovech
 
 ## Venta ilegal de combustibles
 
-![Estación de gasolina San Miguel, Lorica, Córdoba. Fue cerrada por venta ilegal de combustibles. No tenía registro del CICOM. Pero la reabrieron reincidiendo en su conducta ilegal. Foto VoxPopuli Digital.](./ESD_Sanmiguel_Lorica.jpg)
+![Estación de gasolina San Miguel, Lorica, Córdoba. Fue cerrada por venta ilegal de combustibles. No tenía registro del CICOM. Pero la reabrieron reincidiendo en su conducta ilegal. Foto VoxPopuli Digital.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/venta-ilegal-de-combustible-permite-alcalde-de-lorica-i/ESD_Sanmiguel_Lorica.jpg)
 *Estación de gasolina San Miguel, Lorica, Córdoba. Fue cerrada por venta ilegal de combustibles. No tenía registro del CICOM. Pero la reabrieron reincidiendo en su conducta ilegal. Foto VoxPopuli Digital.*
 
 El pasado 23 de mayo de 2023, la Sijin practicó una visita a la estación de gasolina donde se comprobó que estaba funcionando sin el lleno de requisitos. La inspección fue atendida por **Edison Pérez Ramírez**.
@@ -40,7 +40,7 @@ El pasado 23 de mayo de 2023, la Sijin practicó una visita a la estación de ga
 Lo primero que hicieron los agentes de policía del departamento de Hidrocarburos fue solicitarle la documentación requerida para el funcionamiento de la estación de servicio. El **decreto 1073 de 2015** del ministerio de Minas y Energía indica que toda persona natural o jurídica que se encuentre interesada en ejercer la actividad de distribuidor minorista de combustibles líquidos derivados del petróleo deberá obtener, previamente, autorización  
 de ese ente.
 
-![Edison Pérez Ramírez,sindicado por venta ilegal de combustible.](./Edison_Perez_lorica_publicado.jpg)
+![Edison Pérez Ramírez,sindicado por venta ilegal de combustible.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/venta-ilegal-de-combustible-permite-alcalde-de-lorica-i/Edison_Perez_lorica_publicado.jpg)
 *Edison Pérez Ramírez, aparece como el presunto vendedor ilegal de combustible.*
 
 ## Sin registro CICOM
@@ -57,7 +57,7 @@ Ante ese hecho probatorio, los agentes de la Sijin cerraron de inmediato la esta
 
 ## Transporte y venta ilegal de combustibles
 
-![En este camión cisterna se transporta, al parecer, en forma ilegal el combustible. Venta ilegal de combustible.](./Camion_cisterna_KEE_256.jpg)
+![En este camión cisterna se transporta, al parecer, en forma ilegal el combustible. Venta ilegal de combustible.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/venta-ilegal-de-combustible-permite-alcalde-de-lorica-i/Camion_cisterna_KEE_256.jpg)
 *En este camión cisterna se transporta, al parecer, en forma ilegal el combustible. Carece de CICOM*
 
 **VoxPopuli Digital** hizo un seguimiento a uno de los camiones usados, al parecer, para el transporte de gasolina sin el respectivo permiso del CICOM. Por tanto, carece de la autorización respectiva violando el Código Penal, ya que no aparece en el CICOM. Este camión, cuya fotografía publicamos, está identificado con las placas kEE-258, el cual lo encontramos al lado de una de las estaciones de gasolina que habían cerrado por no tener la documentación reglamentaria y que también sigue funcionando.

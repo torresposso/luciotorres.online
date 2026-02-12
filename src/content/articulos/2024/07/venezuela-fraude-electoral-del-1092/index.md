@@ -5,10 +5,10 @@ pubDate: "2024-07-30 02:08:44"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/venezuela-fraude-electoral-del-1092/"./hero.jpg"
 ---
 
-![Venezuela ¿Fraude electoral del 109,2%?](./hero.jpg)
+![Venezuela ¿Fraude electoral del 109,2%?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/venezuela-fraude-electoral-del-1092/hero.jpg)
 *Venezuela ¿Fraude electoral del 109,2%?*
 
 ¿Hubo fraude electoral en las elecciones presidenciales de Venezuela del 28 de julio? Hablemos de evidencias y no de percepción. Que el canal de TV oficial del régimen (**Telesur**) anuncie la victoria del presidente **Nicolás Maduro** con un resultado de todos los candidatos, sin incluir votos nulos e inválidos, del **109,2%**, (repito, 109,2%) es un síntoma de que el fraude fue de proporción industrial. Refleja el principio ético de una **Revolución Bolivariana** con un aparato burocrático tramposo que usurpó el poder popular.

@@ -5,10 +5,10 @@ pubDate: "2021-04-29 00:40:10"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/un-oportunista-en-la-marcha-28a-en-busca-de-popularidad/"./hero.jpg"
 ---
 
-\[caption id="attachment\_14730" align="aligncenter" width="1080"\]![](./marcha-Cartagena.jpeg) El oportunista en la Marcha 28A. Dau fue abucheado por los marchantes espontáneos.\[/caption\]
+\[caption id="attachment\_14730" align="aligncenter" width="1080"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/un-oportunista-en-la-marcha-28a-en-busca-de-popularidad/marcha-Cartagena.jpeg) El oportunista en la Marcha 28A. Dau fue abucheado por los marchantes espontáneos.\[/caption\]
 
 Diferentes sectores de la opinión pública de la ciudad, a través de las redes sociales de internet, estimaron la participación del alcalde **William Dau Chamat** como un oportunista de derecha con la complicidad de una **izquierda liquidacionista**. Este sector está liderado por **David Múnera Secretario del Interior**, otrora sempiterno opositor de los gobiernos. Hoy, come en el mismo plato que le extienden los malandrines 
 
@@ -28,7 +28,7 @@ Y eso fue posible, porque en su gabinete se encuentra el secretario del Interior
 
 ## El oportunista y la izquierda liquidacionista
 
-\[caption id="attachment\_14732" align="aligncenter" width="1279"\]![](./el-liquidacionista-2.jpeg) El oportunista y el liquidacionista obrero. La tortilla se volteó a favor de una izquierda burocrática y liquidacionista como en los tiempos de los hermanos Moreno en Bogotá.\[/caption\]
+\[caption id="attachment\_14732" align="aligncenter" width="1279"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/un-oportunista-en-la-marcha-28a-en-busca-de-popularidad/el-liquidacionista-2.jpeg) El oportunista y el liquidacionista obrero. La tortilla se volteó a favor de una izquierda burocrática y liquidacionista como en los tiempos de los hermanos Moreno en Bogotá.\[/caption\]
 
 William Dau tiene más de 500 órdenes de prestación de servicios para las diferentes organizaciones de la izquierda de Cartagena. Aquí la integran Colombia Humana, Unión Patriotica, Partido Comunista, Dignidad (MOIR), Alianza Verde, Polo Democrático. Su líderes están comprados.
 

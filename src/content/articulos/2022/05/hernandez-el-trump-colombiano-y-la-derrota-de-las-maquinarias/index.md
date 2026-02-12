@@ -5,16 +5,16 @@ pubDate: "2022-05-30 03:09:28"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/hernandez-el-trump-colombiano-y-la-derrota-de-las-maquinarias/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/hernandez-el-trump-colombiano-y-la-derrota-de-las-maquinarias/hero.jpg)
 
 Lo dijimos, si Petro no gana en primera vuelta que se olvide de la presidencia. Los resultados de las elecciones de la primera vuelta **confirman los análisis que se habían hecho en Voxpopuli Digital.** El único de los tres candidatos que mantenía una tendencia al crecimiento a la presidencia de Colombia era **Rodolfo Hernández**, «el Trump colombiano». **Pero la sorpresa fue la derrota de las maquinarias electorales** que representaban al **régimen neobonapartista.**
 
 La campaña de «Fico» Gutiérrez confió mucho en las maquinarias electorales. Los partidos tradicionales que le acompañaban, al parecer, **no aceitaron su engranaje**. En el mes de mayo, «Fico» se estancó, hasta el punto de que algunos de los líderes de los partidos tradicionales se abstuvieron de invertir en el aceite que las maquinarias necesitan para funcionar. Por lo menos, en la Costa Caribe no se observó ese aliciente que ellas regaron en las elecciones parlamentarias del 13 de marzo. Sus líderes electorales se quedaron esperando ese estímulo material. 
 
-![](./resultados-electorales-29-de-mayo-2022.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/hernandez-el-trump-colombiano-y-la-derrota-de-las-maquinarias/resultados-electorales-29-de-mayo-2022.jpg)
 
 ## Resultados del preconteo
 
@@ -35,7 +35,7 @@ El último boletín No 62 de la Registraduría Nacional emitido a las 7:19 de la
 
 ## El análisis
 
-![](./petro-y-rodolfo.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/hernandez-el-trump-colombiano-y-la-derrota-de-las-maquinarias/petro-y-rodolfo.jpeg)
 
 Las encuestas habían advertido que en el mes de mayo el único de los candidatos que creció fue el ingeniero Hernández. En los análisis que hicimos en **VoxPopuli Digital** consideramos que el exalcalde de Bucaramanga era el único que estaba en condiciones de disputar una masa de indecisos que llegaba a más del 14%. Petro ni Fico estaban en condiciones de enamorar esa masa, porque se habían estancado en su crecimiento. Y en una disputa electoral el que no crece está condenado a bajar. Y eso fue lo que pasó en el mes de mayo a Petro —que no le permitió  llegar a más del 50% de los votos— y a Fico entrar a segunda vuelta.
 

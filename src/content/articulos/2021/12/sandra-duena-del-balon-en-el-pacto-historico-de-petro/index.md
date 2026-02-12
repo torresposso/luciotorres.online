@@ -5,10 +5,10 @@ pubDate: "2021-12-21 01:17:39"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/sandra-duena-del-balon-en-el-pacto-historico-de-petro/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/sandra-duena-del-balon-en-el-pacto-historico-de-petro/hero.jpg)
 *Y se quedó Sandra en Pacto Histórico con el apoyo del Pibe. Será la primera votación en la cámara de Bolívar.*
 
 Finalmente **Sandra Villadiego se quedó en el Pacto Histórico**. El Caballo de Troya no era ella. Si se trata de buscar un responsable de que ella esté en la lista de Bolívar es nada menos que el líder de ese frente, **Gustavo Petro Urrego**. Eso estaba cocinado desde hace varios meses. Gustavo Petro no podía despreciar una cámara segura con Villadiego. Tampoco renunciar al gran apoyo que recibirá en su campaña presidencial con la esposa de **Miguel Rangel Sosa**. Rangel y Petro son viejos conocidos del congreso.
@@ -19,7 +19,7 @@ La candidata Sandra Villadiego entra con pie firme. Es la dueña del balón. Los
 
 ## Las críticas del Pacto histórico
 
-![](./consuelo-ahumada-1.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/sandra-duena-del-balon-en-el-pacto-historico-de-petro/consuelo-ahumada-1.jpg)
 *Consuelo Ahumada Beltrán*
 
 Desde el interior del Pacto, surgen muchísimos cuestionamientos por incumplimiento de la metodología de configuración de las listas. A **_Consuelo Ahumada_**, una de las líderes muy cercana a Petro, la mandaron al puesto 34. Sin duda, no tendría posibilidad de ser elegida. Los más optimistas hablan de 30 escaños. Sin embargo, **Álvaro Uribe Vélez** tiene el récord de haber elegido a 19 curules encabezando él la lista cerrada.
@@ -48,7 +48,7 @@ De tal manera, le pregunté a varios de los integrantes que si sabían de que Co
 
 ## Lidy, por fuera
 
-![](./lidys.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/sandra-duena-del-balon-en-el-pacto-historico-de-petro/lidys.jpeg)
 *Lidys Ramírez, cayó en desgracia política.*
 
 El caso de Lidy Ramírez es digno de analizar. ¿Por qué le ha ido tan mal si todo lo tenía en sus manos? No la incluyeron en la lista al senado ni a la cámara del Pacto. Le fue como perro en misa.
@@ -69,7 +69,7 @@ Por tanto, si se trata de analizar lo qué pasó, es menester desprenderse de la
 
 ## El Pacto Histórico y el discurso
 
-![](./gustavo-petro-2.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/sandra-duena-del-balon-en-el-pacto-historico-de-petro/gustavo-petro-2.jpg)
 *Gustavo Petro*
 
 Gustavo Petro fue uno de los líderes de la bancada de izquierda que desarrolló una estrategia de control político basada en la denuncia contra la parapolítica. Comenzó sus grandes debates en 2007 cuando los jefes paramilitares ya habían dado el paso hacia su desmovilización. En el 2006, los jefes del paramilitarismo revelaron muchos nombres de los que fueron sus aliados durante la expansión del paramilitarismo.

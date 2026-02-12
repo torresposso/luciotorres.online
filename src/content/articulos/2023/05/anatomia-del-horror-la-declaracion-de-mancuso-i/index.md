@@ -5,10 +5,10 @@ pubDate: "2023-05-11 02:44:08"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/anatomia-del-horror-la-declaracion-de-mancuso-i/"./hero.jpg"
 ---
 
-![¡Anatomía del horror! La declaración de Mancuso . /Tomada del video Jep.](./hero.jpg)
+![¡Anatomía del horror! La declaración de Mancuso . /Tomada del video Jep.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/anatomia-del-horror-la-declaracion-de-mancuso-i/hero.jpg)
 *¡Anatomía del horror! La declaración de Mancuso . / Jep.*
 
 ¡Anatomía del horror! Sería el resumen del primer día de la **Audiencia Pública y Única de Aporte de Verdad** realizado por **Salvatore Mancuso Gómez**. Hoy, miércoles 10 de de mayo ante Justicia Especial de Paz (JEP), atendió el pedido del decimero **Álvaro Álvarez**, quien en una nota sentida cantó su décima: "**¿Qué pasa con nuestros seres queridos desaparecidos? Diga la verdad**. **Y si usted no fue diga quién fue**". Y el exjefe de las Autodefensas Unidas de Colombia reconoció que la expansión del paramilitarismo, con ejecuciones extrasumariales, desapariciones y masacres, se hizo conjuntamente con las tres fuerzas de la sociedad colombiana: **fuerzas militares, fuerzas políticas y fuerzas económicas**.
@@ -19,7 +19,7 @@ Si bien la subversión fue un factor que permitió el levantamiento del movimien
 
 ## Conciencia de esta ¡anatomía del horror!
 
-![](./Mancuso_pacho_.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/anatomia-del-horror-la-declaracion-de-mancuso-i/Mancuso_pacho_.jpg)
 *¿Debe ser procesado Pacho Santos? Otro intocable.*
 
 El exlíder paramilitar, que se encuentra en un centro de reclusión de inmigrantes de Georgia, Estados Unidos, reconoció que solo después de 17 años de estar lidiando con las víctimas pudo darse cuenta de lo que hemos llamado la "anatomía del horror".
@@ -30,7 +30,7 @@ Incluso, en 1997, desde el mismo seno de las élites capitalinas recibieron ese 
 
 ## El Tiempo la ¡anatomía del horror!
 
-![El expresidente Pacho Santos en apuros por ser uno de los determinadores del nacimiento del Bloque Capital. Anatomía del horror](./pacho-Santos.jpg)
+![El expresidente Pacho Santos en apuros por ser uno de los determinadores del nacimiento del Bloque Capital. Anatomía del horror](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/anatomia-del-horror-la-declaracion-de-mancuso-i/pacho-Santos.jpg)
 *El expresidente Pacho Santos en apuros por ser uno de los determinadores del nacimiento del Bloque Capital. Anatomía del horror*
 
 Precisamente, poco menos de dos años desde esas reuniones con "Pacho" Santos, Carlos Castaño ordenó el asesinato del humorista y comediante **Jaime Garzón**. Se espera que Mancuso dé algunos detalles sobre este y otros hechos atribuidos al paramilitarismo en Bogotá. Como está demostrado, Castaño ordenó a la banda Las Terrazas el homicidio de Garzón y de otros personajes de la capital de la república cuando el Bloque Capital comenzó a operar. La pregunta que falta responder es **¿quienes fueron los determinadores de esos crímenes?**
@@ -45,7 +45,7 @@ El plan de esa guerrilla era atacar la capital. El jefe de esa operación era He
 
 ## Postobón, Bavaria, Coca-cola, Ecopetrol, bananeros, palmeros
 
-![](./Bavaria_postobon.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/anatomia-del-horror-la-declaracion-de-mancuso-i/Bavaria_postobon.jpg)
 *Los patrocinadores de los escuadrones de la muerte.*
 
 No se podría condensar todo lo que dijo Salvatore Mancuso en el primer día de audiencia. Pero se puede crear unos patrones criminales recurrentes en el nacimiento y expansión del paramilitarismo como estrategia contrainsurgente y enriquecimiento de las élites colombianas. Se debe destacar, por lo menos, su ánimo de decir la verdad respecto al **rol de las Convivir** y de más de 100 grupos armados creados por los ganaderos y empresarios con el apoyo de la fuerza pública y el narcotráfico. Sin embargo, una de las cosas sensibles para la verdad histórica que se debe tomar en cuenta en esta propuesta de justicia restaurativa y alternativa es el **tema de la motivación y de las consecuencias de la acción paramilitar**.

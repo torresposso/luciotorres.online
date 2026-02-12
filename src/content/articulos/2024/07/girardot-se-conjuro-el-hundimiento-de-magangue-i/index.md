@@ -5,10 +5,10 @@ pubDate: "2024-07-28 03:11:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Yamil Arana"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/girardot-se-conjuro-el-hundimiento-de-magangue-i/"./hero.jpg"
 ---
 
-![hundimiento de Magangué](./hero.jpg)
+![hundimiento de Magangué](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/girardot-se-conjuro-el-hundimiento-de-magangue-i/hero.jpg)
 *Girardot: ¿Se conjuró el hundimiento de Magangué? A la izq. el sector más crítico de Girardot todavía con las viviendas en pie. A la der. la zona totalmente despejada. /Cortesía Prensa alcaldía de Magangué.*
 
 ¿Se conjuró el hundimiento de Magangué? Con los dineros disponibles para la **Revolución Comunitaria**, el alcalde **Pedro Alí Alí**, reubicó a las 25 familias que se encontraban en la zona crítica del barrio Girardot, al sur de la ciudad, zona ribereña del Magdalena en el departamento de Bolívar. Este asentamiento de más de 40 años, había frenado las obras de protección del dique que los contratistas de la UNGRD venían reforzando.
@@ -25,14 +25,14 @@ https://youtu.be/uJDD9Kx1eFY
 
 ## Desalojo pacífico
 
-![Girardot: ¿Se conjuró el hundimiento de Magangué?](./Pedro-ali-1024x515.jpeg)
+![Girardot: ¿Se conjuró el hundimiento de Magangué?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/girardot-se-conjuro-el-hundimiento-de-magangue-i/Pedro-ali-1024x515.jpeg)
 *Girardot: ¿Se conjuró el hundimiento de Magangué?*
 
 Una de las tareas obligadas de la alcaldía de Magangué era la reubicación de **25 familias** asentadas en la zona crítica del barrio Girardot. En julio de 2023, después de una inspección judicial, la [Procuraduría](https://www.procuraduria.gov.co/Pages/procuraduria-pidio-reubicar-familias-magangue-riesgo-inundaciones.aspx) conminó a la alcaldía a reubicar a **114 familias**.
 
 Como se recordará, la entidad lideró una mesa de trabajo con autoridades municipales y funcionarios de la UNGRD. En esta se **escuchó las inquietudes y necesidades de los habitantes del sector**, que se encuentran sobre la ribera del río. Ellos reclamaron **acciones urgentes para prevenir graves afectaciones a su integridad.** 
 
-![Girardot: ¿Se conjuró el hundimiento de Magangué?](./Girardot-1024x488.jpeg)
+![Girardot: ¿Se conjuró el hundimiento de Magangué?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/girardot-se-conjuro-el-hundimiento-de-magangue-i/Girardot-1024x488.jpeg)
 *Emergencia Girardot: ¿Se conjuró el hundimiento de Magangué?*
 
 Pero, esa cifra inicial se redujo a **25 familias**, ya que estaban en el sitio más complicado de Girardot. Hoy, después de un gran esfuerzo de diálogo edificante y de comprensión de la incertidumbre de las familias afectadas, desalojaron voluntariamente.
@@ -41,7 +41,7 @@ Cada representante de esas familias recibieron la suma de **$30 millones** como 
 
 ## Tomás, el último de Girardot
 
-![Girardot: ¿Se conjuró el hundimiento de Magangué? Tomás Mercado: "Salimos para salvar a 30 mil familias"](./20240720_083449-1024x768.jpg)
+![Girardot: ¿Se conjuró el hundimiento de Magangué? Tomás Mercado: "Salimos para salvar a 30 mil familias"](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/girardot-se-conjuro-el-hundimiento-de-magangue-i/20240720_083449-1024x768.jpg)
 *Tomás Mercado, líder del barrio Girardot: "Salimos para salvar a 30 mil familias".*
 
 Muy temprano llegamos a la casa donde vive el último de los desalojados de Girardot: Tomás Mercado. Ahora vive en arriendo. Paga $300 mil mensuales en una vivienda humilde. No se sienten bien. Según él, la salida fue un proceso traumático, ya que la Oficina Municipal de Gestión del Riesgo y Desastre demoró demasiado para dialogar efectivamente con los voceros de los damnificados.
@@ -64,7 +64,7 @@ El director de la entidad, Carlos Carrillo, se comprometió con el alcalde de Ma
 
 ## El hundimiento de Magangué
 
-![Guillermo Torres Navas, constructor Naval, propone una solución sostenible al problema de Girardot](./Guillermo-Torres-1024x678.jpg)
+![Guillermo Torres Navas, constructor Naval, propone una solución sostenible al problema de Girardot](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/girardot-se-conjuro-el-hundimiento-de-magangue-i/Guillermo-Torres-1024x678.jpg)
 *Guillermo Torres Navas, constructor Naval, manifiesta que la solución sostenible de Girardot es hacer un corte del espolón natural que se formó entre La Peña y Pueblo Nuevo de la margen izquierda del río, diagonal al barrio Girardot.*
 
 De hecho, una vez cumplido el desalojo de la zona crítica de Girardot y de que haya salido el último de los damnificados, Tomás Mercado, su esposa y sus hijos, la UNGRD tendrá un año para entregar los tres espolones que hieren el río Magdalena. Estos espolones detendrían la fuerza del río que viene erosionando y debilitando el jarillón de Girardot.

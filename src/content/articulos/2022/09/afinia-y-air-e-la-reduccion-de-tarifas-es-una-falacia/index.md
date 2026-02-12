@@ -5,10 +5,10 @@ pubDate: "2022-09-25 19:34:43"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/afinia-y-air-e-la-reduccion-de-tarifas-es-una-falacia/"./hero.jpg"
 ---
 
-![William Murra Babun y Héctor Pérez Fernández le presentaron al presidente Petro la propuesta para reducir las tarifas de AFINIA y AIRE-E. Existen muchas razones para creer que la reducción de tarifas es una falacia.](./hero.jpg)
+![William Murra Babun y Héctor Pérez Fernández le presentaron al presidente Petro la propuesta para reducir las tarifas de AFINIA y AIRE-E. Existen muchas razones para creer que la reducción de tarifas es una falacia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/afinia-y-air-e-la-reduccion-de-tarifas-es-una-falacia/hero.jpg)
 *William Murra Babun y Héctor Pérez Fernández le presentaron al presidente Petro la propuesta para reducir las tarifas de AFINIA y AIRE-E. Existen muchas razones para creer que la reducción de tarifas es una falacia.*
 
 En la región Caribe existen muchas razones para creer que la reducción de tarifas es una falacia. Quiere decir, que si hace un año pagaba $180 mil y ahora pago $317 por los mismos Kwh consumidos, por mucho que nos rebajen, seguiremos pagando las tarifas más caras del pais. ¿Por qué? Afinia y AIR-E violaron la ley con la metodología para adoptar las tarifas ruinosas que tienen.
@@ -33,7 +33,7 @@ No se trata de bajar la tarifas sino de definir una política de estructuración
 
 ## Razones para no creer en la CREG
 
-![William Murra y Héctor Pérez aparecen con los otros veedores y abogados Nausicrate Pérez, Alcides Arrieta y Erick Urueta. La reducción de tarifas es una falacia](./veedores.webp)
+![William Murra y Héctor Pérez aparecen con los otros veedores y abogados Nausicrate Pérez, Alcides Arrieta y Erick Urueta. La reducción de tarifas es una falacia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/afinia-y-air-e-la-reduccion-de-tarifas-es-una-falacia/veedores.webp)
 *William Murra y Héctor Pérez aparecen con los otros veedores y abogados Nausicrate Pérez, Alcides Arrieta y Erick Urueta en 2020. La reducción de tarifas es una falacia.*
 
 Son varias las razones para ser escépticos frente al anuncio del gobierno de rebajar las tarifas para la Costa Caribe. Nos lleva a pensar que la reducción de tarifas es una falacia. De acuerdo a los veedores, una de ellas es la **desconfianza en la CREG**.
@@ -46,7 +46,7 @@ La ley no permite trasladar a la tarifa del usuario la ineficiencia administrati
 
 ## ¿Por qué la reducción de tarifas es una falacia?
 
-![Veedores Héctor Pérez y William Murra presentan propuesta al presidente Petro para resolver las tarifas de energía eléctrica en la Costa Caribe.](./petro-y-veedores1.jpg)
+![Veedores Héctor Pérez y William Murra presentan propuesta al presidente Petro para resolver las tarifas de energía eléctrica en la Costa Caribe.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/afinia-y-air-e-la-reduccion-de-tarifas-es-una-falacia/petro-y-veedores1.jpg)
 *Los veedores William Murra y Héctor Pérez le entregaron hoy al presidente Petro una propuesta para resolver el problema de las tarifas eléctricas en la Costa Caribe.*
 
 Se dijo que uno de los hechos que determinan que las tarifas de Afinia y Aire-E sean más altas que de las demás empresas de servicios públicos de energía del país, es el hecho de incorporar las pérdidas no técnicas en el cálculo de las tarifas. Por mucho que se rebajen, siempre los costeños terminaremos de pagar las tarifas más caras. Lo peor, esto determina también un mal servicio. Al incorporar las pérdidas no técnicas, se le facilita a esas empresas evadir en la inversión en el mejoramiento continuo de su infraestructura.
@@ -67,7 +67,7 @@ Pero eso sería buscar el ahogado río arriba. ¿Por qué? Los veedores señalan
 
 Si se parte de los 15 ciclos de facturación comprendidos entre el 12/06/2021 y el 12/09/2022 nos vamos a encontrar con varias sorpresas. Veamos el caso AFINIA, tomando en cuenta el estudio de los dos veedores. Uno de ellos, es el ingeniero eléctrico **William Murra Babún**, quien conoce en profundidad este tema, por lo que la ministra debe escuchar con atención. Los comportamientos de los promedios arrojados en ese período de 15 meses es el siguiente:
 
-![](./tarifa-electrica.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/afinia-y-air-e-la-reduccion-de-tarifas-es-una-falacia/tarifa-electrica.jpg)
 *Aquí hay que agregar que el IPP fue de 32,22%. Esto indicaría que la reducción de tarifas es una falacia. Esta tabla se construyó con base en la información de AFINIA y las agencias oficiales.*
 
 En ese período el Índice de precio al Productor-IPP se fijó en 32.22%, los otros componentes no respetaron ese índice indexador. Así se observa en el cuadro anterior. Se evidencia que los componentes Pérdidas-PR, Restricciones-R y Distribución sufrieron una variación por encima de toda explicación racional.

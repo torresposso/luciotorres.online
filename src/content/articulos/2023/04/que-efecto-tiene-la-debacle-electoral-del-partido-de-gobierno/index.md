@@ -5,10 +5,10 @@ pubDate: "2023-04-26 17:49:45"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/que-efecto-tiene-la-debacle-electoral-del-partido-de-gobierno/"./hero.jpg"
 ---
 
-![¿Qué efecto tendrá la debacle electoral del partido de gobierno? El presidente de Colombia Humana era Gustavo Petro. Susana Muhamad, como vicepresidenta asumió sus funciones. Al ser nombrada ministra de Medio Ambiente, fue elegida Carmen Anachury Díaz. El secretario General es Marco Emilio Hincapié, exmagistrado del CNE.](./hero.jpg)
+![¿Qué efecto tendrá la debacle electoral del partido de gobierno? El presidente de Colombia Humana era Gustavo Petro. Susana Muhamad, como vicepresidenta asumió sus funciones. Al ser nombrada ministra de Medio Ambiente, fue elegida Carmen Anachury Díaz. El secretario General es Marco Emilio Hincapié, exmagistrado del CNE.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/que-efecto-tiene-la-debacle-electoral-del-partido-de-gobierno/hero.jpg)
 *¿Qué efecto tendrá la debacle electoral del partido de gobierno? El presidente de Colombia Humana era Gustavo Petro. Susana Muhamad, como vicepresidenta asumió sus funciones. Al ser nombrada ministra de Medio Ambiente, fue elegida Carmen Anachury Díaz. El secretario General es Marco Emilio Hincapié, exmagistrado del CNE.*
 
 Desde Barranquilla hasta Cajicá, pasando por Cartagena, Cali o Bogotá, **la consulta interna del partido de gobierno fue una debacle electoral**. Si bien **Colombia Humana** escogió sus candidatos para esta coyuntura electoral, mostró su verdadera fuerza popular que **brilla por su debilidad orgánica y política**. Estos resultados reflejan, a todas luces, una crisis manifiesta de la **dirigencia oficialista y del gobierno compartido** bajo la etiqueta de **diálogo nacional** o de **gobierno de transición**, que no cumple con ninguna de estas dos últimas caracterizaciones.
@@ -27,7 +27,7 @@ En la región Caribe, el golpe más grande fue en el Atlántico. Con toda la pub
 
 ## ¿Gobierno compartido o imposibilidad de gobernar?
 
-![El Presidente Gustavo Petro ¿analizó la debacle de su partido de gobierno?](./Gustavo-Petro.jpg)
+![El Presidente Gustavo Petro ¿analizó la debacle de su partido de gobierno?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/que-efecto-tiene-la-debacle-electoral-del-partido-de-gobierno/Gustavo-Petro.jpg)
 *El Presidente Gustavo Petro ¿analizó la debacle de su partido de gobierno?*
 
 Y la solución de esta crisis, en realidad, no la tiene el presidente Gustavo Petro, como creen muchos de los que critican a los dirigentes descalabrados con estos resultados. Estos críticos sufren de lo mismo de sus criticados: **la idolatría política**. Son dirigentes menores de edad que pretenden seguir amamantados por sus padres sin ser libres. ¡No saben de libertad! Y pretenden liberar al país de la opresión y de la corrupción.
@@ -44,7 +44,7 @@ En otras palabras, el gobierno del presidente Petro seguirá secuestrado políti
 
 ## Consulta con tropiezos
 
-![](./Carmen-Anachury_inscripcion.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/que-efecto-tiene-la-debacle-electoral-del-partido-de-gobierno/Carmen-Anachury_inscripcion.jpg)
 
 La vicepresidenta de la colectividad, **Carmen Anachury Díaz**, quien reemplazó en sus funciones a **Susana Muhamad**, desde que ésta asumió el cargo de ministra de **Medio Ambiente**, no le fue bien en la gestión de la consulta. En este período emitieron **100 resoluciones** con la firma del secretario general **Marco Emilio Hincapié**, exmagistrado del Consejo Nacional Electoral. Esto, en vez de aclarar, creó más confusión al proceso. El hecho causó muchas dudas y suspicacias entre la militancia de Colombia Humana.
 

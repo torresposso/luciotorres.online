@@ -5,10 +5,10 @@ pubDate: "2021-04-28 23:18:45"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-marcha-28a-se-desafio-al-covid-19-peor-que-la-reforma-tributaria/"./hero.jpg"
 ---
 
-\[caption id="attachment\_14725" align="aligncenter" width="675"\]![](./hero.jpg) **La Gran Marcha 28A**. Las principales ciudades se sumaron al Paro Nacional.\[/caption\]
+\[caption id="attachment\_14725" align="aligncenter" width="675"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-marcha-28a-se-desafio-al-covid-19-peor-que-la-reforma-tributaria/hero.jpg) **La Gran Marcha 28A**. Las principales ciudades se sumaron al Paro Nacional.\[/caption\]
 
 **La Marcha 28A fue un éxito total en todo el país contra la Reforma Tributaria de Duque.** Miles de personas salieron a las calles de las principales ciudades. Tuvo algunos brotes de violencia, pero eso no impidió que se desarrollara pacíficamente.
 
@@ -16,7 +16,7 @@ En el Caribe colombiano como en todas las regiones de la nación centenares de m
 
 ## La Marcha 28A
 
-\[caption id="attachment\_14727" align="aligncenter" width="2048"\]![](./paro-nacional-marcha.jpg) Marcha28A. En las principales ciudades salieron a marchar.\[/caption\]
+\[caption id="attachment\_14727" align="aligncenter" width="2048"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-marcha-28a-se-desafio-al-covid-19-peor-que-la-reforma-tributaria/paro-nacional-marcha.jpg) Marcha28A. En las principales ciudades salieron a marchar.\[/caption\]
 
 Sin duda, en esta época de Coronavirus, una acción social como la Marcha 28A, se constituye en un hito para enfrentar a un gobierno decrépito como el del presidente Iván Duque.
 

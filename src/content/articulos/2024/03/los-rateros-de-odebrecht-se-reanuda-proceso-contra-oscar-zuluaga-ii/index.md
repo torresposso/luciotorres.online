@@ -5,10 +5,10 @@ pubDate: "2024-03-30 17:50:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez","Corte Suprema de Justicia"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/los-rateros-de-odebrecht-se-reanuda-proceso-contra-oscar-zuluaga-ii/"./hero.jpg"
 ---
 
-![¿Nadie se salva con Odebrecht? Dos momentos de las campañas presidenciales de 2014 financiadas con dineros de la corrupción de Odebrecht. Caro o sello sería lo mismo. /Foto cortesía Semana](./Juan_manuel_Santos_Oscar_zuluaga.jpeg)
+![¿Nadie se salva con Odebrecht? Dos momentos de las campañas presidenciales de 2014 financiadas con dineros de la corrupción de Odebrecht. Caro o sello sería lo mismo. /Foto cortesía Semana](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/los-rateros-de-odebrecht-se-reanuda-proceso-contra-oscar-zuluaga-ii/Juan_manuel_Santos_Oscar_zuluaga.jpeg)
 *¿Los rateros de Odebrecht?Dos momentos de las campañas presidenciales de 2014 financiadas con dineros de la corrupción de Odebrecht. Caro o sello sería lo mismo. /Foto cortesía Semana.*
 
 ¿Quiénes son los rateros de Odebrecht? Luego de que la **Corte Suprema de Justicia** resolviera negativamente una **acción de tutela** presentada por el excandidato presidencial del **Centro Democrático, Óscar Iván Zuluaga**, será llamado a juicio el 11 de abril de 2024. Por tanto, retornará el viejo fantasma de Odebrecht. En el **Juzgado Segundo Especializado de Bogotá**, se reanudará la audiencia de acusación contra el exministro de Hacienda, y de su hijo David Zuluaga, gerente de su campaña presidencial de 2014.
@@ -17,7 +17,7 @@ Como a este hecho se le quiere echar tierra, le compete a la Fiscalía y a la Co
 
 ¿Te interesa? [N](/articulos/nadie-vio-el-rinoceronte-de-luis-carlos-sarmiento-en-odebrecht-y-en-la-muerte-de-los-pizanos/)[adie vio el rinoceronte de Luis Carlos Sarmiento en Odebrecht y en la muerte de los Pizano](/articulos/nadie-vio-el-rinoceronte-de-luis-carlos-sarmiento-en-odebrecht-y-en-la-muerte-de-los-pizanos/)
 
-![¿Los rateros de Odebrecht?](./hero.jpg)
+![¿Los rateros de Odebrecht?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/los-rateros-de-odebrecht-se-reanuda-proceso-contra-oscar-zuluaga-ii/hero.jpg)
 *¿Quiénes son los rateros de Odebrecht? Los cuello blanco que nada le pasa.*
 
 Sin embargo, frente al interrogante formulado para plantear la hipótesis del análisis, (¿Los rateros de Odebrecht?) implicaría recordar que en el denominado **Caso Odebrecht** de Colombia, reina la impunidad de los expresidentes **Álvaro Uribe Vélez y Juan Manuel Santos.** A diferencia de otros países, en Colombia es la razón por la cual el proceso no ha avanzado seriamente, porque se trata de encubrir, además de los dos presidentes, a una de las vacas sagradas del empresarismo colombiano, **Luis Carlos Sarmiento** Angulo y de su hijo, dueños de la fiduciaria Corficolombiana.
@@ -26,7 +26,7 @@ Sin embargo, frente al interrogante formulado para plantear la hipótesis del an
 
 ## ¿Los rateros de Odebrecht?
 
-![¿Los rateros de Odebrecht? Uribe en apuros](./alvaro_uribe_velez_0-e1597454280872.jpg)
+![¿Los rateros de Odebrecht? Uribe en apuros](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/los-rateros-de-odebrecht-se-reanuda-proceso-contra-oscar-zuluaga-ii/alvaro_uribe_velez_0-e1597454280872.jpg)
 *¿Los rateros de Odebrecht? El suplicio de Uribe.*
 
 Sin duda, casi todo el establecimiento político colombiano querrá que no prospere esta investigación. Hace 500 años **Nicolás de Maquiavelo** publicó su opúsculo _El príncipe_. Es un tratado de cómo hacían los gobernantes de su época para mantenerse en el poder. Cuando 300 años después, Napoleón Bonaparte lo leyó, dijo:
@@ -43,7 +43,7 @@ Ahora bien, el cómo (el medio) está íntimamente ligado a la finalidad. En com
 
 ## Encubrir, encubrir y encubrir
 
-![¿Los rateros de Odebrecht? Luis Carlos Sarmiento Angulo](./Luis-Carlos-Sarmiento_estudio-1024x574.jpg)
+![¿Los rateros de Odebrecht? Luis Carlos Sarmiento Angulo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/los-rateros-de-odebrecht-se-reanuda-proceso-contra-oscar-zuluaga-ii/Luis-Carlos-Sarmiento_estudio-1024x574.jpg)
 *¿Los rateros de Odebrecht? Incluso, el magnate financiero, de la infraestructura y de los fondos pensionales está en el ojo del huracán.*
 
 La estrategia judicial del fiscal de aquel momento (Néstor Humberto Martínez) con su _bolsillo de cristal_ fue **encubrir, encubrir y encubrir**. Y no podía hacerlo de otra manera, porque era un "empleado" del grupo económico de **Luis Carlos Sarmiento Angulo**. Desde 1996 creó un bufete cuyo cliente principal era el magnate colombiano. Todo este historial reposa en los archivos de la Comisión de Acusaciones de la cámara de representantes cuando el senador de aquel momento, **Jorge Enrique Robledo**, lo denunció por su indecorosa actuación como fiscal.

@@ -5,10 +5,10 @@ pubDate: "2020-07-16 04:14:31"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/eleccion-ilegal-del-contralor-distrital/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/eleccion-ilegal-del-contralor-distrital/hero.jpg)
 **
 
 **La subcultura de la corrupción se impuso con la elección ilegal del contralor Distrital de Cartagena Héctor Consuegra Salinas**, protegido del alcalde **William Dau Chamat**. Desde la alcaldía se pudo configurar un concierto para delinquir con los ocho concejales que lo eligieron. Asimismo, **los siete que votaron por Fredys Quintero, podrían incurrir en ilegalidad, ya que también estaba inhabilitado.**

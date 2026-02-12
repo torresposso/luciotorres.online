@@ -5,10 +5,10 @@ pubDate: "2023-10-02 01:19:33"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/los-10-hechos-inhabilitantes-de-alex-char-que-juzgara-el-cne-ii/"./hero.jpg"
 ---
 
-![Los 10 hechos inhabilitantes de Alex Char.](./hero.jpg)
+![Los 10 hechos inhabilitantes de Alex Char.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/los-10-hechos-inhabilitantes-de-alex-char-que-juzgara-el-cne-ii/hero.jpg)
 *Los 10 hechos inhabilitantes de Alex Char. Sin duda, existe una inhabilidad que salta a la vista. Veremos si el CNE.*
 
 Desde este lunes **2 de octubre de 2023, el Consejo Nacional Electoral**_—_CNE analizará los **10 hechos inhabilitantes** de **Alex Char Chaljub** que le impiden ser candidato a la alcaldía de Barranquilla. Este organismo deberá definir en los próximos días su inhabilidad. **En la solicitud de revocatoria que redactamos y presentamos como defensores de los derechos humanos y de los derechos colectivos de la sociedad,** contiene incontrovertibles evidencias de que al **inscribirse el pasado 28 de julio** ante la Registraduría Nacional, rompió el régimen de inhabilidades e incompatibilidades determinado por la **Ley 136 de 1994**, modificada por el artículo 37 de la **Ley 617 de 2000**.
@@ -19,7 +19,7 @@ Te puede interesar: [Serfinanza y Valorcon, la Corte cierra el cerco financiero 
 
 ## La solicitud de revocatoria
 
-![ste es captura de pantalla del envío de la solicitud de revocatoria de la candidatura de Alejandro Char enviado a las 3:14 pm al CNE](./solicitud-CNE_editado.jpg)
+![ste es captura de pantalla del envío de la solicitud de revocatoria de la candidatura de Alejandro Char enviado a las 3:14 pm al CNE](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/los-10-hechos-inhabilitantes-de-alex-char-que-juzgara-el-cne-ii/solicitud-CNE_editado.jpg)
 *Este es captura de pantalla del envío de la solicitud de revocatoria de la candidatura de Alejandro Char enviado a las 3:14 pm al CNE.*
 
 En este caso concreto, **la evidente inhabilidad de Alejandro Char Chaljub salta a la vista**. Está relacionada no solo con los **contratos financieros suscritos entre Serfinanza** y el Estado, en el orden nacional, departamental y distrital. También existen otros hechos que analizaremos en las próximas entregas. Hoy, solo se hace una reseña de **los 10 hechos inhabilitantes de Alex Char**.
@@ -49,7 +49,7 @@ Te puede interesar: [Expediente No 114: La fortuna de los Char proviene de su so
 
 7\. En la carta que **Fernán Álvarez Rangel** le envía al gerente de Transmetro SAS se evidencia que la cuenta enviada por esa entidad correspondía al banco Serfinanza. Es decir, que los dineros girados por Minhacienda al Fondo de Estabilización para resolver el déficit no llegaban a su destino, como lo determinó la Resolución No. 2446 del 4 de septiembre de 22023 del Ministerio de Hacienda y Crédito Público. Esta maniobra, al parecer, se hace por intermedio del banco Serfinanza. (Ver aquí: carta de **Fernán Álvarez Rangel** al gerente de Transmetro). Nótese lo que en ella se dice sobre las dudas acerca de las cuentas aperturadas en Serfinanza:
 
-![](./Carta-de-Recaudos-Sit_fragmento.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/los-10-hechos-inhabilitantes-de-alex-char-que-juzgara-el-cne-ii/Carta-de-Recaudos-Sit_fragmento.jpg)
 *Carta firmada por Fernán Álvarez Rangel al gerente de Transmetro.*
 
 ## Los 10 hechos inhabilitantes de Alex Char: el octavo

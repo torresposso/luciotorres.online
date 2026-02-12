@@ -5,10 +5,10 @@ pubDate: "2024-07-16 01:34:56"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/jesurun-vestido-de-preso-y-sus-otros-pecados/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/jesurun-vestido-de-preso-y-sus-otros-pecados/hero.jpg)
 
 El presidente de la Federación Colombiana de Fútbol (FCF), **Ramón Jesurún Franco**, 71 años, compareció vestido de preso, hoy lunes **15 de julio**, ante una juez de Miami que lo dejó libre después de pagar una fianza 13 horas luego de su detención. Se le acusa de coagresión física junto a su hijo, **Ramón Junior**, contra un guarda de seguridad del **Hard Rock Stadium** de nombre **Jakari Shaw**.
 

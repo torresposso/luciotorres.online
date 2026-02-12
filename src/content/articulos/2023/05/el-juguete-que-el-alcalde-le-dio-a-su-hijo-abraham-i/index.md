@@ -5,10 +5,10 @@ pubDate: "2023-05-02 13:58:34"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-juguete-que-el-alcalde-le-dio-a-su-hijo-abraham-i/"./hero.jpg"
 ---
 
-![El juguete que el alcalde le dio a su hijo Abraham: la alcaldía de la localidad No 1 Histórica y del Caribe Norte.](./hero.jpg)
+![El juguete que el alcalde le dio a su hijo Abraham: la alcaldía de la localidad No 1 Histórica y del Caribe Norte.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-juguete-que-el-alcalde-le-dio-a-su-hijo-abraham-i/hero.jpg)
 *Hace 7 años Abraham Dau hacía cualquier locura para atraer clientes. Desde que llegó papá Dau, las cosas fueron diferentes. El juguete que el alcalde le dio a su hijo Abraham: la alcaldía de la localidad No 1 Histórica y del Caribe Norte.*
 
 El juguete que el alcalde de Cartagena le dio a su hijo Abraham es más rentable que su negocio el gastrobar **El Arsenal The Rum Box**. Desde que los dos turistas holandeses se **comieron la última cena** de sus vidas en ese restaurante, domingo 21 de agosto 2022, los clientes ya no dejan las ganancias de antes. Pero, el propietario del negocio no tiene problemas económicos. Como Tu papá te quiere, al parecer, le regaló descaradamente la Localidad Histórica y del Caribe Norte. La promesa paternal es que iba a disfrutar estos 4 años con las bendiciones de la contratación de más de $13 mil millones anuales del Fondo Local de Desarrollo de esta localidad. La promesa la cumplió. Quizás es lo único que el «antimalandrín» ha cumplido en estos tres años de gobierno.
@@ -19,7 +19,7 @@ En efecto, existen **muchísimas evidencias**, que estaremos dando cuenta en pr�
 
 ## Hijo Abraham, _tu papá te quiere_
 
-![Tal para cual, hijo Abraham, he aquí a tu papá que te quiere con el dinero de los más pendejos.](./Abraham-Dau_papa.jpg)
+![Tal para cual, hijo Abraham, he aquí a tu papá que te quiere con el dinero de los más pendejos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-juguete-que-el-alcalde-le-dio-a-su-hijo-abraham-i/Abraham-Dau_papa.jpg)
 *Tal para cual, hijo Abraham, he aquí a tu papá que te quiere con el dinero de los más pendejos.*
 
 **William Dau Chamat** nunca había tenido que ver con su hijo Abraham. Pero ahora lo quiere mucho que hasta recibe en su casa las bendiciones de una alcaldía que ha fracasado en todos los indicadores sociales de gestión administrativa. Recibir más de $6 mil millones sin saber leer ni escribir, por ser su hijo Abraham, es porque _**tu papá te quiere**_.
@@ -40,7 +40,7 @@ En esta serie de VoxPopuli Digital analizaremos tres variantes de las tres alcal
 
 ## **Localidad Histórica y del Caribe Norte**
 
-![](./Luis-negrete_alcalde-local.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-juguete-que-el-alcalde-le-dio-a-su-hijo-abraham-i/Luis-negrete_alcalde-local.jpg)
 *El juguete que el alcalde le dio a su hijo Abraham. Aquí el alcalde mayor haciendo el parampampam de selección del alcalde menor. (Prensa alcaldía de Cartagena).*
 
 El Distrito de Cartagena tiene tres alcaldías locales, según la división política establecida en el Plan de Ordenamiento Territorial (POT, 2001). **Localidad 1, Histórica y del Caribe Norte. Localidad 2, De la Virgen y Turística. Localidad 3, Industrial y de la Bahía**. Cada una de ellas es regida por un alcalde menor y cuenta con un Fondo Local de Desarrollo. Anualmente los 9 miembros de la Junta Administradora definen un plan de inversión priorizando las obras más relevantes.
@@ -49,7 +49,7 @@ De esas tres alcaldías locales, la **Histórica y del Caribe Norte**, es la que
 
 ## Aponte, el Rey de la contratación
 
-![](./pedro-aponte-luis-cassiani_mayorbueno.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-juguete-que-el-alcalde-le-dio-a-su-hijo-abraham-i/pedro-aponte-luis-cassiani_mayorbueno.jpg)
 *Abajo, Pedro Aponte. Arriba, el concejal Luis Cassiani y el capitán Bueno.*
 
 En la Localidad de la Virgen y Turística, **el rey de la contratación**, presuntamente, es **Pedro Aponte** a través de terceras personas. Algunas fuentes, cercanas a la localidad, señalan que Aponte es el financista de varios ediles y del alcalde local Andy Reales, en estado de suspensión. Por esta razón fue reemplazado por **Édgar Arrieta**.
@@ -60,7 +60,7 @@ En tanto que en la localidad 3, la situación se ha complicado luego de la renun
 
 ## Su hijo Abraham, el financista
 
-![](./lidys-ramirez-y-gustavo-petro_5496424_20211118101427.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-juguete-que-el-alcalde-le-dio-a-su-hijo-abraham-i/lidys-ramirez-y-gustavo-petro_5496424_20211118101427.jpg)
 *Lidy Ramírez, aquí en una de las campañas presidenciales con Gustavo Petro. Ella fue la mano derecha del hijo Abraham en la contra-revocatoria.*
 
 Tenemos que el dueño de la localidad Histórica es Abraham Dau, el hijo emprendedor del alcalde **William Dau Chamat**. Allí nada se mueve si no se cuenta con su anuencia. Algunos de sus delegantes reciben las comisiones por anticipado, una vez el contratista verdadero tiene en sus manos el CDP y el acta de inicio del contrato. La fuente que pidió reserva, señala que en esto son estrictos.

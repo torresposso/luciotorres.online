@@ -5,10 +5,10 @@ pubDate: "2023-09-04 03:37:47"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/el-abrazo-de-dau-enterro-a-mariamulata-y-beneficio-a-turbay-y-garcia/"./hero.jpg"
 ---
 
-![La razón por la que Turbay y García lideran encuestas en Cartagena. ¿La ineptitud de Dau incide sobre las preferencias a la alcaldía?](./hero.jpg)
+![La razón por la que Turbay y García lideran encuestas en Cartagena. ¿La ineptitud de Dau incide sobre las preferencias a la alcaldía?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/el-abrazo-de-dau-enterro-a-mariamulata-y-beneficio-a-turbay-y-garcia/hero.jpg)
 *La razón por la que Turbay y García lideran encuestas en Cartagena. ¡*
 
 ¿Por qué el síndrome del **«**abrazo de Dau» benefició a Turbay y García y enterró a **«Mariamulata»**? La última encuesta de **Mediciones Estratégicas**, del reconocido economista, asesor político y exsecretario de Hacienda Distrital, **Oscar Brieva**, confirma una tendencia del comportamiento de los potenciales votantes en las principales ciudades de la región Caribe. Respecto a la alcaldía de Cartagena, las preferencias son lideradas en su orden por el exgobernador **Dumek Turbay Paz y (30,10%**) y el exparlamentario **William García Tirado (20,23%)**. Sigue en su orden descendente la **«Mariamulata»** (5,06) con una diferencia de menos 25 puntos respecto al primero y 15 con el segundo.  
@@ -21,7 +21,7 @@ Te puede interesar: [William García, el emprendedor](/articulos/william-garcia-
 
 ## Esta es la intención de voto
 
-![En esta medición se aplicaron 1306 encuestas en Cartagena. ¿La ineptitud de Dau incide sobre estos resultados?](./Mediciones-estrategica_agosto.jpg)
+![En esta medición se aplicaron 1306 encuestas en Cartagena. ¿La ineptitud de Dau incide sobre estos resultados?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/el-abrazo-de-dau-enterro-a-mariamulata-y-beneficio-a-turbay-y-garcia/Mediciones-estrategica_agosto.jpg)
 *En esta medición se aplicaron 1306 encuestas en Cartagena. ¿La ineptitud de Dau incide sobre estos resultados?*
 
 Empecemos por analizar los estudios del mercado electoral. La encuesta de **Mediciones Estratégicas** define tendencias que se pueden intuir de los resultados que arrojó la del **Centro Nacional de Consultoría-CNC**. Por ejemplo, **Jacqueline Perea** aparecía con la cuarta mejor intención de votos, empatada técnicamente con **Judith del Carmen**. En aquel momento se dijo que la tendencia de Jacqueline es subir y la de **«Mariamulata»** es bajar. Esto tiene su explicación, ya que _la mujer con pantalones_ viene cuestionando la administración casi desde sus inicios.
@@ -32,7 +32,7 @@ Ahora bien. Del pelotón, técnicamente están empatados cuatro candidatos con m
 
 ## ¿Si desmontan a Bejarano también a **«Mariamulata»**?
 
-![¿La tercería? se va al fondo. ](./Jacqueline_Judith_Bejarano.jpg)
+![¿La tercería? se va al fondo. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/el-abrazo-de-dau-enterro-a-mariamulata-y-beneficio-a-turbay-y-garcia/Jacqueline_Judith_Bejarano.jpg)
 *¿La tercería? se va al fondo.*
 
 En política hay que tomar decisiones libres de emociones, de lo contrario, nos lleva al fracaso. Colombia Humana debe analizar muy bien a quién apoyar. Es un hecho que la candidatura de Julio Bejarano sea desmontada, al decir de Carmen Anachury. Pero, lo más importante no es si lo desmontan o no. Lo fundamental es hacía dónde van Colombia Humana y el Pacto Histórico.
@@ -45,14 +45,14 @@ No obstante, las mediciones del mercado electoral son factores reales que uno de
 
 ## El **«**abrazo de Dau» acabó con una tercería
 
-![El «abrazo de Dau» que sepultó una tercería para la alcaldía de Cartagena.](./El-abrazo-que-sepulto-una-terceria.jpg)
+![El «abrazo de Dau» que sepultó una tercería para la alcaldía de Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/el-abrazo-de-dau-enterro-a-mariamulata-y-beneficio-a-turbay-y-garcia/El-abrazo-que-sepulto-una-terceria.jpg)
 *El «abrazo de Dau» que sepultó una tercería para la alcaldía de Cartagena.*
 
 Lo primero a resaltar en este análisis: **se esfuma cada día la posibilidad de una tercería**. El abrazo de Dau fue un desastre para Judith Pinedo y la tercería. En las elecciones anteriores, donde todo estaba dado para que la tercería fuera **Fernando Araújo** frente a **William García y Yolanda Wong**, surgió la sorpresa de El Zambiloco. En aquel momento, las encuestas no le favorecieron a Araújo y, al final, recibió una pírrica votación. Hoy **—**no sé mañana**—** no hay ninguna posibilidad de alguna sorpresa. ¡Excepto que haya un fraude! **Las elecciones a la alcaldía tienen un solo ganador que está entre William García y Dumek Turbay**. **¿Quién será ese ganador?** (En la próxima entrega analizaremos las fortalezas y debilidades de estas dos candidaturas).
 
 En estas elecciones la **«Mariamulata»** no levanta vuelo. Sus alas están empapadas del virus de El Zambiloco. El golpe de ala de El Buitre fue tan fuerte en aquel abrazo fatídico que **VoxPopuli Digital** dio a conocer. Abrazo mortal en el día de su liberación que se convirtió, a la postre, en la tumba de su candidatura. ¡Nació muerta! William Dau tiene un 80% de imagen negativa y el 79% no votaría por el candidato que él apoye, dice la encuesta. Ese día, William García y Dumek Turbay respiraron tranquilos, porque sabían del lastre que arrastra el alcalde de Cartagena que está apoyando a Judith Pinedo Flórez. Veamos estos números:
 
-![](./image-1.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/el-abrazo-de-dau-enterro-a-mariamulata-y-beneficio-a-turbay-y-garcia/image-1.png)
 *Tabla elaborada por Mediciones Estratégicas.*
 
 Esto es clave. Los tres candidatos más conocidos en su orden, según la encuesta, son: **William García** (**83,33%**), **Dumek Turbay** (**77,94**%), y **Judith Pinedo** (**49,75%**). Hasta ahora no hay ninguna posibilidad de que Judith remonte a Dumek y García. **Ni siquiera que Julio Bejarano y José Osorio se les unan.** El impacto en la opinión pública sería casi nulo, porque el candidato del Pacto Histórico no goza de simpatía al interior de Colombia Humana, tal como se demostró en los audios que se filtraron de una reunión donde participó la vicepresidenta, Carmen Anachury.

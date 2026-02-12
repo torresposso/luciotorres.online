@@ -5,10 +5,10 @@ pubDate: "2023-01-25 12:36:23"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/cunde-el-panico-en-el-clan-daes-char-i/"./hero.jpg"
 ---
 
-![¿Por qué le negaron la visa a Estados Unidos a Alejandro Char? Cunde el pánico en el Clan Daes—Char](./Visa-Alejandro-Char.jpeg)
+![¿Por qué le negaron la visa a Estados Unidos a Alejandro Char? Cunde el pánico en el Clan Daes—Char](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/cunde-el-panico-en-el-clan-daes-char-i/Visa-Alejandro-Char.jpeg)
 *¿Por qué le negaron la visa a Estados Unidos a Alejandro Char? Cunde el pánico en el Clan Daes—Char*
 
 Cunde el pánico en el Clan Daes—Char. Son tres fantasmas que le acechan en este 2023 como una **_espada de Damocles_** que pende sobre la cabeza de Fuad Char, sus cachorros y sus aliados más íntimos, los hermanos José Manuel «Yuyo» y «Tío» Christian Daes. El primer fantasma causó mucho ruido: la negación del visado de turista a Estados Unidos de **Alejandro Char Chaljub**. El segundo, la audiencia pública de **«Jorge 40»** ante la JEP el 26 y 27 de enero está por reventar. El tercero, la repatriación de la condenada **Aida Merlano,** «**_la exbaby sugar_** del clan», quien declarará por el caso de **Casa Blanca** y otros hechos de corrupción electoral. \[**Lea con atención**: [Caída de «Casa Blanca» ¿fin del califato Daes—Char? (I)](/articulos/caida-de-casa-blanca-fin-del-califato-daes-char-i/)\].

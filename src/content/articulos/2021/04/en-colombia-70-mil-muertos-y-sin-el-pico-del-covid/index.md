@@ -5,7 +5,7 @@ pubDate: "2021-04-22 23:03:09"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-colombia-70-mil-muertos-y-sin-el-pico-del-covid/"./hero.jpg"
 ---
 
 \[caption id="attachment\_14625" align="aligncenter" width="583"\](imagen no disponible) Ministerio de Salud: 70 mil muertos.\[/caption\]
@@ -22,7 +22,7 @@ Informó Minsalud que registraron **19.306 casos nuevos,** Procesaron **82.084 
 
 ## Bolívar
 
-\[caption id="attachment\_14644" align="aligncenter" width="720"\]![](./hero.jpg) El gobernador Vicente Blel acompaña al ministro de Salud supervisando las dotaciones hospitalarias. Son 70 mil muertos del Covid-19.\[/caption\]
+\[caption id="attachment\_14644" align="aligncenter" width="720"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-colombia-70-mil-muertos-y-sin-el-pico-del-covid/hero.jpg) El gobernador Vicente Blel acompaña al ministro de Salud supervisando las dotaciones hospitalarias. Son 70 mil muertos del Covid-19.\[/caption\]
 
 A pesar de que Cartagena tiene una tendencia al alza de los indicadores, parece que en el resto del departamento de Bolívar la situación tiende a ser controlada. Con excepción de Magangué y otros municipios dónde los indicadores son altos.
 
@@ -38,7 +38,7 @@ Es la ciudad con más casos registrados esta semana. En el distrito capital se r
 
 ## Cartagena
 
-\[caption id="attachment\_14627" align="aligncenter" width="574"\]![](./toque-de-queda-cartagena.jpg) El toque de queda.\[/caption\]
+\[caption id="attachment\_14627" align="aligncenter" width="574"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-colombia-70-mil-muertos-y-sin-el-pico-del-covid/toque-de-queda-cartagena.jpg) El toque de queda.\[/caption\]
 
 La situación de Cartagena tiende a empeorar. En los últimos días se ha incrementado notoriamente el número de casos infectados, y de muertes. También se ha aumentado el número de camas UCI ocupadas.
 

@@ -5,7 +5,7 @@ pubDate: "2019-09-29 13:57:18"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/09/a-la-carcel-wong-pardo-y-martinez-por-corrupcion/"./hero.jpg"
 ---
 
 (imagen no disponible)
@@ -17,7 +17,7 @@ En Cartagena no se ha terminado el escándalo de los audios de **Vicente Blel Sa
 
 ## **Medida de aseguramiento a Wong**
 
-\[caption id="attachment\_10151" align="alignnone" width="225"\]![](./hero.jpg) Esta es la citación del SIGCMA para la audiencia del 3 de octubre.\[/caption\]
+\[caption id="attachment\_10151" align="alignnone" width="225"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/09/a-la-carcel-wong-pardo-y-martinez-por-corrupcion/hero.jpg) Esta es la citación del SIGCMA para la audiencia del 3 de octubre.\[/caption\]
 
 ¿La razón de esta medida de aseguramiento contra Wong? La fiscalía solicitará al juez de garantías medida de aseguramiento con reclusión intramural en la audiencia pública que se realizará el 3 de octubre en el Centro Judicial de la **Plaza Benkos Biojó.**
 

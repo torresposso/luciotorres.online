@@ -5,10 +5,10 @@ pubDate: "2022-04-02 00:36:02"
 author: "Lucio"
 categories: ["Opinión","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/presidente-duque-intervencion-urgente-a-cartagena/"./hero.jpg"
 ---
 
-![Bajo el principio de complementariedad el presidente Duque puede ordenar la intervención urgente a Cartagena](./hero.jpg)
+![Bajo el principio de complementariedad el presidente Duque puede ordenar la intervención urgente a Cartagena](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/presidente-duque-intervencion-urgente-a-cartagena/hero.jpg)
 *Bajo el principio de complementariedad el presidente Duque puede ordenar la intervención urgente a Cartagena*
 
 ¡Atención! **Estamos bajo el imperio del hampa.** La ciudad se ahoga en sangre, hambre y desgobierno. Por estas tres causas las fuerzas estratégicas y ciudadanas deben solicitar la intervención urgente a Cartagena. Debe ser una intervención **bajo el principio de complementariedad.** El presidente **Iván Duque puede y debe intervenir en la ciudad para garantizar los derechos de la ciudadanía.** La situación lo amerita, ya que el alcalde **William Dau Chamat** demostró que carece de capacidad para abordar desde temas sencillos hasta más complejos, como la seguridad ciudadana.
@@ -17,7 +17,7 @@ https://youtu.be/eEVWyJELr0o
 
 No es de poca monta que el primer trimestre del 2022 lo hayamos cerrado con más de 90 homicidios y la mayoría en la modalidad de sicariato.  El estado de zozobra que vive la ciudadanía es diciente. Según la última encuesta realizada por el [DANE](https://twitter.com/DANE_Colombia) (Pulso Social), de 23 ciudades, Cartagena es la ciudad con peor percepción de seguridad: 93% de la gente se siente insegura caminar de noche y de día por sus calles.
 
-![Esta es la Comisión Regional de Competitividad. ¿Qué hacen por Cartagena? Necesitamos una intervención urgente a Cartagena.](./comision-regional-de-competitividad.jpg)
+![Esta es la Comisión Regional de Competitividad. ¿Qué hacen por Cartagena? Necesitamos una intervención urgente a Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/presidente-duque-intervencion-urgente-a-cartagena/comision-regional-de-competitividad.jpg)
 *Esta es la Comisión Regional de Competitividad. ¿Qué hacen por la ciudad? Necesitamos una intervención urgente a Cartagena.*
 
 No obstante, no escuchamos y no vemos acciones de los gremios económicos, la Cámara de Comercio de Cartagena. Mucho menos de las centrales obreras (excepto la CGT), las organizaciones de derechos humanos excepto algunos veedores como Erick Urueta, Alcides Arrieta, entre otros . Nadie quiere hablar ni mucho menos actuar para exigirle a este mandatario que cumpla con la ley, la constitución y su mandato de gobierno. 
@@ -32,7 +32,7 @@ Está claro que el alcalde actual no es el causante de todo este panorama social
 
 ## LÁZARO ESTÁ MUERTO
 
-![Operación Lázaro. Necesitamos una intervención a Cartagena.](./operacion-lazaro.jpg)
+![Operación Lázaro. Necesitamos una intervención a Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/presidente-duque-intervencion-urgente-a-cartagena/operacion-lazaro.jpg)
 *Operación Lázaro. Necesitamos una intervención a Cartagena.*
 
 ¿Acción policiva? La solución no solo es operatividad policiva. No es un problema de falta de gasolina para el parque automotor de la Policía Nacional. ¡No! El problema es más profundo y complejo. Es una crisis humanitaria la que estamos viviendo y que se ha exacerbado con este gobierno inútil.

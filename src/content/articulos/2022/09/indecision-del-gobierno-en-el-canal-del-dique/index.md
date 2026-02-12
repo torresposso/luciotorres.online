@@ -5,7 +5,7 @@ pubDate: "2022-09-16 14:05:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/indecision-del-gobierno-en-el-canal-del-dique/"./hero.jpg"
 ---
 
 https://youtu.be/zmIajhHg5Rs
@@ -14,7 +14,7 @@ La gente fue atraída por el magnetismo del presidente Petro, pero en el escenar
 
 ¿A qué se debe la indecisión del gobierno de Petro en torno al Canal del Dique? Mucho tilín tilín del gobierno nacional con el caso del macroproyecto Canal del Dique que busca Restaurar los Ecosistemas Degradados Canal del Dique. Y eso no está bien. Las comunidades organizadas y la Alianza para la Defensa y Desarrollo Canal del Dique realizaron acciones directas para que el Macroproyecto dialogara. Se logró el aplazamiento de la licitación para el 12 de agosto con el fin de que el nuevo gobierno definiera su suerte. **Pero un mes después sigue con la misma indecisión**.
 
-![Mucho tilín tilín del gobierno nacional con el caso del macroproyecto Canal del Dique que busca Restaurar los Ecosistemas Degradados Canal del Dique.](./canal-del-dique-protesta.jpeg)
+![Mucho tilín tilín del gobierno nacional con el caso del macroproyecto Canal del Dique que busca Restaurar los Ecosistemas Degradados Canal del Dique.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/indecision-del-gobierno-en-el-canal-del-dique/canal-del-dique-protesta.jpeg)
 *Tilín tilín*
 
 La Comisión Accidental Bicameral del congreso escuchó a la comunidad el pasado 28 de agosto después de una accidentada instalación donde las comunidades exigieron participación. Como el ejecutivo viene dando mucha vuelta con relación a esta iniciativa, se espera una respuesta más contundente de la población que afectará la megaobra.

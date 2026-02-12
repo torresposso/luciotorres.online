@@ -5,10 +5,10 @@ pubDate: "2023-01-03 17:05:27"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ascenso-y-caida-de-paty-paty-delatara-a-politicos-y-empresarios-i/"./hero.jpg"
 ---
 
-![Ascenso y caída de «Paty Paty» ¿Delatará a políticos y empresarios?. Aquí en una reconocida discoteca. Foto suministrada.](./hero.jpg)
+![Ascenso y caída de «Paty Paty» ¿Delatará a políticos y empresarios?. Aquí en una reconocida discoteca. Foto suministrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ascenso-y-caida-de-paty-paty-delatara-a-politicos-y-empresarios-i/hero.jpg)
 *Ascenso y caída de «Paty Paty» ¿Delatará a políticos y empresarios?. Aquí en una reconocida discoteca. Foto suministrada.*
 
 El ascenso y caída de «Paty Paty» podría poner al descubierto un gran escándalo que involucraría a empresarios, políticos y líderes sociales de Cartagena y de la región. Una fuente de entero crédito le había informado a **VoxPopuli Digital** el 27 de diciembre de 2022 que el día anterior se había entregado **Armando Elías Buelvas Sepúlveda**. El supuesto lugarteniente de alias **«Falcón»** —el lavador más grande del Caribe hasta su extradición— tiene una buena relación con políticos y empresarios de Cartagena vinculados al narcotráfico. Escudriñar en esa economía subterránea, nos daría las clave para entender una solución estructural al problema del narcotráfico, fuente de muchas violencias. **Esto lo entiende el presidente Gustavo Petro.**
@@ -17,7 +17,7 @@ Si bien, la Policía dijo que fue capturado, otra fuente señala que el supuesto
 
 ## «Paty Paty», Alex Pereira y «Gomelo»
 
-![Ascenso y caída de «Paty Paty» ¿Delatará a políticos y empresarios? Este es alias «Alex Pereira», junto con «Paty Paty», lugartenientes del sicariato y las finanzas que el Clan del Golfo tenía en Cartagena. Está detenido en Cómbita.](./Alex-Pereira1.jpg)
+![Ascenso y caída de «Paty Paty» ¿Delatará a políticos y empresarios? Este es alias «Alex Pereira», junto con «Paty Paty», lugartenientes del sicariato y las finanzas que el Clan del Golfo tenía en Cartagena. Está detenido en Cómbita.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ascenso-y-caida-de-paty-paty-delatara-a-politicos-y-empresarios-i/Alex-Pereira1.jpg)
 *Ascenso y caída de «Paty Paty» ¿Delatará a políticos y empresarios? Este es alias «Alex Pereira», junto con «Paty Paty», lugartenientes del sicariato y las finanzas que el Clan del Golfo tenía en Cartagena. Está detenido en Cómbita.*
 
 Desde que en julio del 2022 peleó con Alex Pereira —otro lugarteniente detenido en Cómbita— los días de vida de «Paty Paty» estaban contados. Alias "Gomelo" y "Alex Pereira" se unieron en contra suya. Sus anteriores jefes lo habían sentenciado a la pena capital, ya que se encontraba «caliente» y era responsable de la desaparición de un cargamento de cocaína. Ante esta situación, buscó protección con la estructura de **Los Robledo**.
@@ -46,7 +46,7 @@ No obstante, para que el presidente materialice esa política, es necesario que 
 
 ## «Paty Paty» y **«Andrea»**
 
-![Ascenso y caída de «Paty Paty». Gran parte de la verdad de la economía del narcotráfico fue extraditada a Estados Unidos con «Falcón» y ««Otoniel».](./andrea.jpg)
+![Ascenso y caída de «Paty Paty». Gran parte de la verdad de la economía del narcotráfico fue extraditada a Estados Unidos con «Falcón» y ««Otoniel».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ascenso-y-caida-de-paty-paty-delatara-a-politicos-y-empresarios-i/andrea.jpg)
 *Ascenso y caída de «Paty Paty». Gran parte de la verdad de la economía del narcotráfico fue extraditada a Estados Unidos con «Falcón» y ««Otoniel».*
 
 En el bajo mundo se había advertido que sobrevendría una oleada de sicariatos en Cartagena con la captura el 7 de mayo de 2021 de **Juan José Valencia Zuluaga,** un antioqueño conocido con los alias **«Falcón»**, **«Andrea» o «Babalao».** El más duro de la subestructura **Héroes del Caribe del Clan del Golfo**. El que manejaba ingentes cantidades de dinero procedentes del narcotráfico. Según informaciones de inteligencia, era el principal lavador de activos de la droga que salía por el puerto de Cartagena y zonas aledañas en lanchas rápidas tipo _go fast_. Además, se le sindica de ser el principal patrocinador de las bandas criminales en La Heroica y tenía relación con empresarios vinculados al lavado del narcotráfico. Se dice también que tenía en su nómina a altos mandos de la Policía Nacional.

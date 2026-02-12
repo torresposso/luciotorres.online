@@ -5,10 +5,10 @@ pubDate: "2022-01-15 02:42:25"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/en-cartagena-gloria-para-una-policia-de-capa-caida/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/en-cartagena-gloria-para-una-policia-de-capa-caida/hero.jpg)
 *Hoy no fue un día feliz para Gloria Estrada Benavides, presidenta del concejo de Cartagena.*
 
 Cuando la Policía Metropolitana de Cartagena —MECAR— estaba de capa caída para detener el crimen organizado, capturó a **Gloria Estrada Benavides** , presidenta del concejo del Distrito. En sus 39 años de vida, ella ha pasado de la pobreza a la gloria. Y ahora, de la gloria al infierno. También cayó su esposo, el comerciante y bacteriólogo **Martín Barreto, y su director artístico Avelino Villamizar.** En el vehículo hallaron camuflado un kilo de cocaína de alta pureza, tipo exportación. La sustancia psicotrópica estaba herméticamente empacada. ¿Sabían ellos que llevaban ese cargamento?
@@ -23,7 +23,7 @@ De igual manera, el cuadrante de Manga, un barrio tradicional de Cartagena, retu
 
 ## La caída de Gloria
 
-![](./gloria-estrada.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/en-cartagena-gloria-para-una-policia-de-capa-caida/gloria-estrada.jpg)
 *Gloria Estrada es una mujer ambiciosa y arrogante, dicen tirios y troyanos.*
 
 **Gloria Estrada Benavides** es una mujer ambiciosa, según manifiesta sus allegados y rivales políticos consultados. Es poco humilde. Desde que se posesionó como presidenta del concejo en 2022, se pavoneaba oronda por los pasillos del concejo. Era una pava real. Este era su año. Su gloria, su consagración. Era la oportunidad que esperaba para brillar con luz propia. La meta, quizás, era la alcaldía de Cartagena. 
@@ -36,7 +36,7 @@ Cuando se vino de Magangué y se residenció en San José de los Campanos, su ma
 
 ## Gloria y su régimen de terror
 
-![De la negligencia a la Gloria](./captura-de-Gloria-2.jpg)
+![De la negligencia a la Gloria](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/en-cartagena-gloria-para-una-policia-de-capa-caida/captura-de-Gloria-2.jpg)
 *Momentos en que Gloria Estrada salía de la camioneta forrada de propaganda política del partido liberal.*
 
 Desde el 3 de enero, fecha en la cual Gloria Estrada comenzó a despachar, inició un régimen de terror laboral con los trabajadores. Nadie debe omitir su firma en el libro de asistencia, so pena de ser objeto de una anotación en la hoja de vida. De esta manera, podía salir de ellos con facilidad y ciñéndose a la norma.

@@ -5,10 +5,10 @@ pubDate: "2023-06-22 02:39:39"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/por-que-mataron-a-yorman-si-era-tan-sociable-ii/"./hero.jpg"
 ---
 
-![Mataron a Yorman. Aquí cuando su cadáver llegó a Punta Arena.](./hero.jpg)
+![Mataron a Yorman. Aquí cuando su cadáver llegó a Punta Arena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/por-que-mataron-a-yorman-si-era-tan-sociable-ii/hero.jpg)
 *Mataron a Yorman. Aquí cuando su cadáver llegó a Punta Arena/Captura de pantalla de video.*
 
 A las 3:10 de la mañana del 19 de junio, cuando la parte nocturna de Bocagrande se aprestaba a dormir, nadie escuchó los balazos que mataron a _Yorman_. El asesino, abriéndose paso entre las mujeres que acompañaban a la víctima a la salida de la **discoteca Jet―Set**, tenía silenciador en su pistola, la cual usó a _quemaropa_. **Jorman Meléndez Coneo** (29 años) cayó al pavimento vencido por la muerte. Mientras su asesino, sin apuros, tomaba una moto con dirección al centro histórico. En este barrio turístico, hacía 12 años que no había ocurrido un sicariato de alto impacto asociado a la guerra del narcotráfico.
@@ -49,7 +49,7 @@ También: [Tres perlas del Caribe en poder de la mafia: Santa Marta, Barranquill
 
 ## Se recrudece la guerra
 
-![El día que capturaron a Paty Paty. Hoy está en La Picota. Mataron a Yorman](./Armando-Elias-Buelvas-alias-Paty-Paty.jpeg)
+![El día que capturaron a Paty Paty. Hoy está en La Picota. Mataron a Yorman](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/por-que-mataron-a-yorman-si-era-tan-sociable-ii/Armando-Elias-Buelvas-alias-Paty-Paty.jpeg)
 *El día que capturaron a "Paty Paty". Hoy está en La Picota.*
 
 A principio de 2022 se reactivó una nueva guerra por la pérdida de algún cargamento del **Clan del Golfo**. En esta ocasión, el Clan mandó refuerzos para detener a lo que inicialmente se conoció como _Los Salsas Mexicanos_ que amenazó a sus jefes y sicarios que operaban en Cartagena. La guerra se recrudeció. Entraron _Los Robledo_ de Medellín para reforzar a los Salsas y mandaron sicarios para cometer sus crímenes. Por su parte, el Clan hacía lo propio. A raíz del estallido de esa guerra, en marzo del 2022 se advirtió que Cartagena estaba en vía de convertirse en un nuevo Acapulco, ya que se encontraba entre las 50 ciudades más violentas del mundo.
@@ -64,7 +64,7 @@ Te puede interesar la primera entrega: [Cartagena sitiada por el crimen y la ine
 
 ## Por orden de Gomelo, el Purry ejecuta masacre en Barú
 
-![](./gomelo.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/por-que-mataron-a-yorman-si-era-tan-sociable-ii/gomelo.jpeg)
 *Cuando capturaron a alias Gomelo vivía sabroso en una mansión de Tolú.*
 
 Esta parte de la historia es clave para entender por dónde pudo venir la muerte de Yorman. **Carlos Ayala Barrera,** alias _Gomelo_, como jefe de la estructura financiera del Clan del Golfo en Cartagena, era quien ordenaba los asesinatos junto con Niñoco. El apodo de Gomelo se lo ganó, precisamente, porque le gusta vivir sabroso: mansiones, carros lujosos, yates, ropa de marca, mujeres bonitas, fiestas suntuosas y exclusivas. En fin, la típica conducta del pobre que deviene en nuevo rico.
@@ -81,7 +81,7 @@ También: [Cartel de Jalisco en Guerra por el Puerto de Cartagena dispara el sic
 
 ## Alias _Machete_ y la muerte de Yorman
 
-![](./Alias-Machete.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/por-que-mataron-a-yorman-si-era-tan-sociable-ii/Alias-Machete.jpg)
 *Según personas cercanas a la víctima, quien pudo dar la orden de muerte contra Yorman fue Julián Alberto Jiménez Monsalve, alias Machete, detenido en La Tramacúa de Valledupar.*
 
 De acuerdo con fuentes del bajo mundo y de la inteligencia que piden reserva, la orden del asesinato pudo venir desde la prisión La Tramacúa, de Valledupar. ¿Por qué? Según esas fuentes, **Julián Alberto Jiménez Monsalve**, alias Machete, era uno de los capos que manejaba el negocio de la droga desde Punta Cana, República Dominicana. En ese lugar fue capturado sindicado de ser uno de los jefes del grupo _Los pesebreros_, conocida en la Costa Caribe como Los Robledo. A Jiménez Monsalve se le sindica de 40 homicidios, narcotráfico, entre otros delitosgraves.

@@ -5,7 +5,7 @@ pubDate: "2022-06-26 20:53:32"
 author: "Lucio"
 categories: ["Entrevista","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/el-caribe-frente-al-acuerdo-nacional/"./hero.jpg"
 ---
 
 Una de las regiones que tiene grandes expectativas sobre el **Acuerdo Nacional es el Caribe**. Esta región históricamente siempre ha acompañado al hoy presidente electo Gustavo Petro Urrego. Con el nuevo mandatario se espera que el Estado pague una deuda histórica por falta de inversión social dirigida a sectores poblacionales marginados. ¿Cómo se pueden integrar las costas y estas poblaciones al desarrollo de la nación?
@@ -22,7 +22,7 @@ Por un lado, Meléndez hace un llamado al presidente y vicepresidenta electos, *
 
 > «En Colombia lo que existe una desinstitucionalización. El ciudadano común no cree en las instituciones. por ejemplo, durante el paramilitarismo, la policía le dio la espalda a las comunidades. Pero ahora estamos en una etapa de ganar confianza en la institucionalidad. El papel de Petro y Francia Márquez es generar esa confianza en las instituciones que está perdida. Que ellas lleguen a las poblaciones con realizaciones y funcionarios con vocación social e idóneos. Las comunidades no encuentran funcionarios respetados que las atiendan debidamente».
 
-![Las expectativas del Caribe frente al Acuerdo Nacional del presidente electo Gustavo Petro](./hero.jpg)
+![Las expectativas del Caribe frente al Acuerdo Nacional del presidente electo Gustavo Petro](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/el-caribe-frente-al-acuerdo-nacional/hero.jpg)
 *Las expectativas del Caribe frente al Acuerdo Nacional del presidente electo Gustavo Petro.*
 
 ## Acuerdo Nacional y gobernabilidad

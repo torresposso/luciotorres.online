@@ -5,10 +5,10 @@ pubDate: "2025-05-11 12:51:29"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/los-protegidos-de-la-fiscalia-caso-ungrd-i/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/los-protegidos-de-la-fiscalia-caso-ungrd-i/hero.jpg)
 *¿Los protegidos de la Fiscalía. Caso UNGRD. Juan Fernando Velasco (exdirector de la UNGRD y exministro del Interior) Ricardo Bonilla (exministro de Hacienda) y Carlos Ramón González.*
 
 ¿Quiénes son los **protegidos de la Fiscalía** en el proceso que se sigue por el robo de los dineros de la UNGRD destinados a resolver el transporte de agua para la gente más pobre de La Guajira? ¿La Fiscal General de la Nación, **Luz Adriana Camargo Garzón**, está aplicando **justicia selectiva?** ¿Por qué niega acuerdo con **Sandra Ortiz**, Exconsejera Regional, la mensajera que entregó el dinero al senador **Iván Name** y tiró al agua a **Carlos Ramón González** y a otros del alto gobierno? ¿Por qué el proceso en la Corte Suprema de Justicia avanza y en la Fiscalía se ralentiza?

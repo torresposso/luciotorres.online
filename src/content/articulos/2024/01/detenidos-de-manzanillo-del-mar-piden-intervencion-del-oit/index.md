@@ -5,10 +5,10 @@ pubDate: "2024-01-24 02:04:27"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/detenidos-de-manzanillo-del-mar-piden-intervencion-del-oit/"./hero.jpg"
 ---
 
-![](./consejo-comunitario_consultivo-1024x396.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/detenidos-de-manzanillo-del-mar-piden-intervencion-del-oit/consejo-comunitario_consultivo-1024x396.jpeg)
 *Arnulfo Cardozi es uno de los consultivos de Bolívar elegidos en mayo de 2023.*
 
 El representante de la Consultiva de Bolívar de los Consejos Comunitarios, **Arnulfo Cardozi Julio**, pidió la intervención de la **OIT** (**Organización Internacional del Trabajo)** y otros organismos nacionales para frenar lo que consideran una detención arbitraria de varios de sus asociados durante una protesta social en su territorio ancestral realizada en junio de 2023.
@@ -17,7 +17,7 @@ El juez Cuarto Penal del Circuito de Cartagena, **Luis Fernando Machado López**
 
 ## El apoderado y sus tesis
 
-![Alcides Arrieta Meza, experto en derecho étnico, apoderado de los detenidos de Manzanillo del Mar.](./hero.jpg)
+![Alcides Arrieta Meza, experto en derecho étnico, apoderado de los detenidos de Manzanillo del Mar.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/detenidos-de-manzanillo-del-mar-piden-intervencion-del-oit/hero.jpg)
 *Alcides Arrieta Meza, experto en derecho étnico, apoderado de los detenidos de Manzanillo del Mar.*
 
 La revocatoria de la medida de aseguramiento la presentó el abogado litigante, profesor Alcides Arrieta Meza. Consideró que no debió imputarse el delito de extorsión, por cuanto **la conducta es atípica**. No hay extorsión cuando se defiende legítima y legalmente el derecho fundamental al uso y explotación del territorio ancestral por sus titulares. Así también lo resalta el representante legal de la Consultiva Departamental, Arnulfo Cardozzi en sus peticiones a la OIT, al ministerio del Interior, la Procuraduría y la vicepresidencia de la República.
@@ -40,7 +40,7 @@ El 14 de junio de 2023, el Gaula de la Policía los capturó en diligencia de va
 
 ## Los cargos contra detenidos de Manzanillo
 
-![El Gaula así presentó a los detenidos de Manzanillo y le puso alias y pertenecientes a una banda Los manzanillo](./capturados-de-Manzanillo.jpeg)
+![El Gaula así presentó a los detenidos de Manzanillo y le puso alias y pertenecientes a una banda Los manzanillo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/detenidos-de-manzanillo-del-mar-piden-intervencion-del-oit/capturados-de-Manzanillo.jpeg)
 *El Gaula así presentó a los detenidos de Manzanillo y le puso alias y pertenecientes a una banda Los manzanillo.*
 
 A los procesados se les acusa de extorsión y otros delitos, por lo cual intervino el Gaula de la Policía. Están detenidos desde cuando realizaban esa protesta social contra los propietarios del **Hotel Cartagena Estelar** de Manzanillo. Según la Fiscalía 52 local, **Karem Elissa Sierra Torrente**. Los manzanillos:

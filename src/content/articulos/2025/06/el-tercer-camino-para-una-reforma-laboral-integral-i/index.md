@@ -5,10 +5,10 @@ pubDate: "2025-06-22 23:38:32"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-tercer-camino-para-una-reforma-laboral-integral-i/"./hero.jpg"
 ---
 
-![Reforma Laboral Integral, el tercer camino](./hero.jpg)
+![Reforma Laboral Integral, el tercer camino](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-tercer-camino-para-una-reforma-laboral-integral-i/hero.jpg)
 *Reforma Laboral Integral, el tercer camino*
 
 Después de la euforia de los impulsores de las dos corrientes enfrentadas en el debate legislativo, viene la reflexión. ¿Por qué el Congreso no aprobó una **Reforma Laboral Integral**, como teóricamente lo prometió el presidente Gustavo Petro? Bajo el imperio de la inconsciencia, esas dos corrientes de pensamiento fueron incapaces de interpretar el bien común de la sociedad colombiana para tener unas relaciones obrero—patronales altamente productivas.
@@ -35,7 +35,7 @@ Igualmente, incluye otros derechos de importancia para los trabajadores. Se elim
 
 ## El retroceso
 
-![Juan Felipe Lemos, Angélica Lozano y Jhon Jairo Roldán en la radicación de la ponencia de la reforma laboral. Detrás de ellos, Charles Chapman. ](./angelica_lozano-1024x457.jpeg)
+![Juan Felipe Lemos, Angélica Lozano y Jhon Jairo Roldán en la radicación de la ponencia de la reforma laboral. Detrás de ellos, Charles Chapman. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-tercer-camino-para-una-reforma-laboral-integral-i/angelica_lozano-1024x457.jpeg)
 *Juan Felipe Lemos, Angélica Lozano y Jhon Jairo Roldán en la radicación de la ponencia de la reforma laboral. Detrás de ellos, Charles Chapman. /Foto: X: @AngelicaLozanoC*
 
 Pero hubo un retroceso cuando se eliminó el **debido proceso laboral** a petición de los ponentes **Juan Felipe Lemos**, senador del partido de la U, y **Jhon Jairo Roldan**, senador del partido Liberal. Fueron designados por la senadora del partido Verde, **Angélica Lozano**.

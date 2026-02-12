@@ -5,10 +5,10 @@ pubDate: "2025-06-02 04:13:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/segundo-estallido-social-un-peo-de-mariposa-ii/"./hero.jpg"
 ---
 
-![Un peo de mariposa, el Segundo Estallido Social.](./hero.jpg)
+![Un peo de mariposa, el Segundo Estallido Social.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/segundo-estallido-social-un-peo-de-mariposa-ii/hero.jpg)
 *Un peo de mariposa, el Segundo Estallido Social./Cortesía Efe.*
 
 El golpe más fuerte en esta coyuntura sufrido por el gobierno del Cambio, quizás, fue el llamamiento al **Segundo Estallido Social** que pasó a ser un verdadero _peo de mariposa_: **las masas populares estuvieron ausentes**. Solo se movió la pesada y oxidada burocracia sindical y sus seguidores. Por orden de la Federación Colombiana de Educadores―FECODE, los 7 millones de hijos de trabajadores y de personas más necesitadas de la sociedad colombiana, sufrieron las consecuencias del paro nacional.

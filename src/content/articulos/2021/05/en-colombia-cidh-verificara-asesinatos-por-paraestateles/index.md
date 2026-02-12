@@ -5,10 +5,10 @@ pubDate: "2021-05-31 22:58:49"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-cidh-verificara-asesinatos-por-paraestateles/"./hero.jpg"
 ---
 
-\[caption id="attachment\_15206" align="aligncenter" width="1334"\]![](./hero.jpg) CIDH verificará asesinatos. Esta es la prueba de que usaron armas de fuego del ejército para dispararle a la población civil. Tomado de video de France 24.\[/caption\]
+\[caption id="attachment\_15206" align="aligncenter" width="1334"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-cidh-verificara-asesinatos-por-paraestateles/hero.jpg) CIDH verificará asesinatos. Esta es la prueba de que usaron armas de fuego del ejército para dispararle a la población civil. Tomado de video de France 24.\[/caption\]
 
 En Colombia, la CIDH verificará los asesinatos paraestateles y un tratamiento de guerra a la protesta social y a la libertad de expresión. Del 8 al 10 de junio será la visita oficial. La crisis de dirección política del movimiento dificulta una respuesta contundente a la estrategia de militarización mezclada con un falso diálogo del régimen. El diálogo del gobierno de Duque lo convirtió en un instrumento vil para manipular a la opinión pública y a importantes sectores sociales del país que han simpatizado con el Paro Nacional.
 
@@ -48,7 +48,7 @@ El régimen está impulsando una aparente guerra civil. Promueve acciones social
 
 ## Las nuevas tácticas
 
-\[caption id="attachment\_15207" align="aligncenter" width="1267"\]![](./Paren-la-masacre.jpg) La gente del barrio Siloe, Cali. CIDH verificará asesinatos cometidos por agentes civiles del Estado.\[/caption\]
+\[caption id="attachment\_15207" align="aligncenter" width="1267"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-cidh-verificara-asesinatos-por-paraestateles/Paren-la-masacre.jpg) La gente del barrio Siloe, Cali. CIDH verificará asesinatos cometidos por agentes civiles del Estado.\[/caption\]
 
 Parafraseando a Felipe Tascón, el régimen ensayó nuevas tácticas de choque paramilitar contra las barricadas de Cali.
 

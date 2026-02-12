@@ -5,10 +5,10 @@ pubDate: "2023-11-13 03:13:38"
 author: "Lucio"
 categories: ["Análisis","Bogotá"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/yo-claudia-o-el-arte-del-engano-la-caida-de-bogota/"./hero.jpg"
 ---
 
-![Yo, Claudia o el arte del engaño: La caída de Bogotá/Cortesía Rocchia.](./hero.jpg)
+![Yo, Claudia o el arte del engaño: La caída de Bogotá/Cortesía Rocchia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/yo-claudia-o-el-arte-del-engano-la-caida-de-bogota/hero.jpg)
 *Yo, Claudia o el arte del engaño: La caída de Bogotá/Cortesía Rocchia.*
 
 Yo, Claudia o el arte del engaño. En Bogotá está por terminar un mandato desarrollista a lo Enrique Peñaloza con una imagen favorable precaria. Desde la llegada del liberal **Jaime Castro**, el Distrito Capital gira entre el centro de derecha y la izquierda. Los **resultados electorales del 29 de octubre de 2023** confirmaron esta premisa. La lucha por el control de Bogotá fue una auténtica partida de ajedrez entre dos ajedrecistas de pesos pesados. El duelo lo ganó la alcaldesa de Bogotá, **Claudia Nayibe López Hernández** (centro―derecha), sobre otro excelente ajedrecista de izquierda, el presidente de Colombia, **Gustavo Petro Urrego**. Su candidato, **Gustavo Bolívar**, sufrió una aplastante derrota frente a **Carlos Fernando Galán**, quien lo triplicó en el número de votos.
@@ -29,7 +29,7 @@ Este enfoque ―que es un fin en sí mismo― busca develar (quitar el velo) de 
 
 ## Las dos maquinarias y el presupuesto público
 
-![](./GustavoPetro_ClaudiaLopez_9defebrero2023.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/yo-claudia-o-el-arte-del-engano-la-caida-de-bogota/GustavoPetro_ClaudiaLopez_9defebrero2023.jpg)
 *El supuesto acuerdo de Orinoquía.*
 
 La premisa básica con la que se parte es que cualquier candidato que quisiera ganar la Alcaldía de Bogotá tenía que contar con la maquinaria. Una maquinaria bien aceitada por el gigantesco presupuesto público de la ciudad que llega a **$26 billones (2023)** solo para inversión social. No se tiene en cuenta el pago de la deuda y el funcionamiento burocrático de la maquinaria. El rubro total llega a **$31,5 billones**.
@@ -66,12 +66,12 @@ El artífice de la maniobra, el sujeto que hizo posible que se concretara el art
 
 En el paquete incluyeron a Barranquilla, Medellín y el Valle de Aburrá, Cali, Pereira, Cartagena y Bucaramanga con el fin de distribuir entre ellos el 38% de las transferencias.
 
-![](./230905-Ministerio-Hacienda-distribuyo-ordeno-giro-de-recursos-1280.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/yo-claudia-o-el-arte-del-engano-la-caida-de-bogota/230905-Ministerio-Hacienda-distribuyo-ordeno-giro-de-recursos-1280.jpg)
 *Ministerio de Hacienda distribuyó y ordenó el giro de recursos para cubrir déficit operacional de Sistemas Integrados de Transporte Masivo.*
 
 ## Cómo se fraguó el arte del engaño
 
-![](./Yo_Claudia_Galan.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/yo-claudia-o-el-arte-del-engano-la-caida-de-bogota/Yo_Claudia_Galan.jpg)
 *La sonrisa de Yo, Claudia con el ganador de la contienda, Carlos Fernando Galán./Cortesía alcaldía.*
 
 Contemplen esta situación que se presentó en los momentos febriles de la aprobación de la mencionada adición del Presupuesto Nacional proveniente de los dineros de la reforma tributaria.
@@ -84,7 +84,7 @@ La pregunta que surge de esa transferencia de la nación a diferentes en entes t
 
 ## El arte del engaño y su máscara
 
-![Angélica Lozano, el arte del engaño. Cortesía La Silla Vacía.](./Angelica-Lozano.jpg)
+![Angélica Lozano, el arte del engaño. Cortesía La Silla Vacía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/yo-claudia-o-el-arte-del-engano-la-caida-de-bogota/Angelica-Lozano.jpg)
 *Angélica Lozano, el arte del engaño. Cortesía La Silla Vacía.*
 
 De cualquier manera, se había consumado la jugada maestra de la alcaldesa. Una jugada que refleja su ambivalencia y su carácter de doble faz. Una máscara para lo público y otra máscara para lo privado. Mientras tanto, el Presidente Petro esperaba con mucha ingenuidad política. Creía que su ministro estrella con funciones presidenciales pudiese hacer que la alcaldesa ―¡ahora sí!― apoyaría su metro subterráneo. Y con este hecho, se tejería una alianza poderosa que llevaría al alfil del Presidente (Gustavo Bolívar) al Palacio Liévano.

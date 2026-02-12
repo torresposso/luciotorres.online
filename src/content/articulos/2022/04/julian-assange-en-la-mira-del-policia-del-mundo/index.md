@@ -5,10 +5,10 @@ pubDate: "2022-04-21 23:02:34"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/julian-assange-en-la-mira-del-policia-del-mundo/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/julian-assange-en-la-mira-del-policia-del-mundo/hero.jpg)
 *Cuando Julian Assange se encontraba en la embajada de Ecuador.*
 
 La última decisión de un juez británico de autorizar la extradición de Julian Assange a los Estados Unidos es un atentado a la libertad de expresión. El falso cargo de violar la ley contra espionaje, pone de manifiesto la **falta de libertad de expresión para los periodistas de investigación**. Es un mensaje claro de los regímenes dictatoriales contra los que se atreven a divulgar los secretos que encierran posibles **crímenes de guerra y crímenes de Estado**. Así lo señalan las organizaciones para la defensa de los derechos humanos.
@@ -29,7 +29,7 @@ La decisión de este miércoles de un juez británico de autorizar la extradici�
 
 ## Los crímenes de los poderosos
 
-![](./miniatura-Assange.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/julian-assange-en-la-mira-del-policia-del-mundo/miniatura-Assange.jpg)
 *La autorización de un juez británico de la extradición de Julian Assange lo pone con un pie en los Estados Unidos.*
 
 De otra parte, los regímenes autocráticos del mundo les incomoda seriamente el periodismo de investigación independiente. **Les temen a los periodistas que están libres de las grandes editoriales o medios de comunicación corporativos, porque no los pueden controlar.** Quieren mantener sus acciones contra la humanidad en secreto para garantizar la impunidad social. Bajo esta perspectiva, se enfoca la situación que soporta el fundador de [Wikileaks](https://warlogs.wikileaks.org/), Julian Assange. **El australiano está siendo martirizado con todo tipo de acusaciones por atreverse a divulgar los secretos del «policía del mundo y de sus aliados»**.

@@ -5,10 +5,10 @@ pubDate: "2023-01-15 15:11:51"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asi-ordenaron-matar-a-laura-amante-de-paty-paty/"./hero.jpg"
 ---
 
-![Esta era Laura ¿amante de «Paty Paty»? Foto tomada en 2019 suministrada. ¿amante de «Paty Paty»?](./hero.jpg)
+![Esta era Laura ¿amante de «Paty Paty»? Foto tomada en 2019 suministrada. ¿amante de «Paty Paty»?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asi-ordenaron-matar-a-laura-amante-de-paty-paty/hero.jpg)
 *Esta era la bella Laura ¿amante de «Paty Paty»? Foto tomada en 2019 y suministrada.*
 
 El 11 de enero, día que asesinaron a **Laura Isabel Ortiz Ávila**, 31 años, no creía que la pudiesen matar por solo ser amante de **«Paty Paty»**. Por eso no se perdió y no se fue como lo habían hecho algunos amigos de ella. Siguió haciendo lo mismo de todos los días.
@@ -19,7 +19,7 @@ Pero Laura estaba completamente equivocada. Ese día, se produjeron dos hechos q
 
 ## La amante de «Paty Paty»
 
-![La última foto que Laura se tomó con su madre y sus tres hermanos. La amante de  «Paty Paty»](./Laura_familia_1.jpg)
+![La última foto que Laura se tomó con su madre y sus tres hermanos. La amante de  «Paty Paty»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asi-ordenaron-matar-a-laura-amante-de-paty-paty/Laura_familia_1.jpg)
 *La última foto que Laura se tomó con su madre y sus tres hermanos.*
 
 La protagonista de esta triste historia era una joven bella, muy agraciada, como muchas que habitan en extramuros, que viven el tiempo a millón. Desde muy joven se hizo madre. Le gustaba el perreo, la discoteca, la juerga y el amor bandido. Era la «oveja descarriada» de la familia. Se dice que en ese modus vivendi conoció y se hizo amante de «Paty Paty». Y también encontró la muerte trágica.
@@ -38,7 +38,7 @@ Esa situación desató una guerra por el control del poder en el bajo mundo de C
 
 ## La segunda oportunidad de Laura
 
-![Esta era Laura en 2019. La amante de  «Paty Paty»](./Laura-2019.jpg)
+![Esta era Laura en 2019. La amante de  «Paty Paty»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asi-ordenaron-matar-a-laura-amante-de-paty-paty/Laura-2019.jpg)
 *Esta era Laura en 2019.*
 
 La joven **Laura Isabel Ortiz Ávila**, en 2019, lucía hermosa. Comenzó a frecuentar amistades peligrosas. Su madre la quería mucho. Al parecer, era la única hija que tenía. Los otros eran varones. Sus dos hermanos trabajan en diferentes empresas. Y tienen una vida normal. Todo indica, que ella era la «oveja descarriada» de la familia.
@@ -49,7 +49,7 @@ Los indicios señalan que hace un año, en ese bajo mundo donde andaba, le pusie
 
 ## La orden de matar a la amante de «Paty Paty»
 
-![](./LAURA_GUASAP_marca.jpg)![](./LAURA_GUASAP_2_marca.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asi-ordenaron-matar-a-laura-amante-de-paty-paty/LAURA_GUASAP_marca.jpg)![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asi-ordenaron-matar-a-laura-amante-de-paty-paty/LAURA_GUASAP_2_marca.jpg)
 
 Una fuente le dijo a VoxPopuli que su madre se lo advertía cada vez que se enteraba de hechos de sicariatos en el bajo mundo. Es más, algunos familiares señalaron que le advertían del peligro que representaba tener ese tipo de amistades. Pero esas advertencias a Laura le entraban por un oído y salían por el otro.
 

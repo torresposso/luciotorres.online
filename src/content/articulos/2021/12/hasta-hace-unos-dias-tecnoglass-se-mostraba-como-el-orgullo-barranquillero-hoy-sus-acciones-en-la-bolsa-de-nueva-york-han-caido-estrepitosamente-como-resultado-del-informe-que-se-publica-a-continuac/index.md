@@ -5,7 +5,7 @@ pubDate: "2021-12-11 01:03:08"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/hasta-hace-unos-dias-tecnoglass-se-mostraba-como-el-orgullo-barranquillero-hoy-sus-acciones-en-la-bolsa-de-nueva-york-han-caido-estrepitosamente-como-resultado-del-informe-que-se-publica-a-continuac/"./hero.jpg"
 ---
 
 (imagen no disponible)
@@ -19,7 +19,7 @@ El informe la citada firma lo publicó con el siguiente titulo: «**Tecnoglas: C
 
 ## El mejor periodismo
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/hasta-hace-unos-dias-tecnoglass-se-mostraba-como-el-orgullo-barranquillero-hoy-sus-acciones-en-la-bolsa-de-nueva-york-han-caido-estrepitosamente-como-resultado-del-informe-que-se-publica-a-continuac/hero.jpg)
 *Plasmar en el texto las ideas centrales de la investigación y saborear un buen café, dan como resultado "el mejor periodismo". Un lector amigo nos hizo caer en la cuenta de la necesidad de hacer este autoreconocimiento, lejos del autobombo.*
 
 No se trata de hacerse autobombo. Recibimos la información de Hindenburg Research con mesura. Pero sentimos la satisfacción de que nuestros intereses periodísticos van en dirección del deber ser y **no responde a marquillas políticas ni comerciales, como reza nuestro eslogan**. En esto, deslindamos territorio con los grandes medios de comunicación.
@@ -28,7 +28,7 @@ Gran parte de esa revelación es coincidente con lo divulgado por www.voxpopuli.
 
 ## Un ascenso vertiginoso
 
-![](./Tec46.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/hasta-hace-unos-dias-tecnoglass-se-mostraba-como-el-orgullo-barranquillero-hoy-sus-acciones-en-la-bolsa-de-nueva-york-han-caido-estrepitosamente-como-resultado-del-informe-que-se-publica-a-continuac/Tec46.png)
 
 El ascenso vertiginoso de Tegnoglass en el mundo bursátil de Nueva York fue recibido con alborozo por el conjunto de medios del país y, especialmente de Barranquilla. El hecho de tocar la campaña de cristal de Nasdaq, por segunda vez, no era una noticia de poca monta. ¡Era extraordinaria! El mundillo financiero y los periodistas especializados publicarontoda clase de lisonjas para el grupo empresarial de los Daes, aliados estratégicos de los Char. Estos dos grupos económicos ejercen un poder totalitario en la economía, la política, la cultura y la información de Barranquilla y de todo el departamento del Atlántico.
 
@@ -46,7 +46,7 @@ Luego del atentado a «Yuyo» Daes, (2004), primer CEO de Tecnoglass, de donde s
 
 ## ¿Una gran lavandería?
 
-![](./christian_daes_presidente_de_tecnoglass.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/hasta-hace-unos-dias-tecnoglass-se-mostraba-como-el-orgullo-barranquillero-hoy-sus-acciones-en-la-bolsa-de-nueva-york-han-caido-estrepitosamente-como-resultado-del-informe-que-se-publica-a-continuac/christian_daes_presidente_de_tecnoglass.jpg)
 *¿Tecnoglass una fábrica o una gran lavandería?/Foto cortesía.*
 
 Pero todo ese poder no lo han conseguido respetando los cánones del ejercicio libre del comercio, la política o la cultura. No. Se han valido de la triquiñuela, el soborno y del poder económico alcanzado para elevar a Barranquilla, probablemente, en la gran lavandería del narcotráfico y de la corrupción político—administrativa colombiana.
@@ -73,10 +73,10 @@ Recordemos que la primera caída se produjo cuando estalló el escándalo del fa
 
 ## La información relevante de Tecnoglass en Nasdaq
 
-![](./Tec6.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/hasta-hace-unos-dias-tecnoglass-se-mostraba-como-el-orgullo-barranquillero-hoy-sus-acciones-en-la-bolsa-de-nueva-york-han-caido-estrepitosamente-como-resultado-del-informe-que-se-publica-a-continuac/Tec6.png)
 *José Yuyo Daes "Oye, te hablo desde Nueva York"*
 
-![](./Tec3.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/hasta-hace-unos-dias-tecnoglass-se-mostraba-como-el-orgullo-barranquillero-hoy-sus-acciones-en-la-bolsa-de-nueva-york-han-caido-estrepitosamente-como-resultado-del-informe-que-se-publica-a-continuac/Tec3.png)
 *La curva que indica el crecimiento de las acciones de Tecnoglass en Nasdaq.*
 
 Sin lugar a dudas, **Hindenburg Research**, es una firma dedicada a investigar los antecedentes de firmas que cotizan en las bolsas de Nueva York. Aplica una metodología de finanzas forenses. El dato más importante que reveló y que Voxpopuli Digital presentó anteriormente se refiere a sus orígenes asociados al narcotráfico y al lavado de capitales. Pero lo nuevo que mostró esa firma —que nosotros nunca tuvimos acceso a dicha información— son las informaciones financieras que muestran un manejo poco ético de sus ingresos. Es decir, que pueden ser ingresos ficticios. Es la misma estructura que se utiliza para las exportaciones ficticias. Exactamente, la conclusión de Hindenburg es la siguiente:

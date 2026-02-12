@@ -5,10 +5,10 @@ pubDate: "2021-10-27 02:54:36"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-el-magdalena-para-que-caicedo-pidio-poder-pro-tempore/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-el-magdalena-para-que-caicedo-pidio-poder-pro-tempore/hero.jpg)
 *José Humberto Torres, Oficina Jurídica del Magdalena.*
 
 ¿Para qué el gobernador del Magdalena, **Carlos Caícedo,** pidió poder pro tempore? Ese es uno de los tres proyectos de ordenanzas que radicaron hoy el Secretarios del Interior, **Adolfo Bula Ramírez** y el jefe de la Oficina Jurídica de la gobernación del Magdalena, **José Humberto Torres**. 
@@ -21,7 +21,7 @@ Al respecto, Torres manifestó:
 
 ## Poder protempore ¿al fracaso?
 
-![](./adolfo-bula.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-el-magdalena-para-que-caicedo-pidio-poder-pro-tempore/adolfo-bula.jpg)
 *El gobernador Carlos Caicedo y su secretario del Interior, Adolfo Bula Ramírez. Cortesía.*
 
 Las facultades **pro tempore** al gobernador Caicedo para modificar la estructura orgánica tiene una fuerte oposición al interior de la asamblea departamental. Debemos resaltar que la coalición mayoritaria de la asamblea es opositara al gobierno de Carlos Caicedo. No existe elementos de juicio que la asamblea modifique, cambie o se retracte de la posición asumida el pasado mes de abril donde le rechazó seis proyectos de ordenanzas al gobernador.

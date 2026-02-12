@@ -5,10 +5,10 @@ pubDate: "2023-04-17 18:55:59"
 author: "Lucio"
 categories: ["Crónica","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/secuestro-simple-de-anciana-y-trafico-de-influencia-judicial-i/"./hero.jpg"
 ---
 
-![secuestro simple](./hero.jpg)
+![secuestro simple](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/secuestro-simple-de-anciana-y-trafico-de-influencia-judicial-i/hero.jpg)
 *Ana Mercedes Montañez hace 6 años.*
 
 **Ana Mercedes Montañez**, quien padece algunos trastornos, no recibió la visita de ninguno de sus cinco hijos en el día de su **cumpleaños No 91**. Estos, a su vez, se lamentan de que no ven a su madre desde el 2018. Parece que sufre un **secuestro simple** en el barrio Bruselas de Cartagena. Sus dos nietos, los hermanos **Norma Esther y Francisco Alirio García Cervera**, la mantienen aislada. Incluso, a la trabajadora social de la Personería Distrital le echaron un **perro pitbull** cuando, por orden judicial, fue a esa residencia a constatar la situación psicosocial de la señora.
@@ -19,7 +19,7 @@ A pesar de que el **Personero de Familia y el Juzgado Séptimo de Familia del Ci
 
 ## ¿Tráfico de influencia judicial?
 
-![Wilson Abraham García Montañez, aquí en el capitolio nacional. Secuestro simple.](./Wilson-Garcia-Montanez_2.jpg)
+![Wilson Abraham García Montañez, aquí en el capitolio nacional. Secuestro simple.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/secuestro-simple-de-anciana-y-trafico-de-influencia-judicial-i/Wilson-Garcia-Montanez_2.jpg)
 *Wilson Abraham García Montañez, aquí en el capitolio nacional.*
 
 ¿Se podría configurar un secuestro simple? El único hijo que la puede ver es **[Wilson García Montañez](/articulos/web/sigep/hdv/-/directorio/S677683-0925-5/view)**. Este se encontraba como asesor de la Secretaría General del Senado de la República, al parecer, muy a pesar de no haberse graduado como profesional. También como asesor de la Procuraduría General de la Nación y asesor presidencial. Todo hace parecer, según las evidencias, que Wilson se compinchó con sus sobrinos para crear este estado de cosa. La mamá tiene cinco hijos, además de Wilson García: **Alberto García Montañez, Alirio García Montañez, Gonzalo Alvarino Montañez, Teofilde María Fuentes Montañez.** Se manifiesta que Wilson tiene la suficiente influencia política como para evitar que las autoridades actúen diligentemente. **VoxPopuli**, tomando en cuenta un expediente que reposa en el Juzgado Séptimo de Familia del Circuito, hizo todo lo posible por conocer la versión de Wilson García, pero no se obtuvo información. Tampoco de los nietos implicados en este presunto delito.
@@ -28,7 +28,7 @@ Lo extraño es que el **Juzgado Séptimo de Familia del Circuito de Cartagena** 
 
 ## No cumplen conciliación
 
-![Norma Esther y Francisco Alirio García Cervera presuntamente no cumplen con los términos de la conciliación para que todos sus hijos puedan ver a su madre Ana Mercedes Montañez. ¿Secuestro simple?](./Los-nietos_1.jpg)
+![Norma Esther y Francisco Alirio García Cervera presuntamente no cumplen con los términos de la conciliación para que todos sus hijos puedan ver a su madre Ana Mercedes Montañez. ¿Secuestro simple?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/secuestro-simple-de-anciana-y-trafico-de-influencia-judicial-i/Los-nietos_1.jpg)
 *Norma Esther y Francisco Alirio García Cervera presuntamente no cumplen con los términos de la conciliación para que todos sus hijos puedan ver a su madre Ana Mercedes Montañez. ¿Secuestro simple?*
 
 En el acto de conciliación **No 0042 de 2018** que se hizo ante la Comisaría de Familia, se acordó:

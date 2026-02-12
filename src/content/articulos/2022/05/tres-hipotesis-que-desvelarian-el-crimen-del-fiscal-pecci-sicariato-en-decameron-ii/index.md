@@ -5,10 +5,10 @@ pubDate: "2022-05-15 03:34:32"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/tres-hipotesis-que-desvelarian-el-crimen-del-fiscal-pecci-sicariato-en-decameron-ii/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/tres-hipotesis-que-desvelarian-el-crimen-del-fiscal-pecci-sicariato-en-decameron-ii/hero.jpg)
 *Compañeros de trabajo y de universidad de Marcelo Pecci salieron hoy a recibir el féretro del mártir. Son tres hipótesis que se presentan. Foto AFP. Cortesía.*
 
 Son tres hipótesis que se desprende de un análisis de los hechos. La principal hipótesis demostraría que la mafia paraguaya contrató una oficina de cobro colombiana. Esta subestructura, a su vez, **utilizaría un sicario venezolano** para asesinar al fiscal **Marcelo Pecci Albertini**. La segunda hipótesis indicaría que este asesinato es un castigo al fiscal por las operaciones contra el lavado de activo y el proceso de captura del crimen organizado del Estado paraguayo. La tercera hipótesis, señala que los investigadores no han construido una ruta cierta del crimen para hallar a sus determinadores. 

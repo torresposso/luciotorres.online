@@ -5,10 +5,10 @@ pubDate: "2026-01-04 17:35:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/maduro-encadenado-el-nuevo-enclave-territorial-de-e-u-i/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/maduro-encadenado-el-nuevo-enclave-territorial-de-e-u-i/hero.jpg)
 *Maduro encadenado*
 
 Con **Maduro encadenado** anunciado por **Donald Trump** el 3 de enero de 2026, América Latina entra en un renovado **concepto del enclave territorial norteamericano** como forma de dominio colonial. No solo vimos una intervención militar directa en Venezuela sino que también asistimos al entierro definitivo de cualquier simulacro de respeto estadounidense por **la autodeterminación de los pueblos**. Esto es clave para entender el tipo de intervención que el imperio asumirá en los próximos años.

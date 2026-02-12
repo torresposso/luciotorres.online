@@ -5,10 +5,10 @@ pubDate: "2023-05-27 22:18:35"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mera-ilusion-julian-conrado-en-turbaco-i/"./hero.jpg"
 ---
 
-![¡Mera ilusión! Julián Conrado en Turbaco](./hero.jpg)
+![¡Mera ilusión! Julián Conrado en Turbaco](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mera-ilusion-julian-conrado-en-turbaco-i/hero.jpg)
 *¡Mera ilusión! Julián Conrado en Turbaco*
 
 A siete meses de terminar su período, la alcaldía del **«cantor del pueblo»**, **Guillermo Torres Cuéter**, sigue siendo ¡una mera ilusión! como sus canciones cuando era **«Julián Conrado»**. En Turbaco—Bolívar, luego de más de tres años de gobierno, su administración no podría catalogarse como un antes y un después. Los indicadores de resultados le son desfavorables. La percepción de la comunidad organizada, en su mayoría, es negativa. Uno de los tantos y sensibles problemas de este municipio, al norte de Bolívar, en el área metropolitana de Cartagena, **es la expansión urbanística sin atender las necesidades en materia de agua potable y alcantarillado. Pero también, Torres no hizo nada radical para avanzar en los servicios públicos concesionados que fue su mayor apuesta electoral.**
@@ -45,7 +45,7 @@ Sin embargo, aunque esa conclusión pareciera exagerada, no está lejos de la ve
 
 ## ¡Mera ilusión!
 
-![¡Mera ilusión! Julián Conrado un encantador de serpientes](./Guillermo-Torres_.jpg)
+![¡Mera ilusión! Julián Conrado un encantador de serpientes](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mera-ilusion-julian-conrado-en-turbaco-i/Guillermo-Torres_.jpg)
 *Aquí narrando la anécdota de la Volqueta del alcalde corrupto. Mera ilusión.*
 
 En efecto, el alcalde no le hace honor al verdadero **Julian Conrado**, el médico egresado de la Universidad de Cartagena quien fuera asesinado en San Carlos, Antioquia, el 23 de octubre de 1983. Tampoco al discurso de ilusión que construyó con sus canciones alegóricas a la paz mientras empuñaban un fusil. O sus loas a la libertad mientras secuestraban a pequeños ganaderos. ¿Contradicción? ¿Disforia? No. Es la ambivalencia del discurso que las élites dominantes de Colombia saben manejar a la perfección. Y los políticos de izquierda aprendieron muy bien. Esa fue su formación ideológica que terminó con una _falsa conciencia_ y una violencia alienante.

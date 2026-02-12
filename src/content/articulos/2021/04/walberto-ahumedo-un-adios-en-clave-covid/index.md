@@ -5,10 +5,10 @@ pubDate: "2021-04-08 15:52:06"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/walberto-ahumedo-un-adios-en-clave-covid/"./hero.jpg"
 ---
 
-\[caption id="attachment\_14499" align="aligncenter" width="719"\]![](./hero.jpg) Walberto Ahumedo, **«A Puño Limpio» en clave de covid**.\[/caption\]
+\[caption id="attachment\_14499" align="aligncenter" width="719"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/walberto-ahumedo-un-adios-en-clave-covid/hero.jpg) Walberto Ahumedo, **«A Puño Limpio» en clave de covid**.\[/caption\]
 
 **Walberto Ahumedo Sierra**, uno de los grandes locutores del Caribe Colombiano nos dio un adiós **en clave de Covid — 19**. No pudo cumplir su cita en la radio y TV para seguir hablándonos de beisbol o boxeo. **Perdió la pelea contra el Coronavirus «A Puño Limpio»**.
 
@@ -16,7 +16,7 @@ Fue una pelea dura a 12 asaltos. Pero sus pulmones colapsaron. Su corazón se de
 
 ## Muerte en clave de Covid
 
-![](./Walberto-imagen-destacada.jpg)La muerte de por si es triste. Pero morir en clave de Covid es más triste. La solidaridad es etérea y gaseosa. Es líquida como la vida. Se desvanece en el aire cuando ya ha cumplido su tiempo de expansión. Regresamos a donde surgimos.
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/walberto-ahumedo-un-adios-en-clave-covid/Walberto-imagen-destacada.jpg)La muerte de por si es triste. Pero morir en clave de Covid es más triste. La solidaridad es etérea y gaseosa. Es líquida como la vida. Se desvanece en el aire cuando ya ha cumplido su tiempo de expansión. Regresamos a donde surgimos.
 
 Morir en pandemia, los funerales son más grises. La soledad perturba hasta el mismo difunto. ¿Cuántos amigos y amigas murieron en clave de Covid? Recuerdo que cuando en junio de 2020 yacía tirado en un colchón golpeado duramente por la peor cepa del coronavirus, me llegó la noticia de la muerte de varios amigos.
 

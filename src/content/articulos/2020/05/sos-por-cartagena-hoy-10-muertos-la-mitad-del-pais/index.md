@@ -5,10 +5,10 @@ pubDate: "2020-05-21 01:31:15"
 author: "Lucio"
 categories: ["Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/sos-por-cartagena-hoy-10-muertos-la-mitad-del-pais/"./hero.jpg"
 ---
 
-SOS CARTAGENA ¡DIEZ MUERTOS! \[caption id="attachment\_11746" align="aligncenter" width="579"\]![](./hero.jpg) El personal médico y paramédico del Hospital Universitario del Caribe (HUC) se prepara para lo peor. Hoy fue una jornada dura: ¡10 muertos!\[/caption\] ¡SOS Cartagena! Como lo predijo **[www.voxpopuli.digital](/articulos/)**, esta semana iba a ser fatal para la ciudad por los estragos del Covid—19. **La cifra es contundente:** **¡Diez muertos en un día!** Minsalud dice que son 8. La verdad: en el HUC amanecieron 6 y durante el día (hasta las 3 pm) se produjo el deceso de 4 más. El Dadis los recogió en la tarde de hoy. Los llevaron a la funeraria que lo transporta al horno crematorio sin ninguna ceremonia de despedida. La fuente consultada, que me pidió reserva, me dijo:
+SOS CARTAGENA ¡DIEZ MUERTOS! \[caption id="attachment\_11746" align="aligncenter" width="579"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/sos-por-cartagena-hoy-10-muertos-la-mitad-del-pais/hero.jpg) El personal médico y paramédico del Hospital Universitario del Caribe (HUC) se prepara para lo peor. Hoy fue una jornada dura: ¡10 muertos!\[/caption\] ¡SOS Cartagena! Como lo predijo **[www.voxpopuli.digital](/articulos/)**, esta semana iba a ser fatal para la ciudad por los estragos del Covid—19. **La cifra es contundente:** **¡Diez muertos en un día!** Minsalud dice que son 8. La verdad: en el HUC amanecieron 6 y durante el día (hasta las 3 pm) se produjo el deceso de 4 más. El Dadis los recogió en la tarde de hoy. Los llevaron a la funeraria que lo transporta al horno crematorio sin ninguna ceremonia de despedida. La fuente consultada, que me pidió reserva, me dijo:
 
 > «Lucio, eso es triste. Esta mañana amanecieron 6 pacientes de Covid muertos. Y hoy, cuando entregué turno, ya iban 4 fallecidos más. Los muertos son introducidos en bolsas especiales de color negro. El Dadis viene a recogerlos y las funerarias hacen la cremación express».
 

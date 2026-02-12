@@ -5,10 +5,10 @@ pubDate: "2020-06-19 22:23:07"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/06/la-miseria-de-un-escribidor-maton-del-alcalde/"./hero.jpg"
 ---
 
-\[caption id="attachment\_11922" align="alignnone" width="713"\]![](./hero.jpg) La miseria de un escribidor. Antonio Támara cree que con su pistolón va a intimidar al periodista. Facebook.\[/caption\] ¿Es lo mismo escribir sobrio que bajo el efecto de _mariacachafa_? ¿Es lo mismo gobernar con autonomía o bajo la dictadura del bazuco? ¿Qué hace a un buen escritor? ¿la inspiración o el arte de escribir? ¿Qué hace a un buen gobernante? ¿el poder o su capacidad de gobernar? La miseria de un escribidor es posar de matón esperando una Ops de su patrón. **_Escribidor_ y alcalde están cortados con la misma tijera: la miseria humana**.
+\[caption id="attachment\_11922" align="alignnone" width="713"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/06/la-miseria-de-un-escribidor-maton-del-alcalde/hero.jpg) La miseria de un escribidor. Antonio Támara cree que con su pistolón va a intimidar al periodista. Facebook.\[/caption\] ¿Es lo mismo escribir sobrio que bajo el efecto de _mariacachafa_? ¿Es lo mismo gobernar con autonomía o bajo la dictadura del bazuco? ¿Qué hace a un buen escritor? ¿la inspiración o el arte de escribir? ¿Qué hace a un buen gobernante? ¿el poder o su capacidad de gobernar? La miseria de un escribidor es posar de matón esperando una Ops de su patrón. **_Escribidor_ y alcalde están cortados con la misma tijera: la miseria humana**.
 
 Antonio Támara, quien se autodenomina El Escribidor —junto con las «bodegas digitales»— desata sobre este periodista sus andanadas de epítetos, calumnias y sandeces para enlodar mi buen nombre. Es una persecución política. Es sistemática. **Es una clara afrenta contra la libertad de prensa.** Mi trabajo periodístico me ha demandado persecuciones, desplazamientos forzados y amenazas de muerte. No es encomienda de nadie. Gozo de autonomía.
 

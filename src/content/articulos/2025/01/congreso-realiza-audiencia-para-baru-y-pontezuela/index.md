@@ -5,10 +5,10 @@ pubDate: "2025-01-29 13:29:49"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/congreso-realiza-audiencia-para-baru-y-pontezuela/"./hero.jpg"
 ---
 
-![Por iniciativa de la senadora del Pacto Histórico, Aida Abella, el congreso realizará audiencia para Barú y Pontezuela](./aida_mujeres-1024x600.jpeg)
+![Por iniciativa de la senadora del Pacto Histórico, Aida Abella, el congreso realizará audiencia para Barú y Pontezuela](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/congreso-realiza-audiencia-para-baru-y-pontezuela/aida_mujeres-1024x600.jpeg)
 *Por iniciativa de la senadora del Pacto Histórico, Aida Abella, el congreso realizará audiencia para Barú y Pontezuela.*
 
 **Aida Abella Esquivel,** senadora del Pacto Histórico, anunció que en la Comisión Cuarta del senado, se realizará una audiencia para Barú y Pontezuela con el fin de citar a las autoridades del Estado para garantizar el **acceso a la tierra de los campesinos** del norte de Bolívar. En especial, Barú, Pontezuela y Bayunca.
@@ -23,7 +23,7 @@ Ver el video donde la senadora del **Pacto Histórico, Aida Abella Esquivel**, t
 
 ## Caso Barú
 
-![Luis Jiménez, acompañado de otros líderes de Barú, se reunieron con la senadora Aida Abella. Audiencia para Barú y Pontezuela fue la conclusión de esa reunión.](./Luis_jimenez-1024x484.jpeg)
+![Luis Jiménez, acompañado de otros líderes de Barú, se reunieron con la senadora Aida Abella. Audiencia para Barú y Pontezuela fue la conclusión de esa reunión.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/congreso-realiza-audiencia-para-baru-y-pontezuela/Luis_jimenez-1024x484.jpeg)
 *Luis Jiménez, acompañado de otros líderes de Barú, se reunieron con la senadora Aida Abella. Audiencia para Barú y Pontezuela, fue la conclusión de esa reunión.*
 
 La situación de la propiedad privada en Barú es compleja. Se necesita una clarificación de la propiedad de los predios. Después que la antigua **Fonade** (hoy, Empresa Nacional Promotora del Desarrollo Territorial-**ENTerritorio**) se alió con algunos empresarios inescrupulosos que adquirieron supuestas posesiones que luego se las vendieron a la empresa estatal.
@@ -40,7 +40,7 @@ Al respecto, uno de los luchadores por la herencia de la hacienda Santa Ana, Lui
 
 ## Caso Pontezuela
 
-![María Margarita Ortega Rodríguez, le solicitó a la congresista que ejerza un control legislativo a los oficiales que están detrás del hostigamiento policivo contra los campesinos. Audiencia  para Barú y Pontezuela.](./maria_cristina_lider.jpeg)
+![María Margarita Ortega Rodríguez, le solicitó a la congresista que ejerza un control legislativo a los oficiales que están detrás del hostigamiento policivo contra los campesinos. Audiencia  para Barú y Pontezuela.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/congreso-realiza-audiencia-para-baru-y-pontezuela/maria_cristina_lider.jpeg)
 *María Margarita Ortega Rodríguez, le solicitó a la congresista que ejerza un control legislativo a los oficiales que están detrás del hostigamiento policivo contra los campesinos de Pontezuela.*
 
 A raíz del proyecto del nuevo aeropuerto de Cartagena, se viene multiplicando los proyectos de infraestructura turística, comercial, vivienda de estrato alto, entre otros. Esta fiebre de proyectos ha encarecido el suelo. Se asoma un proceso de gentrificación rural que se debe detener. Pero también de despojo violento de la propiedad de los campesinos que poseen la tierra.

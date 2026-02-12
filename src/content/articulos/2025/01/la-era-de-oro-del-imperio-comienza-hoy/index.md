@@ -5,10 +5,10 @@ pubDate: "2025-01-21 04:10:27"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/la-era-de-oro-del-imperio-comienza-hoy/"./hero.jpg"
 ---
 
-![¿La Era de Oro del imperio comienza hoy?](./Donald-TRUMp_posesion.jpeg)
+![¿La Era de Oro del imperio comienza hoy?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/la-era-de-oro-del-imperio-comienza-hoy/Donald-TRUMp_posesion.jpeg)
 *¿La Era de Oro del imperio comienza hoy? (Cortesía).*
 
 ¿**_La Era de Oro de Estados Unidos comienza justo ahora_**? Desde un punto de vista analítico, el discurso de posesión presidencial de **Donald Trump** (20―01―2025), refleja las clave para descifrar su anhelo imperialista. Un discurso fuertemente marcado por la retórica populista, nacionalista y conservadora. Discurso que nos vuelve a la vieja doctrina Monroe: **_«_América para los americanos_»_**.

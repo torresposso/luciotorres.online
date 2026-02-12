@@ -5,10 +5,10 @@ pubDate: "2019-02-25 04:22:08"
 author: "Lucio"
 categories: ["Crónica","Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/rosas-rojas-para-pantaleon-porque-el-memoricidio-es-la-peor-de-las-muertes/"./hero.jpg"
 ---
 
-![](oracion.jpg?fit=702%2C395&ssl=1)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/rosas-rojas-para-pantaleon-porque-el-memoricidio-es-la-peor-de-las-muertes/oracion.jpg?fit=702%2C395&ssl=1)
 *Seis mil cartageneros murieron durante el Sitio. Aquí homenaje a los mártires desconocidos compuestos por humildes personas que entregaron su vida por la libertad.*
 
 Rosas rojas en honor a la memoria de los mártires de la libertad de Cartagena. Una Rosa roja para Pantaleón Ribón y Martín Amador, quienes no se amilanaron frente a sus verdugos y reclamaron la justeza de su lucha emancipadora. Fue un acto sencillo. Simbólico. Significativo. Una oración eficaz para recibir esa energía de esperanza y resistir al _**memoricidio**_, que es la peor muerte del ser humano.

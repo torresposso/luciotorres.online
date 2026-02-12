@@ -5,10 +5,10 @@ pubDate: "2023-07-24 02:24:55"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/cne-respaldo-a-maximo-y-exhorto-a-ch-que-lo-avale/"./hero.jpg"
 ---
 
-![CNE respaldó a Máximo y exhortó a CH que lo avale. El líder con más de 40 años de luchas populares, sigue recorriendo el Atlántico.](./hero.jpg)
+![CNE respaldó a Máximo y exhortó a CH que lo avale. El líder con más de 40 años de luchas populares, sigue recorriendo el Atlántico.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/cne-respaldo-a-maximo-y-exhorto-a-ch-que-lo-avale/hero.jpg)
 *CNE respaldó a Máximo y exhortó a CH que lo avale. El líder con más de 40 años de luchas populares, sigue recorriendo el Atlántico.*
 
 El Consejo Nacional electoral-CNE respaldó a **Máximo Noriega** a la gobernación del Atlántico. Exhortó a Colombia Humana (CH) cumplir los términos establecidos en la **consulta del 23 abril** que ganó ampliamente el dirigente progresista que tiene un recorrido de 40 años de luchas. Esta decisión es de suma importancia que pondría a pensar a la coordinación nacional del **Pacto Histórico**, ya que es una coalición y no un partido o movimiento político.
@@ -27,7 +27,7 @@ Llama la atención el decir de líderes del Pacto Histórico que señalan a Vare
 
 ## Colombia Humana a cumplir la ley
 
-![CNE respaldó a Máximo. ](./Catalina-Velasco.jpg)
+![CNE respaldó a Máximo. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/cne-respaldo-a-maximo-y-exhorto-a-ch-que-lo-avale/Catalina-Velasco.jpg)
 *Catalina Velasco, Ministra de Vivienda, respaldó al califato Daecharista.*
 
 Llama la atención un hecho curioso que vale la pena tenerlo en cuenta. Uno de los directivos que tiene peso en la Colombia Humana es **Eduardo Noriega**, muy cercano a Escaf y a la esposa del presidente, **Verónica Alcocer**. Además, la esposa de Noriega, **Catalina Velasco Campuzano**, ministra de Vivienda, elogió recientemente el modelo de gobierno y de desarrollo del charismo en Barranquilla. En otras palabras, el charismo se la quiere jugar con **Eduardo Verano** y, en segunda instancia con **Alfredo Varela**, quien militó en Cambio Radical, luego en el Polo y ahora es avalado por el Verde.
@@ -42,7 +42,7 @@ Esto dijo, Catalina Velasco:
 
 ## Máximo Noriega, candidato disruptivo
 
-![Eduardo Noriega de la Hoz, el dirigente más influyente en la dirección de Colombia Humana. Al parecer, es uno de los opositores al aval a Máximo Noriega.](./Eduardo-noriega.jpeg)
+![Eduardo Noriega de la Hoz, el dirigente más influyente en la dirección de Colombia Humana. Al parecer, es uno de los opositores al aval a Máximo Noriega.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/cne-respaldo-a-maximo-y-exhorto-a-ch-que-lo-avale/Eduardo-noriega.jpeg)
 *Eduardo Noriega de la Hoz, el dirigente más influyente en la dirección de Colombia Humana. Su esposa, Catalina Velasco, apoya al califato Daescharista. Al parecer, es uno de los opositores al aval a Máximo Noriega*
 
 Dicho de otro modo, Eduardo Noriega debe declararse impedido para tomar una decisión. **Máximo Noriega, por su parte, es un candidato disruptivo** frente a los designios del asfixiante centralismo _cachaco_. Centralismo que contaminó a la dirección nacional de CH y del PH, independientemente de los orígenes regionales de sus directivos. Por ejemplo, Eduardo Noriega es de Santa Marta con muchos años en Bogotá.

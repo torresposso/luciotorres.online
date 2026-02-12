@@ -5,10 +5,10 @@ pubDate: "2023-12-13 04:37:34"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 tags: ["Corte Constitucional","Elsa Noguera","Gobernación del Magdalena","Gobernación del Valle"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/tasa-de-seguridad-ciudadana-es-ilegal-y-un-fracaso-para-combatir-el-delito-i/"./hero.jpg"
 ---
 
-![Eduardo Verano y Elsa Noguera fueron promotores de la tasa de seguridad ciudadana en el Atlántico](./ElsaNoguera_Eduardo_verano.jpeg)
+![Eduardo Verano y Elsa Noguera fueron promotores de la tasa de seguridad ciudadana en el Atlántico](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/tasa-de-seguridad-ciudadana-es-ilegal-y-un-fracaso-para-combatir-el-delito-i/ElsaNoguera_Eduardo_verano.jpeg)
 *Eduardo Verano y Elsa Noguera fueron, gobernador entrante y saliente, promotores de la tasa de seguridad ciudadana en el Atlántico. Se gastaron un promedio de $130 mil millones anuales desde 2015 hasta ahora.*
 
 La tasa de seguridad ciudadana, que cobran algunos departamentos, fue declarada **inexequible por la Corte Constitucional**. Pero, además, fracasaron para mantener la convivencia, pues, **presentan uno de los peores indicadores de seguridad**, pese administrar multimillonarios recursos provenientes de ese impuesto. Además, los recursos del fondo **son destinados para algo diferente**, como construir parques para uso de consumidores de marihuana, como sucede en el **Atlántico, Magdalena y Valle del Cauca.**
@@ -33,7 +33,7 @@ El efecto diferido lo dio la Corte, porque los recursos del fondo se ataron a lo
 
 ## Una ordenanza tramposa
 
-![Alcides Arrieta, uno de los críticos de la tasa de seguridad ciudadana en el Atlántico](./hero.jpg)
+![Alcides Arrieta, uno de los críticos de la tasa de seguridad ciudadana en el Atlántico](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/tasa-de-seguridad-ciudadana-es-ilegal-y-un-fracaso-para-combatir-el-delito-i/hero.jpg)
 *Alcides Arrieta, uno de los críticos de la tasa de seguridad ciudadana en el Atlántico*
 
 De acuerdo con el concepto del jurista, veedor y defensor de los derechos humanos, **Alcides Arrieta**, la ordenanza es inconveniente de todo punto de vista. Máxime que los usuarios de energía eléctrica en Bolívar, deben pagar las más altas tarifas de todo el país. **La ordenanza es tramposa**, según el concepto de este destacado jurista:
@@ -42,7 +42,7 @@ De acuerdo con el concepto del jurista, veedor y defensor de los derechos humano
 
 ## Una ordenanza exprés
 
-![Tasa de seguridad ciudadana  es ilegal](./Asamblea-de-Bolivar.jpg)
+![Tasa de seguridad ciudadana  es ilegal](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/tasa-de-seguridad-ciudadana-es-ilegal-y-un-fracaso-para-combatir-el-delito-i/Asamblea-de-Bolivar.jpg)
 *Tasa de seguridad ciudadana es ilegal. Fue aprobada en el quinto período de extradinarias. Solo fueron 7 días de sesiones, tal como aparece en el Observatorio de la Asamblea.*
 
 Además de lo señalado por Arrieta de que no se articula a ninguna política pública, de acuerdo a evidencias del **Observatorio de la Asamblea**, el proyecto se anunció el 1, se socializó el 2, lo aprobaron el 8 en medio de la borrachera de _Las velitas_ y solamente lo **publicaron en la gaceta el 9 de diciembre**. Lo cual quiere decir que el proyecto no tuvo el trámite debido y legal que una ordenanza debe transitar. **Significa que es una ordenanza exprés**, si es sancionada por el gobernador Blel.

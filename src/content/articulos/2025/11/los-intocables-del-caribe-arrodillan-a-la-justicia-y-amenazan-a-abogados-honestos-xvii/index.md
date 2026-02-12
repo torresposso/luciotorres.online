@@ -5,10 +5,10 @@ pubDate: "2025-11-03 11:44:46"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/los-intocables-del-caribe-arrodillan-a-la-justicia-y-amenazan-a-abogados-honestos-xvii/"./hero.jpg"
 ---
 
-![Reabren proceso por homicidio a Los intocables del Caribe... Los del matadero Camaguey.](./hero.jpg)
+![Reabren proceso por homicidio a Los intocables del Caribe... Los del matadero Camaguey.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/los-intocables-del-caribe-arrodillan-a-la-justicia-y-amenazan-a-abogados-honestos-xvii/hero.jpg)
 *Reabren proceso por homicidio a Los intocables del Caribe... Los del matadero Camaguey. Y todo queda estancado.*
 
 ¿Tienen la mano metida Los Intocables del Caribe para que en cinco años haya cinco aplazamientos en una investigación por amenaza de muerte que aún no tiene justicia? Este 5 de noviembre de 2025 podría ser la última audiencia antes de que prescriba el proceso penal interpuesto por el prestante y prestigioso profesional del derecho **Jhonny Pérez González**. La denuncia la presentó contra **Rafael Antonio Matera Lajud**, **Alfredo Enrique Matera Sabbagh** y **Enrique Pérez Matera**, (padre, hijo y sobrino, respectivamente) una poderosa familia de empresarios del Atlántico señalada en versiones de Justicia y Paz como aliada económica y militar del paramilitarismo.
@@ -29,7 +29,7 @@ De igual forma, a raíz de la compulsa de copia para que la Fiscalía investigue
 
 ## La amenaza de la prescripción
 
-![La fiscal Sandra Fajardo dijo que estaba en cita médica.](./AUDIENCIA_5_.jpg)
+![La fiscal Sandra Fajardo dijo que estaba en cita médica.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/los-intocables-del-caribe-arrodillan-a-la-justicia-y-amenazan-a-abogados-honestos-xvii/AUDIENCIA_5_.jpg)
 *La fiscal Sandra Fajardo dijo que estaba en cita médica.*
 
 **El 3 de febrero de 2020**, el abogado ****Jhonny Pérez González****, representante de un grupo de socios de la antigua _Palmeras de la Costa S.A._, presentó una denuncia penal por **amenazas de muerte** contra los Matera. El caso, en teoría sencillo ―una amenaza explícita ocurrida en el Country Club de Barranquilla―, se convirtió en una odisea procesal. **Cinco audiencias aplazadas** por maniobras dilatorias ponen el proceso al borde de la prescripción.
@@ -41,7 +41,7 @@ El último intento judicial, en septiembre de 2025, se suspendió sin explicaci�
 
 ## La noche del Country Club
 
-![Los Intocables del Caribe arrodillan a la justicia y amenazan a  abogados honestos](./rafael-matera_orden_judicial-1024x775.jpg)
+![Los Intocables del Caribe arrodillan a la justicia y amenazan a  abogados honestos](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/los-intocables-del-caribe-arrodillan-a-la-justicia-y-amenazan-a-abogados-honestos-xvii/rafael-matera_orden_judicial-1024x775.jpg)
 *¿Los Intocables del Caribe tienen tanta influencia en el poder judicial de Barranquilla y la Costa Norte?*
 
 El relato del abogado, detallado y coherente, describe una escena de intimidación que parece salida de una película policial.

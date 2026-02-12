@@ -5,10 +5,10 @@ pubDate: "2023-03-06 02:16:34"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-doble-crucifixion-del-primogenito-de-petro-me-han-dado-la-espalda-ii/"./hero.jpg"
 ---
 
-![La familia presidencial. De ellos el primer sacrificado, el primogénito Nicolás Petro.](./Nicolas-Petro.jpeg)
+![La familia presidencial. De ellos el primer sacrificado, el primogénito Nicolás Petro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-doble-crucifixion-del-primogenito-de-petro-me-han-dado-la-espalda-ii/Nicolas-Petro.jpeg)
 *La familia presidencial. De ellos el primer sacrificado, el primogénito Nicolás Petro.*
 
 El diputado del Atlántico, el primogénito de Petro Urrego, **Nicolás Petro Burgos**, sin duda, sufre una **doble crucifixión política** a raíz del detonado escándalo con su **expareja Day Vásquez**. La primera, como es natural y lógico a sus actos, la crucifixión de la opinión pública polarizada por las actuaciones del Presidente. Pero, la que más le podría estar doliendo en lo más profundo de su corazón, es la **crucifixión paternal** con la denuncia penal que presentó ante la Fiscalía. Este sentimiento se resume en esta frase que dio a conocer hoy en un comunicado de prensa:
@@ -25,7 +25,7 @@ Sin equívocos, esa decisión es una puñalada a la yugular de la vida social, m
 
 ## «Me han dado la espalda», el primogénito de Petro
 
-![Nicolás Petro antes de que se prendiera el escándalo estaba haciendo campaña para maximo Noriega a la gobernación del Atlántico. Primogénito de Petro](./hero.jpg)
+![Nicolás Petro antes de que se prendiera el escándalo estaba haciendo campaña para maximo Noriega a la gobernación del Atlántico. Primogénito de Petro](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-doble-crucifixion-del-primogenito-de-petro-me-han-dado-la-espalda-ii/hero.jpg)
 *Nicolás Petro antes de que se prendiera el escándalo estaba haciendo campaña para maximo Noriega a la gobernación del Atlántico.*
 
 El primogénito del presidente Petro se quejó hoy ante la opinión pública por el linchamiento social y mediático sin precedentes que lo han juzgado y condenado. Este sentimiento lo viene sufriendo desde que la revista Semana publicó la entrevista con su ex esposa **Day Vásquez Castro**.
@@ -90,7 +90,7 @@ En 1944, Yákov se suicidó. Hizo como si estuviera huyendo del campo de concent
 
 ## Las relaciones tormentosas de Nicolás
 
-![El trío amoroso que terminó en un linchamiento social para nicolás Petro, el primogénito de Petro.](./Laura_Day_Nico.jpg)
+![El trío amoroso que terminó en un linchamiento social para nicolás Petro, el primogénito de Petro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-doble-crucifixion-del-primogenito-de-petro-me-han-dado-la-espalda-ii/Laura_Day_Nico.jpg)
 *El trío amoroso que terminó en un linchamiento social para Nicolás Petro.*
 
 De hecho, las relaciones tormentosas de Nicolás no terminarán con este episodio de **Day Vásquez**. La primera consecuencia es que se siente linchado social y moralmente. Pero, el amor de hoy surgido de una trilogía amorosa, tendrá también sus consecuencias en poco tiempo. La despampanante actriz y modelo **Laura Ojeda,** la pareja del primogénito de Petro que está embarazada, en abril de 2022, en la foto del post subido por Day Vásquez para celebrar su tercer aniversario de matrimonio con Nico, les dijo:

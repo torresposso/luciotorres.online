@@ -5,10 +5,10 @@ pubDate: "2026-01-03 18:52:45"
 author: "Lucio"
 categories: ["Destacadas","Opinión"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/maduro-encadenado-el-trofeo-de-la-doctrina-monroe/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/maduro-encadenado-el-trofeo-de-la-doctrina-monroe/hero.jpg)
 *¿Trump irá por Petro? La captura la justificarán con pruebas endeble.*
 
 ¿Trump irá por Petro o por el control geopolítico del Caribe y América del Sur? Ahora el gobierno norteamericano, envalentonado con la captura de **Nicolás Maduro**, no tendrá frenos para atrapar a aquellos disidentes de su sistema de poder que intenten retarlo. Su táctica empieza con una narrativa de lucha contra el narcotráfico como pretexto. Sus intereses oscuros ocultan su verdadera motivación. Pero Trump mostró sus verdaderos intereses: Desea las grandes reservas de petróleo y de otros recursos naturales de la Pequeña Venecia, como la llamó Américo Vespucio.
@@ -75,7 +75,7 @@ El objetivo no es simplemente capturar mañana. Es **doblegar**, **condicionar
 
 ## El llamado de la historia
 
-![](./Maduro-encadenado.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/maduro-encadenado-el-trofeo-de-la-doctrina-monroe/Maduro-encadenado.jpeg)
 *Primera imagen de Maduro encadenado*
 
 Frente a ese acoso en días anteriores, Petro respondió desde la diplomacia. Llamó a consultas a su embajador en Washington y elevó su discurso en defensa del Sur global. Su postura no es caprichosa: se ancla en un principio fundante del derecho internacional. Ningún Estado puede usar la fuerza —directa o indirecta— para alterar el sistema político de otro.

@@ -5,10 +5,10 @@ pubDate: "2023-05-16 21:27:55"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/comprobado-jorge-40-un-embustero-en-la-jep/"./hero.jpg"
 ---
 
-![«Jorge 40», un embustero en la JEP. Ni verdad ni arrepentimiento.](./hero.jpg)
+![«Jorge 40», un embustero en la JEP. Ni verdad ni arrepentimiento.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/comprobado-jorge-40-un-embustero-en-la-jep/hero.jpg)
 *«Jorge 40», un embustero en la JEP. Ni verdad ni arrepentimiento.*
 
 Un embustero en la JEP. Se comprobó la tesis del análisis publicado por **VoxPopuli Digital** durante la **audiencia única** para definir la admisión de Rodrigo Tovar Pupo en la JEP que quiso convertirla en un show especial de _**Yo me llamo «Jorge 40»**_. En efecto, por falta a la verdad, **este 15 de mayo fue inadmitido Rodrigo Tovar Pupo, uno de los jefes del _paramilitarismo_ que tanto daño le hizo y le hace al Caribe y a Colombia**. Además, este jefe de los _escuadrones de la muerte_ perdió la oportunidad de aportar efectivamente a la verdad de **miles de crímenes**. Los familiares de estas víctimas fatales esperaban saber dónde están sus desaparecidos, o cómo y quiénes mataron a sus padres, hijos o esposos.
@@ -21,7 +21,7 @@ Nuestros lectores se preguntarán por qué acertamos en nuestros análisis desde
 
 ## Un embustero en la JEP perdió su última oportunidad
 
-![«Jorge 40», el Papas o Rodrigo Tovar Pupo, un embustero en la JEP.](./Jorge-40-El-Papa.jpg)
+![«Jorge 40», el Papas o Rodrigo Tovar Pupo, un embustero en la JEP.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/comprobado-jorge-40-un-embustero-en-la-jep/Jorge-40-El-Papa.jpg)
 *«Jorge 40», el Papas o Rodrigo Tovar Pupo, un embustero en la JEP. Aquí tiene cara de yo no fui. (Foto BBC).*
 
 Con esta decisión, **«Jorge 40»** no tendrá otra oportunidad. No podrá tener libertad condicional ni todas las prerrogativas que tienen los criminales cuando se someten a la **justicia alternativa**. No podrá seguir dirigiendo sus negocios en forma directa. Tendrá que seguir valiéndose de terceros. Todos los procesos criminales como jefe de los escuadrones de la muerte que tiene vivo en Colombia, deben continuar. Sin embargo, deberá responder por el holocausto causado en la guerra paramilitar donde practicó y practica un **clientelismo armado**. Sus bienes, que sobrepasan los **$10 billones**, según expertos, deberán ser efectivamente extinguidos.
@@ -32,7 +32,7 @@ No obstante, la única manera de que **«Jorge 40»** sufra efectivamente las co
 
 ## De Tovar Pupo a Mancuso
 
-![Un embustero en la JEP. Danilo Rueda, Alto Comisionado de Paz, fue el principal animador de «Jorge 40». Su asesor, Alias el Gordo, es el mismo lugarteniente de Rodrigo Tovar Pupo en los tiempos de guerra en Barranquilla.](./Yo_soy_Jorge_40_Portada.jpg)
+![Un embustero en la JEP. Danilo Rueda, Alto Comisionado de Paz, fue el principal animador de «Jorge 40». Su asesor, Alias el Gordo, es el mismo lugarteniente de Rodrigo Tovar Pupo en los tiempos de guerra en Barranquilla.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/comprobado-jorge-40-un-embustero-en-la-jep/Yo_soy_Jorge_40_Portada.jpg)
 *Un embustero en la JEP. Danilo Rueda, Alto Comisionado de Paz, fue el principal animador de «Jorge 40». Su asesor, Alias el Gordo, es el mismo lugarteniente de Rodrigo Tovar Pupo en los tiempos de guerra en Barranquilla.*
 
 Contrario a Mancuso, **«Jorge 40»** nunca perdió el contacto con la mayoría de su cadena de testaferros que se convirtieron en ricos y poderosos empresarios llamados **«Los Intocables»**, como **Darío Laino Scopetta** (**«**Ojitos Azules**»**), **Alfonso Macías** (**«**Comandante M-1**»**), **Rafael Matera Lajud** (**«**Comandante 300**»**), **Everth Pernet**, quien sobrevivió a un atentado realizado recientemente en el norte de Barranquilla. (Leer: [¿Quién mandó a matar a Perneth Caicedo, testaferro de «Jorge 40»? (I)](/articulos/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/)\]. Tampoco con el bajo mundo de la delincuencia. **«**La banda de los 40**»** estaba ligada con sus antiguos hombres de confianza de los años de guerra de **«Jorge 40»**. Alias **«Salomón»**, su segundo al mando en la cúpula militar, fue jefe de esa banda que impuso el terror en Barranquilla y en otras zonas del Caribe. Luego llegaron Los Paisas y Los Nevados y acabaron con ese reinado en el bajo mundo. Hoy, el problema de **«Jorge 40»** es con los Vegas.
@@ -41,7 +41,7 @@ Si Mancuso se alejó de las bandas armadas y de sus antiguos aliados políticos 
 
 ## La orden de muerte de **«Jorge 40»**
 
-![Frente a un pedido urgente de Fiscalía y de la Defensoría del Pueblo para atender el clamor de este periodista por las amenazas serias de muerte, no ha sido atendido por el director de la UNP, Augusto Rodríguez. ¿Este es el gobierno de la vida? Un embustero en la Jep.](./UNP_Augusto-Rodriguez-y-la-UNP.jpeg)
+![Frente a un pedido urgente de Fiscalía y de la Defensoría del Pueblo para atender el clamor de este periodista por las amenazas serias de muerte, no ha sido atendido por el director de la UNP, Augusto Rodríguez. ¿Este es el gobierno de la vida? Un embustero en la Jep.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/comprobado-jorge-40-un-embustero-en-la-jep/UNP_Augusto-Rodriguez-y-la-UNP.jpeg)
 *Frente a un pedido urgente de Fiscalía y de la Defensoría del Pueblo para atender el clamor de este periodista por las amenazas serias de muerte, no ha sido atendido por el director de la UNP, Augusto Rodríguez. ¿Este es el gobierno de la vida?*
 
 Ante esa evidente realidad, como periodista sobreviviente a la orden de muerte de **«Jorge 40»** decretada en 1999 y que aparece en varios procesos judiciales, presento públicamente mi temor de que reactive esa orden criminal. No es extraño que cuando comencé a publicar el seriado denominado [El retorno de «Jorge 40», sus aliados y sus muertos](/articulos/el-retorno-de-jorge-40-sus-aliados-y-sus-muertos/),recibí amenazas y seguimientos sospechosos en el Magdalena.

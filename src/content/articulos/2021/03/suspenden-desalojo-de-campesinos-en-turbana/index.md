@@ -5,14 +5,14 @@ pubDate: "2021-03-08 23:13:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/suspenden-desalojo-de-campesinos-en-turbana/"./hero.jpg"
 ---
 
 Suspenden desalojo de campesinos en Turbana. La medida fue adoptada por medio de auto de tutela No 057 de 2021 emitida por el Juez Promiscuo del Circuito de Turbaco que conoce en segunda instancia el caso de los campesinos de Cachenche.
 
 A pesar de reuniones entre la gobernación de Bolívar, la Defensoría del Pueblo y representantes de campesinos que ocupan la finca Cachenche, la Sociedad de Activos Especiales-SAE persistió en desalojarlos de esos predios este miércoles 10 de marzo. Pero la medida quedó suspendida hasta cuando se adopte una decisión de fondo de la tutela.
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/suspenden-desalojo-de-campesinos-en-turbana/hero.jpg)
 *Suspenden desalojo de la finca de Cachenche. El presidente del sindicato de campesinos Enaldo con el gobernador de Bolívar, Vicente Blel, quien busca ser mediador de este conflicto.*
 
 Esta es la decisión del Juez Promiscuo del Circuito de Turbaco dentro de la tutela que tiene de referencia 13836-31-89-001-2021-00057-00 :
@@ -23,7 +23,7 @@ Esta es la decisión del Juez Promiscuo del Circuito de Turbaco dentro de la tut
 
 ## Suspenden desalojo de 220 familias campesinas
 
-![](./cachenche-2.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/suspenden-desalojo-de-campesinos-en-turbana/cachenche-2.jpeg)
 *La SAE ejerce cualquier tipo de hostigamiento contra los campesinos de Cachenche.*
 
 Cachenche es una finca de aproximadamente 60 hectáreas que pasó a la SAE por estar en un proceso de extinción del dominio. Se ha planteado una serie de ilegalidades en la tradición de la finca que la misma SAE debe aclarar.

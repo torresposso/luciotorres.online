@@ -5,10 +5,10 @@ pubDate: "2024-08-16 02:24:03"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/air-y-afinia-la-gran-estafa-renegociacion-tarifaria-i/"./hero.jpg"
 ---
 
-![El ministro de Minas y Energías y el gobernador Eduardo Verano de la Rosa. Air―e y Afinia ¿se prepara una nueva gran estafa?](./hero.jpg)
+![El ministro de Minas y Energías y el gobernador Eduardo Verano de la Rosa. Air―e y Afinia ¿se prepara una nueva gran estafa?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/air-y-afinia-la-gran-estafa-renegociacion-tarifaria-i/hero.jpg)
 *El ministro de Minas y Energías y el gobernador Eduardo Verano de la Rosa. Air―e y Afinia ¿se prepara una nueva gran estafa?*
 
 La creación de Air―e y Afinia fue un mal negocio para los usuarios y el Estado colombiano. ¿Ahora se prepara otra estafa en la que participan todos los estamentos que tienen que ver con la prestación del servicio de energía eléctrica domiciliaria? Hoy, 17 de agosto, se deben reunir los comercializadores con los generadores para buscar una salida a los problemas que la región Caribe afronta: mal servicio y altas tarifas. Hace una semana hubo una cumbre de gobernadores costeños con los empresarios y el ministro de Minas y Energías, Andrés Camacho.
@@ -19,7 +19,7 @@ El 10 de agosto, luego de esa cumbre de la cual fue su protagonista, el gobernad
 
 ## ¿Una falsa esperanza?
 
-![Air―e y Afinia ¿se prepara una nueva gran estafa?](./cumbre-de-gobernadores-1024x634.jpeg)
+![Air―e y Afinia ¿se prepara una nueva gran estafa?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/air-y-afinia-la-gran-estafa-renegociacion-tarifaria-i/cumbre-de-gobernadores-1024x634.jpeg)
 *La Rap con algunos gobernadores de la región Caribe y el ministro de Minas y Energías. Air―e y Afinia ¿se prepara una nueva gran estafa?*
 
 ¿Esas febriles reuniones con nuevos actores y viejas mañas ―disfrazadas de **«medidas salvadoras»** como la renegociación tarifaria o [creación de una nueva empresa](https://www.atlantico.gov.co/index.php/noticias/gobernadora/24415-gobernadores-del-caribe-y-gobierno-nacional-confirman-creacion-de-la-empresa-energetica-del-caribe)― producirá una salida fallida? ¿Es una falsa esperanza para aplacar el malestar social producido por los negocios voraces del capitalismo sanguijuela? Cuando en 2020 le dieron los santos óleos a la otrora **Electricaribe**, gobernadores **charistas** como **Elsa Noguera de la Espriella** (Atlántico), y alcaldes, **como Jaime Pumarejo** (Barranquilla), prometieron que ―¡ahora sí!― se resolverían los racionamientos y altas tarifas de energía para el **Caribe colombiano**.

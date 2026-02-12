@@ -5,12 +5,12 @@ pubDate: "2019-11-21 12:43:41"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/cartagena-sin-alcalde-electo-y-por-que-pedrito-instalo-comision-de-empalme/"./hero.jpg"
 ---
 
 > _En una sociedad corrupta y de falsedad, la verdad es revolucionaria, y quienes la buscan, son perseguidos y crucificados. Pulitzer dijo que los periodistas deben alinearse con los débiles y no con los poderosos. Kapucinsky mostró _**«su preocupación por los sectores más desfavorecidos y por su independencia frente a presiones de todo signo, que han tratado de tergiversar su mensaje»**_._
 
-![](hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/cartagena-sin-alcalde-electo-y-por-que-pedrito-instalo-comision-de-empalme/hero.jpg)
 *El abrazo de Dau. En la primera reunión de la comisión de empalme. Cortesía.*
 
 Esta es la verdad electoral: Cartagena está sin alcalde electo. El preconteo de votos, donde **William Dau Chamat** obtuvo **113.627** y **William García Tirado** **102.708**, es un mero ejercicio informativo **sin valor jurídico**, según la Registraduría Nacional. Es más, existen cerca de 100 reclamaciones que podrían modificar los resultados electorales.

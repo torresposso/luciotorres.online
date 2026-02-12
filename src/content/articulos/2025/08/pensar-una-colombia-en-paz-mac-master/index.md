@@ -5,10 +5,10 @@ pubDate: "2025-08-18 01:57:45"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/pensar-una-colombia-en-paz-mac-master/"./hero.jpg"
 ---
 
-![«Pensar una Colombia en paz» con Luis Carlos Sarmiento, uno de los zares del sistema financiero colombiano.](./hero.jpg)
+![«Pensar una Colombia en paz» con Luis Carlos Sarmiento, uno de los zares del sistema financiero colombiano.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/pensar-una-colombia-en-paz-mac-master/hero.jpg)
 *«Pensar una Colombia en paz» con Luis Carlos Sarmiento, uno de los zares del sistema financiero colombiano. Aquí recibe la medalla al «Orden del Mérito Empresarial José Gutiérrez Gómez». Foto Andi.*
 
 En el cierre del **Décimo Congreso Empresarial de la Andi** **2025**, su presidente, el cartagenero **Bruce Mac Master** **Rojas**, invitó a **«pensar en una Colombia en paz»**. O sea, **«el país que merece cada niño, cada joven y cada trabajador»**. El discurso que representa a los grandes conglomerados del país merece ser desmenuzado a la luz del pensamiento crítico. Un pensamiento libre de las ataduras ideológicas y polarizante que domina el debate prelectoral colombiano, incluso, atrapó a la misma Andi.
@@ -43,7 +43,7 @@ Según el Censo Nacional Agropecuario (2014), el 0.4% de las Unidades Productiva
 
 ## Equilibrio social
 
-![El discurso de cierre de Bruce Mac Master representa a los grandes conglomerados del país que representan el poder real. Foto Andi.](./Bruce-1024x682.jpeg)
+![El discurso de cierre de Bruce Mac Master representa a los grandes conglomerados del país que representan el poder real. Foto Andi.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/pensar-una-colombia-en-paz-mac-master/Bruce-1024x682.jpeg)
 *El discurso de cierre de Bruce Mac Master, presidente de la Andi, representa a los grandes conglomerados del país que son el poder real. Foto Andi.*
 
 La falta de libertad económica, que va más allá de la libertad de competencia, produce desequilibrio social. La libertad es un derecho fundamental que en economía se hace vital, ya que es la base material de todos los demás derechos. Esto se convierte en un problema estructural que impide el crecimiento espectacular de la economía, profundiza la pobreza y amplía la desigualdad.

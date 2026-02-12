@@ -5,7 +5,7 @@ pubDate: "2020-03-06 11:53:57"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/sin-el-traidor-de-judas-jesus-no-hubiera-cumplido-su-mision/"./hero.jpg"
 ---
 
 _Pero yo os digo: **Amad a vuestros enemigos**, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen._ (Mateo 5:44)
@@ -14,7 +14,7 @@ https://youtu.be/GLfMdpv\_\_ZY **Sin el traidor de Judas, Jesús no se hubiese s
 
 ## Sin judas, Jesús no hubiese lavado nuestros pecados
 
-![A pesarde la amenazas de muerte, vivo a plenitud mi vida](./hero.jpg)Cuenta la Biblia que Saúl quedó intimidado. Pero surgió un joven, el menor de 8 hermanos, y se paró en la raya. Se encomendó a Dios. Escogió bien su arma, una cauchera (honda) y varias piedras. Y se enfrentó al gigante Goliat. Le dió duro a la cabeza con una piedra que había disparado con ardor. El gigante se desplomó como si fuera un árbol frondoso. **La gloria era de Dos, la victoria era de David**. **A veces los enemigos te edifican.** Y aquí entiendo la palabra del Nazareno al decir que debemos amar y orar por nuestros enemigos. **Yo oro por los esposos Arrázola.** Esta intercesión  espiritual la hago con sinceridad. Y me ha funcionado. Hoy soy más fuerte. Mi espíritu se ha fortalecido. Mi mente también. En términos materiales, **estoy mejor que cuando los Arrázola comenzaron la persecución contra este periodista.**
+![A pesarde la amenazas de muerte, vivo a plenitud mi vida](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/sin-el-traidor-de-judas-jesus-no-hubiera-cumplido-su-mision/hero.jpg)Cuenta la Biblia que Saúl quedó intimidado. Pero surgió un joven, el menor de 8 hermanos, y se paró en la raya. Se encomendó a Dios. Escogió bien su arma, una cauchera (honda) y varias piedras. Y se enfrentó al gigante Goliat. Le dió duro a la cabeza con una piedra que había disparado con ardor. El gigante se desplomó como si fuera un árbol frondoso. **La gloria era de Dos, la victoria era de David**. **A veces los enemigos te edifican.** Y aquí entiendo la palabra del Nazareno al decir que debemos amar y orar por nuestros enemigos. **Yo oro por los esposos Arrázola.** Esta intercesión  espiritual la hago con sinceridad. Y me ha funcionado. Hoy soy más fuerte. Mi espíritu se ha fortalecido. Mi mente también. En términos materiales, **estoy mejor que cuando los Arrázola comenzaron la persecución contra este periodista.**
 
 ## **Judas hizo que Jesús cumpliera su misión**
 

@@ -5,7 +5,7 @@ pubDate: "2020-03-08 15:23:57"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/la-mujer-perpetua-el-poder-machista-feliz-dia-internacional-de-la-mujer/"./hero.jpg"
 ---
 
 [Tú me dijiste:](https://genius.com/Alfonsina-storni-peso-ancestral-annotated#note-11578250) no lloró mi padre; tú me dijiste: no lloró mi abuelo; no han llorado los hombres de mi raza, eran de acero. (**Alfonsina Storni-Peso ancestral**)

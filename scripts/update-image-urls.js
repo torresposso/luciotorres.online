@@ -8,7 +8,7 @@ import { readFileSync, writeFileSync, readdirSync } from "fs";
 import { join } from "path";
 import { fileURLToPath } from "url";
 
-const BUCKET_URL = process.env.PUBLIC_IMAGE_URL || "https://storage.railway.app/your-bucket";
+const BUCKET_URL = process.env.PUBLIC_IMAGE_URL || "https://bundled-saddlebag-tnqki7w.t3.storageapi.dev";
 const CONTENT_DIR = join(process.cwd(), "src/content/articulos");
 
 function* walkDir(dir) {

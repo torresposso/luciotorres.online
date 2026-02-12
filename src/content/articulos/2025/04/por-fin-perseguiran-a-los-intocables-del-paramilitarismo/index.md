@@ -5,10 +5,10 @@ pubDate: "2025-04-06 15:31:45"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/por-fin-perseguiran-a-los-intocables-del-paramilitarismo/"./hero.jpg"
 ---
 
-![¿Perseguirán a «Los Intocables»? Esta vez hay una orden de trabajo para perseguir los bienes de «Los Intocables».](./hero.jpg)
+![¿Perseguirán a «Los Intocables»? Esta vez hay una orden de trabajo para perseguir los bienes de «Los Intocables».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/por-fin-perseguiran-a-los-intocables-del-paramilitarismo/hero.jpg)
 *¿Perseguirán a «Los Intocables»? Esta vez hay una orden de trabajo para perseguir los bienes de «Los Intocables».*
 
 ¿Perseguirán a «Los Intocables», que fueron auspiciadores, financiadores y beneficiarios del paramilitarismo durante dos décadas de empresa criminal? Un mes después de que el magistrado de la Sala de Justicia y Paz del Tribunal Superior de Barranquilla, **José Haxel de la Pava Maralunda**, les compulsara copia, la **Fiscalía Especializada No 152** de apoyo al Tribunal de Justicia Transicional de Bogotá emitió la **orden de trabajo No 12385**. Se espera que con esta decisión se persiga los bienes de terceros responsables señalados por los comandantes de las Autodefensas unidas de Colombia-AUC.

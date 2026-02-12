@@ -5,10 +5,10 @@ pubDate: "2020-08-02 00:37:22"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/se-debe-elegir-nuevo-contralor-distrital-ante-la-suspension-provisional-del-elegido/"./hero.jpg"
 ---
 
-\[caption id="attachment\_12250" align="aligncenter" width="800"\]![](./david-caballero.jpeg) **David Caballero, presidente del Concejo de Cartagena**, debe convocar a plenaria para **revocar la elección de Héctor Consuegra** como contralor Distrital. Cortesía Concejo.\[/caption\] ¿Se debe seguir la elección de contralor Distrital ante la inhabilidad del elegido, **Héctor Consuegra Salinas,** y la suspensión provisional de su **acto de elección** por parte del **Tribunal Administrativo de Bolívar-TAB**? **¡Si! ¿Se debe esperar hasta que termine el proceso jurídico de nulidad electoral? ¡No! Se debe seguir el proceso de elección del contralor**. Lo que judicialmente está suspendido es el acto de elección y no el proceso mismo. Este análisis periodístico de la nueva situación del proceso de elección del contralor Distrital de Cartagena se hace con el fin de orientar a la opinión para que tome parte en el debate y solicite al concejo que convoque a **audiencia ciudadana**. Presentaremos una argumentación jurídica basada en la arquitectura de la normatividad constitucional, legal y de la administración pública.
+\[caption id="attachment\_12250" align="aligncenter" width="800"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/se-debe-elegir-nuevo-contralor-distrital-ante-la-suspension-provisional-del-elegido/david-caballero.jpeg) **David Caballero, presidente del Concejo de Cartagena**, debe convocar a plenaria para **revocar la elección de Héctor Consuegra** como contralor Distrital. Cortesía Concejo.\[/caption\] ¿Se debe seguir la elección de contralor Distrital ante la inhabilidad del elegido, **Héctor Consuegra Salinas,** y la suspensión provisional de su **acto de elección** por parte del **Tribunal Administrativo de Bolívar-TAB**? **¡Si! ¿Se debe esperar hasta que termine el proceso jurídico de nulidad electoral? ¡No! Se debe seguir el proceso de elección del contralor**. Lo que judicialmente está suspendido es el acto de elección y no el proceso mismo. Este análisis periodístico de la nueva situación del proceso de elección del contralor Distrital de Cartagena se hace con el fin de orientar a la opinión para que tome parte en el debate y solicite al concejo que convoque a **audiencia ciudadana**. Presentaremos una argumentación jurídica basada en la arquitectura de la normatividad constitucional, legal y de la administración pública.
 
 ## La demanda
 
@@ -28,7 +28,7 @@ Señala el magistrado Villalobos que «la medida cautelar de suspensión provisi
 
 ## Proceso y acto administrativo
 
-\[caption id="attachment\_12251" align="alignleft" width="274"\]![](./rafael-hoyos-e1596328496353.jpeg) Rafael Hoyos, abogado.\[/caption\] En la gestión pública el proceso administrativo se diferencia del acto administrativo. **Rafael Hoyos**, uno de los juristas reconocidos en esta área, consultado por este periodista para resolver esta duda, dijo:
+\[caption id="attachment\_12251" align="alignleft" width="274"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/se-debe-elegir-nuevo-contralor-distrital-ante-la-suspension-provisional-del-elegido/rafael-hoyos-e1596328496353.jpeg) Rafael Hoyos, abogado.\[/caption\] En la gestión pública el proceso administrativo se diferencia del acto administrativo. **Rafael Hoyos**, uno de los juristas reconocidos en esta área, consultado por este periodista para resolver esta duda, dijo:
 
 > _**«Una cosa es un proceso administrativo y otra cosa es una decisión administrativa.** El primero es una serie de pasos o fases que se van agotando. Cuando una autoridad judicial ordena la suspensión de un proceso administrativo, **no pueden seguir los pasos del mismo hasta que no haya una decisión de fondo**. Por ejemplo, que diga suspenda el proceso. En el caso de la elección del contralor Distrital no se ha ordenado la suspensión del proceso. **Lo que está suspendido es el acto de elección**. Por tanto, el concejo puede y debe revocar la decisión mediante el cual ordenó la elección del contralor»._ 
 

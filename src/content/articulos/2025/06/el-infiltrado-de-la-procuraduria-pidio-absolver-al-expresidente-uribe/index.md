@@ -5,10 +5,10 @@ pubDate: "2025-06-29 02:45:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-infiltrado-de-la-procuraduria-pidio-absolver-al-expresidente-uribe/"./hero.jpg"
 ---
 
-![«El infiltrado» de la Procuraduría pidió absolver al expresidente Uribe ](./hero.jpg)
+![«El infiltrado» de la Procuraduría pidió absolver al expresidente Uribe ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-infiltrado-de-la-procuraduria-pidio-absolver-al-expresidente-uribe/hero.jpg)
 *«El infiltrado» de la Procuraduría pidió absolver al expresidente Uribe*
 
 Lo dicho, **Bladimir Cuadro Crespo**, como procurador delegado, era «el infiltrado» de la defensa del expresidente **Álvaro Uribe Vélez**. Este viernes 27 de junio, **la defensa dio el zarpazo final por intermedio del Procurador Delegado que pidió** ―sin recato alguno― **su absolución** en el juicio que llegó a su etapa de alegatos finales.
@@ -19,7 +19,7 @@ En efecto, la predicción la hizo en Semana Santa **VoxPopuli Digital** con la p
 
 ## ¿El comienzo del fin?
 
-![](./alvaro_uribe_velez_0-e1597454280872.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-infiltrado-de-la-procuraduria-pidio-absolver-al-expresidente-uribe/alvaro_uribe_velez_0-e1597454280872.jpg)
 *El «el infiltrado» pidió absolución para darle un respiro a Uribe en su suplicio.*
 
 Es el comienzo del fin del juicio. Pero ¿será el comienzo del fin de la Era Uribe y de todos Los Intocables del paramilitarismo? Salvo que haya algo torcido, siguiendo de cerca el juicio, terminará seguramente con una condena contra el expresidente Uribe. Esta predicción parte de un análisis riguroso de las pruebas y argumentación de la Fiscalía y de los abogados de las víctimas.
@@ -84,7 +84,7 @@ El Ministerio Público actúa como garante de la legalidad. Representa a la soci
 
 ## El argumento de las víctimas
 
-![](./Ivan_cepeda.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-infiltrado-de-la-procuraduria-pidio-absolver-al-expresidente-uribe/Ivan_cepeda.jpg)
 *Uribe quiso impedir avance de su juicio criminal. Pero su estrategia no le funcionó.*
 
 Para **Iván Cepeda Castro** fue probado en el juicio oral tres importantes conclusiones:

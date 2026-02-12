@@ -5,10 +5,10 @@ pubDate: "2023-11-11 03:14:57"
 author: "Lucio"
 categories: ["Análisis","Política"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-alcalde-requeteloca-que-baile-para-atras-ii/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-alcalde-requeteloca-que-baile-para-atras-ii/hero.jpg)
 
 Que el alcalde de Cartagena **William Dau Chamat** sea una _mariquita empolvada_, «baile p'a atrás» o haga parte del paquete **LGTBI+**, no le incumbiría a ninguno de los ciudadanos. Que sea un _ilustre_ _maricón_ o un _alcalde requeteloca_, no es un problema de ciudad ¡es su vida privada! Pensar lo contrario sería **xenofobia**. Pero, que se fume un kilo de bazuco con marihuana y tabaco y la ciudad esté «patas p'a arriba», esto sí debería pellizcarnos. No es moralismo. Es un problema de salud mental que debemos asumir con seriedad. ¿Por qué?
 
@@ -40,7 +40,7 @@ Allí mismo se dijo:
 
 La victoria la celebraron con cerveza, wiskey y humo, mucho humo, en el departamento de un amigo de él que cargaba una botella de oxigeno por su adicción a mariacachafa. La presunta demencia de William Dau quedó retratada en la primera Fiesta de la Independencia como alcalde electo. Hace cuatro año esta fue su fotografía icónica con su gran amiga Judith Pinedo Flórez, la Mariamulata:
 
-![](./William-Dau_Mariamulata.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-alcalde-requeteloca-que-baile-para-atras-ii/William-Dau_Mariamulata.jpg)
 *Dau y Mariamulata, foto tomada en las fiestas de la Independencia 2019.*
 
 Te puede interesar: [Un buitre de corto vuelo. Dau, alcalde electo. Derrotadas las maquinarias](/articulos/dau-un-buitre-de-corto-vuelo-alcalde-de-cartagena/)

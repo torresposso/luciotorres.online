@@ -5,10 +5,10 @@ pubDate: "2024-01-15 05:00:08"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/los-presidentes-de-la-gata-quien-llorara-por-enilce-lopez-i/"./hero.jpg"
 ---
 
-![Los presidentes de la Gata. Cuando Gaviria fue candidato, lo primero que hizo fue preguntar por La Gata. Así hizo Andrés Pastrana, Ernesto Samper y Uribe, ¿Santos, Iván Duque y Petro?<](./hero.jpg)
+![Los presidentes de la Gata. Cuando Gaviria fue candidato, lo primero que hizo fue preguntar por La Gata. Así hizo Andrés Pastrana, Ernesto Samper y Uribe, ¿Santos, Iván Duque y Petro?<](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/los-presidentes-de-la-gata-quien-llorara-por-enilce-lopez-i/hero.jpg)
 *Los presidentes de la Gata. Cuando Gaviria fue candidato, lo primero que hizo fue preguntar por La Gata. Así hizo Andrés Pastrana, Ernesto Samper y Uribe, ¿Santos, Iván Duque y Petro?*
 
 Ninguno de los presidentes de «la Gata» fueron a su funeral. ¿Quién llorará por ella? ¿Álvaro Uribe Vélez, César Gaviria, Andrés Pastrana? Son **algunos de los presidentes que fueron financiados con dineros de **Enilce López Romero****, conocida desde los 90 como «la Gata». Cada aporte significaba una foto con ella, ya sea en su oficina improvisada o en su casa. Hoy, dejó de existir, para alivio de algunos y tristeza para muchos. Y ahora se ampliará **el mito que en vida construyó** con sus obras sociales y con una fortuna, cuyo monto es desconocido.
@@ -22,7 +22,7 @@ Te puede interesar: [«Los pillos buena gente» de la Corte y la libertad de Art
 ## El pésame
 
 ![Estuvimos este   14 de enero de 2024 cuando velaban el cuerpo de Enilce López Romero.
-](./Lucio_funerales-delagata-1024x567.jpg)
+](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/los-presidentes-de-la-gata-quien-llorara-por-enilce-lopez-i/Lucio_funerales-delagata-1024x567.jpg)
 *Estuvimos este 14 de enero de 2024 cuando velaban el cuerpo de Enilce López Romero.*
 
 Viajé a Barranquilla para tener una percepción más cercana de los funerales de esta matrona magangueleña a quien solo vi cuando era un niño en el barrio Baracoa de Magangué. Allí vivía mi tía J**osefa Moreno**, popularmente conocida como la _Mona Colón_. Su hija mayor, Inés Barros, quien también se había casado con un policía, era muy amiga de Enilce López en sus tiempos de juventud.
@@ -53,7 +53,7 @@ Su paso a la eternidad estuvo matizado por el padecimiento de una multiplicidad 
 
 ## Buscando prosperidad
 
-![El abrazo del candidato Álvaro Uribe Vélez a quien le aportaron $2 mil millones en 2002. Los ](./Enilce_uribe.jpg)
+![El abrazo del candidato Álvaro Uribe Vélez a quien le aportaron $2 mil millones en 2002. Los ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/los-presidentes-de-la-gata-quien-llorara-por-enilce-lopez-i/Enilce_uribe.jpg)
 *El abrazo del candidato Álvaro Uribe Vélez a quien le aportaron $2 mil millones en 2002. El presidente reiteró hoy que fueron solo $100 millones.*
 
 Siendo menor de edad llegó al barrio Baracoa de Magangué. De _muchacha del servicio_ pasó a ser administradora y, luego, dueña de la sucursal de Discolombia. ¡Era imparable! Su belleza exótica encantó a más de uno. Cuando se acicalaba, con su minifalda paralizaba el tránsito en la Calle de las Damas. Transcurría los años 70 que expresaba el espíritu del romanticismo y de la paz hippy. "Amor es ..."
@@ -84,4 +84,4 @@ El último **reporte oficial de la salud de López se conoció en 2018. En ese 
 
 ¿Quién llorará por esta mujer? En la próxima entrega se dirá. Dios ¡Todopoderoso! le perdone sus pecados y le conceda paz en su tumba.
 
-![](./enilce-lopez.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/los-presidentes-de-la-gata-quien-llorara-por-enilce-lopez-i/enilce-lopez.jpg)

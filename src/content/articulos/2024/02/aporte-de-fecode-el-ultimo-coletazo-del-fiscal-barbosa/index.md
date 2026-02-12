@@ -5,10 +5,10 @@ pubDate: "2024-02-04 03:31:25"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/aporte-de-fecode-el-ultimo-coletazo-del-fiscal-barbosa/"./hero.jpg"
 ---
 
-![Aporte de Fecode ¿el último coletazo del fiscal Barbosa?](./hero.jpg)
+![Aporte de Fecode ¿el último coletazo del fiscal Barbosa?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/aporte-de-fecode-el-ultimo-coletazo-del-fiscal-barbosa/hero.jpg)
 *Aporte de Fecode ¿el último coletazo del fiscal Barbosa?*
 
 El cerco al presidente Petro se estrecha cada día más. Está contra la pared. Espera con desespero el cambio en la Fiscalía. El caso del aporte de **Fecode** ―Federación Colombiana de Educadores― por **$500 millones** a su campaña, es uno de los procesos judiciales de la Fiscalía General con imputación de cargos contra personas cercanas al Jefe de Estado. Las compulsas de copia a la **Comisión de Acusaciones**, lo dice todo. La finalidad, sin duda, **es lograr un juicio político contra el Presidente para ¡tumbarlo por la vía institucional!**

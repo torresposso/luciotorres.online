@@ -5,10 +5,10 @@ pubDate: "2023-05-07 02:18:34"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/petro-logro-que-espana-apoye-reformas-y-paz-total/"./hero.jpg"
 ---
 
-![España apoya reformas y Paz Total de Petro.Aquí el presidente de Colombia Gustavo con su homólogo de España Pedro Sánchez/Pool Moncloa / Borja Puig de la Bellacasa](./hero.jpg)
+![España apoya reformas y Paz Total de Petro.Aquí el presidente de Colombia Gustavo con su homólogo de España Pedro Sánchez/Pool Moncloa / Borja Puig de la Bellacasa](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/petro-logro-que-espana-apoye-reformas-y-paz-total/hero.jpg)
 *España apoya reformas y Paz Total de Petro.Aquí el presidente de Colombia Gustavo con su homólogo de España Pedro Sánchez/Pool Moncloa / Borja Puig de la Bellacasa*
 
 El presidente colombiano **Gustavo Petro Urrego** logró que **España apoye a sus reformas sociales**, a las políticas de transición de energías limpias y, en especial, a la propuesta de _Paz Total_. El discurso de cooperación del mandatario colombiano, logró que su homólogo **Pedro Sánchez** respaldara como garante el proceso de paz con el ELN al cual **destinará 1 millón de euros** en este año.
@@ -25,7 +25,7 @@ Entre otras cosas, se fortalecieron las relaciones comerciales bilaterales que e
 
 ## La importancia de las relaciones bilaterales
 
-![España apoya reformas y Paz Total de Petro. La ministra de Educación y Formación Profesional, Pilar Alegría, la ministra de Educación Nacional de Colombia, Aurora Vergara, y el ministro de Universidades, Joan Subirats. Prensa La Moncloa](./Ministra-de-Educacion_Pilar-alegria_moncloa.jpg)
+![España apoya reformas y Paz Total de Petro. La ministra de Educación y Formación Profesional, Pilar Alegría, la ministra de Educación Nacional de Colombia, Aurora Vergara, y el ministro de Universidades, Joan Subirats. Prensa La Moncloa](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/petro-logro-que-espana-apoye-reformas-y-paz-total/Ministra-de-Educacion_Pilar-alegria_moncloa.jpg)
 *España apoya reformas y Paz Total de Petro. La ministra de Educación y Formación Profesional, Pilar Alegría, la ministra de Educación Nacional de Colombia, Aurora Vergara, y el ministro de Universidades, Joan Subirats. /Prensa La Moncloa.*
 
 El presidente Sánchez destacó la voluntad de ambos países de continuar trabajando en los temas que ya existe una **profunda cooperación**. Colombia es un socio de primera magnitud en importaciones y exportaciones. En la actualidad, **la inversión española en Colombia asciende a los 28.000 millones de euros.** El comercio bilateral se sitúa en los **3.000 millones**, explica el gobierno español.
@@ -42,7 +42,7 @@ Como se sabe, España es el séptimo socio comercial del país del latinoamerica
 
 ## Mitigar el cambio climático
 
-![Intervención del presidente Petro en Nueva Economía Fórum/Juan Diego Cano - Presidencia](./Petro_Espana_forum.jpg)
+![Intervención del presidente Petro en Nueva Economía Fórum/Juan Diego Cano - Presidencia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/petro-logro-que-espana-apoye-reformas-y-paz-total/Petro_Espana_forum.jpg)
 *Intervención del president e Petro en Nueva Economía Fórum_NEF/Juan Diego Cano - Presidencia*
 
 El presidente colombiano propuso una alianza sostenible entre Europa y América Latina basada en la energía limpia y en la producción económica descarbonizadas. El Mandatario intervino en un encuentro del centro de estudios **Nueva Economía Fórum**, realizado en Madrid este viernes 5 de mayo.

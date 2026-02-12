@@ -5,10 +5,10 @@ pubDate: "2025-04-28 12:12:13"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/radiografia-del-poder-mafioso-en-la-dian-se-retractara-rodriguez-zumaque-i/"./hero.jpg"
 ---
 
-![Así huye el sicario en la moto después del atentado contra Edgardo Fernández Martínez. Su hijastro hizo una radiografía del poder mafioso en la DIAN. ¿Se retractará Rodríguez Zumaque?](./hero.jpg)
+![Así huye el sicario en la moto después del atentado contra Edgardo Fernández Martínez. Su hijastro hizo una radiografía del poder mafioso en la DIAN. ¿Se retractará Rodríguez Zumaque?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/radiografia-del-poder-mafioso-en-la-dian-se-retractara-rodriguez-zumaque-i/hero.jpg)
 *Así huye el sicario en la moto después del atentado contra Edgardo Fernández Martínez. Su hijastro hizo una radiografía del poder mafioso en la DIAN. ¿Se retractará Rodríguez Zumaque?*
 
 ¿Se retractará Rodríguez Zumaque? Una fuente de entero crédito proveniente de la capital de la República **confirmó a VoxPopuli Digital** que el hijastro del alto funcionario de la DIAN de Barranquilla baleado el pasado 21 de abril, **se retractaría de su declaración juramentada y autenticada en notaría**. En esta declaración **Sergio Andrés Rodríguez Zumaque** describe un entramado de corrupción y manipulación de pruebas tras el atentado a bala que sufriera su padrastro **Edgardo Fernández Martínez**. El funcionario con más de 30 años en esa institución, se debate entre la vida y la muerte en la clínica Porto Azul al norte de esa ciudad.
@@ -19,7 +19,7 @@ Empecemos por formular varias preguntas orientadoras de este análisis investiga
 
 ## Solicitan traslado de caso
 
-![](./edgardo_fernandez-1024x601.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/radiografia-del-poder-mafioso-en-la-dian-se-retractara-rodriguez-zumaque-i/edgardo_fernandez-1024x601.jpeg)
 *Edgardo Fernández Martínez., gravemente herido en un atentado criminal del pasado 21 de abril de 2025./Cortesía.*
 
 Se reitera la pregunta: ¿Se retractará Rodríguez Zumaque? Ante la presión que fuerzas oscuras están haciendo para desviar la investigación y para que se retracte el familiar del directivo de la Dian de esa declaración que es **la radiografía del poder mafioso en la seccional de Barranquilla**, familiares de la víctima del atentado señalaron en un comunicado público:

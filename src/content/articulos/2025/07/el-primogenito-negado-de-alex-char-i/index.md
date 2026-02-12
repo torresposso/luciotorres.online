@@ -5,10 +5,10 @@ pubDate: "2025-07-10 11:20:55"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-primogenito-negado-de-alex-char-i/"./hero.jpg"
 ---
 
-![¿El primogénito negado de Alex Char? ](./hero.jpg)
+![¿El primogénito negado de Alex Char? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-primogenito-negado-de-alex-char-i/hero.jpg)
 *¿El primogénito negado de Alex Char? Aquí en el foro OCDE./prensa alcaldía.*
 
 El pasado 17 de junio **Steven Castellanos Ramos** quiso saber si su verdadero padre es **Alejandro Char Chaljub**. Ese día cumplió 33 años y su deseo no se hizo realidad. En febrero había viajado de Bogotá a Barranquilla donde duró casi dos semanas buscando hablar con su presunto padre. Nunca lo recibió a pesar de todos los mensajes que le dejó. Le cerraban las puertas en su nariz. Luego de que su madre le revelara el secreto de su paternidad, Steven decidió demandar para saber su filiación paternal y si es **el primogénito negado de Alex Char**.
@@ -41,7 +41,7 @@ Por otra parte, su abogado **Jaime Antonio Sánchez López**, también le inform
 
 ## La prueba de la mentira
 
-![Captura de pantalla del video subido por Juanda Caribe con el alcalde Alejandro Char y Teófilo Gutiérrez.](./Alex_char_estadio.jpg)
+![Captura de pantalla del video subido por Juanda Caribe con el alcalde Alejandro Char y Teófilo Gutiérrez.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-primogenito-negado-de-alex-char-i/Alex_char_estadio.jpg)
 *Captura de pantalla del video subido por Juanda Caribe con el alcalde Alejandro Char, su hijo Alejandro Char Jr, y Teófilo Gutiérrez . Fecha 6 de junio. Lugar: estadio Metropolitano.*
 
 Sin embargo, el **viernes 6 de junio a las 3:30 de la tarde**, al parecer, se encontraba bebiendo y festejando en el estadio Metropolitano con ocasión del partido de la selección de fútbol de Colombia contra Perú. Lo cierto es que estaba festejando con la farándula local, como consta en un video publicado ese día al lado del influencer **Juanda Caribe** y el futbolista **Teófilo Gutiérrez**.
@@ -64,7 +64,7 @@ Y desde hace más de un año, al conocer que es el primogénito de Alex Char, su
 
 ## El secreto ¿el primogénito negado?
 
-![En 1991, Alejandro Char aparece al lado de la madre del demandante de la primogenitura Diana Magali Ramos Saavedra.. El primogénito negado.](./Alex_char_26_anos-1024x580.jpg)
+![En 1991, Alejandro Char aparece al lado de la madre del demandante de la primogenitura Diana Magali Ramos Saavedra.. El primogénito negado.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-primogenito-negado-de-alex-char-i/Alex_char_26_anos-1024x580.jpg)
 *En 1991, Alejandro Char aparece al lado de la madre del demandante de la primogenitura Diana Magali Ramos Saavedra.*
 
 Cuando su madre conoció a **Alejandro Char** este había llegado en 1991 a Bogotá para seguir de cerca la construcción del **centro comercial Las Américas**. Ella trabajaba en **Inmobiliaria Char Ltda** y, al mismo tiempo, estudiaba por las noches ingeniería civil en la universidad La Gran Colombia.

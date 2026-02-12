@@ -5,10 +5,10 @@ pubDate: "2023-09-05 18:16:43"
 author: "Lucio"
 categories: ["Análisis","Entrevista"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/jacqueline-perea-el-tormento-de-dau/"./hero.jpg"
 ---
 
-![Aquí con Jacqueline Perea, una mujer con pantalones.](./hero.jpg)
+![Aquí con Jacqueline Perea, una mujer con pantalones.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/jacqueline-perea-el-tormento-de-dau/hero.jpg)
 *Aquí con Jacqueline Perea, una mujer con pantalones.*
 
 Son dos mujeres las pretendientes de ser alcaldesa de Cartagena de Indias. Una de ellas es **Janqueline Perea Blanco**. Se hace llamar jocosamente _la mujer con pantalones_. Es una manera de expresar la falta de autoridad reinante, especialmente del alcalde actual, la peor pesadilla que desde hace 3 años y 8 meses viene soportando la _Ciudad Heroica_.

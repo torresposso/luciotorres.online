@@ -5,16 +5,16 @@ pubDate: "2021-05-08 15:47:44"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/estos-son-los-37-muertos-en-el-paro-nacional/"./hero.jpg"
 ---
 
-\[caption id="attachment\_14874" align="aligncenter" width="960"\]![](./hero.jpg) Un velatón por los 37 muertos. Facebook.\[/caption\]  
+\[caption id="attachment\_14874" align="aligncenter" width="960"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/estos-son-los-37-muertos-en-el-paro-nacional/hero.jpg) Un velatón por los 37 muertos. Facebook.\[/caption\]  
 
 Ya van 37 muertos en el Paro Nacional. Cuando se presenta una situación como la que se originó en rechazo de la Reforma Tributaria, se puede analizar sus causas, pero jamás predecir la dimensión de sus consecuencias.
 
 No se sospechaba el gran volcán en ebullición que había por dentro. La rabia contenida. El resentimiento que produce la desigualdad. El sentido de venganza que pervive en el seno de la sociedad colombiana que es una de las más violentas de América Latina. Una sociedad dominada por élites desalmadas que recurren a la violencia sin ningún miramiento.
 
-![](./los-muertos-del-Esmad.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/estos-son-los-37-muertos-en-el-paro-nacional/los-muertos-del-Esmad.jpg)
 *El ESMAD no tiene compasión. Son los 37 muertos. Parece que la orden del gobierno es tirar a matar.*
 
 El origen de las protestas fue el rechazo a la Reforma Tributaria del presidente Duque. Posteriormente las movilizaciones exigieron la salida de Duque. Ahora, realmente, lo que se debería plantear es la terminación del **régimen #neobonapartista** que tiene 20 años de existencia. Precisamente en este período se ha acumulado un malestar social producto de la pauperización de la clase media y de los sectores menos favorecidos. Todo esto se agravó con la pandemia. Las estadísticas hablan de 21 millones de colombianos en pobreza y un 14,5% de desempleo.

@@ -5,10 +5,10 @@ pubDate: "2022-09-23 21:04:55"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/comision-quinta-atiende-soscartagena/"./hero.jpg"
 ---
 
-![Vía a Mamonal, la zona industrial. #SOSCartagena](./Bloqueo-Mamonal-1.jpeg)
+![Vía a Mamonal, la zona industrial. #SOSCartagena](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/comision-quinta-atiende-soscartagena/Bloqueo-Mamonal-1.jpeg)
 *Vía a Mamonal, la zona industrial. #SOSCartagena*
 
 Cartagena amaneció hoy, como de costumbre, caótica. El Paro Cívico Distrital contra la negligencia del alcalde se cumplió sin heridos y, mucho menos, sin muertos. Fue pacífico. Ni siquiera hubo sicariato. Contraria a la conducta del alcalde, pendenciera, violenta y falta de respeto a la ciudadanía con expresiones injuriosas y descalificadoras. El mandatario desde la madrugada del 22 de septiembre ordenó la toma de los puntos anunciados de la protesta para intimidar a los manifestantes y sus organizadores. Al final, la **Comisión Quinta** del senado atendió el #SOSCartagena.
@@ -25,7 +25,7 @@ Sin embargo, para el alcalde **William Dau Chamat** y sus epígonos de la CUT y 
 
 ## La ciudad de la calumnia
 
-![Aquí el alcalde William Dau y Ana María González, los dos están cortados con la misma tijera. Solo sirven para propagar el chisme desde la alcaldía. #SOSCartagena.](./hero.jpg)
+![Aquí el alcalde William Dau y Ana María González, los dos están cortados con la misma tijera. Solo sirven para propagar el chisme desde la alcaldía. #SOSCartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/comision-quinta-atiende-soscartagena/hero.jpg)
 *Aquí el alcalde William Dau y Ana María González, los dos están cortados con la misma tijera. Solo sirven para propagar el chisme desde la alcaldía. Cortesía.*
 
 El mejor escenario de un alcalde mitómano es Cartagena. Entre los líderes sociales se corrió la bola de que la protesta es financiada por Dumek Turbay y otros políticos de la ciudad. No había ninguna evidencia de que ello era así. Y, aunque lo fuera, no invalidaba los urgentes propósitos de la protesta social. Aquí la calumnia vuela a velocidad supersónica. Es una herencia que dejaron los españoles en la época de la colonia. No en vano, el poeta insigne **Luis Carlos López** la **"llamó ciudad de vencejos"**.

@@ -5,10 +5,10 @@ pubDate: "2025-12-18 21:25:50"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/la-proteccion-de-la-cienaga-de-la-virgen-no-puede-ser-un-fallo-simbolico-i/"./hero.jpg"
 ---
 
-![La presidenta de la DNP , Natalia Irene Molina Posso pidió una curul en la mesa de ejecución de la sentencia del Consejo de Estado sobre el Parque de la Ciénaga de la Virgen](./hero.jpg)
+![La presidenta de la DNP , Natalia Irene Molina Posso pidió una curul en la mesa de ejecución de la sentencia del Consejo de Estado sobre el Parque de la Ciénaga de la Virgen](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/la-proteccion-de-la-cienaga-de-la-virgen-no-puede-ser-un-fallo-simbolico-i/hero.jpg)
 *La presidenta de la DNP , Natalia Irene Molina Posso pidió una curul en la mesa de ejecución de la sentencia del Consejo de Estado sobre el Parque de la Ciénaga de la Virgen.*
 
 La presidenta del Departamento Nacional de Planeación (DNP), **Natalia Irene Molina Posso**, decidió romper la inercia institucional que históricamente sepulta las sentencias ambientales en Cartagena. Su mensaje es claro: **la sentencia del Consejo de Estado hay que cumplirla. Se ordena la recuperación integral de la Ciénaga de La Virgen y no puede ser otro fallo simbólico**, archivado entre excusas administrativas y falta de voluntad política.
@@ -19,7 +19,7 @@ Ante este escenario, **organizaciones sociales y comunitarias** elevaron una p
 
 ### Un ecosistema estratégico, una deuda histórica
 
-![Hace 50 años la Ciénaga de la Virgen era una fuente de vida para una basta población  que iba desde La Boquilla hasta El Pozón](./cienaga.jpg)
+![Hace 50 años la Ciénaga de la Virgen era una fuente de vida para una basta población  que iba desde La Boquilla hasta El Pozón](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/la-proteccion-de-la-cienaga-de-la-virgen-no-puede-ser-un-fallo-simbolico-i/cienaga.jpg)
 *Hace 50 años la Ciénaga de la Virgen era una fuente de vida para una basta población que iba desde La Boquilla hasta El Pozón. Cortesía.*
 
 La **Ciénaga de La Virgen**, separada del mar Caribe por el corregimiento de La Boquilla, es uno de los humedales costeros más importantes de Cartagena. Su sistema de manglares, aves y fauna acuática cumple funciones vitales para el equilibrio ecológico, el control de la erosión y la protección climática de la ciudad.

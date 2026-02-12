@@ -5,10 +5,10 @@ pubDate: "2023-06-01 02:22:02"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/bola-de-nieve-charter-para-la-ninera-de-laura-i/"./hero.jpg"
 ---
 
-![Laura Sarabia Torres, muy cerca del corazón del presidente Petro, y ahora lejana de su antiguo jefe político, Armando Benedetti, embajador de Colombia en Caracas. Una bola de nieve que amenaza alud/ Foto Instagram.](./hero.jpg)
+![Laura Sarabia Torres, muy cerca del corazón del presidente Petro, y ahora lejana de su antiguo jefe político, Armando Benedetti, embajador de Colombia en Caracas. Una bola de nieve que amenaza alud/ Foto Instagram.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/bola-de-nieve-charter-para-la-ninera-de-laura-i/hero.jpg)
 *Laura Sarabia Torres, muy cerca del corazón del presidente Petro, y ahora lejana de su antiguo jefe político, Armando Benedetti, embajador de Colombia en Caracas. Una bola de nieve que amenaza alud/ Foto Instagram.*
 
 _Una bola de nieve_ viene cayendo desde lo más alto de presidencia. De un pequeño problema doméstico como fue el robo _cash money_ (7 mil ó 30 mil dólares) de la residencia de **Laura Sarabia Torres**, se convirtió en un hecho que **eclipsó la importante participación de nuestro país en la Cumbre de Presidentes de** Brasil. Ya salió del ámbito doméstico de la todopoderosa jefe de gabinete del **presidente Gustavo Petro** para ser tratado como un problema de Estado. Es una bola de nieve que amenaza transformarse en un _alud presidencial_ de consecuencias impredecibles.

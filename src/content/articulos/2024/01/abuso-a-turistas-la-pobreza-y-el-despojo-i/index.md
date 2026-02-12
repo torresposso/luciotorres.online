@@ -5,10 +5,10 @@ pubDate: "2024-01-08 22:03:54"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/abuso-a-turistas-la-pobreza-y-el-despojo-i/"./hero.jpg"
 ---
 
-![Abuso a turistas, la pobreza y el despojo. En esta captura de pantalla, el alcalde Dumek Turbay dialoga con Andrés Ochoa Silva, el turista colombo-mexicano abusado por supuestos operadores turísticos.](./hero.jpg)
+![Abuso a turistas, la pobreza y el despojo. En esta captura de pantalla, el alcalde Dumek Turbay dialoga con Andrés Ochoa Silva, el turista colombo-mexicano abusado por supuestos operadores turísticos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/abuso-a-turistas-la-pobreza-y-el-despojo-i/hero.jpg)
 *Abuso a turistas, la pobreza y el despojo. En esta captura de pantalla, el alcalde Dumek Turbay dialoga con Andrés Ochoa Silva, el turista colombo-mexicano abusado por supuestos operadores turísticos.*
 
 Terminó el puente de los Reyes Magos y, con ello, las fiestas de Fin de Año con una baja ocupación hotelera (**84,67 %, frente a 94,77%** de 2022) en **Cartagena, Santa Marta y Barranquilla**, según información extraoficial de Cotelco. Cerca de 6 casos de **abuso a turistas** en La Heroica ―cometidos por operadores formales e informales― y que trascendieron la opinión pública nacional durante esta temporada, fueron debidamente comprobados por las autoridades. ¿Es posible que estos abusos se acaben automáticamente con la fallida transmisión del _bastón de mando_ de un alcalde inepto a uno que sabe cómo es la cosa pública?
@@ -49,7 +49,7 @@ Luego de que el alcalde le respondiera a través de su cuenta de X, el turista r
 
 ## El patrón de estafa
 
-![El alcalde Dumek Turbay haciendo presencia en la playa cartagenera para prevenir abuso a turistas](./Captura-de-pantalla-11.png)
+![El alcalde Dumek Turbay haciendo presencia en la playa cartagenera para prevenir abuso a turistas](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/abuso-a-turistas-la-pobreza-y-el-despojo-i/Captura-de-pantalla-11.png)
 *El alcalde Dumek Turbay haciendo presencia en la playa cartagenera para prevenir abuso a turistas./Captura de Pantalla.*
 
 En el caso de los mexicanos, pagaron una lancha para 12 personas que costó **$3,4 millones**. El tema crítico fue en el restaurante. Estos funcionan con una modalidad en la cual los rebuscadores «capturan» a los turistas a quienes les caen como buitres. Luego el administrador o dueño del restaurante le pone un precio al intermediario y éste consolida el abuso (atraco) al consumidor turístico cobrando tres o cuatro veces el valor real.

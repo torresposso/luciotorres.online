@@ -5,10 +5,10 @@ pubDate: "2025-01-05 12:28:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-divorcio-de-petro-con-empresarios-seguira-en-2025/"./hero.jpg"
 ---
 
-![El divorcio de Petro con empresarios ¿seguirá en 2025?](./hero.jpg)
+![El divorcio de Petro con empresarios ¿seguirá en 2025?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-divorcio-de-petro-con-empresarios-seguira-en-2025/hero.jpg)
 *El divorcio de Petro con empresarios ¿seguirá en 2025?*
 
 El evidente divorcio de Petro con algunos agentes económicos de mayor peso específico en el país, la predicción señala que se profundizaría. En el 2024 no mejoró la credibilidad y la confianza con los empresarios. Situación que se agravará durante el tercer año de su mandato por las implicaciones políticas de las reformas y a la falta de liderazgo del gobierno. Pese a las voces agoreras, iniciamos un año con saldo a favor en varios indicadores clave que marcan la **estabilidad de la economía nacional**.

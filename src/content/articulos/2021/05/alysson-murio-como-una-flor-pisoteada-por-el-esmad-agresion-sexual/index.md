@@ -5,10 +5,10 @@ pubDate: "2021-05-19 22:46:48"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/alysson-murio-como-una-flor-pisoteada-por-el-esmad-agresion-sexual/"./hero.jpg"
 ---
 
-\[caption id="attachment\_15045" align="aligncenter" width="1080"\]![](./hero.jpg) Homenaje a Alisson, **víctima de la agresión sexual del ESMAD**. Cortesía.\[/caption\]
+\[caption id="attachment\_15045" align="aligncenter" width="1080"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/alysson-murio-como-una-flor-pisoteada-por-el-esmad-agresion-sexual/hero.jpg) Homenaje a Alisson, **víctima de la agresión sexual del ESMAD**. Cortesía.\[/caption\]
 
 **Alyson Lizeth Salazar Miranda**, 17 años, estudiante, murió como una flor pisoteada por el Esmad. Un típico uso de la agresión sexual como _**botín de guerra**_. En la noche del 13 de mayo de 2021, fue agredida por miembros del **Escuadrón Móvil Antidisturbios -ESMAD** de la Policía Nacional. La ultrajaron. La maltrataron física y psicológicamente. Diez horas después de su puesta en libertad, se suicidó. Dejó constancia de su muerte.
 

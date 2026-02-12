@@ -5,10 +5,10 @@ pubDate: "2021-07-17 21:56:09"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/se-mueren-extrabajadores-de-unicat-sin-que-les-paguen/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/se-mueren-extrabajadores-de-unicat-sin-que-les-paguen/hero.jpg)
 *Esta es el último plantón donde protestaron los trabajadores de Unicat. ¡Se mueren! y no hay esperanza de que le paguen.*
 
 ¡Se mueren! Los extrabajadores de la empresa de apuestas permanentes Unicat se están muriendo uno a uno. **No hay poder humano que obligue a la Sociedad de Activos Especiales—SAE** a cumplir con el sagrado deber de pagarles sus sueldos y prestaciones sociales que les deben desde el 2014. En este año la empresa de chance fue intervenida por orden de la Fiscalía dentro del proceso de extinción de dominio por lavado de activos de su propietaria, la archiconocida, **Enilse López**, la popular «Gata». 
@@ -25,7 +25,7 @@ La mayoría son mujeres. Y aquí se estaría presentando una violencia laboral c
 
 ## El estado del proceso
 
-![](./UNicat-trabajadores-planton.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/se-mueren-extrabajadores-de-unicat-sin-que-les-paguen/UNicat-trabajadores-planton.jpeg)
 *Plantón contra la SAE.*
 
 De acuerdo con el último informe presentado por el depositario anterior de la SAE, **Herles Rodrigo Ariza Berra**, no existe nada claro cuándo les pagarán. Por el contrario, le informó a empleados y exempleados que no cuentan con contratos activos desde el mismo momento en que se perdió la licitación en el 2015. Ese contrato pasó a manos de GanaYa.  

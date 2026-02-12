@@ -5,10 +5,10 @@ pubDate: "2025-10-24 03:51:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/mi-padre-alex-char-siempre-me-rechazo-lo-cito-para-que-conciliemos/"./hero.jpg"
 ---
 
-![«mi padre Alex Char siempre me rechazó»](./hero.jpg)
+![«mi padre Alex Char siempre me rechazó»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/mi-padre-alex-char-siempre-me-rechazo-lo-cito-para-que-conciliemos/hero.jpg)
 
 **Steven Char Ramos** salió victorioso de una demanda de filiación, cansado de cargar con el peso de una frase que lo persiguió toda la vida: _“Mi padre Alex Char siempre me rechazó.”_ Hoy, el hijo negado —ya con 33 años— citó a su verdadero progenitor a un **centro de conciliación** para exigirle la reparación material y moral de una historia vergonzosa. Una deuda que se remonta al día en que el hoy alcalde de Barranquilla huyó al saber que su entonces novia, **Diana Ramos**, estaba embarazada.
 
@@ -26,7 +26,7 @@ Y los periodistas que nos atrevemos a desafiar ese poder, a romper el pacto de s
 
 ## «Si algo me llegara a pasar»
 
-![«Mi padre Alex Char siempre me rechazó. Lo cito para que conciliemos»](./Steven_char_alejo_.jpg)
+![«Mi padre Alex Char siempre me rechazó. Lo cito para que conciliemos»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/mi-padre-alex-char-siempre-me-rechazo-lo-cito-para-que-conciliemos/Steven_char_alejo_.jpg)
 *El hijo negado de Alex Char lo conmina a conciliar*
 
 Por ende, la victoria del primogénito de **Alejandro Char Chaljub** no fue fácil. Pero, de esta batalla salió con heridas profundas que podrían afectar su psique, su mente. Y él lo sabe como psicólogo que es. Una batalla desigual, solo con la fe de poseer la verdad de ser el hijo del «todopoderoso» e intocable alcalde de Barranquilla.
@@ -41,7 +41,7 @@ El hijo negado, después de la victoria legal, siente un profundo temor de que a
 
 ## Un comunicado mentiroso
 
-![](./Comunicado_char_Steven-1-1024x828.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/mi-padre-alex-char-siempre-me-rechazo-lo-cito-para-que-conciliemos/Comunicado_char_Steven-1-1024x828.jpg)
 
 Este comunicado es mentiroso. Lo dice todo de la personalidad y del carácter de un alcalde. Ese día, era la última oportunidad que le concedió el juez para que se hiciera la prueba ADN. Y no se presentó. Su abogado fue el mensajero de un mensaje tardío solo para justificarse ante la opinión pública como si estuviera en campaña electoral para mostrar lo que realmente no es.
 
@@ -71,7 +71,7 @@ https://twitter.com/CConstitucional/status/1625151804475334656?ref\_src=twsrc%5E
 
 Si los tribunales fueron tomados por la corrupción ¿qué se espera para los jueces y fiscales de la seccional del Atlántico? Allí se encuentra en la dirección de Fiscalía un ser comprado por el poder político dominante: **William Fernando Orlando Jaiquel**. Hace año y medio le cayó de perla a los Char.
 
-![William Orlando Jaiquel, el fiscal traslado, un agente al servicio de la corrupción política](./fernando_orlando_Jaiquel.jpeg)
+![William Orlando Jaiquel, el fiscal traslado, un agente al servicio de la corrupción política](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/mi-padre-alex-char-siempre-me-rechazo-lo-cito-para-que-conciliemos/fernando_orlando_Jaiquel.jpeg)
 *William Orlando Jaiquel, el director de fiscalía del Atlántico traslado, un agente al servicio de la corrupción política.*
 
 En Cartagena **Orlando Jaiquel** fue el juez penal que me condenó en primera instancia por injuria, por el solo hecho de decirle al presidente del congreso de la época, **Javier Cáceres Leal**, el «todopoderoso». Con «El Chuzo» tuve un largo proceso litigioso por injuria que después de 7 años (2006-2013) se resolvió a favor mío en el **Tribunal Superior de Cartagena** y después en la **Corte Suprema de Justicia**. Esta corporación condenó al senador a 9 años de prisión por concierto para delinquir agravado. Todo lo que dije sobre «El Chuzo» se convirtió en una verdad jurídica en la Corte Suprema de Justicia. Y el «todopoderoso» presidente del Congreso se desmoronó. Su poder se extinguió.

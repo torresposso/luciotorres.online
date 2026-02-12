@@ -5,10 +5,10 @@ pubDate: "2021-12-17 03:00:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-cartagena-socializan-prepliegos-de-la-app-canal-del-dique-sin-alcaldes-y-comunidades/"./hero.jpg"
 ---
 
-![](./socializan-prepliego.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-cartagena-socializan-prepliegos-de-la-app-canal-del-dique-sin-alcaldes-y-comunidades/socializan-prepliego.jpeg)
 *La vicepresidenta Marta Lucía Ramírez tomando la palabra. En la mesa, (izq. a derecha) Juan Pablo Vélez, presidente ejecutivo de la Cámara de Comercio, el gobernador de Bolívar, Vicente Blel Escaf y el presidente ejecutivo de la ANI, Manuel Felipe Gutérrez Torres.*
 
 Los prepliegos de la APP Canal del Dique fueron socializados por la vicepresidenta de la república Marta Lucía Ramírez sin la presencia de alcaldes ni comunidades. El único mandatario que asistió fue el gobernador de Bolívar, Vicente Blel Escaf. Pero sí estuvieron los representantes de lo más granado de las élites sociales y económicas de Cartagena. Allí vimos a **Fernando Araújo Perdomo, capitán Alfonso Salas** y el presidente ejecutivo de la Cámara de Comercio Juan Pablo Vélez Castellanos,

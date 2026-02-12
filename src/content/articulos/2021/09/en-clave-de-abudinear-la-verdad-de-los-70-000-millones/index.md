@@ -5,10 +5,10 @@ pubDate: "2021-09-17 23:33:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/hero.jpg)
 *Una de las últimas apariciones de la ministra Karen Abudinen Abuchaibe. Ahora buscarán «chivos expiatorios». Es la nueva corruptocracia./MinTic.*
 
 **En clave de «abudinear»** se puede traducir como el  modelo de contratación más perverso nacido en el Ministerio de las Comunicaciones y Tecnologías—**MinTic** para saquear las finanzas públicas. No es un caso aislado que solo se le puede atribuir a la ahora exministra **Karen Abudinen Abuchaibe**. Es un proceso de acumulación capitalista con los recursos de los más pobres y vulnerables. Hace parte del sistema político y económico del país.
@@ -21,14 +21,14 @@ De tal manera, que Mantilla —el eslabón perdido— llegó a la Dirección Nac
 
 ## Lazos atávicos
 
-![Abudinear, Karen Abudinen](./KAREN-abudinen.jpg)
+![Abudinear, Karen Abudinen](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/KAREN-abudinen.jpg)
 *¡Qué bonitas! Tía y sobrina. Karen Abudinen Abuchaibe y Shaida Farah Abuchaibe, la nuera de Álvaro Uribe Vélez./Instagram.*
 
 Con el fin de entender este entramado del «**Cartel del Suero»**, debemos mostrar que existe unos lazos políticos, económicos y familiares desde la alta cúpula del régimen. **Álvaro Uribe Vélez es el patriarca, el jefe supremo del cartel.** ¿Cómo se conecta con Karen Abudinen Abuchaibe? Es el suegro de **Shaida Farah Abuchaibe**, la sobrina querida de Karen por vía materna. Es decir, es la esposa de **Gerónimo Uribe Moreno**. Los dos nietos de Uribe son sobrinos segundos de Karen.
 
 No hay duda, los Daes Abuchaibe están emparentados con los Uribe Moreno. Ivan Mantilla Gaviria llegó al alto gobierno con el apoyo político de Gómez Amín. En tanto que el hermano de Miguel Amín Escaf, William Amín es esposo de la hermana de Cristian Daes Abuchaibe.
 
-![](./IMG_20210919_095658.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/IMG_20210919_095658.jpg)
 *El senador Miguel Amín Escaf, es uno de los lazos político de los Daes con el gobierno.*
 
 Amín Escaf es cuñado de **Giselle Daes Abuchaibe**, la esposa de William Amín Escaff, ex alto ejecutivo de Tecnoglas de los Daes. Además, estuvo involucrado en el escándalo de la reventa de boletas del famoso partido de fútbol Colombia—Brasil.
@@ -47,7 +47,7 @@ Como parte de la estrategia, ahora la Fiscalía hará justicia espectáculo.  B
 
 ## ¿La esperanza frente a este modelo?
 
-![](./Gustavo-Petro-Congreso.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/Gustavo-Petro-Congreso.jpg)
 *Petro será el Lula colombiano. Se reunió con los Daes, los probables beneficiarios de los $70 mil millones de MinTic./El País.*
 
 ¿Se puede cambiar el curso de este estado de cosas en las próximas elecciones parlamentarias y presidenciales? Déjame decirte que no habrá cambios con los políticos de izquierda, derecha o de centro. Todos pertenecen al mismo establecimiento político. Están atados a este sistema de contratación que es manejado en la tramoya por empresarios inescrupulosos.
@@ -66,7 +66,7 @@ Este modelo es el mismo que **Karen Abudinen Abuchaibe** **impuso en el Institut
 
 ## En clave de «abudinear»
 
-![](./IMG_20210917_183005.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/IMG_20210917_183005.jpg)
 *El exalcalde de Barranquilla, Alex Char, es uno de los que ejecutó a la perfección el modelo «abudinear»./Twitter*
 
 Aquí te presento las claves del modelo de contratación «abudinear». Un modelo adoptado por el **régimen neobonapartista** dominante para seguir financiándose con empresarios inescrupulosos. Ellos dicen que este modelo produce prosperidad. Un ejemplo para mostrar, Barranquilla. Antes, los políticos se robaban el 80% y las obras no se veían. Hoy, se roban el 50% y las obras son faraónicas para que todo el mundo las vea. **Son** **obras de papel**. Bogotá tienen 1.600 cámaras de seguridad. Barranquilla adquirió 1.200, pero el 80% de ellas no sirven. No importa. La ciudad cree que tiene 1.200. ¿Cuál es la diferencia? Se dieron cuenta de la verdad cuando en 2017 atracaron al concejal **Aissar Castro**. Notaron que las cámaras nunca funcionaron. Los contratistas las entregaron así. ¿Quién suministró esas cámaras? El mismo contratista de uno de los cuatro que hacen parte de la UT **Centros Poblados**. Y **Alex Char Chaljub**, el alcalde de la época, se las pagó todas con una interventoría chimba. ¿Cómo te quedó el ojo?
@@ -79,21 +79,21 @@ Para el patriarca Fuad, el Estado es mal administrador. Claro, si él o sus fami
 
 ## Presidencia, la cabeza del Leviatán
 
-![](./210917-02-Foro-Empresarial-scaled-1.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/210917-02-Foro-Empresarial-scaled-1.jpg)
 *El cinismo es la principal característica del régimen neobonapartista encabezado por Iván Duque. Dan cátedra de transparencia en el exterior./Presidencia.*
 
 El negocio de Centros Poblados nunca hubiese existido si el presidente Duque no tuviera las manos metidas. **Nada sucede a espaldas de los presidentes.** Nada. Ellos no son como los maridos cachones. Son los primeros que reciben la información. El hombre clave que el presidente Iván Duque tenía en este negocio de los 7 mil puntos de internet se llama **Antonio Iván Mantilla Gaviria.** Fue director de Conectividad y Digitalización hasta el 4 de febrero de 2021**.** Después de preparar el proceso que terminó en el contrato **No 1043 de diciembre de 2020** renunció. Ya había cumplido su misión. Fuentes de prensa señalaron que Abudinen le había pedido la renuncia. Fue el primer fusible que se quemó. El escándalo todavía no había estallado.
 
 ¿Cómo un experto en tecnologías digitales de internet, con tesis laureada, que conoce al dedillo los procesos de licitación de las nuevas tecnologías, se dejó meter ese mono? ¿Por qué no lo han llamado en MinTic, la Procuraduría y la Contraloría? ¿Por qué los medios de comunicación no lo han mentado? Los mismos medios habían considerado que fue un proceso impecable. Incluso, los expertos se fueron en loas a la ministra Abudinen. ¿Será fusible? ¿La cambiarán y todo volverá a la normalidad? ¿Es la única sacrificada? ¿Acaso el presidente no tiene las manos metidas?  ¿Qué pasa con Mantilla? Todo es un mar de sospecha. Pero Mantilla debe decir esta «boca es mía».
 
-![](./IMG_20210917_094227.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/IMG_20210917_094227.jpg)
 *El eslabón perdido, Iván Mantilla Gaviria, ex viceministro de Conectividad y Digitalización. Está en Miami, dicen fuentes de MinTic./LiIn.*
 
 De manera que la corrupción privada es más galopante y escandalosa que la corrupción pública. Los políticos son empaquetados con precios que los verdaderos dueños tasan en cada transacción. ¿Cuánto cuesta tener un senador? Detrás de cada macro proyecto del gobierno central, existe el interés del ejecutivo en adjudicarselo al empresario que más le ofrece beneficio particular. Por ejemplo, Miguel Nule dijo, según reveló El Miami Herald, en 2008 se reunió con un representante de **Odebrecht a instancia de Santiago Uribe** —hijo del presidente Álvaro Uribe— con el fin de formar una Unión Temporal para la Ruta de El Sol. El negocio no se hizo porque Nule cayó en desgracia. Los primos Nule fueron condenados por el **Carrusel de la Contratación**, en un proceso que se inició en 2010. El alcalde de Bogotá Samuel Moreno Rojas también fue condenado. El Grupo Nule había sido favorecido por el gobierno de Álvaro Uribe con múltiples contratos de obras públicas que se estima en varios billones de pesos. A Uribe y a Juan Manuel Santos no lo han tocado.
 
 ## En clave de «abudinear»: el modelo
 
-![](./karen-abudinen2.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/karen-abudinen2.jpeg)
 *La pobre Karen Abudinen recibió toda el agua sucia. Pero los «peces gordos» están arriba de ella./MinTic.*
 
 En clave de «Abudinear» es un modelo que tiene como finalidad enriquecer al dueño del contrato que lo entrega el alto ejecutivo. Los demás funcionarios son peones. El concepto de neoliberalismo es una caricia frente a la verdadera afrenta de las consecuencia sociales del **Modelo Abudinear**. No importa su objeto social. No importa si es para entregar las raciones de comida a 1.8 millones de niños empobrecidos o pavimentar 10 mil kilómetros de vía, o crear 7 mil puntos de internet para niños rurales. Consiste en que se le adjudica a empresas que forman uniones temporales (UT) con supuestas experiencias en el ramo con el fin de transferir ese dinero para el exterior. 
@@ -104,7 +104,7 @@ Algunos expertos han señalado que en Colombia se produce una fuga de capitales 
 
 ## Máximo beneficio
 
-![](./El-parampam-1.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/El-parampam-1.jpeg)
 *En este modelo de contratación el objeto es enriquecer al dueño del contrato. Lo demás es una puesta en escena que necesita actores y utilería. Todo es un parampam.*
 
 De tal suerte que, con el anticipo, el dueño real del contrato recibe hasta el 80% del primer pago que Mintic les hizo. El segundo pago está previamente facturado. Listo para ser girado. ¿Con qué inician la ejecución del contrato? Con el 20% del valor del primer pago o el segundo pago que el Estado les hace. La prioridad no es la ejecución del contrato sino sacarle la ganancia a sus dueños.
@@ -127,7 +127,7 @@ Como se recordará, cuando reventó el escándalo y se supo que $58 mil millones
 
 ¿Falsificación o prueba? Si falsificaron las garantías del banco ITAÚ ¿cómo no podrían falsificar una carta comercial del representante legal de Nuovo Security? Pero existe evidencias para creer que son cartas comerciales reales con firmas digitales. 
 
-![](./IMG_20210916_231120.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/IMG_20210916_231120.jpg)
 *Los representantes de la UT Centros Poblados presentaron estos documentos como prueba de que los retrasos se debía a problemas de suministros.*
 
 En ese sentido, otras fuentes aseguran que González Hamburguer sí sabía del negocio desde que se firmó el contrato **No 1043** de diciembre de 2020. ¿Es un distractor artificial? Claro ique sí lo es. Aquí se demuestra que tienen un manejo profesional de medios. Una alta influencia, no solo en los medios, sino entre los periodistas que manejan la opinión pública colombiana.

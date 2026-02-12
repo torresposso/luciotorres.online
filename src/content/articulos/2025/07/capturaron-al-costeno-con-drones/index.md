@@ -5,10 +5,10 @@ pubDate: "2025-07-05 17:25:59"
 author: "Lucio"
 categories: ["Ahora"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/capturaron-al-costeno-con-drones/"./hero.jpg"
 ---
 
-![Capturaron al ‘Costeño’ con drones ](./hero.jpg)
+![Capturaron al ‘Costeño’ con drones ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/capturaron-al-costeno-con-drones/hero.jpg)
 *La policía Nacional capturó al ‘Costeño’ con drones*
 
 Valiéndose de tecnología de punta y drones con sistema térmico, las autoridades policivas capturaron al ‘Costeño’ en la madrugada de este sábado 5 de junio de 2025. **Elder José Arteaga Hernández, también conocido con el alias** **‘Chipi’**, se le sindica de coordinar el atentado criminal contra el senador del Centro Democrático, **Miguel Uribe Turbay**.

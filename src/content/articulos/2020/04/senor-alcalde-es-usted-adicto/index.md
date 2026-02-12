@@ -5,10 +5,10 @@ pubDate: "2020-04-23 21:54:59"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/senor-alcalde-es-usted-adicto/"./hero.jpg"
 ---
 
-\[caption id="attachment\_11558" align="aligncenter" width="705"\]![](./hero.jpg) Aquí entrevisté a William Dau para analizar qué proponía. No ví más allá de la palabra "Malandrín". Foto Juan Ricardo Jiménez.\[/caption\] **Señor William Dau**, alcalde de Cartagena, **¿es usted adicto a sustancia alucinógenas o a otro tipo de drogas?** Si la respuesta es sí, ¿qué tipo de tratamiento está haciendo para controlar dicha adicción? Si la respuesta es no, ¿se sometería a exámenes clínicos, psicológicos y psiquiátricos forenses? ¿Acepta usted este desafío? Este es un derecho de petición (C.P.: art. 23) que elevo públicamente. La respuesta debe ser a más tardar en 15 días hábiles, pese a la modificación transitoria presentada por el presidente Duque.
+\[caption id="attachment\_11558" align="aligncenter" width="705"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/senor-alcalde-es-usted-adicto/hero.jpg) Aquí entrevisté a William Dau para analizar qué proponía. No ví más allá de la palabra "Malandrín". Foto Juan Ricardo Jiménez.\[/caption\] **Señor William Dau**, alcalde de Cartagena, **¿es usted adicto a sustancia alucinógenas o a otro tipo de drogas?** Si la respuesta es sí, ¿qué tipo de tratamiento está haciendo para controlar dicha adicción? Si la respuesta es no, ¿se sometería a exámenes clínicos, psicológicos y psiquiátricos forenses? ¿Acepta usted este desafío? Este es un derecho de petición (C.P.: art. 23) que elevo públicamente. La respuesta debe ser a más tardar en 15 días hábiles, pese a la modificación transitoria presentada por el presidente Duque.
 
 ### En reiteradas ocasiones Dau reconoce que está enfermo
 

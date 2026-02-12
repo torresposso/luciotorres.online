@@ -5,10 +5,10 @@ pubDate: "2024-12-16 11:28:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/nuevo-pot-de-cartagena-todo-esta-envenenado/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/nuevo-pot-de-cartagena-todo-esta-envenenado/hero.jpg)
 *Cartagena seguirá sin POT en los próximos tres años y la perderemos con el cambio climático. El nuevo POT ¡está envenenado! Y el alcalde parece que no lo sabe.*
 
 Algo **gravísimo** está sucediendo con el levantamiento del nuevo POT de Cartagena: **todo está envenenado**. Seguir sin expediente urbano es como dar el remedio sin tener la historia clínica del paciente. Lo hecho durante el primer año de la administración de **Dumek Turbay** hay que hacerlo de nuevo, si queremos un POT en dos años. Seguir adelante sería una chimbonada. Esta conclusión resultó de la aplicación del **test del «árbol envenenado»**, la misma teoría que el economista **Juan Correa** ―director del Comité― usó en octubre de 2023 para referirse al inservible documento POT de Dau.
@@ -25,7 +25,7 @@ https://youtu.be/KplI9CUGdMk
 
 O sea, jamás Cartagena tendrá POT en el 2025. Ni siquiera para el 2026. Porque lo trabajado hasta ahora está contaminado por el árbol envenenado. Lo dice el mismo experto que diagnosticó el estado del arte del anterior documento. Y si no se corrige ahora, el alcalde Turbay no sacará el documento en los próximos tres años. Será una promesa de campaña fallida y miles de millones tirados a la basura.
 
-![](./POT_portada_Camilo-1024x683.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/nuevo-pot-de-cartagena-todo-esta-envenenado/POT_portada_Camilo-1024x683.jpeg)
 *La actuación de Camilo Rey y Juan Correa en el nuevo POT está contaminada por el árbol envenenado.*
 
 De acuerdo con el análisis del experto urbanista, **Robinson Rada González**, la falla estructural del documento es la **falta del expediente urbano**. Este es un sistema de información que debe responder las preguntas coherentes del desarrollo territorial.
@@ -38,7 +38,7 @@ Correa le recordó a su antecesora, Sandra Bacca, lo que hoy se le recuerda a é
 
 ## El desafío de Cartagena
 
-![Robinson Rada González, exaltado por Juan Correa ayer para lograr sus propósitos. Hoy, en el poder, lo bembea](./robinson_rada_oficina-1024x883.jpg)
+![Robinson Rada González, exaltado por Juan Correa ayer para lograr sus propósitos. Hoy, en el poder, lo bembea](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/nuevo-pot-de-cartagena-todo-esta-envenenado/robinson_rada_oficina-1024x883.jpg)
 *Robinson Rada González, exaltado por Juan Correa ayer para lograr sus propósitos. Hoy, en el poder, lo bembea.*
 
 De acuerdo con Rada, Cartagena enfrenta una serie de desafíos y problemas institucionales significativos que han impedido su reordenamiento y desarrollo territorial a lo largo de más de 23 años cuando entró en vigor el POT de 2001 (D.0977-2021).
@@ -57,7 +57,7 @@ El experto urbanista precisa:
 
 ## **«**Profeta en su tierra**»**
 
-![Robinson Rada, doctor en derecho, experto urbanista y en desarrollo territorial, hizo el test del «árbol envenenado» al POT de Dumek, y no pasó la prueba.](./POT_Dumek_Rada-1024x1024.jpg)
+![Robinson Rada, doctor en derecho, experto urbanista y en desarrollo territorial, hizo el test del «árbol envenenado» al POT de Dumek, y no pasó la prueba.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/nuevo-pot-de-cartagena-todo-esta-envenenado/POT_Dumek_Rada-1024x1024.jpg)
 *Robinson Rada, doctor en derecho, experto urbanista y en desarrollo territorial, hizo el test del «árbol envenenado» al POT de Dumek, y no pasó la prueba.*
 
 Es de público conocimiento que las ideas centrales expuestas por Correa desde el 2022, fueron sustentadas por el urbanista Robinson Rada, quien le asesoró en todo los planteamientos ante el Consejo Consultivo del Ordenamiento Territorial (CCOT) y en la propuesta que finalmente le presentaron a Dumek en las comisiones de empalme.

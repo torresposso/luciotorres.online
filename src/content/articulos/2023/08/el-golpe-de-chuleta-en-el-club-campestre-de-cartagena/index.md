@@ -5,10 +5,10 @@ pubDate: "2023-08-08 02:37:12"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/el-golpe-de-chuleta-en-el-club-campestre-de-cartagena/"./hero.jpg"
 ---
 
-![Golpe de chuleta en el Club Campestre: Este trío debe responder: Fanny Batista, Jhon Villamizar y  Luis Fernando Lemus.](./hero.jpg)
+![Golpe de chuleta en el Club Campestre: Este trío debe responder: Fanny Batista, Jhon Villamizar y  Luis Fernando Lemus.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/el-golpe-de-chuleta-en-el-club-campestre-de-cartagena/hero.jpg)
 *«El golpe de chuleta» en el Club Campestre: Este trío debe responder: Fanny Batista, Jhon Villamizar y Luis Fernando Lemus.*
 
 El complot del asesinato contra el hoy candidato a la alcaldía de Cartagena, **Héctor Pérez Fernández**, tomó un nuevo giro. Se supo que en el Club Campestre planeaban asesinarlo, porque era un obstáculo para las pretensiones expansivas de un empresario con intereses en Cachenche.
@@ -29,7 +29,7 @@ Te puede interesar: [Venganza pasional de Fanny Batista aclararía complot contr
 
 ## El castigo social en el Club Campestre
 
-![](./Jhon-Villamizar-en-el-juego.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/el-golpe-de-chuleta-en-el-club-campestre-de-cartagena/Jhon-Villamizar-en-el-juego.jpg)
 *Así se le ve a Jhon Villamizar y Luis Fernando Lemus codearse con los demás socios del Club Campestre. /Cortesía.*
 
 Contrario a ello, lo que realmente no se puede entender es la conducta de la directiva. ¿Por qué sancionó al socio **Adolfo Vergara Martínez** de excluirlo del club sin el debido proceso? ¿Por qué se atrevió a denunciar el supuesto complot de Villamizar, quien dio el **«golpe de chuleta»**? **VoxPopuli Digital** se enteró por una fuente que pidió reserva, que allegados a Villamizar están buscando una coartada para justificar la expulsión de Vergara y **minimizar el impacto del complot de asesinato que supuestamente planeaban contra Héctor Pérez Fernández y compañía**. El nombre del otro objetivo no fue establecido.
@@ -48,7 +48,7 @@ Asimismo, el 6 de julio, nuevamente el empresario Villamizar, en el hoyo No 16 d
 
 ## Dato curioso que la Fiscalía debe investigar
 
-!["Golpe de chuleta" en el Club Campestre. Esta es la camioneta que conduce Jhon Villamizar. El día 6 de julio de 2023 estuvo parqueada en el Club Campestre. Ese día hizo la horrorosa propuesta de asesinar a Héctor Pérez.](./Jhon-Villamizar_camioneta.jpg)
+!["Golpe de chuleta" en el Club Campestre. Esta es la camioneta que conduce Jhon Villamizar. El día 6 de julio de 2023 estuvo parqueada en el Club Campestre. Ese día hizo la horrorosa propuesta de asesinar a Héctor Pérez.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/el-golpe-de-chuleta-en-el-club-campestre-de-cartagena/Jhon-Villamizar_camioneta.jpg)
 *Esta es la camioneta que conduce Jhon Villamizar. El día 6 de julio de 2023 estuvo parqueada en el Club Campestre. Ese día hizo la horrorosa propuesta de asesinar a Héctor Pérez.*
 
 Dos personas que no tuvieron suerte, ni hubo problemas pasionales para que salieran a flote los complots antes de que se ejecutaran, fueron los hermanos **Miranda Rodríguez**, legendarios reclamantes de tierras, descendientes de Gabriel Miranda Julio, un afrodescendiente que alcanzó a tener miles de hectáreas de tierra en el _Bajo Miranda_. ¿Los asesinatos de **Luis Felipe Miranda** (pastor de una iglesia) ocurrido el 14 de mayo de 2023 y , dos semanas después, el 2 de julio, su hermano, **Jaime Miranda Rodríguez**, de 68 años, tienen relación con el supuesto complot de Villamizar?. 
@@ -59,7 +59,7 @@ Esos hechos concomitantes, nos propone una pregunta esencial que la Fiscalía de
 
 ## El Club Campestre con el empresario Villamizar
 
-![Karina Castellano López, gerente del Club Campestre.. "Golpe de chuleta" en el Club Campestre .](./Karina-castellanos.jpeg)
+![Karina Castellano López, gerente del Club Campestre.. "Golpe de chuleta" en el Club Campestre .](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/el-golpe-de-chuleta-en-el-club-campestre-de-cartagena/Karina-castellanos.jpeg)
 *Karina Castellano López, gerente del Club Campestre.*
 
 En la pasada entrega observamos cómo el lío pasional de la joven **Fanny Batista Quintero** con el **septuagenario Jhon Villamizar permitió** que lo dicho por él en el mes de enero de este año saliera a la luz pública.
@@ -68,7 +68,7 @@ VoxPopuli Digital, cumpliendo con su papel de medio de comunicación, buscó est
 
 Como dato curioso, la gerente expidió una certificación indicando que John Villamizar y Fanny Batista Quintero no habían ido el 8 de julio al club Campestre y, por tanto, la versión de Vergara se caía por su propio peso. Pero la realidad es que la versión habló del 6 de julio de 2023. Así se corrobora en la bitacora de entrada y salida al club. Pueden ver la captura de pantalla que se publica.
 
-![La certificación habla del 8 de julio, pero la reunión de Villamizar para proponer el complot de asesinato de Héctor Pérez fue el 6 de julio. Al día siguiente Luis Fernando Lemus, el otro implicado, viajó a Europa. Lemus, al parecer es socio de Villamizar, y  también coordinador del Comité de Convivencia.](./Club-Campestre_certificacion.jpg)
+![La certificación habla del 8 de julio, pero la reunión de Villamizar para proponer el complot de asesinato de Héctor Pérez fue el 6 de julio. Al día siguiente Luis Fernando Lemus, el otro implicado, viajó a Europa. Lemus, al parecer es socio de Villamizar, y  también coordinador del Comité de Convivencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/el-golpe-de-chuleta-en-el-club-campestre-de-cartagena/Club-Campestre_certificacion.jpg)
 *La certificación habla del 8 de julio, pero la reunión de Villamizar para proponer el complot de asesinato de Héctor Pérez fue el 6 de julio. Al día siguiente Luis Fernando Lemus, el otro implicado, viajó a Europa. Lemus, al parecer es socio de Villamizar, y también coordinador del Comité de Convivencia.*
 
 ## Conclusión

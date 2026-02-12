@@ -5,10 +5,10 @@ pubDate: "2021-09-29 00:09:47"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/caso-mintic-iv-el-modelo-abudinear-parido-en-barranquilla-por-el-daescharismo/"./hero.jpg"
 ---
 
-![](./El-Daescharismo.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/caso-mintic-iv-el-modelo-abudinear-parido-en-barranquilla-por-el-daescharismo/El-Daescharismo.jpeg)
 *Los creadores del «modelo abudinear». Aquí está la tiranía del Daescharismo: Fuad Char, «Yuyo» Daes, Cristian Daes Abuchaibe, los tíos de Karen Abudinen. Crearon un califato palestino-libanés en Barranquilla.*
 
 El «modelo abudinear» de MinTic surgió en Barranquilla. El 24 de septiembre **Karen Abudinen Abuchaibe** vivió un cumpleaños turbulento**. Está en el ojo del huracán.** La abundante información sobre este escándalo está llevando a los medios de prensa a no enfocarse en lo esencial. De hecho, es un modelo que se consolidó en los períodos de gobierno absolutista del **«daescharismo»** que implantó una **tiranía palestino—sirio—libanesa** en Barranquilla, centro del poder de la Costa Caribe. 
@@ -27,7 +27,7 @@ Si embargo, **el tal Betto adjudicó $16 billones en forma directa**. ¡Quince v
 
 ## Karen y Adriana, el «modelo abudinear»
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/caso-mintic-iv-el-modelo-abudinear-parido-en-barranquilla-por-el-daescharismo/hero.jpg)
 *Fuentes muy cercanas le manifestaron a VoxPopuli Digital que las dos tienen una relación muy íntima. La ministra y su Secretaria General, jefe y subalterna. ¿Nepotismo?*
 
 Los que conocen muy bien a Karen le manifestaron a este periodista que **Adriana Vanessa Meza Consuegra** tiene una relación con Karen Abudinen que va más allá de un lazo laboral. Este hecho no lo confirmó ninguna de las dos, porque no ha sido posible localizarlas. A la ex ministra le envié un mensaje de guasap para hacerle una entrevista, pero nunca me respondió.
@@ -80,7 +80,7 @@ Los acontecimientos posteriores respondieron afirmativamente la primera pregunta
 
 ## Tapia y el nuevo modelo
 
-![](./emilio-tapia-en-cama.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/caso-mintic-iv-el-modelo-abudinear-parido-en-barranquilla-por-el-daescharismo/emilio-tapia-en-cama.jpg)
 *Emilio Tapia fue capturado en una clínica de Barranquilla.*
 
 El «daescharismo» construyó unas relaciones económicas basadas en un modelo de negocios donde la política pasó a ser un instrumento de enriquecimiento lícito o ilícito de sus empresas. Muchos de los contratistas del Estado tienen una relación íntima con esa tiranía. No es casual que el propio Emilio Tapia Aldana se haya ido a vivir a Barranquilla. Además, los implicados en ese escándalo gravitan sus acciones en un triángulo de la corrupción: Bogotá, Barranquilla y Medellín.

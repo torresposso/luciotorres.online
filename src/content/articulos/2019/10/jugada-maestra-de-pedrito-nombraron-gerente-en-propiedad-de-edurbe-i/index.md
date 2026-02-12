@@ -5,10 +5,10 @@ pubDate: "2019-10-11 11:51:34"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/jugada-maestra-de-pedrito-nombraron-gerente-en-propiedad-de-edurbe-i/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/jugada-maestra-de-pedrito-nombraron-gerente-en-propiedad-de-edurbe-i/hero.jpg)
 *La jugada maestra de Pedrito en el Edurbe la ejecutó elegantemente Edgar Marín, alcalde encargado. Nombró a un amigo cercano de los Pereira como gerente de la entidad, Javier Tolosa Amarís.*
 
 Fue una jugada maestra de Pedrito. Tras aceptar la renuncia del gerente **Bernardo Pardo** y evadir el cumplimiento del artículo 36 de los estatutos de Edurbe, el alcalde (e) de Cartagena **Edgar Marín,** hizo que la junta directiva nombrara gerente en propiedad de Edurbe a **Javier Tolosa Amarís**. El nuevo gerente se posesionará el 17 de octubre, **una vez se venza el plazo concedido a Pardo Ramos para que haga entrega del cargo**.

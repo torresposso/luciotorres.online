@@ -5,10 +5,10 @@ pubDate: "2022-08-03 12:26:14"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/reforma-agraria-car-y-medioambiente-las-apuestas-de-petro/"./hero.jpg"
 ---
 
-![El presidente Gustavo Petro con su bancada del Pacto Histórico. uno de los temas centrales asumidos por los parlamentarios de la Comisión Quinta fue la Reforma Agraria.](./hero.jpg)
+![El presidente Gustavo Petro con su bancada del Pacto Histórico. uno de los temas centrales asumidos por los parlamentarios de la Comisión Quinta fue la Reforma Agraria.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/reforma-agraria-car-y-medioambiente-las-apuestas-de-petro/hero.jpg)
 *El presidente Gustavo Petro con su bancada del Pacto Histórico. uno de los temas centrales asumidos por los parlamentarios de la Comisión Quinta fue la Reforma Agraria.*
 
 Reforma Agraria y seguridad alimentaria, control a las CAR y desarrollo del medio ambiente serán las principales apuestas de Petro y de la bancada del Pacto Histórico (PH) desde la Comisión Quinta. La senadora de esta coalición de gobierno, **Isabel Cristina Zuleta**, quien participó en la Segunda Cumbre de esta bancada en Santa Marta, dijo a **VoxPopuli Digital** que ayudarán al nuevo gobierno en esas tareas.
@@ -29,7 +29,7 @@ En consecuencia, se impuso la **contrarreforma agraria** que predomina hasta hoy
 
 ## La Reforma Agraria de Petro
 
-![](./dialogo-pacto.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/reforma-agraria-car-y-medioambiente-las-apuestas-de-petro/dialogo-pacto.jpg)
 
 ¿Qué quiere el presidente Petro? Tiene como propuesta central una Reforma Agraria por la vía impositiva. Esto es, elevar el impuesto predial a las tierras improductivas. Desde el punto de vista teórico esto podría llevar al gran propietario a una de estas tres salidas: (1) Producir riqueza. (2) Pagar impuestos elevados por sus tierras improductivas. (3) Vender sus tierras ociosas al Estado. Petro espera que se produzca la tercera opción. Así podría construir un banco de tierras disponibles para los campesinos que la quieran hacer producir.
 
@@ -41,7 +41,7 @@ Ahora bien. Si se trata de reconocer a uno de los sectores marginados y arrincon
 
 ## Las CAR, al tablero
 
-![Isabel Cristina Zuleta, la dinámica senadora del Pacto Histórico. Anunció que la Reforma Agraria será una de las grandes apuestas del Cambio que comienza el 7 de agosto.](./isabel-cristina-zuleta2.jpg)
+![Isabel Cristina Zuleta, la dinámica senadora del Pacto Histórico. Anunció que la Reforma Agraria será una de las grandes apuestas del Cambio que comienza el 7 de agosto.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/reforma-agraria-car-y-medioambiente-las-apuestas-de-petro/isabel-cristina-zuleta2.jpg)
 *Isabel Cristina Zuleta, la dinámica senadora del Pacto Histórico. Anunció que la Reforma Agraria será una de las grandes apuestas del Cambio que comienza el 7 de agosto.*
 
 Con la creación del ministerio del Medioambiente y las corporaciones regionales ambientales se pensó que podían desarrollar una tarea fundamental para la preservación de los recursos naturales. Pero, para Zuleta, éstas se han dedicado solo a expedir licencias ambientales sin tomar en cuenta su tarea misional.

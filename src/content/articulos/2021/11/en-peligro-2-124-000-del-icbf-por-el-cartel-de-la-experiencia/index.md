@@ -5,10 +5,10 @@ pubDate: "2021-11-13 16:44:44"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-peligro-2-124-000-del-icbf-por-el-cartel-de-la-experiencia/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-peligro-2-124-000-del-icbf-por-el-cartel-de-la-experiencia/hero.jpg)
 *La directora general del ICBF, Lina María Arbeláez, debe declararse en alerta y pronunciarse públicamente. Cortesía.*
 
 En peligro $2.124 millones para niños pobres del Atlántico por el «Cartel de la Experiencia». El hecho de que el ICBF del Atlántico haya habilitado a un proponente con una experiencia dudosa para quedarse con un contrato de **$2.124 millones**, hizo sonar las alarmas entre las personas que defienden el patrimonio público. Al parecer, estamos frente a un verdadero **«Cartel de la Experiencia» especializado en presentar experiencias falsas para adjudicarse multimillonarios contratos.** En Atlántico, señala la hipótesis, muchos de los contratos con el ICBF adolecen de este mal.
@@ -31,7 +31,7 @@ Al ser consultado por VoxPopuli Digital sobre la existencia del Convenio No 0015
 
 > «De manera categórica manifiesto a la opinión pública que desconozco a la Fundación para el Desarrollo Social Integral y a su represente legal **Yamile García Gutiérrez** quien aparece firmando el convenio en 2015, lo cual eso no ocurrió. Ese convenio es falso. No corresponde a la realidad. Esto indica que hay un grupo de contratistas que compran contratos ficticios para ganarse convenios millonarios. La Fiscalía debe poner en cintura a esas personas para que no sigan delinquiendo. Por ese valor menos. Son unos rateros brutos, porque yo no era alcalde en 2016 ni siquiera la visité. Andan comprando logotipos de todas las administraciones para lograr convenios ficticios con la ayuda de algunos funcionarios. Llamo la atención a la fiscalía para que hagan un seguimiento a estas personas».
 
-![](./benjamin-collante-joven.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-peligro-2-124-000-del-icbf-por-el-cartel-de-la-experiencia/benjamin-collante-joven.jpg)
 *Están en peligro $2.124 millones del ICBF para 1.600 niños pobres del Atlántico. Aquí el director regional Benjamín Collante Fernández.*
 
 En efecto, la regional del Atlántico del ICBF mediante las resoluciones No. 2821 del 26 de mayo y No. 5424 del 30 de agosto de 2021 realizó la convocatoria pública para la adjudicación del contrato por **$2.124** con el fin de atender a **1600 niños** de la zona 2 del **programa Generación Explora**. A esta convocatoria se presentaron tres organizaciones que se encuentran inscritas en el **Banco Nacional de Oferentes (BNO): FUNPRODESI (calificación de 4), UNION TEMPORAL GENERACIÓN EXPLORA 2022 (3.9)**  y FUNDACIÓN DE EMPRENDEDORES CONSTRUYENDOFUTURO -FUEMCO (2.81). La mejor calificada de esas tres, por supuesto, fue **FUNPRODESI.** La entidad, como se señaló, sumó cuatro puntos de cinco posibles.
@@ -68,7 +68,7 @@ El valor que presenta el convenio es de **$482.244.837**. La falsedad es tan bur
 
 ## Omisión de la dirección nacional del ICBF
 
-![](./adriana-majul.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-peligro-2-124-000-del-icbf-por-el-cartel-de-la-experiencia/adriana-majul.jpg)
 *Adriana Majul, Secretaria General de Manatí hizo una nueva certificación de un convenio que el exalcalde Abel Devia dice que nunca hizo y que todo es falso.*
 
 El segundo hecho. Lo curioso de todo esto es que el ICBF le adjudicó a esta entidad dos contratos con esa misma certificación falsa en diferentes regionales. pero modificada según la necesidad. Por ejemplo, para constituir el Banco Nacional de Oferentes 2019 (BNO), anexó la misma certificación pero con ciertas modificaciones y firmada supuestamente por Devia Viscaíno. La diferencia es que en esta aparece con la fecha del 31 de diciembre de 2015 y por un valor de $398 millones. O sea, el último día de gestión del alcalde. Esta certificación la habilitó para ejecutar contratos en 2019 y 2020. (Vea la certificación firmada por **Angie Joahana Reyes Tovar** (documento no disponible), directora de contratación del ICBF).

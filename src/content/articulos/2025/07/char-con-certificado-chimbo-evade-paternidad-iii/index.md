@@ -5,10 +5,10 @@ pubDate: "2025-07-24 11:51:12"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/char-con-certificado-chimbo-evade-paternidad-iii/"./hero.jpg"
 ---
 
-![Certificado chimbo](./hero.jpg)
+![Certificado chimbo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/char-con-certificado-chimbo-evade-paternidad-iii/hero.jpg)
 *¿Char con certificado chimbo evade paternidad?*
 
 **«¡Que todo el peso de la ley le caiga!»**, fue la expresión de **Alejandro Char** cuando capturaron al presunto sicario que asesinó a una humilde cajera en el barrio La Paz. **Esa misma expresión es una bofetada contra él mismo**. Siendo la primera autoridad civil y policiva de Barranquilla ¿Char con certificado chimbo evade paternidad y orden judicial para el examen ADN?
@@ -19,7 +19,7 @@ Lo peor: ¿Alex Char falsearía la realidad con un certificado aparentemente chi
 
 ## ¿Char con certificado chimbo?
 
-![¿Char con certificado chimbo? Posesión del exgerente de la Clínica Centro S.A. como gerente de la ESE Hospitalaria del Atlántico UNA, Pablo Alberto de la Cruz Gómez, quien aparece en el centro con guayabera blanca. Cortesía prensa gobernación.](./gerente-de-la-Ese-Atlantico-1024x573.jpeg)
+![¿Char con certificado chimbo? Posesión del exgerente de la Clínica Centro S.A. como gerente de la ESE Hospitalaria del Atlántico UNA, Pablo Alberto de la Cruz Gómez, quien aparece en el centro con guayabera blanca. Cortesía prensa gobernación.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/char-con-certificado-chimbo-evade-paternidad-iii/gerente-de-la-Ese-Atlantico-1024x573.jpeg)
 *¿Char con certificado chimbo? Posesión del exgerente de la Clínica Centro S.A. como gerente de la ESE Hospitalaria del Atlántico UNA, Pablo Alberto de la Cruz Gómez, quien aparece en el centro con guayabera blanca. Cortesía prensa gobernación.*
 
 ¿Alejandro Char llegaría a una bajeza moral y ética blandiendo un certificado chimbo para evadir su responsabilidad paterna? ¿Por qué la Clínica Centro y no una clínica que corresponde a su estrato social y económico donde? Como periodista de investigación fuimos a la Clínica Centro S.A., no tenían idea de esa certificación. Lo pude constatar personalmente el martes 22 de julio a las 11:30 de la mañana.
@@ -48,7 +48,7 @@ Aquí te propongo varios interrogantes que tratan de despejar la conducta del al
 
 ## La confesión
 
-![¿Char con certificado chimbo evade paternidad? Aquí aparece con  la madre de Steven Castellanos. Detrás, la fachada de la inmobiliaria Char Ltda donde trabajaba  Diana Magali Ramos Saavedra.](./Alex_char_26_anos-1024x580.jpg)
+![¿Char con certificado chimbo evade paternidad? Aquí aparece con  la madre de Steven Castellanos. Detrás, la fachada de la inmobiliaria Char Ltda donde trabajaba  Diana Magali Ramos Saavedra.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/char-con-certificado-chimbo-evade-paternidad-iii/Alex_char_26_anos-1024x580.jpg)
 *¿Char con certificado chimbo evade paternidad? Aquí aparece con la madre de Steven Castellanos. Detrás, la fachada de la inmobiliaria Char Ltda donde trabajaba Diana Magali Ramos Saavedra.*
 
 Como lo relatamos en exclusiva esta historia desde la primera entrega de **VoxPopuli Digital** \[[¿El primogénito negado de Alex Char? (I)](/articulos/el-primogenito-negado-de-alex-char-i/)\], el joven **Steven Castellanos Ramos** (33 años) instauró una demanda de paternidad apenas hace un año para establecer si el alcalde de Barranquilla, **Alejandro Char Chaljub**, es su padre.
@@ -59,7 +59,7 @@ Desde entonces, **Steven Castellanos hizo todo los intentos por establecer comun
 
 ## La prueba ADN
 
-![](./Alex_char_fuad.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/char-con-certificado-chimbo-evade-paternidad-iii/Alex_char_fuad.jpg)
 
 De manera que dicha demanda cursa en el **Juzgado 1 de Familia del Circuito de Bogotá**. El despacho judicial ordenó una prueba ADN para comprobar la paternidad del joven, lo cual es un derecho fundamental. Si la prueba genética coincide con el ADN de Char, seguramente el juzgado la tendrá como prueba reina para definir **la paternidad de Alex Char**.
 

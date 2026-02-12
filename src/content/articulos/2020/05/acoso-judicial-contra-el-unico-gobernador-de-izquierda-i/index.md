@@ -5,12 +5,12 @@ pubDate: "2020-05-29 23:39:41"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/acoso-judicial-contra-el-unico-gobernador-de-izquierda-i/"./hero.jpg"
 ---
 
 ## Acoso judicial
 
-\[caption id="attachment\_11802" align="alignnone" width="1024"\]![](./hero.jpg) **Carlos Caicedo y Virna Lizi Johnson Salcedo** (gobernador y alcaldesa de Santa Marta, respectivamente) fueron resaltados hoy por el **Ministro de Salud Fernando Ruiz por los resultados contra el Covid**. Sobre Caicedo pesa un acoso judicial. Cortesía.\[/caption\] ¿Puede configurarse acoso judicial contra **Carlos Caicedo Omar,** el único gobernador de izquierda en Colombia? Basta analizar las declaraciones del **fiscal Francisco Barbosa** anunciando investigaciones preliminares para darse cuenta que **no existen elementos de facto que ameriten iniciar un proceso penal**. Sin embargo, esta situación provocó la advertencia de la bancada de oposición. Pues, el acoso judicial deviene en **una posible persecución política**. Si bien es cierto que cualquier ciudadano puede denunciar hechos considerados irregulares y los entes investigadores están obligados a recibirlos y ponderarlos; no es menos cierto que pueden ser usados para construir una **matriz de opinión negativa** contra el gobernador Caicedo. Esa es la consecuencia del acoso judicial.
+\[caption id="attachment\_11802" align="alignnone" width="1024"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/acoso-judicial-contra-el-unico-gobernador-de-izquierda-i/hero.jpg) **Carlos Caicedo y Virna Lizi Johnson Salcedo** (gobernador y alcaldesa de Santa Marta, respectivamente) fueron resaltados hoy por el **Ministro de Salud Fernando Ruiz por los resultados contra el Covid**. Sobre Caicedo pesa un acoso judicial. Cortesía.\[/caption\] ¿Puede configurarse acoso judicial contra **Carlos Caicedo Omar,** el único gobernador de izquierda en Colombia? Basta analizar las declaraciones del **fiscal Francisco Barbosa** anunciando investigaciones preliminares para darse cuenta que **no existen elementos de facto que ameriten iniciar un proceso penal**. Sin embargo, esta situación provocó la advertencia de la bancada de oposición. Pues, el acoso judicial deviene en **una posible persecución política**. Si bien es cierto que cualquier ciudadano puede denunciar hechos considerados irregulares y los entes investigadores están obligados a recibirlos y ponderarlos; no es menos cierto que pueden ser usados para construir una **matriz de opinión negativa** contra el gobernador Caicedo. Esa es la consecuencia del acoso judicial.
 
 ## Campaña de moralización
 

@@ -5,7 +5,7 @@ pubDate: "2019-10-10 03:09:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/castillo-reemplazara-a-pardo-en-edurbe/"./hero.jpg"
 ---
 
 

@@ -5,7 +5,7 @@ pubDate: "2018-12-16 18:52:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/cartagena-si-puede-asumir-directamente-el-alumbrado-publico-responde-la-interventoria/"./hero.jpg"
 ---
 
 (./pedrito-vacunando.jpg)
@@ -26,7 +26,7 @@ En materia de servicios públicos domiciliarios fue aprobada la **ley 142 de 199
 
 (Ver: **[La oscuridad del alumbrado público](/articulos/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/)**)
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/cartagena-si-puede-asumir-directamente-el-alumbrado-publico-responde-la-interventoria/hero.jpg)
 *Pedrito Pereira, alcalde Mayor de cartagena, suministrando la dosis de vacuna a una bebé. Propone un año de prórroga del alumbrado público. *
 
 **Pedrito Pereira**, alcalde mayor de Cartagena, **presentó el proyecto de acuerdo para que el concejo autorice una prórroga de un año** del contrato que finaliza el 3 de enero. Fueron 20 años de concesión con 5 otro sí. La prórroga se hace tomando en cuenta la imposibilidad de resolver la situación en forma inmediata, ya que un proceso licitatorio amerita por lo menos cuatro meses.

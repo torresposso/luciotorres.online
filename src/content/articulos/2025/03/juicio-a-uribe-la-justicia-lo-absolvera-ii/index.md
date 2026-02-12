@@ -5,10 +5,10 @@ pubDate: "2025-03-22 16:44:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-justicia-lo-absolvera-ii/"./hero.jpg"
 ---
 
-![El saboteado juicio a Uribe ¿la justicia lo absolverá?](./hero.jpg)
+![El saboteado juicio a Uribe ¿la justicia lo absolverá?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-justicia-lo-absolvera-ii/hero.jpg)
 *El saboteado juicio a Uribe ¿la justicia lo absolverá? Los abogados del expresidente se salieron con la suya como hace un año. Lograron que le aplazaran una vez más el juicio.*
 
 La noticia judicial más importante del país de toda la historia del siglo 21 es el juicio al expresidente **Álvaro Uribe Vélez**, cuyo radicado es el No 110016000102-2020-00276-00. **¿La justicia lo absolverá o saldrá libre por prescripción?** Su defensa ―aunque lo niegue― se la juega con la prescripción del proceso, cuya fecha límite sería el **8 de octubre de 2025**.
@@ -27,7 +27,7 @@ Por tanto, debía darle curso para que otro juez del circuito conozca la recusac
 
 ## La impunidad de **«Los Intocables»**
 
-![Álvaro Uribe, ¿la justicia lo absolverá?](./uribe-y-montoya-1024x576.jpg)
+![Álvaro Uribe, ¿la justicia lo absolverá?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-justicia-lo-absolvera-ii/uribe-y-montoya-1024x576.jpg)
 *Álvaro Uribe, el jefe de ¿la justicia lo absolverá?*
 
 Si el expresidente lo absuelven por prescripción del delito ―vencimiento del tiempo legal para ser juzgado― se mantendría el imperio de la impunidad de **«Los Intocables»** que fueron los financiadores y auspiciadores del paramilitarismo y de sus crímenes de lesa humanidad. O si lo absuelven por duda razonable, la que estaría en duda sería la justicia colombiana.

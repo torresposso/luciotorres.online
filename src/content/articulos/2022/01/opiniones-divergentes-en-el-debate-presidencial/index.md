@@ -5,7 +5,7 @@ pubDate: "2022-02-01 00:19:14"
 author: "Lucio"
 categories: ["Opinión","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/opiniones-divergentes-en-el-debate-presidencial/"./hero.jpg"
 ---
 
 El tema de seguridad debería ser uno de los puntos centrales del debate presidencial y parlamentario. Porque si no hay seguridad ciudadana, la sociedad estará presa del temor y la economía sufre efectos por la falta de confianza ciudadana.

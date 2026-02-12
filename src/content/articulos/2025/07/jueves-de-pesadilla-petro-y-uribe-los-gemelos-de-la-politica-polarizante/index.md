@@ -5,10 +5,10 @@ pubDate: "2025-07-04 03:25:14"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/jueves-de-pesadilla-petro-y-uribe-los-gemelos-de-la-politica-polarizante/"./hero.jpg"
 ---
 
-![Jueves de pesadilla: Petro y Uribe, los gemelos de la política polarizante.](./hero.jpg)
+![Jueves de pesadilla: Petro y Uribe, los gemelos de la política polarizante.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/jueves-de-pesadilla-petro-y-uribe-los-gemelos-de-la-politica-polarizante/hero.jpg)
 *Jueves de pesadilla: Petro y Uribe, los gemelos de la política polarizante.*
 
 Sin duda, hoy fue un **jueves de pesadilla** para Petro y Uribe, los gemelos de la política polarizante. El presidente **Gustavo Petro Urrego** y el expresidente **Álvaro Uribe Vélez** son dos titanes con ropajes ideológicos distintos que encarnan la patología del _país político_: un trastorno mental. Recibieron el mes de julio con una **pesada y afilada espada que cuelga de una hebra de cabello de burro sobre sus respectivas cabezas**. Es el presagio de que ambos no determinarán el destino de las próximas elecciones del 2026, como ellos pretenden.

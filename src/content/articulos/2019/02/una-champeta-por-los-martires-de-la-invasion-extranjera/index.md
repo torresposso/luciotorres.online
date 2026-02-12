@@ -5,10 +5,10 @@ pubDate: "2019-02-22 14:08:06"
 author: "Lucio"
 categories: ["Cartagena","Opinión"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/una-champeta-por-los-martires-de-la-invasion-extranjera/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/una-champeta-por-los-martires-de-la-invasion-extranjera/hero.jpg)
 *"¡No me toques!". Aquí en el monumento erigido a la libertad en el Camellón de los Mártires, Cartagena de Indias.*
 
 > **«**_En este sentido etimológico **la nostalgia** (contrario a la memoria) parece algo así como el dolor de ignorar, de no saber: estás lejos y no sé qué ha sido de ti. Mi país está lejos y no sé qué está ocurriendo allí_ _**»**_ _._

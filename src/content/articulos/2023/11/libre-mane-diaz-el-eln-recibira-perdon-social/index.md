@@ -5,10 +5,10 @@ pubDate: "2023-11-10 03:28:21"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/libre-mane-diaz-el-eln-recibira-perdon-social/"./hero.jpg"
 ---
 
-![¡Libre Mane Díaz!](./hero.jpg)
+![¡Libre Mane Díaz!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/libre-mane-diaz-el-eln-recibira-perdon-social/hero.jpg)
 *¡Libre Mane Díaz! Cortesía. Foto especial. (Cortesía).*
 
 ¡Libre _Mane_ Díaz! Por fin, el anuncio se hizo realidad hoy. ¿Y ahora qué? ¿Seguirá el Eln secuestrando y **autosaboteando el proceso de paz**? ¿Abusará de la **laxitud del primer presidente de izquierda** Gustavo Petro? ¿Puede recibir el **perdón social** de la nación? ¿Se confirmará su **suicidio político**? ¿Tiene **autoridad ética** para proponer una transformación social del país pisoteando la **dignidad humana**? Sin duda, el Eln pasará a la historia por dos hechos que lo retratan para la historia: **el asesinato (1989) de un obispo de la iglesia Católica y el secuestro del padre de una estrella del fútbol mundial.**
@@ -21,7 +21,7 @@ Te puede interesar: [Suicidio político del Eln y secuestro de Díaz (II)](/arti
 
 ## La extorsión a la libertad del Eln
 
-![¡Libre Mane Díaz! Un obispo artífice de su libertad](./Libre_mane_diaz.jpg)
+![¡Libre Mane Díaz! Un obispo artífice de su libertad](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/libre-mane-diaz-el-eln-recibira-perdon-social/Libre_mane_diaz.jpg)
 *¡Libre Mane Díaz! Un obispo artífice de su libertad. Foto especial. (Cortesía).*
 
 Después del derecho a la vida, el derecho a la libertad, son conquistas de la humanidad. Pero, al mismo tiempo, son los dos derechos más violentados en el mundo capitalista y, en particular, de nuestro país. Las distintas guerras, incluyendo las supuestas guerras justas, afectan la vida y la libertad. Si bien existe libertad constitucional y legal, la mitad de Colombia está arrinconada por las diferentes fuerzas paralelas al poder estatal. La conducta irracional del Eln deslegitima su discurso político y, en la praxis, su actuación se asemeja a un grupo más del bestiario nacional. Por ejemplo, al Clan del Golfo.

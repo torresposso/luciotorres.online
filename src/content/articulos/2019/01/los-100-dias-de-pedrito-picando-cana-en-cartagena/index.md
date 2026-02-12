@@ -5,10 +5,10 @@ pubDate: "2019-01-17 12:45:27"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/los-100-dias-de-pedrito-picando-cana-en-cartagena/"./hero.jpg"
 ---
 
-![](hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/los-100-dias-de-pedrito-picando-cana-en-cartagena/hero.jpg)
 *Pedrito*
 
 **Pedrito está picando caña**. Trabaja día y noche. El tiempo de su gobierno es breve, muy breve. Quiere resultados pronto. Lo principal, **la confianza de los cartageneros** que está en el suelo por la inestabilidad reinante. **Pedrito Pereira Caballero** quiere ser _**Pedro El Grande**_ en solo 465 días.
@@ -17,7 +17,7 @@ Pedrito está picando caña. Quiere seguir siendo un Peter Pan. Tendrá más tie
 
 Si, Pedrito tiene una hada madrina: **la vicepresidente Martha Lucía Ramírez**, quien se ha dado la pela para protegerlo. Martha Lucía Ramírez, cual si fuera la _**Campanita**_ del viejo cuento de **_Piter Pan_** que nos leían nuestras abuelas, siempre viene a Cartagena a espolvorearle la magia para que le abra caminos en medio de la jungla de desconfianza que reina en la ciudadanía cartagenera.
 
-![](./pedrito-y-vicepresidenta-2-1024x744.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/los-100-dias-de-pedrito-picando-cana-en-cartagena/pedrito-y-vicepresidenta-2-1024x744.jpg)
 *La hada madrina de Peter Pan, Martha Lucía Ramírez, la Campanilla de Pedrito. Aquí toma la palabra. Aparece el periodista Juan Gossaín.*
 
 Cuando se posesionó Pedrito, dijo:

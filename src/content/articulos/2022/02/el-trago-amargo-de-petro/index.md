@@ -5,10 +5,10 @@ pubDate: "2022-02-10 02:16:10"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-trago-amargo-de-petro/"./hero.jpg"
 ---
 
-![El trago amargo de Petro en Girardot](./hero.jpg)
+![El trago amargo de Petro en Girardot](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-trago-amargo-de-petro/hero.jpg)
 *El trago amargo de Petro en Girardot le puede salir muy caro.*
 
 ¿Qué piensas del trago amargo de Petro? Tomarse unos tragos es algo normal para el común de la gente. Pero presidir una manifestación política borracho como lo hizo Gustavo Petro, precandidato presidencial, no solo es una falta de respeto a sus seguidores, sino un atentado contra su integridad mental. Te lo explico.

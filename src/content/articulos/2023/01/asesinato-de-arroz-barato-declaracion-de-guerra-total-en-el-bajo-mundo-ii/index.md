@@ -5,10 +5,10 @@ pubDate: "2023-01-11 02:22:03"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asesinato-de-arroz-barato-declaracion-de-guerra-total-en-el-bajo-mundo-ii/"./hero.jpg"
 ---
 
-![Tres días de plazo una facción del Clan del Golfo le dió a las estructuras de «Paty Paty» y de «Gomelo». Guerra total en el bajo mundo.](./hero.jpg)
+![Tres días de plazo una facción del Clan del Golfo le dió a las estructuras de «Paty Paty» y de «Gomelo». Guerra total en el bajo mundo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asesinato-de-arroz-barato-declaracion-de-guerra-total-en-el-bajo-mundo-ii/hero.jpg)
 *Tres días de plazo una facción del Clan del Golfo le dió a las estructuras de «Paty Paty» y de «Gomelo». Guerra total en el bajo mundo.*
 
 Con **«Paty Paty»** enjaulado desde el 26 de diciembre de 2022, la policía pensaba que se iba a controlar los casos de sicariatos en Cartagena. ¡Cuán equivocados estaban! El homicidio de un mototaxista en **Arroz Barato**, el día anterior, en cuyo cuerpo le colgaron un macabro letrero con la **declaración de una guerra total en el bajo mundo del narcotráfico**, es indicio de que el 2023 será más sangriento. Más doloroso que el año anterior, a no ser que las autoridades le cambien el curso a este oscuro vaticinio. Las próximas horas serán de tensión y expectativa. ¿Se cumplirá el supuesto plazo dado a los amigos de **«Paty Paty»** y ******«**Gomelo**»******, los dos pequeños capos que se estaban dando plomo?
@@ -27,7 +27,7 @@ Algunos testigos dijeron que la víctima de Arroz Barato fue citada a ese sitio.
 
 ## Se rearman en el bajo mundo
 
-![En el 2022, alias «Paty Paty» salió a la palestra pública.](./alias-paty-paty.jpeg)
+![En el 2022, alias «Paty Paty» salió a la palestra pública.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asesinato-de-arroz-barato-declaracion-de-guerra-total-en-el-bajo-mundo-ii/alias-paty-paty.jpeg)
 *En el 2022, alias «Paty Paty» salió a la palestra pública.*
 
 En tanto, ******«los peces gordos»****** quieren que esta guerra del bajo mundo termine. Ellos pierden en el negocio. En el 2022 cayeron muchos cargamentos de cocaína destinadas al mercado de los Estados Unidos y de Europa. No tanto porque hubo más operatividad, sino que entre ellos se _sapeaban_. Ahora quieren frenar esa situación que les hace perder mucha plata en el negocio de las drogas.

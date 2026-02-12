@@ -5,10 +5,10 @@ pubDate: "2022-11-07 03:52:22"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/negligencia-de-unp-puso-en-riesgo-a-protegidos/"./hero.jpg"
 ---
 
-![¿Quién miente? ¿El director o el contratista? Negligencia de UNP puso en riesgo a protegidos.](./augusto-rodriguez-fotocompisicion.jpeg)
+![¿Quién miente? ¿El director o el contratista? Negligencia de UNP puso en riesgo a protegidos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/negligencia-de-unp-puso-en-riesgo-a-protegidos/augusto-rodriguez-fotocompisicion.jpeg)
 *¿Quién miente? ¿El director o el contratista? Negligencia de UNP puso en riesgo a protegidos.*
 
 ¿Otra negligencia de UNP? Con ocasión del incidente donde supuestamente un contratista había **"apagado vía satélite"** varios vehículos blindados tipo 5 de uso de varios expresidentes y de una élite de defensores de derecho humanos, se pudo comprobar que se debió a una evidente omisión y negligencia del **director de la UNP**\-**Unidad Nacional de Protección**, **Augusto Rodriguez Ballesteros**.
@@ -19,7 +19,7 @@ No obstante, hubo algo grave. Para **esconder esa omisión y negligencia**, la d
 
 ## ¿Negligencia de UNP?
 
-![¿Negligencia de la UNP? Giovanni Gallo acusa al director de negligencia.](./hero.jpg)
+![¿Negligencia de la UNP? Giovanni Gallo acusa al director de negligencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/negligencia-de-unp-puso-en-riesgo-a-protegidos/hero.jpg)
 *¿Negligencia de la UNP? Giovanni Gallo acusa al director de negligencia.*
 
 En ese sentido el presidente del sindicato de **Analtraseg, Giovanni Gallo**, denunció que el nuevo director de la UNP y sus asesores **no tienen experiencia en seguridad**. Esto ocasiona que problemas sencillos se conviertan en grandes problemas que no pueden resolver, como es el caso de los vehículos que supuestamente le apagaron. Además, Gallo dijo:
@@ -54,7 +54,7 @@ Sin embargo, el sindicato tiene razón en controvertir el comunicado donde el di
 
 **VoxPopuli Digita**l tuvo acceso al contrato vigente en el cual la cláusula segunda, que determina el alcance del objeto del contrato, brilla el número cero en la casilla de necesidades de vehículos tipo 5. Veamos los apartes del mentado contrato:
 
-![](./contrato-unp2.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/negligencia-de-unp-puso-en-riesgo-a-protegidos/contrato-unp2.jpg)
 
 ## Protegidos Denuncian improvisación de UNP
 

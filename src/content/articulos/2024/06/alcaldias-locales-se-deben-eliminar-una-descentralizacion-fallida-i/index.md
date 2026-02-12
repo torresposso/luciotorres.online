@@ -5,10 +5,10 @@ pubDate: "2024-06-30 01:02:04"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay","Gustavo Petro"]
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/alcaldias-locales-se-deben-eliminar-una-descentralizacion-fallida-i/"./hero.jpg"
 ---
 
-![El director del DPN, Alexander López; el Ministro del Interior, Juan Fernando Velasco, y la Viceministra para el Diálogo Social, Lilia Solano. ¿Una descentralización fallida?](./Aelexander_diaslogo-social_.jpeg)
+![El director del DPN, Alexander López; el Ministro del Interior, Juan Fernando Velasco, y la Viceministra para el Diálogo Social, Lilia Solano. ¿Una descentralización fallida?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/alcaldias-locales-se-deben-eliminar-una-descentralizacion-fallida-i/Aelexander_diaslogo-social_.jpeg)
 *El director del DPN, Alexander López; el ahora exMinistro del Interior, Juan Fernando Velasco, y la Viceministra para el Diálogo Social, Lilia Solano. ¿Una descentralización fallida?*
 
 Cuando se observa la conducta de **Andy Reales Arroyo**, alcalde local 1 de **Cartagena de Indias** (2020-2023)**,** en los últimos días del decadente gobierno de **William Dau**, se llega a la conclusión que **las alcaldías locales son una descentralización fallida.** Sin sonrojarse, Reales firmó un contrato de capacitación por **$3.185 millones** supuestamente para la superación de la pobreza ¡en 8 días! del mes de diciembre de 2023. Por supuesto, todo fue corrupción pura.
@@ -27,7 +27,7 @@ Se abre el debate para _poner el dedo en la llaga_ sobre la fallida descentraliz
 
 ## «Estamos de acuerdo con el alcalde»: Quintana
 
-![Jorge Quintana Sosa, el veedor ciudadano que insiste en frenar el robo en las alcaldías locales.](./hero.jpg)
+![Jorge Quintana Sosa, el veedor ciudadano que insiste en frenar el robo en las alcaldías locales.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/alcaldias-locales-se-deben-eliminar-una-descentralizacion-fallida-i/hero.jpg)
 *Jorge Quintana Sosa, el veedor ciudadano que insiste en frenar el robo en las alcaldías locales. ¿Una descentralización fallida?*
 
 Algunos veedores, como **Jorge Quintana Sosa**, consideran que la descentralización no ha servido para nada. Solo para empobrecer más a las comunidades pobres y enriquecer a unos cuantos.
@@ -40,14 +40,14 @@ Por esta razón, **VoxPopuli Digital** propone un debate de carácter nacional p
 
 ## Se debe intervenir los fondos locales
 
-![Cuando el alcalde Dumek Turbay posesionó a los alcaldes locales les hizo firmar un documento para definir la hoja de ruta. Una descentralización fallida](./Dumek_-1024x1012.jpg)
+![Cuando el alcalde Dumek Turbay posesionó a los alcaldes locales les hizo firmar un documento para definir la hoja de ruta. Una descentralización fallida](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/alcaldias-locales-se-deben-eliminar-una-descentralizacion-fallida-i/Dumek_-1024x1012.jpg)
 *Cuando el alcalde Dumek Turbay posesionó a los alcaldes locales les hizo firmar un documento para definir la hoja de ruta. Una descentralización fallida*
 
 Debido a ese proceso de **descomposición moral** en el desarrollo de las localidades, algunas veedurías abrieron un debate sobre la decisión del alcalde **Dumek Turbay Paz** de no incrementar los recursos de los fondos locales de desarrollo. Lo único que ha servido la inversión social, hasta ahora, es para enriquecer al financista que impone el alcalde local y a la mayoría de ediles.
 
 En ese sentido, **VoxPopuli Digital** está en condiciones de señalar que detrás del contrato de **$3.185 millones** se encuentra, presuntamente, el concejal de **Cambio Radical**, **Pedro Aponte**. El 26 de febrero la tesorería distrital le pagó la controversial cuenta que legalizaron sospechosamente el 27 de diciembre de 2023. Luego de que le pagaran los **$3.185 millones**, Pedro Aponte llenó de derechos de petición al alcalde **Dumek Turbay** con el fin de presionarlo para obtener mayores dividendos de su actividad política como concejal.
 
-![Sobre estos sujetos se debe buscar su responsabilidad penal, disciplinaria y fiscal por el presunto robo de los $3.185 mil millones.](./Los-duenos-del-contrato.jpg)
+![Sobre estos sujetos se debe buscar su responsabilidad penal, disciplinaria y fiscal por el presunto robo de los $3.185 mil millones.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/alcaldias-locales-se-deben-eliminar-una-descentralizacion-fallida-i/Los-duenos-del-contrato.jpg)
 *Sobre estos sujetos se debe buscar su responsabilidad penal, disciplinaria y fiscal por el presunto robo de los $3.185 mil millones.*
 
 A pesar de las denuncias y de la supuesta intervención de la Procuraduría y de las denuncias antes la Fiscalía, **Andy Reales echó hacia adelante el mencionado contrato.** No le temen a la Fiscalía ni a la Procuraduría. Mucho menos a la Contraloría. Se valió del decreto de emergencia sobre la ola invernal del alcalde de ese momento, William Dau, con el cual se legalizó varios contratos sospechosos.

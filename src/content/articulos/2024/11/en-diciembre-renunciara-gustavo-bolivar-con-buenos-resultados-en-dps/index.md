@@ -5,10 +5,10 @@ pubDate: "2024-11-28 01:05:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/en-diciembre-renunciara-gustavo-bolivar-con-buenos-resultados-en-dps/"./hero.jpg"
 ---
 
-![Gustavo Bolívar tiene a la derecha a Bolívar y a la izquierda a Petro y Gaitán.](./hero.jpg)
+![Gustavo Bolívar tiene a la derecha a Bolívar y a la izquierda a Petro y Gaitán.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/en-diciembre-renunciara-gustavo-bolivar-con-buenos-resultados-en-dps/hero.jpg)
 *¿Renunciará Gustavo Bolívar? En su despacho, tiene a la derecha a Bolívar y a la izquierda a Petro y Gaitán.*
 
 ¿Renunciará **Gustavo Bolívar Moreno**? Tal es la pregunta que **VoxPopuli Digital** le hizo. Respondió que estará allí hasta cuando el presidente **Gustavo Petro lo indique**. El balance que presenta de su gestión es **altamente positivo**, según manifestó. Hizo caso omiso a los cuestionamientos de los sindicatos de la entidad en materia de salud ocupacional. De igual forma, enfrentó las críticas sobre la falta de sostenibilidad financiera de programas banderas como **Renta Ciudadana**.
@@ -29,7 +29,7 @@ Son Ocho meses de gestión al frente del Departamento de Prosperidad Social (DPS
 
 > **«**Erradicar la pobreza es un acto de justicia**»**.
 
-![«Erradicar la pobreza es un acto de justicia»: Prosperidad Social. Despacho de Gustavo Bolívar.](./Gustavo_Bolivar_Erradicar-1024x528.jpg)
+![«Erradicar la pobreza es un acto de justicia»: Prosperidad Social. Despacho de Gustavo Bolívar.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/en-diciembre-renunciara-gustavo-bolivar-con-buenos-resultados-en-dps/Gustavo_Bolivar_Erradicar-1024x528.jpg)
 *«Erradicar la pobreza es un acto de justicia»: Prosperidad Social. Despacho de Gustavo Bolívar.*
 
 Entre los logros más destacados está la consolidación del programa **Renta Ciudadana**, que benefició a más de **3 millones de hogares en situación de pobreza extrema y vulnerabilidad**. Para este logro, el DPS invirtió más de 16 billones de pesos. Este programa priorizó a mujeres jefas de hogar, personas con discapacidad y comunidades indígenas.

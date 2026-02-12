@@ -5,10 +5,10 @@ pubDate: "2023-11-17 03:47:50"
 author: "Lucio"
 categories: ["Crónica","Deportes","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/goles-de-lucho-diaz-una-bofetada-al-eln/"./hero.jpg"
 ---
 
-![Goles de Lucho Díaz. Lo que siente un padre cuando su hijo triunfa.](./hero.jpg)
+![Goles de Lucho Díaz. Lo que siente un padre cuando su hijo triunfa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/goles-de-lucho-diaz-una-bofetada-al-eln/hero.jpg)
 *Goles de Lucho Díaz. Lo que siente un padre cuando su hijo triunfa.*
 
 La selección Colombia de fútbol derrotó a la de Brasil (2-1) con goles de **_Lucho_ Díaz**. Dos goles de antología. Dos lindos cabezazos resultados de sendas jugadas colectivas con pase gol de **James Rodríguez**, quien siempre buscaba la cabeza de su compañero de equipo. ¿Este resultado se calificaría como una bofetada al ELN por su conducta de crimen de lesa humanidad al secuestrar a su padre **Manuel _Mane_ Díaz**? De cualquier modo, fueron dos goles que estremecieron al país y expresa la libertad y el amor hacia un padre que sufrió un delito antihumano como el secuestro.
@@ -21,7 +21,7 @@ Te puede interesar: [Suicidio político del Eln y secuestro de Díaz (II)](/arti
 
 ## Antonella Petro no vio los goles
 
-![La adolescente Antonella Petro Alcocer no soportó el coro contra su padre. Goles de Lucho Díaz ¿una bofetada al ELN?](./Antonella-Petro.jpg)
+![La adolescente Antonella Petro Alcocer no soportó el coro contra su padre. Goles de Lucho Díaz ¿una bofetada al ELN?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/goles-de-lucho-diaz-una-bofetada-al-eln/Antonella-Petro.jpg)
 *La adolescente Antonella Petro Alcocer no soportó el coro contra su padre. Goles de Lucho Díaz ¿una bofetada al ELN?*
 
 Esta vez, la atmósfera estaba cargada. No solamente por la la expectativa de lo que podía hacer **_Lucho_ Díaz**. ¿Repetirá lo que hizo con su club Liverpool? ¿Será el salvador del partido? También, la pesadez del clima no era por el abrumador calor sino también porque un grupo de personas había regado la versión de que el presidente Gustavo Petro estaba en el estadio. Por esta razón, se escuchó un coro:

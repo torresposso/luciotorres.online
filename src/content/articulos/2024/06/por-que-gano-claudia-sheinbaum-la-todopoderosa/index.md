@@ -5,10 +5,10 @@ pubDate: "2024-06-03 19:54:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/por-que-gano-claudia-sheinbaum-la-todopoderosa/"./hero.jpg"
 ---
 
-![¿Por qué ganó Claudia Sheinbaum, la todopoderosa?](./Claudia_Sheinbaum.jpeg)
+![¿Por qué ganó Claudia Sheinbaum, la todopoderosa?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/por-que-gano-claudia-sheinbaum-la-todopoderosa/Claudia_Sheinbaum.jpeg)
 *¿Por qué ganó Claudia Sheinbaum, la todopoderosa?*
 
 **Claudia Sheinbaum**, con el 58,58% de los resultados electorales, México se apresta a prolongar un régimen de 12 años de gobierno de izquierda inaugurado por el actual presidente **Andrés López Obrador-AMLO**. De igual manera, la coalición política de **Morena, Verde y PT** ganó la alcaldía de Ciudad de México, y 23 de los 32 estados mexicanos. Además, eligieron la mayoría calificada del parlamento, lo cual hará todopoderosa a la nueva presidenta.

@@ -5,10 +5,10 @@ pubDate: "2022-08-14 20:22:23"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/encuentro-distante-entre-presidente-petro-y-presidente-de-andi/"./hero.jpg"
 ---
 
-![Diálogo distante](./petro-y-bruce.jpeg)
+![Diálogo distante](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/encuentro-distante-entre-presidente-petro-y-presidente-de-andi/petro-y-bruce.jpeg)
 *Encuentro distante entre el presidente Petro y el presidente de Andi*
 
 Un encuentro distante y tenso se registró en la anoche del 12 de agosto durante la clausura del **7° Congreso Empresarial Colombiano** y 78 **Asamblea de afiliados de la Andi**. Luego de que Gustavo Petro hiciera su debut como presidente frente a un grupo de poder de la economía nacional, se sentó en la silla con el fin de escuchar las preguntas de los empresarios. Pero en forma sorpresiva el presidente de la Andi, Bruce Mac Master, dio por terminado el congreso.

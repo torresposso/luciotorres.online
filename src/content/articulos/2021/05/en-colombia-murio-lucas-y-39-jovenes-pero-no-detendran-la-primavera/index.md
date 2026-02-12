@@ -5,12 +5,12 @@ pubDate: "2021-05-11 22:40:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-murio-lucas-y-39-jovenes-pero-no-detendran-la-primavera/"./hero.jpg"
 ---
 
 > **_«Podrán matar todas las flores,_** **_pero no detendrán la primavera»_** (Pablo Neruda)
 
-\[caption id="attachment\_14935" align="aligncenter" width="1120"\]![](./lucas-villa-ilustracion.jpeg) Hoy murió **Lucas Villa**. Es uno de los **39 muertos** que lleva el Paro Nacional.\[/caption\]
+\[caption id="attachment\_14935" align="aligncenter" width="1120"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-murio-lucas-y-39-jovenes-pero-no-detendran-la-primavera/lucas-villa-ilustracion.jpeg) Hoy murió **Lucas Villa**. Es uno de los **39 muertos** que lleva el Paro Nacional.\[/caption\]
 
 Dos sucesos acaecieron en las últimas 24 horas del Paro Nacional. **El fallido Diálogo Nacional convocado por el presidente Duque y la muerte de uno de los líderes estudiantiles, Lucas Villa**. Sin duda, la violencia y el terror de estado desatado contra la rebeldía juvenil, **no detendrán la primavera**.
 
@@ -56,7 +56,7 @@ Por su parte Fedesarrollo manifiesta:
 
 ## No detendrán la primavera de abril
 
-\[caption id="attachment\_14936" align="aligncenter" width="1200"\]![](./hero.jpg) Lucas Villa en una posición pacífica frente al ESMAD. **No detendrán la llegada de la primavera.**\[/caption\]
+\[caption id="attachment\_14936" align="aligncenter" width="1200"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-murio-lucas-y-39-jovenes-pero-no-detendran-la-primavera/hero.jpg) Lucas Villa en una posición pacífica frente al ESMAD. **No detendrán la llegada de la primavera.**\[/caption\]
 
 El movimiento de esta primavera de abril y mayo llegó con mucha más fuerza de lo que se sospechaba. Incluso, **sus líderes no tenían idea de que por dentro había un volcán en proceso de erupción**.  Solo bastaba un detonante. Y esa mecha fue la Reforma Tributaria de Duque, Carrasquilla y el FMI que le explotó en la cara al presidente.
 

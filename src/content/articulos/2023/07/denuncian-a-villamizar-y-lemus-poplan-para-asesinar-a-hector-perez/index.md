@@ -5,10 +5,10 @@ pubDate: "2023-07-22 02:11:09"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/denuncian-a-villamizar-y-lemus-poplan-para-asesinar-a-hector-perez/"./hero.jpg"
 ---
 
-![Denuncian plan para asesinar a Héctor Pérez](./hero.jpg)
+![Denuncian plan para asesinar a Héctor Pérez](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/denuncian-a-villamizar-y-lemus-poplan-para-asesinar-a-hector-perez/hero.jpg)
 *Denuncian plan para asesinar a Héctor Pérez/Foto suministrada.*
 
 Hoy fue desvelado un plan para asesinar a Héctor Pérez Fernández, candidato a la alcaldía de Cartagena y abogado de restitución de tierras. De inmediato, algunos defensores de derechos humanos activaron las alarmas para solicitarle a los organismos nacionales competentes la protección de la integridad física del líder social y político.
@@ -21,7 +21,7 @@ Te puede interesar: [¿Qué quiere hacer la SAE en Cachenche?](/articulos/que-qu
 
 ## ¿Quién es Pérez Fernández?
 
-![](./Denuncia_Hector-Perez_recuadro.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/denuncian-a-villamizar-y-lemus-poplan-para-asesinar-a-hector-perez/Denuncia_Hector-Perez_recuadro.jpg)
 *Pantallazo de la denuncia penal enviada a la Fiscalía, Procuraduría, Mininterior, entre otros.*
 
 No es la primera vez que haya recibido amenazas de muerte. En este año, se contabilizan dos que fueron denunciadas ante la Fiscalía. Es relevante señalar que Héctor Pérez Fernández tiene más de 30 años en su papel de defensor de los derechos colectivos de la ciudadanía cartagenera. Estuvo en un connotado equipo de veedores al lado de **Jorge Piedrahita Aduen y Milciades Garcés**, ya fallecidos, que denominaron **Movimiento Ciudadano contra la Corrupción**. Presenta resultados concretos en su papel de veedor y en las denuncias antes las autoridades competentes.
@@ -32,7 +32,7 @@ En esta coyuntura electoral, Héctor Pérez se encuentra como candidato a la alc
 
 ## El plan para asesinar a Héctor Pérez
 
-![](./jhon-villamizar.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/denuncian-a-villamizar-y-lemus-poplan-para-asesinar-a-hector-perez/jhon-villamizar.jpeg)
 *Plan para asesinar a Héctor Pérez. Aquí Villamizar cuando estuvo en la finca Cachenche y fue atendido por el presidente de la Asociación de Campesinos*
 
 De acuerdo a la denuncia y ratificada por Héctor Pérez, objetivo de este macabro plan, en la reunión realizada en la cancha de golf del Club Campestre de Turbaco el pasado 8 de julio, al parecer, Villamizar Gómez, le propuso al abogado y socio eventual de un negocio en un sector de Cachenche, **Adolfo Vergara Martínez**, que la idea es reunir $100 millones para **mandar a matar a Héctor Pérez Fernández**.
@@ -45,7 +45,7 @@ El veedor Urueta Benavides, denunciante, manifestó en el escrito dirigido a la 
 
 ## La coordinadora del plan
 
-![Luis Fernando Lemus González, aparece mencionado en su relación con Jhon Villamizar. Al parecer, son socios.  plan para asesinar a Héctor Pérez](./Lemus.jpg)
+![Luis Fernando Lemus González, aparece mencionado en su relación con Jhon Villamizar. Al parecer, son socios.  plan para asesinar a Héctor Pérez](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/denuncian-a-villamizar-y-lemus-poplan-para-asesinar-a-hector-perez/Lemus.jpg)
 *Luis Fernando Lemus González, aparece mencionado en su relación con Jhon Villamizar. Al parecer, son socios./Facebook.*
 
 Se indicó en la denuncia, que la coordinadora del plan para asesinar a Héctor Pérez es, presuntamente, Fanny Batista, quien mantiene una amistad íntima con Villamizar Gómez. Es una señora reconocida en Santa Rosa de Lima, al norte de Bolívar. Supuestamente se indicó que ella ya tenía contactado a los sicarios.

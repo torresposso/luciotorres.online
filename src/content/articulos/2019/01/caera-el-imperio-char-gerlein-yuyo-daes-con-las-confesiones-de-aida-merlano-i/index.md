@@ -5,10 +5,10 @@ pubDate: "2019-01-29 10:29:09"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Política"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/caera-el-imperio-char-gerlein-yuyo-daes-con-las-confesiones-de-aida-merlano-i/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/caera-el-imperio-char-gerlein-yuyo-daes-con-las-confesiones-de-aida-merlano-i/hero.jpg)
 *Marco Antonio Rueda Soto, el emperador de la ley, el investigador de Aida Merlano, y probablemente del senador Arturo Char. ¿Se desmoronará el imperio Char-Gerlein-Daes?*
 
 ¿Cómo un proceso pasional termina con la caída súbita de una política ambiciosa — **Aída Merlano Rebolledo**—  que terminó estrellada contra su propio muro y amenaza con desmoronar a uno de los imperios más poderosos del país, como es la **alianza Char-Gerlein-«Yuyo» Daes**? Los afectos de **Julio Gerlein**, gran constructor y contratista del Estado, por Aida fueron más fuertes que el amor por su hermano **Roberto Gerlein**.
@@ -17,7 +17,7 @@ heroImage: "./hero.jpg"
 
 ## El origen del fraude
 
-![Fuad Char, el patriarca, detrás de las rejas... de su casa. Buscaría la ley calabaza para sus mentorados.](./fuad_char-DETRAS-DE-LA-REJA_rqjzms.jpg)
+![Fuad Char, el patriarca, detrás de las rejas... de su casa. Buscaría la ley calabaza para sus mentorados.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/caera-el-imperio-char-gerlein-yuyo-daes-con-las-confesiones-de-aida-merlano-i/fuad_char-DETRAS-DE-LA-REJA_rqjzms.jpg)
 *Fuad Char, el patriarca, detrás de las rejas... de su casa. Buscaría la ley calabaza para sus mentorados.*
 
 Antes de los carnavales de 2018, hubo una reunión muy interesante en la casa de Fuad Char. Se diseñó la estrategia para repartirse el poder entre conservadores, Cambio Radical y el _partido_ de Enilse López.
@@ -35,7 +35,7 @@ En Bolívar, por ejemplo, **Aida Merlano recibió 30 mil votos**, fruto de la al
 
 (Te puede interesar:\[ ["Confidencias de una reunión secreta: Vargas, Char y (La Gata) Montes"](/articulos/web/20190306134646/./)\].
 
-![](./GERMAN-VARGAS-LEONARDO-ALVARADO-110.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/caera-el-imperio-char-gerlein-yuyo-daes-con-las-confesiones-de-aida-merlano-i/GERMAN-VARGAS-LEONARDO-ALVARADO-110.jpg)
 *El crimen no duerme, Germán Vargas. Coautor de la alianza Char-Conservadores-partido de Enilse López. Cortesía El Pilón.*
 
 Este sistema de elección fue inventado por los políticos de Barranquilla que llegaron de la provincia de Sucre, Córdoba y Magdalena. Es el caso de **José Name Terán**— contrario político de **Roberto Gerlein**— nacido en Sincelejo. Se hizo abogado de la **Universidad del Atlántico**. Desde 1958 le disputó el poder político a las élites barranquilleras hemoginazada por apellidos de abolengo como los **Gerlein**, **Lebolo** y **Carbonell**. Pronto fue el cacique más grande que pariera **Barranquilla** y el número 1 en elegirse con votos «aliñados» a cambio de tejas, bloques y cemento.

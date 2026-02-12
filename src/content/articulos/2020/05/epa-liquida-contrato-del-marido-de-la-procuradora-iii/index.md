@@ -5,10 +5,10 @@ pubDate: "2020-05-09 22:57:20"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/epa-liquida-contrato-del-marido-de-la-procuradora-iii/"./hero.jpg"
 ---
 
-\[caption id="attachment\_11695" align="aligncenter" width="537"\]![](./hero.jpg) Como el Retractor, Javier Mouthon, director del EPA, _dio la reculada del ovejo_. Tuiter.\[/caption\] El director del EPA, **Javier Mouthon Bello**, no tuvo otra salida legal que **deshacerse del incómodo contrato No 30** de prestación de servicios con el arquitecto **Orlando Ortiz Llanos**. Entre tanto, la procuradora **Agraria y Ambiental Mayelis Chamorro Ruiz,** pareja de Ortiz**,**, instauró una **tutela contra el periodista** aduciendo la defensa del buen nombre, supuestamente violentado con la primera entrega de «patente de corso».
+\[caption id="attachment\_11695" align="aligncenter" width="537"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/epa-liquida-contrato-del-marido-de-la-procuradora-iii/hero.jpg) Como el Retractor, Javier Mouthon, director del EPA, _dio la reculada del ovejo_. Tuiter.\[/caption\] El director del EPA, **Javier Mouthon Bello**, no tuvo otra salida legal que **deshacerse del incómodo contrato No 30** de prestación de servicios con el arquitecto **Orlando Ortiz Llanos**. Entre tanto, la procuradora **Agraria y Ambiental Mayelis Chamorro Ruiz,** pareja de Ortiz**,**, instauró una **tutela contra el periodista** aduciendo la defensa del buen nombre, supuestamente violentado con la primera entrega de «patente de corso».
 
 ## EPA y la patente de corso
 

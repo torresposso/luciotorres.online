@@ -5,10 +5,10 @@ pubDate: "2023-08-24 03:02:48"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/nicolas-se-retractara-con-la-visita-presidencial/"./hero.jpg"
 ---
 
-![Luka, el centro de los Petro Ojeda. ¿Nicolás se retractará?](./hero.jpg)
+![Luka, el centro de los Petro Ojeda. ¿Nicolás se retractará?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/nicolas-se-retractara-con-la-visita-presidencial/hero.jpg)
 *Luka, el centro de los Petro Ojeda. ¿Nicolás se retractará?*
 
 ¿Nicolás se retractará? La inesperada visita del presidente **Gustavo Petro** a su hijo Nicolás en su residencia de Barranquilla, además del reencuentro familiar, tiene un significado político profundo. Pero, sobre todo, fue un acto de afecto que tendrá consecuencias jurídicas. Se trata de que padre e hijo libren una batalla juntos para salvarse del cerco judicial. Podríamos encontrar dos caminos: la retractación de lo dicho en la audiencia de imposición de medida de aseguramiento o cambio sustancial de su colaboración a la justicia.
@@ -45,7 +45,7 @@ https://twitter.com/nicolaspetroB/status/1693742825848848730?s=20
 
 ## ¿Nicolás se retractará pese a Daysuris?
 
-![](./Laura_Day_Nico.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/nicolas-se-retractara-con-la-visita-presidencial/Laura_Day_Nico.jpg)
 *Nicolas Petro*
 
 ¿Nicolás se retractará? Esta pregunta no es meramente retórica. Si Nicolás Petro se inclina por una retractación de colaborar con la justicia y, al mismo tiempo, no aceptar los cargos imputados por la Fiscalía, deberá responder una sola pregunta. ¿De dónde sacó tanto dinero que guardaba en el closet? ¿Cómo puede responder frente a la acusación de la Fiscalía de que su ritmo de gasto era 10 veces superior a sus ingresos? ¿Cuáles fueron las fuentes de esos ingresos?

@@ -5,10 +5,10 @@ pubDate: "2023-01-28 13:29:34"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ley-yamilito-la-candelaria-de-magangue-patrimonio-cultural-i/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ley-yamilito-la-candelaria-de-magangue-patrimonio-cultural-i/hero.jpg)
 *«Ley Yamilito»: La Candelaria de Magangué Patrimonio Cultural*
 
 Con la **«Ley Yamilito»**, las fiestas de la Virgen de la Candelaria de Magangué y de toda la Depresión Momposina, pasó a ser **Patrimonio Cultural de la Nación**. Es más, sería el paso inicial para que la declaren **Patrimonio Inmaterial de la Humanidad** por la **UNESCO**. Esto sería posible siempre y cuando los magangueleños se empoderen de esta iniciativa ideada, presentada y promovida por **Yamil Hernando Arana Padauí**, más conocido como Yamilito. El parlamentario nacido y criado en el **Puerto de los Tres Ríos** renunció en diciembre a la cámara de representantes para presentar su nombre como candidato a la gobernación de Bolívar.
@@ -29,7 +29,7 @@ En otras palabras, los marcos del cuadro contrasta con el divino rostro de la Vi
 
 ## La importancia de la «Ley Yamilito»
 
-![Este joven parlamentario dejó como legado cultural la ley 2230 de julio 2022, ahora conocida como «Ley Yamilito». Renunció para lanzarse como candidato a la gobernación. Es hijo del colega Yamil Arana Gechem, reconocido empresario de Magangué.](./YAMILITO-ARANA_PORTADA.jpg)
+![Este joven parlamentario dejó como legado cultural la ley 2230 de julio 2022, ahora conocida como «Ley Yamilito». Renunció para lanzarse como candidato a la gobernación. Es hijo del colega Yamil Arana Gechem, reconocido empresario de Magangué.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ley-yamilito-la-candelaria-de-magangue-patrimonio-cultural-i/YAMILITO-ARANA_PORTADA.jpg)
 *Este joven parlamentario dejó como legado cultural la ley 2230 de julio 2022, ahora conocida como «Ley Yamilito». Renunció para lanzarse como candidato a la gobernación. Es hijo del colega Yamil Arana Gechem, reconocido empresario de Magangué.*
 
 > Es sabido que poca importancia se le ha dado a esta **ley 2230 de julio 2022** en los círculos dominantes y de intelectuales capitalinos. Pero para los pueblos rianos de la Depresión Momposina y La Mojana significará el reavivamiento de una práctica cultural y de una religiosidad que supera los marcos ideológicos dominantes.

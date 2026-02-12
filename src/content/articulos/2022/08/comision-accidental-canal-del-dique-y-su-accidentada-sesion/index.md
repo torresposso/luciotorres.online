@@ -5,12 +5,12 @@ pubDate: "2022-08-29 17:39:30"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/comision-accidental-canal-del-dique-y-su-accidentada-sesion/"./hero.jpg"
 ---
 
 **La exclusión es mental**. Eso demuestra el comportamiento de los líderes de la Comisión Accidental del Congreso de la República creada para estudiar el megaproyecto **"Restauración de los sistemas Degradados Canal del Dique"**. Todavía el nuevo gobierno y su congreso, de mayorías oficiales, no han entendido el cambio desde la práctica.
 
-![Comisión Accidental Canal del Dique y su accidentada sesión](./hero.jpg)
+![Comisión Accidental Canal del Dique y su accidentada sesión](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/comision-accidental-canal-del-dique-y-su-accidentada-sesion/hero.jpg)
 *Comisión Accidental Canal del Dique y su accidentada sesión*
 
 Lo anterior se constató cuando al momento de la instalación de esta unidad legislativa transitoria en el municipio de Santa Lucía-Atlántico, no se tuvo en cuenta la participación de las comunidades.
@@ -31,7 +31,7 @@ Frente a esa situación, los líderes de las diferentes comunidades del canal de
 
 En realidad, la sesión de la Comisión Accidental se diseñó para deliberar a espaldas de la población. No tuvo en cuenta las consecuencias negativas del macroproyecto Canal del Dique, que ha sido diseñado por la ANI sin tener en cuenta la participación social y el licenciamiento ambiental. Solo hasta promediando la 1 de la tarde, se levantaron las tres talanqueras físicas que colocaron para que el pueblo participara en las deliberaciones. El representante a la cámara, **Agmeth Escaff**, del Pacto Histórico se salió de la Comisión, porque hasta las 12 del mediodía no se habían levantados esas talanqueras.
 
-![Comisión Accidental Canal del Dique](./comision_accidental-scaled-1.jpg)
+![Comisión Accidental Canal del Dique](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/comision-accidental-canal-del-dique-y-su-accidentada-sesion/comision_accidental-scaled-1.jpg)
 *Comisión Accidental Canal del Dique.*
 
 El senador conservador **Efraín Cepeda Sarabia** propuso que se escucharan todas las intervenciones inscritas. Así se hizo. Se abrieron las puertas de la institución educativa y a partir de la 1 se escuchó a todos los que estaban afuera del establecimiento donde sesionaba la Comisión.

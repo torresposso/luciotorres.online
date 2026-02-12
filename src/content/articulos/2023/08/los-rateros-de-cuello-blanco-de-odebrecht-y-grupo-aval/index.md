@@ -5,10 +5,10 @@ pubDate: "2023-08-20 16:40:05"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/los-rateros-de-cuello-blanco-de-odebrecht-y-grupo-aval/"./hero.jpg"
 ---
 
-![Los rateros de cuello blanco. Oscar Iván Zuluaga, Juan Manuel Santos y Marcelo Odebrecht.](./hero.jpg)
+![Los rateros de cuello blanco. Oscar Iván Zuluaga, Juan Manuel Santos y Marcelo Odebrecht.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/los-rateros-de-cuello-blanco-de-odebrecht-y-grupo-aval/hero.jpg)
 *Los rateros de cuello blanco. Oscar Iván Zuluaga, Juan Manuel Santos y Marcelo Odebrecht.*
 
 La aceptación del **Grupo Aval** —propiedad de **Luis Carlos Sarmiento**— de los cargos de sobornos y prácticas corruptas ante el Departamento de Justicia de Estados Unidos y la Comisión de la Bolsa de Valores (SEC, por sus siglas en inglés), confirmó un oscuro entramado empresarial criminal para la **acumulación capitalista tramposa de Odebrecht y de Corficolombiana**. Pero, lo más grave de todo, es el daño moral sufrido por el Estado y la sociedad. Está probado dentro del proceso que sus dineros puercos preñaron de ilegitimidad las dos elecciones (2010 y 2014) del presidente **Juan Manuel Santos**. Esta es la verdadera práctica de _Los rateros de cuello blanco_ protegidos por la misma Fiscalía y el alto poder del Estado.
@@ -21,7 +21,7 @@ Te puede interesar: [El poder de «Los intocables» y el crimen del magistrado](
 
 ## La Ruta del Sol II y _Los rateros de cuello blanco_
 
-![Luis Carlos Sarmiento y los rateros de cuello blanco.](./Luis-Carlos-Sarmiento_estudio.jpg)
+![Luis Carlos Sarmiento y los rateros de cuello blanco.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/los-rateros-de-cuello-blanco-de-odebrecht-y-grupo-aval/Luis-Carlos-Sarmiento_estudio.jpg)
 *Luis Carlos Sarmiento y Los rateros de cuello blanco.*
 
 El gobierno del presidente **Álvaro Uribe Vélez** y su ministro de Transporte de la época, **Uriel Andrés Gallego**, lanzaron con bombos y platillos la segunda etapa de la Ruta del Sol. Recordemos que los dos socios del mentado contrato eran **Odebrecht y Episol S.A.S**. Esta última pertenece a Corficolombiana del Grupo Aval. Su participación fue del 33 por ciento. La Fiscalía ordenó la práctica de pruebas para establecer si es cierto que el presidente de esa entidad, **José Elías Melo**, estuvo al tanto de los sobornos. Melo fue vinculado, procesado y condenado, describió el mapa de sobornos.

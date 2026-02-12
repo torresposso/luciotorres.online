@@ -5,10 +5,10 @@ pubDate: "2022-09-12 16:01:57"
 author: "Lucio"
 categories: ["Análisis","Mi País","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/prueba-de-fuego-para-petro-macroproyecto-canal-del-dique/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/prueba-de-fuego-para-petro-macroproyecto-canal-del-dique/hero.jpg)
 
 Cuando hoy hubo nuevo aplazamiento (30 de septiembre) de la adjudicación del contrato, el caso del Canal del Dique es una **prueba de fuego para el nuevo gobierno**. La elección del presidente Petro viene despertando gran expectativa y esperanza entre la ciudadanía olvidada del país que lo eligió. En **Santa Lucía-Atlántico**, desde las 10 de la mañana del 8 de septiembre de 2022, bajo sol y agua, centenares de líderes llegados de toda la ecorregión Canal del Dique, se dieron cita. Llegaron para esperar a su presidente que debía tener una solución en sus manos.
 
@@ -18,7 +18,7 @@ Pero la realidad fue otra. Mucho discurso y nada de decisión. La gente tampoco 
 > 
 > Una lideresa anónima.
 
-![Así registramos el momento en que el presidente Petro debió acercarse las barreras metálicas para saludar a su electorado. Canal del Dique: prueba de fuego para el presidente Petro](./Petro-se-acerca.jpg)
+![Así registramos el momento en que el presidente Petro debió acercarse las barreras metálicas para saludar a su electorado. Canal del Dique: prueba de fuego para el presidente Petro](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/prueba-de-fuego-para-petro-macroproyecto-canal-del-dique/Petro-se-acerca.jpg)
 *Así registramos el momento en que el presidente Petro debió acercarse las barreras metálicas para saludar a su electorado.*
 
 ## La esperada llegada del presidente
@@ -45,7 +45,7 @@ Este periodista también debió hacer hasta lo imposible para vencer las barrera
 
 ## Remember
 
-![Cristobal Padilla, el barranquillero que siempre ha estado al lado de Petro. Canal del Dique: prueba de fuego para el presidente Petro](./cristobal-padilla-y-petro.jpg)
+![Cristobal Padilla, el barranquillero que siempre ha estado al lado de Petro. Canal del Dique: prueba de fuego para el presidente Petro](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/prueba-de-fuego-para-petro-macroproyecto-canal-del-dique/cristobal-padilla-y-petro.jpg)
 *Cristobal Padilla, el barranquillero que siempre ha estado al lado de Petro. Aquí cuando uno fue alcalde mayor y el otro alcalde de Ciudad Bolívar. Cortesía.*
 
 Esta observación objetiva lo hacemos desde el periodismo ciudadano que practicamos. Cuando me desplazaron forzosamente de Cartagena en 2012, me fui para Bogotá. Allá nos pusimos las botas con **Cristóbal Padilla** y otros costeños para que Gustavo Petro ganara la alcaldía. Buscamos personajes y personas que le aportaran a la campaña de Petro. Uno de ellos fue mi amigo **Jaime García Márquez, hermano del escritor Gabriel García Márquez**. Hicimos un acto especial con Jaime y Petro. O sea, fuimos protagonistas de la victoria de Petro para la alcaldía. Lo hicimos incondicionalmente, sin esperar un confite de su administración.
@@ -64,7 +64,7 @@ La mayor parte de ese puñado de líderes que ahora reclamaban entrar en Santa L
 
 ## Bogando a contracorriente
 
-![](./Petro-interviene.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/prueba-de-fuego-para-petro-macroproyecto-canal-del-dique/Petro-interviene.jpg)
 *El presidente Petro en Santa Lucía.*
 
 **VoxPopuli Digital**, como siempre, bogando canal arriba escuchó el clamor de la comunidad. Llegó a nuestra sala de redacción una especie según la cual algunos líderes de las comunidades afros se estaban enfrentando entre sí por plata que venía del gobierno nacional. En el 2020, las alarmas sonaron sobre posibles casos de corrupción por las consultas previas. Verificamos y nos dimos cuenta que se construyeron patrones criminales para capturar a los consejos comunitarios con líderes corruptos. Esto nos llevó a establecer una alianza social con las organizaciones de esta subregión. Todo esto quedó documentados en informes periodísticos del momento. (Leer: [Megaproyecto Canal del Dique: El rechazo popular y la renuncia de Cardona](/articulos/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/)).
@@ -81,7 +81,7 @@ El presidente llegó después de las [3:30](https://www.youtube.com/watch?v=zEFZ
 
 ## «Un hecho histórico»
 
-![](./maximo-noriega.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/prueba-de-fuego-para-petro-macroproyecto-canal-del-dique/maximo-noriega.jpg)
 *Máximo Noriega, uno de los líderes del Pacto Histórico del Atlántico que está en la banca. Espera el llamado de su presidente Gustavo Petro.*
 
 **Máximo Noriega**, uno de los dirigentes del Pacto Histórico del Atlántico, tras calificar la visita del presidente como un hecho histórico, manifestó que no era fácil tomar una decisión sobre el macroproyecto del Canal del Dique en ese momento. Además, dijo, que los voceros de las comunidades debieron precisar sus peticiones para que el presidente Petro se orientara sobre lo qué estaba sucediendo.

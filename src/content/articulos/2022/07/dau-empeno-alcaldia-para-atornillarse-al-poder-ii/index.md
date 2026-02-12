@@ -5,12 +5,12 @@ pubDate: "2022-07-11 13:03:03"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/dau-empeno-alcaldia-para-atornillarse-al-poder-ii/"./hero.jpg"
 ---
 
 Cuando el 7 de julio el alcalde de Cartagena le solicitó la renuncia colectiva a su gabinete distrital la justificó diciendo que algunos de sus miembros pretenden participar en las próximas elecciones. Pero, la realidad es otra. Estaba pensando cómo acomodar en el gabinete a los recomendados de quienes lo ayuden mantenerse en el cargo.
 
-![El senador Benedetti dijo que no tiene ningún acercamiento con el alcalde Dau. ¿Atornillarse al poder para que la ciudad le vaya peor?](./hero.jpg)
+![El senador Benedetti dijo que no tiene ningún acercamiento con el alcalde Dau. ¿Atornillarse al poder para que la ciudad le vaya peor?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/dau-empeno-alcaldia-para-atornillarse-al-poder-ii/hero.jpg)
 *El senador Benedetti dijo que no tiene ningún acercamiento con el alcalde Dau. ¿Atornillarse al poder para que la ciudad le vaya peor?*
 
 ## Aguaita este video
@@ -47,7 +47,7 @@ En ese sentido, si la pregunta _¿_**atornillarse al poder**_?_ tiene una respue
 
 ## Es falso: Benedetti
 
-![Senador Jorge "Yoyo" Benedetti. ¿Dau  pretende atornillarse al poder?](./benedetti.jpg)
+![Senador Jorge "Yoyo" Benedetti. ¿Dau  pretende atornillarse al poder?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/dau-empeno-alcaldia-para-atornillarse-al-poder-ii/benedetti.jpg)
 *Senador Jorge "Yoyo" Benedetti.*
 
 > **«**Nadie, en mi nombre, se ha reunido con William Dau o con alguno de su administración. Todo lo que se diga sobre eso es completamente falso. Es más, no está en mis planes hacer parte de esta administración. Dentro de mis funciones constitucionales y legales, es deber mío ejercer control y veeduría para que las iniciativas que llevemos a la ciudad sean ejecutadas con el rigor legal.
@@ -72,7 +72,7 @@ Ahora todo el poder de decisión lo tiene **«Pipe» Córdoba** hasta cuando el 
 
 ## ¿Por qué toma el control?
 
-![¿Y de qué se ríe? «Pipe» Córdoba le quitó el poder sobre Dau a Rafael Castillo.   ¿Atornillarse al poder?](./contralores.jpg)
+![¿Y de qué se ríe? «Pipe» Córdoba le quitó el poder sobre Dau a Rafael Castillo.   ¿Atornillarse al poder?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/dau-empeno-alcaldia-para-atornillarse-al-poder-ii/contralores.jpg)
 *¿Y de qué se ríe? «Pipe» Córdoba le quitó el poder sobre Dau a Rafael Castillo.*
 
 En efecto, **«Pipe» Córdoba** tomó el control excepcional como si fuera una feria de pueblo. Sin ninguna justificación son cinco procesos que se ha llevado para Bogotá. El contralor distrital **Rafael Castillo Fortich** manifestó que el último de los cinco casos lo tomó el 9 de julio. Se refiere a la investigación de la **Ciudadela de la Paz** de Corvivienda donde hay un presunto detrimento patrimonial de más de $5 mil millones.

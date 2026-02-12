@@ -5,10 +5,10 @@ pubDate: "2024-12-12 12:29:06"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/luz-al-cuarto-oscuro-del-pot-v/"./hero.jpg"
 ---
 
-![Juan Correa Reyes, el Zar del nuevo POT ¿al servicio de los negociantes del suelo? Es el director del cuarto oscuro.](./hero.jpg)
+![Juan Correa Reyes, el Zar del nuevo POT ¿al servicio de los negociantes del suelo? Es el director del cuarto oscuro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/luz-al-cuarto-oscuro-del-pot-v/hero.jpg)
 *Juan Correa Reyes, el Zar del nuevo POT ¿al servicio de los negociantes del suelo? Es el director del cuarto oscuro.*
 
 La construcción del nuevo **Plan de Ordenamiento Territorial (POT)** para una **«Superciudad»** tiene un _**cuarto oscuro**_. Misterioso. Secreto. Imperceptible para el común de los mortales y de los medios de comunicación de Cartagena. En ese _cuarto oscuro_ solo entra un triunvirato: el director―contratista, **Juan Correa Reyes** (¡por supuesto!), **Orlando Ortiz Llanos** (el amuleto de protección ambiental de la administración) y la abogada **Sara Luna Delgado**, conocida de auto en la **Secretaría de Planeación Distrital**. Es un triunvirato técnico que está repitiendo las mismas **fallas insuperables** de la administración anterior con un gasto enorme: **$16 mil millones y 504 órdenes** de prestación de servicios (OPS).
@@ -35,7 +35,7 @@ La mencionada procuradora presentó contra mí una acción de tutela en 2020 por
 
 ## El equipo POT no es garantía
 
-![Cartagena, una ciudad turística que el puerto de carga y la petroquímica se la está devorando. El cuarto oscuro del POT agravará su situación de pobreza. ](./cartagena.jpg)
+![Cartagena, una ciudad turística que el puerto de carga y la petroquímica se la está devorando. El cuarto oscuro del POT agravará su situación de pobreza. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/luz-al-cuarto-oscuro-del-pot-v/cartagena.jpg)
 *Cartagena, una ciudad turística que el puerto de carga y la petroquímica se la está devorando. El cuarto oscuro del POT agravará su situación de pobreza.*
 
 La verdad sea dicha, señor alcalde, el equipo POT de la administración distrital no brinda garantías para los derechos humanos de los cartageneros. Tampoco para los siguientes principios que emana de la Constitución y de la Ley:
@@ -54,7 +54,7 @@ Es más, aunque ella no lo admita, a Mayelis se le asocia a Hilsaca Eljadue, por
 
 ## El fantasma de la revocatoria
 
-![](./POT_Dumek_Rada-1024x1024.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/luz-al-cuarto-oscuro-del-pot-v/POT_Dumek_Rada-1024x1024.jpg)
 
 **Aclaración**. VoxPopuli Digital no pretende tumbar funcionarios. Tampoco es enemigo de la administración distrital. En lo personal, subyace una relación franca de apoyo al alcalde Turbay, quien es admirado por ser un mandatario de resultados. Tampoco pretendemos juzgarlos. Como se puede apreciar, se les reconoce sus lustros y su idoneidad académica a su equipo técnico. Pero adolecen de un déficit ético y moral que emana de una conducta pusilánime: Falta de ánimo y valor para tomar decisiones o afrontar situaciones comprometidas.
 

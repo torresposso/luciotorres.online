@@ -5,12 +5,12 @@ pubDate: "2022-06-29 02:09:40"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/sin-verdad-no-hay-paz-el-informe-costo-us-84-millones/"./hero.jpg"
 ---
 
 **"Sin verdad no hay paz"** debió ser el lema de la Comisión de la Verdad para presentar el informe final este 28 de junio del 2022. En cambio utilizaron un lema demasiado gaseoso y cargado de una alta dosis de subjetividad: **Hay futuro si hay verdad**. ¿Futuro? Las víctimas necesitamos vivir en paz. Este hecho no le dice nada a los 8 millones de víctimas del conflicto armado colombiano. **Un informe que costó 84 millones de dólares.**
 
-![Sin Verdad no hay paz, debió ser el lema del informe final de la Comisión de la Verdad. Aquí Francisco de Roux presentando el informe.](./hero.jpg)
+![Sin Verdad no hay paz, debió ser el lema del informe final de la Comisión de la Verdad. Aquí Francisco de Roux presentando el informe.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/sin-verdad-no-hay-paz-el-informe-costo-us-84-millones/hero.jpg)
 *Sin Verdad no hay paz, debió ser el lema del informe final de la Comisión de la Verdad. Aquí Francisco de Roux presentando el informe.*
 
 ## Sin verdad no hay paz

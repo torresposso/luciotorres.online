@@ -5,10 +5,10 @@ pubDate: "2024-11-10 04:20:44"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/muy-grave-el-capo-de-los-piloneros-sangre-en-marbella/"./hero.jpg"
 ---
 
-![Dos balas penetraron la zona torácica. La bala cercano al esternón estuvo a punto de perforar el corazón. ](./hero.jpg)
+![Dos balas penetraron la zona torácica. La bala cercano al esternón estuvo a punto de perforar el corazón. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/muy-grave-el-capo-de-los-piloneros-sangre-en-marbella/hero.jpg)
 *Dos balas penetraron la zona torácica. La bala cercano al esternón estuvo a punto de perforar el corazón.*
 
 **VoxPopuli Digital** tiene las fotos suministradas que muestran la gravedad de las heridas recibidas por **Víctor Rafael Reales Hoyos**. El supuesto jefe de **«Los Piloneros»**, y socio de **Álvaro Ospino**, alias **«La Negra Dominga»**, está **entre la vida y la muerte**, después del atentado criminal en la noche del 6 de noviembre en el balneario de Marbella de Cartagena. Pero dichas fotos no publicaremos por respeto a la dignidad de la víctima.
@@ -19,7 +19,7 @@ No obstante, editamos la imagen que muestra los dos orificios dejados por las ba
 
 ## Dama de sociedad
 
-![Tatiana Sagbini de Reales, esposa del reconocido ganadero y comerciante de Calamar, Raúl Reales, es una de las heridas en el atentado contra el supuesto jefe de la banda de Los Piloneros. ](./Tatiana-Sagbini.jpg)
+![Tatiana Sagbini de Reales, esposa del reconocido ganadero y comerciante de Calamar, Raúl Reales, es una de las heridas en el atentado contra el supuesto jefe de la banda de Los Piloneros. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/muy-grave-el-capo-de-los-piloneros-sangre-en-marbella/Tatiana-Sagbini.jpg)
 *Tatiana Sagbini de Reales, esposa del reconocido ganadero y comerciante de Calamar, Raúl Reales, es una de las heridas en el atentado contra el supuesto jefe de la banda de Los Piloneros.*
 
 Una dama de la alta sociedad de Calamar es una de las víctimas del atentado del 6 de noviembre. La dama le había dicho a su esposo que iba para Barranquilla a realizarse unos chequeos médicos. Su esposo, se enteró de lo que le había sucedido al día siguiente del atentado.
@@ -30,11 +30,11 @@ El comerciante **Raúl Reales no es familia de Víctor Reales**, según una fuen
 
 ## Muy grave Víctor Reales
 
-![](./image-1.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/muy-grave-el-capo-de-los-piloneros-sangre-en-marbella/image-1.png)
 
 Según fuentes de altísima credibilidad, la víctima fue entregada en bandeja para que los sicarios cometieran el acto criminal. Pero este tema está destinado para otra entrega.
 
-![Hospital Serena del Mar. Aquí está Víctor Reales.](./Serena_del_mar-1024x475.jpeg)
+![Hospital Serena del Mar. Aquí está Víctor Reales.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/muy-grave-el-capo-de-los-piloneros-sangre-en-marbella/Serena_del_mar-1024x475.jpeg)
 *Hospital Serena del Mar. Aquí está Víctor Reales.*
 
 Las fotos muestran a Víctor Reales después de que fuera estabilizado por los galenos del Hospital Serena del Mar de Cartagena. Inmediatamente que llegó, fue internado en una sala UCI donde fue asistido adecuadamente.
@@ -43,7 +43,7 @@ Hasta el momento, el centro hospitalario no ha emitido comunicado alguno sobre e
 
 ## **«Los Piloneros»** y **«La Negra Dominga»**
 
-![El 15 de mayo  de 2011, capturaron a Víctor Reales Hoyos y Álvaro Ospino Illera. Fueron extraditados a Venezuela y testificaron en el proceso contra Makled. ](./La-negra-dominga_victor-reales.jpg)
+![El 15 de mayo  de 2011, capturaron a Víctor Reales Hoyos y Álvaro Ospino Illera. Fueron extraditados a Venezuela y testificaron en el proceso contra Makled. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/muy-grave-el-capo-de-los-piloneros-sangre-en-marbella/La-negra-dominga_victor-reales.jpg)
 *El 15 de mayo de 2011, capturaron a Víctor Reales Hoyos y Álvaro Ospino Illera. Fueron extraditados a Venezuela y testificaron en el proceso contra Makled.*
 
 **Víctor Rafael Reales Hoyos**, un hombre de 52 años, nacido en la pobreza en el corregimiento Pilón, jurisdicción del hoy municipio de Arroyohondo. Su fortuna la hizo en el estado de Carabobo. Específicamente en Valencia. Según los antecedentes judiciales, organizó una banda de asaltantes de camiones transportadores de mercancías que luego distribuía en la zona Los Guajiros de Valencia. Su aliado principal en asuntos militar es **Álvaro Ospino** Illera, alias **«La Negra Dominga»**.
@@ -58,7 +58,7 @@ Por ese doble asesinato, el Tribunal de Valencia emitió **orden de captura el 2
 
 En concreto, la sentencia del Tribunal de Valencia señala que **Víctor Rafael Reales Hoyos** era el jefe de la banda Los Piloneros a la cual se le atribuyen 18 homicidios en Venezuela. Cuando se emitió la orden de captura contra los sindicados, **Víctor Rafael Reales Hoyos, Álvaro Luis Ospino Illera** buscó su escondrijo entre Barranquilla, Cartagena y, en especial, Arroyohondo y Calamar.
 
-![](./Abdala_makled.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/muy-grave-el-capo-de-los-piloneros-sangre-en-marbella/Abdala_makled.jpeg)
 *Abdalá Makled fue condenado. Pagó 12 años de cárcel por el asesinato del periodista y por narcotráfico. El día en que quedó libro, 2020.*
 
 El periodista Sambrano fue asesinado cuando escribió sobre el grupo Makled y la costosa campaña de Abdalá Makled a la alcaldía de Valencia o la gobernación del estado Carabobo con el apoyo del recién creado Partido Socialista Unido de Venezuela (PSUV) en el 2007.

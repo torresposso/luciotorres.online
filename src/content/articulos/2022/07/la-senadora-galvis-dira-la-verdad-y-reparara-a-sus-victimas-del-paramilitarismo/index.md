@@ -5,7 +5,7 @@ pubDate: "2022-07-07 21:15:52"
 author: "Lucio"
 categories: ["Análisis","Investigación","Política","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-senadora-galvis-dira-la-verdad-y-reparara-a-sus-victimas-del-paramilitarismo/"./hero.jpg"
 ---
 
 La comparecencia de la senadora **Galvis Méndez** ante la **Justicia Especial de Paz** (JEP) este 22 de julio despierta gran expectativa por la verdad que revelará. Pero sobre todo, qué aportará para conocer la verdad de procesos que están confusos u oscuros. **Son 11 hechos que la implican en concierto para delinquir agravado**. La Corte Suprema de Justicia (CSJ) la tiene procesada desde el **30 de junio de 2010**.
@@ -16,7 +16,7 @@ Pero, no solo deberá decir la verdad. Es necesario **comprometerse en la repara
 
 ## Senadora Galvis creará fundación
 
-![La senadora Galvis dispuesta a cantar la verdad ante la JEP.](./hero.jpg)
+![La senadora Galvis dispuesta a cantar la verdad ante la JEP.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-senadora-galvis-dira-la-verdad-y-reparara-a-sus-victimas-del-paramilitarismo/hero.jpg)
 *La senadora Galvis dispuesta a cantar la verdad ante la JEP.*
 
 Para ello, dijo, creará una fundación que atienda a la primera infancia:
@@ -29,7 +29,7 @@ El 31 de julio de 2007, **Daira de Jesús Galvis Méndez,** se hizo senadora de 
 
 ## Los hechos que comprometen a la senadora Galvis
 
-![La senadora Galvis Méndez antes de que le diera Covid-19. Sobrevivió después de estar en cuidados intensivos. No fue reelegida en marzo. El 20 de julio entrega su curul.](./daira-galvis-M2_.jpg)
+![La senadora Galvis Méndez antes de que le diera Covid-19. Sobrevivió después de estar en cuidados intensivos. No fue reelegida en marzo. El 20 de julio entrega su curul.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-senadora-galvis-dira-la-verdad-y-reparara-a-sus-victimas-del-paramilitarismo/daira-galvis-M2_.jpg)
 *La senadora Galvis Méndez antes de que le diera Covid-19. Sobrevivió después de estar en cuidados intensivos. No fue reelegida en marzo. El 20 de julio entrega su curul.*
 
 ¿Cuales son los hechos por los cuales la CSJ la procesaba? De acuerdo con el expediente arrimado, la Sala de Definición de Situaciones Jurídicas abrió, a su vez, abrió el expediente No 9000589-61.2019.0.00.0001. De este expediente extrajimos la [Resolución No 1554](/articulos/normograma/compilacion/docs/resoluci%C3%B3n_sdsj-1554_06-abril-2021.htm) (_**déle clic para leerla**_) y de la cual señalamos los hechos más sobresalientes:

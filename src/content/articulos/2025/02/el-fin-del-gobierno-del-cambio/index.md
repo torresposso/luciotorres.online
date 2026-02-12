@@ -5,10 +5,10 @@ pubDate: "2025-02-07 04:25:40"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-fin-del-gobierno-del-cambio/"./hero.jpg"
 ---
 
-![¿El fin del Gobierno del Cambio? Gustavo Petro gobernará con Armando Benedetti. Sus viejos compañeros se resisten a ser instrumentalizados.](./hero.jpg)
+![¿El fin del Gobierno del Cambio? Gustavo Petro gobernará con Armando Benedetti. Sus viejos compañeros se resisten a ser instrumentalizados.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-fin-del-gobierno-del-cambio/hero.jpg)
 *¿El fin del Gobierno del Cambio? Gustavo Petro gobernará con Armando Benedetti. Sus viejos compañeros se resisten a ser instrumentalizados.*
 
 El 4 de febrero de 2025 pasará a la historia como el **fin anticipado de una esperanza.** ¿El fin del Gobierno del Cambio? Una «noche triste» para recordar **el hundimiento de la anhelada esperanza de cambio de millones de colombianos** que salieron ―ese **19 de junio de 2022**― a las calles a celebrar con alborozo el triunfo de la izquierda y de los movimientos sociales. Un triunfo histórico, después de 200 años de vida republicana gobernada por las oligarquías.  
@@ -17,7 +17,7 @@ En esa «noche triste» ―como la calificó el mismo Petro― de la Casa de Nar
 
 ## El fin del Gobierno del Cambio
 
-![¿El fin del Gobierno del Cambio? Bendetti gobernará.](./armando_benedetti-1024x768.jpeg)
+![¿El fin del Gobierno del Cambio? Bendetti gobernará.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-fin-del-gobierno-del-cambio/armando_benedetti-1024x768.jpeg)
 *Armando Benedetti será el Rasputín de la Casa de Nariño en los próximos dos años. El objetivo es asegurar la prolongación de Gustavo Petro en el poder.*
 
 Pero lo que se percibió esa noche en la Casa de Nariño fue un **golpe** **autoinflingido**. El fin anticipado del Gobierno del Cambio. Una flecha directa al corazón de la esperanza del cambio. Un autogolpe dado por el principal líder del gobierno del Cambio: el presidente Gustavo Petro. Ya no será un gobierno del cambio sino la continuidad del Establishment. O sea, más de lo mismo.
@@ -30,7 +30,7 @@ El compañero presidente Petro se había apartado del proyecto político votado 
 
 ## El Padrino
 
-![El monopolio de Euclides Torres, El Padrino. ¿El fin del Gobierno del Cambio?](./El_padrino-1024x520.jpg)
+![El monopolio de Euclides Torres, El Padrino. ¿El fin del Gobierno del Cambio?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-fin-del-gobierno-del-cambio/El_padrino-1024x520.jpg)
 *El monopolio de Euclides Torres, El Padrino. ¿El fin del Gobierno del Cambio?*
 
 Lo grave no es que los llamados advenedizos sean de derecha. ¡No! Lo grave es que tienen un déficit moral comprobado en estos dos años del Gobierno del Cambio. **Laura Sarabia y Armando Benedetti**, se desnudó en el Consejo de Ministros, son fieles representantes de su padrino, el megacontratista porteño, **Euclides Torres Romero**. Esto marcó no solo la fractura del gobierno sino el fin del Gobierno del Cambio.
@@ -47,7 +47,7 @@ Los colombianos presenciamos una  **«Conmoción Interior**»**** que devino en
 
 Sin duda, esa confesión de parte del presidente Petro, nos revela la verdadera esencia de lo que inicialmente llamamos **«gobierno compartido»** cuando la columna vertebral de la administración se la entregaron al samperismo―santismo.
 
-![¿Qué va de Leyva a Sarabia? Con Bendetti y Sarabia ¿El fin del Gobierno del Cambio?](./Alvaro-Leyva-696x406-1.jpg)
+![¿Qué va de Leyva a Sarabia? Con Bendetti y Sarabia ¿El fin del Gobierno del Cambio?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-fin-del-gobierno-del-cambio/Alvaro-Leyva-696x406-1.jpg)
 *¿Qué va de Leyva a Sarabia? ¿El fin del Gobierno del Cambio?*
 
 En ese momento llegaron figuras fulgurantes como la ministra de Agricultura, **Cecilia López Montañ**o. O **Alejandro Gaviria**, **José Antonio Ocampo** y el mismo **Álvaro Leyva**. ¿Qué diferencia existe entre Armando Benedetti y, por ejemplo, Cecilia López? o ¿Leyva con Laura Sarabia? ¿Por qué jamás se rebelaron contra esos nombramientos que asumió el presidente bajo su autonomía constitucional? Ninguno de esos ministros son de izquierda y nunca se reclamaron socialistas.
@@ -66,7 +66,7 @@ Esto fue lo que se dijo en noviembre del 2024 en **VoxPopuli Digital** cuando an
 
 ## La rebelión
 
-![Alexander López y Augusto Rodríguez, dos de los que se rebelaron contra el nombramiento de la dupleta Benedetti-Sarabia.](./Alexander_augusto_rodriguez-1024x606.jpg)
+![Alexander López y Augusto Rodríguez, dos de los que se rebelaron contra el nombramiento de la dupleta Benedetti-Sarabia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-fin-del-gobierno-del-cambio/Alexander_augusto_rodriguez-1024x606.jpg)
 *Alexander López y Augusto Rodríguez, dos de los que se rebelaron contra el nombramiento de la dupleta Benedetti-Sarabia.*
 
 Vimos la rebelión de un significativo sector de su gabinete. Estamos en presencia de la peor crisis que ha tenido este gobierno. Una verdadera conmoción interior. Quiso colocar a unos ministros contra la pared valiéndose de un brillante discurso contra el sectarismo. Ellos se vieron obligados a criticar en público y ante millones de colombianos la decisión del Compañero Presidente de nombrar a Benedetti y a Laura Sarabia en cargos que son considerados claves para la unidad y cohesión interna del gabinete.
@@ -77,7 +77,7 @@ El gobierno quedó fracturado a su interior. No sólo tendrá consecuencias en l
 
 ## La bendición de Petro
 
-![Gustavo Bolívar, uno de los Sancho Panza de Gustavo Petro. ¿Recibirá la bendición de su amado Presidente?](./Gustavo_bolivar-827x1024.jpg)
+![Gustavo Bolívar, uno de los Sancho Panza de Gustavo Petro. ¿Recibirá la bendición de su amado Presidente?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-fin-del-gobierno-del-cambio/Gustavo_bolivar-827x1024.jpg)
 *Gustavo Bolívar, uno de los Sancho Panza de Gustavo Petro. ¿Recibirá la bendición de su amado Presidente? Es improbable. El fin justifica los medios, será la filosofía del nuevo gobierno de Petro.*
 
 Ya se rumoraba en los mentideros políticos que muchos ministros tenían aspiraciones políticas de cara al debate electoral en 2026, algunos con aspiraciones al Congreso, otros a la Presidencia, y algunos otros de utilizar el debate de 2026 como plataforma para una elección mucho más lejana como la Alcaldía de Bogotá.

@@ -5,10 +5,10 @@ pubDate: "2022-11-02 19:32:28"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/petro-es-antinatural-que-colombia-y-venezuela-se-separen/"./hero.jpg"
 ---
 
-![Petro: "Es antinatural que Colombia y Venezuela se separen"](./hero.jpg)
+![Petro: "Es antinatural que Colombia y Venezuela se separen"](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/petro-es-antinatural-que-colombia-y-venezuela-se-separen/hero.jpg)
 *Petro: "Es antinatural que Colombia y Venezuela se separen". Captura de pantalla.*
 
 "**Es antinatural que Colombia y Venezuela se separen"**, dijo el mandatario de los colombianos, Gustavo Petro. Esta frase resume el proceso de **_reandar un camino_** que no debió interrumpirse. Perdieron ambos países. Por esta razón, para los dos mandatarios, no importa quienes estén al frente de sus respectivas naciones, no puede volver a pasar eso. Tal coincidencia, quizás, **fue la principal conclusión de la Primera Cumbre Presidencial** **Colombo-Venezolana** luego de los duros enfrentamientos durante el régimen **_neobonapartista uribista_**.

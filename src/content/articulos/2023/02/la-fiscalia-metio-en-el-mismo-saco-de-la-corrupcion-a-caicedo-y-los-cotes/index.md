@@ -5,10 +5,10 @@ pubDate: "2023-02-14 01:06:58"
 author: "Lucio"
 categories: ["Análisis","Santa Marta"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-fiscalia-metio-en-el-mismo-saco-de-la-corrupcion-a-caicedo-y-los-cotes/"./hero.jpg"
 ---
 
-![La Fiscalía metió en el mismo saco de la corrupción a Caicedo y los Cotes. Aquí con la exgobernadora Rosa Cotes de Zúñiga, la compañera de infortunio. ¿Terminarán en la cárcel?](./hero.jpg)
+![La Fiscalía metió en el mismo saco de la corrupción a Caicedo y los Cotes. Aquí con la exgobernadora Rosa Cotes de Zúñiga, la compañera de infortunio. ¿Terminarán en la cárcel?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-fiscalia-metio-en-el-mismo-saco-de-la-corrupcion-a-caicedo-y-los-cotes/hero.jpg)
 *La Fiscalía metió en el mismo saco de la corrupción a Caicedo y los Cotes. Aquí con la exgobernadora Rosa Cotes de Zúñiga, la compañera de infortunio. ¿Terminarán en la cárcel?*
 
 En el ocaso de su mandato, la Fiscalía metió en el mismo saco de la corrupción a Caicedo. Si le dictan medida de aseguramiento, jamás regresaría a la gobernación. En efecto, por lo que llamaron **_Robo al Magdalena_**, el ente acusador pedirá medida de aseguramiento contra el gobernador **Carlos Eduardo Caicedo Omar**. Estas irregularidades, presuntamente, las cometió cuando se desempeñó como alcalde de Santa Marta en 2014**. Se le sindica de tres delitos:** peculado por apropiación para beneficio de terceros, contrato sin los requisitos legales y falsedad. Asimismo, los exgobernadores **Luis Miguel **«**el Mello**»** Cotes Habeych y Rosa Cotes de Zúñiga**, quienes presuntamente se robaron **$73 mil millones** de la «Vía de la Prosperidad».
@@ -17,14 +17,14 @@ Son seis casos que se presentarán en los próximos días ante la **Sala Penal d
 
 > Al respecto, el mandatario de los magdalenenses no se pronunció. Fijó en su tuit un comunicado que no se refiere a la imputación y medida de aseguramiento anunciada por la Fiscalía sino al archivo de varias de las investigaciones que se le seguía por concierto para delinquir y homicidios. Solo señala que vendrán nuevas batallas.
 
-![Así luce el coliseo de Gaira. El tablado deteriorado. Todo indica que nunca se ha usado. Obra de Caicedo como alcalde. Con razón lo metieron en el mismo saco de la corrupción](./Carlos-Caicedo_gaira_sillas.jpg)
+![Así luce el coliseo de Gaira. El tablado deteriorado. Todo indica que nunca se ha usado. Obra de Caicedo como alcalde. Con razón lo metieron en el mismo saco de la corrupción](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-fiscalia-metio-en-el-mismo-saco-de-la-corrupcion-a-caicedo-y-los-cotes/Carlos-Caicedo_gaira_sillas.jpg)
 *Así luce el coliseo de Gaira. El tablado deteriorado. Todo indica que nunca se ha usado. Obra de Caicedo como alcalde. Con razón lo metieron en el mismo saco de la corrupción.*
 
 /articulos/carlosecaicedo/status/1625104232318750720?s=20&t=RGwlHo-\_KUsQbBfwkQX3gA
 
 ## Los Cotes desaparecieron 34 km
 
-![Luis Miguel Cotes, el archienemigo de Caicedo, en el mismo saco de la corrupción.](./Mello-Cotes-1.jpg)
+![Luis Miguel Cotes, el archienemigo de Caicedo, en el mismo saco de la corrupción.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-fiscalia-metio-en-el-mismo-saco-de-la-corrupcion-a-caicedo-y-los-cotes/Mello-Cotes-1.jpg)
 *Luis Miguel Cotes, el archienemigo de Caicedo, en el mismo saco de la corrupción.*
 
 El presunto robo más descarado fue el de los Cotes. El 4 de octubre de 2013, según el ente investigador, **Luis Miguel Cotes**, siendo gobernador, suscribió un contrato de infraestructura vial para el mejoramiento de la vía **Palermo – Sitionuevo – Remolino – Guáimaro** (Magdalena). El costo inicial de la obra lo suscribieron por un valor a **$432.010 millones**. El contrato estuvo lleno de una serie de anomalías. Los estudios previos adolecieron de inconsistencia así como la estructuración del presupuesto.

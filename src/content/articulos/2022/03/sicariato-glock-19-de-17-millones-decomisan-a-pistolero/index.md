@@ -5,10 +5,10 @@ pubDate: "2022-03-30 01:28:57"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/sicariato-glock-19-de-17-millones-decomisan-a-pistolero/"./hero.jpg"
 ---
 
-![Una pistola Glock de $17 millones como esta, le decomisaron a un presunto sicario de «Los Robledo».](./hero.jpg)
+![Una pistola Glock de $17 millones como esta, le decomisaron a un presunto sicario de «Los Robledo».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/sicariato-glock-19-de-17-millones-decomisan-a-pistolero/hero.jpg)
 *Una pistola Glock de $16 millones como esta, le decomisaron a un presunto sicario de «Los Robledo».*
 
 En el día de hoy la MECAR capturó a alias «Lainer», presuntamente pistolero de **«Los Robledo», con una pistola Glock 19 de $16 millones.** El arma es de calibre 9 mm que tiene **un adaptador especial para garantizar su alta letalidad.** Este grupo delincuencial es una estructura _outsourcing_  de los «Salsa Mexicanos» que está en confrontación con el **Clan del Golfo**. Una guerra que hoy produjo otra víctima por sicariato en la ciudad. 
@@ -31,7 +31,7 @@ Así mismo, se informó también que el crimen contra «William Perreo» fue ord
 
 ## El presunto sicario capturado
 
-![](./alias-lainer.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/sicariato-glock-19-de-17-millones-decomisan-a-pistolero/alias-lainer.jpeg)
 *Alias «Lainer», de Maracaibo, el presunto sicario de la Glock de $17 millones.*
 
 El comandante de la MECAR, **BG Nicolás Zapata,** dijo que la pistola Glock está avaluada en $16 millones. La tenía alias «Lainer», un ciudadano extranjero, 27 años, que operaba en la Boquilla. 
@@ -40,7 +40,7 @@ En total, en lo que va del año, hasta hoy martes, han ocurrido en Cartagena y s
 
 ## La glock de $17 millones
 
-![BG Nicolás Zapata, comandante de la MECAR siempre en el sitio de los acontecimientos. La pistola Glock de $17 millones.](./BR-ZAPATA-NOCHE.jpeg)
+![BG Nicolás Zapata, comandante de la MECAR siempre en el sitio de los acontecimientos. La pistola Glock de $17 millones.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/sicariato-glock-19-de-17-millones-decomisan-a-pistolero/BR-ZAPATA-NOCHE.jpeg)
 *BG Nicolás Zapata, comandante de la MECAR siempre en el sitio de los acontecimientos.*
 
 La pistola Glock de $16 millones podría costar mucho más debido a la adaptación que se le introdujo con el fin de incrementar el grado de letalidad de sus disparos. Es un selector de cadencia de disparo adaptado para que produzca más daño, según señaló la misma policía. Decomisaron 1 proveedor y 5 cartuchos calibre 9mm. 

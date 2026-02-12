@@ -5,10 +5,10 @@ pubDate: "2024-12-25 14:23:55"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/salario-minimo-954-oportunidad-para-empresarios-progresistas/"./hero.jpg"
 ---
 
-![Salario mínimo 9,54%: Oportunidad para empresarios progresistas.](./Gustavo-Petro_salario-1024x573.jpeg)
+![Salario mínimo 9,54%: Oportunidad para empresarios progresistas.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/salario-minimo-954-oportunidad-para-empresarios-progresistas/Gustavo-Petro_salario-1024x573.jpeg)
 *Salario mínimo 9,54%: Oportunidad para empresarios progresistas. (Captura de pantalla).*
 
 En una negociación tripartita del salario mínimo de Colombia con un pensamiento bipolar, es difícil satisfacer los intereses de tres. Por esta razón, el gobierno del **presidente Gustavo Petro** tomó la decisión de una tercera vía: decretó el aumento del  **9,54%**. Un equilibrio entre los intereses de los empresarios que pedían un aumento cercano al 6% y de las centrales obreras que exigían un 12%. Es una gran oportunidad para empresarios progresistas.

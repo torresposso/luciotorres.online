@@ -5,10 +5,10 @@ pubDate: "2021-11-23 14:05:03"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/sorpresa-el-exmagistrado-escobar-posee-una-hipoteca-en-la-europa/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/sorpresa-el-exmagistrado-escobar-posee-una-hipoteca-en-la-europa/hero.jpg)
 *Rodrigo Escobar Gil en los tiempos que era magistrado de la Corte Constitucional.*
 
 Mucha sorpresa produce el hecho de que el exmagistrado de la Corte Constitucional  **Rodrigo Escobar Gil**, condenado en segunda instancia por tráfico de influencia, **posea una hipoteca abierta por tan solo $5 millones de la finca La Europa de Pasacaballos**. El inmueble, antes de los actuales dueños, perteneció a la sociedad Agrogénesis, cuyas propiedades fueron sometidas a extinción de dominio. Actualmente está siendo poseída pacíficamente por cerca de 200 campesinos. 

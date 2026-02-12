@@ -5,7 +5,7 @@ pubDate: "2022-03-13 00:34:55"
 author: "Lucio"
 categories: ["Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/una-lista-sub-judice-que-pasara-si-el-ph-bolivar-logra-un-escano-en-la-camara/"./hero.jpg"
 ---
 
 El reconocido abogado Alcides Arrieta, apoderado del líder social **Raineer Rodríguez Vargas**, quien fuera candidato a cámara de Bolívar, dijo que . ¿La razón? Le violó los derechos políticos a su poderdante. Por esta razón presentará una demanda contra los movimientos que firmaron la lista y contra el Consejo Nacional Electoral-CNE que la avaló. 
@@ -20,7 +20,7 @@ Es decir, se busca demandar el acto administrativo que excluyó a Rodriguez Varg
 
 ## Lista sub judice: lo sacaron a codazos
 
-![Alcides Arrieta, apoderado de Raineer Rodríguez Vargas, destacado abogado, considera que la lista del Pacto Histórico está sub judice](./hero.jpg)
+![Alcides Arrieta, apoderado de Raineer Rodríguez Vargas, destacado abogado, considera que la lista del Pacto Histórico está sub judice](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/una-lista-sub-judice-que-pasara-si-el-ph-bolivar-logra-un-escano-en-la-camara/hero.jpg)
 *Alcides Arrieta, apoderado de Raineer Rodríguez Vargas, destacado abogado, considera que la lista del Pacto Histórico está sub judice.*
 
 Los partidos políticos que avalaron la nueva lista sub judice no tomaron una decisión democrática, aseveró Arrieta. Fue una decisión impuesta, antidemocrática. El nuevo pacto para la nueva lista se hizo mediante la imposición de 3 de los 6 movimientos que inicialmente la inscribieron.

@@ -5,10 +5,10 @@ pubDate: "2024-08-25 04:00:28"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/la-fiscal-del-paramilitarismo-y-la-crisis-moral-de-la-fiscalia-xiv/"./hero.jpg"
 ---
 
-![La fiscal del paramilitarismo y la crisis moral de la Fiscalía](./Claudia_Lozano_Doria.jpeg)
+![La fiscal del paramilitarismo y la crisis moral de la Fiscalía](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/la-fiscal-del-paramilitarismo-y-la-crisis-moral-de-la-fiscalia-xiv/Claudia_Lozano_Doria.jpeg)
 *La fiscal del paramilitarismo y la crisis moral de la Fiscalía./Cortesía.*
 
 La confirmación del fallo condenatorio de la **Corte Suprema de Justicia** del **Tribunal Superior de Bogotá** contra la fiscal **Claudia Elena Lozano Doria**, comprueba la tesis que **VoxPopuli Digital** viene exponiendo con pruebas desde el retorno de los paramilitares extraditados: **«Los Intocables»** (empresarios que se enriquecieron y financiaron el paramilitarismo) son dueños de la Fiscalía. Por ejemplo, la fiscal del paramilitarismo condenada por falsedad al presentar diploma falso de abogada, también **garantizó impunidad a criminales de lesa humanidad. Los mismos que la llevaron a ocupar altos cargos en esa entidad.**
@@ -23,12 +23,12 @@ Se empieza por decir que la historia de este caso, no es aislada. Por el contrar
 
 En el 2000, **Claudia Lozano ingresó a la Fiscalía de Montería como técnico judicial**, cuando ya el paramilitarismo había cometido grandes masacres de La Guajira, Cesar, Magdalena, Bolívar, Sucre y Córdoba. Era una de las fichas de la autodefensa dirigida por **«Jorge 40»** como muchos otros fiscales. La protegió el expresidente y exsenador **Álvaro Uribe Vélez** hasta llegar a ser directora de Fiscalía de La Guajira. Cuando cayó en desgracia, se desligó de ella. Incluso, supuestamente, la denunció cuando ya la estaban procesando por el escándalo de los **500 kilos** de cocaína que devolvió a los narcotraficantes.
 
-![Demóstenes Camargo, el magistrado de «Los Intocables» y del uribismo.](./hero.jpg)
+![Demóstenes Camargo, el magistrado de «Los Intocables» y del uribismo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/la-fiscal-del-paramilitarismo-y-la-crisis-moral-de-la-fiscalia-xiv/hero.jpg)
 *Demóstenes Camargo, el magistrado de «Los Intocables» y del uribismo*
 
 A Claudia Lozano la cogieron en el embuste cuando quiso saltar a **juez de conocimiento**. Lo mismo que otros fiscales fieles del paramilitarismo y del uribismo ―como el fiscal **Demóstenes Camargo (documento no disponible).pdf)**― que saltaron en forma tramposa (ver este enlace del fallo del Consejo de Estado (documento no disponible).pdf)) al manipular el concurso de la Fiscalía. Rápidamente ascendieron en el poder judicial hasta llegar a magistrados. Demóstenes está imputado por el fiscal 11 delegado ante la **Corte Suprema de Justicia**, **Julio Ospino**, por el delito de **prevaricato por acción agravado** como magistrado del **Tribunal Superior de Barranquilla** ante el caso de **Unimetro**.
 
-![Carlos Gutiérrez Straus, ](./juan_carlos_gutierrez.jpg)
+![Carlos Gutiérrez Straus, ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/la-fiscal-del-paramilitarismo-y-la-crisis-moral-de-la-fiscalia-xiv/juan_carlos_gutierrez.jpg)
 *Carlos Gutiérrez, Procurador Delegado Judicial en lo Penal.*
 
 O el mismo caso de **Juan Carlos Gutiérrez Strauss (documento no disponible)**, procurador Delegado II Judicial en lo Penal. A finales de los 90 se encontraba vinculado a la FGN como fiscal delegado ante el Tribunal Superior de Barranquilla. Luego abogado de **«Los Intocables»**.
@@ -47,7 +47,7 @@ La fiscal del paramilitarismo, Lozano Doria, es la esposa del excandidato a la a
 
 ## La relación con Cielo Redondo
 
-![Cielo Redondo con su nuevo mentor, el senador Didier Lobo Chinchilla, de Cambio Radical. La fiscal del paramilitarismo.Cortesía.](./Aqui-aparece-Cielo-Beatriz-Redondo-Mindiola-con-su-nuevo-padrino-el-senador-Didier-Lobo-Chinchilla.jpg)
+![Cielo Redondo con su nuevo mentor, el senador Didier Lobo Chinchilla, de Cambio Radical. La fiscal del paramilitarismo.Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/la-fiscal-del-paramilitarismo-y-la-crisis-moral-de-la-fiscalia-xiv/Aqui-aparece-Cielo-Beatriz-Redondo-Mindiola-con-su-nuevo-padrino-el-senador-Didier-Lobo-Chinchilla.jpg)
 *Cielo Redondo con su nuevo mentor, el senador Didier Lobo Chinchilla, de Cambio Radical. Cortesía.*
 
 En La Guajira, la fiscal del paramilitarismo tenía el respaldo político del exrepresentante y exsenador conservador **Bladimiro Cuello Daza** y de **Cielo Beatriz Redondo Mindiola**, exalcaldesa de Uribia. Perdió la alcaldía en las últimas elecciones de 2023. Contó con el apoyo de **Cambio Radical** y del **partido de la U**. Cuello Daza, cuando en su momento era cónsul de Chicago, dijo que no respaldaba a la fiscal. El exparlamentario vive actualmente en Estados Unidos luego de su pelea a muerte contra [**«Kiko»** **Gómez**](http://exgobernador Francisco Gómez Cerchar, ‘Kiko’ Gómez), quien fuera gobernador de Cambio Radical. Ahora este partido protege a Cielo Redondo.
@@ -70,7 +70,7 @@ Sin embargo, su caso llegó a otro nivel que terminó con su condena a 12 años 
 
 ## La punta del iceberg
 
-![Los que omiten investigar a los terceros civiles responsables refleja la crisis moral de la Fiscalía. La fiscal del paramilitarismo](./fiscales-1.jpg)
+![Los que omiten investigar a los terceros civiles responsables refleja la crisis moral de la Fiscalía. La fiscal del paramilitarismo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/la-fiscal-del-paramilitarismo-y-la-crisis-moral-de-la-fiscalia-xiv/fiscales-1.jpg)
 *Los que omiten investigar a los terceros civiles responsables refleja la crisis moral de la Fiscalía./VoxPopuli.Digital-*
 
 Su caso es solo la _punta del iceberg_ de la **profunda crisis ética y moral de la Fiscalía y de la justicia**, en general. Pero la Filosofía del Derecho ayuda a comprender esta falla de Estado. Es un problema del ser humano que tiene el papel de administrador de justicia. **La falta de ética y de moralidad pública de altos funcionarios de la Fiscalía, determina su conducta omisiva** para combatir a las grandes mafias del crimen.

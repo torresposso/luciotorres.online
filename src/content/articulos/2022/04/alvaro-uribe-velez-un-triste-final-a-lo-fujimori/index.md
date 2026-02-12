@@ -5,10 +5,10 @@ pubDate: "2022-04-29 02:16:38"
 author: "Lucio"
 categories: ["Análisis","Podcast","Post Conflicto","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/alvaro-uribe-velez-un-triste-final-a-lo-fujimori/"./hero.jpg"
 ---
 
-![Muchos se preguntan si al expresidente Álvaro Uribe Vélez le espera un triste final. La historia nos demuestra que sí](./hero.jpg)
+![Muchos se preguntan si al expresidente Álvaro Uribe Vélez le espera un triste final. La historia nos demuestra que sí](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/alvaro-uribe-velez-un-triste-final-a-lo-fujimori/hero.jpg)
 *Muchos se preguntan si al expresidente Álvaro Uribe Vélez le espera un triste final.*
 
 Muchos se preguntan si al expresidente Álvaro Uribe Vélez le espera un triste final. La historia nos demuestra que sí. Cuando los regímenes dictatoriales entran en decadencia, comienza a tejerse la gran tragedia de sus principales exponentes. Este es el caso del expresidente **Álvaro Uribe Vélez**, quien está soportando el inicio de **un triste final a lo Fujimori**. 

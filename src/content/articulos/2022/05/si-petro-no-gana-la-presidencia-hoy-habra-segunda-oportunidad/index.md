@@ -5,10 +5,10 @@ pubDate: "2022-05-29 17:15:26"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/si-petro-no-gana-la-presidencia-hoy-habra-segunda-oportunidad/"./hero.jpg"
 ---
 
-![¿Habrá segunda oportunidad? Si Petro no gana la presidencia hoy, se hace imposible una segunda posibilidad.](./hero.jpg)
+![¿Habrá segunda oportunidad? Si Petro no gana la presidencia hoy, se hace imposible una segunda posibilidad.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/si-petro-no-gana-la-presidencia-hoy-habra-segunda-oportunidad/hero.jpg)
 *¿Habrá segunda oportunidad?*
 
 Si Petro no gana la presidencia hoy ¿habrá segunda oportunidad? A estas alturas —cuando ya los cuatro candidatos a la presidencia de la República de Colombia con mayor posibilidad de ser lo más destacado de la jornada electoral depositaron sus votos— la izquierda está más cerca de ser gobierno. El reto de Gustavo Petro, Pacto Histórico, es vencer los obstáculos para lograr más del 50% de los votos en el día de hoy. Es un reto difícil, pero no imposible.

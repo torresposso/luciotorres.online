@@ -5,10 +5,10 @@ pubDate: "2023-01-20 01:00:55"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-historia-de-un-prevaricato-caso-gloria-estrada-i/"./hero.jpg"
 ---
 
-![El juez y la mano derecha de Fredys Quintero y Luis Cassiani. Ella se llama Patricia Tafur vinculada a la Contraloría Distrital de Cartagena. ¿Corrupción judicial y policial Caso Gloria Estrada? ](./hero.jpg)
+![El juez y la mano derecha de Fredys Quintero y Luis Cassiani. Ella se llama Patricia Tafur vinculada a la Contraloría Distrital de Cartagena. ¿Corrupción judicial y policial Caso Gloria Estrada? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-historia-de-un-prevaricato-caso-gloria-estrada-i/hero.jpg)
 *El juez José David Barrios Acevedo y la mano derecha de Fredy Quintero y Luis Cassiani. Ella se llama Patricia Tafur vinculada a la Contraloría Distrital de Cartagena. ¿Corrupción judicial y policial Caso Gloria Estrada?*
 
 Ese 12 de enero del 2023 los astros experimentaron una **«alineación divina»** en torno al **Juzgado** **Octavo Penal Municipal de Cartagena** para adoptar un prevaricato: una **decisión manifiestamente contraria a la ley**. Esta conducta refleja la evidente **corrupción judicial**, como fenómeno estructural del Estado. Todas las partes de la audiencia, mediante la cual se debía imponer medida de aseguramiento a uno de los conspiradores materiales del **Caso Gloria Estrada**, el patrullero **Alexander Salas Mercado**, se conectaron puntualmente en lo virtual. **Lo curioso:** era el 7° intento. Y, en segundo lugar, el juez titular se fue de licencia unos días hasta cuando tomaron la absurda decisión: **abstenerse de imponer medida de aseguramiento**.
@@ -27,7 +27,7 @@ Ese hecho que ponemos al descubierto no puede ser considerado como una **«manza
 
 ## La mujer del juez y el prevaricato
 
-![Aquí cuando Fredy Quintero presentó su equipo en la Contraloría Distrital. Está al lado de Patricia Tafur, la compañera sentimental del juez Barrios Acevedo. Historia de un prevaricato.](./fredyQuintero_contraloria2.jpg)
+![Aquí cuando Fredy Quintero presentó su equipo en la Contraloría Distrital. Está al lado de Patricia Tafur, la compañera sentimental del juez Barrios Acevedo. Historia de un prevaricato.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-historia-de-un-prevaricato-caso-gloria-estrada-i/fredyQuintero_contraloria2.jpg)
 *Aquí cuando Fredy Quintero presentó su equipo en la Contraloría Distrital. Está al lado de Patricia Tafur, la compañera sentimental del juez José David Barrios Acevedo. Historia de un prevaricato.*
 
 Empecemos por decir que el juez sustituto que presidió la audiencia donde se abstuvo de imponer medida de aseguramiento al exagente **Alexander Salas Mercado** se llama **José David Barrios Acevedo**. Un abogado que llegó a ese cargo por **ser amigo de un magistrado de la Sala Penal del Tribunal Superior de Cartagena**, al decir de una fuente de entero crédito. Su compañera sentimental se llama **Patricia Tafur**, quien fuera mano derecha del excontralor **Fredys Quintero**. Ellos llegaron a esa entidad gracias al poder político del concejal **Luis Cassiani**. Cassiani aparece como protector y cómplice de **Pedro Aponte**. Aponte, junto al exalcalde local 2 **Andy Reales**, son sindicados de ser autores intelectuales del complot político junto al **«hombre de atrás»**. ¿Se entiende este entramado?
@@ -38,7 +38,7 @@ Se presume que el abogado que fungió de juez es amigo del excontralor distrital
 
 ## El Juez Fantasma y el evidente prevaricato
 
-![Aquí observamos el selfie de Fredy Quintero con Pedro Aponte y Luis Cassiani. La historia de un prevaricato](./FredysQuintero_Cassiani_pedro-aponte.jpeg)
+![Aquí observamos el selfie de Fredy Quintero con Pedro Aponte y Luis Cassiani. La historia de un prevaricato](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-historia-de-un-prevaricato-caso-gloria-estrada-i/FredysQuintero_Cassiani_pedro-aponte.jpeg)
 *Aquí observamos el selfie de Fredy Quintero con Pedro Aponte y Luis Cassiani cuando manejaban la Contraloría Distrital y la alcaldía local 2. Esta esla historia de un prevaricato.*
 
 Hay hechos que por sí solos son curiosos o sospechosos. Y en el caso de este proceso, se presentaron varias «alineaciones divinas». La primera, todas las partes se conectaron ese día. No hubo problemas de conectividad. En los seis intentos anteriores faltaba siempre alguien de la institucionalidad o del procesado. Advertimos una deliberada estrategia de dilación orquestada desde la defensa. La segunda, sospechosamente el juez titular, **Luis Germán Herrera Vanegas**, se fue de licencia. Este es un patrón criminal que hemos descubierto en el poder judicial de Cartagena, Barranquilla y Santa Marta. \[Lea: **[Caso Mamatoco, la mácula del pequeño imperio de Caicedo (](/articulos/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/)**[I)](/articulos/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/)\]

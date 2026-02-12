@@ -5,15 +5,15 @@ pubDate: "2022-05-21 02:18:59"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/alerta-urgente-por-perfilada-de-veedor-judicial/"./hero.jpg"
 ---
 
-![¡Alerta Urgente! Erick Urueta](./hero.jpg)
+![¡Alerta Urgente! Erick Urueta](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/alerta-urgente-por-perfilada-de-veedor-judicial/hero.jpg)
 *¡Alerta Urgente!*
 
 Una alerta urgente lanzó el veedor social, Erick Urueta Benavides, debido al presunto perfilamiento que le está haciendo el  comandante del Cuarto _Distrito_ de la _Policía_ Metropolitana de Cartagena, **Gustavo Adolfo Bueno Aguilar**. Entre veedor y policía se han presentado enfrentamientos. El más sonado es el que se presenta en predios de la familia Girado en Playa Blanca Barú que disputan con el empresario Gabriel Echavarría Obregón. 
 
-![](./mayor-bueno-retrato.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/alerta-urgente-por-perfilada-de-veedor-judicial/mayor-bueno-retrato.jpg)
 *Mayor Gustavo Bueno Aguilar*
 
 Para Urueta el mayor Bueno se puso al servicio del empresario de Gabriel Echavarría en perjuicio de los intereses Girado. Recordó que el oficial también apareció en los hechos de complot ejecutado por la policía contra la presidenta del concejo de Cartagena, **Gloria Estrada Benavides**. 

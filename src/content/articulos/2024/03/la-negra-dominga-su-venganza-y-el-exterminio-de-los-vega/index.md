@@ -5,10 +5,10 @@ pubDate: "2024-03-02 00:53:24"
 author: "Lucio"
 categories: ["Barranquilla","Destacadas","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/la-negra-dominga-su-venganza-y-el-exterminio-de-los-vega/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/la-negra-dominga-su-venganza-y-el-exterminio-de-los-vega/hero.jpg)
 *El Beto (muerto), Jonathan (muerto) y Negra Dominga tomándose la selfie con su sobrino amado.*
 
 ¿El dolor que hoy siente **Meili Daza Curvelo** será el mismo que sintió **Álvaro Ospino Illera**, conocido en el bajo mundo como **«La Negra Dominga»**, el 25 de octubre de 2022? Este día, su amado sobrino—hijo, **Jonathan Ospino Illera**, fue asesinado fríamente por **el _Beto_**, en la fiesta de su cumpleaños. Este crimen le costó el exterminio de toda su familia. El último fue él, como para que su dolor se lo llevara hasta la eternidad.
@@ -37,7 +37,7 @@ Contrario a lo que hoy siente una madre adolorida por la muerte de sus últimos 
 
 ## Nuevo patrón en el bajo mundo
 
-![](./La-negra-dominga_y-sobrino_portada.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/la-negra-dominga-su-venganza-y-el-exterminio-de-los-vega/La-negra-dominga_y-sobrino_portada.jpg)
 *El nuevo patrón del bajo mundo, La Negra Dominga./ Foto Suministrada.*
 
 Se acabó el **Clan de Los Vega**, sin duda que sí. ¿Se acabó la guerra de las bandas que controlan la economía subterránea de Barranquilla? Sin duda que no. Este episodio de la masacre de Los Vega, que tenía algún tipo de alianza con _los Pepes_, no se encuentra en el escenario de guerra entre estos últimos y _los Costeños_, como equivocadamente dicen algunos medios de prensa y analistas consultados. Es una guerra muy particular y peculiar que podría cambiar la correlación de fuerza de esas bandas. Pero, a favor de la organización que exterminó a Los Vega, es decir, **Los Piloneros**, cuya economía no depende de la extorsión o del despojo de tierra. Tiene otras fuentes financieras toleradas por las mismas autoridades.
@@ -48,7 +48,7 @@ Ahora están surgiendo dos grandes jefes, los triunfadores de esta guerra contra
 
 ## La sentencia de muerte
 
-![Beto Vega Daza](./beto-vega-daza_1.jpg)
+![Beto Vega Daza](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/la-negra-dominga-su-venganza-y-el-exterminio-de-los-vega/beto-vega-daza_1.jpg)
 *Así entrenaba Los Vega, el Beto era uno de ellos./foto suministrada.*
 
 El último de los cachorros del _Kike_ Vega se había salvado 3 veces. La segunda vez fue antes de la masacre del 29 de junio de 2023. En esta pereció su padre y sus dos hermanos, en **North Frontier de Villa Campestre**, al norte de Barranquilla. Fue su escondrijo después de que alias _Beto_, el hoy occiso, asesinara a Jonathan.
@@ -63,7 +63,7 @@ No obstante, los Ospino Illera ya no se conformaron con pedir la cabeza de alias
 
 ## Antes de la masacre de North Frontier
 
-![La masacre de Los Vega](./Los-vega-muertos-971x1024.jpg)
+![La masacre de Los Vega](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/la-negra-dominga-su-venganza-y-el-exterminio-de-los-vega/Los-vega-muertos-971x1024.jpg)
 *Así quedó «Kike» Vega y sus hijos.*
 
 Una semana antes de la masacre, el Beto salió de su escondrijo con un solo escolta. Estaba de _papayita_ para los persecutores que ya mantenían a Los Vega en acecho. Ellos pidieron a sus jefes licencia para matarlo. Pero la orden fue tajante: **«**¡No!» Los querían muertos a todos y al mismo tiempo, que no es lo mismo. En esa oportunidad se había salvado de la parca el _Beto_. Pero todo era cuestión de tiempo, como lo narramos en su oportunidad:

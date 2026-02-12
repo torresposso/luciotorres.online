@@ -5,10 +5,10 @@ pubDate: "2022-11-27 15:25:51"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/nueva-esperanza-para-colombia-frente-a-nicaragua-i/"./hero.jpg"
 ---
 
-![Nueva esperanza para Colombia frente a Nicaragua.  El prestigioso jurista Eduardo Valencia-Ospina es el nuevo agente de Colombia ante el diferendo limítrofe con Nicaragua. Le acompañará la exembajadora en Kenia y raizal Elizabeth Taylor.](./hero.jpg)
+![Nueva esperanza para Colombia frente a Nicaragua.  El prestigioso jurista Eduardo Valencia-Ospina es el nuevo agente de Colombia ante el diferendo limítrofe con Nicaragua. Le acompañará la exembajadora en Kenia y raizal Elizabeth Taylor.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/nueva-esperanza-para-colombia-frente-a-nicaragua-i/hero.jpg)
 *Nueva esperanza para Colombia frente a Nicaragua. El prestigioso jurista Eduardo Valencia-Ospina es el nuevo agente de Colombia ante el diferendo limítrofe con Nicaragua. Le acompañará la exembajadora en Kenia y raizal Elizabeth Taylor Jay.*
 
 Una nueva esperanza surgió para que Colombia frente a Nicaragua proponga argumentos y soportes sólidos y detener la arremetida jurídica nica, la cual tiene importantes triunfos en este litigio. Un litigio que tuvo nuevas dimensiones con las reclamaciones cuando llegó al poder la **Junta Sandista** en 1979. Pero los 20 años de **régimen neobonapartista lo redujo a un problema de política global descuidando el aspecto jurídico.** El 19 de noviembre de 2022, al parecer, se vencieron los términos para la revisión del controvertido y dudoso fallo de la Corte Internacional de La Haya que en 2012 favoreció a Nicaragua.
@@ -25,7 +25,7 @@ Por esa razón, **VoxPopuli Digital** hace un avance de los resultados de su inv
 
 ## ¿Por qué Leyva no escucha a Serrano?
 
-![Álvaro Leyva Durán, canciller colombiano. Nueva esperanza para Colombia frente a Nicaragua ](./Alvaro-Leyva-696x406-1.jpg)
+![Álvaro Leyva Durán, canciller colombiano. Nueva esperanza para Colombia frente a Nicaragua ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/nueva-esperanza-para-colombia-frente-a-nicaragua-i/Alvaro-Leyva-696x406-1.jpg)
 *Álvaro Leyva Durán, canciller colombiano. Nueva esperanza para Colombia frente a Nicaragua*
 
 Por tanto, si el canciller **Álvaro Leyva Durán**, tan siquiera escuchara al perito Serrano Ochoa, quien realizó una investigación profunda sobre esas no tan nuevas pruebas, **el país podría tener una mejor defensa de su soberanía**. Surgiría una nueva esperanza para los colombianos menoscabadas por la pésima gestión jurídica de los últimos gobiernos.

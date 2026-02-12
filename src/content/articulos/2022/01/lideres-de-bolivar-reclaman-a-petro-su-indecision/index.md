@@ -5,10 +5,10 @@ pubDate: "2022-01-28 00:39:43"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/lideres-de-bolivar-reclaman-a-petro-su-indecision/"./hero.jpg"
 ---
 
-![](./MARRUGO-2.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/lideres-de-bolivar-reclaman-a-petro-su-indecision/MARRUGO-2.jpeg)
 *"No es coherente la posición de no apoyar la lista a Cámara de Bolívar. Javier Marrugo (101). Motín a bordo.*
 
 Con la inclusión de una mujer y la renuncia de un hombre, el **Pacto Histórico de Bolívar** aspira resucitar su lista a la cámara en Bolívar antes de que regrese su caudillo, **Gustavo Petro**, el  próximo 19 de febrero. Hoy, líderes históricos de la Colombia Humana prácticamente le hicieron un motín a **Nicolás Petro** en un evento convocado por **Adelina Covo**, excandidata a la alcaldía de Cartagena. 
@@ -23,7 +23,7 @@ El diputado Petro consideró que Bolívar se apartó de la directriz nacional de
 
 > Con la de Bolívar, hay 14 listas abiertas del Pacto Histórico a nivel nacional. En segundo lugar, en Bogotá nos crearon problemas a nosotros. De Bolívar salió una lista y de Bogotá regresó otra.
 
-![](./PH.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/lideres-de-bolivar-reclaman-a-petro-su-indecision/PH.jpeg)
 
 De la misma manera, Carlos Efraím Vargas, un viejo líder petrista de Bolívar, apoyó la posición de su compañero de lista Javier Marrugo.
 
@@ -33,7 +33,7 @@ De la misma manera, Carlos Efraím Vargas, un viejo líder petrista de Bolívar,
 
 En la reunión no estuvo Sandra Villadiego (No 104).  Pero traté de buscar su reacción frente a la posición tanto de Nicolás como la de Marrugo y Vargas. Parece que Villadiego no quiere involucrarse en la pelotera que existe al interior del Pacto Histórico, y mucho menos de Colombia Humana.
 
-![¡Motín a bordo en el Pacto Histórico!](./PH1.jpeg)
+![¡Motín a bordo en el Pacto Histórico!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/lideres-de-bolivar-reclaman-a-petro-su-indecision/PH1.jpeg)
 *Los asistentes en el evento de preparación para el regreso de Gustavo Petro a Cartagena el próximo 19 de febrero.*
 
 Algunos consideran que el caballo de troya era Colombia Villamil Quiroz, quien estuvo en Bogotá y logró conseguir el aval de Colombia Humana para entrar en el Pacto Histórico. Empero, cuando se supo que Sandra Villadiego había entrado, Villamil no firmó el acta que posteriormente debían entregar a la Registraduría. Con esa posición, Colombia Villamil creó un vacío de la cuota femenina y puso a tambalear la lista.

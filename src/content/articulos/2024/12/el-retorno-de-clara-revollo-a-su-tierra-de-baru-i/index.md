@@ -5,10 +5,10 @@ pubDate: "2024-12-18 21:14:00"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-retorno-de-clara-revollo-a-su-tierra-de-baru-i/"./hero.jpg"
 ---
 
-![](./Clara_revollo_portada-1024x561.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-retorno-de-clara-revollo-a-su-tierra-de-baru-i/Clara_revollo_portada-1024x561.jpeg)
 *El retorno de Clara Rebollo a Barú es un hito. ¿Regresarán los despojados a sus tierras?*
 
 El retorno de **Clara Rebollo de Canabal** a su tierra de Barú no fue pacífico. Ni tampoco contó con el apoyo del Estado. Por el contario, este fue instrumento de los despojadores para cometer su crimen. Gracias a la labor de sus abogados encabezado por **Alberto Cárdenas**, y a un **acto de humanidad** del Inspector de Policía, **el retorno de Clara Rebollo** a su vieja parcela, además, fue un **acto de justicia**.
@@ -35,7 +35,7 @@ Lo anterior era tanta verdad que en ese período gubernamental, con iniciativa p
 
 ## Un pequeño detalle
 
-![Valorem y ENTerritorio parecieran que estuviesen unidas, porque tienen a los mismos vigilantes de sus predios que colindan con los de Clara Rebollo.](./Clara_entrada.jpeg)
+![Valorem y ENTerritorio parecieran que estuviesen unidas, porque tienen a los mismos vigilantes de sus predios que colindan con los de Clara Rebollo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-retorno-de-clara-revollo-a-su-tierra-de-baru-i/Clara_entrada.jpeg)
 *Valorem y ENTerritorio parecieran que estuviesen unidas, porque tienen a los mismos vigilantes de sus predios que colindan con los de Clara Rebollo.*
 
 Pero había un pequeño detalle que ninguno de esos inversionistas se detuvo para analizar: **la tierra era de los nativos**. ¿Cómo concebir un proyecto en cuyo territorio está asentado durante más de tres centurias por un grupo poblacional marginado del desarrollo nacional? No pensaron otra cosa sino en el despojo con una apariencia de legalidad. Despojo en que los agentes del Estado **actuaron en concierto criminal** con el fin de darle apariencia de legalidad.
@@ -44,7 +44,7 @@ La tesis de este seriado es mostrar que los cerebros de esa empresa criminal con
 
 ## El retorno de Clara Rebollo
 
-![Un dejo de alegría, pero también de preocupación expresa el retorno de Clara Rebollo. Son 85 años de vida](./Clara_revollo.jpeg)
+![Un dejo de alegría, pero también de preocupación expresa el retorno de Clara Rebollo. Son 85 años de vida](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-retorno-de-clara-revollo-a-su-tierra-de-baru-i/Clara_revollo.jpeg)
 *Un dejo de alegría, pero también de preocupación expresa el retorno de Clara Rebollo. Son 85 años de vida.*
 
 El retorno de Clara Revollo a su antigua parcela no fue pacífico. Se gastó gran parte de su vida trabajando duro en Caracas prestando el servicio doméstico. Periódicamente transfería recursos a su marido Canabal para mantener su parcela y pagarle a la persona que atendía a sus hijos.
@@ -55,7 +55,7 @@ Gracias a esa defensa legal, logró que el inspector reconociera como un **acto 
 
 ## El retorno de Clara Rebollo: La oportunidad
 
-![](./Clara-Revollo_alberto_Cardenas-1024x494.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-retorno-de-clara-revollo-a-su-tierra-de-baru-i/Clara-Revollo_alberto_Cardenas-1024x494.jpeg)
 *Clara Revollo con su abogado Alberto Cárdenas.*
 
 Desde el plan de narrador de los hechos verdaderos, debe primar el principio de que cada desafío propone una oportunidad. Y los abogados de Clara Rebollo sí que entendieron **cuál era la oportunidad** para que su poderdante pueda vivir el último tramo de su existencia en su propio terruño.
@@ -66,7 +66,7 @@ Allí comienza el complejo insular de las **islas del Rosario**, la subregión m
 
 ## Barú y Bahía de Barbacoas
 
-![](./barbacoa.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-retorno-de-clara-revollo-a-su-tierra-de-baru-i/barbacoa.jpeg)
 *La península de Barú divide la Bahía de Cartagena con la Bahía de Barbacoa.*
 
 **VoxPopuli Digital** acompañó a Clara Rebollo a su retorno . Una víctima del despojo en un tiempo que los actores armados del conflicto interno colombiano comenzaron a acompañar proyectos económicos de envergadura nacional en **Barú y en la Bahía de Barbacoas**, en especial, la isla del Covado de Cartagena.
@@ -77,7 +77,7 @@ Clara es una mujer afortunada. Logró retornar. El presidente Gustavo Petro debe
 
 ## La reflexión
 
-![](./Hector_perez.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-retorno-de-clara-revollo-a-su-tierra-de-baru-i/Hector_perez.jpeg)
 *El despojo de los propietarios de Barú fue un despojo criminal de grandes empresarios con el contubernio del Estado, manifiesta Héctor Pérez Fernández.*
 
 El caso de Clara Rebollo de Canabal, permite reflexionar sobre los conceptos filosóficos del **eterno retorno** y la l**evedad del ser** desde una perspectiva que entrelaza la experiencia individual con las estructuras sociales y políticas que perpetúan el despojo y la exclusión.
@@ -90,7 +90,7 @@ La historia de su vida y de su comunidad encarna este eterno retorno de lucha, d
 
 ## El eterno retorno
 
-![Captura de pantalla del acta de la audiencia pública donde se le permitió a Clara Revollo poner un parqueadero en su propia parcela.](./Clara_acta.jpeg)
+![Captura de pantalla del acta de la audiencia pública donde se le permitió a Clara Revollo poner un parqueadero en su propia parcela.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-retorno-de-clara-revollo-a-su-tierra-de-baru-i/Clara_acta.jpeg)
 *Captura de pantalla del acta de la audiencia pública donde se le permitió a Clara Revollo poner un parqueadero en su propia parcela.*
 
 Muchas víctimas murieron con esa profunda nostalgia del **eterno retorno** que invade a los despojados, a los migrantes y a las víctimas de la gentrificación urbana o rural. Son los que creen en el _eterno retorno_. Regresar, como Clara Rebollo, quién pasará navidad y año nuevo en la tierra bella que cultivó con su marido, es el sueño de los que fueron despojados.

@@ -5,10 +5,10 @@ pubDate: "2025-05-04 15:49:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/un-retracto-cantado-la-verdad-de-la-corrupcion-en-la-dian/"./hero.jpg"
 ---
 
-![Un retracto cantado ¿La verdad de la corrupción en la DIAN?](./hero.jpg)
+![Un retracto cantado ¿La verdad de la corrupción en la DIAN?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/un-retracto-cantado-la-verdad-de-la-corrupcion-en-la-dian/hero.jpg)
 *Un retracto cantado ¿La verdad de la corrupción en la DIAN?*
 
 Pese a que fue un **retracto cantado** que anticipó **VoxPopuli Digital** el 28 de abril, una fuente señaló que la Fiscalía realizará un **Comité Técnico** en las próximas horas. En este decidirán sobre el cambio de radicación y las líneas de investigación denunciadas por **Sergio Andrés Rodríguez Zumaque**, alrededor del intento de homicidio de su padrastro **Edgardo Fernández Martínez**, alto funcionario de la DIAN de Barranquilla.
@@ -33,7 +33,7 @@ Así mismo solicitaron:
 
 > **«**Nos conceda una reunión en forma directa con usted y/o con un Fiscal de la Unidad Nacional Anticorrupción que usted asigne, de la ciudad de Bogotá D.C para tratar temas sobre esta investigación**»**.
 
-![Un retracto cantado. Fragmento del traslado de la solicitud de cambio de radicación](./Dian_cambio.jpeg)
+![Un retracto cantado. Fragmento del traslado de la solicitud de cambio de radicación](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/un-retracto-cantado-la-verdad-de-la-corrupcion-en-la-dian/Dian_cambio.jpeg)
 *Un retracto cantado. Fragmento del traslado de la solicitud de cambio de radicación.*
 
 Ese pedido fue trasladado de inmediato el 28 de abril por **Jair Fabian Quiroga Moreno**, asesor de la **Fiscal General Luz Adriana Camargo**, a la Delegada para la Seguridad Territorial de la entidad, **Deicy Jaramillo Rivera**.

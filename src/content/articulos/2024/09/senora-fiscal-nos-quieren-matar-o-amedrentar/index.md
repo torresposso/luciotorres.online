@@ -5,10 +5,10 @@ pubDate: "2024-09-26 03:15:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/senora-fiscal-nos-quieren-matar-o-amedrentar/"./hero.jpg"
 ---
 
-![Señora Fiscal: ¿Nos quieren matar o amedrentar?](./hero.jpg)
+![Señora Fiscal: ¿Nos quieren matar o amedrentar?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/senora-fiscal-nos-quieren-matar-o-amedrentar/hero.jpg)
 *Señora Fiscal: ¿Nos quieren matar o amedrentar?*
 
 Señora Fiscal **Luz Adriana Camargo**: ¿Nos quieren matar o amedrentar? Tal es la situación que estamos viviendo varios periodistas y abogados defensores de derechos humanos y restitución de tierra del norte de Bolívar, específicamente de la zona de expansión. A ninguno de esos abogados los he visto en malos pasos y no tienen un antepasado _non sancto_.
@@ -25,7 +25,7 @@ Las primeras pesquisas de los responsables de esta campaña de desprestigio, sin
 
 ## ¿Nos quieren matar o amedrentar?
 
-![Así presentan en red de Instagram la campaña de desprestigio, presuntamente adelantada por asesores de despojadores afectados por la defensa de los derechos de los campesinos propietarios.](./DENUNCIA_FOTO_DESPRESTIGIO-844x1024.jpg)
+![Así presentan en red de Instagram la campaña de desprestigio, presuntamente adelantada por asesores de despojadores afectados por la defensa de los derechos de los campesinos propietarios.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/senora-fiscal-nos-quieren-matar-o-amedrentar/DENUNCIA_FOTO_DESPRESTIGIO-844x1024.jpg)
 *Así presentan sus piezas de desprestigio contra Robinson Arroyo, Adil Meléndez Márquez, Lascario Jiménez, Héctor Pérez Fernández, Jairo Baena Vargas y Erick Urueta Benavides.*
 
 Mi querida Fiscal: ¿Nos quieren matar o amedrentar? Somos objetivos de esa campaña de desprestigio, amenazas y constreñimiento ilegal. Una campaña que solo busca proteger a los **todopoderosos despojadores** que instrumentalizan el poder estatal y judicial para perseguir a los más débiles.

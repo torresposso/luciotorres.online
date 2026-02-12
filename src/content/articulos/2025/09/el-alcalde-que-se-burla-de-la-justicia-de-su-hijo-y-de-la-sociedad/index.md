@@ -5,10 +5,10 @@ pubDate: "2025-10-01 02:28:02"
 author: "Lucio"
 categories: ["Barranquilla","Destacadas","Poder"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-alcalde-que-se-burla-de-la-justicia-de-su-hijo-y-de-la-sociedad/"./hero.jpg"
 ---
 
-![El alcalde que se burla de la justicia. ¿A Char solo le interesan los negocios y desprecia a su  parentela?  Aquí en Nueva York junto a Eduardo Verano de la Rosa, gobernador del Atlántico, con la firma inversora Seabury Capital Management (SCM) y con SGI Aviation  en un paso importante para  endeudar más a Barranquiilla y a los barranquilleros con el pretexto de desarrollo.](./hero.jpg)
+![El alcalde que se burla de la justicia. ¿A Char solo le interesan los negocios y desprecia a su  parentela?  Aquí en Nueva York junto a Eduardo Verano de la Rosa, gobernador del Atlántico, con la firma inversora Seabury Capital Management (SCM) y con SGI Aviation  en un paso importante para  endeudar más a Barranquiilla y a los barranquilleros con el pretexto de desarrollo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-alcalde-que-se-burla-de-la-justicia-de-su-hijo-y-de-la-sociedad/hero.jpg)
 *El alcalde que se burla de la justicia. ¿A Char solo le interesan los negocios y desprecia a su parentela? Aquí en Nueva York junto a Eduardo Verano de la Rosa, gobernador del Atlántico, con la firma inversora Seabury Capital Management (SCM) y con SGI Aviation en un paso importante para endeudar más a Barranquiilla y a los barranquilleros con el pretexto de desarrollo.*
 
 El alcalde que se burla de la justicia y de la ciudadanía. El pasado 20 de agosto de 2025 estaba todo listo en Medicina Legal de Bogotá para resolver una duda que lleva 33 años rondando como un fantasma al alcalde de Barranquilla **Alejandro Char Chaljub**: ¿Es Steven Castellanos Ramos su hijo primogénito? Pero, el flamante alcalde se burló por tercera vez de la justicia, de su presunto hijo y de la sociedad que espera una conducta congruente de su gobernante.
@@ -21,7 +21,7 @@ En efecto, Alejandro Char, dejó plantada a la justicia. Y, de paso, volvió a c
 
 ## El alcalde que se burla de la justicia
 
-![Los tres Char. El hijo negado, el de la gorra roja. El alcalde que se burla de la justicia](./Steven_char_alejo_.jpg)
+![Los tres Char. El hijo negado, el de la gorra roja. El alcalde que se burla de la justicia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-alcalde-que-se-burla-de-la-justicia-de-su-hijo-y-de-la-sociedad/Steven_char_alejo_.jpg)
 *El hijo negado, el de la gorra roja. El alcalde que se burla de la justicia*
 
 La soberbia de Char se exhibió en toda su desnudez. El alcalde que se burla de la justicia, que se pasea por escenarios deportivos y se deja ver en fiestas sociales con influenciadores y futbolistas, no tuvo el mínimo decoro de presentarse en un laboratorio para cumplir con la orden de un juez de la República.
@@ -34,7 +34,7 @@ Quien lo viera en Nueva York hablando de proyectos de expansión tecnológica pa
 
 ## Un padre ausente, un político altivo
 
-![](./Alejandro_char-1.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-alcalde-que-se-burla-de-la-justicia-de-su-hijo-y-de-la-sociedad/Alejandro_char-1.jpg)
 
 Steven lo esperaba ese 20 de agosto, como lo esperó el 4 de junio cuando también se excusó con la farsa de una incapacidad médica que, según su abogado, lo obligaba a “hidratación oral y antibióticos”. Pero apenas dos días después, el país lo vio celebrando en el estadio Metropolitano con **Juanda Caribe y Teófilo Gutiérrez**, eufórico y sonriente, como si la justicia fuese un chiste.
 

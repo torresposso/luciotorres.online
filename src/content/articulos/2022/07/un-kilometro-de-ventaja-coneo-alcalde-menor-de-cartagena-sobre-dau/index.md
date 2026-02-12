@@ -5,7 +5,7 @@ pubDate: "2022-07-13 03:19:32"
 author: "Lucio"
 categories: ["Análisis","Emprendimiento","Investigación","Podcast","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/un-kilometro-de-ventaja-coneo-alcalde-menor-de-cartagena-sobre-dau/"./hero.jpg"
 ---
 
 ¡Un kilómetro de ventaja! Coneo le lleva a Dau. Al escuchar las críticas del alcalde **William Dau** contra la gestión del alcalde de la localidad Industrial y de la Bahía No 3, **Aroldo Coneo**, nos dimos a la tarea de investigar y a analizar el hecho. ¡Oh sorpresa! Nos encontramos que en calidad de ejecución, **el alcalde menor le lleva al alcalde mayor William Dau Chamat un kilómetro de vías nuevas de ventaja, 12 parques, 41 mejoramiento de viviendas**, entre otras obras públicas.
@@ -16,7 +16,7 @@ Como los indicadores de gestión de William Dau son tan pobres como su vocabular
 
 ## Plata para gastar
 
-![Las capacitaciones de Coneo están amarrados a proyectos sociales. ¡Un kilómetro de ventaja! ](./hero.jpg)
+![Las capacitaciones de Coneo están amarrados a proyectos sociales. ¡Un kilómetro de ventaja! ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/un-kilometro-de-ventaja-coneo-alcalde-menor-de-cartagena-sobre-dau/hero.jpg)
 *Las capacitaciones de Coneo están amarrados a proyectos sociales. Aquí visitando el estudio de grabación para las nuevas revelaciones del canto y la música popular. ¡Un kilómetro de ventaja!*
 
 En la administración pública el dinero es para gastarlo, no para tenerlos en los bancos. Hay que gastarlo con una alta rentabilidad social. Y aquí Coneo también le lleva a Dau: ¡Un kilómetro de ventaja!
@@ -33,7 +33,7 @@ De tal manera que el alcalde William Dau, debe quedarse con el rabo entre las pi
 
 ## En recreación Coneo 12 parques, Dau y Londoño 0
 
-![¡Un kilómetro de ventaja! le lleva en recreación y en la construcción de parques.](./entregando-parque.jpg)
+![¡Un kilómetro de ventaja! le lleva en recreación y en la construcción de parques.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/un-kilometro-de-ventaja-coneo-alcalde-menor-de-cartagena-sobre-dau/entregando-parque.jpg)
 *El equipo de Coneo entregando uno de los parques. El Socorro plan 500B, el parque #ElEsfuerzo*
 
 En materia de recreación y parque, la situación es desfavorable para William Dau. Aroldo Coneo está por entregar en la vigencia 2021-2022 **doce (12) parques nuevos**. Siete urbanos y 5 rurales. Por ejemplo, en la vereda de El Recreo de Pasacaballos se construyó un parque que impactará positivamente a esa población olvidada de la administración distrital. Dau no sabe dónde se encuentra esa vereda, mucho menos tendrá interés de hacer alguna obra.

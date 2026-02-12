@@ -13,8 +13,8 @@ const __dirname = fileURLToPath(new URL(".", import.meta.url));
 
 // Configuration - Update these with your actual credentials
 const BUCKET_CONFIG = {
-  endpoint: process.env.BUCKET_ENDPOINT || "https://storage.railway.app",
-  bucket: process.env.BUCKET_NAME || "your-bucket-name",
+  endpoint: process.env.BUCKET_ENDPOINT || "https://t3.storageapi.dev",
+  bucket: process.env.BUCKET_NAME || "bundled-saddlebag-tnqki7w",
   region: process.env.BUCKET_REGION || "auto",
   credentials: {
     accessKeyId: process.env.BUCKET_ACCESS_KEY_ID || "",

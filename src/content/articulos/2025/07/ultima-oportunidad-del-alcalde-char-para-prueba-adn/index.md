@@ -5,10 +5,10 @@ pubDate: "2025-07-15 10:22:19"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/ultima-oportunidad-del-alcalde-char-para-prueba-adn/"./hero.jpg"
 ---
 
-![¿Última oportunidad del alcalde Char para prueba ADN?](./hero.jpg)
+![¿Última oportunidad del alcalde Char para prueba ADN?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/ultima-oportunidad-del-alcalde-char-para-prueba-adn/hero.jpg)
 *¿Última oportunidad del alcalde Char para prueba ADN?*
 
 **Alex Char Chaljud** ahora tiene la última oportunidad para hacerse el test ADN. Como se informó en la primera entrega, el alcalde de Barranquilla **eludió el pasado 4 de junio**, por tercera vez y en forma deliberada, presentarse ante Medicina Legal para la prueba genética ordenada por el **Juzgado 1 de Familia del Circuito de Bogotá**.
@@ -21,7 +21,7 @@ En otras palabras, la última oportunidad de Alex Char, como lo conocen en gener
 
 ## Alex Char y Mark Twin
 
-![](./image-3.png)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/ultima-oportunidad-del-alcalde-char-para-prueba-adn/image-3.png)
 *Negar la paternidad es negarle la dignidad humana al hijo. Es la última oportunidad para Alex Char.*
 
 ¿Alex Char es el mejor alcalde de Colombia? ¿Hasta dónde llegó la degradación de los políticos en Colombia y, en especial, en Barranquilla? A Curramba la convirtieron en cuna de la corrupción moderna de la política colombiana. Si no eres capaz de reconocer a tus hijos, eres capaz de todo.
@@ -48,7 +48,7 @@ Con esta falta de integridad ética para afrontar una posible paternidad, estar�
 
 ## El buen ejemplo
 
-![](./Alex_char_fuad.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/ultima-oportunidad-del-alcalde-char-para-prueba-adn/Alex_char_fuad.jpg)
 *Alex y su padre Fuad Char.*
 
 Se entendería que, como buen gobernante, debió dar ejemplo y obrar con responsabilidad y respeto por los derechos humanos. La Corte Constitucional sostiene que el **derecho a conocer el origen biológico** es parte del núcleo esencial de la **dignidad humana**.

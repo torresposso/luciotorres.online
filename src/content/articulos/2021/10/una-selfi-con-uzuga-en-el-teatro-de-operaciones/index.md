@@ -5,10 +5,10 @@ pubDate: "2021-10-24 00:28:13"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/una-selfi-con-uzuga-en-el-teatro-de-operaciones/"./hero.jpg"
 ---
 
-![](./SELFI-CON-OTONIEL.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/una-selfi-con-uzuga-en-el-teatro-de-operaciones/SELFI-CON-OTONIEL.jpeg)
 *Uno de los oficiales haciéndose una selfi con Úzuga, quien aparece sonriendo. Cortesía.*
 
 Una selfi con «Otoniel» no queda mal, diría el oficial que se tomó la foto con el capturado en el teatro de operaciones. Pareciera como si el jefe del Clan del Golfo fuera una estrella Hollywoodense.
@@ -23,7 +23,7 @@ En una operación militar denominada «Osiris», las fuerzas militares colombian
 
 ## El perfil de un violento
 
-![](./OTONIEL.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/una-selfi-con-uzuga-en-el-teatro-de-operaciones/OTONIEL.jpeg)
 *¿Como cayó «Otoniel»?*
 
 **Dairo Antonio Úsuga David,** nació en Necloclí, Antioquia, el 15 de septiembre de 1971. O sea, que tenía un mes de haber cumplido año. Es conocido por los alias de «Otoniel», «Mauricio» y «Mao». Fue un destacado dirigente de la guerrilla del Ejército de Liberación Nacional- EPL. Esta agrupación se desmovilizó en Tierralta (Córdoba) en 1991 gracias a un acuerdo de paz con el gobierno. 

@@ -5,10 +5,10 @@ pubDate: "2022-02-14 23:55:26"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-sospechosa-conducta-de-una-juez-y-un-edil-i/"./hero.jpg"
 ---
 
-![](./Haydee-Hernandez.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-sospechosa-conducta-de-una-juez-y-un-edil-i/Haydee-Hernandez.jpeg)
 *Caso Gloria Estrada. La conducta sospechosa de la juez Haydeé Hernández Vargas lideró la visita del edil Pedro Aponte en la cárcel de Ternera.*
 
 En el Caso Gloria Estrada existen tres hechos que no se han explorado ni tampoco han trascendido en la opinión pública. (1) La conducta sospechosa de una juez y un edil. (2) La actuación extraña de un exalcalde allegado al edil Pedro Aponte.  (3) La conducta atípica de los tres agentes de policía que practicaron la detención contra Martín Barreto, Gloria Estrada, presidenta del concejo, y Avelino Villamizar. Un cuarto ocupante lo dejaron libre sin ninguna explicación.
@@ -31,7 +31,7 @@ De tal manera que Pedro Aponte presentó en su denuncia penal:
 
 ## Aponte Vs. Barreto
 
-![Caso Gloria Estrada](./hero.jpg)
+![Caso Gloria Estrada](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-sospechosa-conducta-de-una-juez-y-un-edil-i/hero.jpg)
 *Caso Gloria Estrada. Una guerra que llega a los estrados judiciales.*
 
 Sin embargo, algunos estiman que la verdadera intención de Pedro Aponte y sus socios era intimidar a Martín Barreto, detenido en la cárcel Distrital. Al mismo tiempo, crear una coartada para que lo excluyeran del supuesto complot contra la presidenta del concejo de Cartagena, **Gloria Estrada**. Es, como se dice en el argot boxístico, golpear primero para poner a su oponente a la defensiva. Como en efecto sucedió.
@@ -52,7 +52,7 @@ En los mentideros políticos se indicó que Pedro Aponte atizó al alcalde dolid
 
 ## Una juez en el ojo del huracán
 
-![](./Haydee-Hernandez-2.jpeg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-sospechosa-conducta-de-una-juez-y-un-edil-i/Haydee-Hernandez-2.jpeg)
 *Una de las últimas fotos de la juez que entró a defender a Pedro Aponte. ¿Cómo se llama eso?*
 
 ¿Qué hace una juez de ejecución de penas liderando una visita? **VoxPopuli Digital** averiguó si la juez **Haydeé Hernández Vargas** tenía algo que ver en el proceso, pero las fuentes manifestaron que no. Si esto es así, **¿cómo pidió a la dirección de la cárcel permiso para que Aponte, Reales, Marbello y Ayos se entrevistaran con internos de Ternera?** ¿Acaso es un tráfico de influencia? ¿Qué interés particular tiene la juez Hernández en este sonado caso judicial? **¿O es una asesoría ilegal que la jueza le está haciendo al edil Aponte?** ¿Qué responde el Consejo de la Judicatura? ¿Iniciará una investigación disciplinaria por un presunto tráfico de influencia?

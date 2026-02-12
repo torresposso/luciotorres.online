@@ -5,10 +5,10 @@ pubDate: "2018-12-25 14:04:16"
 author: "Lucio"
 categories: ["Cartagena"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/hasta-siempre-mastrascusas-un-lider-de-la-causa-social/"./hero.jpg"
 ---
 
-![Alexis Mastracusas, uno de los líderes más destacadas en el tema de vivienda popular.](./hero.jpg)
+![Alexis Mastracusas, uno de los líderes más destacadas en el tema de vivienda popular.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/hasta-siempre-mastrascusas-un-lider-de-la-causa-social/hero.jpg)
 *Alexis Mastrascusas (derecha) en compañía de unos de sus camaradas, Huberto Visbal.*
 
 **Hasta siempre, Mastrascusa!** Mientras su familia se preparaba para la cena navideña, **Alexis Mastrascusa Cano** sufría un paro cardiorrespiratorio. Murió. La última vez que nos vimos fue en en una esquina de la Avenida Venezuela, en el centro de Cartagena. Un abrazo fuerte y dijo en voz alta, como para que lo escucharan  los líderes que le rodeaban:
@@ -31,7 +31,7 @@ Mastrascusa fue secretario de Provivienda. Participó junto a **César Flórez, 
 
 ## Expresiones de dolor
 
-![](./padaui.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/hasta-siempre-mastrascusas-un-lider-de-la-causa-social/padaui.jpg)
 *Alexis Mastrascusa tenía a Joche Padauí, oriundo de Magangué, como uno de sus camaradas que lo apoyó cuando fue secretario político del PCC en Bolívar.*
 
 José Padauí, uno de los dirigentes del PCC-UP en Bolívar:

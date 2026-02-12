@@ -5,10 +5,10 @@ pubDate: "2025-03-17 11:58:58"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/la-consulta-de-petro-y-benedetti-un-mete-mono/"./hero.jpg"
 ---
 
-![La consulta popular de Petro una forma de instrumentalizar la participación ciudadana.](./hero.jpg)
+![La consulta popular de Petro una forma de instrumentalizar la participación ciudadana.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/la-consulta-de-petro-y-benedetti-un-mete-mono/hero.jpg)
 *La consulta de Petro y Benedetti: ¿Un «mete mono»? o ¿Una salida del ministro del Interior Armando Benedetti para jalonar la protesta social? ¿Efectos de la influencia de Benedetti en el sanedrín de Petrosky?*
 
 ¿Mañana martes será un nuevo día? Todo indica que la consulta de Petro es un «mete mono». O sea, como se dice en la región Caribe cuando una persona o cosa aparenta ser algo, su verdadero sentido es instrumentalizar la participación ciudadana desde el poder presidencialista. Ya lo hizo Álvaro Uribe cuando fue presidente. Si queremos reformas sociales profundas que beneficien a los trabajadores y a la sociedad, y, al mismo tiempo, se dé un salto cuántico para una democracia directa, la vía es la **Asamblea Nacional Constituyente―ANC**. Esta sería una solución radical, más democrática y expresión culmen de la democracia directa.
@@ -17,7 +17,7 @@ En ese sentido, coincidimos con el constitucionalista y expresidente de la Corte
 
 ## ¿Quién pregunta?
 
-![Jaime Araújo Rentería, un constitucionalista que también puso sus objeciones a la consulta popular de Petro.](./jaime_araujo_renteria.jpeg)
+![Jaime Araújo Rentería, un constitucionalista que también puso sus objeciones a la consulta popular de Petro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/la-consulta-de-petro-y-benedetti-un-mete-mono/jaime_araujo_renteria.jpeg)
 *Jaime Araújo Rentería, un constitucionalista que también puso sus objeciones a la consulta popular de Petro.*
 
 El experto **Araújo Rentería**, participó en una disertación virtual con un grupo de líderes sociales. Esta instancia de deliberación fue coordinada por el constitucionalista **Nixon Torres** para discutir el tema. Araújo manifestó que en una **consulta de origen presidencialista**, el pueblo no es soberano. Porque quién hace la pregunta es el presidente y no la ciudadanía.

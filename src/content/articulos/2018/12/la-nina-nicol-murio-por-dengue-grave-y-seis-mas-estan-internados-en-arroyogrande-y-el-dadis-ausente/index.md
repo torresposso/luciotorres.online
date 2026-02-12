@@ -5,10 +5,10 @@ pubDate: "2018-12-10 03:19:37"
 author: "Lucio"
 categories: ["Cartagena"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/la-nina-nicol-murio-por-dengue-grave-y-seis-mas-estan-internados-en-arroyogrande-y-el-dadis-ausente/"./hero.jpg"
 ---
 
-![](./hero.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/la-nina-nicol-murio-por-dengue-grave-y-seis-mas-estan-internados-en-arroyogrande-y-el-dadis-ausente/hero.jpg)
 *El desfile fúnebre de Nicol Medina Licona, 9 años, muerta por dengue hemorrágico en Arroyogrande.*
 
 Un día antes de morir (7 de diciembre), a la niña **Nicol Yuliani Medina Licona**, 9 años, le habían dado de alta en la Casa del Niño. El diagnóstico: un ataque viral. El miércoles por la mañana, 5 de diciembre, la llevaron al **Centro de Atención Permanente-CAP de Bayunca** donde el médico de turno le dijo que era la virosis. Pero Nicol seguía mal. El mismo viernes la llevaron por la madrugada nuevamente de urgencia a la Casa del Niño. A las 12 del día la enfermera de turno le dio la noticia a sus padres:
@@ -38,7 +38,7 @@ Mientras  Ana Elvira, entre llantos, enterraba este sábado 8 de diciembre a su
 
 ## El sepelio
 
-![](./nicol.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/la-nina-nicol-murio-por-dengue-grave-y-seis-mas-estan-internados-en-arroyogrande-y-el-dadis-ausente/nicol.jpg)
 *Nicol ya no podrá ir a jugar más en el parque de Arroyogrande-Cartagena. Un diagnóstico equivocado la llevó a la tumba.*
 
 Llantos y lamentaciones se vivió en el sepelio de Nicol. El féretro blanco que transportaban sus familiares produjo mucho dolor en Arroyogrande. Un féretro que contenía el cuerpecito de una niña humilde que no debió morir. Una pena profunda sintieron no solo los familiares de Nicol. También la mitad del pueblo sintió ese dolor en el alma cuando el sepulturero le echaba las últimas paladas de tierra.
@@ -49,7 +49,7 @@ El caso de Nicol refleja la falta de atención integral a las comunidades urbana
 
 ## ¿Por qué se propaga el dengue?
 
-![](./nicol-y-la-alberca-2.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/la-nina-nicol-murio-por-dengue-grave-y-seis-mas-estan-internados-en-arroyogrande-y-el-dadis-ausente/nicol-y-la-alberca-2.jpg)
 *Aquí se proveía de agua Nicol.*
 
 El mosquito transmisor vive cerca de las casas, incluso, dentro de ellas, en recipientes de agua limpia que deben recoger para los quehaceres del hogar. Estas poblaciones no tienen servicio de agua potable y mucho menos alcantarillado. Aguas de Cartagena ESP no invierte en estos corregimientos, porque su población no tiene capacidad de pago, aún cuando los servicios públicos domiciliarios son esenciales para la salud y la vida. Su carencia es sinónimo de pobreza, de enfermedades y, finalmente,  de muerte. Y en Arroyogrande la población vive como en las cavernas: sin agua y sin alcantarillado.
@@ -66,7 +66,7 @@ El doble drama de la familia de Nicol es una señal inequívoca que en pleno sig
 
 Los líderes sociales, como **Deudani Zambrano**, deben ejercer un mayor control social y alertar a las autoridades sobre estos fenómenos. Como efectivamente, le hizo un llamado desesperado a este periodista para que la autoridad competente  intervenga.
 
-![](./nicol-milagro-2.jpg)
+![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/la-nina-nicol-murio-por-dengue-grave-y-seis-mas-estan-internados-en-arroyogrande-y-el-dadis-ausente/nicol-milagro-2.jpg)
 *Aquí Nicol había recibido grado en el Hogar Comunitario del ICBF de Arroyogrande.*
 
 **El caso de Nicol nunca más se debe repetir.** Hay que buscar a los responsables. **La vida es sagrada**, y más la de una niña que merece vivir y cumplir sus sueños. Llega a mi ese dolor profundo de su madre o de su padre. Al ver a mis nietas expresar sus sueños y sus deseos de _**ser alguien en la vida**_, no pasa por mi pensamiento que por la desidia médica o la falta de una política de erradicación de los vectores, le maten sus sueños como a Nicol.

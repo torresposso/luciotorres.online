@@ -5,10 +5,10 @@ pubDate: "2025-07-21 04:27:13"
 author: "Lucio"
 categories: ["Análisis","Poder"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/lidio-garcia-el-poderoso-97-senadores-por-un-solo-partido-colombia/"./hero.jpg"
 ---
 
-![Lidio García: «Un solo partido que es Colombia» en la presidencia del congreso](./hero.jpg)
+![Lidio García: «Un solo partido que es Colombia» en la presidencia del congreso](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/lidio-garcia-el-poderoso-97-senadores-por-un-solo-partido-colombia/hero.jpg)
 *Lidio García: «Un solo partido que es Colombia» en la presidencia del congreso*
 
 **Lidio García Turbay** quiere **«un solo partido que es Colombia»** con la presidencia del congreso. Regresa triunfante a esa dignidad con el apoyo del 97 por ciento del senado. Su candidatura la lleva de la mano del expresidente **César Gaviria**, líder supremo de la colectividad. El mismo que lo postuló en la plenaria para la elección de la nueva directiva.

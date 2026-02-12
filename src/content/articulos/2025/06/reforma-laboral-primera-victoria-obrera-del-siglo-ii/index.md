@@ -5,10 +5,10 @@ pubDate: "2025-06-28 02:09:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: "./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/reforma-laboral-primera-victoria-obrera-del-siglo-ii/"./hero.jpg"
 ---
 
-![¿Reforma laboral, primera victoria obrera del siglo?](./hero.jpg)
+![¿Reforma laboral, primera victoria obrera del siglo?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/reforma-laboral-primera-victoria-obrera-del-siglo-ii/hero.jpg)
 *¿Reforma laboral, primera victoria obrera del siglo?/Cortesía.*
 
 Por fin, es un hecho la **nueva reforma laboral**. Luego de la conciliación de las dos cámaras ―después que el 17 de junio el senado lo aprobara― **el proyecto fue sancionado por el presidente Gustavo Petro este miércoles 25 de junio**. Con este acto, realizado en la Quinta de Bolívar y Manuelita Sáenz, el proyecto se convirtió en **Ley de la República**. Las preguntas clave: **¿La reforma laboral superará la precarización del mercado laboral y el trabajo será digno?** ¿Responde a nuestro tiempo?
