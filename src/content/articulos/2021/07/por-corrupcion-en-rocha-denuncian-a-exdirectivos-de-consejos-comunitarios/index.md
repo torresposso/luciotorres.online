@@ -5,7 +5,7 @@ pubDate: "2021-07-25 14:31:25"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/por-corrupcion-en-rocha-denuncian-a-exdirectivos-de-consejos-comunitarios/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/por-corrupcion-en-rocha-denuncian-a-exdirectivos-de-consejos-comunitarios/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/por-corrupcion-en-rocha-denuncian-a-exdirectivos-de-consejos-comunitarios/hero.jpg)

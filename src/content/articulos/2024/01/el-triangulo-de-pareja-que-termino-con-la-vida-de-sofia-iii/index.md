@@ -5,7 +5,7 @@ pubDate: "2024-01-30 23:07:50"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/el-triangulo-de-pareja-que-termino-con-la-vida-de-sofia-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/el-triangulo-de-pareja-que-termino-con-la-vida-de-sofia-iii/hero.jpg
 ---
 
 ![Sofía y su madre cuando el ICBF se la devolvió el 22 de noviembre de 2023. Dos meses después murió.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/el-triangulo-de-pareja-que-termino-con-la-vida-de-sofia-iii/hero.jpg)

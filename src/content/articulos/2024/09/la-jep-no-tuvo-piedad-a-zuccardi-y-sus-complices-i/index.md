@@ -5,7 +5,7 @@ pubDate: "2024-09-24 03:07:56"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/la-jep-no-tuvo-piedad-a-zuccardi-y-sus-complices-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/la-jep-no-tuvo-piedad-a-zuccardi-y-sus-complices-i/hero.jpg
 ---
 
 ![Aunque Vicente Blel (izq.) declaró a favor de Piedad Zuccardi, esta no pudo aclarar los hechos donde está mencionada junto a Alfonso Hilsaca para sobornar a testigos, según la JEP](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/la-jep-no-tuvo-piedad-a-zuccardi-y-sus-complices-i/hero.jpg)

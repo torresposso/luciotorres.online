@@ -5,7 +5,7 @@ pubDate: "2023-04-03 03:02:37"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/hero.jpg
 ---
 
 ![Turismo religioso: Se le apareció la Virgen a Magangué. Aspecto de la procesión de la Virgen de la Candelaria en Magangué febrero 2023.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/hero.jpg)

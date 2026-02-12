@@ -5,7 +5,7 @@ pubDate: "2023-09-10 17:29:42"
 author: "Lucio"
 categories: ["Análisis","Crónica","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/impedimento-del-magistrado-farfan-la-estrategia-del-rey-arturo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/impedimento-del-magistrado-farfan-la-estrategia-del-rey-arturo/hero.jpg
 ---
 
 ![Impedimento del magistrado Farfán, la estrategia del «rey» Arturo.

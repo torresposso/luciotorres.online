@@ -5,7 +5,7 @@ pubDate: "2021-07-22 19:37:11"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/en-cartagena-denuncian-a-echavarria-por-apropiacion-indebida-de-predios/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/en-cartagena-denuncian-a-echavarria-por-apropiacion-indebida-de-predios/hero.jpg
 ---
 
 Sin duda, el conflicto por un trozo de tierra de Playa Blanca entre un industrial como Gabriel Echavarría y un nativo como Vicente Girado **refleja el proceso de gentrificación** que se se experimenta en el casco urbano histórico y la zona insular de Cartagena. Por estos hechos denuncian a Echavarría.

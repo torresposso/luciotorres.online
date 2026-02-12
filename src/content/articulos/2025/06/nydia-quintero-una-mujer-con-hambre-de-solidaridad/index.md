@@ -5,7 +5,7 @@ pubDate: "2025-06-30 17:17:53"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-03-08 11:21:20"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/queremos-trabajar-mototaxistas-luchan-por-la-confianza-legitima/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/queremos-trabajar-mototaxistas-luchan-por-la-confianza-legitima/hero.jpg
 ---
 
 ![¡Queremos trabajar! dicen los mototaxistas.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/queremos-trabajar-mototaxistas-luchan-por-la-confianza-legitima/hero.jpg)

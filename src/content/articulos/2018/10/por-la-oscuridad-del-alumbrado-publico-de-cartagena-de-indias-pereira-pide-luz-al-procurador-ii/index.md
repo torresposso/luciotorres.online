@@ -5,7 +5,7 @@ pubDate: "2018-10-13 20:57:01"
 author: "Lucio"
 categories: ["Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/hero.jpg
 ---
 
 *   ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/hero.jpg)

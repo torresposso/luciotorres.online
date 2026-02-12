@@ -5,7 +5,7 @@ pubDate: "2024-07-09 16:55:48"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/gobernadores-yamil-arriba-8057-verano-abajo-4792-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/gobernadores-yamil-arriba-8057-verano-abajo-4792-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/gobernadores-yamil-arriba-8057-verano-abajo-4792-ii/hero.jpg)

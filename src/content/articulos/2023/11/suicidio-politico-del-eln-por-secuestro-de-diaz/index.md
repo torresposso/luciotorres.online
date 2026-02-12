@@ -5,7 +5,7 @@ pubDate: "2023-11-05 03:50:17"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/hero.jpg)

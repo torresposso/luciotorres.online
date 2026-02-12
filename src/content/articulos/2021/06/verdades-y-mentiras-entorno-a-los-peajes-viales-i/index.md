@@ -5,7 +5,7 @@ pubDate: "2021-06-22 00:22:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/verdades-y-mentiras-entorno-a-los-peajes-viales-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/verdades-y-mentiras-entorno-a-los-peajes-viales-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/verdades-y-mentiras-entorno-a-los-peajes-viales-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2025-08-18 01:57:45"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/pensar-una-colombia-en-paz-mac-master/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/pensar-una-colombia-en-paz-mac-master/hero.jpg
 ---
 
 ![«Pensar una Colombia en paz» con Luis Carlos Sarmiento, uno de los zares del sistema financiero colombiano.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/pensar-una-colombia-en-paz-mac-master/hero.jpg)

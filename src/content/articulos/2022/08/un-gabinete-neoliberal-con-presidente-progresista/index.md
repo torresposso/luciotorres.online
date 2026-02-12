@@ -5,7 +5,7 @@ pubDate: "2022-08-12 02:00:00"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/un-gabinete-neoliberal-con-presidente-progresista/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/un-gabinete-neoliberal-con-presidente-progresista/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/un-gabinete-neoliberal-con-presidente-progresista/hero.jpg)

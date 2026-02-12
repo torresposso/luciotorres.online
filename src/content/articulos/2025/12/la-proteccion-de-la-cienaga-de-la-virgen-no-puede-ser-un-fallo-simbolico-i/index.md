@@ -5,7 +5,7 @@ pubDate: "2025-12-18 21:25:50"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/la-proteccion-de-la-cienaga-de-la-virgen-no-puede-ser-un-fallo-simbolico-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/la-proteccion-de-la-cienaga-de-la-virgen-no-puede-ser-un-fallo-simbolico-i/hero.jpg
 ---
 
 ![La presidenta de la DNP , Natalia Irene Molina Posso pidió una curul en la mesa de ejecución de la sentencia del Consejo de Estado sobre el Parque de la Ciénaga de la Virgen](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/la-proteccion-de-la-cienaga-de-la-virgen-no-puede-ser-un-fallo-simbolico-i/hero.jpg)

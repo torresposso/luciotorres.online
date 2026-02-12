@@ -5,7 +5,7 @@ pubDate: "2021-04-08 23:08:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/juez-declaro-en-desacato-al-alcalde-por-la-popa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/juez-declaro-en-desacato-al-alcalde-por-la-popa/hero.jpg
 ---
 
 \[caption id="attachment\_14513" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/juez-declaro-en-desacato-al-alcalde-por-la-popa/rafael-Zuniga.jpeg) La persistencia de **Rafael Zúñiga**, de Ecopopa está dando resultados. Merece el apoyo de la comunidad para la protección de la popa como un pulmón del país.\[/caption\]

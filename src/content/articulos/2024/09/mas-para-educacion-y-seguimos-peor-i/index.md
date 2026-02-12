@@ -5,7 +5,7 @@ pubDate: "2024-09-29 19:13:22"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/mas-para-educacion-y-seguimos-peor-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/mas-para-educacion-y-seguimos-peor-i/hero.jpg
 ---
 
 ![Más para educación y seguimos peor](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/mas-para-educacion-y-seguimos-peor-i/EDUCACION_RETOS-1024x479.jpeg)

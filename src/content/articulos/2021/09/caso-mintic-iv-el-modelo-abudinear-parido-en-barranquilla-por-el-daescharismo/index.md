@@ -5,7 +5,7 @@ pubDate: "2021-09-29 00:09:47"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/caso-mintic-iv-el-modelo-abudinear-parido-en-barranquilla-por-el-daescharismo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/caso-mintic-iv-el-modelo-abudinear-parido-en-barranquilla-por-el-daescharismo/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/caso-mintic-iv-el-modelo-abudinear-parido-en-barranquilla-por-el-daescharismo/El-Daescharismo.jpeg)

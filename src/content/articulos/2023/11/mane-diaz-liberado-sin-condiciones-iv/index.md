@@ -5,7 +5,7 @@ pubDate: "2023-11-14 04:38:33"
 author: "Lucio"
 categories: ["Análisis","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/mane-diaz-liberado-sin-condiciones-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/mane-diaz-liberado-sin-condiciones-iv/hero.jpg
 ---
 
 ![«Mane» Díaz fue liberado «sin condiciones», Antonio García, comandante del ELN. Foto cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/mane-diaz-liberado-sin-condiciones-iv/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-03-06 02:16:34"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-doble-crucifixion-del-primogenito-de-petro-me-han-dado-la-espalda-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-doble-crucifixion-del-primogenito-de-petro-me-han-dado-la-espalda-ii/hero.jpg
 ---
 
 ![La familia presidencial. De ellos el primer sacrificado, el primogénito Nicolás Petro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-doble-crucifixion-del-primogenito-de-petro-me-han-dado-la-espalda-ii/Nicolas-Petro.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2021-10-17 02:35:43"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/Un-coronel-alcalde.jpeg)

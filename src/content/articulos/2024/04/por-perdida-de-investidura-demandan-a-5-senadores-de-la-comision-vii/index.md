@@ -5,7 +5,7 @@ pubDate: "2024-04-02 02:02:51"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-perdida-de-investidura-demandan-a-5-senadores-de-la-comision-vii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-perdida-de-investidura-demandan-a-5-senadores-de-la-comision-vii/hero.jpg
 ---
 
 ![Pérdida de investidura para los senadores del Centro Democrático y de la U que se pronunciaron sobre la reforma a la salud.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-perdida-de-investidura-demandan-a-5-senadores-de-la-comision-vii/hero.jpg)

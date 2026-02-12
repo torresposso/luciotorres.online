@@ -5,7 +5,7 @@ pubDate: "2023-05-11 14:16:30"
 author: "Lucio"
 categories: ["Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-desahogo-de-gloria-gaitan-la-cultura-patriarcal-todo-lo-irriga/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-desahogo-de-gloria-gaitan-la-cultura-patriarcal-todo-lo-irriga/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-desahogo-de-gloria-gaitan-la-cultura-patriarcal-todo-lo-irriga/hero.jpg)

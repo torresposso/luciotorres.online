@@ -5,7 +5,7 @@ pubDate: "2023-09-27 11:36:57"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/viejos-vicios-en-nuevas-convocatorias-del-icbf-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/viejos-vicios-en-nuevas-convocatorias-del-icbf-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/viejos-vicios-en-nuevas-convocatorias-del-icbf-i/hero.jpg)

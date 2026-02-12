@@ -5,7 +5,7 @@ pubDate: "2024-03-10 22:40:09"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/hero.jpg)

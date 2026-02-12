@@ -5,7 +5,7 @@ pubDate: "2024-05-08 22:06:50"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/gobierno-con-los-barrios-populares-en-el-pozon-de-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/gobierno-con-los-barrios-populares-en-el-pozon-de-cartagena/hero.jpg
 ---
 
 ![Gobierno con los Barrios Populares en Cartagena](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/gobierno-con-los-barrios-populares-en-el-pozon-de-cartagena/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2021-04-25 00:43:56"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/hero.jpg
 ---
 
 \[caption id="attachment\_14673" align="aligncenter" width="1920"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/hero.jpg) La dupleta policíaca. Sellaron el **«Nuevo Pacto de los Malandrines»**.\[/caption\]

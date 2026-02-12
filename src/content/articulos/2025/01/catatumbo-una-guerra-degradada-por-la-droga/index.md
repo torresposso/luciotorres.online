@@ -5,7 +5,7 @@ pubDate: "2025-01-28 04:57:52"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/catatumbo-una-guerra-degradada-por-la-droga/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/catatumbo-una-guerra-degradada-por-la-droga/hero.jpg
 ---
 
 ![Catatumbo: Una guerra degradada por la droga.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/catatumbo-una-guerra-degradada-por-la-droga/hero.jpg)

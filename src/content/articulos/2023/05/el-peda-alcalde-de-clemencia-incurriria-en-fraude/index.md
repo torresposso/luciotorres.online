@@ -5,7 +5,7 @@ pubDate: "2023-05-10 01:58:11"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-peda-alcalde-de-clemencia-incurriria-en-fraude/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-peda-alcalde-de-clemencia-incurriria-en-fraude/hero.jpg
 ---
 
 ![«El Peda» (de gorra, abraza y señala a Samir como su sucesor en la alcaldía de Clemencia. Foto de Facebook](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-peda-alcalde-de-clemencia-incurriria-en-fraude/hero.jpg)

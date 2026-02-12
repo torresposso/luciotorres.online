@@ -5,7 +5,7 @@ pubDate: "2021-06-07 18:45:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/procuraduria-investiga-a-munera-alcalde-e-por-dejar-sin-comida-a-las-reclusas/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/procuraduria-investiga-a-munera-alcalde-e-por-dejar-sin-comida-a-las-reclusas/hero.jpg
 ---
 
 \[caption id="attachment\_15339" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/procuraduria-investiga-a-munera-alcalde-e-por-dejar-sin-comida-a-las-reclusas/hero.jpg) La Procuraduría investiga a David Múnera, secretario del Interior por omisión. Pero se ha demorado más de un año sin pronunciarse.\[/caption\]

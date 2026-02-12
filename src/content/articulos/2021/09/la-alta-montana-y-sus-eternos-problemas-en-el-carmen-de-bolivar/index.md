@@ -5,7 +5,7 @@ pubDate: "2021-09-12 11:49:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/la-alta-montana-y-sus-eternos-problemas-en-el-carmen-de-bolivar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/la-alta-montana-y-sus-eternos-problemas-en-el-carmen-de-bolivar/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/la-alta-montana-y-sus-eternos-problemas-en-el-carmen-de-bolivar/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-03-15 12:51:53"
 author: "Lucio"
 categories: ["Análisis","Crónica","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/al-caido-caerle-la-sancion-del-cne-a-petro-y-maximo-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/al-caido-caerle-la-sancion-del-cne-a-petro-y-maximo-i/hero.jpg
 ---
 
 ![Al caído, caerle: La sanción del CNE a Petro y Máximo (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/al-caido-caerle-la-sancion-del-cne-a-petro-y-maximo-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2021-08-31 17:53:45"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/jhon-villamizar-aclara-que-no-esta-interesado-en-cachenche/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/jhon-villamizar-aclara-que-no-esta-interesado-en-cachenche/hero.jpg
 ---
 
 **Jhon Villamizar aclara que no tiene interés en Cachenche.** Es un reconocido empresario antioqueño —no bogotano—, aclaró que no está interesado en arrendar o comprar los predios de Cachenche. De igual manera que su empresa Coral Azúl cumple a cabalidad con los requisitos y exigencias de la licencia ambiental concedida por Cardique.

@@ -5,7 +5,7 @@ pubDate: "2023-08-01 02:02:23"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-15-pretendientes-de-cartagena-de-indias-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-15-pretendientes-de-cartagena-de-indias-i/hero.jpg
 ---
 
 ![Así está Cartagena de Indias, como esta persona en condición de calle en la Plaza de la Proclamación de la Independencia. Esperando que uno de los 15 pretendientes la redima. /VoxPopuli Digital.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-15-pretendientes-de-cartagena-de-indias-i/hero.jpg)

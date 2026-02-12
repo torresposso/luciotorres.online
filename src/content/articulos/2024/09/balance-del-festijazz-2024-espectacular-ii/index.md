@@ -5,7 +5,7 @@ pubDate: "2024-09-19 03:23:40"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/balance-del-festijazz-2024-espectacular-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/balance-del-festijazz-2024-espectacular-ii/hero.jpg
 ---
 
 ![Balance del Festijazz 2024: ¡¡Espectacular!!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/balance-del-festijazz-2024-espectacular-ii/hero.jpg)

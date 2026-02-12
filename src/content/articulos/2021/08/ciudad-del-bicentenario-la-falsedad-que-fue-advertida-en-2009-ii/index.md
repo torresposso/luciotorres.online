@@ -5,7 +5,7 @@ pubDate: "2021-08-12 00:29:47"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ciudad-del-bicentenario-la-falsedad-que-fue-advertida-en-2009-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ciudad-del-bicentenario-la-falsedad-que-fue-advertida-en-2009-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ciudad-del-bicentenario-la-falsedad-que-fue-advertida-en-2009-ii/hero.jpg)

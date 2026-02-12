@@ -5,7 +5,7 @@ pubDate: "2020-08-02 00:37:22"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/se-debe-elegir-nuevo-contralor-distrital-ante-la-suspension-provisional-del-elegido/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/se-debe-elegir-nuevo-contralor-distrital-ante-la-suspension-provisional-del-elegido/hero.jpg
 ---
 
 \[caption id="attachment\_12250" align="aligncenter" width="800"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/se-debe-elegir-nuevo-contralor-distrital-ante-la-suspension-provisional-del-elegido/david-caballero.jpeg) **David Caballero, presidente del Concejo de Cartagena**, debe convocar a plenaria para **revocar la elección de Héctor Consuegra** como contralor Distrital. Cortesía Concejo.\[/caption\] ¿Se debe seguir la elección de contralor Distrital ante la inhabilidad del elegido, **Héctor Consuegra Salinas,** y la suspensión provisional de su **acto de elección** por parte del **Tribunal Administrativo de Bolívar-TAB**? **¡Si! ¿Se debe esperar hasta que termine el proceso jurídico de nulidad electoral? ¡No! Se debe seguir el proceso de elección del contralor**. Lo que judicialmente está suspendido es el acto de elección y no el proceso mismo. Este análisis periodístico de la nueva situación del proceso de elección del contralor Distrital de Cartagena se hace con el fin de orientar a la opinión para que tome parte en el debate y solicite al concejo que convoque a **audiencia ciudadana**. Presentaremos una argumentación jurídica basada en la arquitectura de la normatividad constitucional, legal y de la administración pública.

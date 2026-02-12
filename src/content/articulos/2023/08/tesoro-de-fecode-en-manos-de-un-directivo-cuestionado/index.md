@@ -5,7 +5,7 @@ pubDate: "2023-08-05 17:20:23"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/tesoro-de-fecode-en-manos-de-un-directivo-cuestionado/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/tesoro-de-fecode-en-manos-de-un-directivo-cuestionado/hero.jpg
 ---
 
 ![Tesoro de Fecode en manos de un directivo cuestionado: Luis Alfredo Grimaldo. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/tesoro-de-fecode-en-manos-de-un-directivo-cuestionado/hero.jpg)

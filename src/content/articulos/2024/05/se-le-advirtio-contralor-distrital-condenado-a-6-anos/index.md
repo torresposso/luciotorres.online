@@ -5,7 +5,7 @@ pubDate: "2024-05-22 14:17:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/hero.jpg
 ---
 
 ![Esta fue la imagen con que ilustramos el artículo donde se presentó la prueba reina de la inhabilidad del contralor y del concierto para delinquir. Héctor Consuegra Salinas, Contralor distrital condenado a 6 años .](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/hero.jpg)

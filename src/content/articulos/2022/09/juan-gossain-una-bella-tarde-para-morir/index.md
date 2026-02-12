@@ -5,7 +5,7 @@ pubDate: "2022-09-29 00:39:37"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/juan-gossain-una-bella-tarde-para-morir/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/juan-gossain-una-bella-tarde-para-morir/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/juan-gossain-una-bella-tarde-para-morir/hero.jpg)

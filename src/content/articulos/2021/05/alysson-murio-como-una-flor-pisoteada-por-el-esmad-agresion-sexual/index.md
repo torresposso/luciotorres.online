@@ -5,7 +5,7 @@ pubDate: "2021-05-19 22:46:48"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/alysson-murio-como-una-flor-pisoteada-por-el-esmad-agresion-sexual/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/alysson-murio-como-una-flor-pisoteada-por-el-esmad-agresion-sexual/hero.jpg
 ---
 
 \[caption id="attachment\_15045" align="aligncenter" width="1080"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/alysson-murio-como-una-flor-pisoteada-por-el-esmad-agresion-sexual/hero.jpg) Homenaje a Alisson, **víctima de la agresión sexual del ESMAD**. Cortesía.\[/caption\]

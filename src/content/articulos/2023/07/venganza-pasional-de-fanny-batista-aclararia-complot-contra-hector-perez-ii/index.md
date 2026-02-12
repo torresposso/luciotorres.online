@@ -5,7 +5,7 @@ pubDate: "2023-07-23 00:58:29"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/venganza-pasional-de-fanny-batista-aclararia-complot-contra-hector-perez-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/venganza-pasional-de-fanny-batista-aclararia-complot-contra-hector-perez-ii/hero.jpg
 ---
 
 ![Venganza pasional de Fanny Batista contra Jhon Villamizar Gómez sacó a flote el caso del plan para asesinar a Héctor Pérez Fernández. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/venganza-pasional-de-fanny-batista-aclararia-complot-contra-hector-perez-ii/hero.jpg)

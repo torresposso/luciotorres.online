@@ -5,7 +5,7 @@ pubDate: "2024-04-30 13:12:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/caso-baru-trafico-en-secretaria-del-interior-e-inspecciones-de-policia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/caso-baru-trafico-en-secretaria-del-interior-e-inspecciones-de-policia/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/caso-baru-trafico-en-secretaria-del-interior-e-inspecciones-de-policia/Claudia_quintero.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2023-03-17 19:50:51"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/a-un-paso-de-la-carcel-alcaldesa-de-maria-la-baja/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/a-un-paso-de-la-carcel-alcaldesa-de-maria-la-baja/hero.jpg
 ---
 
 ![¿A la cárcel? alcaldesa de María la Baja](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/a-un-paso-de-la-carcel-alcaldesa-de-maria-la-baja/hero.jpg)

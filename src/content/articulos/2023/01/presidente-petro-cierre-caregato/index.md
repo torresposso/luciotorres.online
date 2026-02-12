@@ -5,7 +5,7 @@ pubDate: "2023-01-21 19:52:23"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/presidente-petro-cierre-caregato/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/presidente-petro-cierre-caregato/hero.jpg
 ---
 
 ![Presidente Petro: ¡Cierre Caregato!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/presidente-petro-cierre-caregato/PROTESTA.jpeg)

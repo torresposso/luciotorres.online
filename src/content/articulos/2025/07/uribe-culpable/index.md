@@ -5,7 +5,7 @@ pubDate: "2025-07-28 01:48:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/uribe-culpable/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/uribe-culpable/hero.jpg
 ---
 
 ![El presidente Uribe ¿Culpable?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/uribe-culpable/CILPABLE.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2019-10-31 11:23:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/chocorazo-o-fraude-los-organismos-de-control-deben-intervenir-ya/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/chocorazo-o-fraude-los-organismos-de-control-deben-intervenir-ya/hero.jpg
 ---
 
 *Así estaba el sitio donde se realizan los escrutinios de Cartagena. ¿Chocorazo o fraude?Cortesía*

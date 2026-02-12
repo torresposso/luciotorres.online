@@ -5,7 +5,7 @@ pubDate: "2023-05-18 11:46:11"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mancuso-debe-cumplir-compromisos-jep/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mancuso-debe-cumplir-compromisos-jep/hero.jpg
 ---
 
 ![El último día de audiencia de Salvatore Mancuso. En tres meses la JEP definirá su admisión.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mancuso-debe-cumplir-compromisos-jep/hero.jpg)

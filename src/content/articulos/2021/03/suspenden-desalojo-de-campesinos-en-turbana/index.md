@@ -5,7 +5,7 @@ pubDate: "2021-03-08 23:13:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/suspenden-desalojo-de-campesinos-en-turbana/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/suspenden-desalojo-de-campesinos-en-turbana/hero.jpg
 ---
 
 Suspenden desalojo de campesinos en Turbana. La medida fue adoptada por medio de auto de tutela No 057 de 2021 emitida por el Juez Promiscuo del Circuito de Turbaco que conoce en segunda instancia el caso de los campesinos de Cachenche.

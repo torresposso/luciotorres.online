@@ -5,7 +5,7 @@ pubDate: "2023-10-27 16:41:53"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/atencion-hoy-cne-pone-en-vilo-a-alex-char/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/atencion-hoy-cne-pone-en-vilo-a-alex-char/hero.jpg
 ---
 
 ![Usan los niños para su proselitismo político. Alejandro Char y Eduardo Verano están moralmente inhabilitados. Hoy CNE pone en vilo  a Alex Char.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/atencion-hoy-cne-pone-en-vilo-a-alex-char/hero.jpg)

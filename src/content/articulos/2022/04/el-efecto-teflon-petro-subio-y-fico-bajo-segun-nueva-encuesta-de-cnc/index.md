@@ -5,7 +5,7 @@ pubDate: "2022-04-23 00:39:47"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/el-efecto-teflon-petro-subio-y-fico-bajo-segun-nueva-encuesta-de-cnc/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/el-efecto-teflon-petro-subio-y-fico-bajo-segun-nueva-encuesta-de-cnc/hero.jpg
 ---
 
 ![Petro subió y «Fico» bajó. El «efecto teflón» ronda la imagen del candidato presidencial del Pacto Histórico,](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/el-efecto-teflon-petro-subio-y-fico-bajo-segun-nueva-encuesta-de-cnc/hero.jpg)

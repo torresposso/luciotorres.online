@@ -5,7 +5,7 @@ pubDate: "2025-02-17 15:37:02"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/lo-mejor-y-lo-peor-de-yamilito-en-el-primer-ano/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/lo-mejor-y-lo-peor-de-yamilito-en-el-primer-ano/hero.jpg
 ---
 
 ![Lo mejor y lo peor. El gobernador Yamilito Arana (sonriente) prende su vela por los favores recibidos. A su lado, Pedro Alí (solemne) hace lo propio con su esposa Fadia Arana Zea, sobrina de Arturo Zea.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/lo-mejor-y-lo-peor-de-yamilito-en-el-primer-ano/hero.jpg)

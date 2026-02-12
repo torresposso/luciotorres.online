@@ -5,7 +5,7 @@ pubDate: "2020-10-31 22:11:52"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/la-genesis-del-despojo-de-los-santo-domingo-historia-infame-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/la-genesis-del-despojo-de-los-santo-domingo-historia-infame-ii/hero.jpg
 ---
 
 \[caption id="attachment\_13092" align="alignnone" width="539"\]![El 11 de noviembre el presidente Uribe, la alcaldesa Mariamulata y la gerente de Corvivienda visitaron el proyecto Ciudadela Bicentenario en tierra de las víctimas despojadas.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/la-genesis-del-despojo-de-los-santo-domingo-historia-infame-ii/hero.jpg) El 11 de noviembre de 2010 se oficializó el despojo de los Santo Domingo. Pablo Obregón, junto al presidente Uribe y la alcaldesa Judith Pinedo lanzaron el proyecto Bicentenario construido en tierra de los Hernández.\[/caption\] Muchos ricos se hacen más ricos despojando a los más débiles. Este modelo de enriquecimiento ilícito es el _modus operandi_ del despojo de los **Santo Domingo,** por lo menos, en dos casos documentados en **www.voxpopuli.digital.** Los casos de los [**Hernández Vergara**](/articulos/historia-del-infame-despojo-de-los-santo-domingo-a-familias-afros-i/) y de los **[Meza Marimón](./).** (Dele clic). Las víctimas del despojo de los Santo Domingo, son —casi siempre— familias afros que luchan por demostrar que **tienen los títulos legítimos de sus tierras despojadas**. Pero ¿cómo se produjo el despojo de los Santo Domingo en el caso de la familia Hernández Vergara?

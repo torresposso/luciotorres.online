@@ -5,7 +5,7 @@ pubDate: "2022-01-21 22:14:13"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/en-emergencia-bomberos-de-colombia-bolivar-la-cenicienta/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/en-emergencia-bomberos-de-colombia-bolivar-la-cenicienta/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/en-emergencia-bomberos-de-colombia-bolivar-la-cenicienta/hero.jpg)

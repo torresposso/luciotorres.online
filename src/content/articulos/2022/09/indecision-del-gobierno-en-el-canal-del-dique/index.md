@@ -5,7 +5,7 @@ pubDate: "2022-09-16 14:05:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/indecision-del-gobierno-en-el-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/indecision-del-gobierno-en-el-canal-del-dique/hero.jpg
 ---
 
 https://youtu.be/zmIajhHg5Rs

@@ -5,7 +5,7 @@ pubDate: "2025-11-03 11:44:46"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/los-intocables-del-caribe-arrodillan-a-la-justicia-y-amenazan-a-abogados-honestos-xvii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/los-intocables-del-caribe-arrodillan-a-la-justicia-y-amenazan-a-abogados-honestos-xvii/hero.jpg
 ---
 
 ![Reabren proceso por homicidio a Los intocables del Caribe... Los del matadero Camaguey.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/los-intocables-del-caribe-arrodillan-a-la-justicia-y-amenazan-a-abogados-honestos-xvii/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-06-14 02:02:44"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/que-hay-del-periodismo-amenazado-en-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/que-hay-del-periodismo-amenazado-en-cartagena/hero.jpg
 ---
 
 ![El periodismo amenazado. Los periodistas carlos Figueroa y Germán terán en reunión con la Secretaria del Interior, Paola Pianeta y otros funcionarios del Distrito de Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/que-hay-del-periodismo-amenazado-en-cartagena/hero.jpg)

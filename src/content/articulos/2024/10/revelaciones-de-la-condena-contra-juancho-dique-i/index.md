@@ -5,7 +5,7 @@ pubDate: "2024-10-23 14:59:49"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/revelaciones-de-la-condena-contra-juancho-dique-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/revelaciones-de-la-condena-contra-juancho-dique-i/hero.jpg
 ---
 
 ![¿Arrepentimiento? ¿Garantía de no repetición? ¡Pamplinas! La puerca pollera nunca pierde el vicio. ¿Este decir costeño aplica para el exjefe paramilitar Uber Enrique Banquez, más conocido con el nombre criminal de «Juancho Dique»? La sentencia del juzgado 22 Municipal de Garantías de Bogotá, en primera instancia, lo condenó por fraude procesal y falso testimonio. Le mintió a la Corte Suprema de Justicia en los procesos contra los senadores de la época de los hechos, Javier Cáceres y Piedad Zuccardi.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/revelaciones-de-la-condena-contra-juancho-dique-i/Uber_banquez_laverdad-1024x550.jpeg)

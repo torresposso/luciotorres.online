@@ -5,7 +5,7 @@ pubDate: "2023-04-17 18:55:59"
 author: "Lucio"
 categories: ["Crónica","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/secuestro-simple-de-anciana-y-trafico-de-influencia-judicial-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/secuestro-simple-de-anciana-y-trafico-de-influencia-judicial-i/hero.jpg
 ---
 
 ![secuestro simple](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/secuestro-simple-de-anciana-y-trafico-de-influencia-judicial-i/hero.jpg)

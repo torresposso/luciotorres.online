@@ -5,7 +5,7 @@ pubDate: "2024-02-18 18:37:45"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/hero.jpg
 ---
 
 ![Dumek, Cartagena sin agua, sin luz, insegura, y ¡mucho calor!/Aguas de Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/hero.jpg)

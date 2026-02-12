@@ -5,7 +5,7 @@ pubDate: "2025-07-08 04:42:41"
 author: "Lucio"
 categories: ["Destacadas","Poder"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/barranquilla-ciudad-simulacro-sede-del-foro-ocde-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/barranquilla-ciudad-simulacro-sede-del-foro-ocde-i/hero.jpg
 ---
 
 ![Alejandro Char Chaljub, es un auténtico Aladino con su lámpara mágica](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/barranquilla-ciudad-simulacro-sede-del-foro-ocde-i/hero.jpg)

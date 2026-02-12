@@ -5,7 +5,7 @@ pubDate: "2024-01-02 03:29:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/un-nuevo-dia-carta-blanca-a-nuevos-mandatarios/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/un-nuevo-dia-carta-blanca-a-nuevos-mandatarios/hero.jpg
 ---
 
 ![¿Un nuevo día? ¿"Carta blanca" a nuevos mandatarios? Galán en Bogotá busca el cambio de frente; Char retoma el mando de la continuidad, y Dumek busca exorcizar la maldición de Dau.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/un-nuevo-dia-carta-blanca-a-nuevos-mandatarios/hero.jpg)

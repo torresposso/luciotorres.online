@@ -5,7 +5,7 @@ pubDate: "2023-05-07 02:18:34"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/petro-logro-que-espana-apoye-reformas-y-paz-total/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/petro-logro-que-espana-apoye-reformas-y-paz-total/hero.jpg
 ---
 
 ![España apoya reformas y Paz Total de Petro.Aquí el presidente de Colombia Gustavo con su homólogo de España Pedro Sánchez/Pool Moncloa / Borja Puig de la Bellacasa](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/petro-logro-que-espana-apoye-reformas-y-paz-total/hero.jpg)

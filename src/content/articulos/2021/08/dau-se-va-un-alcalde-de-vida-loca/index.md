@@ -5,7 +5,7 @@ pubDate: "2021-08-07 20:51:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/dau-se-va-un-alcalde-de-vida-loca/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/dau-se-va-un-alcalde-de-vida-loca/hero.jpg
 ---
 
 ![Un alcalde de vida loca, La revocatoria va en serio.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/dau-se-va-un-alcalde-de-vida-loca/hero.jpg)

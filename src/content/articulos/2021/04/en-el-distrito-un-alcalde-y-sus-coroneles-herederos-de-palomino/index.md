@@ -5,7 +5,7 @@ pubDate: "2021-04-24 00:45:28"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/hero.jpg
 ---
 
 \[caption id="attachment\_14653" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/hero.jpg) ¿Los herederos de Palomino? Dau está feliz con sus nuevos colaboradores.\[/caption\]

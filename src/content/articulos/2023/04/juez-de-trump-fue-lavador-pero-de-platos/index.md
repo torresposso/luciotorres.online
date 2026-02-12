@@ -5,7 +5,7 @@ pubDate: "2023-04-02 14:12:23"
 author: "Lucio"
 categories: ["Análisis","Post Conflicto"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/juez-de-trump-fue-lavador-pero-de-platos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/juez-de-trump-fue-lavador-pero-de-platos/hero.jpg
 ---
 
 ![Un colombiano, de lavador de platos a juez de Trump](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/juez-de-trump-fue-lavador-pero-de-platos/hero.jpg)

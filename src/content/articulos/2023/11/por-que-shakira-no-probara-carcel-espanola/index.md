@@ -5,7 +5,7 @@ pubDate: "2023-11-21 03:06:12"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/por-que-shakira-no-probara-carcel-espanola/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/por-que-shakira-no-probara-carcel-espanola/hero.jpg
 ---
 
 ![Por qué Shakira no probará cárcel española/Capture de pantalla.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/por-que-shakira-no-probara-carcel-espanola/hero.jpg)

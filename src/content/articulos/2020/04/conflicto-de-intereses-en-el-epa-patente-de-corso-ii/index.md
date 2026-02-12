@@ -5,7 +5,7 @@ pubDate: "2020-04-30 01:00:08"
 author: "Lucio"
 categories: ["Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/conflicto-de-intereses-en-el-epa-patente-de-corso-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/conflicto-de-intereses-en-el-epa-patente-de-corso-ii/hero.jpg
 ---
 
 Existe un evidente **conflicto de intereses** con la contratación del arquitecto **Orlando Ortiz Llanos**, marido de la procuradora delegada para **Asuntos Ambientales y Agrarios de Bolívar Mayelis Chamorro Ruiz**. El objetivo es protegerle las espaldas al director del Establecimiento Público Ambiental **(EPA), Javier Mouthon Bello**.  Lo curioso: en el gobierno de los malandrines **recibía $4.2 millones**. En el gobierno del **_antimalandrín_** **William Dau Chamat** le aumentaron su ingreso mensual a **¡$7.2 millones mensuales!** ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/conflicto-de-intereses-en-el-epa-patente-de-corso-ii/hero.jpg) El salto con garrocha de Ortiz Llanos fue de $3 millones, aproximadamente. **Aumento del 73% de sus ingresos profesionales.** Algo inexplicable administrativa, técnica y financieramente en comparación con los otros profesionales con capacidades y experticias similares en la misma entidad que solo le aumentaron 8%.

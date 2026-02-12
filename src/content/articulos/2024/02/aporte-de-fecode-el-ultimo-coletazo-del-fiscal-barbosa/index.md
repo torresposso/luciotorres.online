@@ -5,7 +5,7 @@ pubDate: "2024-02-04 03:31:25"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/aporte-de-fecode-el-ultimo-coletazo-del-fiscal-barbosa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/aporte-de-fecode-el-ultimo-coletazo-del-fiscal-barbosa/hero.jpg
 ---
 
 ![Aporte de Fecode ¿el último coletazo del fiscal Barbosa?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/aporte-de-fecode-el-ultimo-coletazo-del-fiscal-barbosa/hero.jpg)

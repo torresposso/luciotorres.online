@@ -5,7 +5,7 @@ pubDate: "2023-08-03 22:08:18"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/petro-debe-renunciar-exploto-terremoto-politico/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/petro-debe-renunciar-exploto-terremoto-politico/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/petro-debe-renunciar-exploto-terremoto-politico/hero.jpg)

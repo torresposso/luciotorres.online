@@ -5,7 +5,7 @@ pubDate: "2022-05-29 17:15:26"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/si-petro-no-gana-la-presidencia-hoy-habra-segunda-oportunidad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/si-petro-no-gana-la-presidencia-hoy-habra-segunda-oportunidad/hero.jpg
 ---
 
 ![¿Habrá segunda oportunidad? Si Petro no gana la presidencia hoy, se hace imposible una segunda posibilidad.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/si-petro-no-gana-la-presidencia-hoy-habra-segunda-oportunidad/hero.jpg)

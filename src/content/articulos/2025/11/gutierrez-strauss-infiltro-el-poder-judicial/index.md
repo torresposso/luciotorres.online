@@ -5,7 +5,7 @@ pubDate: "2025-11-05 03:06:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/gutierrez-strauss-infiltro-el-poder-judicial/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/gutierrez-strauss-infiltro-el-poder-judicial/hero.jpg
 ---
 
 ![Solo Juan Carlos Gutiérrez Strauss infiltró el poder judicial?  Darío Laino  andaba libremente por Barranquilla enriquecido con el producto de la guerra. Cayó en desgracia porque hubo una disputa grave con otro sector poderoso de los dueños de Barranquilla: los Daes.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/gutierrez-strauss-infiltro-el-poder-judicial/hero.jpg)

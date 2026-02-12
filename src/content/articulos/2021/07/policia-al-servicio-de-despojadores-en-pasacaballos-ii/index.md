@@ -5,7 +5,7 @@ pubDate: "2021-07-31 00:33:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/policia-al-servicio-de-despojadores-en-pasacaballos-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/policia-al-servicio-de-despojadores-en-pasacaballos-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/policia-al-servicio-de-despojadores-en-pasacaballos-ii/hero.jpg)

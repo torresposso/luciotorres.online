@@ -5,7 +5,7 @@ pubDate: "2024-11-28 01:05:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/en-diciembre-renunciara-gustavo-bolivar-con-buenos-resultados-en-dps/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/en-diciembre-renunciara-gustavo-bolivar-con-buenos-resultados-en-dps/hero.jpg
 ---
 
 ![Gustavo Bolívar tiene a la derecha a Bolívar y a la izquierda a Petro y Gaitán.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/en-diciembre-renunciara-gustavo-bolivar-con-buenos-resultados-en-dps/hero.jpg)

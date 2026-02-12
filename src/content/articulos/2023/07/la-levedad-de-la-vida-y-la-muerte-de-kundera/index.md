@@ -5,7 +5,7 @@ pubDate: "2023-07-16 14:41:40"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/la-levedad-de-la-vida-y-la-muerte-de-kundera/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/la-levedad-de-la-vida-y-la-muerte-de-kundera/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/la-levedad-de-la-vida-y-la-muerte-de-kundera/hero.jpg)

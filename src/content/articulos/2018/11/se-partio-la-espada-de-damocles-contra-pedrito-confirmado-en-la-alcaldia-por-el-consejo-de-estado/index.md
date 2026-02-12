@@ -5,7 +5,7 @@ pubDate: "2018-11-22 18:29:33"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/se-partio-la-espada-de-damocles-contra-pedrito-confirmado-en-la-alcaldia-por-el-consejo-de-estado/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/se-partio-la-espada-de-damocles-contra-pedrito-confirmado-en-la-alcaldia-por-el-consejo-de-estado/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/se-partio-la-espada-de-damocles-contra-pedrito-confirmado-en-la-alcaldia-por-el-consejo-de-estado/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-11-13 03:13:38"
 author: "Lucio"
 categories: ["Análisis","Bogotá"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/yo-claudia-o-el-arte-del-engano-la-caida-de-bogota/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/yo-claudia-o-el-arte-del-engano-la-caida-de-bogota/hero.jpg
 ---
 
 ![Yo, Claudia o el arte del engaño: La caída de Bogotá/Cortesía Rocchia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/yo-claudia-o-el-arte-del-engano-la-caida-de-bogota/hero.jpg)

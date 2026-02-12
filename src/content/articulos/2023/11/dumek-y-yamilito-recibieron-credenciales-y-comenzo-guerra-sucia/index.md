@@ -5,7 +5,7 @@ pubDate: "2023-11-15 03:49:14"
 author: "Lucio"
 categories: ["Cartagena","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/dumek-y-yamilito-recibieron-credenciales-y-comenzo-guerra-sucia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/dumek-y-yamilito-recibieron-credenciales-y-comenzo-guerra-sucia/hero.jpg
 ---
 
 ![Dumek y Yamilito recibieron credenciales y comenzó guerra sucia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/dumek-y-yamilito-recibieron-credenciales-y-comenzo-guerra-sucia/hero.jpg)

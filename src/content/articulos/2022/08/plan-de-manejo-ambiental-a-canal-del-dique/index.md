@@ -5,7 +5,7 @@ pubDate: "2022-08-13 03:31:54"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/plan-de-manejo-ambiental-a-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/plan-de-manejo-ambiental-a-canal-del-dique/hero.jpg
 ---
 
 ![Plan de Manejo Ambiental y Consulta Previa a Canal del Dique.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/plan-de-manejo-ambiental-a-canal-del-dique/hero.jpg)

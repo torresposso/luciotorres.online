@@ -5,7 +5,7 @@ pubDate: "2023-09-25 16:42:00"
 author: "Lucio"
 categories: ["Análisis","Barranquilla"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/hero.jpg)

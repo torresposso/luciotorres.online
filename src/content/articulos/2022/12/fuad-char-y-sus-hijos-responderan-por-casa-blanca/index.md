@@ -5,7 +5,7 @@ pubDate: "2022-12-09 01:44:15"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/hero.jpg
 ---
 
 ![Fuad Char Abdala aportó $7 mil millones para comprar votos y financiar el entramado de «Casa Blanca». ¿Cómo cayó «Casa Blanca» de Daes—Char? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/hero.jpg)

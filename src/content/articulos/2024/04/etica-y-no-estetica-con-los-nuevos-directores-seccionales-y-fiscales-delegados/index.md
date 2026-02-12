@@ -5,7 +5,7 @@ pubDate: "2024-04-19 04:10:49"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/etica-y-no-estetica-con-los-nuevos-directores-seccionales-y-fiscales-delegados/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/etica-y-no-estetica-con-los-nuevos-directores-seccionales-y-fiscales-delegados/hero.jpg
 ---
 
 ![Ética y no estética . Este es el triunvirato que definió la lista de los nuevos directores seccionales de fiscalía./Fiscalía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/etica-y-no-estetica-con-los-nuevos-directores-seccionales-y-fiscales-delegados/Fiscal_.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2025-02-26 03:37:34"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/fiscalia-entrego-el-puerto-a-la-mafia-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/fiscalia-entrego-el-puerto-a-la-mafia-i/hero.jpg
 ---
 
 ![A la izquierda, la captura del verdadero capo José Nibardo Marín, alias «El Abogado», «Top», «Jota Indio» o «Don José». A la derecha, la captura injusta del comerciante guajiro Álvaro Barrios Díaz, que la Fiscalía 15 Especializada hizo pasar como alias «El Abogado». ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/fiscalia-entrego-el-puerto-a-la-mafia-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2024-02-13 21:33:45"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/interinidad-de-la-fiscalia-demanda-de-inconstitucionalidad-y-tutela-contra-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/interinidad-de-la-fiscalia-demanda-de-inconstitucionalidad-y-tutela-contra-i/hero.jpg
 ---
 
 ![Interinidad de la fiscalía: Demanda de inconstitucionalidad y tutela contra ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/interinidad-de-la-fiscalia-demanda-de-inconstitucionalidad-y-tutela-contra-i/hero.jpg)

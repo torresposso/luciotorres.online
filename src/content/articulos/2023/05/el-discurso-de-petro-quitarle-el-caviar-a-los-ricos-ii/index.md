@@ -5,7 +5,7 @@ pubDate: "2023-05-09 01:57:31"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-discurso-de-petro-quitarle-el-caviar-a-los-ricos-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-discurso-de-petro-quitarle-el-caviar-a-los-ricos-ii/hero.jpg
 ---
 
 ![¿Quitarle el caviar a los ricos?/Foto presidencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-discurso-de-petro-quitarle-el-caviar-a-los-ricos-ii/hero.jpg)

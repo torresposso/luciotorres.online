@@ -5,7 +5,7 @@ pubDate: "2021-10-23 22:39:10"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/e-u-actua-como-fiscal-del-mundo-frente-a-venezuela/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/e-u-actua-como-fiscal-del-mundo-frente-a-venezuela/hero.jpg
 ---
 
 ![El fiscal del mundo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/e-u-actua-como-fiscal-del-mundo-frente-a-venezuela/hero.jpg)

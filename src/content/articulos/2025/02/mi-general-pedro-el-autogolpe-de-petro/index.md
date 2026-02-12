@@ -5,7 +5,7 @@ pubDate: "2025-02-21 12:35:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/mi-general-pedro-el-autogolpe-de-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/mi-general-pedro-el-autogolpe-de-petro/hero.jpg
 ---
 
 !["Un General de la vida", dijo Petro en la cumbre de gobernadores de Villa de Leyva. ¿Y los demás generales?  El bandazo militar del presidente.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/mi-general-pedro-el-autogolpe-de-petro/hero.jpg)

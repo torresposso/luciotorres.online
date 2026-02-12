@@ -5,7 +5,7 @@ pubDate: "2020-01-25 19:40:09"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/01/lluvia-de-tarjetones-sin-doblar-el-megafraude-electoral-se-habria-consolidado-despues-de-los-escrutiniosii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/01/lluvia-de-tarjetones-sin-doblar-el-megafraude-electoral-se-habria-consolidado-despues-de-los-escrutiniosii/hero.jpg
 ---
 
 > #### _«A veces, quedarse callado equivale a mentir porque el silencio puede ser interpretado como aquiescencia. (...) **Venceréis porque tenéis sobrada fuerza bruta, pero no convenceréis**»_

@@ -5,7 +5,7 @@ pubDate: "2021-05-26 20:51:51"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/por-que-duque-atajo-visita-de-la-cidh/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/por-que-duque-atajo-visita-de-la-cidh/hero.jpg
 ---
 
 \[caption id="attachment\_15091" align="aligncenter" width="1024"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/por-que-duque-atajo-visita-de-la-cidh/hero.jpg) Marta Lucía busca apoyo para el régimen. Aquí con el Director Senior Hemisferio Occidental del Consejo de Seguridad de EU. Atajó visita dela CIDH.\[/caption\]

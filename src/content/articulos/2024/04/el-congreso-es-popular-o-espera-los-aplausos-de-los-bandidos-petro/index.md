@@ -5,7 +5,7 @@ pubDate: "2024-04-13 03:21:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-congreso-es-popular-o-espera-los-aplausos-de-los-bandidos-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-congreso-es-popular-o-espera-los-aplausos-de-los-bandidos-petro/hero.jpg
 ---
 
 ![«El Congreso es popular o espera los aplausos de los bandidos». El presidente Petro saluda efusivamente al gobernador de Bolívar, Yamil Arana. Igualmente, el ministro de Salud, Guillermo Alfonso Jaramillo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-congreso-es-popular-o-espera-los-aplausos-de-los-bandidos-petro/petro_yamil_portada_1-1-1024x705.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2021-08-18 00:36:34"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-se-hizo-el-dinero-de-la-caja-de-prevision-de-la-udec/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-se-hizo-el-dinero-de-la-caja-de-prevision-de-la-udec/hero.jpg
 ---
 
 ![Caja de Previsión Social de la UdeC](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-se-hizo-el-dinero-de-la-caja-de-prevision-de-la-udec/hero.jpg)

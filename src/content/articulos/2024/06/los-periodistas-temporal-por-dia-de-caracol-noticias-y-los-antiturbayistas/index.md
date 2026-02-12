@@ -5,7 +5,7 @@ pubDate: "2024-06-13 05:53:53"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/los-periodistas-temporal-por-dia-de-caracol-noticias-y-los-antiturbayistas/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/los-periodistas-temporal-por-dia-de-caracol-noticias-y-los-antiturbayistas/hero.jpg
 ---
 
 ![Los periodistas «temporal por día» de Caracol Noticias y los «antiturbayistas» (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/los-periodistas-temporal-por-dia-de-caracol-noticias-y-los-antiturbayistas/hero.jpg)

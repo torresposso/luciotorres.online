@@ -5,7 +5,7 @@ pubDate: "2025-06-22 23:38:32"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-tercer-camino-para-una-reforma-laboral-integral-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-tercer-camino-para-una-reforma-laboral-integral-i/hero.jpg
 ---
 
 ![Reforma Laboral Integral, el tercer camino](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-tercer-camino-para-una-reforma-laboral-integral-i/hero.jpg)

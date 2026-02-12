@@ -5,7 +5,7 @@ pubDate: "2022-07-09 22:50:05"
 author: "Lucio"
 categories: ["Análisis","Podcast","Política","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/presidente-duque-pipe-cordoba-y-dau-tal-para-cualcorrupcion-pura-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/presidente-duque-pipe-cordoba-y-dau-tal-para-cualcorrupcion-pura-i/hero.jpg
 ---
 
 ![¿Los absolvedores de Dau? ¿Cuánto le costará a los cartageneros? ¿El presidente Duque y Pipe Córdoba se despiden con otro inminente acto de corrupción como los $500 mil millones para la paz?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/presidente-duque-pipe-cordoba-y-dau-tal-para-cualcorrupcion-pura-i/hero.jpg)

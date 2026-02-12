@@ -5,7 +5,7 @@ pubDate: "2023-12-16 02:17:42"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez","Arturo Char","Corte Suprema de Justicia","Cristina Lombana Velásquez","José Luis Barceló"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/prevarico-la-corte-al-trasladar-a-arturo-char-a-malambo-con-aida-merlano/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/prevarico-la-corte-al-trasladar-a-arturo-char-a-malambo-con-aida-merlano/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/prevarico-la-corte-al-trasladar-a-arturo-char-a-malambo-con-aida-merlano/hero.jpg)

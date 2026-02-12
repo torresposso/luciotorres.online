@@ -5,7 +5,7 @@ pubDate: "2024-04-14 00:16:35"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/hero.jpg)

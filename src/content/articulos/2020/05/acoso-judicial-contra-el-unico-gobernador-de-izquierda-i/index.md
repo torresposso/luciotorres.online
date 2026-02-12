@@ -5,7 +5,7 @@ pubDate: "2020-05-29 23:39:41"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/acoso-judicial-contra-el-unico-gobernador-de-izquierda-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/acoso-judicial-contra-el-unico-gobernador-de-izquierda-i/hero.jpg
 ---
 
 ## Acoso judicial

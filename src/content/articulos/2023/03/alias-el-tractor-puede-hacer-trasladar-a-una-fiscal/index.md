@@ -5,7 +5,7 @@ pubDate: "2023-03-30 00:13:59"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/alias-el-tractor-puede-hacer-trasladar-a-una-fiscal/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/alias-el-tractor-puede-hacer-trasladar-a-una-fiscal/hero.jpg
 ---
 
 ![La fiscal 53 Liliana Velásquez Trespalacios será trasladada por orden del Fiscal General Francisco Barbosa.  La medida ocurre cuando ya tiene la solicitud de medida de aseguramiento contra alias «el Tractor», alcalde de cartagena y dos de sus directas colaboradoras: María Eugenia García y Mirna Martínez.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/alias-el-tractor-puede-hacer-trasladar-a-una-fiscal/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2024-05-12 14:29:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/tutela-contra-cne-por-cargos-contra-el-presidente-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/tutela-contra-cne-por-cargos-contra-el-presidente-petro/hero.jpg
 ---
 
 ![Tutela contra CNE por cargos contra el presidente Petro/CNE.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/tutela-contra-cne-por-cargos-contra-el-presidente-petro/cne-1024x512.jpeg)

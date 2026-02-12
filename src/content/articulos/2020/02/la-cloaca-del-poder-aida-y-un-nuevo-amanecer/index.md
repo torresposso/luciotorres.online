@@ -5,7 +5,7 @@ pubDate: "2020-02-24 03:03:46"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/la-cloaca-del-poder-aida-y-un-nuevo-amanecer/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/la-cloaca-del-poder-aida-y-un-nuevo-amanecer/hero.jpg
 ---
 
 \[caption id="attachment\_11183" align="aligncenter" width="459"\]![La cloaca del poder](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/la-cloaca-del-poder-aida-y-un-nuevo-amanecer/hero.jpg) **Aida Merlano** puede representar el desmoronamiento del sistema electoral colombiano de la cloaca del poder. Cortesía.\[/caption\] **Aida Merlano está confirmando las revelaciones** hechas en los artículos publicados en [www.luciotorres.co](/articulos/) y [www.voxpopuli.digital](/articulos/) ([Confidencias de una reunión secreta: Vargas, Char y (La Gata=) Montes](./)) que hacen de las elecciones l**a cloaca del poder económico y político. Este poder está alimentado de un río de putrefacción que deslegitima la democracia** y **l**as instituciones ligadas al poder público y privado.

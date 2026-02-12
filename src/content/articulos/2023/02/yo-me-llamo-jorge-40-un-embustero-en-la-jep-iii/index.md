@@ -5,7 +5,7 @@ pubDate: "2023-02-06 03:26:22"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/yo-me-llamo-jorge-40-un-embustero-en-la-jep-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/yo-me-llamo-jorge-40-un-embustero-en-la-jep-iii/hero.jpg
 ---
 
 ![Yo soy  «Jorge 40»: Un embustero en la JEP.. Aquí la magistrada, Sandra Castro Ospina lo interpela para que precise, .(Captura de Pantalla).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/yo-me-llamo-jorge-40-un-embustero-en-la-jep-iii/hero.jpg)

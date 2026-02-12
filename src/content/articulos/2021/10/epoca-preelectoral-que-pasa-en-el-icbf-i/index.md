@@ -5,7 +5,7 @@ pubDate: "2021-10-08 23:38:35"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/epoca-preelectoral-que-pasa-en-el-icbf-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/epoca-preelectoral-que-pasa-en-el-icbf-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/epoca-preelectoral-que-pasa-en-el-icbf-i/hero.jpg)

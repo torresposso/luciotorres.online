@@ -5,7 +5,7 @@ pubDate: "2022-12-18 14:13:22"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/por-que-le-mueven-el-piso-al-fiscal-barberi/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/por-que-le-mueven-el-piso-al-fiscal-barberi/hero.jpg
 ---
 
 ![La foto suministrada a El Tiempo para ilustrar un informe de la Unidad Investigativa que pone injustificadamente en entredicho al fiscal Barberi de la Dirección Nacional de Extinción de Dominio.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/por-que-le-mueven-el-piso-al-fiscal-barberi/Barberi_Comision_de_Inteligencia.jpeg)

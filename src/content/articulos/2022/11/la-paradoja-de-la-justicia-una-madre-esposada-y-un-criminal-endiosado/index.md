@@ -5,7 +5,7 @@ pubDate: "2022-11-30 03:13:32"
 author: "Lucio"
 categories: ["Análisis","Post Conflicto"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/la-paradoja-de-la-justicia-una-madre-esposada-y-un-criminal-endiosado/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/la-paradoja-de-la-justicia-una-madre-esposada-y-un-criminal-endiosado/hero.jpg
 ---
 
 ![Alberto Laino Scopetta habría sido uno de los fundadores del frente Pablo Díaz. Autor de una cadena de asesinatos. La paradoja de la justicia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/la-paradoja-de-la-justicia-una-madre-esposada-y-un-criminal-endiosado/hero.jpg)

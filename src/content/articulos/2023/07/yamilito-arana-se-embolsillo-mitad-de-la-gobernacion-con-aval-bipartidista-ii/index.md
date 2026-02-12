@@ -5,7 +5,7 @@ pubDate: "2023-07-19 02:25:44"
 author: "Lucio"
 categories: ["Análisis","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/yamilito-arana-se-embolsillo-mitad-de-la-gobernacion-con-aval-bipartidista-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/yamilito-arana-se-embolsillo-mitad-de-la-gobernacion-con-aval-bipartidista-ii/hero.jpg
 ---
 
 ![Al recibir el aval del partido Liberal, Yamilito Arana posa con el representante Silvio Carrasquilla (primero a la izquierda) Esther María Jalilie (candidata a la alcaldía de Arjona), y Lidio García (senador) y el candidato único del bipartidismo. Yamilito se embolsilló mitad de la gobernación.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/yamilito-arana-se-embolsillo-mitad-de-la-gobernacion-con-aval-bipartidista-ii/hero.jpg)

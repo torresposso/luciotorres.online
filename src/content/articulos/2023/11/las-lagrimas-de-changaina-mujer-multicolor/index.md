@@ -5,7 +5,7 @@ pubDate: "2023-11-28 12:11:38"
 author: "Lucio"
 categories: ["Análisis","Crónica","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/las-lagrimas-de-changaina-mujer-multicolor/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/las-lagrimas-de-changaina-mujer-multicolor/hero.jpg
 ---
 
 ![Las lágrimas de Changaína, mujer multicolor. Grupo de expositoras de la feria de Changaína 2023.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/las-lagrimas-de-changaina-mujer-multicolor/hero.jpg)

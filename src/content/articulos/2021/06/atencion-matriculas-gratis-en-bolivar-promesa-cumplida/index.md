@@ -5,7 +5,7 @@ pubDate: "2021-06-13 15:25:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/atencion-matriculas-gratis-en-bolivar-promesa-cumplida/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/atencion-matriculas-gratis-en-bolivar-promesa-cumplida/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/atencion-matriculas-gratis-en-bolivar-promesa-cumplida/Matriculas-gratis.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2022-05-09 16:37:36"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/zona-franca-de-ley-comun-entre-cartagena-y-dubai/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/zona-franca-de-ley-comun-entre-cartagena-y-dubai/hero.jpg
 ---
 
 ![Aspecto de la mesa del foro donde se presentó el proyecto de la Zona Franca de ley común. Asistieron Ahmed Sultan Bin Sulayem Chairman de Dubai Multi Commodities Centre (DMCC) y Jumeirah Lakes Towers;  Xavier Adsera, Chairman UVENTURES y Robert Lavia, Chairman UMUSIC, el presidente del senado Juan Diego Gómez, el viceministro de Justicia Camilo Andrés Rojas y el alcalde de Cartagena, William Dau Chamat. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/zona-franca-de-ley-comun-entre-cartagena-y-dubai/hero.jpg)

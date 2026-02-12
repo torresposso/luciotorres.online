@@ -5,7 +5,7 @@ pubDate: "2023-04-27 22:00:47"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/dau-se-va-pgn-formulo-pliego-de-cargos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/dau-se-va-pgn-formulo-pliego-de-cargos/hero.jpg
 ---
 
 ![Esta es una delaspruebas que la Procuraduría tuvo para formular pliego de cargos contra el alcalde de Cartagena William Dau Chamat. ¿Dau se va? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/dau-se-va-pgn-formulo-pliego-de-cargos/hero.jpg)

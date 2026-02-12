@@ -5,7 +5,7 @@ pubDate: "2023-03-28 23:09:05"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País","Post Conflicto"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/mancuso-los-crimenes-de-los-intocables-y-la-jep-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/mancuso-los-crimenes-de-los-intocables-y-la-jep-iii/hero.jpg
 ---
 
 ![En el centro (borroso), Alfonso Macías, Salvatore Mancuso (derecha) y Rafael Matera Lajud. Mancuso, los crímenes de «Los intocables» y la JEP.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/mancuso-los-crimenes-de-los-intocables-y-la-jep-iii/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2021-06-19 21:15:48"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/denunciado-penalmente-funcionario-del-ministerio-del-interior-por-consejo-comunitario/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/denunciado-penalmente-funcionario-del-ministerio-del-interior-por-consejo-comunitario/hero.jpg
 ---
 
 ![Denunciado penalmente](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/denunciado-penalmente-funcionario-del-ministerio-del-interior-por-consejo-comunitario/Dihly-Romero.jpeg)

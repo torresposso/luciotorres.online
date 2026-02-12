@@ -5,7 +5,7 @@ pubDate: "2024-04-27 13:00:17"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/hero.jpg
 ---
 
 ![¿Corrupción judicial? Mírenlos allí. Quien toma la selfie es el contralor distrital de 2021, Fredy Quintero. En el fondo la pareja de aliados muy sonrientes, Pedro Aponte y Luis Cassiani. ¡A manteles tendidos! Por encubrir al concejal Aponte, a juicio capitán de policía  condecorado](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/FredysQuintero_Cassiani_pedro-aponte-1024x622.jpeg)

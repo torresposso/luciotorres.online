@@ -5,7 +5,7 @@ pubDate: "2022-10-23 23:14:06"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/acato-y-aplaudo-decision-de-la-jep-mintransporte/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/acato-y-aplaudo-decision-de-la-jep-mintransporte/hero.jpg
 ---
 
 ![Momento de la entrevista con el ministro de Transporte al momento de concluir la audiencia con la JEP.  «Acato y aplaudo decisión de la JEP», fue su primera frase con una sonrisa de oreja a oreja.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/acato-y-aplaudo-decision-de-la-jep-mintransporte/hero.jpg)

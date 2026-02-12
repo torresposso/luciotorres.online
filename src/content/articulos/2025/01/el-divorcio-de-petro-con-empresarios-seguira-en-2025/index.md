@@ -5,7 +5,7 @@ pubDate: "2025-01-05 12:28:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-divorcio-de-petro-con-empresarios-seguira-en-2025/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-divorcio-de-petro-con-empresarios-seguira-en-2025/hero.jpg
 ---
 
 ![El divorcio de Petro con empresarios ¿seguirá en 2025?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-divorcio-de-petro-con-empresarios-seguira-en-2025/hero.jpg)

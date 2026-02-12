@@ -5,7 +5,7 @@ pubDate: "2024-09-12 14:18:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/hero.jpg
 ---
 
 ![Fiscalía liberó a campesinos capturados por la policía en Mozambique](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/Policia_comandantes.jpeg)

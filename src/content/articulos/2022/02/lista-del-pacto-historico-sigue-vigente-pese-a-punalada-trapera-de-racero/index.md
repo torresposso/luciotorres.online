@@ -5,7 +5,7 @@ pubDate: "2022-02-10 21:35:18"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/lista-del-pacto-historico-sigue-vigente-pese-a-punalada-trapera-de-racero/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/lista-del-pacto-historico-sigue-vigente-pese-a-punalada-trapera-de-racero/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/lista-del-pacto-historico-sigue-vigente-pese-a-punalada-trapera-de-racero/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2021-10-28 00:20:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/muerte-subita-del-secretario-de-hacienda-fue-muy-sentida-en-el-carmen-de-bolivar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/muerte-subita-del-secretario-de-hacienda-fue-muy-sentida-en-el-carmen-de-bolivar/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/muerte-subita-del-secretario-de-hacienda-fue-muy-sentida-en-el-carmen-de-bolivar/hero.jpg)

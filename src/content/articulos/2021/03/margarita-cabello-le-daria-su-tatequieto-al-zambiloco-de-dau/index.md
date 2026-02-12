@@ -5,7 +5,7 @@ pubDate: "2021-03-17 23:48:52"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/margarita-cabello-le-daria-su-tatequieto-al-zambiloco-de-dau/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/margarita-cabello-le-daria-su-tatequieto-al-zambiloco-de-dau/hero.jpg
 ---
 
 \[caption id="attachment\_14202" align="aligncenter" width="1046"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/margarita-cabello-le-daria-su-tatequieto-al-zambiloco-de-dau/hero.jpg) _¿Margarita Cabello le dará el tatequieto al zambiloco? Cabello está eredada con esta administración por la vía de los Char_. Cortesía prensa alcaldía.\[/caption\]

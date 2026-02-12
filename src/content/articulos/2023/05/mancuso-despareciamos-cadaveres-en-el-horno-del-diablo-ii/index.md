@@ -5,7 +5,7 @@ pubDate: "2023-05-12 02:41:04"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/hero.jpg
 ---
 
 ![Los generales Rosso José Serrano y Oscar Naranjo comprometidos por Mancuso en el segundo día donde habló del Horno del Diablo. Serrano era el director de la Policía Nacional. Naranjo lo fue después. Últimamente fungió de vicepresidente de la república. El Horno del Diablo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/hero.jpg)

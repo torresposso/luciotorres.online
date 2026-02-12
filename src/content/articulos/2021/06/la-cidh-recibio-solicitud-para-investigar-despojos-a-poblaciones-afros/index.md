@@ -5,7 +5,7 @@ pubDate: "2021-06-10 22:52:42"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-cidh-recibio-solicitud-para-investigar-despojos-a-poblaciones-afros/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-cidh-recibio-solicitud-para-investigar-despojos-a-poblaciones-afros/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-cidh-recibio-solicitud-para-investigar-despojos-a-poblaciones-afros/hero.jpg)

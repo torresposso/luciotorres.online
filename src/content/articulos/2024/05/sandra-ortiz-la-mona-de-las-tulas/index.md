@@ -5,7 +5,7 @@ pubDate: "2024-05-05 15:20:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/sandra-ortiz-la-mona-de-las-tulas/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/sandra-ortiz-la-mona-de-las-tulas/hero.jpg
 ---
 
 ![¿Caso aislado? Sandra Ortiz, «la Mona de las tulas», la sombra del presidente Gustavo Petro y de la vicepresidenta Francia Márquez./presidencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/sandra-ortiz-la-mona-de-las-tulas/sandra_petro_Francia.jpeg)

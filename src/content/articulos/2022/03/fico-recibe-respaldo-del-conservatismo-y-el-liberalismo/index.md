@@ -5,7 +5,7 @@ pubDate: "2022-03-31 02:16:08"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/fico-recibe-respaldo-del-conservatismo-y-el-liberalismo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/fico-recibe-respaldo-del-conservatismo-y-el-liberalismo/hero.jpg
 ---
 
 ![La bancada conservadora comandada por los Blel con «Fico».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/fico-recibe-respaldo-del-conservatismo-y-el-liberalismo/hero.jpg)

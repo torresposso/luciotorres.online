@@ -5,7 +5,7 @@ pubDate: "2019-11-17 16:56:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/un-alcalde-adicto-bufon-o-psiquiatrico/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/un-alcalde-adicto-bufon-o-psiquiatrico/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/un-alcalde-adicto-bufon-o-psiquiatrico/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2025-10-25 12:07:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/donald-trump-del-discurso-a-la-agresion-militar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/donald-trump-del-discurso-a-la-agresion-militar/hero.jpg
 ---
 
 ![Donald Trump ¿del discurso a la agresión militar?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/donald-trump-del-discurso-a-la-agresion-militar/hero.jpg)

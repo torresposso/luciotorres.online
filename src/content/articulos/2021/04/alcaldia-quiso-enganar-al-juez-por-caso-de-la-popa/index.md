@@ -5,7 +5,7 @@ pubDate: "2021-04-12 23:29:34"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/alcaldia-quiso-enganar-al-juez-por-caso-de-la-popa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/alcaldia-quiso-enganar-al-juez-por-caso-de-la-popa/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/alcaldia-quiso-enganar-al-juez-por-caso-de-la-popa/william-dau-policia.jpeg)

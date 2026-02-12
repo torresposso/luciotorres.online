@@ -5,7 +5,7 @@ pubDate: "2020-07-15 02:40:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/no-aprenden-alcalde-y-concejo-podrian-ir-a-la-carcel/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/no-aprenden-alcalde-y-concejo-podrian-ir-a-la-carcel/hero.jpg
 ---
 
 \[caption id="attachment\_12057" align="alignnone" width="744"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/no-aprenden-alcalde-y-concejo-podrian-ir-a-la-carcel/hero.jpg) Héctor Consuegra, el contralor distrital elegido que no será posesionado.\[/caption\]

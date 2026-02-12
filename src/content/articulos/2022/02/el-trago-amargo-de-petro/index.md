@@ -5,7 +5,7 @@ pubDate: "2022-02-10 02:16:10"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-trago-amargo-de-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-trago-amargo-de-petro/hero.jpg
 ---
 
 ![El trago amargo de Petro en Girardot](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-trago-amargo-de-petro/hero.jpg)

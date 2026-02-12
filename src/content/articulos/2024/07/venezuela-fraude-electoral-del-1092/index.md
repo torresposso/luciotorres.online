@@ -5,7 +5,7 @@ pubDate: "2024-07-30 02:08:44"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/venezuela-fraude-electoral-del-1092/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/venezuela-fraude-electoral-del-1092/hero.jpg
 ---
 
 ![Venezuela ¿Fraude electoral del 109,2%?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/venezuela-fraude-electoral-del-1092/hero.jpg)

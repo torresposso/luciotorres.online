@@ -5,7 +5,7 @@ pubDate: "2021-06-09 22:06:31"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/si-tabaco-y-marihuana-detienen-el-covid-19-por-que-el-alcalde-esta-enfermo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/si-tabaco-y-marihuana-detienen-el-covid-19-por-que-el-alcalde-esta-enfermo/hero.jpg
 ---
 
 \[caption id="attachment\_15385" align="alignnone" width="636"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/si-tabaco-y-marihuana-detienen-el-covid-19-por-que-el-alcalde-esta-enfermo/hero.jpg) ¿El tabaco y la marihuana pueden ser la cura para el contagio del Covid-19? El Zambiloco, así le dicen ahora al alcalde, es ejemplo de que el tabaco no bloquea el coronavirus. Y que la vacuna no te cubre el 100%. \[/caption\]

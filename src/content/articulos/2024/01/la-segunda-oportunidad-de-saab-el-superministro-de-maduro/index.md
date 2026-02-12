@@ -5,7 +5,7 @@ pubDate: "2024-01-17 03:02:25"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-segunda-oportunidad-de-saab-el-superministro-de-maduro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-segunda-oportunidad-de-saab-el-superministro-de-maduro/hero.jpg
 ---
 
 ![Alex Saab recibió con beneplácito el nombramiento de presidente del CIIP de manos del presidente de Nicolás Maduro. La segunda oportunidad  de Saab.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-segunda-oportunidad-de-saab-el-superministro-de-maduro/hero.jpg)

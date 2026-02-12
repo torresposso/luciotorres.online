@@ -5,7 +5,7 @@ pubDate: "2023-03-21 21:01:04"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/hero.jpg
 ---
 
 ![Reabren proceso por homicidio a Los intocables... Los del matadero.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/hero.jpg)

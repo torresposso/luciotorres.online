@@ -5,7 +5,7 @@ pubDate: "2025-02-20 02:29:11"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/hero.jpg
 ---
 
 ![Este es el enigma de 'Papá Pitufo': ¿Por qué estalló en el 'Gobierno del Cambio'?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/hero.jpg)

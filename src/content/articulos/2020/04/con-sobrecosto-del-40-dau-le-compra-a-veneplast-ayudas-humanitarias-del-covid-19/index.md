@@ -5,7 +5,7 @@ pubDate: "2020-04-11 02:41:10"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/con-sobrecosto-del-40-dau-le-compra-a-veneplast-ayudas-humanitarias-del-covid-19/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/con-sobrecosto-del-40-dau-le-compra-a-veneplast-ayudas-humanitarias-del-covid-19/hero.jpg
 ---
 
 ![Diana Martinez Berrocal on Twitter: "El mensaje fue claro: LA PAZ ...](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/con-sobrecosto-del-40-dau-le-compra-a-veneplast-ayudas-humanitarias-del-covid-19/hero.jpg)

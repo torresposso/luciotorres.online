@@ -5,7 +5,7 @@ pubDate: "2025-08-30 02:01:50"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/prevarico-la-fiscal-camargo-al-aplicar-un-codigo-inexistente/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/prevarico-la-fiscal-camargo-al-aplicar-un-codigo-inexistente/hero.jpg
 ---
 
 ![La fiscal Luz Adriana Camargo Garzón enfrenta una denuncia por prevaricato presentada por el ciudadano canadiense Glenn Ross. La Comisión Nacional de Acusaciones abocó la investigación y citó al denunciante para escucharlo en audiencia..](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/prevarico-la-fiscal-camargo-al-aplicar-un-codigo-inexistente/hero.jpg)

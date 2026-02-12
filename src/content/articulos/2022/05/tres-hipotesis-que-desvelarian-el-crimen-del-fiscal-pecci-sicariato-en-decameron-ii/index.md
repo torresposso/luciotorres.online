@@ -5,7 +5,7 @@ pubDate: "2022-05-15 03:34:32"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/tres-hipotesis-que-desvelarian-el-crimen-del-fiscal-pecci-sicariato-en-decameron-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/tres-hipotesis-que-desvelarian-el-crimen-del-fiscal-pecci-sicariato-en-decameron-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/tres-hipotesis-que-desvelarian-el-crimen-del-fiscal-pecci-sicariato-en-decameron-ii/hero.jpg)

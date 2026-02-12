@@ -5,7 +5,7 @@ pubDate: "2021-11-01 23:53:17"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-choco-crisis-humanitaria-y-pacto-por-un-nuevo-choco-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-choco-crisis-humanitaria-y-pacto-por-un-nuevo-choco-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-choco-crisis-humanitaria-y-pacto-por-un-nuevo-choco-i/hero.jpg)

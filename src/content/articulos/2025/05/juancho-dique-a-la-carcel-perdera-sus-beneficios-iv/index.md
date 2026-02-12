@@ -5,7 +5,7 @@ pubDate: "2025-05-17 13:11:50"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/juancho-dique-a-la-carcel-perdera-sus-beneficios-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/juancho-dique-a-la-carcel-perdera-sus-beneficios-iv/hero.jpg
 ---
 
 ![«Juancho Dique», retornará a la cárcel y perderá sus beneficios. Aquí con Diego Vecino](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/juancho-dique-a-la-carcel-perdera-sus-beneficios-iv/hero.jpg)

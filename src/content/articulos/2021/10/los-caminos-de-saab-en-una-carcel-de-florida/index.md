@@ -5,7 +5,7 @@ pubDate: "2021-10-31 01:45:39"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/los-caminos-de-saab-en-una-carcel-de-florida/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/los-caminos-de-saab-en-una-carcel-de-florida/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/los-caminos-de-saab-en-una-carcel-de-florida/hero.jpg)

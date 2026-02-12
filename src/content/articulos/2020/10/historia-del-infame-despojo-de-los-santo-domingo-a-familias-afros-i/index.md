@@ -5,7 +5,7 @@ pubDate: "2020-10-18 19:02:00"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/historia-del-infame-despojo-de-los-santo-domingo-a-familias-afros-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/historia-del-infame-despojo-de-los-santo-domingo-a-familias-afros-i/hero.jpg
 ---
 
 > _En este artículo te contamos la primera parte de la historia infame del **despojo de los Santo Domingo a la familia Hernández**. Las víctimas son afros analfabetas, que lo único que aprendieron fue a cultivar las tierras que su padre, el viejo **Pedro Hernández**, les dejó en herencia._

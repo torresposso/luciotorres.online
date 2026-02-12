@@ -5,7 +5,7 @@ pubDate: "2019-10-24 12:05:20"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/turco-dau-peligro-ambulante/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/turco-dau-peligro-ambulante/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/turco-dau-peligro-ambulante/hero.jpg)

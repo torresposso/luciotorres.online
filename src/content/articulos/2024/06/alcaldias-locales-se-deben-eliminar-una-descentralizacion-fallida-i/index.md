@@ -5,7 +5,7 @@ pubDate: "2024-06-30 01:02:04"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/alcaldias-locales-se-deben-eliminar-una-descentralizacion-fallida-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/alcaldias-locales-se-deben-eliminar-una-descentralizacion-fallida-i/hero.jpg
 ---
 
 ![El director del DPN, Alexander López; el Ministro del Interior, Juan Fernando Velasco, y la Viceministra para el Diálogo Social, Lilia Solano. ¿Una descentralización fallida?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/alcaldias-locales-se-deben-eliminar-una-descentralizacion-fallida-i/Aelexander_diaslogo-social_.jpeg)

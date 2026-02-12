@@ -5,7 +5,7 @@ pubDate: "2022-12-06 12:38:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/caida-de-casa-blanca-fin-del-califato-daes-char-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/caida-de-casa-blanca-fin-del-califato-daes-char-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/caida-de-casa-blanca-fin-del-califato-daes-char-i/hero.jpg)

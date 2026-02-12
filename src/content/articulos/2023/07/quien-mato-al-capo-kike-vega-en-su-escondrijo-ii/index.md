@@ -5,7 +5,7 @@ pubDate: "2023-07-02 03:04:38"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/hero.jpg)

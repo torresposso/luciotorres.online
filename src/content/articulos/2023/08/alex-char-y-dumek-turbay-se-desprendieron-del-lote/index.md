@@ -5,7 +5,7 @@ pubDate: "2023-08-05 00:55:42"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/alex-char-y-dumek-turbay-se-desprendieron-del-lote/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/alex-char-y-dumek-turbay-se-desprendieron-del-lote/hero.jpg
 ---
 
 ![Alex Char y Dumek Turbay se desprendieron del lote  por la alcaldía de Cartagena y Barranquilla, respectivamente.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/alex-char-y-dumek-turbay-se-desprendieron-del-lote/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2024-12-17 01:17:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/mancuso-se-ratifico-contra-sus-auspiciadores-y-la-fiscalia-sigue-en-mora/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/mancuso-se-ratifico-contra-sus-auspiciadores-y-la-fiscalia-sigue-en-mora/hero.jpg
 ---
 
 ![Aspecto de la audiencia del 13 de diciembre donde Mancuso se ratificó de sus señalamientos contra sus financiadores y auspiciadores](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/mancuso-se-ratifico-contra-sus-auspiciadores-y-la-fiscalia-sigue-en-mora/Mancuso-se-ratifica-1024x606.jpeg)

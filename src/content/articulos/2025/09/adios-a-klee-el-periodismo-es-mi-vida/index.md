@@ -5,7 +5,7 @@ pubDate: "2025-09-12 01:40:29"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/adios-a-klee-el-periodismo-es-mi-vida/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/adios-a-klee-el-periodismo-es-mi-vida/hero.jpg
 ---
 
 ![Jorge Humberto Klee: "el periodismo es mi vida"](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/adios-a-klee-el-periodismo-es-mi-vida/hero.jpg)

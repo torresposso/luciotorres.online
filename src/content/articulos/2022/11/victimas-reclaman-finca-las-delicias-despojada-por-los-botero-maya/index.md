@@ -5,7 +5,7 @@ pubDate: "2022-11-07 21:20:37"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/victimas-reclaman-finca-las-delicias-despojada-por-los-botero-maya/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/victimas-reclaman-finca-las-delicias-despojada-por-los-botero-maya/hero.jpg
 ---
 
 ![Finca despojada por los Botero Maya.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/victimas-reclaman-finca-las-delicias-despojada-por-los-botero-maya/hero.jpg)

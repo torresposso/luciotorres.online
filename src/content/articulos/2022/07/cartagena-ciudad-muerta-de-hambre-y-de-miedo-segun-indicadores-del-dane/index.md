@@ -5,7 +5,7 @@ pubDate: "2022-07-04 22:40:06"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/cartagena-ciudad-muerta-de-hambre-y-de-miedo-segun-indicadores-del-dane/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/cartagena-ciudad-muerta-de-hambre-y-de-miedo-segun-indicadores-del-dane/hero.jpg
 ---
 
 Una ciudad muerta de hambre y de miedo. Pareciera que Cartagena soportara las 7 plagas bíblicas. Según la última encuesta Pulso Social del DANE, la hacen una ciudad inviable. La mitad de su población aguanta hambre el doble de lo que soporta el país. Solo el 50,2% se consume las tres comidas diarias. El 94% no tiene mayores posibilidades de comprar ropa, zapatos, alimentos. El 64.7% afirmó que la situación económica actual de su hogar es **“Peor”** o **“Mucho peor”** que hace un año. El **95.2%** afirmó **sentirse inseguros y muy inseguros** caminando su barrio de noche.

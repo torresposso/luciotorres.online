@@ -5,7 +5,7 @@ pubDate: "2022-05-08 20:01:49"
 author: "Lucio"
 categories: ["Análisis","Investigación","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/las-madres-paren-hijos-para-la-guerra-y-la-corrupcion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/las-madres-paren-hijos-para-la-guerra-y-la-corrupcion/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/las-madres-paren-hijos-para-la-guerra-y-la-corrupcion/hero.jpg)

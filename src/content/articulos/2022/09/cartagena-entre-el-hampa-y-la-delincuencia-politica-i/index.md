@@ -5,7 +5,7 @@ pubDate: "2022-09-03 21:33:18"
 author: "Lucio"
 categories: ["Análisis","Investigación","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-entre-el-hampa-y-la-delincuencia-politica-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-entre-el-hampa-y-la-delincuencia-politica-i/hero.jpg
 ---
 
 ![Cartagena: Entre el hampa y la delincuencia política (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-entre-el-hampa-y-la-delincuencia-politica-i/hero.jpg)

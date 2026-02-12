@@ -5,7 +5,7 @@ pubDate: "2021-07-17 23:37:10"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/en-playa-blanca-nativos-se-toman-parqueadero/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/en-playa-blanca-nativos-se-toman-parqueadero/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/en-playa-blanca-nativos-se-toman-parqueadero/playa-blanca.jpeg)

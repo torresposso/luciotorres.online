@@ -5,7 +5,7 @@ pubDate: "2022-05-24 02:28:16"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/el-senador-tono-correa-en-aprieto-por-mermelada-de-5-mil-millones/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/el-senador-tono-correa-en-aprieto-por-mermelada-de-5-mil-millones/hero.jpg
 ---
 
 ![El senador electo Antonio «Toño» Correa  en aprieto.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/el-senador-tono-correa-en-aprieto-por-mermelada-de-5-mil-millones/hero.jpg)

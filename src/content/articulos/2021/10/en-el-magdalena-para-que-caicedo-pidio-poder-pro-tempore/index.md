@@ -5,7 +5,7 @@ pubDate: "2021-10-27 02:54:36"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-el-magdalena-para-que-caicedo-pidio-poder-pro-tempore/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-el-magdalena-para-que-caicedo-pidio-poder-pro-tempore/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-el-magdalena-para-que-caicedo-pidio-poder-pro-tempore/hero.jpg)

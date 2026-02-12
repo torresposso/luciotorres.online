@@ -5,7 +5,7 @@ pubDate: "2024-07-18 17:00:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ungrd-la-libreta-maldita-y-amarillenta-de-olmedo-lopez-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ungrd-la-libreta-maldita-y-amarillenta-de-olmedo-lopez-iii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ungrd-la-libreta-maldita-y-amarillenta-de-olmedo-lopez-iii/hero.jpg)

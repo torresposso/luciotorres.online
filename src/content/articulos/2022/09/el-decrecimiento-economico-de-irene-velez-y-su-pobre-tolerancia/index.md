@@ -5,7 +5,7 @@ pubDate: "2022-09-02 18:59:17"
 author: "Lucio"
 categories: ["Análisis","Mi País","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/el-decrecimiento-economico-de-irene-velez-y-su-pobre-tolerancia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/el-decrecimiento-economico-de-irene-velez-y-su-pobre-tolerancia/hero.jpg
 ---
 
 ![En este panel la ministra de Minas y Energía, Irene Vélez, habló como activista y poco como ministra sobre decrecimiento económico. A la derecha, la ministra del Medio Ambiente, Susana Muhamad. Modera Juan Roberto Vargas. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/el-decrecimiento-economico-de-irene-velez-y-su-pobre-tolerancia/hero.jpg)

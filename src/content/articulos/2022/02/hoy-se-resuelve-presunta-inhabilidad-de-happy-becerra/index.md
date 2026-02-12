@@ -5,7 +5,7 @@ pubDate: "2022-02-25 14:33:26"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/hoy-se-resuelve-presunta-inhabilidad-de-happy-becerra/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/hoy-se-resuelve-presunta-inhabilidad-de-happy-becerra/hero.jpg
 ---
 
 ![Happy Becerra](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/hoy-se-resuelve-presunta-inhabilidad-de-happy-becerra/hero.jpg)

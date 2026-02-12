@@ -5,7 +5,7 @@ pubDate: "2023-12-05 02:25:02"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 tags: ["Corte Suprema de Justicia","Daira Galvis","María del Socorro Bustamante","Turco Gil"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/la-paradoja-de-daira-de-la-cumbre-al-infierno/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/la-paradoja-de-daira-de-la-cumbre-al-infierno/hero.jpg
 ---
 
 ![La paradoja de Daira](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/la-paradoja-de-daira-de-la-cumbre-al-infierno/hero.jpg)

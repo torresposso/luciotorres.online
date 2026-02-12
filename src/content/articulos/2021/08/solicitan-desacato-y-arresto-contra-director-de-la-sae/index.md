@@ -5,7 +5,7 @@ pubDate: "2021-08-21 22:35:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/solicitan-desacato-y-arresto-contra-director-de-la-sae/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/solicitan-desacato-y-arresto-contra-director-de-la-sae/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/solicitan-desacato-y-arresto-contra-director-de-la-sae/hero.jpg)

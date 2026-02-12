@@ -5,7 +5,7 @@ pubDate: "2021-08-15 17:22:19"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/shakira-a-fijarse-en-la-falsa-tradicion-de-su-colegio/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/shakira-a-fijarse-en-la-falsa-tradicion-de-su-colegio/hero.jpg
 ---
 
 La famosa cantante de música pop, Shakira, debe fijarse en la **falsa tradición** de su nuevo colegio en Cartagena. Los títulos donde se va a construir el nuevo colegio de **Pies Descalzos** de la artista barranquillera, **podrían estar preñados de ilegalidad**. Lo mismo, como lo habíamos informado, de **Ciudad del Bicentenario**. Todos esos predios se desprenden de la matricula madre **No 060—54391** de la Oficina de Documentos Públicos que pertenecen a los Hernández**.** Esta situación quedó evidenciado en la audiencia ante el **juez Cuarto Penal del Circuito de Cartagena, Luis Fernando Machado**, realizada el pasado 5 de agosto de 2021. 

@@ -5,7 +5,7 @@ pubDate: "2023-08-18 02:34:16"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/apoyo-de-w-garcia-a-yamilito-precipitara-acuerdos-electorales/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/apoyo-de-w-garcia-a-yamilito-precipitara-acuerdos-electorales/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/apoyo-de-w-garcia-a-yamilito-precipitara-acuerdos-electorales/hero.jpg)

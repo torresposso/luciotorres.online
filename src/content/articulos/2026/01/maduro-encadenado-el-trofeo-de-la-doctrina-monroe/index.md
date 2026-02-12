@@ -5,7 +5,7 @@ pubDate: "2026-01-03 18:52:45"
 author: "Lucio"
 categories: ["Destacadas","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/maduro-encadenado-el-trofeo-de-la-doctrina-monroe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/maduro-encadenado-el-trofeo-de-la-doctrina-monroe/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/maduro-encadenado-el-trofeo-de-la-doctrina-monroe/hero.jpg)

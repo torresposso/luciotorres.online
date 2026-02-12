@@ -5,7 +5,7 @@ pubDate: "2021-04-08 15:52:06"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/walberto-ahumedo-un-adios-en-clave-covid/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/walberto-ahumedo-un-adios-en-clave-covid/hero.jpg
 ---
 
 \[caption id="attachment\_14499" align="aligncenter" width="719"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/walberto-ahumedo-un-adios-en-clave-covid/hero.jpg) Walberto Ahumedo, **«A Puño Limpio» en clave de covid**.\[/caption\]

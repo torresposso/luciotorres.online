@@ -5,7 +5,7 @@ pubDate: "2024-10-01 03:57:02"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/en-6-capitales-petro-esta-en-el-foso/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/en-6-capitales-petro-esta-en-el-foso/hero.jpg
 ---
 
 ![Petro está en el foso de la aprobación popular mientras se toma una selfie con sus colegas latinoamericanos en la posesión de la presidenta Claudia Sheinbaum.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/en-6-capitales-petro-esta-en-el-foso/hero.jpg)

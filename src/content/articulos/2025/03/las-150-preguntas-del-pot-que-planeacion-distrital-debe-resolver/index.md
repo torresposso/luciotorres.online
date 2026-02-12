@@ -5,7 +5,7 @@ pubDate: "2025-03-12 12:33:32"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-150-preguntas-del-pot-que-planeacion-distrital-debe-resolver/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-150-preguntas-del-pot-que-planeacion-distrital-debe-resolver/hero.jpg
 ---
 
 ![Presentamos 150 preguntas del POT para Camilo Rey Sabogal, Secretario de Planeación Distrital en este mes de su onomástico](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-150-preguntas-del-pot-que-planeacion-distrital-debe-resolver/hero.jpg)

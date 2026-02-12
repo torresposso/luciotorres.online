@@ -5,7 +5,7 @@ pubDate: "2021-04-13 22:00:29"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/mariamulata-y-panizza-alcaldes-condenados-de-la-casa-araujo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/mariamulata-y-panizza-alcaldes-condenados-de-la-casa-araujo/hero.jpg
 ---
 
 \[caption id="attachment\_14551" align="aligncenter" width="1200"\](imagen no disponible) Guillermo Paniza y Judith Pinedo, **el club de alcaldes condenados Casa Araújo**.\[/caption\]

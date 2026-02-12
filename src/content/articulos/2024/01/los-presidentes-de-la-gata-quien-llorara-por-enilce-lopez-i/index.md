@@ -5,7 +5,7 @@ pubDate: "2024-01-15 05:00:08"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/los-presidentes-de-la-gata-quien-llorara-por-enilce-lopez-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/los-presidentes-de-la-gata-quien-llorara-por-enilce-lopez-i/hero.jpg
 ---
 
 ![Los presidentes de la Gata. Cuando Gaviria fue candidato, lo primero que hizo fue preguntar por La Gata. Así hizo Andrés Pastrana, Ernesto Samper y Uribe, ¿Santos, Iván Duque y Petro?<](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/los-presidentes-de-la-gata-quien-llorara-por-enilce-lopez-i/hero.jpg)

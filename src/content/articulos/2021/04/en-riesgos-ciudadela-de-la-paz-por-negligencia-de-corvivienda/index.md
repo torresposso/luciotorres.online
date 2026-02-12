@@ -5,7 +5,7 @@ pubDate: "2021-04-22 18:50:15"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-riesgos-ciudadela-de-la-paz-por-negligencia-de-corvivienda/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-riesgos-ciudadela-de-la-paz-por-negligencia-de-corvivienda/hero.jpg
 ---
 
 \[caption id="attachment\_14616" align="aligncenter" width="582"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-riesgos-ciudadela-de-la-paz-por-negligencia-de-corvivienda/hero.jpg) **Sandra Gómez**, Presidenta de Findeter debe prender las alertas con la «Ciudadela de la Paz». No le suceda lo mismo que con Transcaribe.\[/caption\]

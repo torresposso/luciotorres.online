@@ -5,7 +5,7 @@ pubDate: "2020-12-12 22:13:55"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/12/la-aldea-debajo-de-la-montana-o-cien-anos-de-soledad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/12/la-aldea-debajo-de-la-montana-o-cien-anos-de-soledad/hero.jpg
 ---
 
 \[caption id="attachment\_13451" align="aligncenter" width="608"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/12/la-aldea-debajo-de-la-montana-o-cien-anos-de-soledad/la-aldea.jpeg) Portada de **«La Aldea Debajo de la Montaña»** de **Bruno Elías Maduro.**\[/caption\] **«La Aldea Debajo de la Montaña»:** _«Para Eva, esas obligaciones que implican el gasto de la belleza se convertirán en satisfacciones diferentes  a los elogios por el cuerpo, y se transforman, en la mujer madura, en otros deleites, en placeres sencillos y ricos, los mismos que con el tiempo reemplazarán a las curvas sensuales de la juventud»_. Este es el tono y el profundo contenido del tiempo psicológico que **Bruno Elías Maduro** trata de explorar en sus personajes de los 104 relatos y un epílogo de su primera novela **«La Aldea Debajo de la Montaña»**.

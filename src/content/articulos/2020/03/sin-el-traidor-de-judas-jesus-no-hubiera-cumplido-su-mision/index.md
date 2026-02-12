@@ -5,7 +5,7 @@ pubDate: "2020-03-06 11:53:57"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/sin-el-traidor-de-judas-jesus-no-hubiera-cumplido-su-mision/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/sin-el-traidor-de-judas-jesus-no-hubiera-cumplido-su-mision/hero.jpg
 ---
 
 _Pero yo os digo: **Amad a vuestros enemigos**, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen._ (Mateo 5:44)

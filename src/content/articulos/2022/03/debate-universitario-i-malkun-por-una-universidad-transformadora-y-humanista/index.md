@@ -5,7 +5,7 @@ pubDate: "2022-03-28 03:37:44"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/hero.jpg
 ---
 
 ![Debate Universitario. William Malkún rodeado de candidatos y candidatas a decanatura y directores de programas. Asimismo de profesores, trabajadores y algunos estudiantes.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/Los-candidatos.jpeg)

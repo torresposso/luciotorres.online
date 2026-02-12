@@ -5,7 +5,7 @@ pubDate: "2024-07-24 18:32:50"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/increible-el-intocable-rafael-matera-se-orino-en-plena-audiencia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/increible-el-intocable-rafael-matera-se-orino-en-plena-audiencia/hero.jpg
 ---
 
 ![Captura de pantalla del momento preciso cuando Rafael Matera Lajud (alias "300") le respondió al abogado Johnny González con una meada que trascendió la audiencia virtual. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/increible-el-intocable-rafael-matera-se-orino-en-plena-audiencia/La-meada-de-alias-300-1024x216.jpeg)

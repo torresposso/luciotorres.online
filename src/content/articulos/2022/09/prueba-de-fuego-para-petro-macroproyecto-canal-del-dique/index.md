@@ -5,7 +5,7 @@ pubDate: "2022-09-12 16:01:57"
 author: "Lucio"
 categories: ["Análisis","Mi País","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/prueba-de-fuego-para-petro-macroproyecto-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/prueba-de-fuego-para-petro-macroproyecto-canal-del-dique/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/prueba-de-fuego-para-petro-macroproyecto-canal-del-dique/hero.jpg)

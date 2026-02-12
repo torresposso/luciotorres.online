@@ -5,7 +5,7 @@ pubDate: "2022-07-03 00:39:33"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-deuda-eterna-de-126-mil-millones-de-bolivar-a-udec-provocaria-un-colapso-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-deuda-eterna-de-126-mil-millones-de-bolivar-a-udec-provocaria-un-colapso-i/hero.jpg
 ---
 
 La deuda eterna de $126 mil millones que la gobernación de Bolívar tiene con la Universidad de Cartagena (UdeC) **puede llevar a un colapso administrativo al Alma Máter**. Cada cuatrimestre la deuda aumenta, lo cual afecta el funcionamiento de la misma. El gobernador **Vicente Blel**, como presidente del Consejo Superior, está llamado a ponerse al día con el **convenio de pago firmado en 2017 por Dumek Turbay.**

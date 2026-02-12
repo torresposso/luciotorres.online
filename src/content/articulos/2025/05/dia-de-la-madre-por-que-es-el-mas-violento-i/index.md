@@ -5,7 +5,7 @@ pubDate: "2025-05-13 04:08:28"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/dia-de-la-madre-por-que-es-el-mas-violento-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/dia-de-la-madre-por-que-es-el-mas-violento-i/hero.jpg
 ---
 
 ![Días ante de la Madre, la lideresa Alba Guerrero fue asesinada de 15 puñaladas por su propio hijo secuestrado por la adicción a las drogas. El Día de las Madres, el más violento del año.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/dia-de-la-madre-por-que-es-el-mas-violento-i/hero.jpg)

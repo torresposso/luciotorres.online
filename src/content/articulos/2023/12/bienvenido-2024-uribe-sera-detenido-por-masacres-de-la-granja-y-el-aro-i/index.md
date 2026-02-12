@@ -5,7 +5,7 @@ pubDate: "2023-12-10 14:06:25"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez","Corte Suprema de Justicia"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/bienvenido-2024-uribe-sera-detenido-por-masacres-de-la-granja-y-el-aro-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/bienvenido-2024-uribe-sera-detenido-por-masacres-de-la-granja-y-el-aro-i/hero.jpg
 ---
 
 ![Bienvenido 2024: ¿Uribe, un triste final, a lo Fujimori?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/bienvenido-2024-uribe-sera-detenido-por-masacres-de-la-granja-y-el-aro-i/hero.jpg)

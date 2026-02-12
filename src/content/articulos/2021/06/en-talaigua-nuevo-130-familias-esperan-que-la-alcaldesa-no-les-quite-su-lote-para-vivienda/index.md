@@ -5,7 +5,7 @@ pubDate: "2021-06-06 22:14:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-talaigua-nuevo-130-familias-esperan-que-la-alcaldesa-no-les-quite-su-lote-para-vivienda/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-talaigua-nuevo-130-familias-esperan-que-la-alcaldesa-no-les-quite-su-lote-para-vivienda/hero.jpg
 ---
 
 \[caption id="attachment\_15307" align="aligncenter" width="988"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-talaigua-nuevo-130-familias-esperan-que-la-alcaldesa-no-les-quite-su-lote-para-vivienda/talaigua-lote.jpeg) Las 130 familias tomaron posesión del lote que la alcaldesa Leonor Carpio le cambió su destinación final.\[/caption\]

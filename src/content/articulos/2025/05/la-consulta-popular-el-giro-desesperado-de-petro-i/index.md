@@ -5,7 +5,7 @@ pubDate: "2025-05-24 03:56:59"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-consulta-popular-el-giro-desesperado-de-petro-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-consulta-popular-el-giro-desesperado-de-petro-i/hero.jpg
 ---
 
 ![La Consulta popular, el giro desesperado de Petro (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-consulta-popular-el-giro-desesperado-de-petro-i/hero.jpg)

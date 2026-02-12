@@ -5,7 +5,7 @@ pubDate: "2022-05-30 03:09:28"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/hernandez-el-trump-colombiano-y-la-derrota-de-las-maquinarias/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/hernandez-el-trump-colombiano-y-la-derrota-de-las-maquinarias/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/hernandez-el-trump-colombiano-y-la-derrota-de-las-maquinarias/hero.jpg)

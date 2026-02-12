@@ -5,7 +5,7 @@ pubDate: "2025-01-30 12:24:56"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/que-hace-dumek-en-panama-y-el-foro-economico-de-al-y-el-caribe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/que-hace-dumek-en-panama-y-el-foro-economico-de-al-y-el-caribe/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/que-hace-dumek-en-panama-y-el-foro-economico-de-al-y-el-caribe/dumek_panama_foro.jpeg)

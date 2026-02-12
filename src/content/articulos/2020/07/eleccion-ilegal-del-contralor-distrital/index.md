@@ -5,7 +5,7 @@ pubDate: "2020-07-16 04:14:31"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/eleccion-ilegal-del-contralor-distrital/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/eleccion-ilegal-del-contralor-distrital/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/eleccion-ilegal-del-contralor-distrital/hero.jpg)

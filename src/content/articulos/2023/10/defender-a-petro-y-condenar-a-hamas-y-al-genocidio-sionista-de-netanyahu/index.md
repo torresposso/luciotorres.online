@@ -5,7 +5,7 @@ pubDate: "2023-10-18 03:09:23"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/defender-a-petro-y-condenar-a-hamas-y-al-genocidio-sionista-de-netanyahu/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/defender-a-petro-y-condenar-a-hamas-y-al-genocidio-sionista-de-netanyahu/hero.jpg
 ---
 
 ![Defender a Petro y condenar a Hamás y al genocidio sionista de Netanyahu.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/defender-a-petro-y-condenar-a-hamas-y-al-genocidio-sionista-de-netanyahu/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2021-12-20 01:40:31"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-chile-triunfo-nueva-izquierda-con-boric/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-chile-triunfo-nueva-izquierda-con-boric/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-chile-triunfo-nueva-izquierda-con-boric/hero.jpg)

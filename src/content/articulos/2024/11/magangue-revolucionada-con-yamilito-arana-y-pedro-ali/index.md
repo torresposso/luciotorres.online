@@ -5,7 +5,7 @@ pubDate: "2024-11-05 00:30:37"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/hero.jpg
 ---
 
 ![Magangué revolucionado con Yamilito Arana y Pedro Alí](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/hero.jpg)

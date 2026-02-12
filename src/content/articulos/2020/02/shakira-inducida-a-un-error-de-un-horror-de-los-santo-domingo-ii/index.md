@@ -5,7 +5,7 @@ pubDate: "2020-02-12 13:56:45"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/shakira-inducida-a-un-error-de-un-horror-de-los-santo-domingo-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/shakira-inducida-a-un-error-de-un-horror-de-los-santo-domingo-ii/hero.jpg
 ---
 
 _«¿Dónde están los ladrones?_ _¿Dónde esta el asesino?_ _Quizá allá revolcándose_ _En el patio del vecino_ _Y qué pasa si son ellos_ _Y qué pasa si soy yo_ _El que toca esta guitarra_ _O la que canta esta canción_ _La que canta esta canción»_

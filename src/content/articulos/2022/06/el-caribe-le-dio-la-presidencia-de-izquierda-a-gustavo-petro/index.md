@@ -5,7 +5,7 @@ pubDate: "2022-06-20 00:04:25"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/el-caribe-le-dio-la-presidencia-de-izquierda-a-gustavo-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/el-caribe-le-dio-la-presidencia-de-izquierda-a-gustavo-petro/hero.jpg
 ---
 
 ![Presidencia de izquierda. La fórmula presidencial Gustavo Petro y Francia Márquez](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/el-caribe-le-dio-la-presidencia-de-izquierda-a-gustavo-petro/hero.jpg)

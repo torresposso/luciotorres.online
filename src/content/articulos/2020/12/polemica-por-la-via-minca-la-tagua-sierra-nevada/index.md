@@ -5,7 +5,7 @@ pubDate: "2020-12-16 11:41:24"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/12/polemica-por-la-via-minca-la-tagua-sierra-nevada/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/12/polemica-por-la-via-minca-la-tagua-sierra-nevada/hero.jpg
 ---
 
 \[caption id="attachment\_13462" align="alignnone" width="1366"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/12/polemica-por-la-via-minca-la-tagua-sierra-nevada/hero.jpg) Posible tráfico de influencia de estos tres exfuncionarios con la obra vía a Minca. En los extremos los exgobernadores **Luis Miguel Mello Cotes y Rosa Cotes Vives.** En el centro, el exministro de Comercio, Industria y Turismo, **Sergio Díaz Granados Guida.**\[/caption\] Cuando **Luis Miguel «Mello» Cotes** y posteriormente **Rosa Cotes Vives**, siendo gobernadores del Magdalena, planearon e iniciaron la construcción en placa huella de las vías **El Campano—La Tagua y Minca —La Tagua en la Sierra Nevada**, realmente no pensaron en los 10 mil campesinos e indígenas de la región.  La planearon como vía de acceso rápido a las **haciendas cafetaleras** y cabañas turísticas de prestantes familias del poder económico de Santa Marta. Entre ellas, los Díaz Granados Guida, los Vives, y los Cotes. ¿Por qué fue posible la construcción de esa vía? Existen varios hechos significativos que debemos citar para mostrar la verdadera motivación de los Cotes (**Luis Miguel Cotes Habeych y Rosa Cotes Vives**) de invertir cerca de **$30 mil millones** que dijeron costar la obra. El dinero fue del gobierno nacional.

@@ -5,7 +5,7 @@ pubDate: "2023-05-26 02:32:11"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/nulidad-de-eleccion-del-contralor-contralor-de-bolsillo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/nulidad-de-eleccion-del-contralor-contralor-de-bolsillo/hero.jpg
 ---
 
 ![Se cayó por ilegal la estrategia de Roy Barreras para tener contralor de «bolsillo» a Carlos Hernán Rodriguez.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/nulidad-de-eleccion-del-contralor-contralor-de-bolsillo/hero.jpg)

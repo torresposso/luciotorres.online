@@ -5,7 +5,7 @@ pubDate: "2021-08-08 00:28:16"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/exorcismo-en-cartagena-dau-se-va/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/exorcismo-en-cartagena-dau-se-va/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/exorcismo-en-cartagena-dau-se-va/hero.jpg)

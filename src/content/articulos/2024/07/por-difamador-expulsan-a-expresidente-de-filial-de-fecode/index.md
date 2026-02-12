@@ -5,7 +5,7 @@ pubDate: "2024-07-29 12:06:37"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/por-difamador-expulsan-a-expresidente-de-filial-de-fecode/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/por-difamador-expulsan-a-expresidente-de-filial-de-fecode/hero.jpg
 ---
 
 ![Por difamador, expulsado Alberto Ortiz de la ADEA](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/por-difamador-expulsan-a-expresidente-de-filial-de-fecode/hero.jpg)

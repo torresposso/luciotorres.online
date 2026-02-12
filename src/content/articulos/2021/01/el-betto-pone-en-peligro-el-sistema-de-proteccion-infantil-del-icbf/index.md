@@ -5,7 +5,7 @@ pubDate: "2021-01-31 22:13:30"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/el-betto-pone-en-peligro-el-sistema-de-proteccion-infantil-del-icbf/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/el-betto-pone-en-peligro-el-sistema-de-proteccion-infantil-del-icbf/hero.jpg
 ---
 
 \[caption id="attachment\_13752" align="aligncenter" width="702"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/el-betto-pone-en-peligro-el-sistema-de-proteccion-infantil-del-icbf/hero.jpg) Lina María Arbeláez, Directora General del ICBF, entusiasta impulsora de El Betto.\[/caption\] ¿El Betto acabará con el ICBF? El nuevo sistema de selección de contratación directa implementado por el Instituto Colombiano de Bienestar Familiar —ICBF— denominado Betto, podría estar diseñado para beneficiar el monopolio y la corrupción de la contratación directa de $16 billones. Lo peor, el sistema perjudica la atención infantil de la población más pobre del país. Así se pudo establecer con los resultados del 28 de enero del 2021 que dio a conocer la lista de operadores. El Betto adjudicó en forma directa los **$16 millones** mediante **1.153 contratos** para la atención de **Primera Infancia de 1.103 municipios**. Se violó el Estatuto General de la Contratación regido por la ley 80 y el régimen especial de contratación del ICBF. Es decir, **no cumple con los criterios de transparencia, selección objetiva, igualdad, oportunidad y transparencia.** La Directora General del ICBF, **Lina María Arbeláez**, por supuesto, piensa distinto. [Ella dijo](/articulos/noticias/icbf-selecciono-los-operadores-para-atender-la-primera-infancia-del-pais):

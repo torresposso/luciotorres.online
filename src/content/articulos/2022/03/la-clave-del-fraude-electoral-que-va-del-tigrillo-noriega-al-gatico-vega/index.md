@@ -5,7 +5,7 @@ pubDate: "2022-03-22 22:56:58"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-clave-del-fraude-electoral-que-va-del-tigrillo-noriega-al-gatico-vega/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-clave-del-fraude-electoral-que-va-del-tigrillo-noriega-al-gatico-vega/hero.jpg
 ---
 
 **En el preconteo está la clave del fraude electoral.** La transmisión de datos, es decir, **la información del resultado electoral**, por mucha tecnología que tenga, se constituye en una debilidad en la etapa humana de recolección. Es el ser humano quien maneja la tecnología. No lo contrario. En este sentido vale preguntarnos. ¿Qué va del **«Tigrillo» Noriega al «Gatico»  Vega**? ¿El fraude electoral? ¿Qué va de **Rojas Pinilla a Gustavo Petro**? Son dos preguntas históricas que debemos responder a la luz de lo que sucedió en las elecciones del 13 de marzo pasado. 

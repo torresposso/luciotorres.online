@@ -5,7 +5,7 @@ pubDate: "2019-10-27 05:08:34"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/william-garcia-virtual-alcalde-blanco-voto-anticorrupcion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/william-garcia-virtual-alcalde-blanco-voto-anticorrupcion/hero.jpg
 ---
 
 ![William García, virtual alcalde.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/william-garcia-virtual-alcalde-blanco-voto-anticorrupcion/hero.jpg)

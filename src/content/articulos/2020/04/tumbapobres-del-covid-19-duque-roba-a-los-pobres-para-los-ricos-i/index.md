@@ -5,7 +5,7 @@ pubDate: "2020-04-19 16:03:21"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/tumbapobres-del-covid-19-duque-roba-a-los-pobres-para-los-ricos-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/tumbapobres-del-covid-19-duque-roba-a-los-pobres-para-los-ricos-i/hero.jpg
 ---
 
 Para entender a **los tumbapobres del Covid—19,** nos remontamos al antiguo testamento cuando el profeta Malaquíes vio que ricos mercaderes no daban el diezmo pactado entre el pueblo judío y Dios. En nombre de éste, les dijo:

@@ -5,7 +5,7 @@ pubDate: "2018-11-16 02:34:18"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/hero.jpg)

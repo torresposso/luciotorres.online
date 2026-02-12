@@ -5,7 +5,7 @@ pubDate: "2023-02-17 00:45:13"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/hero.jpg
 ---
 
 ![Así quedó Eder Perneth Caicedo testaferro  de «Jorge 40».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/hero.jpg)

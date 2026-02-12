@@ -5,7 +5,7 @@ pubDate: "2024-10-18 02:34:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/petro-uribe-gemelos-de-la-opinion-negativa-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/petro-uribe-gemelos-de-la-opinion-negativa-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/petro-uribe-gemelos-de-la-opinion-negativa-ii/Uribe_Petro_miniatura-1024x575.jpeg)

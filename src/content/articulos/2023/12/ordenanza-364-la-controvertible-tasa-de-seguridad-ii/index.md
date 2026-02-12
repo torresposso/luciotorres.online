@@ -5,7 +5,7 @@ pubDate: "2023-12-19 02:59:24"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 tags: ["César Sotomayor","José Felix Turbay","Vicente Blel"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/ordenanza-364-la-controvertible-tasa-de-seguridad-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/ordenanza-364-la-controvertible-tasa-de-seguridad-ii/hero.jpg
 ---
 
 ![Ordenanza 364, la controvertible tasa de seguridad. La policía y las Fuerzas Armadas se beneficiarán con la sobretasa. El director de Seguridad y Convivencia de Bolívar, César Sotomayor.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/ordenanza-364-la-controvertible-tasa-de-seguridad-ii/hero.jpg)

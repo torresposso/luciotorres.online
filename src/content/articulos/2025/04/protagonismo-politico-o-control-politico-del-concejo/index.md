@@ -5,7 +5,7 @@ pubDate: "2025-04-26 02:46:44"
 author: "Lucio"
 categories: ["Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/protagonismo-politico-o-control-politico-del-concejo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/protagonismo-politico-o-control-politico-del-concejo/hero.jpg
 ---
 
 ![¿Protagonismo político o control político del concejo? El concejal Javier Julio se silenció en las decisiones más importantes. Hoy se lanzó contra una lideresa del barrio Olaya Herrera.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/protagonismo-politico-o-control-politico-del-concejo/hero.jpg)

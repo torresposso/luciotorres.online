@@ -5,7 +5,7 @@ pubDate: "2019-10-28 02:54:04"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/dau-un-buitre-de-corto-vuelo-alcalde-de-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/dau-un-buitre-de-corto-vuelo-alcalde-de-cartagena/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/dau-un-buitre-de-corto-vuelo-alcalde-de-cartagena/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-08-26 22:45:22"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/hero.jpg)

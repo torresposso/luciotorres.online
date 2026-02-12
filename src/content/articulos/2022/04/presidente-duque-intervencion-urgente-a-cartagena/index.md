@@ -5,7 +5,7 @@ pubDate: "2022-04-02 00:36:02"
 author: "Lucio"
 categories: ["Opinión","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/presidente-duque-intervencion-urgente-a-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/presidente-duque-intervencion-urgente-a-cartagena/hero.jpg
 ---
 
 ![Bajo el principio de complementariedad el presidente Duque puede ordenar la intervención urgente a Cartagena](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/presidente-duque-intervencion-urgente-a-cartagena/hero.jpg)

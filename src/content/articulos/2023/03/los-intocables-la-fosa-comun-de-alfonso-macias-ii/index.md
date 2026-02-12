@@ -5,7 +5,7 @@ pubDate: "2023-03-25 16:55:12"
 author: "Lucio"
 categories: ["Análisis","Investigación","Post Conflicto"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/los-intocables-la-fosa-comun-de-alfonso-macias-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/los-intocables-la-fosa-comun-de-alfonso-macias-ii/hero.jpg
 ---
 
 ![«Los intocables»: La fosa común de Alfonso Macías (II)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/los-intocables-la-fosa-comun-de-alfonso-macias-ii/hero.jpg)

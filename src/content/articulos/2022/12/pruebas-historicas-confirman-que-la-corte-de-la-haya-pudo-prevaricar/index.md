@@ -5,7 +5,7 @@ pubDate: "2022-12-04 01:26:05"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/hero.jpg
 ---
 
 ![Desde el 5 de diciembre otra vez Colombia fue sentada por Nicaragua. Pruebas históricas confirman nuestra soberanía sobre San Andrés](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/hero.jpg)

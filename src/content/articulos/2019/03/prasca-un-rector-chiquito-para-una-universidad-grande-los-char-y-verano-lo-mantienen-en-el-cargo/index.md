@@ -5,7 +5,7 @@ pubDate: "2019-03-06 13:48:25"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/prasca-un-rector-chiquito-para-una-universidad-grande-los-char-y-verano-lo-mantienen-en-el-cargo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/prasca-un-rector-chiquito-para-una-universidad-grande-los-char-y-verano-lo-mantienen-en-el-cargo/hero.jpg
 ---
 
 Barranquilla se despierta este miércoles con una cruz de ceniza en la frente y más de 10 muertes violentas**.** Y desconoce que **Carlos Prasca** es un recto(r) CHIQUITO para una universidad GRANDE como la del Atlántico, puesto que se ha convertido en un _**rey de burlas**_. Su conducta obscena y acusado de acoso sexual, redujo a la mínima expresión la dignidad de una comunidad universitaria.

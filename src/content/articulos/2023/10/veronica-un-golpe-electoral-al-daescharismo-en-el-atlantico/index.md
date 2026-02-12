@@ -5,7 +5,7 @@ pubDate: "2023-10-20 23:26:12"
 author: "Lucio"
 categories: ["Análisis","Barranquilla"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/veronica-un-golpe-electoral-al-daescharismo-en-el-atlantico/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/veronica-un-golpe-electoral-al-daescharismo-en-el-atlantico/hero.jpg
 ---
 
 ![La esperanza de Claudia Verónica Patiño podría ser un golpe electoral al Daescharismo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/veronica-un-golpe-electoral-al-daescharismo-en-el-atlantico/hero.jpg)

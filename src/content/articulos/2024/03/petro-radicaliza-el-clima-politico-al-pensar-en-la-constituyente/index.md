@@ -5,7 +5,7 @@ pubDate: "2024-03-18 02:25:51"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/petro-radicaliza-el-clima-politico-al-pensar-en-la-constituyente/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/petro-radicaliza-el-clima-politico-al-pensar-en-la-constituyente/hero.jpg
 ---
 
 ![¿Petro radicaliza el clima político al pensar en la Constituyente?/Presidencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/petro-radicaliza-el-clima-politico-al-pensar-en-la-constituyente/Petro_minga_miniatura-1024x532.jpeg)

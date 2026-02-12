@@ -5,7 +5,7 @@ pubDate: "2023-10-25 19:22:40"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/ultima-encuesta-predicciones-electorales-en-la-costa-caribe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/ultima-encuesta-predicciones-electorales-en-la-costa-caribe/hero.jpg
 ---
 
 ![¡Última encuesta! Predicciones electorales en la Costa Caribe. Barranquilla y Sincelejo la alcaldía está definida para Alejandro Char y Jair Acuña, respectivamente.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/ultima-encuesta-predicciones-electorales-en-la-costa-caribe/hero.jpg)

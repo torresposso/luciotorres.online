@@ -5,7 +5,7 @@ pubDate: "2022-02-14 23:55:26"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-sospechosa-conducta-de-una-juez-y-un-edil-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-sospechosa-conducta-de-una-juez-y-un-edil-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-sospechosa-conducta-de-una-juez-y-un-edil-i/Haydee-Hernandez.jpeg)

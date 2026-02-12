@@ -5,7 +5,7 @@ pubDate: "2023-05-27 22:18:35"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mera-ilusion-julian-conrado-en-turbaco-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mera-ilusion-julian-conrado-en-turbaco-i/hero.jpg
 ---
 
 ![¡Mera ilusión! Julián Conrado en Turbaco](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mera-ilusion-julian-conrado-en-turbaco-i/hero.jpg)

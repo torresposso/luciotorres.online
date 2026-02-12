@@ -5,7 +5,7 @@ pubDate: "2018-12-06 17:15:01"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/nadie-vio-el-rinoceronte-de-luis-carlos-sarmiento-en-odebrecht-y-en-la-muerte-de-los-pizanos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/nadie-vio-el-rinoceronte-de-luis-carlos-sarmiento-en-odebrecht-y-en-la-muerte-de-los-pizanos/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/nadie-vio-el-rinoceronte-de-luis-carlos-sarmiento-en-odebrecht-y-en-la-muerte-de-los-pizanos/hero.jpg)

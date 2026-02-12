@@ -5,7 +5,7 @@ pubDate: "2022-06-12 17:52:09"
 author: "Lucio"
 categories: ["Análisis","Política","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/petro-puede-ganar-la-presidencia-con-el-perdon-moral/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/petro-puede-ganar-la-presidencia-con-el-perdon-moral/hero.jpg
 ---
 
 Si Gustavo Petro quiere ganar la presidencia en forma ética, **debería pedir perdón moral a la sociedad colombiana por los métodos igualados a las campañas que tienen el sello del uribismo.** De ello dependerá el verdadero cambio de su eventual gobierno. Una lectura alternativa de las últimas encuestas infieren que el imperativo moral marcará la diferencia para esa victoria.

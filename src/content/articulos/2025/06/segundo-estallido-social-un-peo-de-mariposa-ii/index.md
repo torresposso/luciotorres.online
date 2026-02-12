@@ -5,7 +5,7 @@ pubDate: "2025-06-02 04:13:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/segundo-estallido-social-un-peo-de-mariposa-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/segundo-estallido-social-un-peo-de-mariposa-ii/hero.jpg
 ---
 
 ![Un peo de mariposa, el Segundo Estallido Social.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/segundo-estallido-social-un-peo-de-mariposa-ii/hero.jpg)

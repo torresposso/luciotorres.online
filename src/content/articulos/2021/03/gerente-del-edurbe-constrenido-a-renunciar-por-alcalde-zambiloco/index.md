@@ -5,7 +5,7 @@ pubDate: "2021-03-04 23:10:31"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/gerente-del-edurbe-constrenido-a-renunciar-por-alcalde-zambiloco/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/gerente-del-edurbe-constrenido-a-renunciar-por-alcalde-zambiloco/hero.jpg
 ---
 
 \[caption id="attachment\_13979" align="aligncenter" width="770"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/gerente-del-edurbe-constrenido-a-renunciar-por-alcalde-zambiloco/hero.jpg) El gerente de Edurbe, **Uriel de Arco,** constreñido a renunciar. Cortesía.\[/caption\] El gerente de Edurbe, **Uriel de Arco Paternina**, fue **constreñido a renunciar** intempestivamente. ¿La causa? No haber complacido al alcalde zambiloco para que continuara su histrionismo sobre los peajes. **Esa negativa puso al descubierto la demagogia y el embuste de William Dau Chamat en torno al contrato de la Concesión Vial.** La renuncia de De Arco también provocó la de los directivos **Jaime Alberto Hernández Herrera**, **Edith Salas Osorio** y **Santiago Noero Arango**. ¿Por qué? No lo dijeron. Pero se puede colegir que la destitución del gerente es potestad de la junta directiva. En tanto su presidente (Dau Chamat) no puede pisotear la voluntad de los 7 directivos. ¿Qué debió hacer el alcalde? Los estatutos de Edurbe señalan que debió presentar la proposición ante su junta directiva y provocar una decisión libre de cualquier constreñimiento. Lo que hicieron los directivos es lo menos que podían hacer.

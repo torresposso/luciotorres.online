@@ -5,7 +5,7 @@ pubDate: "2022-09-01 22:05:26"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/congresistas-trasladan-a-petro-la-ultima-palabra-del-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/congresistas-trasladan-a-petro-la-ultima-palabra-del-canal-del-dique/hero.jpg
 ---
 
 ![Los parlamentarios Pedro Florez y Dolcey Torres con los ministros del Transporte Guillermo Reyes y de Medio Ambiente Susana Muhamad. La última palabra del Canal del Dique la tiene el presidente Petro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/congresistas-trasladan-a-petro-la-ultima-palabra-del-canal-del-dique/hero.jpg)

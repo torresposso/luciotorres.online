@@ -5,7 +5,7 @@ pubDate: "2023-09-12 01:36:57"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/serfinanza-y-valorcon-la-corte-cierra-el-cerco-financiero-del-rey-arturo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/serfinanza-y-valorcon-la-corte-cierra-el-cerco-financiero-del-rey-arturo/hero.jpg
 ---
 
 ![Arturo Char, accionista de Serfinanza. Jean Pierre Celia, presidente de Serfinanza, debe explicarle a la Corte Suprema de Justicia su participación en el presunto entramado de corrupción al electorado de Barranquilla y el Atlántico.. Serfinanza y Valorcon](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/serfinanza-y-valorcon-la-corte-cierra-el-cerco-financiero-del-rey-arturo/hero.jpg)

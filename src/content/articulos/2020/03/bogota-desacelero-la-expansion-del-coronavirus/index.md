@@ -5,7 +5,7 @@ pubDate: "2020-03-23 23:50:15"
 author: "Lucio"
 categories: ["Análisis","Bogotá"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/bogota-desacelero-la-expansion-del-coronavirus/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/bogota-desacelero-la-expansion-del-coronavirus/hero.jpg
 ---
 
 \[caption id="attachment\_11278" align="aligncenter" width="667"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/bogota-desacelero-la-expansion-del-coronavirus/claudia-lopez-alcaldesa-mayor-de-bogota-300x169.jpg "Claudia López") **La alcaldesa de Bogotá, Claudia López,** desafío la lentitud del gobierno nacional al decretar el aislamiento este puente festivo. **Así se desaceleró la expansión del coronavirus**.\[/caption\] La buena noticia es que la audacia y valentía que tuvieron los gobiernos locales, especialmente los de Bogotá y Cundinamarca para decretar el confinamiento total**,** **desaceleró la expansión del coronavirus**. El Distrito Capital concentra el **41\. 2%** de los contagiados del virus en Colombia y Cundinamarca tiene 12 casos. No obstante, con las medidas extraordinarias de contención se evitó que ayer y hoy el número de contaminados fuera mayor. En tanto e**l gobierno central es paquidérmico en su reacción dándole ventaja a la expansión del Covid-19.**

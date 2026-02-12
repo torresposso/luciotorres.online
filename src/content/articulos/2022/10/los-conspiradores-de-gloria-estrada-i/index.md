@@ -5,7 +5,7 @@ pubDate: "2022-10-15 15:00:34"
 author: "Lucio"
 categories: ["Análisis","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/los-conspiradores-de-gloria-estrada-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/los-conspiradores-de-gloria-estrada-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/los-conspiradores-de-gloria-estrada-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2025-01-22 17:20:00"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/por-que-se-construye-un-pot-nulo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/por-que-se-construye-un-pot-nulo/hero.jpg
 ---
 
 ![¿Por qué se construye un POT nulo?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/por-que-se-construye-un-pot-nulo/hero.jpg)

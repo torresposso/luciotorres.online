@@ -5,7 +5,7 @@ pubDate: "2024-02-28 01:39:51"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/mancuso-y-el-eterno-retorno-de-la-verdad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/mancuso-y-el-eterno-retorno-de-la-verdad/hero.jpg
 ---
 
 ![El eterno retorno de Mancuso](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/mancuso-y-el-eterno-retorno-de-la-verdad/Mancuso_llegando-1024x768.jpeg)

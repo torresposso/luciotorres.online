@@ -5,7 +5,7 @@ pubDate: "2022-07-26 20:27:41"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/victimas-de-cartagena-exigen-los-107-mil-millones-que-dau-no-ha-invertido/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/victimas-de-cartagena-exigen-los-107-mil-millones-que-dau-no-ha-invertido/hero.jpg
 ---
 
 ![Víctimas de Cartagena se tomaron la sede de la Secretaría del Interior del Distrito. Se mantendrán hasta que el alcalde William Dau los atienda.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/victimas-de-cartagena-exigen-los-107-mil-millones-que-dau-no-ha-invertido/victimas-de-cartagena.jpeg)

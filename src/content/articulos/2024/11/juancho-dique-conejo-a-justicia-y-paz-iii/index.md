@@ -5,7 +5,7 @@ pubDate: "2024-11-04 13:41:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/hero.jpg
 ---
 
 ![«Juancho Dique», ¿«hizo conejo» a Justicia y Paz? Es el mismo esquema presentado por el juicio contra Álvaro Uribe Vélez, quien quiso torcer las declaraciones iniciales de un testigo sobre la creación del frente Metro delas AUC](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/hero.jpg)

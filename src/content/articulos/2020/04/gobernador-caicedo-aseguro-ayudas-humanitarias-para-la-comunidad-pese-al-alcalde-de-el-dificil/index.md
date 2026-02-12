@@ -5,7 +5,7 @@ pubDate: "2020-04-14 01:06:27"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/gobernador-caicedo-aseguro-ayudas-humanitarias-para-la-comunidad-pese-al-alcalde-de-el-dificil/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/gobernador-caicedo-aseguro-ayudas-humanitarias-para-la-comunidad-pese-al-alcalde-de-el-dificil/hero.jpg
 ---
 
 \[caption id="attachment\_11472" align="aligncenter" width="542"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/gobernador-caicedo-aseguro-ayudas-humanitarias-para-la-comunidad-pese-al-alcalde-de-el-dificil/hero.jpg) El gobernador Caicedo, luego de subsanar inconvenientes con los alcaldes de Tenerife y de El Retén, instaló Comité de Transparencia para asegurar las ayudas humanitarias a todo el Mgdalena.\[/caption\] Los alcaldes de Tenerife, Fredy Ramos y de El Retén, **Jorge Serrano** se la pusieron bastante difícil al gobernador **Caicedo Omar**, **produciéndose un enfrentamiento de las partes que terminó en un acuerdo feliz de los 18 jefes municipales** con el jefe de gobierno del Magdalena. El encuentro concluyó con la creación del **Comité Protransparencia** para **garantizar la idoneidad en la distribución de las ayudas humanitarias** debido al Covid-19. El roce de los dos alcaldes con el gobernador Caicedo fue subsanado en menos de 15 minutos. Pero algunos periodistas sobredimensionaron el enfrentamiento sin informar la noticia importante que se había producido: **la creación del comité Protransparencia para que nadie se robe un mercado y le llegue a la gente empobrecida de cada municipio**.

@@ -5,7 +5,7 @@ pubDate: "2022-09-18 12:35:52"
 author: "Lucio"
 categories: ["Análisis","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/gloria-una-comunista-delegataria-presidencial/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/gloria-una-comunista-delegataria-presidencial/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/gloria-una-comunista-delegataria-presidencial/hero.jpg)

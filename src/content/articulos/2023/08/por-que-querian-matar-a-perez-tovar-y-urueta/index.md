@@ -5,7 +5,7 @@ pubDate: "2023-08-11 22:44:10"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/por-que-querian-matar-a-perez-tovar-y-urueta/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/por-que-querian-matar-a-perez-tovar-y-urueta/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/por-que-querian-matar-a-perez-tovar-y-urueta/hero.jpg)

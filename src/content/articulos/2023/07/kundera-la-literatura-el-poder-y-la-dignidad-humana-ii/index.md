@@ -5,7 +5,7 @@ pubDate: "2023-07-23 17:07:47"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/kundera-la-literatura-el-poder-y-la-dignidad-humana-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/kundera-la-literatura-el-poder-y-la-dignidad-humana-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/kundera-la-literatura-el-poder-y-la-dignidad-humana-ii/Milan-kundera_bufanda.jpeg)

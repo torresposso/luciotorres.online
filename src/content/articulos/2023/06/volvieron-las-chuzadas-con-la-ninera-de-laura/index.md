@@ -5,7 +5,7 @@ pubDate: "2023-06-02 02:11:34"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/volvieron-las-chuzadas-con-la-ninera-de-laura/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/volvieron-las-chuzadas-con-la-ninera-de-laura/hero.jpg
 ---
 
 ![¿Volvieron las chuzadas con la niñera de Laura?. Aquí el fiscal Fracisco Barbosa acompañado de la vicefiscal Marta Mancera y otros/Fiscalía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/volvieron-las-chuzadas-con-la-ninera-de-laura/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-04-08 23:55:58"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Santa Marta"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/hero.jpg
 ---
 
 ![Hasta hoy esta condena estaba refundida en las calendas de los Archivos judiciales de Santa Marta. ¿Qué dice el Tribunal Superior de Santa Marta y la Corte Suprema de Justicia? ¿Qué dice el fiscal Francisco Barbosa?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/hero.jpg)

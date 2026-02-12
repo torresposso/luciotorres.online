@@ -5,7 +5,7 @@ pubDate: "2021-11-08 03:36:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/hero.jpg)

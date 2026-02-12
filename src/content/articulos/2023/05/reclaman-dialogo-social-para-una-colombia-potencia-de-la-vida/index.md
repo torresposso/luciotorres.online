@@ -5,7 +5,7 @@ pubDate: "2023-05-21 02:56:34"
 author: "Lucio"
 categories: ["Análisis","Crónica","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/hero.jpg)

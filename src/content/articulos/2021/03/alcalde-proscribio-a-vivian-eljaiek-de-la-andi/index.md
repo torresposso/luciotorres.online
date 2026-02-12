@@ -5,7 +5,7 @@ pubDate: "2021-03-16 04:19:19"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/alcalde-proscribio-a-vivian-eljaiek-de-la-andi/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/alcalde-proscribio-a-vivian-eljaiek-de-la-andi/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/alcalde-proscribio-a-vivian-eljaiek-de-la-andi/hero.jpg)

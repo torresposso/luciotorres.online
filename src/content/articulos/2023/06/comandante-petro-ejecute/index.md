@@ -5,7 +5,7 @@ pubDate: "2023-06-09 02:32:19"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/comandante-petro-ejecute/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/comandante-petro-ejecute/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/comandante-petro-ejecute/hero.jpg)

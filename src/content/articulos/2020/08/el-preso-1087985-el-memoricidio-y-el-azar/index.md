@@ -5,7 +5,7 @@ pubDate: "2020-08-15 01:25:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/el-preso-1087985-el-memoricidio-y-el-azar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/el-preso-1087985-el-memoricidio-y-el-azar/hero.jpg
 ---
 
 **_«El preso número 9 ya lo van a confesar_** **_Está encerrado en la celda con el cura del penal_** _**Y antes del amanecer la vida le han de quitar»**._

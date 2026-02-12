@@ -5,7 +5,7 @@ pubDate: "2022-08-26 00:42:04"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/la-no-tan-misteriosa-muerte-de-turistas-holandeses/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/la-no-tan-misteriosa-muerte-de-turistas-holandeses/hero.jpg
 ---
 
 ![Aquí el alcalde haciéndole publicidad al Arsenal The Rum Box . Negocio de familia. La muerte de los turistas holandeses ha manchado la reputación de este negocio.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/la-no-tan-misteriosa-muerte-de-turistas-holandeses/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2021-04-13 00:50:06"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/se-entregara-mariamulata-despues-de-la-condena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/se-entregara-mariamulata-despues-de-la-condena/hero.jpg
 ---
 
 \[caption id="attachment\_14536" align="aligncenter" width="1200"\](imagen no disponible) ¿Se entregará Maríamulata? Vivian Eljaiek cayó en la misma cochada. William García debe sentir un fresquito.\[/caption\]

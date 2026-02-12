@@ -5,7 +5,7 @@ pubDate: "2021-05-09 16:26:16"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/insolito-duque-gira-60-billones-a-eps-y-sin-camas-uci-covid-19/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/insolito-duque-gira-60-billones-a-eps-y-sin-camas-uci-covid-19/hero.jpg
 ---
 
 \[caption id="attachment\_14906" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/insolito-duque-gira-60-billones-a-eps-y-sin-camas-uci-covid-19/Johana-Bueno-vacunas-covid-DADIS.jpeg) Dadis y alcaldía de cartagena declararon **¡por fin! la alerta roja**. Una crisis de camas UCI—Covid—19 vive el país.\[/caption\]

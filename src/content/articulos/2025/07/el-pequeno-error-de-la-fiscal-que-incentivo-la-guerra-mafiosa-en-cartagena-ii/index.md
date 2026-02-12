@@ -5,7 +5,7 @@ pubDate: "2025-07-14 03:31:50"
 author: "Lucio"
 categories: ["Destacadas","Investigación","Poder"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/hero.jpg)

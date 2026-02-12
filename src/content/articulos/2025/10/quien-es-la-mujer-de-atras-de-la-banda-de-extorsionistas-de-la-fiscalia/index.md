@@ -5,7 +5,7 @@ pubDate: "2025-11-01 02:23:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/quien-es-la-mujer-de-atras-de-la-banda-de-extorsionistas-de-la-fiscalia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/quien-es-la-mujer-de-atras-de-la-banda-de-extorsionistas-de-la-fiscalia/hero.jpg
 ---
 
 ![¿Quién es «la mujer de atrás» del cartel de la Fiscalía?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/quien-es-la-mujer-de-atras-de-la-banda-de-extorsionistas-de-la-fiscalia/hero.jpg)

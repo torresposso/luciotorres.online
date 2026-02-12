@@ -5,7 +5,7 @@ pubDate: "2023-10-13 01:55:53"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/garavito-el-unico-del-bestiario-colombiano/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/garavito-el-unico-del-bestiario-colombiano/hero.jpg
 ---
 
 ![Una de las últimas fotos de  Luis Alfonso. Murió «La Bestia» que violó y mató a 172 personas](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/garavito-el-unico-del-bestiario-colombiano/hero.jpg)

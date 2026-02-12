@@ -5,7 +5,7 @@ pubDate: "2021-04-24 18:56:24"
 author: "Lucio"
 categories: ["Barranquilla"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/los-ninos-y-la-salud-mental-prioridad-del-atlantico-con-vida/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/los-ninos-y-la-salud-mental-prioridad-del-atlantico-con-vida/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/los-ninos-y-la-salud-mental-prioridad-del-atlantico-con-vida/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2020-02-21 16:24:36"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/la-justicia-me-desampara-trabajadora-de-olimpica/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/la-justicia-me-desampara-trabajadora-de-olimpica/hero.jpg
 ---
 
 \[caption id="attachment\_11176" align="aligncenter" width="508"\]![Jalima](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/la-justicia-me-desampara-trabajadora-de-olimpica/hero.jpg) Después de evitar las agresiones, Jalima pide auxilio. La policía llegó a los 15 minutos. El agresor huyó. Trabaja donde ella rabaja: Olímpica. La justicia tardía.\[/caption\] Recibí una llamada desesperada. En la otra línea, una joven con voz angustiada, me dijo:

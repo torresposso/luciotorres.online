@@ -5,7 +5,7 @@ pubDate: "2023-02-18 14:02:50"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/tutela-contra-minhacienda-por-prestamo-de-usd-100-millones-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/tutela-contra-minhacienda-por-prestamo-de-usd-100-millones-i/hero.jpg
 ---
 
 ![Juez admite tutela contra autorización del préstamo de USD 100 millones.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/tutela-contra-minhacienda-por-prestamo-de-usd-100-millones-i/hero.jpg)

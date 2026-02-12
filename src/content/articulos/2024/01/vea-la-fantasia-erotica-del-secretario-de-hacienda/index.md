@@ -5,7 +5,7 @@ pubDate: "2024-01-11 21:24:15"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/vea-la-fantasia-erotica-del-secretario-de-hacienda/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/vea-la-fantasia-erotica-del-secretario-de-hacienda/hero.jpg
 ---
 
 ![Atlántico para la gente, Iván «el Tigre» Borrero, la fantasía erótica que le frustró su nuevo cargo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/vea-la-fantasia-erotica-del-secretario-de-hacienda/hero.jpg)

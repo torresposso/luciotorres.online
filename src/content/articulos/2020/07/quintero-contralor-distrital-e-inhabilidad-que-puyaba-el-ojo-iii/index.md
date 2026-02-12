@@ -5,7 +5,7 @@ pubDate: "2020-07-18 19:47:28"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/quintero-contralor-distrital-e-inhabilidad-que-puyaba-el-ojo-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/quintero-contralor-distrital-e-inhabilidad-que-puyaba-el-ojo-iii/hero.jpg
 ---
 
 \[caption id="attachment\_12110" align="aligncenter" width="703"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/quintero-contralor-distrital-e-inhabilidad-que-puyaba-el-ojo-iii/hero.jpg) **Fredys Quintero** Contralor Distrital (e) **también estaba inhabilitado**. Los 7 concejales ¡al patíbulo! Se unirán a la «Banda de los 8» de **Dau y Consuegra**. Collage, Melissa Villarreal de www.voxpopuli.digital.\[/caption\]

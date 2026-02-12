@@ -5,7 +5,7 @@ pubDate: "2020-11-26 02:07:20"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/iafic-presenta-denuncia-penal-caso-cynthia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/iafic-presenta-denuncia-penal-caso-cynthia/hero.jpg
 ---
 
 \[caption id="attachment\_13340" align="aligncenter" width="539"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/iafic-presenta-denuncia-penal-caso-cynthia/hero.jpg) El rector de la Corporación Universitaria IAFIC, Fernando Tinoco, presentó denuncia penal por falsedad.\[/caption\] **Fernando Carlos Tinoco Tamara, rector de la Corporación Universitaria IAFIC** —tal como lo había anunciado oportunamente en este medio— presentó, ante la **Fiscalía Seccional,** denuncia penal contra indeterminados. Esto dentro del caso de adulteración y falsedad del **Acta de Grado No 3204** que **Cynthia Pérez Amador** presentó a **Talento Humano del Distrito de Cartagena** con el fin de obtener un contrato de prestación de servicios por **la suma de $72 millone**s. Esta es la segunda denuncia penal por falsedad que envuelve el caso de **Cynthia Pérez Amador**. La primera fue de Ruby Torrejano, ya que le falsificaron su firma en una supuesta certificación de experiencia anexada a la hoja de vida de la Primera Dama. Aunque el alcalde dijo en un video el pasado domingo que Cynthia no iba más, hasta ahora no ha publicado el acto administrativo que declare la liquidación de la OPS No 072 de 2020. Por tanto, sigue siendo Primera Dama.

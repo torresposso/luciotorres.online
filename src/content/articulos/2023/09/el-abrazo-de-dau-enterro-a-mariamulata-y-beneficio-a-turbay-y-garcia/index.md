@@ -5,7 +5,7 @@ pubDate: "2023-09-04 03:37:47"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/el-abrazo-de-dau-enterro-a-mariamulata-y-beneficio-a-turbay-y-garcia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/el-abrazo-de-dau-enterro-a-mariamulata-y-beneficio-a-turbay-y-garcia/hero.jpg
 ---
 
 ![La razón por la que Turbay y García lideran encuestas en Cartagena. ¿La ineptitud de Dau incide sobre las preferencias a la alcaldía?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/el-abrazo-de-dau-enterro-a-mariamulata-y-beneficio-a-turbay-y-garcia/hero.jpg)

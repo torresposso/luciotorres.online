@@ -5,7 +5,7 @@ pubDate: "2025-01-08 13:20:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/hero.jpg
 ---
 
 ![Se fue el profesor Correa del POT de Cartagena. «Muerto el perro ¿se acabaron las pulgas?». POT Participativo y Sostenible para que Dumek no fracase en el intento](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/Dumek_Correa_portada-miniatura.jpeg)

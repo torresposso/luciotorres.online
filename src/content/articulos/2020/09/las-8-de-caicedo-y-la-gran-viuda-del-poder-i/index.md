@@ -5,7 +5,7 @@ pubDate: "2020-09-13 02:17:52"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/09/las-8-de-caicedo-y-la-gran-viuda-del-poder-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/09/las-8-de-caicedo-y-la-gran-viuda-del-poder-i/hero.jpg
 ---
 
 \[caption id="attachment\_12679" align="aligncenter" width="702"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/09/las-8-de-caicedo-y-la-gran-viuda-del-poder-i/hero.jpg) **Las 8 de Caicedo y la «Gran Viuda del Poder»**. Aquí tomando el juramento de la Junta de Educación. (Composición Laura Botett).\[/caption\] Las 8 de Caicedo Omar, el gobernador de **Fuerza Ciudadana**, durante estos primeros 8 meses de gestión **marcó un gran desafío**. En efecto, el coronavirus lo hizo reinventarse y adaptar su plan de desarrollo **«Magdalena Renace»** a las nuevas circunstancias. Pero el desafío más grande que tuvo el temperamental gobernador fue la clase política, ahora calificada como la **«Gran Viuda del Poder»**. En el Magdalena está todo por hacer. Gobernabilidad, gobernanza, desarrollo económico y social. Participación ciudadana. Gestión pública eficiente y eficaz. Educación. Cultura.

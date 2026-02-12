@@ -5,7 +5,7 @@ pubDate: "2020-02-07 15:58:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/char-vargas-y-gerlein-los-capos-del-fraude-electoral-aida-merlano/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/char-vargas-y-gerlein-los-capos-del-fraude-electoral-aida-merlano/hero.jpg
 ---
 
 ## _Estuve en Maracaibo tras el rastro de Aída Merlano. El SEBIN me retuvo temporalmente._

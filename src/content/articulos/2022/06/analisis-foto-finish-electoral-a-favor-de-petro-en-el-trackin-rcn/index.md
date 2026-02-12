@@ -5,7 +5,7 @@ pubDate: "2022-06-09 00:00:34"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/analisis-foto-finish-electoral-a-favor-de-petro-en-el-trackin-rcn/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/analisis-foto-finish-electoral-a-favor-de-petro-en-el-trackin-rcn/hero.jpg
 ---
 
 La campaña presidencial entró en su recta final. **¿Habrá foto finish electoral Petro y Rodolfo este 19 de junio?** Las mediciones solo hablan de una fotografía. Pero la clave para analizarlas es la tendencia que marcan. Así fue lo que se pudo demostrar con los resultados de las elecciones de primera vuelta donde aparentemente hubo la sorpresa de **Rodolfo Hernández**, quien pasó a disputarle la presidencia a **Gustavo Petro.** 

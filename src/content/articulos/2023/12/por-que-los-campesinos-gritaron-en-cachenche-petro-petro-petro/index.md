@@ -5,7 +5,7 @@ pubDate: "2023-12-08 15:45:11"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 tags: ["Cachenche","Daniel Rojas Medellín","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/por-que-los-campesinos-gritaron-en-cachenche-petro-petro-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/por-que-los-campesinos-gritaron-en-cachenche-petro-petro-petro/hero.jpg
 ---
 
 ![El presidente de la Asociación Campesina Montes de Dios, Enaldo Tovar, en diálogo con VoxPopuli Digital. Fueron cuatro años de una lucha justa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/por-que-los-campesinos-gritaron-en-cachenche-petro-petro-petro/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-01-26 22:33:38"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/barranquilla-el-califato-daeschariano-se-hace-insostenible/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/barranquilla-el-califato-daeschariano-se-hace-insostenible/hero.jpg
 ---
 
 ![El Califato Daeschariano se hace insostenible.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/barranquilla-el-califato-daeschariano-se-hace-insostenible/El-Daescharismo.jpeg)

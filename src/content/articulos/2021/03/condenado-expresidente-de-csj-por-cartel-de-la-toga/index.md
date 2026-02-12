@@ -5,7 +5,7 @@ pubDate: "2021-03-10 00:06:11"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/hero.jpg
 ---
 
 ![Condenado expresidente de la CSJ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/ricaurte.jpeg)

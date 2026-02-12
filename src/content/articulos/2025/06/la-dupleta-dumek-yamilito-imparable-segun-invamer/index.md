@@ -5,7 +5,7 @@ pubDate: "2025-06-18 03:19:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/la-dupleta-dumek-yamilito-imparable-segun-invamer/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/la-dupleta-dumek-yamilito-imparable-segun-invamer/hero.jpg
 ---
 
 ![Invamer: Dumek y Yamilito los mejores del Caribe en el mes de junio de 2025.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/la-dupleta-dumek-yamilito-imparable-segun-invamer/hero.jpg)

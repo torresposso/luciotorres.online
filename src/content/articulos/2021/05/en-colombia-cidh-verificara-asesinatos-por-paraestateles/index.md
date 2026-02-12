@@ -5,7 +5,7 @@ pubDate: "2021-05-31 22:58:49"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-cidh-verificara-asesinatos-por-paraestateles/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-cidh-verificara-asesinatos-por-paraestateles/hero.jpg
 ---
 
 \[caption id="attachment\_15206" align="aligncenter" width="1334"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-cidh-verificara-asesinatos-por-paraestateles/hero.jpg) CIDH verificará asesinatos. Esta es la prueba de que usaron armas de fuego del ejército para dispararle a la población civil. Tomado de video de France 24.\[/caption\]

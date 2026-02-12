@@ -5,7 +5,7 @@ pubDate: "2021-11-17 23:20:51"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/la-ruta-del-cimarron-y-el-despojo-en-el-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/la-ruta-del-cimarron-y-el-despojo-en-el-canal-del-dique/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/la-ruta-del-cimarron-y-el-despojo-en-el-canal-del-dique/hero.jpg)

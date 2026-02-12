@@ -5,7 +5,7 @@ pubDate: "2023-09-20 22:57:29"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/venta-ilegal-de-combustible-permite-alcalde-de-lorica-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/venta-ilegal-de-combustible-permite-alcalde-de-lorica-i/hero.jpg
 ---
 
 ![En este vehículo cisterna, al parecer, se transporta combustible en forma ilegal, es decir, sin la respectiva guía. Transporte y venta ilegal de combustibles.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/venta-ilegal-de-combustible-permite-alcalde-de-lorica-i/hero.jpg)

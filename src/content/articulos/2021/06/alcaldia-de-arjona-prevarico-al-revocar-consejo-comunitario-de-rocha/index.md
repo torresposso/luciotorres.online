@@ -5,7 +5,7 @@ pubDate: "2021-06-11 22:24:06"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/alcaldia-de-arjona-prevarico-al-revocar-consejo-comunitario-de-rocha/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/alcaldia-de-arjona-prevarico-al-revocar-consejo-comunitario-de-rocha/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/alcaldia-de-arjona-prevarico-al-revocar-consejo-comunitario-de-rocha/ARJONA-DIHLY.jpeg)

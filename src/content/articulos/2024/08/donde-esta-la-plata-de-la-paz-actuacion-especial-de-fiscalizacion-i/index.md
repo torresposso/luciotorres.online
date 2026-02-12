@@ -5,7 +5,7 @@ pubDate: "2024-08-27 12:44:20"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/donde-esta-la-plata-de-la-paz-actuacion-especial-de-fiscalizacion-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/donde-esta-la-plata-de-la-paz-actuacion-especial-de-fiscalizacion-i/hero.jpg
 ---
 
 ![Los informes de las Contraloría para hablar de la plata de la paz se quedan solo en eso, informes, no en acción fiscal con resultados.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/donde-esta-la-plata-de-la-paz-actuacion-especial-de-fiscalizacion-i/Contraloria_carlos-rodriguez-1024x413.jpeg)

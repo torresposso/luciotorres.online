@@ -5,7 +5,7 @@ pubDate: "2021-12-29 19:34:52"
 author: "Lucio"
 categories: ["Análisis","Opinión","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/revocatoria-en-colombia-dos-caras-de-la-misma-moneda/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/revocatoria-en-colombia-dos-caras-de-la-misma-moneda/hero.jpg
 ---
 
 (imagen no disponible)

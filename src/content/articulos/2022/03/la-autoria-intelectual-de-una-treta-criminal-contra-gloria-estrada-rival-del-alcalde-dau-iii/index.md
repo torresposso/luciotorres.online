@@ -5,7 +5,7 @@ pubDate: "2022-03-12 20:31:09"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-autoria-intelectual-de-una-treta-criminal-contra-gloria-estrada-rival-del-alcalde-dau-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/la-autoria-intelectual-de-una-treta-criminal-contra-gloria-estrada-rival-del-alcalde-dau-iii/hero.jpg
 ---
 
 https://youtu.be/QUadct4TPag

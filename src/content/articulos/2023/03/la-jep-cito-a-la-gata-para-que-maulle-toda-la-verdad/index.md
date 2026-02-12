@@ -5,7 +5,7 @@ pubDate: "2023-03-31 03:10:47"
 author: "Lucio"
 categories: ["Análisis","Investigación","Post Conflicto"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-jep-cito-a-la-gata-para-que-maulle-toda-la-verdad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-jep-cito-a-la-gata-para-que-maulle-toda-la-verdad/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/la-jep-cito-a-la-gata-para-que-maulle-toda-la-verdad/hero.jpg)

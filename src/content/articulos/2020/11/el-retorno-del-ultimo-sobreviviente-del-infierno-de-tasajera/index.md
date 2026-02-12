@@ -5,7 +5,7 @@ pubDate: "2020-11-02 00:50:27"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/el-retorno-del-ultimo-sobreviviente-del-infierno-de-tasajera/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/el-retorno-del-ultimo-sobreviviente-del-infierno-de-tasajera/hero.jpg
 ---
 
 El retorno del último sobreviviente del infierno de Tasajera fue un acontecimiento singular en el corregimiento. El que había muerto regresó con otra visión de la vida y de las cosas. **Mauricio Martínez Rada, 26 años,** retornó del infierno. Regresó a la vida. Y allí están sus heridas. Son las huellas de un guerrero que le ganó la batalla al rey del averno, a la muerte. Se le escapó. Una nueva oportunidad. Nuevos sueños vendrán para el último sobreviviente. Quiere ser licenciado en educación física. Estudió vigilancia y desea trabajar en eso para pagarse sus estudios.

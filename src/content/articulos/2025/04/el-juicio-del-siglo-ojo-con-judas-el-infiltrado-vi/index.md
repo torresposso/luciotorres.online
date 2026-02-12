@@ -5,7 +5,7 @@ pubDate: "2025-04-18 12:23:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-juicio-del-siglo-ojo-con-judas-el-infiltrado-vi/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-juicio-del-siglo-ojo-con-judas-el-infiltrado-vi/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-juicio-del-siglo-ojo-con-judas-el-infiltrado-vi/hero.jpg)

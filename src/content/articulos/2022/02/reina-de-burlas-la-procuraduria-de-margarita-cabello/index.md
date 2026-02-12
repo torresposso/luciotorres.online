@@ -5,7 +5,7 @@ pubDate: "2022-02-16 20:42:24"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/reina-de-burlas-la-procuraduria-de-margarita-cabello/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/reina-de-burlas-la-procuraduria-de-margarita-cabello/hero.jpg
 ---
 
 ![La Procuraduría de Margarita Leonor Cabello Blanco es una «reina de burlas».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/reina-de-burlas-la-procuraduria-de-margarita-cabello/hero.jpg)

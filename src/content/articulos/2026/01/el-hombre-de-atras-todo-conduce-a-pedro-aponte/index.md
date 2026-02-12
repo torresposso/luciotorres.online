@@ -5,7 +5,7 @@ pubDate: "2026-01-22 23:19:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/hero.jpg
 ---
 
 ![Pedro Aponte, el más comprometido del complot contra Gloria Estrada](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/hero.jpg)

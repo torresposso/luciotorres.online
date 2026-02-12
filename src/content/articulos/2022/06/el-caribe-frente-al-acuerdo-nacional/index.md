@@ -5,7 +5,7 @@ pubDate: "2022-06-26 20:53:32"
 author: "Lucio"
 categories: ["Entrevista","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/el-caribe-frente-al-acuerdo-nacional/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/el-caribe-frente-al-acuerdo-nacional/hero.jpg
 ---
 
 Una de las regiones que tiene grandes expectativas sobre el **Acuerdo Nacional es el Caribe**. Esta región históricamente siempre ha acompañado al hoy presidente electo Gustavo Petro Urrego. Con el nuevo mandatario se espera que el Estado pague una deuda histórica por falta de inversión social dirigida a sectores poblacionales marginados. ¿Cómo se pueden integrar las costas y estas poblaciones al desarrollo de la nación?

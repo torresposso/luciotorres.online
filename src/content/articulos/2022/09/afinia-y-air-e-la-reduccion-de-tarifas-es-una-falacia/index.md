@@ -5,7 +5,7 @@ pubDate: "2022-09-25 19:34:43"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/afinia-y-air-e-la-reduccion-de-tarifas-es-una-falacia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/afinia-y-air-e-la-reduccion-de-tarifas-es-una-falacia/hero.jpg
 ---
 
 ![William Murra Babun y Héctor Pérez Fernández le presentaron al presidente Petro la propuesta para reducir las tarifas de AFINIA y AIRE-E. Existen muchas razones para creer que la reducción de tarifas es una falacia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/afinia-y-air-e-la-reduccion-de-tarifas-es-una-falacia/hero.jpg)

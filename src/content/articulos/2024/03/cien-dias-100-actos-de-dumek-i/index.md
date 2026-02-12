@@ -5,7 +5,7 @@ pubDate: "2024-03-20 02:32:55"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 tags: ["Alcaldía de Cartagena","Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cien-dias-100-actos-de-dumek-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cien-dias-100-actos-de-dumek-i/hero.jpg
 ---
 
 ![son 100 actos de Dumek que hablan por sí solos y que inspiran contar la historia.  ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cien-dias-100-actos-de-dumek-i/hero.jpg)

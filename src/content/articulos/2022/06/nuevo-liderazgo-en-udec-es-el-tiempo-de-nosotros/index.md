@@ -5,7 +5,7 @@ pubDate: "2022-06-06 03:04:43"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/nuevo-liderazgo-en-udec-es-el-tiempo-de-nosotros/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/nuevo-liderazgo-en-udec-es-el-tiempo-de-nosotros/hero.jpg
 ---
 
 ![William Malkún jurando por la universidad humana. Nuevo liderazgo comienza 3n la UdeC. Cortesía prensa UdeC.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/nuevo-liderazgo-en-udec-es-el-tiempo-de-nosotros/hero.jpg)

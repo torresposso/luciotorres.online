@@ -5,7 +5,7 @@ pubDate: "2022-06-19 13:01:22"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/las-predicciones-electorales-entre-un-ingeniero-y-un-economista/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/las-predicciones-electorales-entre-un-ingeniero-y-un-economista/hero.jpg
 ---
 
 ![Las predicciones electorales: Rodolfo (49%9 Petro (46%)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/las-predicciones-electorales-entre-un-ingeniero-y-un-economista/hero.jpg)

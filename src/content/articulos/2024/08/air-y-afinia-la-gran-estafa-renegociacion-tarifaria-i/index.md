@@ -5,7 +5,7 @@ pubDate: "2024-08-16 02:24:03"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/air-y-afinia-la-gran-estafa-renegociacion-tarifaria-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/air-y-afinia-la-gran-estafa-renegociacion-tarifaria-i/hero.jpg
 ---
 
 ![El ministro de Minas y Energías y el gobernador Eduardo Verano de la Rosa. Air―e y Afinia ¿se prepara una nueva gran estafa?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/air-y-afinia-la-gran-estafa-renegociacion-tarifaria-i/hero.jpg)

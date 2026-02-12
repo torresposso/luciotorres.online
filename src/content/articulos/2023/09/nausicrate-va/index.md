@@ -5,7 +5,7 @@ pubDate: "2023-09-06 15:22:36"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/nausicrate-va/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/nausicrate-va/hero.jpg
 ---
 
 ![Nusícrate va, "¡no renunciaré!" . ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/nausicrate-va/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2020-03-27 14:46:56"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/mil-contaminados-dejaria-taxista-muerto-por-coronavirus/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/mil-contaminados-dejaria-taxista-muerto-por-coronavirus/hero.jpg
 ---
 
 \[caption id="attachment\_11333" align="aligncenter" width="581"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/mil-contaminados-dejaria-taxista-muerto-por-coronavirus/hero.jpg) **Arnold Ricardo**, el primer muerto del **Covid—19. Dejaría a mil contaminados.**\[/caption\] El 4 de marzo, el taxista **Arnold de Jesús Ricardo Iregui** transportó a dos italianos. No sospechó que ese mismo día comenzó la cuenta regresiva de su muerte y que iba a dejar sembrado el **virus en más de mil contaminados** en Cartagena de Indias. Murió sin saber que tenía coronavirus, sin que lo atendiera un neumólogo en la Clínica Cartagena del Mar de la red hospitalaria de la Eps **Salud Total, y sin ver a sus dos hijos para celebrar sus 58 años el 20 de marzo, pues, su muerte le sobrevino el 16 de este mes**.

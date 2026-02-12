@@ -5,7 +5,7 @@ pubDate: "2024-08-11 04:11:39"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/hero.jpg
 ---
 
 ![«Ipe» y su «olla podrida»

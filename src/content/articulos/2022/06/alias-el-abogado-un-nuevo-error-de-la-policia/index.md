@@ -5,7 +5,7 @@ pubDate: "2022-06-30 00:05:42"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/alias-el-abogado-un-nuevo-error-de-la-policia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/alias-el-abogado-un-nuevo-error-de-la-policia/hero.jpg
 ---
 
 El empresario y comerciante **Álvaro Barrios Díaz** no es alias "el abogado". Precisamente luego de que la policía le solicitara antecedentes, se presentó en la Sijin el 25 de agosto del 2021 acompañado de varios de sus hermanos. Pero se encontró que tenía una orden de captura sindicado de ser del **Clan del Golfo.** Familiares y personas particulares que lo conocen, manifestaron a **VoxPopuli Digital** que es víctima de un **falso positivo** de la Policía y de la Fiscalía.

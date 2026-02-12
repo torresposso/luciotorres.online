@@ -5,7 +5,7 @@ pubDate: "2022-07-18 20:04:36"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/empalme-petro-pide-a-duque-detener-adjudicacion-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/empalme-petro-pide-a-duque-detener-adjudicacion-canal-del-dique/hero.jpg
 ---
 
 La comisión de #empalme de **Gustavo Petro**, dentro de las alertas tempranas, incluyó como prioridad detener la adjudicación del megaproyecto Canal del Dique previsto para el 4 de agosto. Esa petición la hizo en comunicación enviada al Ministro de Hacienda **Juan Manuel Restrepo**. En tanto el gobierno de Duque señaló que hasta ahora han realizado **16 consultas previas**.

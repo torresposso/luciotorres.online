@@ -5,7 +5,7 @@ pubDate: "2024-04-17 03:24:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/revolcon-en-la-fiscalia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/revolcon-en-la-fiscalia/hero.jpg
 ---
 
 ![Este es el equipo de la fiscal Luz Adriana Camargo. ¿Revolcón en la Fiscalía?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/revolcon-en-la-fiscalia/La-Fiscal-y-su-equipo-1024x296.jpeg)

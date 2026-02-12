@@ -5,7 +5,7 @@ pubDate: "2022-07-15 21:15:00"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Post Conflicto","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-oscura-relacion-de-daira-galvis-con-enilce-lopez-paso-a-la-jep-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-oscura-relacion-de-daira-galvis-con-enilce-lopez-paso-a-la-jep-ii/hero.jpg
 ---
 
 ![La relación oscura entre la senadora Daira Galvis y la empresaria Enilce López será esclarecida ante la JEP.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-oscura-relacion-de-daira-galvis-con-enilce-lopez-paso-a-la-jep-ii/hero.jpg)

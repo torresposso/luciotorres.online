@@ -5,7 +5,7 @@ pubDate: "2025-02-05 22:05:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/hero.jpg
 ---
 
 ![En Consejo de Ministros el presidente Petro exigió acelerar el cumplimiento de compromisos. Una verdadera «Conmoción Interior»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/hero.jpg)

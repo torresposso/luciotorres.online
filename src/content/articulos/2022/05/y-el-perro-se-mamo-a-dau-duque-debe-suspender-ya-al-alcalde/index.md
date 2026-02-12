@@ -5,7 +5,7 @@ pubDate: "2022-05-29 03:59:02"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/y-el-perro-se-mamo-a-dau-duque-debe-suspender-ya-al-alcalde/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/y-el-perro-se-mamo-a-dau-duque-debe-suspender-ya-al-alcalde/hero.jpg
 ---
 
 ![y el perro se mamó a Dau](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/y-el-perro-se-mamo-a-dau-duque-debe-suspender-ya-al-alcalde/hero.jpg)

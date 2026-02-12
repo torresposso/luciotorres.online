@@ -5,7 +5,7 @@ pubDate: "2021-02-27 22:41:51"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/02/promigas-firmo-servidumbre-por-2-mil-millones-con-la-sae-en-cachenche/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/02/promigas-firmo-servidumbre-por-2-mil-millones-con-la-sae-en-cachenche/hero.jpg
 ---
 
 \[caption id="attachment\_13961" align="aligncenter" width="1080"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/02/promigas-firmo-servidumbre-por-2-mil-millones-con-la-sae-en-cachenche/hero.jpg) **Eric Flesch,** presidente de Promigas. En el mismo año de su posesión, se firmó la escritura de la servidumbre por $2 mil millones con **errores garrafales**.\[/caption\] **Una servidumbre por $2 mil millones acordó la Sociedad de Activos Especiales SAE con Promigas** para enterrar un tubo de gas. En la escritura se habla de dos hectáreas de uso de la finca Cachenche (Turbana-Bolivar). Pero en realidad el tubo se extiende por casi toda la propiedad, de acuerdo con testimonios de los mismos campesinos. \[caption id="attachment\_13960" align="aligncenter" width="611"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/02/promigas-firmo-servidumbre-por-2-mil-millones-con-la-sae-en-cachenche/ESCRITURA-CACHENCHE.jpeg) La escritura de la **servidumbre por $2 mil millones** firmada por Promigas y SAE **puede ser ilegal.**\[/caption\] Probablemente la concesión de la servidumbre a la empresa Promigas se hizo sin guardar los preceptos legales. El análisis de la escritura pública que surgió para sellar ese convenio así lo indica.

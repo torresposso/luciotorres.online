@@ -5,7 +5,7 @@ pubDate: "2024-07-10 16:46:16"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ricos-empresarios-estafan-al-estado-y-despojan-a-nativos-de-baru-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ricos-empresarios-estafan-al-estado-y-despojan-a-nativos-de-baru-i/hero.jpg
 ---
 
 ![Ricos empresarios estafaron al Estado y despojaron a nativos de Barú. La revista Dinero omitió decir que los dos empresarios estafaron al Estado/Portada de Dinero.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ricos-empresarios-estafan-al-estado-y-despojan-a-nativos-de-baru-i/Gabriel_echavarria_Alejandro_Santo_Domingo-1024x583.jpeg)

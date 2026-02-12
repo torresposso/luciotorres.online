@@ -5,7 +5,7 @@ pubDate: "2022-07-28 03:16:18"
 author: "Lucio"
 categories: ["Análisis","Mi País","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/gerald-meza-en-la-supersalud/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/gerald-meza-en-la-supersalud/hero.jpg
 ---
 
 ![¿Gerald Meza en la Supersalud? Aquí lo vemos monitoreando el corazón a una de sus pacientes.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/gerald-meza-en-la-supersalud/Gerald-Meza-consulta.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2022-05-16 19:41:27"
 author: "Lucio"
 categories: ["Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/investigacion-express-audiencia-en-vivo-caso-gloria-estrada/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/investigacion-express-audiencia-en-vivo-caso-gloria-estrada/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/investigacion-express-audiencia-en-vivo-caso-gloria-estrada/hero.jpg)

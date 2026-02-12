@@ -5,7 +5,7 @@ pubDate: "2022-10-16 22:22:20"
 author: "Lucio"
 categories: ["Análisis","Economía","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/petro-entre-la-rubia-y-la-morena-y-una-economia-distopica/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/petro-entre-la-rubia-y-la-morena-y-una-economia-distopica/hero.jpg
 ---
 
 ![Petro entre la rubia y la morena, y un mundo distópico. Aquí explica su propuesta de estimular la economía popular.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/petro-entre-la-rubia-y-la-morena-y-una-economia-distopica/hero.jpg)

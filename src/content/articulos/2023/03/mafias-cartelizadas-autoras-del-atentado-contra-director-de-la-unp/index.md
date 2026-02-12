@@ -5,7 +5,7 @@ pubDate: "2023-03-09 02:45:36"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/mafias-cartelizadas-autoras-del-atentado-contra-director-de-la-unp/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/mafias-cartelizadas-autoras-del-atentado-contra-director-de-la-unp/hero.jpg
 ---
 
 ![¿«Mafias cartelizadas» anidadas al interior de la UNP?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/mafias-cartelizadas-autoras-del-atentado-contra-director-de-la-unp/hero.jpg)

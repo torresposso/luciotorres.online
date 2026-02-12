@@ -5,7 +5,7 @@ pubDate: "2022-03-07 23:18:20"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/lo-que-podria-suceder-en-las-elecciones-parlamentarias-en-la-costa-caribe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/lo-que-podria-suceder-en-las-elecciones-parlamentarias-en-la-costa-caribe/hero.jpg
 ---
 
 (imagen no disponible)

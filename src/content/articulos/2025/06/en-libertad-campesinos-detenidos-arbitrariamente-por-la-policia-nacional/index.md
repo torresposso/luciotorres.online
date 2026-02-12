@@ -5,7 +5,7 @@ pubDate: "2025-06-06 01:38:15"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/en-libertad-campesinos-detenidos-arbitrariamente-por-la-policia-nacional/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/en-libertad-campesinos-detenidos-arbitrariamente-por-la-policia-nacional/hero.jpg
 ---
 
 ![Así sacaron esposadas con manos atrás a María Cristina Pérez Rodríguez, una de las campesinas. Hoy fue puesta en libertad, Hoy, los campesinos detenidos arbitrariamente por la Policía Nacional, están en libertad.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/en-libertad-campesinos-detenidos-arbitrariamente-por-la-policia-nacional/hero.jpg)

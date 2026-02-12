@@ -5,7 +5,7 @@ pubDate: "2023-02-25 02:04:23"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/hero.jpg
 ---
 
 ![Una cosa es el discurso y otra la praxis. El Gobierno del Cambio está llevando a La Mojana a un desastre social y ambiental mayor.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/hero.jpg)

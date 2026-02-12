@@ -5,7 +5,7 @@ pubDate: "2023-06-17 01:44:21"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tumbar-a-petro-con-fuente-anonima-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tumbar-a-petro-con-fuente-anonima-i/hero.jpg
 ---
 
 ![a máxima es que todo dictador debe ser tumbado por el pueblo ¿Es válido con el caso Petro? ¿Tumbar a Petro con fuente anónima? /Fotomontaje de Semana.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tumbar-a-petro-con-fuente-anonima-i/hero.jpg)

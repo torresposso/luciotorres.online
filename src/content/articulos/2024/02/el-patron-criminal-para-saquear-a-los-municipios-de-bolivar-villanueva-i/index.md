@@ -5,7 +5,7 @@ pubDate: "2024-02-27 12:20:46"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-patron-criminal-para-saquear-a-los-municipios-de-bolivar-villanueva-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-patron-criminal-para-saquear-a-los-municipios-de-bolivar-villanueva-i/hero.jpg
 ---
 
 ![El patrón criminal de los alcaldes de Villanueva (Bolívar), el saliente (Edwin Puerta Orozco, izq.) y el entrante, el famoso «Ipe» que regresa por la olla.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-patron-criminal-para-saquear-a-los-municipios-de-bolivar-villanueva-i/hero.jpg)

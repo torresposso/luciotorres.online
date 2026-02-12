@@ -5,7 +5,7 @@ pubDate: "2024-06-03 02:15:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/dialogo-social-con-organizaciones-de-fe-en-el-caribe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/dialogo-social-con-organizaciones-de-fe-en-el-caribe/hero.jpg
 ---
 
 ![Diálogo Social de Fe con la viceministra para el Diálogo Social, Lilia Solano, próxima directora de la Unidad de Víctimas, en los tiempos de defensora de los derechos humanos, 2018 en Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/dialogo-social-con-organizaciones-de-fe-en-el-caribe/hero.jpg)

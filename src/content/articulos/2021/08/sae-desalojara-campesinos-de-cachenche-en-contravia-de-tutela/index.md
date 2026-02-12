@@ -5,7 +5,7 @@ pubDate: "2021-08-20 21:32:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/sae-desalojara-campesinos-de-cachenche-en-contravia-de-tutela/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/sae-desalojara-campesinos-de-cachenche-en-contravia-de-tutela/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/sae-desalojara-campesinos-de-cachenche-en-contravia-de-tutela/hero.jpg)

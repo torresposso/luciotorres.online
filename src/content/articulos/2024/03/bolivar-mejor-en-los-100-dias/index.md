@@ -5,7 +5,7 @@ pubDate: "2024-04-01 02:53:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Yamil Arana"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/bolivar-mejor-en-los-100-dias/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/bolivar-mejor-en-los-100-dias/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/bolivar-mejor-en-los-100-dias/hero.jpg)

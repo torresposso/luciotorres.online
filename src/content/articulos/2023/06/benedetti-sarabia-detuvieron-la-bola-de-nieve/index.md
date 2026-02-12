@@ -5,7 +5,7 @@ pubDate: "2023-06-03 21:38:53"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/benedetti-sarabia-detuvieron-la-bola-de-nieve/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/benedetti-sarabia-detuvieron-la-bola-de-nieve/hero.jpg
 ---
 
 ![¿Benedetti & Sarabia detuvieron la bola de nieve?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/benedetti-sarabia-detuvieron-la-bola-de-nieve/hero.jpg)

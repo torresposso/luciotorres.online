@@ -5,7 +5,7 @@ pubDate: "2024-07-04 17:39:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/el-presidente-infiel-y-el-arte-del-engano-y-la-prensa-mossad-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/el-presidente-infiel-y-el-arte-del-engano-y-la-prensa-mossad-i/hero.jpg
 ---
 
 ![Una acción propagandística audaz que se convirtió en una cortina de humo para evitar que los medios se centraran en Verónica Alcocer y Laura Sarabia, protagonistas del reciente escándalo que promete ser más explosivos que los anteriores. Petro con su actriz trans](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/el-presidente-infiel-y-el-arte-del-engano-y-la-prensa-mossad-i/Petro_panama.jpeg)

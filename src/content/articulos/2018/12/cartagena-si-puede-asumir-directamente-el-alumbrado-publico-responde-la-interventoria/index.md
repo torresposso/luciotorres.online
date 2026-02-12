@@ -5,7 +5,7 @@ pubDate: "2018-12-16 18:52:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/cartagena-si-puede-asumir-directamente-el-alumbrado-publico-responde-la-interventoria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/cartagena-si-puede-asumir-directamente-el-alumbrado-publico-responde-la-interventoria/hero.jpg
 ---
 
 (./pedrito-vacunando.jpg)

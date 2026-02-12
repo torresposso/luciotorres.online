@@ -5,7 +5,7 @@ pubDate: "2023-07-20 23:57:37"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/hero.jpg
 ---
 
 ![¿Vapeando basuco y reculando? El alcalde zambiloco y la ciudad al garete. Observen la mano izquierda de William Dau, tiene la pipa inhalando lo que al parecer es basuco revuelto con marihuana, sus dos drogas predilectas, según testimonios entregados a VoxPopuli Digital. Captura de pantalla de video/Ahora.In.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/hero.jpg)

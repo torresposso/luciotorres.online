@@ -5,7 +5,7 @@ pubDate: "2021-04-02 03:02:17"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/primera-semana-santa-de-pacho-ricaurte-en-la-carcel/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/primera-semana-santa-de-pacho-ricaurte-en-la-carcel/hero.jpg
 ---
 
 \[caption id="attachment\_14401" align="aligncenter" width="716"\]![La captura de Pacho Ricaurte](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/primera-semana-santa-de-pacho-ricaurte-en-la-carcel/hero.jpg) **Pacho Ricaurte en la cárcel.** No fue otro su destino después de ser acusado por la fiscalía y condenado por el juez Decimo Penal del Circuito de Bogotá. Cortesía.\[/caption\]

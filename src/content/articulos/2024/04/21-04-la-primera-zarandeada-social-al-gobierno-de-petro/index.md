@@ -5,7 +5,7 @@ pubDate: "2024-04-23 03:41:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro","marchas"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/21-04-la-primera-zarandeada-social-al-gobierno-de-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/21-04-la-primera-zarandeada-social-al-gobierno-de-petro/hero.jpg
 ---
 
 ![Medellín, 21/04: La primera zarandeada social al gobierno de Petro. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/21-04-la-primera-zarandeada-social-al-gobierno-de-petro/Marchas_plaza_bolivar_2024.jpeg)

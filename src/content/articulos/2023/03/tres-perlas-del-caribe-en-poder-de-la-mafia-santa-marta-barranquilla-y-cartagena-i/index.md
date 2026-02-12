@@ -5,7 +5,7 @@ pubDate: "2023-03-20 22:38:10"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/tres-perlas-del-caribe-en-poder-de-la-mafia-santa-marta-barranquilla-y-cartagena-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/tres-perlas-del-caribe-en-poder-de-la-mafia-santa-marta-barranquilla-y-cartagena-i/hero.jpg
 ---
 
 > **«**Santa Marta, Barranquilla y Cartagena  

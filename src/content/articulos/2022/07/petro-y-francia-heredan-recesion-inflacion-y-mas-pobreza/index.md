@@ -5,7 +5,7 @@ pubDate: "2022-07-13 00:54:45"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/petro-y-francia-heredan-recesion-inflacion-y-mas-pobreza/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/petro-y-francia-heredan-recesion-inflacion-y-mas-pobreza/hero.jpg
 ---
 
 https://youtu.be/KOm7lG\_9lDg

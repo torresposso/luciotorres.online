@@ -5,7 +5,7 @@ pubDate: "2022-03-10 22:47:06"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/no-disponga-del-galeon-le-dicen-a-la-vicepresidenta-de-colombia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/no-disponga-del-galeon-le-dicen-a-la-vicepresidenta-de-colombia/hero.jpg
 ---
 
 «No disponga del Galeón y su tesoro», le dicen a la vicepresidenta de Colombia, Marta Lucía Ramírez. Ese tesoro, avaluada en más de $200 billones, yace a 600 metros en el lecho marino frente a Cartagena de Indias. Desde la noche del **8 de junio de 1708** se encuentra el tesoro submarino más grande del mundo.  Ella había anunciado que buscarán una firma para rescatar el pecio del San José. Tiene en su panza destrozada un tesoro de 600 metros cúbicos.

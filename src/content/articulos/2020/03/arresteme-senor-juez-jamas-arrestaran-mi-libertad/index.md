@@ -5,7 +5,7 @@ pubDate: "2020-03-06 19:58:02"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/arresteme-senor-juez-jamas-arrestaran-mi-libertad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/arresteme-senor-juez-jamas-arrestaran-mi-libertad/hero.jpg
 ---
 
 \[caption id="attachment\_11140" align="aligncenter" width="501"\]![Sin censura](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/arresteme-senor-juez-jamas-arrestaran-mi-libertad/hero.jpg) **¡Jamás me silenciarán!** Señor juez, tengo 27 preguntas**.  

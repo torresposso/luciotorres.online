@@ -5,7 +5,7 @@ pubDate: "2021-04-27 21:44:49"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/hero.jpg
 ---
 
 \[caption id="attachment\_14707" align="aligncenter" width="1008"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/WILLIAM-DAU-EN-CAIDA.jpeg) **William Dau en caída libre**. Aquí respondiendo al resultado de la encuesta. Lo acompaña el comandante de la MECAR, B.G. Luis Carlos Hernández. La tasa de homicidios aumentó en los dos últimos meses.\[/caption\]

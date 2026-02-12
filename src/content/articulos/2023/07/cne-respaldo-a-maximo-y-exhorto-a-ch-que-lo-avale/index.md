@@ -5,7 +5,7 @@ pubDate: "2023-07-24 02:24:55"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/cne-respaldo-a-maximo-y-exhorto-a-ch-que-lo-avale/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/cne-respaldo-a-maximo-y-exhorto-a-ch-que-lo-avale/hero.jpg
 ---
 
 ![CNE respaldó a Máximo y exhortó a CH que lo avale. El líder con más de 40 años de luchas populares, sigue recorriendo el Atlántico.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/cne-respaldo-a-maximo-y-exhorto-a-ch-que-lo-avale/hero.jpg)

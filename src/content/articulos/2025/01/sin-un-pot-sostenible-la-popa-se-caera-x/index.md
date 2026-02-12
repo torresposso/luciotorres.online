@@ -5,7 +5,7 @@ pubDate: "2025-01-23 14:30:04"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/sin-un-pot-sostenible-la-popa-se-caera-x/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/sin-un-pot-sostenible-la-popa-se-caera-x/hero.jpg
 ---
 
 ![Sin un POT sostenible, la Popa se caerá. La declaratoria de calamidad pública debe implementar de inmediato el Plan de Recuperación de La Popa ordenado por los jueces en primera y segunda instancia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/sin-un-pot-sostenible-la-popa-se-caera-x/Dumek_La_Popa_POT-1024x628.jpeg)

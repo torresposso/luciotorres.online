@@ -5,7 +5,7 @@ pubDate: "2020-04-03 00:36:07"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/covid-19-colombia-los-ricos-se-salvan-los-pobres-se-mueren-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/covid-19-colombia-los-ricos-se-salvan-los-pobres-se-mueren-i/hero.jpg
 ---
 
   \[caption id="attachment\_11360" align="aligncenter" width="478"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/covid-19-colombia-los-ricos-se-salvan-los-pobres-se-mueren-i/hero.jpg) **Mientras la británica** ganaba la batalla al coronavirus, muchos en Colombia la perdían: **Arnold, Juan Carlos Muñoz** y otros. Cortesía Facebook.\[/caption\] **El 8 de marzo** —Día Internacional de la Mujer— pasará a la historia del Coronavirus porque ocurrieron dos hechos en forma silenciosa y simultánea. **Jane\*, la turista británica de 85 años**, la bajaron del **crucero Braemar** (línea Fred Olsen) y la internaron en **Medihelp** con problemas gastrointestinales.  **El taxista Arnold de Jesús Ricardo Iregui, 58 años**, llegó a urgencia de **Salud Total de Santa Lucía** con fiebre y problemas respiratorios. A la británica la atendieron como si fuera la reina **Isabel II**. Al colombiano lo trataron como _**a perro en misa**_. En nuestra sistema de salud **los ricos se salvan, los pobres se mueren.**

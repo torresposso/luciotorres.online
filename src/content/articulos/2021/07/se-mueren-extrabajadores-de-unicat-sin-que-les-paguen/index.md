@@ -5,7 +5,7 @@ pubDate: "2021-07-17 21:56:09"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/se-mueren-extrabajadores-de-unicat-sin-que-les-paguen/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/se-mueren-extrabajadores-de-unicat-sin-que-les-paguen/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/se-mueren-extrabajadores-de-unicat-sin-que-les-paguen/hero.jpg)

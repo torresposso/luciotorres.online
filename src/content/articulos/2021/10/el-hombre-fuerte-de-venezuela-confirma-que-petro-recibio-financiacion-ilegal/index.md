@@ -5,7 +5,7 @@ pubDate: "2021-10-21 00:09:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/el-hombre-fuerte-de-venezuela-confirma-que-petro-recibio-financiacion-ilegal/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/el-hombre-fuerte-de-venezuela-confirma-que-petro-recibio-financiacion-ilegal/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/el-hombre-fuerte-de-venezuela-confirma-que-petro-recibio-financiacion-ilegal/hero.jpg)

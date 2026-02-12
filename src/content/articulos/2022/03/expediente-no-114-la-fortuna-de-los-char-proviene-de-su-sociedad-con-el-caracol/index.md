@@ -5,7 +5,7 @@ pubDate: "2022-03-04 01:13:17"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/expediente-no-114-la-fortuna-de-los-char-proviene-de-su-sociedad-con-el-caracol/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/expediente-no-114-la-fortuna-de-los-char-proviene-de-su-sociedad-con-el-caracol/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/expediente-no-114-la-fortuna-de-los-char-proviene-de-su-sociedad-con-el-caracol/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2021-01-12 13:37:08"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/sangre-y-fuego-en-barranquilla-el-plan-caribe-de-jorge-40/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/sangre-y-fuego-en-barranquilla-el-plan-caribe-de-jorge-40/hero.jpg
 ---
 
 \[caption id="attachment\_13667" align="aligncenter" width="624"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/sangre-y-fuego-en-barranquilla-el-plan-caribe-de-jorge-40/hero.jpg) **«Plan Caribe» de «Jorge 40», Rodrigo Tovar Puppo**, de la alta sociedad de Valledupar. Antes de la guerra le decían el Papa, por ser mamador de gallo. Foto BBC.\[/caption\] ¿Sabías que en Barranquilla y Soledad el paramilitarismo tuvo **«casas de pique»** para desmembrar los cadáveres de sus victimas a fin de que la Policía Metropolitana no las incluyeran en sus estadísticas diarias? ¿Sabías que empresarios, autoridades civiles y militares lo sabían y callaban? ¿Eran cómplices? Así fue la «colonización armada» de Barranquilla por parte del paramilitarismo que llamó  **«Plan Caribe».** Sangre y fuego fueron los ingredientes del **«Plan Caribe». Carlos Mario García,** alias **«Gonzalo**», comandante político de los escuadrones de la muerte en Barranquilla, es un médico egresado de la **Universidad del Norte** y líder de las juventudes del que fuera senador **Dieb Maloof.** Aseguró en Justicia y Paz de que fue la persona que contactó a uno de los líderes financieros de la campaña a la alcaldía de **Guilllermo Hoenigsber**, **Eduardo Losada Manotas**, quien le dijo:

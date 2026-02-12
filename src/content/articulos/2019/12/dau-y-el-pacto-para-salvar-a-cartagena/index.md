@@ -5,7 +5,7 @@ pubDate: "2019-12-31 16:17:11"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/dau-y-el-pacto-para-salvar-a-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/dau-y-el-pacto-para-salvar-a-cartagena/hero.jpg
 ---
 
 Ante la evidente inhabilidad de William Dau Chamat, nuevo alcalde de Cartagena, éste debería explorar la construcción de un Pacto para Salvar a Cartagena. Así no someteríamos a la ciudad a una dictadura de sectores del gobierno central, en contubernio con grupos locales.

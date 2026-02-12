@@ -5,7 +5,7 @@ pubDate: "2023-12-22 04:31:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/pedro-aponte-capo-o-testaferro-el-hombre-de-atras-de-los-3-185-millones/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/pedro-aponte-capo-o-testaferro-el-hombre-de-atras-de-los-3-185-millones/hero.jpg
 ---
 
 ![Pedro Aponte ¿Capo o testaferro?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/pedro-aponte-capo-o-testaferro-el-hombre-de-atras-de-los-3-185-millones/hero.jpg)

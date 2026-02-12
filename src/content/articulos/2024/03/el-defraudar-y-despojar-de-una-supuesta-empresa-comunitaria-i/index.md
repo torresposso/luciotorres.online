@@ -5,7 +5,7 @@ pubDate: "2024-03-15 02:14:27"
 author: "Lucio"
 categories: ["Cartagena","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/el-defraudar-y-despojar-de-una-supuesta-empresa-comunitaria-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/el-defraudar-y-despojar-de-una-supuesta-empresa-comunitaria-i/hero.jpg
 ---
 
 ![Defraudar y despojar no solo es propio de los ricos. Hay abogados con cero en conducta que instrumentalizan a organizaciones comunitarias para enriquecerse. Arroyo de Piedra](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/el-defraudar-y-despojar-de-una-supuesta-empresa-comunitaria-i/hero.jpg)

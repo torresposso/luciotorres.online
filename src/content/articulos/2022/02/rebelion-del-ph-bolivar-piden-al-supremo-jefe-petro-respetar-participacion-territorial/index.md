@@ -5,7 +5,7 @@ pubDate: "2022-02-11 20:44:38"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/rebelion-del-ph-bolivar-piden-al-supremo-jefe-petro-respetar-participacion-territorial/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/rebelion-del-ph-bolivar-piden-al-supremo-jefe-petro-respetar-participacion-territorial/hero.jpg
 ---
 
 (imagen no disponible)

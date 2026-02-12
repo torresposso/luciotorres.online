@@ -5,7 +5,7 @@ pubDate: "2025-03-22 16:44:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-justicia-lo-absolvera-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-justicia-lo-absolvera-ii/hero.jpg
 ---
 
 ![El saboteado juicio a Uribe ¿la justicia lo absolverá?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-justicia-lo-absolvera-ii/hero.jpg)

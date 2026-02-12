@@ -5,7 +5,7 @@ pubDate: "2019-03-14 04:51:44"
 author: "Lucio"
 categories: ["Barranquilla","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/el-muerto-al-hoyo-los-char-yidi-quieren-quedarse-con-mas-de-80-mil-millones-la-herencia-de-farid-char-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/el-muerto-al-hoyo-los-char-yidi-quieren-quedarse-con-mas-de-80-mil-millones-la-herencia-de-farid-char-iv/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/el-muerto-al-hoyo-los-char-yidi-quieren-quedarse-con-mas-de-80-mil-millones-la-herencia-de-farid-char-iv/hero.jpg)

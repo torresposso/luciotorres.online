@@ -5,7 +5,7 @@ pubDate: "2022-05-04 01:41:15"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/denuncias-de-alias-otoniel-las-universidades-podran-pedir-perdon/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/denuncias-de-alias-otoniel-las-universidades-podran-pedir-perdon/hero.jpg
 ---
 
 (imagen no disponible)

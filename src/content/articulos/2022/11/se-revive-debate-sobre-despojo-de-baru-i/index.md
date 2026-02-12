@@ -5,7 +5,7 @@ pubDate: "2022-11-18 14:13:32"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/se-revive-debate-sobre-despojo-de-baru-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/se-revive-debate-sobre-despojo-de-baru-i/hero.jpg
 ---
 
 ![Barú era una península. Luego se convirtió en una isla con la creación del Canal del Dique. Se revive debate sobre despojo de Barú](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/se-revive-debate-sobre-despojo-de-baru-i/playa-blanca.jpeg)

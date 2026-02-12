@@ -5,7 +5,7 @@ pubDate: "2023-07-26 01:54:15"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/uribe-y-los-intocables-quieren-blindarse-ante-mancuso/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/uribe-y-los-intocables-quieren-blindarse-ante-mancuso/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/uribe-y-los-intocables-quieren-blindarse-ante-mancuso/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-05-11 02:44:08"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/anatomia-del-horror-la-declaracion-de-mancuso-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/anatomia-del-horror-la-declaracion-de-mancuso-i/hero.jpg
 ---
 
 ![¡Anatomía del horror! La declaración de Mancuso . /Tomada del video Jep.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/anatomia-del-horror-la-declaracion-de-mancuso-i/hero.jpg)

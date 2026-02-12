@@ -5,7 +5,7 @@ pubDate: "2021-06-25 13:41:01"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/matute-denuncio-entramado-delictivo-que-defraudo-a-170-familias-en-talaigua-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/matute-denuncio-entramado-delictivo-que-defraudo-a-170-familias-en-talaigua-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/matute-denuncio-entramado-delictivo-que-defraudo-a-170-familias-en-talaigua-ii/hero.jpg)

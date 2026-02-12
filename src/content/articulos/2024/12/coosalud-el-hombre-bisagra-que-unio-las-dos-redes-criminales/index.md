@@ -5,7 +5,7 @@ pubDate: "2024-12-23 16:56:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/coosalud-el-hombre-bisagra-que-unio-las-dos-redes-criminales/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/coosalud-el-hombre-bisagra-que-unio-las-dos-redes-criminales/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/coosalud-el-hombre-bisagra-que-unio-las-dos-redes-criminales/Coosalud_junta-directiva-1024x525.jpeg)

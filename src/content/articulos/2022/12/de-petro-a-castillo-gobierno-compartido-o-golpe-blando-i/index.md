@@ -5,7 +5,7 @@ pubDate: "2022-12-11 22:01:55"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/de-petro-a-castillo-gobierno-compartido-o-golpe-blando-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/de-petro-a-castillo-gobierno-compartido-o-golpe-blando-i/hero.jpg
 ---
 
 ![De Petro a Castillo ¿gobierno compartido o golpe de Estado blando? Cortesía AFP.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/de-petro-a-castillo-gobierno-compartido-o-golpe-blando-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-09-01 21:42:41"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/veedor-amenazado-captura-en-camara-a-sospechoso/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/veedor-amenazado-captura-en-camara-a-sospechoso/hero.jpg
 ---
 
 ![Veedor amenazado captura en cámara a sospechoso que tomaba foto y grababa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/veedor-amenazado-captura-en-camara-a-sospechoso/hero.jpg)

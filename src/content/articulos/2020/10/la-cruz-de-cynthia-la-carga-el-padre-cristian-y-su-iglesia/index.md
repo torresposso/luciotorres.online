@@ -5,7 +5,7 @@ pubDate: "2020-10-25 02:48:35"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/la-cruz-de-cynthia-la-carga-el-padre-cristian-y-su-iglesia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/la-cruz-de-cynthia-la-carga-el-padre-cristian-y-su-iglesia/hero.jpg
 ---
 
 LA CRUZ DE CYNTHIA Y DE MONSEÑOR

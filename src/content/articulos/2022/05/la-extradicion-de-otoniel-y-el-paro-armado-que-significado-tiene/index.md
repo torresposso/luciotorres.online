@@ -5,7 +5,7 @@ pubDate: "2022-05-07 00:22:36"
 author: "Lucio"
 categories: ["Análisis","Podcast","Post Conflicto","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-extradicion-de-otoniel-y-el-paro-armado-que-significado-tiene/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-extradicion-de-otoniel-y-el-paro-armado-que-significado-tiene/hero.jpg
 ---
 
 ![La extradición de «Otoniel». Cuando era reseñado antes de partir a una cárcel de Nueva York. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-extradicion-de-otoniel-y-el-paro-armado-que-significado-tiene/hero.jpg)

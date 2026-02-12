@@ -5,7 +5,7 @@ pubDate: "2021-05-04 00:25:43"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/papa-dau-le-echo-el-esmad-a-sus-hijos-por-protestarpapa-dau-le-echo-el-esmad-a-sus-hijos-por-protestar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/papa-dau-le-echo-el-esmad-a-sus-hijos-por-protestarpapa-dau-le-echo-el-esmad-a-sus-hijos-por-protestar/hero.jpg
 ---
 
 \[caption id="attachment\_14809" align="aligncenter" width="461"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/papa-dau-le-echo-el-esmad-a-sus-hijos-por-protestarpapa-dau-le-echo-el-esmad-a-sus-hijos-por-protestar/hero.jpg) Mientras el ESMAD maltrata a sus «hijos», el «papá Dau» observa con los brazos atrás. Tomado de video.\[/caption\]

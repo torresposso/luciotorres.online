@@ -5,7 +5,7 @@ pubDate: "2022-05-06 14:41:33"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-muerte-de-la-mona-del-tinto-en-puerto-colombia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-muerte-de-la-mona-del-tinto-en-puerto-colombia/hero.jpg
 ---
 
 ![La «Mona» del tinto, Ruth Mary Carroz, asesinada por sicarios en Puerto Colombia. La «Mona» del tinto, Ruth Mary Carroz](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-muerte-de-la-mona-del-tinto-en-puerto-colombia/hero.jpg)

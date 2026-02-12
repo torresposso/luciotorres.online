@@ -5,7 +5,7 @@ pubDate: "2018-10-18 05:24:55"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/prosegur-esta-violando-los-derechos-humanos-de-sus-trabajadores-en-colombia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/prosegur-esta-violando-los-derechos-humanos-de-sus-trabajadores-en-colombia/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/prosegur-esta-violando-los-derechos-humanos-de-sus-trabajadores-en-colombia/hero.jpg)

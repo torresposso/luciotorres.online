@@ -5,7 +5,7 @@ pubDate: "2024-08-06 03:24:40"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/los-intocables-casi-acaban-con-palmeras-de-la-costa-xiii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/los-intocables-casi-acaban-con-palmeras-de-la-costa-xiii/hero.jpg
 ---
 
 ![Palmeras de la Costa hace esfuerzo por superar las consecuencias de haber sufrido la infiltración del paramilitarismo. Aquí se comprometen por el trabajo decente a través de un pacto con los trabajadores.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/los-intocables-casi-acaban-con-palmeras-de-la-costa-xiii/hero.jpg)

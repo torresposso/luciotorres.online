@@ -5,7 +5,7 @@ pubDate: "2023-07-08 22:04:39"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/hero.jpg)

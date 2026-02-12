@@ -5,7 +5,7 @@ pubDate: "2025-07-05 17:25:59"
 author: "Lucio"
 categories: ["Ahora"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/capturaron-al-costeno-con-drones/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/capturaron-al-costeno-con-drones/hero.jpg
 ---
 
 ![Capturaron al ‘Costeño’ con drones ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/capturaron-al-costeno-con-drones/hero.jpg)

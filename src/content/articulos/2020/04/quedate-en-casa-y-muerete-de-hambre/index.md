@@ -5,7 +5,7 @@ pubDate: "2020-04-04 04:40:06"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/quedate-en-casa-y-muerete-de-hambre/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/quedate-en-casa-y-muerete-de-hambre/hero.jpg
 ---
 
 \[caption id="attachment\_11370" align="aligncenter" width="447"\]![Comparendo a los más pendejos](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/quedate-en-casa-y-muerete-de-hambre/hero.jpg) **El comparendo de Duque y Dau**. Aquí se observa cuando en la avenida El Lago, a la altura del mercado de Bazurto de Cartagena, la policía en compañía de Espacio Público y la Secretaría del Interior detienen a un grupo de carretilleros para imponer un comparendo y decomisar su plante. ¡Quédate en casa para estos trabajadores era condenarlos a padecer hambre. **Cortesía Bonifacio Bony Ávila**.\[/caption\] **¡Quédate en casa... y muérete de hambre!** La realidad es que en Colombia 10 millones de trabajadores informales están **_cruzando el Niágara en bicicleta_**. Lo más grave, son víctimas de medidas punitivas y coercitivas cuando salen a las calles a sobrevivir. **Alcira Ramírez, 45 años**, tenía una venta de minutos de celulares en una esquina de la avenida El Consulado a la altura del barrio España de Cartagena. En un día bueno se podía ganar $30 mil y llevarle el pan de cada día a sus dos hijas. ¿Quién le puede ayudar ahora en estos días de cuarentena que no recibe nada? Si sale, corre el riesgo de que le pongan un comparendo y se la lleven a la estación de policía, como le ha sucedido a miles de _trabajadores independientes_.

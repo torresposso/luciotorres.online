@@ -5,7 +5,7 @@ pubDate: "2021-04-03 00:40:47"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-estado-critico-con-covid-olga-amel-sed-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-estado-critico-con-covid-olga-amel-sed-cartagena/hero.jpg
 ---
 
 \[caption id="attachment\_14423" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-estado-critico-con-covid-olga-amel-sed-cartagena/Olga-Acosta-Amel-y-Viviana-Londono.jpeg) **En estado crítico con Covid está Olga Acosta.** Aquí con **Viviana Londoño** del IDER. Recomendó la suspensión de la alternancia antes de que entrara a UCI.\[/caption\]

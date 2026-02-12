@@ -5,7 +5,7 @@ pubDate: "2021-01-02 20:23:57"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/la-region-caribe-tiene-el-179-de-la-inversion-nacional-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/la-region-caribe-tiene-el-179-de-la-inversion-nacional-ii/hero.jpg
 ---
 
 \[caption id="attachment\_13597" align="aligncenter" width="960"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/la-region-caribe-tiene-el-179-de-la-inversion-nacional-ii/hero.jpg) En la Región Caribe, **Bolívar** logró el mayor rubro para inversión en el 2021. Aquí la senadora conservadora **Nadia Blel** con su hermano, **Vicente Blel Scaff,** gobernador de Bolívar. Este departamento tiene una asignación de $1.9 billones.\[/caption\] Un hecho relevante para la **Región Caribe** en este 2020, es que la **Bancada Caribe** —el 30% del congreso— logró la asignación de **$10,4 billones** para la inversión del 2021. Esto quiere decir, que recibirá **el 17,9%** de la inversión total del Presupuesto General de la Nación (PGN) 2021. Bolívar fue el departamento que más recibió: **$1.9 billones**. ¿Cómo se invertirán esos recursos? De la misma manera, surgen otras preguntas. ¿Es proporcional el porcentaje obtenido de la inversión total con la participación poblacional y parlamentaria de la región? ¿Podrán los congresistas costeños hacer valer la inversión de los **$10,4 billones?** Cabe destacar que el presupuesto de inversiones previsto para el 2021 es de **$58,6 billones**. Los parlamentarios del Caribe lograron para la región el 17,9% de esa cifra. Al respecto, **Efraím Cepeda Sarabia**, senador conservador y uno de los ponentes del proyecto de presupuesto, dijo:

@@ -5,7 +5,7 @@ pubDate: "2021-06-17 19:46:51"
 author: "Lucio"
 categories: ["Barranquilla"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-atlantico-reactivacion-economica-con-sus-116-anos-y-mucho-colorido/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-atlantico-reactivacion-economica-con-sus-116-anos-y-mucho-colorido/hero.jpg
 ---
 
 La reactivación económica, social y cultural, liderada por la Gobernación del Atlántico, a través de la campaña **'Ven Vive Barranquilla, Vive Atlántico',** se inició con la celebración de los 116 años del departamento. El aniversario convocó de manera alterna a los atlanticenses a través de las plataformas digitales. Tuvo un alcance de más de 17 mil espectadores, según informó la oficina de prensa.

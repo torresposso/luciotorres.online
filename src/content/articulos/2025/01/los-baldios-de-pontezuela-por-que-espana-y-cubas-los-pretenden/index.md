@@ -5,7 +5,7 @@ pubDate: "2025-01-25 02:28:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/Alvaro-Luis-Cubas-Montes.jpeg)

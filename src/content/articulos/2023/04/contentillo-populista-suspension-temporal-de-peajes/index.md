@@ -5,7 +5,7 @@ pubDate: "2023-04-16 15:33:25"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/contentillo-populista-suspension-temporal-de-peajes/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/contentillo-populista-suspension-temporal-de-peajes/hero.jpg
 ---
 
 ![Fungiendo de anfitrión, el gobernador de Bolívar, Vicente Blel, abrió la sesión para escuchar al ministro de Transporte Guillermo Reyes y al presidente dela ANI, William Camargo Triana. ¿Contentillo populista? suspensión temporal de peajes](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/contentillo-populista-suspension-temporal-de-peajes/hero.jpg)

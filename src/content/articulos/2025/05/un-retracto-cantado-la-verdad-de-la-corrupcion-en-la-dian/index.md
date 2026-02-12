@@ -5,7 +5,7 @@ pubDate: "2025-05-04 15:49:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/un-retracto-cantado-la-verdad-de-la-corrupcion-en-la-dian/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/un-retracto-cantado-la-verdad-de-la-corrupcion-en-la-dian/hero.jpg
 ---
 
 ![Un retracto cantado ¿La verdad de la corrupción en la DIAN?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/un-retracto-cantado-la-verdad-de-la-corrupcion-en-la-dian/hero.jpg)

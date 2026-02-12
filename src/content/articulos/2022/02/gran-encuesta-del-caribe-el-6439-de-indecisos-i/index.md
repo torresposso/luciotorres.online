@@ -5,7 +5,7 @@ pubDate: "2022-02-16 04:43:49"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/gran-encuesta-del-caribe-el-6439-de-indecisos-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/gran-encuesta-del-caribe-el-6439-de-indecisos-i/hero.jpg
 ---
 
 ![El 39,48% no sabría por quien votar, según la Segunda Gran Encuesta.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/gran-encuesta-del-caribe-el-6439-de-indecisos-i/hero.jpg)

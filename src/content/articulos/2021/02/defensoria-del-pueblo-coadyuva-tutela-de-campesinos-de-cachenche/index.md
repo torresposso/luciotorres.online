@@ -5,7 +5,7 @@ pubDate: "2021-02-23 22:58:31"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/02/defensoria-del-pueblo-coadyuva-tutela-de-campesinos-de-cachenche/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/02/defensoria-del-pueblo-coadyuva-tutela-de-campesinos-de-cachenche/hero.jpg
 ---
 
 \[caption id="attachment\_13927" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/02/defensoria-del-pueblo-coadyuva-tutela-de-campesinos-de-cachenche/hero.jpg) Defensoría del Pueblo coadyuva tutela de los campesinos de Cachenche. Cortesía.\[/caption\] La Defensoría del Pueblo coadyuva tutela para la defensa de los derechos fundamentales de 220  campesinos de Cachenche que la Sociedad de Activos Especiales—SAE **pretende desalojarlos**. Dos de los derechos fundamentales comprometidos son el **debido proceso** y el **mínimo vital** que se verían comprometidos si se ejecuta esa orden de desalojo señalados en el oficio **No CS 2021-002390.** Tal desalojo estaba previsto para el pasado 16 de febrero. Pero una medida provisional del Juez Promiscuo del municipio de Turbana detuvo esa decisión firmada por el director regional de la SAE, **Juan Pablo Valbuena Anaya**. El juez también ofició a diferentes entidades con el fin de establecer el papel de cada una de ellas. Pero, sobre todo, debe sopesar el respecto de los derechos fundamentales que alegan los representados de las familias involucradas en esta situación.

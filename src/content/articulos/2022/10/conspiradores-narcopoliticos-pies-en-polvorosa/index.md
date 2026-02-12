@@ -5,7 +5,7 @@ pubDate: "2022-10-20 18:37:05"
 author: "Lucio"
 categories: ["Análisis","Investigación","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/conspiradores-narcopoliticos-pies-en-polvorosa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/conspiradores-narcopoliticos-pies-en-polvorosa/hero.jpg
 ---
 
 ![¿Conspiradores narcopolíticos? Caso Gloria Estrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/conspiradores-narcopoliticos-pies-en-polvorosa/hero.jpg)

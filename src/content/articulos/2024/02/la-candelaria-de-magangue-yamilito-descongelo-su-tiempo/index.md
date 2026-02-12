@@ -5,7 +5,7 @@ pubDate: "2024-02-01 11:23:48"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/la-candelaria-de-magangue-yamilito-descongelo-su-tiempo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/la-candelaria-de-magangue-yamilito-descongelo-su-tiempo/hero.jpg
 ---
 
 ![Yamilito descongeló el tiempo en La Candelaria de Magangué](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/la-candelaria-de-magangue-yamilito-descongelo-su-tiempo/hero.jpg)

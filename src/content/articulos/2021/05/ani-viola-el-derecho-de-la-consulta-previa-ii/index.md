@@ -5,7 +5,7 @@ pubDate: "2021-05-29 20:27:38"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/ani-viola-el-derecho-de-la-consulta-previa-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/ani-viola-el-derecho-de-la-consulta-previa-ii/hero.jpg
 ---
 
 \[caption id="attachment\_15133" align="aligncenter" width="800"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/ani-viola-el-derecho-de-la-consulta-previa-ii/MANUEL-FELIPE.jpeg) Un grupo de la ANI, liderado por **Manuel Felipe Gutiérrez**. ¿Sabrá que Guizamano recibió los $260 millones de la consulta previa de El Recreo?\[/caption\]

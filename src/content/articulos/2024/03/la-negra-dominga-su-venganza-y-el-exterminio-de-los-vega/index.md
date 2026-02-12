@@ -5,7 +5,7 @@ pubDate: "2024-03-02 00:53:24"
 author: "Lucio"
 categories: ["Barranquilla","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/la-negra-dominga-su-venganza-y-el-exterminio-de-los-vega/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/la-negra-dominga-su-venganza-y-el-exterminio-de-los-vega/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/la-negra-dominga-su-venganza-y-el-exterminio-de-los-vega/hero.jpg)

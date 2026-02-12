@@ -5,7 +5,7 @@ pubDate: "2024-03-22 13:50:40"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/hero.jpg
 ---
 
 !["No soy un tirano. (...) estábamos en la bobería", presidente Petro](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/Petro_SanOnofre-1024x575.jpeg)

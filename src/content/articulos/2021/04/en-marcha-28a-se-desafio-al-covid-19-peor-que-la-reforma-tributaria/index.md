@@ -5,7 +5,7 @@ pubDate: "2021-04-28 23:18:45"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-marcha-28a-se-desafio-al-covid-19-peor-que-la-reforma-tributaria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-marcha-28a-se-desafio-al-covid-19-peor-que-la-reforma-tributaria/hero.jpg
 ---
 
 \[caption id="attachment\_14725" align="aligncenter" width="675"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-marcha-28a-se-desafio-al-covid-19-peor-que-la-reforma-tributaria/hero.jpg) **La Gran Marcha 28A**. Las principales ciudades se sumaron al Paro Nacional.\[/caption\]

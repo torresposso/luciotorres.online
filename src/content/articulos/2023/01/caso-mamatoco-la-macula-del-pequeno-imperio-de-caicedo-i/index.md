@@ -5,7 +5,7 @@ pubDate: "2023-01-10 03:01:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/hero.jpg
 ---
 
 ![Caso Mamatoco, un monumento de la corrupción de Fuerza Ciudadana. Aquí está la evidencia. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/hero.jpg)

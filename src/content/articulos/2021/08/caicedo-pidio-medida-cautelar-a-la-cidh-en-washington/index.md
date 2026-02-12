@@ -5,7 +5,7 @@ pubDate: "2021-08-26 00:16:52"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/caicedo-pidio-medida-cautelar-a-la-cidh-en-washington/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/caicedo-pidio-medida-cautelar-a-la-cidh-en-washington/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/caicedo-pidio-medida-cautelar-a-la-cidh-en-washington/hero.jpg)

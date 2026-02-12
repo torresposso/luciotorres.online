@@ -5,7 +5,7 @@ pubDate: "2023-04-13 03:08:47"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/garcia-y-espana-trascendieron-lo-material/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/garcia-y-espana-trascendieron-lo-material/hero.jpg
 ---
 
 ![Eduardo García y Rogelio España, trascendieron lo material.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/garcia-y-espana-trascendieron-lo-material/hero.jpg)

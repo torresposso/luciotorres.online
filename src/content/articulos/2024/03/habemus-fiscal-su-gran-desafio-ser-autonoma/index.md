@@ -5,7 +5,7 @@ pubDate: "2024-03-12 20:37:34"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/habemus-fiscal-su-gran-desafio-ser-autonoma/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/habemus-fiscal-su-gran-desafio-ser-autonoma/hero.jpg
 ---
 
 !["¡Hebemus fiscal", pareciera decir Luz Adriana Camargo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/habemus-fiscal-su-gran-desafio-ser-autonoma/hero.jpg)

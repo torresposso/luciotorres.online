@@ -5,7 +5,7 @@ pubDate: "2024-03-25 15:50:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/yo-voy-a-mandar-la-fiscal-al-presidente-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/yo-voy-a-mandar-la-fiscal-al-presidente-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/yo-voy-a-mandar-la-fiscal-al-presidente-i/Luz_Adriana_Camargo_Gustavo_Petro-1024x826.jpeg)

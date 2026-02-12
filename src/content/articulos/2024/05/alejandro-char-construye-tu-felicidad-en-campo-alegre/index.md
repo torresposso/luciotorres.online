@@ -5,7 +5,7 @@ pubDate: "2024-05-06 03:26:22"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Alejandro Char"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/alejandro-char-construye-tu-felicidad-en-campo-alegre/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/alejandro-char-construye-tu-felicidad-en-campo-alegre/hero.jpg
 ---
 
 ![La entrada de la casa de “Alejandro Char construye tu felicidad” en Campo Alegre.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/alejandro-char-construye-tu-felicidad-en-campo-alegre/alejandro_Char_campoi_alegre.jpeg)

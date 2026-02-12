@@ -5,7 +5,7 @@ pubDate: "2024-12-25 14:23:55"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/salario-minimo-954-oportunidad-para-empresarios-progresistas/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/salario-minimo-954-oportunidad-para-empresarios-progresistas/hero.jpg
 ---
 
 ![Salario mínimo 9,54%: Oportunidad para empresarios progresistas.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/salario-minimo-954-oportunidad-para-empresarios-progresistas/Gustavo-Petro_salario-1024x573.jpeg)

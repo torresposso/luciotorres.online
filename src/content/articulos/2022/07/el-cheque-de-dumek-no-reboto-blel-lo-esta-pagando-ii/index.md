@@ -5,7 +5,7 @@ pubDate: "2022-07-07 00:14:01"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/el-cheque-de-dumek-no-reboto-blel-lo-esta-pagando-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/el-cheque-de-dumek-no-reboto-blel-lo-esta-pagando-ii/hero.jpg
 ---
 
 El cheque de Dumek no rebotó, Blel lo está pagando como un monje. Pero la deuda de la gobernación de Bolívar con la **Universidad de Cartagena** se mantiene aproximadamente en **$126 mil millones**, tal como lo revelamos en la primera entrega de este análisis. Mas lo que dijimos sobre el cheque de Dumek (convenio de pago de **$120 mil millones**) que había rebotado a tres bandas como una pelota de caucho, fue un **_lapsus calami._** Aclaro: La administración de **Vicente Blel** lo está pagando, tal como lo revelamos en este artículo.

@@ -5,7 +5,7 @@ pubDate: "2020-09-27 02:22:42"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/09/el-mundo-en-tus-manos-era-virtual-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/09/el-mundo-en-tus-manos-era-virtual-ii/hero.jpg
 ---
 
 (imagen no disponible) Estamos en el principio de  una nueva era tan importante como la **Era Industrial** donde la máquina de vapor revolucionó todo. **El coronavirus exacerbó el movimiento de las placas tectónicas de la humanidad.** Si bien no parió la era, fue su partera. La recibió en sus brazos. La hizo visible para la mayoría de la población. El mundo en tus manos es la característica principal de la Era Virtual. Pero el problema es que los seres humanos no somos conscientes de ese poder. Pues, el mundo está en tus manos... y no lo sabes. No vamos a discutir la datación inicial de la **Era Virtual** que llegó para quedarse. **Puso el mundo en tus manos.** Quedó atrás el siglo XX lleno de holocaustos y, al mismo tiempo, de grandes inventos para el desarrollo de la humanidad. Se conquistó el gran discurso de los derechos humanos. El siglo cerró con la caída estrepitosa  (1989) del **Muro de Berlín** y la vaporización de una utopía iniciada con la [Revolución de Octubre (1917)](https://luciotorres.local/wiki/Revoluci%C3%B3n_de_Octubre).

@@ -5,7 +5,7 @@ pubDate: "2022-04-05 02:25:28"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/fico-tendra-oxigeno-para-alcanzar-a-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/fico-tendra-oxigeno-para-alcanzar-a-petro/hero.jpg
 ---
 
 ![¿«Fico» tendrá oxígeno para alcanzar a Petro?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/fico-tendra-oxigeno-para-alcanzar-a-petro/hero.jpg)

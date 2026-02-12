@@ -5,7 +5,7 @@ pubDate: "2021-06-19 00:02:40"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/el-comite-de-paro-nos-da-verguenza-gritan-los-jovenes-en-las-calles/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/el-comite-de-paro-nos-da-verguenza-gritan-los-jovenes-en-las-calles/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/el-comite-de-paro-nos-da-verguenza-gritan-los-jovenes-en-las-calles/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2021-11-28 19:09:24"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/murio-michi-pero-sigue-vivo-tibiri-el-ultimo-pelayero/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/murio-michi-pero-sigue-vivo-tibiri-el-ultimo-pelayero/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/murio-michi-pero-sigue-vivo-tibiri-el-ultimo-pelayero/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-01-29 20:11:58"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/jorge-40-en-la-jep-dejo-de-ser-un-fantasma-del-clan-daes-char-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/jorge-40-en-la-jep-dejo-de-ser-un-fantasma-del-clan-daes-char-ii/hero.jpg
 ---
 
 ![«Jorge 40» en la JEP dejó de ser un fantasma del Clan Daes—Char para convertirse en la farsa de la gestión de paz del alto gobierno](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/jorge-40-en-la-jep-dejo-de-ser-un-fantasma-del-clan-daes-char-ii/hero.jpg)

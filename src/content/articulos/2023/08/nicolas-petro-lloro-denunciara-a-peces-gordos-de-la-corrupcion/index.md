@@ -5,7 +5,7 @@ pubDate: "2023-08-02 02:42:41"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/nicolas-petro-lloro-denunciara-a-peces-gordos-de-la-corrupcion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/nicolas-petro-lloro-denunciara-a-peces-gordos-de-la-corrupcion/hero.jpg
 ---
 
 ![Nicolás Petro lloró

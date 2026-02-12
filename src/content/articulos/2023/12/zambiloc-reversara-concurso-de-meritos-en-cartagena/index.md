@@ -5,7 +5,7 @@ pubDate: "2023-12-30 01:20:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/zambiloc-reversara-concurso-de-meritos-en-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/zambiloc-reversara-concurso-de-meritos-en-cartagena/hero.jpg
 ---
 
 ![El Zambiloco se fumó todo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/zambiloc-reversara-concurso-de-meritos-en-cartagena/hero.jpg)

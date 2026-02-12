@@ -5,7 +5,7 @@ pubDate: "2018-12-04 14:20:09"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/quien-llorara-al-viejo-nico-el-ultimo-cacique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/quien-llorara-al-viejo-nico-el-ultimo-cacique/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/quien-llorara-al-viejo-nico-el-ultimo-cacique/hero.jpg)

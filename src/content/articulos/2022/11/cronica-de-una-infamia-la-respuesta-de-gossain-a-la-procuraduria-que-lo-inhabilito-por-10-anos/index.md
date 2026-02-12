@@ -5,7 +5,7 @@ pubDate: "2022-11-02 03:46:42"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/cronica-de-una-infamia-la-respuesta-de-gossain-a-la-procuraduria-que-lo-inhabilito-por-10-anos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/cronica-de-una-infamia-la-respuesta-de-gossain-a-la-procuraduria-que-lo-inhabilito-por-10-anos/hero.jpg
 ---
 
 ![Las compañeras de infortunio de Juan Carlos Gossaín que resume. La Crónica de de Gossaín.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/cronica-de-una-infamia-la-respuesta-de-gossain-a-la-procuraduria-que-lo-inhabilito-por-10-anos/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2020-03-07 01:06:41"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/gravima-conducta-del-exalcalde-de-el-carmen-de-bolivar-en-el-acueducto-de-caracoli/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/gravima-conducta-del-exalcalde-de-el-carmen-de-bolivar-en-el-acueducto-de-caracoli/hero.jpg
 ---
 
 \[caption id="attachment\_11235" align="aligncenter" width="644"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/gravima-conducta-del-exalcalde-de-el-carmen-de-bolivar-en-el-acueducto-de-caracoli/hero.jpg) Falta gravísima la de **Pacho Vega**, exalcalde de El Carmen de Bolívar. Aquí con el presidente Juan Manuel Santos y el gobernador de Bolívar, Juan Gossaín inaugurando un acueducto fantasma. Cortesía.\[/caption\] La Procuraduría General de la Nación formuló pliego de corgos contra el exalcalde de El Carmen de Bolívar, **Francisco _Pacho_ Vega Arrauth.** La medida también cobija a  su Secretario de Planeación y supervisor del contrato, **Mario José Melo Villa**, y al exinterventor de las obras de acueducto del municipio de Caracolí, **Winston Hernández Anaya**. **La conducta fue calificada como gravísima a título de culpa gravísima**. El meollo del problema es la construcción del acueducto de Caracolí, corregimiento de El Carmen de Bolívar, cuyo análisis realizamos en 2017 e informamos en varios artículos, como [Pacho Vega, exalcalde de El Carmen, y Poldino, gerente de Sayco, por un acueducto en el aire, ¡a la cárcel!](./) También publicamos [Por un acueducto en el aire, el compositor Poldino Posteraro, presidente de Sayco, cantará en el búnker de la fiscalía.](./) En este último artículo dijimos:

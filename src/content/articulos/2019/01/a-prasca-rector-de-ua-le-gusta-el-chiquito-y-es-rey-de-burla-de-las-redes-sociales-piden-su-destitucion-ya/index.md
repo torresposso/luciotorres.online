@@ -5,7 +5,7 @@ pubDate: "2019-02-01 03:29:29"
 author: "Lucio"
 categories: ["Análisis","Barranquilla"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/hero.jpg)

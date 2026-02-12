@@ -5,7 +5,7 @@ pubDate: "2025-09-07 22:40:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/un-exalcalde-adicto-al-senado/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/un-exalcalde-adicto-al-senado/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/un-exalcalde-adicto-al-senado/hero.jpg)

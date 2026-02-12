@@ -5,7 +5,7 @@ pubDate: "2024-04-10 03:50:56"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/a-juicio-alvaro-uribe-por-coparticipacion-criminal/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/a-juicio-alvaro-uribe-por-coparticipacion-criminal/hero.jpg
 ---
 
 ![A juicio Álvaro Uribe por coparticipación criminal.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/a-juicio-alvaro-uribe-por-coparticipacion-criminal/Uribe_.jpeg)

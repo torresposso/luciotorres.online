@@ -5,7 +5,7 @@ pubDate: "2025-02-09 19:13:20"
 author: "Lucio"
 categories: ["Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/en-la-noche-triste-de-petro-la-izquierda-perdio-el-gobierno-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/en-la-noche-triste-de-petro-la-izquierda-perdio-el-gobierno-iii/hero.jpg
 ---
 
 ![n la «noche triste» de Petro, la izquierda perdió el gobierno, Euclides y sus socios los Alcocer, se tomaron el poder](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/en-la-noche-triste-de-petro-la-izquierda-perdio-el-gobierno-iii/hero.jpg)

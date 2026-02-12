@@ -5,7 +5,7 @@ pubDate: "2020-03-25 21:41:24"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/tiene-culillo-maduro-de-que-capturen-a-guaido-no-es-el-momento-fiscal-tarek-william/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/tiene-culillo-maduro-de-que-capturen-a-guaido-no-es-el-momento-fiscal-tarek-william/hero.jpg
 ---
 
 ENTREVISTA CON EL FISCAL GENERAL DE VENEZUELA, **TAREK WILLIAM SAAB** https://www.youtube.com/watch?v=AmZH75875Q8 La gente en Venezuela se pregunta ¿por qué razón no capturan a **Juan Guaidó?** El fiscal general de la República Bolivariana, **Tarek William Saab,** en entrevista directa concedida a **www.voxpopuli.digital** desde Caracas, dijo que **el hijo putativo del presidente Duque se está diluyendo**. Agregò:

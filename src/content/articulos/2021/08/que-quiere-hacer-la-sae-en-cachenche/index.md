@@ -5,7 +5,7 @@ pubDate: "2021-08-29 22:46:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-quiere-hacer-la-sae-en-cachenche/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-quiere-hacer-la-sae-en-cachenche/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-quiere-hacer-la-sae-en-cachenche/jhon-villamizar.jpeg)

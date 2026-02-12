@@ -5,7 +5,7 @@ pubDate: "2021-03-18 19:28:06"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/ahora-dau-condena-cynthia-te-voy-a-exponer-publicamente/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/ahora-dau-condena-cynthia-te-voy-a-exponer-publicamente/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/ahora-dau-condena-cynthia-te-voy-a-exponer-publicamente/cynthia.jpeg)

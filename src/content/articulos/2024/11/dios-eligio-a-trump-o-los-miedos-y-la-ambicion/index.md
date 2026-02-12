@@ -5,7 +5,7 @@ pubDate: "2024-11-06 19:58:47"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/dios-eligio-a-trump-o-los-miedos-y-la-ambicion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/dios-eligio-a-trump-o-los-miedos-y-la-ambicion/hero.jpg
 ---
 
 ![¿Dios eligió a Trump? Aquí el presidente electo de Estados Unidos, Donald Trump, al lado de su esposa Melania Trump. (Cortesía BBC).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/dios-eligio-a-trump-o-los-miedos-y-la-ambicion/Donald_trump.jpeg)

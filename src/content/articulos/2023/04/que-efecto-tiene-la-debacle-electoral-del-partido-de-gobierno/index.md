@@ -5,7 +5,7 @@ pubDate: "2023-04-26 17:49:45"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/que-efecto-tiene-la-debacle-electoral-del-partido-de-gobierno/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/que-efecto-tiene-la-debacle-electoral-del-partido-de-gobierno/hero.jpg
 ---
 
 ![¿Qué efecto tendrá la debacle electoral del partido de gobierno? El presidente de Colombia Humana era Gustavo Petro. Susana Muhamad, como vicepresidenta asumió sus funciones. Al ser nombrada ministra de Medio Ambiente, fue elegida Carmen Anachury Díaz. El secretario General es Marco Emilio Hincapié, exmagistrado del CNE.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/que-efecto-tiene-la-debacle-electoral-del-partido-de-gobierno/hero.jpg)

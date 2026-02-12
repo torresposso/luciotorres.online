@@ -5,7 +5,7 @@ pubDate: "2021-12-17 03:00:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-cartagena-socializan-prepliegos-de-la-app-canal-del-dique-sin-alcaldes-y-comunidades/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-cartagena-socializan-prepliegos-de-la-app-canal-del-dique-sin-alcaldes-y-comunidades/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-cartagena-socializan-prepliegos-de-la-app-canal-del-dique-sin-alcaldes-y-comunidades/socializan-prepliego.jpeg)

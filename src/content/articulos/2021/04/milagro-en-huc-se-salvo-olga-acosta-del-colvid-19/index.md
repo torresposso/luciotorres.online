@@ -5,7 +5,7 @@ pubDate: "2021-04-28 00:06:41"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/milagro-en-huc-se-salvo-olga-acosta-del-colvid-19/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/milagro-en-huc-se-salvo-olga-acosta-del-colvid-19/hero.jpg
 ---
 
 \[caption id="attachment\_14718" align="aligncenter" width="715"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/milagro-en-huc-se-salvo-olga-acosta-del-colvid-19/hero.jpg) ¡Milagro en el HUC!. Se salvó Olga Acosta. Cortesía.\[/caption\]

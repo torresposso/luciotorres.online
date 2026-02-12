@@ -5,7 +5,7 @@ pubDate: "2021-05-02 04:29:57"
 author: "Lucio"
 categories: ["Crónica","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/padaui-una-despedida-en-soledad-y-en-clave-de-covid-19/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/padaui-una-despedida-en-soledad-y-en-clave-de-covid-19/hero.jpg
 ---
 
 \[caption id="attachment\_14763" align="aligncenter" width="960"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/padaui-una-despedida-en-soledad-y-en-clave-de-covid-19/hero.jpg) Padauí: una despedida en soledad y en clave de Covid-19. Aquí con las mujeres de su movimiento. /Cortesía.\[/caption\]

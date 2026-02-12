@@ -5,7 +5,7 @@ pubDate: "2023-10-11 02:14:36"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/urgente-cne-avoca-inhabilidad-de-alejandro-char-por-pruebas-evidentes/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/urgente-cne-avoca-inhabilidad-de-alejandro-char-por-pruebas-evidentes/hero.jpg
 ---
 
 ![¡Urgente! CNE avoca inhabilidad. Las cuentas fantasmas de Serfinanza que inhabilitan a Char.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/urgente-cne-avoca-inhabilidad-de-alejandro-char-por-pruebas-evidentes/hero.jpg)

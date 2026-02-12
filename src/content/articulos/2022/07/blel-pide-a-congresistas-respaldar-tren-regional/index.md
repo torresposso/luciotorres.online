@@ -5,7 +5,7 @@ pubDate: "2022-07-18 02:34:22"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/blel-pide-a-congresistas-respaldar-tren-regional/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/blel-pide-a-congresistas-respaldar-tren-regional/hero.jpg
 ---
 
 ![Elsa Noguera, gobernadora del Atlántico, Sandra Gómez, presidenta de Findeter y Vicente Blel, gobernador de Bolívar. Socialización del proyecto Tren Regional.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/blel-pide-a-congresistas-respaldar-tren-regional/hero.jpg)

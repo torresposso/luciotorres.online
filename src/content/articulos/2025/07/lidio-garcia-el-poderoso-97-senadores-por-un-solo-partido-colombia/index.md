@@ -5,7 +5,7 @@ pubDate: "2025-07-21 04:27:13"
 author: "Lucio"
 categories: ["Análisis","Poder"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/lidio-garcia-el-poderoso-97-senadores-por-un-solo-partido-colombia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/lidio-garcia-el-poderoso-97-senadores-por-un-solo-partido-colombia/hero.jpg
 ---
 
 ![Lidio García: «Un solo partido que es Colombia» en la presidencia del congreso](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/lidio-garcia-el-poderoso-97-senadores-por-un-solo-partido-colombia/hero.jpg)

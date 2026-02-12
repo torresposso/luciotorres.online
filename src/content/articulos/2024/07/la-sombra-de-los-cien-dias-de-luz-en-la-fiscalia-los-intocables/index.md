@@ -5,7 +5,7 @@ pubDate: "2024-07-02 00:34:15"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/hero.jpg
 ---
 
 ![La sombra de los Cien Días de Luz en la Fiscalía: «Los Intocables». Aquí cuando tomó posesión ante el presidente Gustavo Petro./Fiscalía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/Luz_Adriana_Gustavo_Petro.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2022-11-02 19:32:28"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/petro-es-antinatural-que-colombia-y-venezuela-se-separen/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/petro-es-antinatural-que-colombia-y-venezuela-se-separen/hero.jpg
 ---
 
 ![Petro: "Es antinatural que Colombia y Venezuela se separen"](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/petro-es-antinatural-que-colombia-y-venezuela-se-separen/hero.jpg)

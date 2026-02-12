@@ -5,7 +5,7 @@ pubDate: "2023-01-23 13:15:31"
 author: "Lucio"
 categories: ["Análisis","Investigación","Nueva Generación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/los-ricos-del-pae-desercion-y-corrupcion-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/los-ricos-del-pae-desercion-y-corrupcion-i/hero.jpg
 ---
 
 ![Este es el complemento alimentario que se entrega en algunas partes. Los nuevos ricos del PAE.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/los-ricos-del-pae-desercion-y-corrupcion-i/hero.jpg)

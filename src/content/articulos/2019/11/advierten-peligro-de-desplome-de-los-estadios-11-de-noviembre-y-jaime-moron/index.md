@@ -5,7 +5,7 @@ pubDate: "2019-11-22 18:34:06"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/advierten-peligro-de-desplome-de-los-estadios-11-de-noviembre-y-jaime-moron/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/advierten-peligro-de-desplome-de-los-estadios-11-de-noviembre-y-jaime-moron/hero.jpg
 ---
 
 ![Estadio "11 de Noviembre" 7o años de existencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/advierten-peligro-de-desplome-de-los-estadios-11-de-noviembre-y-jaime-moron/hero.jpg)

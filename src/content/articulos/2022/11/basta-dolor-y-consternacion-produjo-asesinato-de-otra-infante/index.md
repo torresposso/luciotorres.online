@@ -5,7 +5,7 @@ pubDate: "2022-11-04 01:39:26"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/hero.jpg
 ---
 
 ![Padre e hija asesinados en la modalidad de sicariato. ¡Basta!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/hero.jpg)

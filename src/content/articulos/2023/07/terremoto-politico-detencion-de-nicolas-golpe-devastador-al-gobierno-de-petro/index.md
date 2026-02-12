@@ -5,7 +5,7 @@ pubDate: "2023-07-30 04:54:20"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/terremoto-politico-detencion-de-nicolas-golpe-devastador-al-gobierno-de-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/terremoto-politico-detencion-de-nicolas-golpe-devastador-al-gobierno-de-petro/hero.jpg
 ---
 
 ![Detención de Nicolás. Daysuris Vásquez con Gustavo Petro Burgos, a la izquierda del estrado. El fiscal delegado, Mario Burgos, a la derecha. /Captura de Pantalla.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/terremoto-politico-detencion-de-nicolas-golpe-devastador-al-gobierno-de-petro/hero.jpg)

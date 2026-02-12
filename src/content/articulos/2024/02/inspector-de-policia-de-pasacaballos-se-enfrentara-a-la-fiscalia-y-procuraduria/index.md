@@ -5,7 +5,7 @@ pubDate: "2024-02-26 02:14:13"
 author: "Lucio"
 categories: ["Cartagena","Destacadas","Investigación"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/inspector-de-policia-de-pasacaballos-se-enfrentara-a-la-fiscalia-y-procuraduria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/inspector-de-policia-de-pasacaballos-se-enfrentara-a-la-fiscalia-y-procuraduria/hero.jpg
 ---
 
 ![Fernán Pérez Saravia, el inspector de Policía de Pasacaballos Cartagena, vive una vida flamante con ingreso salarial promedio de $35 millones al año.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/inspector-de-policia-de-pasacaballos-se-enfrentara-a-la-fiscalia-y-procuraduria/hero.jpg)

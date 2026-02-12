@@ -5,7 +5,7 @@ pubDate: "2019-03-20 15:11:42"
 author: "Lucio"
 categories: ["Cartagena","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/el-acuarelazo-que-perturba-el-patrimonio-cultural-de-manga-astorga-414-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/el-acuarelazo-que-perturba-el-patrimonio-cultural-de-manga-astorga-414-i/hero.jpg
 ---
 
 *En un amanecer frente a Casa Covo, patrimonio cultural, aplastada por la mole de cemento Astorga 414 en Manga.*

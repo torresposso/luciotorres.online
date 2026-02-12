@@ -5,7 +5,7 @@ pubDate: "2023-08-29 02:44:44"
 author: "Lucio"
 categories: ["Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/las-10-debilidades-del-proyecto-de-reforma-laboral-segun-acrip/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/las-10-debilidades-del-proyecto-de-reforma-laboral-segun-acrip/hero.jpg
 ---
 
 ![Gladys Vega, presidente de la Federación Colombiana de Gestión Humana (Acrip). Las 10 debilidades de la nueva propuesta de reforma laboral.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/las-10-debilidades-del-proyecto-de-reforma-laboral-segun-acrip/hero.jpg)

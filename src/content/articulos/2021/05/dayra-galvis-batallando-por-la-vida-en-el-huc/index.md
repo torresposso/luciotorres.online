@@ -5,7 +5,7 @@ pubDate: "2021-05-02 20:10:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/dayra-galvis-batallando-por-la-vida-en-el-huc/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/dayra-galvis-batallando-por-la-vida-en-el-huc/hero.jpg
 ---
 
 \[caption id="attachment\_14768" align="aligncenter" width="984"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/dayra-galvis-batallando-por-la-vida-en-el-huc/hero.jpg) Daira Galvis batallando por la vida. fue ingresada al HUC.\[/caption\]

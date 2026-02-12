@@ -5,7 +5,7 @@ pubDate: "2022-05-23 03:27:07"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-ganara-la-meta-volante-quien-sera-el-segundo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-ganara-la-meta-volante-quien-sera-el-segundo/hero.jpg
 ---
 
 ![¿Quién será el segundo en esta primera vuelta? ¿Fico o Rodolfo? ¿Petro ganará en primera vuelta?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-ganara-la-meta-volante-quien-sera-el-segundo/hero.jpg)

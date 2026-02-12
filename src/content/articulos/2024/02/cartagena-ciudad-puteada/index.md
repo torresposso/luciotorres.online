@@ -5,7 +5,7 @@ pubDate: "2024-02-22 03:06:10"
 author: "Lucio"
 categories: ["Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/cartagena-ciudad-puteada/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/cartagena-ciudad-puteada/hero.jpg
 ---
 
 ![Cartagena ¿ciudad puteada? Es el gran reto del alcalde Dumek Turbay Paz derrotar ese estigma que tiene bases materiales./Prensa alcaldía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/cartagena-ciudad-puteada/Dumek-Turbay_playa-1024x683.jpeg)

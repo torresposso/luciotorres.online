@@ -5,7 +5,7 @@ pubDate: "2020-11-13 18:10:34"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/rectificacion-de-prensa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/rectificacion-de-prensa/hero.jpg
 ---
 
 **Documento de rectificación**

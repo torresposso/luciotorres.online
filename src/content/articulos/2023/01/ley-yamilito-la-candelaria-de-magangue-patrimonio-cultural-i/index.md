@@ -5,7 +5,7 @@ pubDate: "2023-01-28 13:29:34"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ley-yamilito-la-candelaria-de-magangue-patrimonio-cultural-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ley-yamilito-la-candelaria-de-magangue-patrimonio-cultural-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ley-yamilito-la-candelaria-de-magangue-patrimonio-cultural-i/hero.jpg)

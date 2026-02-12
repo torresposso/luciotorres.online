@@ -5,7 +5,7 @@ pubDate: "2023-02-28 15:59:37"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/blel-cerrara-caregato-para-revivir-a-la-mojana/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/blel-cerrara-caregato-para-revivir-a-la-mojana/hero.jpg
 ---
 
 https://youtu.be/7pXzslxRkZY

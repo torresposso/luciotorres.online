@@ -5,7 +5,7 @@ pubDate: "2021-08-23 23:50:47"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/la-ciudad-necesita-seriedad-dicen-las-encuestas/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/la-ciudad-necesita-seriedad-dicen-las-encuestas/hero.jpg
 ---
 
 ![Descalabro de su imagen artificial. La revocatoria le respira en el oído.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/la-ciudad-necesita-seriedad-dicen-las-encuestas/hero.jpg)

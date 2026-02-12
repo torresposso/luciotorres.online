@@ -5,7 +5,7 @@ pubDate: "2025-04-06 15:31:45"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/por-fin-perseguiran-a-los-intocables-del-paramilitarismo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/por-fin-perseguiran-a-los-intocables-del-paramilitarismo/hero.jpg
 ---
 
 ![¿Perseguirán a «Los Intocables»? Esta vez hay una orden de trabajo para perseguir los bienes de «Los Intocables».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/por-fin-perseguiran-a-los-intocables-del-paramilitarismo/hero.jpg)

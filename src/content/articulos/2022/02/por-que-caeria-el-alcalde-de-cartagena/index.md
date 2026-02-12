@@ -5,7 +5,7 @@ pubDate: "2022-02-05 18:56:36"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/por-que-caeria-el-alcalde-de-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/por-que-caeria-el-alcalde-de-cartagena/hero.jpg
 ---
 
 ![¿Por qué caería el alcalde de Cartagena?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/por-que-caeria-el-alcalde-de-cartagena/hero.jpg)

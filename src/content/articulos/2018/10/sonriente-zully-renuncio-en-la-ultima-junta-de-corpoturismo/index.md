@@ -5,7 +5,7 @@ pubDate: "2018-10-30 03:45:46"
 author: "Lucio"
 categories: ["Mi Ciudad","Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/sonriente-zully-renuncio-en-la-ultima-junta-de-corpoturismo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/sonriente-zully-renuncio-en-la-ultima-junta-de-corpoturismo/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/sonriente-zully-renuncio-en-la-ultima-junta-de-corpoturismo/hero.jpg)

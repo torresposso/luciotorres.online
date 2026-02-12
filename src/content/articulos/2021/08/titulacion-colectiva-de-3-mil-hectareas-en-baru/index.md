@@ -5,7 +5,7 @@ pubDate: "2021-08-13 23:13:33"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/titulacion-colectiva-de-3-mil-hectareas-en-baru/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/titulacion-colectiva-de-3-mil-hectareas-en-baru/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/titulacion-colectiva-de-3-mil-hectareas-en-baru/hero.jpg)

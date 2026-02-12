@@ -5,7 +5,7 @@ pubDate: "2022-10-07 14:54:39"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/comunidades-canal-del-dique-firmaron-cheque-en-blanco-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/comunidades-canal-del-dique-firmaron-cheque-en-blanco-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/comunidades-canal-del-dique-firmaron-cheque-en-blanco-i/hero.jpg)

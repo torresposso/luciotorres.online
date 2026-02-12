@@ -5,7 +5,7 @@ pubDate: "2025-07-24 11:51:12"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/char-con-certificado-chimbo-evade-paternidad-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/char-con-certificado-chimbo-evade-paternidad-iii/hero.jpg
 ---
 
 ![Certificado chimbo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/char-con-certificado-chimbo-evade-paternidad-iii/hero.jpg)

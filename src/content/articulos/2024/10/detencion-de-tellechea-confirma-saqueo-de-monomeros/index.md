@@ -5,7 +5,7 @@ pubDate: "2024-10-27 01:08:45"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/hero.jpg
 ---
 
 ![¿Detención de Tellechea, confirma saqueo de Monómeros?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/Telechea_-1024x576.jpeg)

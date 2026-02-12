@@ -5,7 +5,7 @@ pubDate: "2021-07-12 01:12:37"
 author: "Lucio"
 categories: ["Mi País","Santa Marta"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/nuevo-desalojo-a-campesinos-revictimizados-en-santa-ana-magdalena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/nuevo-desalojo-a-campesinos-revictimizados-en-santa-ana-magdalena/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/nuevo-desalojo-a-campesinos-revictimizados-en-santa-ana-magdalena/Alcalde-de-Santa-Ana.jpeg)

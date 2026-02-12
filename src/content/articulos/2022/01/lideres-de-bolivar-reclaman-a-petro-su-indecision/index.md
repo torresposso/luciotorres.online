@@ -5,7 +5,7 @@ pubDate: "2022-01-28 00:39:43"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/lideres-de-bolivar-reclaman-a-petro-su-indecision/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/lideres-de-bolivar-reclaman-a-petro-su-indecision/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/lideres-de-bolivar-reclaman-a-petro-su-indecision/MARRUGO-2.jpeg)

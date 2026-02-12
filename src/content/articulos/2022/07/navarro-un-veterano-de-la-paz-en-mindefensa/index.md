@@ -5,7 +5,7 @@ pubDate: "2022-07-20 02:57:51"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/navarro-un-veterano-de-la-paz-en-mindefensa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/navarro-un-veterano-de-la-paz-en-mindefensa/hero.jpg
 ---
 
 ![Antonio Navarro ¿Un veterano de la paz en MinDefensa?  Aquí uniendo su fuerza con el expresidente Betancur.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/navarro-un-veterano-de-la-paz-en-mindefensa/hero.jpg)

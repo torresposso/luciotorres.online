@@ -5,7 +5,7 @@ pubDate: "2021-06-01 13:28:14"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/dionisio-miranda-los-orishas-acompanen-tu-regreso/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/dionisio-miranda-los-orishas-acompanen-tu-regreso/hero.jpg
 ---
 
 \[caption id="attachment\_15234" align="aligncenter" width="750"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/dionisio-miranda-los-orishas-acompanen-tu-regreso/hero.jpg) **Dionisio Miranda**, un cimarrón que se fue.\[/caption\]

@@ -5,7 +5,7 @@ pubDate: "2020-08-16 19:18:09"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/cartel-de-la-conciliacion-socava-la-esencia-de-la-justicia-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/cartel-de-la-conciliacion-socava-la-esencia-de-la-justicia-i/hero.jpg
 ---
 
 ## LUCIO TE EXPLICA «EL CARTEL DE LA CONCILIACIÓN»

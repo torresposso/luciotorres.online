@@ -5,7 +5,7 @@ pubDate: "2020-08-08 00:03:16"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/udec-en-pleno-se-levanta-contra-ataque-injurioso-del-alcalde/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/udec-en-pleno-se-levanta-contra-ataque-injurioso-del-alcalde/hero.jpg
 ---
 
 \[caption id="attachment\_12293" align="alignnone" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/udec-en-pleno-se-levanta-contra-ataque-injurioso-del-alcalde/william-malkun.jpg "La UdeC se respeta") El rector delegado **William Malkún Castillejo** y dos funcionarias de su despacho. En el fondo, retratos de los rectores que ha tenido la **UdeC**.\[/caption\] Si en la Universidad de Cartagena (UdeC) existe alguna «rata», no podríamos descalificar un estamento que ha educado a muchas generaciones para la construcción de la República. Por esta razón, la Alma Máter en pleno —como nunca se ha visto— **rechazó categórica y elegantemente las declaraciones injuriosas, irrespetuosas y escatológicas vomitadas por el alcalde de Cartagena William Dau contra esa institución**. Tales declaraciones las hizo el burgomaestre cuando se encontraba entre la espada y la pared por la **elección fraudulenta de su candidato Héctor Consuegra** como contralor distrital. Dau Chamat le echó la culpa de la fraudulenta elección a la [Universidad de Cartagena](/articulos/component/k2/carta-abierta-del-consejo-academico). En realidad, él fue quien indujo al error a los 8 concejales —encabezados por el concejal de la coalición de centroizquierda, **Javier Julio Bejarano**— con el fin de elegir a un inhabilitado para resguardar el tesoro público.

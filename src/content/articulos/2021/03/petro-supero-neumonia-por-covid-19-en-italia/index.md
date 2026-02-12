@@ -5,7 +5,7 @@ pubDate: "2021-03-23 22:33:23"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/petro-supero-neumonia-por-covid-19-en-italia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/petro-supero-neumonia-por-covid-19-en-italia/hero.jpg
 ---
 
 \[caption id="attachment\_14281" align="aligncenter" width="860"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/petro-supero-neumonia-por-covid-19-en-italia/hero.jpg) Gustavo Petro fue dado de alta por Covid-19. Cortesía AFP.\[/caption\]

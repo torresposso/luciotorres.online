@@ -5,7 +5,7 @@ pubDate: "2023-11-19 22:16:30"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/serfinanza-la-lavanderia-del-califato-daeschariano-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/serfinanza-la-lavanderia-del-califato-daeschariano-i/hero.jpg
 ---
 
 ![Serfinanza: ¿La lavandería del Califato Daeschariano? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/serfinanza-la-lavanderia-del-califato-daeschariano-i/hero.jpg)

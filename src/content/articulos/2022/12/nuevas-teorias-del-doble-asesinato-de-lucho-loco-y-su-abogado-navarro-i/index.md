@@ -5,7 +5,7 @@ pubDate: "2022-12-20 13:18:20"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/nuevas-teorias-del-doble-asesinato-de-lucho-loco-y-su-abogado-navarro-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/nuevas-teorias-del-doble-asesinato-de-lucho-loco-y-su-abogado-navarro-i/hero.jpg
 ---
 
 ![Luis Peña y su abogado Juan Navarro. ¿Por qué asesinaron a "Lucho Loco" y su abogado?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/nuevas-teorias-del-doble-asesinato-de-lucho-loco-y-su-abogado-navarro-i/hero.jpg)

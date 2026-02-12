@@ -5,7 +5,7 @@ pubDate: "2023-09-03 03:21:52"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2020-04-15 22:10:23"
 author: "Lucio"
 categories: ["Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/dau-peligro-ambulante-lanza-cortina-de-humo-para-esconder-su-corrupcion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/dau-peligro-ambulante-lanza-cortina-de-humo-para-esconder-su-corrupcion/hero.jpg
 ---
 
 > ¿No entendéis que todo lo que entra en la boca va al vientre, y es echado en la letrina? Pero lo que sale de la boca, del corazón sale; **y esto contamina al hombre**. (Mateo 15:17,18).

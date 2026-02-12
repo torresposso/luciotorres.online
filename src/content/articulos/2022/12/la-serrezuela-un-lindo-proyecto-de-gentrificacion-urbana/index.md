@@ -5,7 +5,7 @@ pubDate: "2022-12-25 23:28:06"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-serrezuela-un-lindo-proyecto-de-gentrificacion-urbana/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-serrezuela-un-lindo-proyecto-de-gentrificacion-urbana/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-serrezuela-un-lindo-proyecto-de-gentrificacion-urbana/aaron_cohen.jpeg)

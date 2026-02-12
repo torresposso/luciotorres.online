@@ -5,7 +5,7 @@ pubDate: "2023-06-07 01:19:45"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/marta-lucia-jorge-40-y-la-conexion-mafiosa-italiana/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/marta-lucia-jorge-40-y-la-conexion-mafiosa-italiana/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/marta-lucia-jorge-40-y-la-conexion-mafiosa-italiana/hero.jpg)

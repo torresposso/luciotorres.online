@@ -5,7 +5,7 @@ pubDate: "2022-02-13 20:43:14"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-cobro-de-los-peajes-no-cumplen-con-el-marco-tarifario/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-cobro-de-los-peajes-no-cumplen-con-el-marco-tarifario/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-cobro-de-los-peajes-no-cumplen-con-el-marco-tarifario/hero.jpg)

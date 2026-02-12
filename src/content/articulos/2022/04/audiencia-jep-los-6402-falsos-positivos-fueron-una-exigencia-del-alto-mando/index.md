@@ -5,7 +5,7 @@ pubDate: "2022-04-30 20:02:05"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/hero.jpg
 ---
 
 ![Estos son los primeros comparecientes de los 6402 «falsos positivos» durante el gobierno de Álvaro Uribe. Cortesía JEP.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/hero.jpg)

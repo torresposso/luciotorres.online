@@ -5,7 +5,7 @@ pubDate: "2022-02-05 01:12:05"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/lo-que-el-incendio-se-llevo-en-bayunca-y-el-alcalde-callado/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/lo-que-el-incendio-se-llevo-en-bayunca-y-el-alcalde-callado/hero.jpg
 ---
 
 ![Lo que el incendio se llevó en Bayunca y el alcalde callado](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/lo-que-el-incendio-se-llevo-en-bayunca-y-el-alcalde-callado/incendio-bayunca.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2023-06-22 02:39:39"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/por-que-mataron-a-yorman-si-era-tan-sociable-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/por-que-mataron-a-yorman-si-era-tan-sociable-ii/hero.jpg
 ---
 
 ![Mataron a Yorman. Aquí cuando su cadáver llegó a Punta Arena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/por-que-mataron-a-yorman-si-era-tan-sociable-ii/hero.jpg)

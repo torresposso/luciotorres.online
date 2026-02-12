@@ -5,7 +5,7 @@ pubDate: "2025-09-27 01:33:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-pacto-historico-sin-rumbo-propio-petro-impuso-la-consulta/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-pacto-historico-sin-rumbo-propio-petro-impuso-la-consulta/hero.jpg
 ---
 
 ![A consulta popular del Pacto Histórico  Daniel Quintero, exalcalde de Medellín; Carolina Corcho, exministra de Salud; e Iván Cepeda, senador del Polo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-pacto-historico-sin-rumbo-propio-petro-impuso-la-consulta/Pacto_historico.jpeg)

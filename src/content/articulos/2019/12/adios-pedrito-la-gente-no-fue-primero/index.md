@@ -5,7 +5,7 @@ pubDate: "2019-12-28 15:03:04"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/adios-pedrito-la-gente-no-fue-primero/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/adios-pedrito-la-gente-no-fue-primero/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/adios-pedrito-la-gente-no-fue-primero/hero.jpg)

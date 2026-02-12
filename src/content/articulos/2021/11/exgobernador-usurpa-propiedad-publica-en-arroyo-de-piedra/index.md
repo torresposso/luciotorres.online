@@ -5,7 +5,7 @@ pubDate: "2021-11-06 03:46:40"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/exgobernador-usurpa-propiedad-publica-en-arroyo-de-piedra/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/exgobernador-usurpa-propiedad-publica-en-arroyo-de-piedra/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/exgobernador-usurpa-propiedad-publica-en-arroyo-de-piedra/hero.jpg)

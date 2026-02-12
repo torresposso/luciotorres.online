@@ -5,7 +5,7 @@ pubDate: "2023-04-20 02:54:36"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/el-poder-de-los-intocables-y-el-crimen-del-magistrado-v/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/el-poder-de-los-intocables-y-el-crimen-del-magistrado-v/hero.jpg
 ---
 
 ![¿La víctima y su verdugo? Está claro, pero la justicia debe pronunciarse. El poder de «Los intocables»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/el-poder-de-los-intocables-y-el-crimen-del-magistrado-v/hero.jpg)

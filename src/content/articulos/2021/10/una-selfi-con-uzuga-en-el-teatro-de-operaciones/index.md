@@ -5,7 +5,7 @@ pubDate: "2021-10-24 00:28:13"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/una-selfi-con-uzuga-en-el-teatro-de-operaciones/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/una-selfi-con-uzuga-en-el-teatro-de-operaciones/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/una-selfi-con-uzuga-en-el-teatro-de-operaciones/SELFI-CON-OTONIEL.jpeg)

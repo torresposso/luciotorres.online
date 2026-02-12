@@ -5,7 +5,7 @@ pubDate: "2021-05-25 17:54:56"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/la-supersalud-encontro-nido-de-ratas-en-la-ese/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/la-supersalud-encontro-nido-de-ratas-en-la-ese/hero.jpg
 ---
 
 \[caption id="attachment\_15081" align="aligncenter" width="1227"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/la-supersalud-encontro-nido-de-ratas-en-la-ese/NIDOS-DE-RATAS2.jpeg) Un verdadero «nido de ratas» encontró la Supersalud.\[/caption\]

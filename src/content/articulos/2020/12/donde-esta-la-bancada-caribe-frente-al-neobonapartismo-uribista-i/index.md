@@ -5,7 +5,7 @@ pubDate: "2020-12-30 19:40:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/12/donde-esta-la-bancada-caribe-frente-al-neobonapartismo-uribista-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/12/donde-esta-la-bancada-caribe-frente-al-neobonapartismo-uribista-i/hero.jpg
 ---
 
 \[caption id="attachment\_13586" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/12/donde-esta-la-bancada-caribe-frente-al-neobonapartismo-uribista-i/Costenos-al-poder.jpeg) **La Bancada Caribe** y la presidencia del Congreso, un costeño le entregó a otro. **Lido García a Arturo Char**.\[/caption\] **La Bancada Caribe** —en los casi 20 años de hegemonía del régimen de corte **«neobonapartista de derecha**»— **siempre ha servido de apéndice** a las directrices del poder centralista. Este poder está constituido por las élites del triangulo de oro: **Bogotá, Cali y Medellín**. La bancada nunca hizo un control político para mejorar las condiciones sociales y materiales de la gente caribe. Tampoco para el país. Igualmente, es necesario decir que son 61 parlamentarios. Una bancada numerosa. O sea, el 30% del congreso. Todo un poder parlamentario. **¿Poder Costeño?** Es una caricatura de poder democrático de la región Caribe. De qué sirve tener poder si no se ejerce. Distinto al 30% que el **paramilitarismo** llegó a tener en forma directa. Salvatore Mancuso lo dijo en el congreso cuando se desmovilizó. Y lo usaron a su favor.

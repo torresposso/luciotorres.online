@@ -5,7 +5,7 @@ pubDate: "2023-11-01 03:18:47"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/yamilito-gobernador-la-gracia-es-de-dios-y-de-la-virgen-de-la-candelaria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/yamilito-gobernador-la-gracia-es-de-dios-y-de-la-virgen-de-la-candelaria/hero.jpg
 ---
 
 ![Yamilito gobernador. Lo primero es lo primero, agradecerle a Dios y a la virgen de la Candelaria.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/yamilito-gobernador-la-gracia-es-de-dios-y-de-la-virgen-de-la-candelaria/hero.jpg)

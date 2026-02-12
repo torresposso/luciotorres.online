@@ -5,7 +5,7 @@ pubDate: "2024-12-05 01:18:27"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/los-ultimos-docentes-de-la-ua/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/los-ultimos-docentes-de-la-ua/hero.jpg
 ---
 
 ![Danilo Hernández, alegre por el programa de medicina. Pero los últimos docentes convencionales están tristes porque no les atienden sus exigencias.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/los-ultimos-docentes-de-la-ua/Danilo-Hernandez.jpeg)

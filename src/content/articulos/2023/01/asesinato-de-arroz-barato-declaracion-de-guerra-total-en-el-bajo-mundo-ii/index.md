@@ -5,7 +5,7 @@ pubDate: "2023-01-11 02:22:03"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asesinato-de-arroz-barato-declaracion-de-guerra-total-en-el-bajo-mundo-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asesinato-de-arroz-barato-declaracion-de-guerra-total-en-el-bajo-mundo-ii/hero.jpg
 ---
 
 ![Tres días de plazo una facción del Clan del Golfo le dió a las estructuras de «Paty Paty» y de «Gomelo». Guerra total en el bajo mundo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asesinato-de-arroz-barato-declaracion-de-guerra-total-en-el-bajo-mundo-ii/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2021-12-19 00:52:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/Del-Cielo-al-infierno.jpeg)

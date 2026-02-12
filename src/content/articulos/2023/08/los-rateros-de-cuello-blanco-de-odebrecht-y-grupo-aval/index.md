@@ -5,7 +5,7 @@ pubDate: "2023-08-20 16:40:05"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/los-rateros-de-cuello-blanco-de-odebrecht-y-grupo-aval/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/los-rateros-de-cuello-blanco-de-odebrecht-y-grupo-aval/hero.jpg
 ---
 
 ![Los rateros de cuello blanco. Oscar Iván Zuluaga, Juan Manuel Santos y Marcelo Odebrecht.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/los-rateros-de-cuello-blanco-de-odebrecht-y-grupo-aval/hero.jpg)

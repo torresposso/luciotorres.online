@@ -5,7 +5,7 @@ pubDate: "2021-10-29 16:35:14"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-tierra-baja-bloquean-via-al-mar-por-megacolegio/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-tierra-baja-bloquean-via-al-mar-por-megacolegio/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-tierra-baja-bloquean-via-al-mar-por-megacolegio/hero.jpg)

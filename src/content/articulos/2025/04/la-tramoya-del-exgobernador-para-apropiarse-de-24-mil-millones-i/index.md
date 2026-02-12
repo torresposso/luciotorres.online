@@ -5,7 +5,7 @@ pubDate: "2025-04-13 16:35:39"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/la-tramoya-del-exgobernador-para-apropiarse-de-24-mil-millones-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/la-tramoya-del-exgobernador-para-apropiarse-de-24-mil-millones-i/hero.jpg
 ---
 
 ![La tramoya del exgobernador para apropiarse de $24 mil millones. (Foto cortesía).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/la-tramoya-del-exgobernador-para-apropiarse-de-24-mil-millones-i/hero.jpg)

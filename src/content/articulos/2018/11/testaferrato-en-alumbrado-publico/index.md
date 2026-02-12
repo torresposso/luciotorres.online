@@ -5,7 +5,7 @@ pubDate: "2018-11-06 13:48:16"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/testaferrato-en-alumbrado-publico/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/testaferrato-en-alumbrado-publico/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/testaferrato-en-alumbrado-publico/hero.jpg)

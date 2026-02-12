@@ -5,7 +5,7 @@ pubDate: "2021-06-17 00:48:52"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/ARMANDO-CORDOBA.jpeg)

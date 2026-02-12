@@ -5,7 +5,7 @@ pubDate: "2021-01-29 18:03:24"
 author: "Lucio"
 categories: ["Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/ante-la-muerte-llorar-o-sonreir/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/ante-la-muerte-llorar-o-sonreir/hero.jpg
 ---
 
   \[caption id="attachment\_13735" align="aligncenter" width="390"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/ante-la-muerte-llorar-o-sonreir/hero.jpg) Mi hermano Enilso del Cristo. ¿Llorar o sonreír?\[/caption\]  ¿Llorar o sonreír ante la muerte? Parece una pregunta existencialista. Pero es la esencia para indagar el misterio de la muerte. **Enilso del Cristo**, uno de mis hermanos menores, sufría de diabetes. Finalmente su corazón dejó de latir a las 2:04 p.m. de este 28 de enero. Las complicaciones cardiovasculares y renales ganaron la batalla. ¿Ganó el dolor? En realidad, ganó la vida. Puedo sonreír. Vivimos juntos momentos impactantes de nuestra niñez. Aprendí lo que es la solidaridad con los hermanos menores. Sin hacerlo conscientemente, me comporté como papá de ellos. Así nos enseñaron. **Los hermanos mayores debíamos ser ejemplo y guía de los menores**. Y ese principio lo apliqué con mis hermanos menores. Mi padre, **Juan de la Cruz**, fue paternalista. No solo veló por sus hijos sino también por sus sobrinos. Y eran muchos. Especialmente aquellos que quedaron huérfanos. Así también fue Teresa de Jesús, mi madre. Cuando mis primos estaban en casa, eran como nuestros hermanos. No había diferencias. El plato de comida era el mismo para todos.

@@ -5,7 +5,7 @@ pubDate: "2022-10-16 13:26:01"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/top-6-el-cheque-en-blanco-y-los-conspiradores-de-gloria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/top-6-el-cheque-en-blanco-y-los-conspiradores-de-gloria/hero.jpg
 ---
 
 ![El artículo más leído de la semana: "El cheque en blanco" (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/top-6-el-cheque-en-blanco-y-los-conspiradores-de-gloria/hero.jpg)

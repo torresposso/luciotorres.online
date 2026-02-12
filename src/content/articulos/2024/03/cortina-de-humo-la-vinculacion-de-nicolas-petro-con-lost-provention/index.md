@@ -5,7 +5,7 @@ pubDate: "2024-03-05 16:07:24"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/hero.jpg
 ---
 
 ![¿Cortina de humo vinculación de Nicolás Petro con Lost Provention?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/hero.jpg)

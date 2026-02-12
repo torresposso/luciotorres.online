@@ -5,7 +5,7 @@ pubDate: "2023-10-30 04:22:48"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/conjurada-la-maldicion-dumek-alcalde-electo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/conjurada-la-maldicion-dumek-alcalde-electo/hero.jpg
 ---
 
 ![Dumek Turbay, su esposa Liliana Majana y sus hijos. ¡Conjurada la maldición!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/conjurada-la-maldicion-dumek-alcalde-electo/hero.jpg)

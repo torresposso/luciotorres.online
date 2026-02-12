@@ -5,7 +5,7 @@ pubDate: "2022-07-24 01:14:41"
 author: "Lucio"
 categories: ["Análisis","Podcast","Post Conflicto","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/ivan-velazquez-comisario-politico-o-fiscal-en-las-ff-aa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/ivan-velazquez-comisario-politico-o-fiscal-en-las-ff-aa/hero.jpg
 ---
 
 ![¿Comisario político o fiscal de las FF.AA? El sistema internacional de derechos humanos tiene su representación en el gobierno de Petro. Gustavo Petro y Iván Velásquez.(Cortesía).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/ivan-velazquez-comisario-politico-o-fiscal-en-las-ff-aa/hero.jpg)

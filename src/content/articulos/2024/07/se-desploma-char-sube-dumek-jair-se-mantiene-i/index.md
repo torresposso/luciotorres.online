@@ -5,7 +5,7 @@ pubDate: "2024-07-08 19:53:47"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/hero.jpg
 ---
 
 ![Se desploma Char, perdió 25,1% en solo tres meses. . Dumek Turbay ascendió y ¿Comienza a desmoronarse el Califato Daeschariano?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/hero.jpg)

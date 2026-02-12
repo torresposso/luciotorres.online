@@ -5,7 +5,7 @@ pubDate: "2023-06-01 02:22:02"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/bola-de-nieve-charter-para-la-ninera-de-laura-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/bola-de-nieve-charter-para-la-ninera-de-laura-i/hero.jpg
 ---
 
 ![Laura Sarabia Torres, muy cerca del corazón del presidente Petro, y ahora lejana de su antiguo jefe político, Armando Benedetti, embajador de Colombia en Caracas. Una bola de nieve que amenaza alud/ Foto Instagram.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/bola-de-nieve-charter-para-la-ninera-de-laura-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2024-02-06 03:18:48"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-colegio-de-la-autogestion-comunitaria-en-san-pablo-montes-de-maria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-colegio-de-la-autogestion-comunitaria-en-san-pablo-montes-de-maria/hero.jpg
 ---
 
 ![En esta asamblea se aclaró sobre el recaudo de los $10 mil destinados a un aula del colegio. Colegio de autogestión comunitaria. /VoxPopuli Digital.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-colegio-de-la-autogestion-comunitaria-en-san-pablo-montes-de-maria/hero.jpg)

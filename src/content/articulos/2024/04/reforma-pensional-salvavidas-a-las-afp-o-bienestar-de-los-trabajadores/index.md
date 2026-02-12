@@ -5,7 +5,7 @@ pubDate: "2024-05-01 03:24:58"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/reforma-pensional-salvavidas-a-las-afp-o-bienestar-de-los-trabajadores/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/reforma-pensional-salvavidas-a-las-afp-o-bienestar-de-los-trabajadores/hero.jpg
 ---
 
 ![Reforma Pensional: ¿Salvavidas a las AFP o bienestar de los trabajadores?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/reforma-pensional-salvavidas-a-las-afp-o-bienestar-de-los-trabajadores/1-de-mayo_Reforma_pensional.jpeg)

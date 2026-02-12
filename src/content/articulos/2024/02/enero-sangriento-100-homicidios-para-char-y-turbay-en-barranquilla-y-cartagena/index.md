@@ -5,7 +5,7 @@ pubDate: "2024-02-05 03:38:43"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/enero-sangriento-100-homicidios-para-char-y-turbay-en-barranquilla-y-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/enero-sangriento-100-homicidios-para-char-y-turbay-en-barranquilla-y-cartagena/hero.jpg
 ---
 
 ![¡Enero sangriento! 100 homicidios para Char y Turbay, en Barranquilla y Cartagena ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/enero-sangriento-100-homicidios-para-char-y-turbay-en-barranquilla-y-cartagena/hero.jpg)

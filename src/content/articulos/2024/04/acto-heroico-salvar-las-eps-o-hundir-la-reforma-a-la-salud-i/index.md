@@ -5,7 +5,7 @@ pubDate: "2024-04-08 03:13:35"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/acto-heroico-salvar-las-eps-o-hundir-la-reforma-a-la-salud-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/acto-heroico-salvar-las-eps-o-hundir-la-reforma-a-la-salud-i/hero.jpg
 ---
 
 ![«Acto heroico»: ¿salvar las Eps o hundir la reforma a la Salud](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/acto-heroico-salvar-las-eps-o-hundir-la-reforma-a-la-salud-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2025-03-31 12:46:25"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-testigo-18-una-pieza-clave/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-testigo-18-una-pieza-clave/hero.jpg
 ---
 
 ![Juicio a Uribe: La testigo 18, una pieza clave ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-testigo-18-una-pieza-clave/Juicio_uribe_abogada.jpeg)

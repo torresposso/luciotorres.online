@@ -5,7 +5,7 @@ pubDate: "2025-07-15 10:22:19"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/ultima-oportunidad-del-alcalde-char-para-prueba-adn/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/ultima-oportunidad-del-alcalde-char-para-prueba-adn/hero.jpg
 ---
 
 ![¿Última oportunidad del alcalde Char para prueba ADN?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/ultima-oportunidad-del-alcalde-char-para-prueba-adn/hero.jpg)

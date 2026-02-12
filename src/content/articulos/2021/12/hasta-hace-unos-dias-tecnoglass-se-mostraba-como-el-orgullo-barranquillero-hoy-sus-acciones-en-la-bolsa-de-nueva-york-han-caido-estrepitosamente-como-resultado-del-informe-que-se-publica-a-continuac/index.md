@@ -5,7 +5,7 @@ pubDate: "2021-12-11 01:03:08"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/hasta-hace-unos-dias-tecnoglass-se-mostraba-como-el-orgullo-barranquillero-hoy-sus-acciones-en-la-bolsa-de-nueva-york-han-caido-estrepitosamente-como-resultado-del-informe-que-se-publica-a-continuac/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/hasta-hace-unos-dias-tecnoglass-se-mostraba-como-el-orgullo-barranquillero-hoy-sus-acciones-en-la-bolsa-de-nueva-york-han-caido-estrepitosamente-como-resultado-del-informe-que-se-publica-a-continuac/hero.jpg
 ---
 
 (imagen no disponible)

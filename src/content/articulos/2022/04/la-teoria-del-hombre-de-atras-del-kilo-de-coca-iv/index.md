@@ -5,7 +5,7 @@ pubDate: "2022-04-07 00:41:05"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-teoria-del-hombre-de-atras-del-kilo-de-coca-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-teoria-del-hombre-de-atras-del-kilo-de-coca-iv/hero.jpg
 ---
 
 ![Algunos indicios nos llevan a esta pregunta complicada y de extrema gravedad: ¿Quién es «el hombre de atrás» del Caso Gloria Estrada?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-teoria-del-hombre-de-atras-del-kilo-de-coca-iv/andy-reales.jpeg)

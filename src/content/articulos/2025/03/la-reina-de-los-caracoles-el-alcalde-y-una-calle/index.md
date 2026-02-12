@@ -5,7 +5,7 @@ pubDate: "2025-03-03 14:50:27"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/la-reina-de-los-caracoles-el-alcalde-y-una-calle/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/la-reina-de-los-caracoles-el-alcalde-y-una-calle/hero.jpg
 ---
 
 ![La reina de Los Caracoles, el alcalde y una calle](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/la-reina-de-los-caracoles-el-alcalde-y-una-calle/Dumel_Los-Calamares_portada.jpeg)

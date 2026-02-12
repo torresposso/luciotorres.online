@@ -5,7 +5,7 @@ pubDate: "2024-01-21 03:01:05"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-muerte-de-piedad-cordoba-y-la-frustrada-prediccion-de-una-santera/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-muerte-de-piedad-cordoba-y-la-frustrada-prediccion-de-una-santera/hero.jpg
 ---
 
 ![Piedad Córdoba era senadora del Pacto Histórico. Fue protagonista de muchas controversias. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-muerte-de-piedad-cordoba-y-la-frustrada-prediccion-de-una-santera/hero.jpg)

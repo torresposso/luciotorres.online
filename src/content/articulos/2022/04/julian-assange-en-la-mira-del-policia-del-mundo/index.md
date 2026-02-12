@@ -5,7 +5,7 @@ pubDate: "2022-04-21 23:02:34"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/julian-assange-en-la-mira-del-policia-del-mundo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/julian-assange-en-la-mira-del-policia-del-mundo/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/julian-assange-en-la-mira-del-policia-del-mundo/hero.jpg)

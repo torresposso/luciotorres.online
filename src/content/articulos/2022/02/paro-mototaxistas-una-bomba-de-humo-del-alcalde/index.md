@@ -5,7 +5,7 @@ pubDate: "2022-03-01 01:16:35"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/paro-mototaxistas-una-bomba-de-humo-del-alcalde/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/paro-mototaxistas-una-bomba-de-humo-del-alcalde/hero.jpg
 ---
 
 ![Un despliegue de fuerza hizo el gobierno distrital para controlar la protesta de los mototaxista. Es parte dela bomba de humo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/paro-mototaxistas-una-bomba-de-humo-del-alcalde/hero.jpg)

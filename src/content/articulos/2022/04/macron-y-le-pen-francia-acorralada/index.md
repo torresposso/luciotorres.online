@@ -5,7 +5,7 @@ pubDate: "2022-04-11 00:59:14"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/macron-y-le-pen-francia-acorralada/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/macron-y-le-pen-francia-acorralada/hero.jpg
 ---
 
 La Francia acorralada por la disyuntiva electoral Macron o Le Pen. Al término de la jornada del día, los resultados electorales de 2022 favorecieron al actual presidente de Francia, Emmanuel Macron (centroderecha) y Marina Le Pen (derecha), quienes pasaron a la segunda vuelta. La **Francia Insumisa de Jean—Luc Mélechon** (izquierda) quedó eliminada de una reñida primera vuelta.

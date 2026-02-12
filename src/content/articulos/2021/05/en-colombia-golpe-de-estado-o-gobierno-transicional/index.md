@@ -5,7 +5,7 @@ pubDate: "2021-05-21 02:11:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-golpe-de-estado-o-gobierno-transicional/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-golpe-de-estado-o-gobierno-transicional/hero.jpg
 ---
 
 \[caption id="attachment\_15048" align="alignnone" width="526"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-golpe-de-estado-o-gobierno-transicional/hero.jpg) La juventud es la fuerza social que evitaría el **golpe de estado**. Cortesía\[/caption\]

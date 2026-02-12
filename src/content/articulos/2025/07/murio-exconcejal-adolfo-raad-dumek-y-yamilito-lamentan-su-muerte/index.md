@@ -5,7 +5,7 @@ pubDate: "2025-07-02 03:34:37"
 author: "Lucio"
 categories: ["Ahora","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/murio-exconcejal-adolfo-raad-dumek-y-yamilito-lamentan-su-muerte/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/murio-exconcejal-adolfo-raad-dumek-y-yamilito-lamentan-su-muerte/hero.jpg
 ---
 
 ![Murió exconcejal Adolfo Raad. Dumek y Yamilito lamentan su muerte](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/murio-exconcejal-adolfo-raad-dumek-y-yamilito-lamentan-su-muerte/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-03-04 22:19:19"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/las-cabronadas-de-petro-con-el-hombre-marlboro-mas-grave-que-la-parapolitica/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/las-cabronadas-de-petro-con-el-hombre-marlboro-mas-grave-que-la-parapolitica/hero.jpg
 ---
 
 ![«Las cabronadas» de Petro con el «Hombre Marlboro» más grave que la «Parapolítica» ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/las-cabronadas-de-petro-con-el-hombre-marlboro-mas-grave-que-la-parapolitica/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-06-17 17:44:21"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Entrevista","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/como-el-hurto-de-telefono-en-el-hotel-el-prado-se-transforma-en-extorsion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/como-el-hurto-de-telefono-en-el-hotel-el-prado-se-transforma-en-extorsion/hero.jpg
 ---
 
 ![Rosmaira Ruiz, destacada comunicadora social-periodista fue víctima del hurto de sus teléfonos que terminaron en extorsión y amenazas de muerte.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/como-el-hurto-de-telefono-en-el-hotel-el-prado-se-transforma-en-extorsion/hero.jpg)

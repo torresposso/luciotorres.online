@@ -5,7 +5,7 @@ pubDate: "2022-03-30 02:09:42"
 author: "Lucio"
 categories: ["Deportes"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/mundial-de-catar-solo-fue-un-sueno/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/mundial-de-catar-solo-fue-un-sueno/hero.jpg
 ---
 
 ![Selección Colombia: los sueños, sueños son. Mundial de Catar solo fue un sueño. Cortesía El Tiempo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/mundial-de-catar-solo-fue-un-sueno/Seleccion-colombia.jpeg)

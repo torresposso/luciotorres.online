@@ -5,7 +5,7 @@ pubDate: "2022-10-23 19:24:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/jep-la-ruta-de-la-memoria-de-un-crimen-pluriofensivo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/jep-la-ruta-de-la-memoria-de-un-crimen-pluriofensivo/hero.jpg
 ---
 
 ![Aspecto de la audiencia de la JEP Canal del Dique. La Ruta de la Memoria](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/jep-la-ruta-de-la-memoria-de-un-crimen-pluriofensivo/hero.jpg)

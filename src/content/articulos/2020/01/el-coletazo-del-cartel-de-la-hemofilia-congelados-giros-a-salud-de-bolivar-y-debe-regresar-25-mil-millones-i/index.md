@@ -5,7 +5,7 @@ pubDate: "2020-01-08 03:59:52"
 author: "Lucio"
 categories: ["Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/01/el-coletazo-del-cartel-de-la-hemofilia-congelados-giros-a-salud-de-bolivar-y-debe-regresar-25-mil-millones-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/01/el-coletazo-del-cartel-de-la-hemofilia-congelados-giros-a-salud-de-bolivar-y-debe-regresar-25-mil-millones-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/01/el-coletazo-del-cartel-de-la-hemofilia-congelados-giros-a-salud-de-bolivar-y-debe-regresar-25-mil-millones-i/hero.jpg)

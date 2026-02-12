@@ -5,7 +5,7 @@ pubDate: "2025-02-13 14:18:33"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-expresidente-uribe-esta-acorralado-impide-avance-de-su-juicio-criminal-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-expresidente-uribe-esta-acorralado-impide-avance-de-su-juicio-criminal-i/hero.jpg
 ---
 
 ![Senador Iván Cepeda Castro, la víctima y el denunciante de Álvaro Uribe, tiene sobre las cuerdas al expresidente Uribe, Impide avance de su juicio criminal. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-expresidente-uribe-esta-acorralado-impide-avance-de-su-juicio-criminal-i/hero.jpg)

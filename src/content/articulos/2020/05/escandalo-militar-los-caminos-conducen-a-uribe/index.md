@@ -5,7 +5,7 @@ pubDate: "2020-05-04 00:12:00"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/escandalo-militar-los-caminos-conducen-a-uribe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/escandalo-militar-los-caminos-conducen-a-uribe/hero.jpg
 ---
 
 \[caption id="attachment\_11641" align="aligncenter" width="576"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/escandalo-militar-los-caminos-conducen-a-uribe/hero.jpg) ¿Nueva imagen? Los hechos conducen a Uribe.\[/caption\] Todos los caminos conducen a Uribe. Cristina Lombana Velásquez, magistrada de la Corte Suprema de Justicia, había recibido en su correo corporativo, el 17 de diciembre de 2019, un dato raro pero significativo: **«información urgente... caso chuzadas-hacker-Álvaro Uribe»**. En forma inmediata, luego de evaluar la información, ordenó el allanamiento de una sede militar del complejo **Miguel Antonio Caro**, ubicado en Facatativá. Era la sede del Batallón de Ciberintenligencia. El caso del allanamiento lo reveló la revista Semana en el mes de enero de 2020. Y este viernes dio a conocer los secretos del seguimiento  que se hicieron a 130 personas y ongs del país. Más  que un escándalo de chuzadas del ejército, refleja el **dominio que el senador Álvaro Uribe ejerce sobre las fuerzas militares** para ponerla al servicio de la cúpula del Centro Democrático, el partido de gobierno. En fin, **los caminos de este escándalo conducen a Uribe.**

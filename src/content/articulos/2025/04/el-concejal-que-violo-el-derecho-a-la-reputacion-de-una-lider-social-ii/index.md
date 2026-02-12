@@ -5,7 +5,7 @@ pubDate: "2025-05-01 03:29:49"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-concejal-que-violo-el-derecho-a-la-reputacion-de-una-lider-social-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-concejal-que-violo-el-derecho-a-la-reputacion-de-una-lider-social-ii/hero.jpg
 ---
 
 ![El concejal que violó el derecho a la reputación de una lideresa](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-concejal-que-violo-el-derecho-a-la-reputacion-de-una-lider-social-ii/hero.jpg)

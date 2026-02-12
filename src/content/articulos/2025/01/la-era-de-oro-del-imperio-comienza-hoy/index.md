@@ -5,7 +5,7 @@ pubDate: "2025-01-21 04:10:27"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/la-era-de-oro-del-imperio-comienza-hoy/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/la-era-de-oro-del-imperio-comienza-hoy/hero.jpg
 ---
 
 ![¿La Era de Oro del imperio comienza hoy?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/la-era-de-oro-del-imperio-comienza-hoy/Donald-TRUMp_posesion.jpeg)

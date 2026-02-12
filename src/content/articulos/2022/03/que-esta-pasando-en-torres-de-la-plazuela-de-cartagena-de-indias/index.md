@@ -5,7 +5,7 @@ pubDate: "2022-03-25 12:25:43"
 author: "Lucio"
 categories: ["Cartagena","Mi Ciudad","Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/que-esta-pasando-en-torres-de-la-plazuela-de-cartagena-de-indias/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/que-esta-pasando-en-torres-de-la-plazuela-de-cartagena-de-indias/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/que-esta-pasando-en-torres-de-la-plazuela-de-cartagena-de-indias/hero.jpg)

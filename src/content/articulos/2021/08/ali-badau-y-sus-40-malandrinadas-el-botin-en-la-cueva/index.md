@@ -5,7 +5,7 @@ pubDate: "2021-08-31 16:52:20"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ali-badau-y-sus-40-malandrinadas-el-botin-en-la-cueva/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ali-badau-y-sus-40-malandrinadas-el-botin-en-la-cueva/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/ali-badau-y-sus-40-malandrinadas-el-botin-en-la-cueva/hero.jpg)

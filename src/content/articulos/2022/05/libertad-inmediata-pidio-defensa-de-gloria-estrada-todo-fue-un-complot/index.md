@@ -5,7 +5,7 @@ pubDate: "2022-05-14 18:34:06"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/libertad-inmediata-pidio-defensa-de-gloria-estrada-todo-fue-un-complot/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/libertad-inmediata-pidio-defensa-de-gloria-estrada-todo-fue-un-complot/hero.jpg
 ---
 
 ![Pese a todo, Gloria Estrada recibió el apoyo de su gente. Ahora piden ¡Libertad inmediata!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/libertad-inmediata-pidio-defensa-de-gloria-estrada-todo-fue-un-complot/WhatsApp-Image-2022-05-14-at-1.01.16-PM.jpeg)

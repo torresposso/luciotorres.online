@@ -5,7 +5,7 @@ pubDate: "2023-12-18 01:28:54"
 author: "Lucio"
 categories: ["Análisis"]
 tags: ["ELN","Gustavo Petro","Vera Grabe"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/eln-acordo-no-secuestrar-mas/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/eln-acordo-no-secuestrar-mas/hero.jpg
 ---
 
 ![El ELN acordó NO secuestrar más. Uno de los puntos más importantes de la agenda.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/eln-acordo-no-secuestrar-mas/hero.jpg)

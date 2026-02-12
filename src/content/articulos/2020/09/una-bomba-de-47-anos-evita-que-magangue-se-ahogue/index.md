@@ -5,7 +5,7 @@ pubDate: "2020-09-07 00:47:41"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/09/una-bomba-de-47-anos-evita-que-magangue-se-ahogue/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/09/una-bomba-de-47-anos-evita-que-magangue-se-ahogue/hero.jpg
 ---
 
 \[caption id="attachment\_12564" align="aligncenter" width="702"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/09/una-bomba-de-47-anos-evita-que-magangue-se-ahogue/BOMBEO-1024x768.jpeg) Una bomba con transformador de 400 KVA y de 25 KVA en las estaciones Sur y Norte.\[/caption\] Antes de que los holandeses trajeran una bomba inmensa a Magangué, mi tío Mingo Meza nos llevaba a pescar a la **Ciénaga Grande de Versalles**. Recuerdo que, de repente, nos hacía señal de que estuviésemos  en silencio y quietos. Luego, como si fuera un indio guerrero, con una lanza aferrada en la parte inferior del asta, la hacía volar con fuerza. Y de pronto, con alta precisión, se incrustaba en el lomo negro del bocachico que solo él veía. Al final de la pesca, la canoa de madera estaba repleta de bocachicos tan grandes como yo. Pero eso es solo recuerdo. Hoy, Magangué adolece de pobreza, desigualdad y hambre. Antes de que construyeran los jarillones, nadie se dormía sin probar un **_bocao'e comía._** En los patios de las casas las hornillas estaban activas. Siempre había pescado frito, en viuda y con yuca. Hoy, la pobreza es inmensa_._  Para mantener esa gran bomba de agua, el municipio de Magangué invierte en mantenimiento **$250 millones**. Me aclara el alcalde **Carlos Cabrales Isaac**. O sea, no es una motobomba cualquiera. Ni tampoco ese contrato sea la «garrapata en el oído».

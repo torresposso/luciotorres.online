@@ -5,7 +5,7 @@ pubDate: "2021-06-03 00:01:52"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-colombia-sigue-alerta-roja-hospitalaria-por-la-covid-19/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-colombia-sigue-alerta-roja-hospitalaria-por-la-covid-19/hero.jpg
 ---
 
 \[caption id="attachment\_15257" align="aligncenter" width="800"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-colombia-sigue-alerta-roja-hospitalaria-por-la-covid-19/hero.jpg) **Alerta roja rospitalaria.** Las EPS de espalda a la emergencia. Cortesía ElHospital.com.\[/caption\]

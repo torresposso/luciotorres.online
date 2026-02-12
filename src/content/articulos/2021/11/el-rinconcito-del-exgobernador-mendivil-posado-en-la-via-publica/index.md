@@ -5,7 +5,7 @@ pubDate: "2021-11-12 19:32:55"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/el-rinconcito-del-exgobernador-mendivil-posado-en-la-via-publica/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/el-rinconcito-del-exgobernador-mendivil-posado-en-la-via-publica/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/el-rinconcito-del-exgobernador-mendivil-posado-en-la-via-publica/hero.jpg)

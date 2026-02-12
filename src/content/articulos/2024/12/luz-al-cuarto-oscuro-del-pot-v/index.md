@@ -5,7 +5,7 @@ pubDate: "2024-12-12 12:29:06"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/luz-al-cuarto-oscuro-del-pot-v/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/luz-al-cuarto-oscuro-del-pot-v/hero.jpg
 ---
 
 ![Juan Correa Reyes, el Zar del nuevo POT ¿al servicio de los negociantes del suelo? Es el director del cuarto oscuro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/luz-al-cuarto-oscuro-del-pot-v/hero.jpg)

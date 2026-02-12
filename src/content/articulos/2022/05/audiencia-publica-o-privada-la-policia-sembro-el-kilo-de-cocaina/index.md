@@ -5,7 +5,7 @@ pubDate: "2022-05-18 18:36:30"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/audiencia-publica-o-privada-la-policia-sembro-el-kilo-de-cocaina/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/audiencia-publica-o-privada-la-policia-sembro-el-kilo-de-cocaina/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/audiencia-publica-o-privada-la-policia-sembro-el-kilo-de-cocaina/hero.jpg)

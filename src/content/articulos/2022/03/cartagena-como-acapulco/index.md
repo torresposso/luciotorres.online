@@ -5,7 +5,7 @@ pubDate: "2022-03-02 16:54:24"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/cartagena-como-acapulco/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/cartagena-como-acapulco/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/cartagena-como-acapulco/hero.jpg)

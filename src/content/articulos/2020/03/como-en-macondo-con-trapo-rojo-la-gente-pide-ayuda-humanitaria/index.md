@@ -5,7 +5,7 @@ pubDate: "2020-03-30 04:23:26"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/como-en-macondo-con-trapo-rojo-la-gente-pide-ayuda-humanitaria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/como-en-macondo-con-trapo-rojo-la-gente-pide-ayuda-humanitaria/hero.jpg
 ---
 
 \[caption id="attachment\_11343" align="aligncenter" width="527"\]![Dau](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/como-en-macondo-con-trapo-rojo-la-gente-pide-ayuda-humanitaria/hero.jpg) **El alcalde William Dau entregando mercaditos**. Líderes populares lo califican de politiquería populista. **Cortesía alcaldía de Cartagena**.\[/caption\] En los barrios populares de Barranquilla y Cartagena, a pesar de colocar **trapo rojo** en las fachadas de sus casas como señal de urgente necesidad, **no reciben la tan anhelada ayuda humanitaria con ocasión de la cuarentena por el Coronavirus**. Mientras tanto, algunos mandatarios se toman fotos entregando mercaditos, **conducta calificada de oportunismo populista y de propaganda política negativa**. Ni la alcaldía de Barranquilla, de **Jaime Pumarejo**, ni la de Cartagena con **William Dau Chamat**, han atendido un porcentaje significativo de la población necesitada de ayuda humanitaria. **Pero se ufanan ante los medios de comunicación y de sus redes sociales de haber atendido a la población vulnerable** de estas dos ciudades.

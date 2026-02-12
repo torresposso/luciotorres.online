@@ -5,7 +5,7 @@ pubDate: "2024-06-23 06:06:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Alcaldía de Cartagena","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/resignificar-la-nueva-plaza-de-toros-el-desafio-de-dumek/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/resignificar-la-nueva-plaza-de-toros-el-desafio-de-dumek/hero.jpg
 ---
 
 ![La majestuosa Nueva Plaza de Toros ya no será para que la élite deleite sus bajos instintos violentos. Hablaremos con el alcalde Dumek para que la convierta en una Plaza de la Paz. Y le diremos cómo./VoxPopuli Digital.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/resignificar-la-nueva-plaza-de-toros-el-desafio-de-dumek/hero.jpg)

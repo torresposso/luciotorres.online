@@ -5,7 +5,7 @@ pubDate: "2023-06-24 00:47:50"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-titan-implosion-del-espiritu-sonador/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-titan-implosion-del-espiritu-sonador/hero.jpg
 ---
 
 ![El Titán: ¿implosión del espíritu soñador? Hamish Harding, Shahzada Dawood y su hijo Suleman Dawood, Paul-Henri Nargeolet,y Stockton Rushy/CNN](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-titan-implosion-del-espiritu-sonador/hero.jpg)

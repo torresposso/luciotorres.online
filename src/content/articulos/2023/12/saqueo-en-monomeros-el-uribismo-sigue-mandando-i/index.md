@@ -5,7 +5,7 @@ pubDate: "2023-12-26 11:08:44"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/hero.jpg
 ---
 
 ![El oro del abogado David Espinosa Acuña al servicio del uribismo. ¿Saqueo en Monómeros? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/hero.jpg)

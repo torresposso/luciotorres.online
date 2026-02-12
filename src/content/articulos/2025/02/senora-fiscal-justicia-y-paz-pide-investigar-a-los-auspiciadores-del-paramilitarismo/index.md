@@ -5,7 +5,7 @@ pubDate: "2025-02-19 01:41:00"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/senora-fiscal-justicia-y-paz-pide-investigar-a-los-auspiciadores-del-paramilitarismo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/senora-fiscal-justicia-y-paz-pide-investigar-a-los-auspiciadores-del-paramilitarismo/hero.jpg
 ---
 
 ![La fiscal Luz Adriana Camargo debe demostrar que no solo son bonitos discursos. Se necesita acción para someter a los auspiciadores del paramilitarismo y la defensa de los derechos de las víctimas](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/senora-fiscal-justicia-y-paz-pide-investigar-a-los-auspiciadores-del-paramilitarismo/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-01-28 21:26:51"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/un-pobre-debate-presidencial-que-ni-siquiera-petro-brillo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/un-pobre-debate-presidencial-que-ni-siquiera-petro-brillo/hero.jpg
 ---
 
 ![Un debate presidencial pobre. Aquí Gustavo Petro asumió una posición trumpista.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/un-pobre-debate-presidencial-que-ni-siquiera-petro-brillo/hero.jpg)

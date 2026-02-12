@@ -5,7 +5,7 @@ pubDate: "2020-07-13 01:40:23"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/el-caiman-de-tasajera-reclama-su-territorio/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/el-caiman-de-tasajera-reclama-su-territorio/hero.jpg
 ---
 
 \[caption id="attachment\_12037" align="alignnone" width="980"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/el-caiman-de-tasajera-reclama-su-territorio/caiman-de-tasajera.jpeg) _El caimán de Tasajera. Uno así se le atravesó al conductor del carro cisterna siniestrado. Cortesía._\[/caption\]

@@ -5,7 +5,7 @@ pubDate: "2022-10-02 16:10:12"
 author: "Lucio"
 categories: ["Análisis","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/brasil-la-resurreccion-politica-de-lula/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/brasil-la-resurreccion-politica-de-lula/hero.jpg
 ---
 
 ![¿La resurrección política de Lula?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/brasil-la-resurreccion-politica-de-lula/hero.jpg)

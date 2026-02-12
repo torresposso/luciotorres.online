@@ -5,7 +5,7 @@ pubDate: "2022-02-02 22:41:11"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/la-celeridad-de-la-justicia-para-favorecer-a-gabriel-echavarria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/la-celeridad-de-la-justicia-para-favorecer-a-gabriel-echavarria/hero.jpg
 ---
 
 ![La celeridad de la justicia: Ángel o demonio?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/la-celeridad-de-la-justicia-para-favorecer-a-gabriel-echavarria/hero.jpg)

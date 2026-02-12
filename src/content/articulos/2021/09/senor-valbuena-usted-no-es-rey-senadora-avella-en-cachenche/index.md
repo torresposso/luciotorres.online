@@ -5,7 +5,7 @@ pubDate: "2021-09-09 21:01:30"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/senor-valbuena-usted-no-es-rey-senadora-avella-en-cachenche/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/senor-valbuena-usted-no-es-rey-senadora-avella-en-cachenche/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/senor-valbuena-usted-no-es-rey-senadora-avella-en-cachenche/2.jpeg)

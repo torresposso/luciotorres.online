@@ -5,7 +5,7 @@ pubDate: "2022-12-28 01:20:18"
 author: "Lucio"
 categories: ["Análisis","Cultura","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-madame-policia-que-ama-a-los-ninos-a-la-guandoca-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-madame-policia-que-ama-a-los-ninos-a-la-guandoca-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-madame-policia-que-ama-a-los-ninos-a-la-guandoca-i/hero.jpg)

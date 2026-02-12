@@ -5,7 +5,7 @@ pubDate: "2021-05-01 00:41:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/corvivienda-muere-lentamente-en-el-gobierno-de-dau-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/corvivienda-muere-lentamente-en-el-gobierno-de-dau-ii/hero.jpg
 ---
 
 \[caption id="attachment\_14754" align="aligncenter" width="1920"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/corvivienda-muere-lentamente-en-el-gobierno-de-dau-ii/hero.jpg) **Corvivienda muere lentamente.** No han hecho nada. El año pasado se gastaron $26 mil millones y no construyeron una sola vivienda.\[/caption\]

@@ -5,7 +5,7 @@ pubDate: "2021-09-24 19:31:33"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/contrato-mintic-donde-estan-los-bandidos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/contrato-mintic-donde-estan-los-bandidos/hero.jpg
 ---
 
 ![Contrato MinTic](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/contrato-mintic-donde-estan-los-bandidos/hero.jpg)

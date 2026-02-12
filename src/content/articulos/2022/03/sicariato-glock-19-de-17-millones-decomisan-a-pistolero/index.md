@@ -5,7 +5,7 @@ pubDate: "2022-03-30 01:28:57"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/sicariato-glock-19-de-17-millones-decomisan-a-pistolero/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/sicariato-glock-19-de-17-millones-decomisan-a-pistolero/hero.jpg
 ---
 
 ![Una pistola Glock de $17 millones como esta, le decomisaron a un presunto sicario de «Los Robledo».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/sicariato-glock-19-de-17-millones-decomisan-a-pistolero/hero.jpg)

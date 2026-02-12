@@ -5,7 +5,7 @@ pubDate: "2022-03-27 02:36:26"
 author: "Lucio"
 categories: ["Investigación","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/hero.jpg
 ---
 
 https://youtu.be/756HEqOXyDo

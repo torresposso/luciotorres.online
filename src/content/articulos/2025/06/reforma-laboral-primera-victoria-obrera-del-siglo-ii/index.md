@@ -5,7 +5,7 @@ pubDate: "2025-06-28 02:09:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/reforma-laboral-primera-victoria-obrera-del-siglo-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/reforma-laboral-primera-victoria-obrera-del-siglo-ii/hero.jpg
 ---
 
 ![¿Reforma laboral, primera victoria obrera del siglo?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/reforma-laboral-primera-victoria-obrera-del-siglo-ii/hero.jpg)

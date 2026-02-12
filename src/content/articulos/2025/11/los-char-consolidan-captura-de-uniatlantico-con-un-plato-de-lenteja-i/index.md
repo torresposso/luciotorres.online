@@ -5,7 +5,7 @@ pubDate: "2025-11-12 23:52:39"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/los-char-consolidan-captura-de-uniatlantico-con-un-plato-de-lenteja-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/los-char-consolidan-captura-de-uniatlantico-con-un-plato-de-lenteja-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/los-char-consolidan-captura-de-uniatlantico-con-un-plato-de-lenteja-i/hero.jpg)

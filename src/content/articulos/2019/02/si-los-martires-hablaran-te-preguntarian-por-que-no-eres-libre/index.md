@@ -5,7 +5,7 @@ pubDate: "2019-02-24 11:47:22"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/si-los-martires-hablaran-te-preguntarian-por-que-no-eres-libre/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/si-los-martires-hablaran-te-preguntarian-por-que-no-eres-libre/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/si-los-martires-hablaran-te-preguntarian-por-que-no-eres-libre/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-08-08 02:37:12"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/el-golpe-de-chuleta-en-el-club-campestre-de-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/el-golpe-de-chuleta-en-el-club-campestre-de-cartagena/hero.jpg
 ---
 
 ![Golpe de chuleta en el Club Campestre: Este trío debe responder: Fanny Batista, Jhon Villamizar y  Luis Fernando Lemus.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/el-golpe-de-chuleta-en-el-club-campestre-de-cartagena/hero.jpg)

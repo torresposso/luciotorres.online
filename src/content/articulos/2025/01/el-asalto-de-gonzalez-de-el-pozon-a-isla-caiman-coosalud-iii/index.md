@@ -5,7 +5,7 @@ pubDate: "2025-01-07 03:34:48"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/hero.jpg
 ---
 
 ![La internacionalización de Coosalud. El salto de González.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/hero.jpg)

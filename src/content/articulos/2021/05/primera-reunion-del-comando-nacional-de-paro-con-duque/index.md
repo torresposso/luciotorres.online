@@ -5,7 +5,7 @@ pubDate: "2021-05-10 03:25:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/primera-reunion-del-comando-nacional-de-paro-con-duque/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/primera-reunion-del-comando-nacional-de-paro-con-duque/hero.jpg
 ---
 
 El Comando Nacional de Paro **aceptó reunirse con el presidente Iván Duque Márquez** este lunes al mediodía en la Casa de Mariño. Pero el Paro el 10 de Mayo se mantiene. Los directivos del movimiento de protesta, que tiene en vilo al país, solicitaron el acompañamiento de voceros de la ONU y del Episcopado colombiano.

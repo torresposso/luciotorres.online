@@ -5,7 +5,7 @@ pubDate: "2022-07-19 14:39:58"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/admiten-accion-popular-contra-transcaribe-por-alta-accidentalidad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/admiten-accion-popular-contra-transcaribe-por-alta-accidentalidad/hero.jpg
 ---
 
 ![Admiten Acción Popular contra Transcaribe por alta accidentalidad](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/admiten-accion-popular-contra-transcaribe-por-alta-accidentalidad/hero.jpg)

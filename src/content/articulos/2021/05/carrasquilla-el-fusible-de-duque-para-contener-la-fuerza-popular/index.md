@@ -5,7 +5,7 @@ pubDate: "2021-05-03 23:26:46"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/carrasquilla-el-fusible-de-duque-para-contener-la-fuerza-popular/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/carrasquilla-el-fusible-de-duque-para-contener-la-fuerza-popular/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/carrasquilla-el-fusible-de-duque-para-contener-la-fuerza-popular/Jose-Manuel-Restrepo-Alianza-del-pacifico.jpeg)

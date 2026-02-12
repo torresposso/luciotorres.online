@@ -5,7 +5,7 @@ pubDate: "2023-01-07 02:03:41"
 author: "Lucio"
 categories: ["Cultura"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/festival-internacional-de-cartagena-el-canto-de-la-tierra/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/festival-internacional-de-cartagena-el-canto-de-la-tierra/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/festival-internacional-de-cartagena-el-canto-de-la-tierra/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2020-09-23 16:06:29"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/09/tres-razones-para-no-enjaular-a-mariamulata/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/09/tres-razones-para-no-enjaular-a-mariamulata/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/09/tres-razones-para-no-enjaular-a-mariamulata/mariamulata-composicion.jpeg)El juez promiscuo de Turbaco, **Alfonso Meza de la Ossa**, **decidió no enjaular a «Mariamulata»** por tres razones fundamentales. (I) El Polígono, terreno vendido, no era playa sino terreno baldío. (II) **Judith Pinedo Flórez,** en su calidad de alcaldesa distrital de Cartagena, fue autorizada por el concejo distrital para vender esos terrenos. Y (III), el Hotel Dann (ayer Las Velas) lo venía poseyendo desde hacía más de 10 años. Esta decisión —que puede ser polémica— fue tomada luego de un prolongado proceso penal que cumplió una década de _ires_ y _venires_. Ahora la exalcaldesa de Cartagena, Judith Pinedo Flórez, puede respirar con tranquilidad. Por ahora. Vendría la apelación correspondiente. Apelación que podría impetrar la misma Fiscalía.

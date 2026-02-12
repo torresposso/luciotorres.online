@@ -5,7 +5,7 @@ pubDate: "2022-01-06 15:42:34"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/la-muerte-como-transformacion-en-polvo-cosmico/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/la-muerte-como-transformacion-en-polvo-cosmico/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/la-muerte-como-transformacion-en-polvo-cosmico/hero.jpg)

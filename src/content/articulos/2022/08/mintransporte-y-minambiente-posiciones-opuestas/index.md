@@ -5,7 +5,7 @@ pubDate: "2022-08-18 02:35:30"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/mintransporte-y-minambiente-posiciones-opuestas/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/mintransporte-y-minambiente-posiciones-opuestas/hero.jpg
 ---
 
 ![¿Existen posiciones opuestas entre el ministerio de Medio Ambiente y el ministerio de Transporte en torno al megaproyecto Canal del Dique? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/mintransporte-y-minambiente-posiciones-opuestas/hero.jpg)

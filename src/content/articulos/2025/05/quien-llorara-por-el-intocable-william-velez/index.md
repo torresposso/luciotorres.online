@@ -5,7 +5,7 @@ pubDate: "2025-05-21 02:42:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/quien-llorara-por-el-intocable-william-velez/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/quien-llorara-por-el-intocable-william-velez/hero.jpg
 ---
 
 ![El intocable William Vélez murió en un accidente doméstico, se cayó en el baño](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/quien-llorara-por-el-intocable-william-velez/hero.jpg)

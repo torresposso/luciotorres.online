@@ -5,7 +5,7 @@ pubDate: "2023-06-11 01:35:20"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/suicidio-cachos-o-chuzadas-v/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/suicidio-cachos-o-chuzadas-v/hero.jpg
 ---
 
 ![El presidente Gustavo Petro aclaró que se trató de un suicidio.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/suicidio-cachos-o-chuzadas-v/hero.jpg)

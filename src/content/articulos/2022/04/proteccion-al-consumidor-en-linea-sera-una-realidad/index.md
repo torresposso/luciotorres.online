@@ -5,7 +5,7 @@ pubDate: "2022-04-20 01:05:39"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/proteccion-al-consumidor-en-linea-sera-una-realidad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/proteccion-al-consumidor-en-linea-sera-una-realidad/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/proteccion-al-consumidor-en-linea-sera-una-realidad/hero.jpg)

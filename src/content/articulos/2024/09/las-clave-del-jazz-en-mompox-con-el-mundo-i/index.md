@@ -5,7 +5,7 @@ pubDate: "2024-09-11 03:24:09"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/hero.jpg
 ---
 
 ![Las clave del jazz del gobernador Yamil Arana Padauí. Aquí celebrando la victoria de Colombia frente a Argentina](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/hero.jpg)

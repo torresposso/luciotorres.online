@@ -5,7 +5,7 @@ pubDate: "2022-05-29 13:31:00"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-asamblea-afro-del-canal-del-dique-convoco-votar-por-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-asamblea-afro-del-canal-del-dique-convoco-votar-por-petro/hero.jpg
 ---
 
 ![Adil Meléndez y los diferentes líderes que organizaron la Asamblea Popular de Organizaciones Afros del Canal del Dique.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-asamblea-afro-del-canal-del-dique-convoco-votar-por-petro/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2020-04-08 23:39:25"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/dau-alcalde-de-punalada-trapera-usa-covid-19-para-enriquecer-a-privados/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/dau-alcalde-de-punalada-trapera-usa-covid-19-para-enriquecer-a-privados/hero.jpg
 ---
 
 \[caption id="attachment\_11429" align="aligncenter" width="770"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/dau-alcalde-de-punalada-trapera-usa-covid-19-para-enriquecer-a-privados/hero.jpg) **La propaganda polítca** del alcalde Dau Chamat. Cortesía Oficina de Prensa Distrito.\[/caption\] **William Dau Chamat** quiere enriquecerse con lo más mínimo del presupuesto de todos los cartageneros. Es un alcalde de puñalada trapera. Mientras te da cátedra de anticorrupción, despedaza el escaso dinero del **Covid-19** para hacer una contratación leonina, amañada y _malándrica_. Mientras posa de pedir ayuda a los privados, se gasta el dinero de los más pobres con sus amigotes ricos.

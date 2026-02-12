@@ -5,7 +5,7 @@ pubDate: "2023-02-07 13:00:15"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-pronosticada-renuncia-de-arturo-char-y-la-caida-de-casa-blanca/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-pronosticada-renuncia-de-arturo-char-y-la-caida-de-casa-blanca/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-pronosticada-renuncia-de-arturo-char-y-la-caida-de-casa-blanca/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-03-18 01:00:10"
 author: "Lucio"
 categories: ["Crónica","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-poder-corruptor-en-los-consejos-de-administracion-de-la-propiedad-horizontal/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-poder-corruptor-en-los-consejos-de-administracion-de-la-propiedad-horizontal/hero.jpg
 ---
 
 ![Myrna Martínez, jefe de oficina se le sindica de inscribir un consejo de administración ilegal. Propiedad Horizontal de Torres de la Plazuela.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-poder-corruptor-en-los-consejos-de-administracion-de-la-propiedad-horizontal/hero.jpg)

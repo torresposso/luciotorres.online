@@ -5,7 +5,7 @@ pubDate: "2022-04-18 23:46:57"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/hero.jpg
 ---
 
 ![El hermano del candidato Petro, Juan Fernando es un activista de la campaña del Pacto Histórico. El «perdón social» con los internos del pabellón Ere de La Picota tiene crucificado a Gustavo Petro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/hero.jpg)

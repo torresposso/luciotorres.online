@@ -5,7 +5,7 @@ pubDate: "2022-06-28 19:32:31"
 author: "Lucio"
 categories: ["Investigación","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/redisenar-el-proyecto-del-pot-y-censurar-al-secretario-de-planeacion-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/redisenar-el-proyecto-del-pot-y-censurar-al-secretario-de-planeacion-i/hero.jpg
 ---
 
 Proponer el rediseño del proyecto del POT e iniciar un proceso de moción de censura se podría emprender en el concejo de Cartagena. Aparentemente existe una incompetencia del secretario de Planeación, el economista **Franklin Amador Hawkins**, de formular un proyecto integral de alta factura. La secretaría de Planeación es tan clave como la de Hacienda, cuyos indicadores de resultados son deficitarios y deben ser controlados por el concejo Distrital.

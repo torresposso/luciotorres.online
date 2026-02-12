@@ -5,7 +5,7 @@ pubDate: "2022-09-23 21:04:55"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/comision-quinta-atiende-soscartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/comision-quinta-atiende-soscartagena/hero.jpg
 ---
 
 ![Vía a Mamonal, la zona industrial. #SOSCartagena](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/comision-quinta-atiende-soscartagena/Bloqueo-Mamonal-1.jpeg)

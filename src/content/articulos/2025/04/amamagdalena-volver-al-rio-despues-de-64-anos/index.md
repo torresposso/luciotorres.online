@@ -5,7 +5,7 @@ pubDate: "2025-04-10 02:51:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/amamagdalena-volver-al-rio-despues-de-64-anos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/amamagdalena-volver-al-rio-despues-de-64-anos/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/amamagdalena-volver-al-rio-despues-de-64-anos/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2025-04-15 00:35:56"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/jesus-o-barrabas-hambre-y-sed-de-justicia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/jesus-o-barrabas-hambre-y-sed-de-justicia/hero.jpg
 ---
 
 ![¿Jesús o Barrabás? Hambre y sed de justicia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/jesus-o-barrabas-hambre-y-sed-de-justicia/hero.jpg)

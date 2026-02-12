@@ -5,7 +5,7 @@ pubDate: "2021-08-09 22:18:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/policia-favorece-a-testaferros-del-narcotrafico-en-desalojo-ilegal-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/policia-favorece-a-testaferros-del-narcotrafico-en-desalojo-ilegal-iii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/policia-favorece-a-testaferros-del-narcotrafico-en-desalojo-ilegal-iii/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-01-23 21:56:15"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/caso-gloria-estrada-puede-ser-un-falso-positivo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/caso-gloria-estrada-puede-ser-un-falso-positivo/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/caso-gloria-estrada-puede-ser-un-falso-positivo/hero.jpg)

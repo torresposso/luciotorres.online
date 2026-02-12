@@ -5,7 +5,7 @@ pubDate: "2022-07-17 14:05:37"
 author: "Lucio"
 categories: ["Análisis","Mi País","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/los-veteranos-de-petro-se-pueden-caer/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/los-veteranos-de-petro-se-pueden-caer/hero.jpg
 ---
 
 ![¿Se pueden caer los adultos mayor de Petro?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/los-veteranos-de-petro-se-pueden-caer/hero.jpg)

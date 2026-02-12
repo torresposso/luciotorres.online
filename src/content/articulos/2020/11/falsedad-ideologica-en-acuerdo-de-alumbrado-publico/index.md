@@ -5,7 +5,7 @@ pubDate: "2020-11-08 23:41:43"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/falsedad-ideologica-en-acuerdo-de-alumbrado-publico/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/falsedad-ideologica-en-acuerdo-de-alumbrado-publico/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/falsedad-ideologica-en-acuerdo-de-alumbrado-publico/hero.jpg)Otra falsedad ideológica de la administracion Dau. El proyecto de acuerdo **No 044 del 2020** de alumbrado público presentado por el alcalde de Cartagena **William Dau Chamat,** es más falso que una moneda de cuero. La certificación anexada por su Secretario de Planeación **Guillermo Avila falsea la realidad**. Contrario a lo que Ávila certifica, su contenido no está contemplado en el acuerdo **No 027 DE 2020 del Plan de Desarrollo Salvemos a Cartagena** (documento no disponible). ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/falsedad-ideologica-en-acuerdo-de-alumbrado-publico/alumbrado_Mesa-de-trabajo-1-copia-3_Mesa-de-trabajo-1-copia-3-1024x909.jpg)

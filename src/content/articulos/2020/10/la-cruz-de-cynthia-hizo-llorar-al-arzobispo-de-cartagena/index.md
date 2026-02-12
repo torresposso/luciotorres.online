@@ -5,7 +5,7 @@ pubDate: "2020-10-26 01:15:58"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/la-cruz-de-cynthia-hizo-llorar-al-arzobispo-de-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/la-cruz-de-cynthia-hizo-llorar-al-arzobispo-de-cartagena/hero.jpg
 ---
 
 Escuchar llorar al arzobispo de Cartagena conmueve a cualquier cristiano. **Monseñor Jorge Enrique Jiménez Carvajal** no aguantó el llanto. Su voz se quebró cuando leía hoy el comunicado de la arquidiócesis sobre **«La Cruz de Cynthia**». Pero más que resolver el problema lo agravó. Cayó en una grave contradicción que aquí, en este escrito, se lo narro con objetividad y revelo la prueba reina que podría hundir al **«alcalde malandro» y a sus compinches**. Monseñor sintió el «meque» (la fuerza) de esa pesada cruz que lo atormenta camino al Gólgota del escarnio público. No se si quiso salvar al padre Christian Mercado, a la iglesia o a la misma Cynthia del suplicio de la pesada cruz. Pero su error puede ser interpretado como una forma de complicidad frente a un fraude procesal, una falsedad y el delito de contrato con interés propio. Su llanto reflejó las emociones contenidas. Reprimidas. Las liberó. Pero también pudo ser expresión de impotencia. O reflejo de su contradicción consciente. Puede presentir que hay una amenaza cierta a la fe de la iglesia Católica y del advenimiento de un cisma. Pero los desordenes de un padre que le dio una certificación a Cynthia Pérez Amador en 2009, ciertamente no lo debe pagar el párroco actual de la iglesia **María Madre de los Pobres y de las Naciones** del barrio El Educador, **padre Christian Mercado Mercado**.

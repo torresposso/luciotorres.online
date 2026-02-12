@@ -5,7 +5,7 @@ pubDate: "2021-04-21 18:26:26"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/exalcaldesa-en-san-diego-espera-la-casa-por-carcel/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/exalcaldesa-en-san-diego-espera-la-casa-por-carcel/hero.jpg
 ---
 
 \[caption id="attachment\_14586" align="aligncenter" width="613"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/exalcaldesa-en-san-diego-espera-la-casa-por-carcel/hero.jpg) El día que a Judith Pïnedo le leyeron sus derechos al ser detenida. Espera «casa por cárcel». \[/caption\]

@@ -5,7 +5,7 @@ pubDate: "2021-05-27 18:43:10"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-cartagena-se-acrecienta-la-narcoguerra/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-cartagena-se-acrecienta-la-narcoguerra/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-cartagena-se-acrecienta-la-narcoguerra/Alias-el-gordo.jpeg)

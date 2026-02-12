@@ -5,7 +5,7 @@ pubDate: "2026-01-01 16:16:17"
 author: "Lucio"
 categories: ["Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/los-cacos-se-horrorizan-con-el-incremento-salarial-del-minimo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/los-cacos-se-horrorizan-con-el-incremento-salarial-del-minimo/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/los-cacos-se-horrorizan-con-el-incremento-salarial-del-minimo/hero.jpg)

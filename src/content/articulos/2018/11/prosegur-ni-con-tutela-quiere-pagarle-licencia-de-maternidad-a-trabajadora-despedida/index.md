@@ -5,7 +5,7 @@ pubDate: "2018-11-26 04:50:53"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/prosegur-ni-con-tutela-quiere-pagarle-licencia-de-maternidad-a-trabajadora-despedida/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/prosegur-ni-con-tutela-quiere-pagarle-licencia-de-maternidad-a-trabajadora-despedida/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/prosegur-ni-con-tutela-quiere-pagarle-licencia-de-maternidad-a-trabajadora-despedida/hero.jpg)

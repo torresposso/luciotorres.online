@@ -5,7 +5,7 @@ pubDate: "2024-10-11 02:08:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/cne-inicio-golpe-blando-contra-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/cne-inicio-golpe-blando-contra-petro/hero.jpg
 ---
 
 ![¿«Golpe blando» del CNE contra Petro? El Consejo de Estado respaldó la decisión del CNE y rechazó una solicitud de nulidad de la defensa del presidente.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/cne-inicio-golpe-blando-contra-petro/hero.jpg)

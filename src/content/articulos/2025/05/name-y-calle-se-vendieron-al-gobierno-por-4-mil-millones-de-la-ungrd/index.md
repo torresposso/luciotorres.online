@@ -5,7 +5,7 @@ pubDate: "2025-05-09 10:53:33"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/name-y-calle-se-vendieron-al-gobierno-por-4-mil-millones-de-la-ungrd/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/name-y-calle-se-vendieron-al-gobierno-por-4-mil-millones-de-la-ungrd/hero.jpg
 ---
 
 ![Ahora Iván Name y Andrés Calle amanecieron tras las rejas./Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/name-y-calle-se-vendieron-al-gobierno-por-4-mil-millones-de-la-ungrd/hero.jpg)

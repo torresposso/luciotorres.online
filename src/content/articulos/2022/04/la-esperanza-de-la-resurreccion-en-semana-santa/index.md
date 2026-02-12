@@ -5,7 +5,7 @@ pubDate: "2022-04-14 20:21:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-esperanza-de-la-resurreccion-en-semana-santa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-esperanza-de-la-resurreccion-en-semana-santa/hero.jpg
 ---
 
 ![La esperanza de la resurrección en Semana Santa. Cristo resucitó en mí.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/la-esperanza-de-la-resurreccion-en-semana-santa/hero.jpg)

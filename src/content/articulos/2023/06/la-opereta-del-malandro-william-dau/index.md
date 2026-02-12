@@ -5,7 +5,7 @@ pubDate: "2023-06-28 22:59:13"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/la-opereta-del-malandro-william-dau/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/la-opereta-del-malandro-william-dau/hero.jpg
 ---
 
 ![Maríamulata iba a ser la Gerente de Cartagena. Pero debido a su problema judicial, Dau nombró a Claudia Fadul. La opereta del malandro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/la-opereta-del-malandro-william-dau/hero.jpg)

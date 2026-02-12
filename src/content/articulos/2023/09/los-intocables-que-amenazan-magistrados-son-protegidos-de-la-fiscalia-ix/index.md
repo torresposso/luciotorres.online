@@ -5,7 +5,7 @@ pubDate: "2023-09-17 21:56:54"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/los-intocables-que-amenazan-magistrados-son-protegidos-de-la-fiscalia-ix/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/los-intocables-que-amenazan-magistrados-son-protegidos-de-la-fiscalia-ix/hero.jpg
 ---
 
 ![Gustavo Roa Avendaño, autor de las macrosentencias contra el paramilitarismos y compulsas de copia a la Fiscalía desde 2014 para que se procesen a "Los intocables". Luego de soliictar la extinción de dominio de los presuntos criminales fue amenazado.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/los-intocables-que-amenazan-magistrados-son-protegidos-de-la-fiscalia-ix/hero.jpg)

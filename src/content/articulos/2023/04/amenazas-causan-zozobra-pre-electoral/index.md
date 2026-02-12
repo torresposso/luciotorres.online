@@ -5,7 +5,7 @@ pubDate: "2023-04-23 15:48:16"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/amenazas-causan-zozobra-pre-electoral/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/amenazas-causan-zozobra-pre-electoral/hero.jpg
 ---
 
 ![Zozobra pre-electoral causa nuevas amenazas con dos precandidatos a la alcaldía y líderes sociales.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/amenazas-causan-zozobra-pre-electoral/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2024-11-07 14:24:27"
 author: "Lucio"
 categories: ["Sin categoría"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/barranquilla-y-cartagena-en-los-3-mejores-puntajes-saber-11/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/barranquilla-y-cartagena-en-los-3-mejores-puntajes-saber-11/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/barranquilla-y-cartagena-en-los-3-mejores-puntajes-saber-11/hero.jpg)

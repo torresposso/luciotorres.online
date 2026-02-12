@@ -5,7 +5,7 @@ pubDate: "2020-05-24 21:32:53"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/el-virus-de-sobrecostos-420-000-millones-cgr/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/el-virus-de-sobrecostos-420-000-millones-cgr/hero.jpg
 ---
 
 \[caption id="attachment\_11776" align="aligncenter" width="831"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/el-virus-de-sobrecostos-420-000-millones-cgr/hero.jpg) El virus de sobrecostos: $420 mil millones nos cuesta a los colombianos. Cortesía.\[/caption\] Mientras media Colombia está en cuarentena, la otra mitad no para. **Unos trabajan realmente por contener el Covid—19**. Otros por reactivar la economía. Otros salen a rebuscarse el pan diario. Y algunos funcionarios públicos, con la complicidad de empresarios corruptos, nos están robando con virus de **sobrecostos de $420 mil millones**, según la Contraloría General de la República (CGR).

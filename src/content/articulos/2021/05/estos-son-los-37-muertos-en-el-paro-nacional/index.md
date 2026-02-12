@@ -5,7 +5,7 @@ pubDate: "2021-05-08 15:47:44"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/estos-son-los-37-muertos-en-el-paro-nacional/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/estos-son-los-37-muertos-en-el-paro-nacional/hero.jpg
 ---
 
 \[caption id="attachment\_14874" align="aligncenter" width="960"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/estos-son-los-37-muertos-en-el-paro-nacional/hero.jpg) Un velatón por los 37 muertos. Facebook.\[/caption\]  

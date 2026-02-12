@@ -5,7 +5,7 @@ pubDate: "2020-06-02 21:56:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/06/sos-ternera-las-carceles-se-las-traga-el-covid-19/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/06/sos-ternera-las-carceles-se-las-traga-el-covid-19/hero.jpg
 ---
 
 \[caption id="attachment\_11854" align="alignnone" width="930"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/06/sos-ternera-las-carceles-se-las-traga-el-covid-19/hero.jpg) **¡SOS Ternera!** A pesar del Covid-19 y de estar preso, todavía cantan al interior de las cárceles.\[/caption\] En medio de la desidia, el hacinamiento, el olvido y la falta de un plan de atención especial, las cárceles del país se las traga el Covid—19. ¡SOS Ternera! El Covid cubre con su manto oscuro esta penitenciaría. La tasa de mortalidad podría ser alta, ya que **existe una población de 42 adultos mayores y 124 enfermos graves con diabetes, hipertensión y riesgos cardiovasculares.** **Observamos que hasta hoy los centros penitenciarios de Villavicencio, con 878 contagiados; la de Cartagena, con 241; y la de Leticia, con 146, se convierten en centros de contagios del coronavirus en esas ciudades.**

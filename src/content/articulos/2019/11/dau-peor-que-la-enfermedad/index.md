@@ -5,7 +5,7 @@ pubDate: "2019-11-03 13:36:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/dau-peor-que-la-enfermedad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/dau-peor-que-la-enfermedad/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/dau-peor-que-la-enfermedad/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2019-11-21 12:43:41"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/cartagena-sin-alcalde-electo-y-por-que-pedrito-instalo-comision-de-empalme/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/cartagena-sin-alcalde-electo-y-por-que-pedrito-instalo-comision-de-empalme/hero.jpg
 ---
 
 > _En una sociedad corrupta y de falsedad, la verdad es revolucionaria, y quienes la buscan, son perseguidos y crucificados. Pulitzer dijo que los periodistas deben alinearse con los débiles y no con los poderosos. Kapucinsky mostró _**«su preocupación por los sectores más desfavorecidos y por su independencia frente a presiones de todo signo, que han tratado de tergiversar su mensaje»**_._

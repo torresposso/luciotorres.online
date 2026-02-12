@@ -5,7 +5,7 @@ pubDate: "2023-01-03 17:05:27"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ascenso-y-caida-de-paty-paty-delatara-a-politicos-y-empresarios-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ascenso-y-caida-de-paty-paty-delatara-a-politicos-y-empresarios-i/hero.jpg
 ---
 
 ![Ascenso y caída de «Paty Paty» ¿Delatará a políticos y empresarios?. Aquí en una reconocida discoteca. Foto suministrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/ascenso-y-caida-de-paty-paty-delatara-a-politicos-y-empresarios-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-01-13 00:28:51"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/periodismo-inesperado-ver-la-actualidad-para-mirar-la-realidad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/periodismo-inesperado-ver-la-actualidad-para-mirar-la-realidad/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/periodismo-inesperado-ver-la-actualidad-para-mirar-la-realidad/hero.jpg)

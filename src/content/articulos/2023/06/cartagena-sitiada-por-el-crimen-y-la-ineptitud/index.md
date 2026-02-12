@@ -5,7 +5,7 @@ pubDate: "2023-06-19 23:32:11"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/hero.jpg
 ---
 
 ![Cartagena sitiada por el crimen y la ineptitud. La muerte de alias Yordan puede producir retaliación. /Foto suministrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/hero.jpg)

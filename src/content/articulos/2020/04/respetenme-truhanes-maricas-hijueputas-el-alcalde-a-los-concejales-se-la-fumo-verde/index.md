@@ -5,7 +5,7 @@ pubDate: "2020-04-13 16:21:57"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/respetenme-truhanes-maricas-hijueputas-el-alcalde-a-los-concejales-se-la-fumo-verde/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/respetenme-truhanes-maricas-hijueputas-el-alcalde-a-los-concejales-se-la-fumo-verde/hero.jpg
 ---
 
 https://youtu.be/yD2difXdhus ¿Se la _fumó verde_? William Dau Chamat no aguantó más las emociones por las denuncias sobre corrupción de su administración en este período de coronavirus. En la mañana de hoy lunes estalló en mil pedazos, y en plena clausura de las sesiones, dijo:

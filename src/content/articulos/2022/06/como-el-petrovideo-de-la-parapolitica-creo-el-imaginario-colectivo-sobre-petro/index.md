@@ -5,7 +5,7 @@ pubDate: "2022-06-18 01:14:37"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/como-el-petrovideo-de-la-parapolitica-creo-el-imaginario-colectivo-sobre-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/como-el-petrovideo-de-la-parapolitica-creo-el-imaginario-colectivo-sobre-petro/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/como-el-petrovideo-de-la-parapolitica-creo-el-imaginario-colectivo-sobre-petro/hero.jpg)

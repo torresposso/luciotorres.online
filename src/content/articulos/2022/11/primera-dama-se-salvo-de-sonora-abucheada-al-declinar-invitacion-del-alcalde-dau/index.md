@@ -5,7 +5,7 @@ pubDate: "2022-11-13 02:45:29"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/primera-dama-se-salvo-de-sonora-abucheada-al-declinar-invitacion-del-alcalde-dau/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/primera-dama-se-salvo-de-sonora-abucheada-al-declinar-invitacion-del-alcalde-dau/hero.jpg
 ---
 
 ![El que aprovechó el PMU nacional para ayudar a los damnificados fue el gobernador Blel. El alcalde Dau sigue en la nebulosa mamando ron y otras sustancias en las fiestas.  Primera dama se salvó de sonora abucheada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/primera-dama-se-salvo-de-sonora-abucheada-al-declinar-invitacion-del-alcalde-dau/hero.jpg)

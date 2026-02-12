@@ -5,7 +5,7 @@ pubDate: "2023-03-24 03:47:10"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/libertad-de-dasuki-trafico-de-la-jefa-del-cti/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/libertad-de-dasuki-trafico-de-la-jefa-del-cti/hero.jpg
 ---
 
 ![Libertad de Dasuki, ¿tráfico de la jefa del CTI?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/libertad-de-dasuki-trafico-de-la-jefa-del-cti/hero.jpg)

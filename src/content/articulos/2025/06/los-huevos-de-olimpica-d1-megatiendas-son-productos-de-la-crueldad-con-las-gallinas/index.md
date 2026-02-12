@@ -5,7 +5,7 @@ pubDate: "2025-06-14 23:46:08"
 author: "Lucio"
 categories: ["Bienestar"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/los-huevos-de-olimpica-d1-megatiendas-son-productos-de-la-crueldad-con-las-gallinas/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/los-huevos-de-olimpica-d1-megatiendas-son-productos-de-la-crueldad-con-las-gallinas/hero.jpg
 ---
 
 ![Los huevos de Olímpica, D1, Megatiendas son productos de la crueldad con las gallinas. Acondesa, la proveedora de huevos de Olímpica./Tomado de la página de Olímpica.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/los-huevos-de-olimpica-d1-megatiendas-son-productos-de-la-crueldad-con-las-gallinas/hero.jpg)

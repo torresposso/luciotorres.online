@@ -5,7 +5,7 @@ pubDate: "2018-10-29 14:30:28"
 author: "Lucio"
 categories: ["Barranquilla"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/hero.jpg)

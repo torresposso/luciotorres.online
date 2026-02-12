@@ -5,7 +5,7 @@ pubDate: "2025-02-14 03:59:42"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/liga-caribe-rebelion-regional-de-alcaldes/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/liga-caribe-rebelion-regional-de-alcaldes/hero.jpg
 ---
 
 ![Liga Caribe: ¿Rebelión regional de alcaldes?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/liga-caribe-rebelion-regional-de-alcaldes/hero.jpg)

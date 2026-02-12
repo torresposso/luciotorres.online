@@ -5,7 +5,7 @@ pubDate: "2022-02-26 00:53:39"
 author: "Lucio"
 categories: ["Crónica","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/echavarria-a-lo-clint-easwood-quiso-recuperar-tierra-en-conflicto/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/echavarria-a-lo-clint-easwood-quiso-recuperar-tierra-en-conflicto/hero.jpg
 ---
 
 ![Echavarría a lo Clint Easwood](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/echavarria-a-lo-clint-easwood-quiso-recuperar-tierra-en-conflicto/hero.jpg)

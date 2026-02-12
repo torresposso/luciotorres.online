@@ -5,7 +5,7 @@ pubDate: "2023-06-12 20:38:17"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tension-miedo-y-despojo-secular-en-baru/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tension-miedo-y-despojo-secular-en-baru/hero.jpg
 ---
 
 ![Tensión, miedo y despojo secular en Barú /Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tension-miedo-y-despojo-secular-en-baru/hero.jpg)

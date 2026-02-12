@@ -5,7 +5,7 @@ pubDate: "2023-01-05 02:44:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/cese-al-fuego-con-el-eln-tres-clave-para-el-exito/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/cese-al-fuego-con-el-eln-tres-clave-para-el-exito/hero.jpg
 ---
 
 ![Cese al fuego con el ELN, tres clave para el éxito](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/cese-al-fuego-con-el-eln-tres-clave-para-el-exito/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2024-05-24 13:08:31"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/atrapasuenos-del-icbf-suenos-son-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/atrapasuenos-del-icbf-suenos-son-i/hero.jpg
 ---
 
 ![«Atrapasueños» del ICBF, sueños son. Portada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/atrapasuenos-del-icbf-suenos-son-i/atrapasuenos_portada-1024x732.jpeg)

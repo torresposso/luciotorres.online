@@ -5,7 +5,7 @@ pubDate: "2022-05-12 23:20:14"
 author: "Lucio"
 categories: ["Análisis","Entrevista","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-imbatible-habra-segunda-vuelta/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-imbatible-habra-segunda-vuelta/hero.jpg
 ---
 
 ![¿Petro o Fico? ¡Petro, imbatible! Pero todo indica que hay segunda vuelta entre Petro y Fico](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-imbatible-habra-segunda-vuelta/hero.jpg)

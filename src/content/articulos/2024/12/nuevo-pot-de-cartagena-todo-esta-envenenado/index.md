@@ -5,7 +5,7 @@ pubDate: "2024-12-16 11:28:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/nuevo-pot-de-cartagena-todo-esta-envenenado/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/nuevo-pot-de-cartagena-todo-esta-envenenado/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/nuevo-pot-de-cartagena-todo-esta-envenenado/hero.jpg)

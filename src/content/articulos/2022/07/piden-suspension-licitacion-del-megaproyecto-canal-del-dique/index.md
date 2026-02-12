@@ -5,7 +5,7 @@ pubDate: "2022-07-02 15:34:03"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/piden-suspension-licitacion-del-megaproyecto-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/piden-suspension-licitacion-del-megaproyecto-canal-del-dique/hero.jpg
 ---
 
 Las organizaciones de base social del Canal del Dique pidieron suspender de la licitación del megaproyecto **"Restauración de los ecosistemas del Canal del Dique"**. Está demostrado por la Procuraduría Ambiental y las organizaciones sociales que existen grandes fallas en el proceso de socialización y de conocimiento de la iniciativa.

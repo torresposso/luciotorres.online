@@ -5,7 +5,7 @@ pubDate: "2024-12-20 11:12:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/supervillano-de-la-salud-jaime-gonzalez/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/supervillano-de-la-salud-jaime-gonzalez/hero.jpg
 ---
 
 ![De Superempresario exitoso al Supervillano de la salud](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/supervillano-de-la-salud-jaime-gonzalez/jaime_Gonzalez_Supervillano.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2022-11-15 00:36:59"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/jueza-dio-vida-juridica-al-cheque-en-blanco-del-canal-del-dique-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/jueza-dio-vida-juridica-al-cheque-en-blanco-del-canal-del-dique-iv/hero.jpg
 ---
 
 ![Vida jurídica al «cheque en blanco» del Canal del Dique.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/jueza-dio-vida-juridica-al-cheque-en-blanco-del-canal-del-dique-iv/hero.jpg)

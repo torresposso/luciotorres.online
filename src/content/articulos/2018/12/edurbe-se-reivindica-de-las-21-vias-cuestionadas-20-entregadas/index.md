@@ -5,7 +5,7 @@ pubDate: "2018-12-21 11:20:42"
 author: "Lucio"
 categories: ["Cartagena","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/edurbe-se-reivindica-de-las-21-vias-cuestionadas-20-entregadas/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/edurbe-se-reivindica-de-las-21-vias-cuestionadas-20-entregadas/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/edurbe-se-reivindica-de-las-21-vias-cuestionadas-20-entregadas/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-05-05 18:26:30"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/guerra-clan-del-golfo-vs-salsas-asesinato-de-el-nalga-cercano-a-chawala/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/guerra-clan-del-golfo-vs-salsas-asesinato-de-el-nalga-cercano-a-chawala/hero.jpg
 ---
 
 ![La guerra Clan del Golfo Vs. Salsas Mexicanos](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/guerra-clan-del-golfo-vs-salsas-asesinato-de-el-nalga-cercano-a-chawala/alias-paty-paty.jpeg)

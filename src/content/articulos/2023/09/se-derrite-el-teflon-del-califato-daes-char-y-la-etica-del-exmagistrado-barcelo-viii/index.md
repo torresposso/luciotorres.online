@@ -5,7 +5,7 @@ pubDate: "2023-09-13 22:32:31"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/hero.jpg
 ---
 
 ![rturo Char y su defensa. Entran en el equipo el exmagistrado José Luis Barceló y Ana María Aljure Reales. Se derrite el teflón del Califato Daes—Char.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/hero.jpg)

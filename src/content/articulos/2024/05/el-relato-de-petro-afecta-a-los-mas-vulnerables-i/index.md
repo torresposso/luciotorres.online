@@ -5,7 +5,7 @@ pubDate: "2024-05-16 02:28:13"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/el-relato-de-petro-afecta-a-los-mas-vulnerables-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/el-relato-de-petro-afecta-a-los-mas-vulnerables-i/hero.jpg
 ---
 
 ![El relato de Petro afecta a los más vulnerables (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/el-relato-de-petro-afecta-a-los-mas-vulnerables-i/hero.jpg)

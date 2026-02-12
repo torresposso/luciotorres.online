@@ -5,7 +5,7 @@ pubDate: "2025-06-29 02:45:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-infiltrado-de-la-procuraduria-pidio-absolver-al-expresidente-uribe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-infiltrado-de-la-procuraduria-pidio-absolver-al-expresidente-uribe/hero.jpg
 ---
 
 ![«El infiltrado» de la Procuraduría pidió absolver al expresidente Uribe ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/el-infiltrado-de-la-procuraduria-pidio-absolver-al-expresidente-uribe/hero.jpg)

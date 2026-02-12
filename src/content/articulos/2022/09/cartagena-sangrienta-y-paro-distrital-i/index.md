@@ -5,7 +5,7 @@ pubDate: "2022-09-20 18:47:52"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-sangrienta-y-paro-distrital-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-sangrienta-y-paro-distrital-i/hero.jpg
 ---
 
 ![Mientras aseguraban a alias Paola, se produjeron 7 sicariatos. Cartagena sangrienta](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-sangrienta-y-paro-distrital-i/paola.jpeg)

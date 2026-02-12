@@ -5,7 +5,7 @@ pubDate: "2022-03-15 01:11:26"
 author: "Lucio"
 categories: ["Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/con-la-adhesion-de-zuluaga-a-fico-el-regimen-busca-salvador/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/con-la-adhesion-de-zuluaga-a-fico-el-regimen-busca-salvador/hero.jpg
 ---
 
 ![El régimen busca salvador con Federico «Fico» Gutiérrez](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/con-la-adhesion-de-zuluaga-a-fico-el-regimen-busca-salvador/hero.jpg)

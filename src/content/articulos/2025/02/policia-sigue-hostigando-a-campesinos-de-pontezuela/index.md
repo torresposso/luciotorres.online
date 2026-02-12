@@ -5,7 +5,7 @@ pubDate: "2025-02-18 21:19:45"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/policia-sigue-hostigando-a-campesinos-de-pontezuela/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/policia-sigue-hostigando-a-campesinos-de-pontezuela/hero.jpg
 ---
 
 ![Cartel de la Curaduría Urbana 2 de Cartagena donde aparecen como propietarios del proyecto Versalles 2023 Promotora SAS. ¿Es el motivo del hostigamiento de la Policía contra los campesinos de Pontezuela?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/policia-sigue-hostigando-a-campesinos-de-pontezuela/hero.jpg)

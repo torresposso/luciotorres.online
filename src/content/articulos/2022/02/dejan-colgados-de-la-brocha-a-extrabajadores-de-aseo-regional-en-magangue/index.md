@@ -5,7 +5,7 @@ pubDate: "2022-02-15 19:34:41"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/dejan-colgados-de-la-brocha-a-extrabajadores-de-aseo-regional-en-magangue/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/dejan-colgados-de-la-brocha-a-extrabajadores-de-aseo-regional-en-magangue/hero.jpg
 ---
 
 Luego de varias sentencias hasta llegar a casación de la sala laboral de la Corte Suprema de Justicia (CSJ), un grupo de extrabajadores de la extinta **Aseo Regional** logró salir avante y condenaron a la entidad a pagarle sus prestaciones laborales incumplidas. **Pero cuando su abogado Álvaro Cabarcas fue a cobrar las acreencias, lo dejaron colgado de la brocha.**

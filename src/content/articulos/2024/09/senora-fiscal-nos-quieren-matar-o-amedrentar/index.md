@@ -5,7 +5,7 @@ pubDate: "2024-09-26 03:15:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/senora-fiscal-nos-quieren-matar-o-amedrentar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/senora-fiscal-nos-quieren-matar-o-amedrentar/hero.jpg
 ---
 
 ![Señora Fiscal: ¿Nos quieren matar o amedrentar?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/senora-fiscal-nos-quieren-matar-o-amedrentar/hero.jpg)

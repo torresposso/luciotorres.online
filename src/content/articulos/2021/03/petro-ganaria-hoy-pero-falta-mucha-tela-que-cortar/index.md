@@ -5,7 +5,7 @@ pubDate: "2021-03-24 23:10:07"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/petro-ganaria-hoy-pero-falta-mucha-tela-que-cortar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/petro-ganaria-hoy-pero-falta-mucha-tela-que-cortar/hero.jpg
 ---
 
 \[caption id="attachment\_14321" align="aligncenter" width="1200"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/petro-ganaria-hoy-pero-falta-mucha-tela-que-cortar/hero.jpg) Gustavo Petro ganaría hoy las elecciones presidenciales. Cortesía.\[/caption\]

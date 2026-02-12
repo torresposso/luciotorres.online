@@ -5,7 +5,7 @@ pubDate: "2024-10-14 16:03:35"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/hero.jpg
 ---
 
 ![Decisión del CNE: ¿ad portas de un juicio por indignidad?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/Golpe_blando-1024x577.jpeg)

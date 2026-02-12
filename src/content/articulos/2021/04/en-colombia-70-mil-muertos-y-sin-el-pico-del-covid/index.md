@@ -5,7 +5,7 @@ pubDate: "2021-04-22 23:03:09"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-colombia-70-mil-muertos-y-sin-el-pico-del-covid/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-colombia-70-mil-muertos-y-sin-el-pico-del-covid/hero.jpg
 ---
 
 \[caption id="attachment\_14625" align="aligncenter" width="583"\](imagen no disponible) Ministerio de Salud: 70 mil muertos.\[/caption\]

@@ -5,7 +5,7 @@ pubDate: "2024-06-03 19:54:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/por-que-gano-claudia-sheinbaum-la-todopoderosa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/por-que-gano-claudia-sheinbaum-la-todopoderosa/hero.jpg
 ---
 
 ![¿Por qué ganó Claudia Sheinbaum, la todopoderosa?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/por-que-gano-claudia-sheinbaum-la-todopoderosa/Claudia_Sheinbaum.jpeg)

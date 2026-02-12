@@ -5,7 +5,7 @@ pubDate: "2023-09-08 23:56:23"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/en-peligro-de-muerte-se-empanan-elecciones-de-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/en-peligro-de-muerte-se-empanan-elecciones-de-cartagena/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/en-peligro-de-muerte-se-empanan-elecciones-de-cartagena/hero.jpg)

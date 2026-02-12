@@ -5,7 +5,7 @@ pubDate: "2025-04-16 22:20:07"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Entrevista"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-mas-alla-de-un-teologo-que-se-afinco-en-la-fe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-mas-alla-de-un-teologo-que-se-afinco-en-la-fe/hero.jpg
 ---
 
 ![

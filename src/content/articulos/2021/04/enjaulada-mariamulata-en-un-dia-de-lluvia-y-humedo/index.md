@@ -5,7 +5,7 @@ pubDate: "2021-04-17 03:21:02"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/enjaulada-mariamulata-en-un-dia-de-lluvia-y-humedo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/enjaulada-mariamulata-en-un-dia-de-lluvia-y-humedo/hero.jpg
 ---
 
 \[caption id="attachment\_14580" align="alignnone" width="1080"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/enjaulada-mariamulata-en-un-dia-de-lluvia-y-humedo/hero.jpg) **Mariamulata** enjaulada camina al lado de su marido **Arturo Zea Solano**. Parece que caminaran al cadalso y no a entregarse al CTI. Cortesìa.\[/caption\]

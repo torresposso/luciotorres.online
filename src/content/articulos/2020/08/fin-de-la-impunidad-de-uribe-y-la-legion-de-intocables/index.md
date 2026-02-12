@@ -5,7 +5,7 @@ pubDate: "2020-08-04 23:16:56"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/fin-de-la-impunidad-de-uribe-y-la-legion-de-intocables/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/fin-de-la-impunidad-de-uribe-y-la-legion-de-intocables/hero.jpg
 ---
 
 \[caption id="attachment\_12275" align="alignleft" width="1000"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/fin-de-la-impunidad-de-uribe-y-la-legion-de-intocables/hero.jpg) ¿Fin de la impunidad? La mayoría de Colombia pide fin de la impunidad.\[/caption\] ¿Fin de la impunidad del expresidente Álvaro Uribe Vélez? **¿Se acabará el poder de la legión de intocables encabezada por Álvaro Uribe?** Son 38 años de impunidad desde que fuera director de Aerocivil. Nunca había sido procesado por ningún juez. Con la medida de aseguramiento de la Corte Suprema de Justicia (CSJ), por primera vez, **Uribe sentirá el peso de la justicia**. Fue una decisión unánime de los cinco magistrados de la Sala de Instrucción Penal considerados por media Colombia como héroes contra la impunidad.

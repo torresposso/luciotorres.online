@@ -5,7 +5,7 @@ pubDate: "2018-07-30 19:19:16"
 author: "Lucio"
 categories: ["Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/07/alumbrado-publico-de-cartagena-una-bomba-secreta/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/07/alumbrado-publico-de-cartagena-una-bomba-secreta/hero.jpg
 ---
 
 *   **_Dos pesos pesados entrarían a disputarse el alumbrado público: Hilsaca y "Yuyo" Daes de Barranquilla._**

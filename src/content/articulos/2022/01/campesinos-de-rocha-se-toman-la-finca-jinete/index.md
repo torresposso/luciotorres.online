@@ -5,7 +5,7 @@ pubDate: "2022-01-28 21:33:42"
 author: "Lucio"
 categories: ["Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/campesinos-de-rocha-se-toman-la-finca-jinete/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/campesinos-de-rocha-se-toman-la-finca-jinete/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/campesinos-de-rocha-se-toman-la-finca-jinete/hero.jpg)

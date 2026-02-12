@@ -5,7 +5,7 @@ pubDate: "2021-09-27 10:55:33"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/hero.jpg)

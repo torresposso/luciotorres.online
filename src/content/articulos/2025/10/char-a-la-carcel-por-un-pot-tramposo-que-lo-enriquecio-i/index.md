@@ -5,7 +5,7 @@ pubDate: "2025-10-21 05:24:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/hero.jpg
 ---
 
 ¿Char a la cárcel? La era de impunidad del clan Char comenzó a resquebrajarse con la decisión de una juez de familia que ordenó reconocer la paternidad de **Steven Castellanos Ramos**. Ahora, tras ocho años de parálisis judicial, la **Corte Suprema de Justicia** obligó a la **Fiscalía** a pronunciarse en un expediente que hasta ahora dormía bajo el manto del poder del _Califato Daeschariano_.

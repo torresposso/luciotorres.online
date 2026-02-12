@@ -5,7 +5,7 @@ pubDate: "2018-10-15 08:10:26"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/fraude-en-la-concesion-del-alumbrado-publico-de-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/fraude-en-la-concesion-del-alumbrado-publico-de-cartagena/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/fraude-en-la-concesion-del-alumbrado-publico-de-cartagena/hero.jpg)

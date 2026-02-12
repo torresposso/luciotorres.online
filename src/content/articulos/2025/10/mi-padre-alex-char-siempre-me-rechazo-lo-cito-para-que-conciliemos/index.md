@@ -5,7 +5,7 @@ pubDate: "2025-10-24 03:51:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/mi-padre-alex-char-siempre-me-rechazo-lo-cito-para-que-conciliemos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/mi-padre-alex-char-siempre-me-rechazo-lo-cito-para-que-conciliemos/hero.jpg
 ---
 
 ![«mi padre Alex Char siempre me rechazó»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/mi-padre-alex-char-siempre-me-rechazo-lo-cito-para-que-conciliemos/hero.jpg)

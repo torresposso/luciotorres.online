@@ -5,7 +5,7 @@ pubDate: "2024-01-08 22:03:54"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/abuso-a-turistas-la-pobreza-y-el-despojo-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/abuso-a-turistas-la-pobreza-y-el-despojo-i/hero.jpg
 ---
 
 ![Abuso a turistas, la pobreza y el despojo. En esta captura de pantalla, el alcalde Dumek Turbay dialoga con Andrés Ochoa Silva, el turista colombo-mexicano abusado por supuestos operadores turísticos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/abuso-a-turistas-la-pobreza-y-el-despojo-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2019-11-26 13:47:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/quien-mato-a-dilan-cruz/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/quien-mato-a-dilan-cruz/hero.jpg
 ---
 
 ![Dilan Cruz, iconografía del crimen de Duque.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/quien-mato-a-dilan-cruz/hero.jpg)

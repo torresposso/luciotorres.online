@@ -5,7 +5,7 @@ pubDate: "2025-11-05 11:07:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/rafael-matera-el-comandante-paramilitar-en-la-sombra/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/rafael-matera-el-comandante-paramilitar-en-la-sombra/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/rafael-matera-el-comandante-paramilitar-en-la-sombra/hero.jpg)

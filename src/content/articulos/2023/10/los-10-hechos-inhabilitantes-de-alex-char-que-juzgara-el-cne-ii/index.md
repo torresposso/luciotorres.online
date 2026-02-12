@@ -5,7 +5,7 @@ pubDate: "2023-10-02 01:19:33"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/los-10-hechos-inhabilitantes-de-alex-char-que-juzgara-el-cne-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/los-10-hechos-inhabilitantes-de-alex-char-que-juzgara-el-cne-ii/hero.jpg
 ---
 
 ![Los 10 hechos inhabilitantes de Alex Char.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/los-10-hechos-inhabilitantes-de-alex-char-que-juzgara-el-cne-ii/hero.jpg)

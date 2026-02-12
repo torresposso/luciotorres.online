@@ -5,7 +5,7 @@ pubDate: "2022-04-21 01:27:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/al-exonerar-la-contraloria-a-dumek-turbay-quedo-el-fantasma-de-laura-carolina/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/al-exonerar-la-contraloria-a-dumek-turbay-quedo-el-fantasma-de-laura-carolina/hero.jpg
 ---
 
 ![El fantasma de«Madre Laura»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/al-exonerar-la-contraloria-a-dumek-turbay-quedo-el-fantasma-de-laura-carolina/hero.jpg)

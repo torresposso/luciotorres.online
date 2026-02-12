@@ -5,7 +5,7 @@ pubDate: "2022-09-27 00:08:38"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/derecha-se-moviliza-contra-petro-reformas/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/derecha-se-moviliza-contra-petro-reformas/hero.jpg
 ---
 
 ![La derecha se moviliza contra las petroreformas. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/derecha-se-moviliza-contra-petro-reformas/hero.jpg)

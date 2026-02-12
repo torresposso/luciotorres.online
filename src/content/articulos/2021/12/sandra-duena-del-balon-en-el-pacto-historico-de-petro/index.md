@@ -5,7 +5,7 @@ pubDate: "2021-12-21 01:17:39"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/sandra-duena-del-balon-en-el-pacto-historico-de-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/sandra-duena-del-balon-en-el-pacto-historico-de-petro/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/sandra-duena-del-balon-en-el-pacto-historico-de-petro/hero.jpg)

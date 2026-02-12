@@ -5,7 +5,7 @@ pubDate: "2022-04-25 01:07:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/gano-macron-y-ahora-que-viene-para-francia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/gano-macron-y-ahora-que-viene-para-francia/hero.jpg
 ---
 
 ![Enmanuel Macrón, reelecto presidente. ¿y ahora qué viene para Francia?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/gano-macron-y-ahora-que-viene-para-francia/hero.jpg)

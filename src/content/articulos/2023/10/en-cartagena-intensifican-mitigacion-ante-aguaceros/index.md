@@ -5,7 +5,7 @@ pubDate: "2023-10-30 21:59:12"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/en-cartagena-intensifican-mitigacion-ante-aguaceros/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/en-cartagena-intensifican-mitigacion-ante-aguaceros/hero.jpg
 ---
 
 ![Intensas lluvias provocan inundaciones y desastres. Mitigación ante aguaceros, anuncia José Ricaurte, director Oficina Asesora para la la Gestión del Riesgo de Desastres de Bolívar.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/en-cartagena-intensifican-mitigacion-ante-aguaceros/hero.jpg)

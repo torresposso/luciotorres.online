@@ -5,7 +5,7 @@ pubDate: "2023-07-24 23:26:08"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/tatequieto-al-zambiloco-se-descompuso-con-el-fallo-de-la-procuraduria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/tatequieto-al-zambiloco-se-descompuso-con-el-fallo-de-la-procuraduria/hero.jpg
 ---
 
 ![Alcalde Dau se descompuso cuando la Procuraduría lo suspendió./Captura de pantalla. Arriba a la izq., la procuradora Yolanda Reyes Niño. Derecha, el defensor Andrés Suáres. Abajo, William Dau. A la derecha, Jair Caro, el denunciante. Tatequieto al zambiloco](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/tatequieto-al-zambiloco-se-descompuso-con-el-fallo-de-la-procuraduria/hero.jpg)

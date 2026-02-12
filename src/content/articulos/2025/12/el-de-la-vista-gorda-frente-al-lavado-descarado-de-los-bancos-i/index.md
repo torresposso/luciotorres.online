@@ -5,7 +5,7 @@ pubDate: "2025-12-15 22:14:39"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/el-de-la-vista-gorda-frente-al-lavado-descarado-de-los-bancos-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/el-de-la-vista-gorda-frente-al-lavado-descarado-de-los-bancos-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/el-de-la-vista-gorda-frente-al-lavado-descarado-de-los-bancos-i/hero.jpg)

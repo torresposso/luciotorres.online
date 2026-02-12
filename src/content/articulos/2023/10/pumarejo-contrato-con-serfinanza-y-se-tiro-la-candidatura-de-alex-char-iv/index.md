@@ -5,7 +5,7 @@ pubDate: "2023-10-13 23:01:25"
 author: "Lucio"
 categories: ["Análisis","Barranquilla"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/pumarejo-contrato-con-serfinanza-y-se-tiro-la-candidatura-de-alex-char-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/pumarejo-contrato-con-serfinanza-y-se-tiro-la-candidatura-de-alex-char-iv/hero.jpg
 ---
 
 ![Esta es la vicepresidenta del Consejo Nacional Electoral (CNE), Maritza Martínez Aristizábal, magistrada ponente de la investigación de la presunta inhabilidad de Alejandro Char. Es vargallerista de corazón, participó en la coalición con Cambio Radical para apoyar a Vargas Lleras y, probablemente, le hizo campaña al  investigado en la consulta de las presidenciales. ¿Decidirá en derecho?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/pumarejo-contrato-con-serfinanza-y-se-tiro-la-candidatura-de-alex-char-iv/hero.jpg)

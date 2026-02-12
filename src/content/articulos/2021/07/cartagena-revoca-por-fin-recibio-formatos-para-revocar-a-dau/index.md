@@ -5,7 +5,7 @@ pubDate: "2021-07-02 00:50:44"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/cartagena-revoca-por-fin-recibio-formatos-para-revocar-a-dau/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/cartagena-revoca-por-fin-recibio-formatos-para-revocar-a-dau/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/cartagena-revoca-por-fin-recibio-formatos-para-revocar-a-dau/foto-2.jpeg)

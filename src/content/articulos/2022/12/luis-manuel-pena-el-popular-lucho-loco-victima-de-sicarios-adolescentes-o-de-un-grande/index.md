@@ -5,7 +5,7 @@ pubDate: "2022-12-30 21:25:09"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/luis-manuel-pena-el-popular-lucho-loco-victima-de-sicarios-adolescentes-o-de-un-grande/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/luis-manuel-pena-el-popular-lucho-loco-victima-de-sicarios-adolescentes-o-de-un-grande/hero.jpg
 ---
 
 ![¿«Lucho Loco» víctima de sicarios adolescentes o de un «grande»? El comandante de la policía de Bolívar, José Abdón galindo Sánchez presentó el informe de los sicarios adolescentes.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/luis-manuel-pena-el-popular-lucho-loco-victima-de-sicarios-adolescentes-o-de-un-grande/coronel-jose-galindo-2.jpeg)

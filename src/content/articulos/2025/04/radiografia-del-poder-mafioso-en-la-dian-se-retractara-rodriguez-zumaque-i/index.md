@@ -5,7 +5,7 @@ pubDate: "2025-04-28 12:12:13"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/radiografia-del-poder-mafioso-en-la-dian-se-retractara-rodriguez-zumaque-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/radiografia-del-poder-mafioso-en-la-dian-se-retractara-rodriguez-zumaque-i/hero.jpg
 ---
 
 ![Así huye el sicario en la moto después del atentado contra Edgardo Fernández Martínez. Su hijastro hizo una radiografía del poder mafioso en la DIAN. ¿Se retractará Rodríguez Zumaque?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/radiografia-del-poder-mafioso-en-la-dian-se-retractara-rodriguez-zumaque-i/hero.jpg)

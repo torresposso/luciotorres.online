@@ -5,7 +5,7 @@ pubDate: "2025-10-20 01:45:13"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/autoritarismo-de-trump-tumbaria-a-petro-con-ayuda-de-leyva/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/autoritarismo-de-trump-tumbaria-a-petro-con-ayuda-de-leyva/hero.jpg
 ---
 
 ![¿Autoritarismo de Trump tumbaría a Petro con ayuda de Leyva? Se escala crisis diplomática colombo-norteamericana. ¿Por qué Trump acusa de narcotráfico a Petro sin presentar pruebas?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/autoritarismo-de-trump-tumbaria-a-petro-con-ayuda-de-leyva/hero.jpg)

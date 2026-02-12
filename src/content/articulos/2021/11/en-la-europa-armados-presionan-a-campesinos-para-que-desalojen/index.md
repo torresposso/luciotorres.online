@@ -5,7 +5,7 @@ pubDate: "2021-11-13 23:36:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-la-europa-armados-presionan-a-campesinos-para-que-desalojen/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-la-europa-armados-presionan-a-campesinos-para-que-desalojen/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-la-europa-armados-presionan-a-campesinos-para-que-desalojen/civil-armado.jpeg)

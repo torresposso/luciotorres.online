@@ -5,7 +5,7 @@ pubDate: "2022-08-14 20:22:23"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/encuentro-distante-entre-presidente-petro-y-presidente-de-andi/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/encuentro-distante-entre-presidente-petro-y-presidente-de-andi/hero.jpg
 ---
 
 ![Diálogo distante](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/encuentro-distante-entre-presidente-petro-y-presidente-de-andi/petro-y-bruce.jpeg)

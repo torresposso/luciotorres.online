@@ -5,7 +5,7 @@ pubDate: "2025-08-03 18:45:15"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/indulto-o-jep-la-tabla-de-salvacion-de-uribe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/indulto-o-jep-la-tabla-de-salvacion-de-uribe/hero.jpg
 ---
 
 ![¿Indulto o JEP? ¿La tabla de salvación de Uribe?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/indulto-o-jep-la-tabla-de-salvacion-de-uribe/hero.jpg)

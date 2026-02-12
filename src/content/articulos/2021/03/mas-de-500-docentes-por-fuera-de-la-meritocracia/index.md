@@ -5,7 +5,7 @@ pubDate: "2021-03-26 19:56:52"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/hero.jpg
 ---
 
 \[caption id="attachment\_14349" align="aligncenter" width="960"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/docentes-que-perdieron-concurso.jpeg) Son más de 500 docentes que perdieron el concurso en los territorios de paz. Aquí yacen encadenados frente al CAB en Turbaco.\[/caption\]

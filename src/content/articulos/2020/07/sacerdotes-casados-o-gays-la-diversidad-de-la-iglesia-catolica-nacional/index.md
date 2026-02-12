@@ -5,7 +5,7 @@ pubDate: "2020-07-26 01:26:23"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/sacerdotes-casados-o-gays-la-diversidad-de-la-iglesia-catolica-nacional/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/sacerdotes-casados-o-gays-la-diversidad-de-la-iglesia-catolica-nacional/hero.jpg
 ---
 
 > «**A** **_los solteros y a las viudas les digo que sería bueno que se quedaran como yo;_****_9 pero si no pueden dominarse, que se casen; pues es mejor casarse que arder de pasión»_**. (Corintios, 7:8)

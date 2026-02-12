@@ -5,7 +5,7 @@ pubDate: "2018-11-06 02:05:27"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/que-pitos-toca-el-exparamilitar-zambrano-en-alumbrado-publico-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/que-pitos-toca-el-exparamilitar-zambrano-en-alumbrado-publico-iv/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/que-pitos-toca-el-exparamilitar-zambrano-en-alumbrado-publico-iv/hero.jpg)

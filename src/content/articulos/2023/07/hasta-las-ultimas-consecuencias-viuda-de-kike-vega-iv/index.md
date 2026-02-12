@@ -5,7 +5,7 @@ pubDate: "2023-07-07 00:09:39"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/hasta-las-ultimas-consecuencias-viuda-de-kike-vega-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/hasta-las-ultimas-consecuencias-viuda-de-kike-vega-iv/hero.jpg
 ---
 
 ![Aquí esta Meili Daza Curvelo celebrando en la clandestinidad el que podría ser el último cumpleaños de su esposo «Kike» Vega. «¡Actuaré hasta las últimas consecuencias!»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/hasta-las-ultimas-consecuencias-viuda-de-kike-vega-iv/hero.jpg)

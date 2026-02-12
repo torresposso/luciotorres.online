@@ -5,7 +5,7 @@ pubDate: "2022-08-29 17:39:30"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/comision-accidental-canal-del-dique-y-su-accidentada-sesion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/comision-accidental-canal-del-dique-y-su-accidentada-sesion/hero.jpg
 ---
 
 **La exclusión es mental**. Eso demuestra el comportamiento de los líderes de la Comisión Accidental del Congreso de la República creada para estudiar el megaproyecto **"Restauración de los sistemas Degradados Canal del Dique"**. Todavía el nuevo gobierno y su congreso, de mayorías oficiales, no han entendido el cambio desde la práctica.

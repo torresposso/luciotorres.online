@@ -5,7 +5,7 @@ pubDate: "2019-10-11 11:51:34"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/jugada-maestra-de-pedrito-nombraron-gerente-en-propiedad-de-edurbe-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/jugada-maestra-de-pedrito-nombraron-gerente-en-propiedad-de-edurbe-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/jugada-maestra-de-pedrito-nombraron-gerente-en-propiedad-de-edurbe-i/hero.jpg)

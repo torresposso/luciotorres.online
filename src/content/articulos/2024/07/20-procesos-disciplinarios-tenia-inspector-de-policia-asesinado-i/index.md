@@ -5,7 +5,7 @@ pubDate: "2024-07-31 04:02:53"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/hero.jpg
 ---
 
 ![Una camioneta similar tenía Omar Cervantes González](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/omar.jpeg)

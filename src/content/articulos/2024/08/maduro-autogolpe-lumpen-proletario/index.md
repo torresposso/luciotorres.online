@@ -5,7 +5,7 @@ pubDate: "2024-08-29 03:23:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/maduro-autogolpe-lumpen-proletario/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/maduro-autogolpe-lumpen-proletario/hero.jpg
 ---
 
 ![La presidencia de Nicolás Maduro y de Diosdado Cabello son ilegítimas, porque se sustentan en el fraude y el chanchullo. Maduro: ¿Autogolpe lumpen―proletario?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/maduro-autogolpe-lumpen-proletario/Maduro_portada-1024x824.jpeg)

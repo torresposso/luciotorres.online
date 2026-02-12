@@ -5,7 +5,7 @@ pubDate: "2018-09-21 02:46:23"
 author: "Lucio"
 categories: ["Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/09/en-la-boca-del-horno-se-le-quemo-el-pan-a-los-gremios-y-a-blel-pedrito-pereira-nombrado-alcalde/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/09/en-la-boca-del-horno-se-le-quemo-el-pan-a-los-gremios-y-a-blel-pedrito-pereira-nombrado-alcalde/hero.jpg
 ---
 
 ## «Quiero la unidad de los cartageneros», primera declaración del alcalde

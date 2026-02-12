@@ -5,7 +5,7 @@ pubDate: "2025-03-27 16:32:23"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-extranas-consignaciones-de-un-directivo-de-camacol-a-un-subintendente-de-la-policia-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-extranas-consignaciones-de-un-directivo-de-camacol-a-un-subintendente-de-la-policia-i/hero.jpg
 ---
 
 ![Al parecer, Álvaro Cubas Montesd le da instrucciones a los policías para que desalojen violentamente a los campesinos](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-extranas-consignaciones-de-un-directivo-de-camacol-a-un-subintendente-de-la-policia-i/hero.jpg)

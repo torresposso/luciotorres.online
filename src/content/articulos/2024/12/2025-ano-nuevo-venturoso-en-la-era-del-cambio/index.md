@@ -5,7 +5,7 @@ pubDate: "2024-12-31 23:26:09"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/2025-ano-nuevo-venturoso-en-la-era-del-cambio/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/2025-ano-nuevo-venturoso-en-la-era-del-cambio/hero.jpg
 ---
 
 ![2025: ¿Año Nuevo Venturoso en la Era del Cambio? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/2025-ano-nuevo-venturoso-en-la-era-del-cambio/ECONOMIA_-1024x553.jpeg)

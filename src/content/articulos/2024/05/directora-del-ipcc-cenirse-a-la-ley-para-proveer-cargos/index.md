@@ -5,7 +5,7 @@ pubDate: "2024-05-19 03:25:04"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/directora-del-ipcc-cenirse-a-la-ley-para-proveer-cargos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/directora-del-ipcc-cenirse-a-la-ley-para-proveer-cargos/hero.jpg
 ---
 
 ![Directora del IPCC, ceñirse a la ley para proveer cargos, piden los prepensionados. El distrito debe respetar los derechos de estabilidad laboral reforzada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/directora-del-ipcc-cenirse-a-la-ley-para-proveer-cargos/hero.jpg)

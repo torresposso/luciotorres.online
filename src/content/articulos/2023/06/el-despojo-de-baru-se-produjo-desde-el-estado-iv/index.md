@@ -5,7 +5,7 @@ pubDate: "2023-06-19 15:44:12"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-despojo-de-baru-se-produjo-desde-el-estado-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-despojo-de-baru-se-produjo-desde-el-estado-iv/hero.jpg
 ---
 
 ![El despojo de Barú se produjo desde el Estado-](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-despojo-de-baru-se-produjo-desde-el-estado-iv/hero.jpg)

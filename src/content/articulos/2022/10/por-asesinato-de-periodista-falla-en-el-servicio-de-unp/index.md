@@ -5,7 +5,7 @@ pubDate: "2022-10-19 00:40:13"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/por-asesinato-de-periodista-falla-en-el-servicio-de-unp/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/por-asesinato-de-periodista-falla-en-el-servicio-de-unp/hero.jpg
 ---
 
 ![El director de la UNP, Augusto Rodríguez Ballesteros, en reunión con Misión de Apoyo al Proceso de Paz en Colombia,MAPP. Por asesinato de periodista ¿falla en el servicio de UNP?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/por-asesinato-de-periodista-falla-en-el-servicio-de-unp/hero.jpg)

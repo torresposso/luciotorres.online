@@ -5,7 +5,7 @@ pubDate: "2023-05-16 21:27:55"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/comprobado-jorge-40-un-embustero-en-la-jep/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/comprobado-jorge-40-un-embustero-en-la-jep/hero.jpg
 ---
 
 ![«Jorge 40», un embustero en la JEP. Ni verdad ni arrepentimiento.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/comprobado-jorge-40-un-embustero-en-la-jep/hero.jpg)

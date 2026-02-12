@@ -5,7 +5,7 @@ pubDate: "2022-01-15 02:42:25"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/en-cartagena-gloria-para-una-policia-de-capa-caida/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/en-cartagena-gloria-para-una-policia-de-capa-caida/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/en-cartagena-gloria-para-una-policia-de-capa-caida/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2024-12-09 14:52:56"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/hero.jpg
 ---
 
 ![Amelia Pérez tiene el reto de estrenarse como directora de la SAE frente a la herencia de la Ñeñe-política.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/amelia_nene.jpeg)

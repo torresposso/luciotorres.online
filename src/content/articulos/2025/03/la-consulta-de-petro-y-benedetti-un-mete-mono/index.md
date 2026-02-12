@@ -5,7 +5,7 @@ pubDate: "2025-03-17 11:58:58"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/la-consulta-de-petro-y-benedetti-un-mete-mono/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/la-consulta-de-petro-y-benedetti-un-mete-mono/hero.jpg
 ---
 
 ![La consulta popular de Petro una forma de instrumentalizar la participación ciudadana.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/la-consulta-de-petro-y-benedetti-un-mete-mono/hero.jpg)

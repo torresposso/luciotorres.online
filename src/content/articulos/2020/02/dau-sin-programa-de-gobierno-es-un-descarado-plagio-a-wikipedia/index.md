@@ -5,7 +5,7 @@ pubDate: "2020-02-03 12:59:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/dau-sin-programa-de-gobierno-es-un-descarado-plagio-a-wikipedia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/dau-sin-programa-de-gobierno-es-un-descarado-plagio-a-wikipedia/hero.jpg
 ---
 
 > **_Esto es simplemente un botón de muestra de los exabruptos encontrados en el mal llamado programa de gobierno de Dau. Un menor de 6° año de educación media lo hubiese hecho mejor con la ayuda de su madre._**

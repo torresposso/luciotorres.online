@@ -5,7 +5,7 @@ pubDate: "2022-09-22 13:58:04"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/hoy-todos-al-paro-distrital/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/hoy-todos-al-paro-distrital/hero.jpg
 ---
 
 Hoy, 22 de septiembre ¡todos al Paro Distrital! por la seguridad ciudadana, la movilidad, la educación, la salud y el buen gobierno de Cartagena. Varias universidades privadas y públicas decretaron cese de actividades. Otras decidieron realizar sus clases virtuales. Las instituciones educativas también se sumarán al cese de actividades.

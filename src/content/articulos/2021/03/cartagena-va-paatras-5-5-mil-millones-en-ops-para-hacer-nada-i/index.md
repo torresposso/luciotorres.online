@@ -5,7 +5,7 @@ pubDate: "2021-03-07 00:22:31"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/hero.jpg
 ---
 
 > «La corrupción consiste en el _\[…\] abuso de posiciones de poder o de confianza, para el beneficio particular en detrimento del interés colectivo, realizado a través de ofrecer o solicitar, entregar o recibir bienes o dinero en especie, en servicios o beneficios, a cambio de acciones, decisiones u omisiones \[…\]»_ (Transparencia por Colombia).

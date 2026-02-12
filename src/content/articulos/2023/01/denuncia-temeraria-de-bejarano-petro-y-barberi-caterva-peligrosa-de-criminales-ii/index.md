@@ -5,7 +5,7 @@ pubDate: "2023-01-03 01:26:07"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/denuncia-temeraria-de-bejarano-petro-y-barberi-caterva-peligrosa-de-criminales-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/denuncia-temeraria-de-bejarano-petro-y-barberi-caterva-peligrosa-de-criminales-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/denuncia-temeraria-de-bejarano-petro-y-barberi-caterva-peligrosa-de-criminales-ii/hero.jpg)

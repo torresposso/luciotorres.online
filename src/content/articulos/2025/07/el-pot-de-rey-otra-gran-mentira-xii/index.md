@@ -5,7 +5,7 @@ pubDate: "2025-07-07 02:15:58"
 author: "Lucio"
 categories: ["Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pot-de-rey-otra-gran-mentira-xii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pot-de-rey-otra-gran-mentira-xii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pot-de-rey-otra-gran-mentira-xii/hero.jpg)

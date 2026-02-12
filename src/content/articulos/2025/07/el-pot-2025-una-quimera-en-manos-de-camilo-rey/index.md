@@ -5,7 +5,7 @@ pubDate: "2025-07-01 19:39:17"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pot-2025-una-quimera-en-manos-de-camilo-rey/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pot-2025-una-quimera-en-manos-de-camilo-rey/hero.jpg
 ---
 
 ![El POT 2025 ¿Una quimera en manos de Camilo Rey? En la sombra, Rodolfo Díaz Wrigth.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pot-2025-una-quimera-en-manos-de-camilo-rey/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-11-20 02:53:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/salto-al-vacio-milei-presidente-de-argentina/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/salto-al-vacio-milei-presidente-de-argentina/hero.jpg
 ---
 
 ![Milei presidente de Argentina. ¿Salto al vacío?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/salto-al-vacio-milei-presidente-de-argentina/hero.jpg)

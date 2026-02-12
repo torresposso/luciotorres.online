@@ -5,7 +5,7 @@ pubDate: "2022-08-02 16:17:36"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/exitosa-accion-contra-adjudicacion-del-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/exitosa-accion-contra-adjudicacion-del-canal-del-dique/hero.jpg
 ---
 
 ![Así titulamos cuando se abrió la licitación el 22 de enero. La adjudicación del Canal del Dique será un hecho este 4 de agosto a manos que una acción judicial lo detenga. La Alianza para la Defensa Canal del Dique le apunta a eso.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/exitosa-accion-contra-adjudicacion-del-canal-del-dique/hero.jpg)

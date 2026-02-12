@@ -5,7 +5,7 @@ pubDate: "2023-09-28 01:04:58"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/petro-propone-otro-acuerdo-nacional-al-establecimiento/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/petro-propone-otro-acuerdo-nacional-al-establecimiento/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/petro-propone-otro-acuerdo-nacional-al-establecimiento/hero.jpg)

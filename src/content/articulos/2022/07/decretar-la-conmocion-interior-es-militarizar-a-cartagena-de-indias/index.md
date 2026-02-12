@@ -5,7 +5,7 @@ pubDate: "2022-07-16 15:54:37"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/decretar-la-conmocion-interior-es-militarizar-a-cartagena-de-indias/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/decretar-la-conmocion-interior-es-militarizar-a-cartagena-de-indias/hero.jpg
 ---
 
 ![Conmoción interior es la propuesta vía tutela de Alcides Arrieta y Erick Urueta.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/decretar-la-conmocion-interior-es-militarizar-a-cartagena-de-indias/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2024-04-25 03:05:00"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-inspector-de-pasacaballos-y-su-extrana-actuacion-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-inspector-de-pasacaballos-y-su-extrana-actuacion-ii/hero.jpg
 ---
 
 ![El inspector de Pasacaballos y su extraña actuación](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-inspector-de-pasacaballos-y-su-extrana-actuacion-ii/hero.jpg)

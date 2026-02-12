@@ -5,7 +5,7 @@ pubDate: "2024-09-02 03:16:02"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2020-06-19 22:23:07"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/06/la-miseria-de-un-escribidor-maton-del-alcalde/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/06/la-miseria-de-un-escribidor-maton-del-alcalde/hero.jpg
 ---
 
 \[caption id="attachment\_11922" align="alignnone" width="713"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/06/la-miseria-de-un-escribidor-maton-del-alcalde/hero.jpg) La miseria de un escribidor. Antonio Támara cree que con su pistolón va a intimidar al periodista. Facebook.\[/caption\] ¿Es lo mismo escribir sobrio que bajo el efecto de _mariacachafa_? ¿Es lo mismo gobernar con autonomía o bajo la dictadura del bazuco? ¿Qué hace a un buen escritor? ¿la inspiración o el arte de escribir? ¿Qué hace a un buen gobernante? ¿el poder o su capacidad de gobernar? La miseria de un escribidor es posar de matón esperando una Ops de su patrón. **_Escribidor_ y alcalde están cortados con la misma tijera: la miseria humana**.

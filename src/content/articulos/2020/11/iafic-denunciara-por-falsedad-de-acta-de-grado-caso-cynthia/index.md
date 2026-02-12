@@ -5,7 +5,7 @@ pubDate: "2020-11-21 23:52:35"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/iafic-denunciara-por-falsedad-de-acta-de-grado-caso-cynthia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/iafic-denunciara-por-falsedad-de-acta-de-grado-caso-cynthia/hero.jpg
 ---
 
 \[caption id="attachment\_13291" align="alignnone" width="718"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/iafic-denunciara-por-falsedad-de-acta-de-grado-caso-cynthia/hero.jpg) **Fernando Tinoco**, Rector de IAFIC presentará denuncia penal.\[/caption\] La Corporación Universitaria IAFIC denunciará por falsedad de acta de grado a Cynthia. **Una bola de estiércol amenaza derrumbar el vuelo putrefacto del alcalde «buitre» que se posó en Cartagena como un incorruptible salvador.** Pero cada vez que se escudriña su administración, se descubre una nueva malandrinada. La hoja de vida de Cynthia Pérez Amador está plagada de falsedad. **Tanto como la misma elección de William Dau fue un fraude y un engaño colectivo**. A Cynthia parecería que la hubiesen graduado en el **Parque de Las Flórez de Cartagena**. Sitio emblemático para crear certificados chimbos de toda clase. Pero todo hace indicar que el determinador de este delito de defraudar las arcas del Distrito de Cartagena es el propio alcalde William Dau. Cuando fue candidato ocultó que era accionista de Aguas de Cartagena. Siendo alcalde promovió la candidatura del contralor electo Héctor Consuegra, quien estaba inhabilitado. Ocultó que era el auditor de Edurbe. Engañó a sus concejales aliados que votaron por su candidato.

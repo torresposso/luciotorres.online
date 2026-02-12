@@ -5,7 +5,7 @@ pubDate: "2024-03-23 02:51:56"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/la-impagable-deuda-de-la-udec-a-ecopetrol-petro-y-yamilito-piden-que-la-condonen/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/la-impagable-deuda-de-la-udec-a-ecopetrol-petro-y-yamilito-piden-que-la-condonen/hero.jpg
 ---
 
 ![la impagable deuda de la UdeC a Ecopetrol: Petro y Yamilito piden que la condonen ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/la-impagable-deuda-de-la-udec-a-ecopetrol-petro-y-yamilito-piden-que-la-condonen/Petro_yamilito-1024x698.jpeg)

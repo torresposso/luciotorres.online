@@ -5,7 +5,7 @@ pubDate: "2022-05-18 00:24:40"
 author: "Lucio"
 categories: ["Análisis","Opinión","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/senor-juez-la-audiencia-publica-es-publica-salvo-excepciones/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/senor-juez-la-audiencia-publica-es-publica-salvo-excepciones/hero.jpg
 ---
 
 ![Señor Juez Guido Guevara Herrera, 11 Penal Municipal. Solicitamos rectificación.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/senor-juez-la-audiencia-publica-es-publica-salvo-excepciones/hero.jpg)

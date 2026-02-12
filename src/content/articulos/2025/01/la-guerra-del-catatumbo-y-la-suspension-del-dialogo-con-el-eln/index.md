@@ -5,7 +5,7 @@ pubDate: "2025-01-18 03:12:56"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/la-guerra-del-catatumbo-y-la-suspension-del-dialogo-con-el-eln/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/la-guerra-del-catatumbo-y-la-suspension-del-dialogo-con-el-eln/hero.jpg
 ---
 
 ![La guerra del Catatumbo, y la suspensión del diálogo con el ELN](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/la-guerra-del-catatumbo-y-la-suspension-del-dialogo-con-el-eln/hero.jpg)

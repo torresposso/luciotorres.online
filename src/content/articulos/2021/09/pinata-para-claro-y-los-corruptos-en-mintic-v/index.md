@@ -5,7 +5,7 @@ pubDate: "2021-09-30 22:09:51"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/pinata-para-claro-y-los-corruptos-en-mintic-v/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/pinata-para-claro-y-los-corruptos-en-mintic-v/hero.jpg
 ---
 
 **Karen Abudinen Abuchaibe** convirtió el Ministerio de Tecnologías de la Información y las Comunicaciones (MinTic) en una verdadera piñata —no para niños— sino para los corruptos. Una piñata donde la multinacional Claro recibió el 50% de ese dulce: $1 billón de pesos para construir los Centros Digitales. 

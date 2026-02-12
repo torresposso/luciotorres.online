@@ -5,7 +5,7 @@ pubDate: "2019-01-29 10:29:09"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/caera-el-imperio-char-gerlein-yuyo-daes-con-las-confesiones-de-aida-merlano-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/caera-el-imperio-char-gerlein-yuyo-daes-con-las-confesiones-de-aida-merlano-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/caera-el-imperio-char-gerlein-yuyo-daes-con-las-confesiones-de-aida-merlano-i/hero.jpg)

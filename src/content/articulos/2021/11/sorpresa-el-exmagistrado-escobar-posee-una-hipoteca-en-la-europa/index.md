@@ -5,7 +5,7 @@ pubDate: "2021-11-23 14:05:03"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/sorpresa-el-exmagistrado-escobar-posee-una-hipoteca-en-la-europa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/sorpresa-el-exmagistrado-escobar-posee-una-hipoteca-en-la-europa/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/sorpresa-el-exmagistrado-escobar-posee-una-hipoteca-en-la-europa/hero.jpg)

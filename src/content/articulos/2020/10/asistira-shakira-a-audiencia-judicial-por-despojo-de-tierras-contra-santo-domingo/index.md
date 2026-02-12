@@ -5,7 +5,7 @@ pubDate: "2020-10-08 02:38:43"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/asistira-shakira-a-audiencia-judicial-por-despojo-de-tierras-contra-santo-domingo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/asistira-shakira-a-audiencia-judicial-por-despojo-de-tierras-contra-santo-domingo/hero.jpg
 ---
 
 \[caption id="attachment\_12849" align="aligncenter" width="702"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/asistira-shakira-a-audiencia-judicial-por-despojo-de-tierras-contra-santo-domingo/shakira-y-pique-en-nueva-york-efe-1-1024x576.jpeg) **¿Asistirá Shakira?** La famosa cantante, aparece con su esposo Piqué. Será invitada a audiencia contra la **Fundación Santo Domingo.** (Cortesía Diariogol).\[/caption\] La pregunta esencial: ¿Asistirá Shakira a la audiencia judicial dónde procesan a la Fundacion Santo Domingo y a su cómplice el Inspector de Policía de Arroyogrande por despojar a la familia afro Hernández Vergara? En uno de los sonados casos de despojo de tierra a familias afros, los abogados de la familia **Hernández Vergara**, solicitaron a la Fiscalía que se invite a **Shakira,** la famosa cantante barranquillera, en la próxima diligencia de la audiencia judicial.  En esta se procesan al inspector de policía de Bayunca por prevaricato y al presidente de la **Fundación Santo Domingo, Pablo Obregón Santo Domingo**, por despojo (falsedad y desplazamiento forzado). La audiencia que se debió cumplir hoy, fue aplazada para otra fecha. En esta ocasión el juez de garantías se declaró impedido por la amistad estrecha que tiene con el apoderado del inspector de **Arroyo Grande Victor Arrieta Ávila.**

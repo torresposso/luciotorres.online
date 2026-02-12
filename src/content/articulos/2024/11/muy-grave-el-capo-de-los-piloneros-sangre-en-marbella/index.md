@@ -5,7 +5,7 @@ pubDate: "2024-11-10 04:20:44"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/muy-grave-el-capo-de-los-piloneros-sangre-en-marbella/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/muy-grave-el-capo-de-los-piloneros-sangre-en-marbella/hero.jpg
 ---
 
 ![Dos balas penetraron la zona torácica. La bala cercano al esternón estuvo a punto de perforar el corazón. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/muy-grave-el-capo-de-los-piloneros-sangre-en-marbella/hero.jpg)

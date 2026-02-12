@@ -5,7 +5,7 @@ pubDate: "2021-03-14 01:36:51"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/por-corrupcion-piden-suspender-al-gerente-de-corvivienda-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/por-corrupcion-piden-suspender-al-gerente-de-corvivienda-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/por-corrupcion-piden-suspender-al-gerente-de-corvivienda-ii/hero.jpg)

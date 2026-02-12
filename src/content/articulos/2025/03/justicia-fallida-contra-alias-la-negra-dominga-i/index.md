@@ -5,7 +5,7 @@ pubDate: "2025-03-11 12:15:10"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/justicia-fallida-contra-alias-la-negra-dominga-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/justicia-fallida-contra-alias-la-negra-dominga-i/hero.jpg
 ---
 
 ![Álvaro Luis Ospino Illera ―alias «La Negra Dominga» y su amado sobrino-hijo asesinado por alias Beto en su fiesta de cumpleaños el 24 de octubre de 2022. Su captura y libertad inmediata sugiere que estamos frente a una justicia fallida.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/justicia-fallida-contra-alias-la-negra-dominga-i/La-negra-dominga-sobrino.jpeg)

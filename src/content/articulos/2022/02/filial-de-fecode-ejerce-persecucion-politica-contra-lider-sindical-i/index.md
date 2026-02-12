@@ -5,7 +5,7 @@ pubDate: "2022-02-25 12:04:00"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/filial-de-fecode-ejerce-persecucion-politica-contra-lider-sindical-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/filial-de-fecode-ejerce-persecucion-politica-contra-lider-sindical-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/filial-de-fecode-ejerce-persecucion-politica-contra-lider-sindical-i/hero.jpg)

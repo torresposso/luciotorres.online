@@ -5,7 +5,7 @@ pubDate: "2023-06-27 02:40:14"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/alcalde-antisocial-es-garantia-electoral/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/alcalde-antisocial-es-garantia-electoral/hero.jpg
 ---
 
 ![El clientelismo electoral de William Dau y Prosperidad Social  ponen en cuestión la garantía electoral de 2023.  Aquí haciendo sus payasadas al lado de la directora nacional Directora Nacional del Departamento de Prosperidad Social ―DPS, Cielo Rusinque. Juegan con el hambre del pueblo/Prensa alcaldía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/alcalde-antisocial-es-garantia-electoral/Dau_Ollas-comunitarias.jpeg)

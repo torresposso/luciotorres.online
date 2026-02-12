@@ -5,7 +5,7 @@ pubDate: "2021-11-03 21:42:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/eutanasia-a-martha-el-misterio-de-la-muerte/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/eutanasia-a-martha-el-misterio-de-la-muerte/hero.jpg
 ---
 
 ![Eutanasia a Martha](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/eutanasia-a-martha-el-misterio-de-la-muerte/hero.jpg)

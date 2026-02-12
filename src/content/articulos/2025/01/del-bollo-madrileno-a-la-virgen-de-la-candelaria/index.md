@@ -5,7 +5,7 @@ pubDate: "2025-01-30 21:03:39"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/hero.jpg
 ---
 
 ![El alcalde de Magangué, Pedro Alí Alí, felicita a Rosenda Atencio, 90 años, 9 hijos, la bollera madrileña que recibió el homenaje este 19 de enero.  Del Bollo Madrileño a la Virgen de la Candelaria](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/hero.jpg)

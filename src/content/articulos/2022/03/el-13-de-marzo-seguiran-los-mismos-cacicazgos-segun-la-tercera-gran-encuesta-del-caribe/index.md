@@ -5,7 +5,7 @@ pubDate: "2022-03-09 00:02:11"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-13-de-marzo-seguiran-los-mismos-cacicazgos-segun-la-tercera-gran-encuesta-del-caribe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-13-de-marzo-seguiran-los-mismos-cacicazgos-segun-la-tercera-gran-encuesta-del-caribe/hero.jpg
 ---
 
 ![José Alfredo Gnecco (Cesar), Arturo Char (Atlántico) y Lidio García (Bolívar), tendrían la mayor votación para senado en la Costa caribe. los mismos cacicazgos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-13-de-marzo-seguiran-los-mismos-cacicazgos-segun-la-tercera-gran-encuesta-del-caribe/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2024-02-11 14:58:20"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/juicio-politico-al-presidente-el-8-f-acelero-la-crisis-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/juicio-politico-al-presidente-el-8-f-acelero-la-crisis-i/hero.jpg
 ---
 
 ![Esta reunión entre el presidente Petro y el presidente de la Corte Suprema fue inútil. Solo para la foto. ¿Juicio político al presidente? ¿El 8/F aceleró la crisis?/Corte.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/juicio-politico-al-presidente-el-8-f-acelero-la-crisis-i/hero.jpg)

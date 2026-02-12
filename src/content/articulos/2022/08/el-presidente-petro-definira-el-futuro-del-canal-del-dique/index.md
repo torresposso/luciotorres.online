@@ -5,7 +5,7 @@ pubDate: "2022-08-04 23:34:49"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/el-presidente-petro-definira-el-futuro-del-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/el-presidente-petro-definira-el-futuro-del-canal-del-dique/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/el-presidente-petro-definira-el-futuro-del-canal-del-dique/hero.jpg)

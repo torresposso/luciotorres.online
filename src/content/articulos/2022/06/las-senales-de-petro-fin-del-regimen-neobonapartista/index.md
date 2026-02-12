@@ -5,7 +5,7 @@ pubDate: "2022-06-25 00:52:45"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/las-senales-de-petro-fin-del-regimen-neobonapartista/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/las-senales-de-petro-fin-del-regimen-neobonapartista/hero.jpg
 ---
 
 https://youtu.be/hU-2MMNjQ5A

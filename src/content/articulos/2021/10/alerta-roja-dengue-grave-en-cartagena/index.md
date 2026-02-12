@@ -5,7 +5,7 @@ pubDate: "2021-10-28 22:20:56"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/alerta-roja-dengue-grave-en-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/alerta-roja-dengue-grave-en-cartagena/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/alerta-roja-dengue-grave-en-cartagena/hero.jpg)

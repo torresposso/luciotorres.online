@@ -5,7 +5,7 @@ pubDate: "2022-03-27 20:01:49"
 author: "Lucio"
 categories: ["Deportes"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/seleccion-colombia-no-todo-esta-perdido/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/seleccion-colombia-no-todo-esta-perdido/hero.jpg
 ---
 
 ![Selección Colombia, así te queremos ver celebrando los goles en Puerto Ordaz ante Venezuela. Cuadrado no podrá estar en ese decisivo partido.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/seleccion-colombia-no-todo-esta-perdido/celebracion-del-gol.jpeg)

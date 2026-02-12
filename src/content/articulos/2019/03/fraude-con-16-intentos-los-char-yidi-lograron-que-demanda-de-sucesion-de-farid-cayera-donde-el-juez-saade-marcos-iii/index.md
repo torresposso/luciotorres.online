@@ -5,7 +5,7 @@ pubDate: "2019-03-11 14:22:58"
 author: "Lucio"
 categories: ["Barranquilla"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/fraude-con-16-intentos-los-char-yidi-lograron-que-demanda-de-sucesion-de-farid-cayera-donde-el-juez-saade-marcos-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/fraude-con-16-intentos-los-char-yidi-lograron-que-demanda-de-sucesion-de-farid-cayera-donde-el-juez-saade-marcos-iii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/fraude-con-16-intentos-los-char-yidi-lograron-que-demanda-de-sucesion-de-farid-cayera-donde-el-juez-saade-marcos-iii/hero.jpg)

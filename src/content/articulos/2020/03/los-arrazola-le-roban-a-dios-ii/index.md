@@ -5,7 +5,7 @@ pubDate: "2020-03-26 03:34:19"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/los-arrazola-le-roban-a-dios-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/los-arrazola-le-roban-a-dios-ii/hero.jpg
 ---
 
 \[caption id="attachment\_11317" align="aligncenter" width="536"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/los-arrazola-le-roban-a-dios-ii/hero.jpg) Los cómics contra la mentira de Arrázola. Cortesía\[/caption\] Ver a los pastores **Miguel Arrázola Pinedo y María Paula García Silva** acosar a su feligresía para que le paguen el diezmo, por PSE o vía virtual, en medio de la cuarentena por ocasión del coronavirus, **causó indignación no solo a gentiles y mundanos** sino también al **mundo cristiano**. ¿Por qué las organizaciones cristianas permiten que **usurpadores de la fe** sigan engañando a su feligresía? ¿**Los Arrázola le roban a Dios** robandole a su feligresía, a la que le promete prosperidad en abundancia y libre de pecados? Si la iglesia **Ríos de Vida** no remueve a sus líderes, la **Dirección de Asuntos Religiosos del Ministerio del Interior a cargo de Lorena Ríos** debe intervenirla, tal como la Superintendencia de Industria y Comercio hace con las empresas que **promueven publicidad engañosa.** Con este trabajo periodístico, abrimos el debate para sanear la practica de la fe de falsos apóstoles que simplemente son empresarios del capitalismo salvaje aplicado a la religión.

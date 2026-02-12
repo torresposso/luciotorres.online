@@ -5,7 +5,7 @@ pubDate: "2019-12-03 13:58:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/pedrito-renovaria-contrato-con-ecosodio-y-el-concejo-con-sus-fauces-abiertas-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/pedrito-renovaria-contrato-con-ecosodio-y-el-concejo-con-sus-fauces-abiertas-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/pedrito-renovaria-contrato-con-ecosodio-y-el-concejo-con-sus-fauces-abiertas-i/hero.jpg)

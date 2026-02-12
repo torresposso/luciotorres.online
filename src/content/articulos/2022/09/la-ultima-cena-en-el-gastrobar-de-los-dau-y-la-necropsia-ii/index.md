@@ -5,7 +5,7 @@ pubDate: "2022-09-10 17:06:24"
 author: "Lucio"
 categories: ["Análisis","Investigación","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/la-ultima-cena-en-el-gastrobar-de-los-dau-y-la-necropsia-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/la-ultima-cena-en-el-gastrobar-de-los-dau-y-la-necropsia-ii/hero.jpg
 ---
 
 ![La última cena en el gastrobar de los Dau](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/la-ultima-cena-en-el-gastrobar-de-los-dau-y-la-necropsia-ii/hero.jpg)

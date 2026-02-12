@@ -5,7 +5,7 @@ pubDate: "2024-03-27 03:24:51"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez","Arturo Char","Corte Suprema de Justicia"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/las-dos-caras-de-la-justicia-selectiva/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/las-dos-caras-de-la-justicia-selectiva/hero.jpg
 ---
 
 ![Las dos caras de la Justicia selectiva](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/las-dos-caras-de-la-justicia-selectiva/Arturo_char_Aida_merlano_hija.jpeg)

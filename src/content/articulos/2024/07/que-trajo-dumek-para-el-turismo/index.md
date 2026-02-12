@@ -5,7 +5,7 @@ pubDate: "2024-07-07 13:19:17"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/que-trajo-dumek-para-el-turismo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/que-trajo-dumek-para-el-turismo/hero.jpg
 ---
 
 ![¿Qué trajo Dumek para el centro histórico? Aquí la delegación cartagenera con el ministro Industria y Turismo de España, Jordi Hereu.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/que-trajo-dumek-para-el-turismo/hero.jpg)

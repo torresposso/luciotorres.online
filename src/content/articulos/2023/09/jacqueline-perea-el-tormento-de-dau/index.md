@@ -5,7 +5,7 @@ pubDate: "2023-09-05 18:16:43"
 author: "Lucio"
 categories: ["Análisis","Entrevista"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/jacqueline-perea-el-tormento-de-dau/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/jacqueline-perea-el-tormento-de-dau/hero.jpg
 ---
 
 ![Aquí con Jacqueline Perea, una mujer con pantalones.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/jacqueline-perea-el-tormento-de-dau/hero.jpg)

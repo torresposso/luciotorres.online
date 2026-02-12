@@ -5,7 +5,7 @@ pubDate: "2022-03-01 23:04:45"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-oso-ruso-muerde-a-ucrania-y-europa-se-levanta/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-oso-ruso-muerde-a-ucrania-y-europa-se-levanta/hero.jpg
 ---
 
 ![El Oso Ruso salió de su madriguera y mordió a Ucrania. Putin (Rusia) y Zelensky (Ucrania).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/el-oso-ruso-muerde-a-ucrania-y-europa-se-levanta/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-09-06 21:22:25"
 author: "Lucio"
 categories: ["Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/las-socializaciones-de-la-ani-son-distracciones/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/las-socializaciones-de-la-ani-son-distracciones/hero.jpg
 ---
 
 **La Alianza para la Defensa y el Desarrollo de la Ecorregión Canal del Dique** rechazó las socializaciones exprés convocadas por la ANI para el día de hoy. Considera que son espacios con apariencias democráticas del megaproyecto **“Restauración de los Ecosistemas Degradados Canal del Dique”.** Se convierten en distracción para alcanzar una efectiva participación de las comunidades.

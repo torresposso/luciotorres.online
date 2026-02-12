@@ -5,7 +5,7 @@ pubDate: "2023-11-25 03:17:52"
 author: "Lucio"
 categories: ["Análisis","Crónica","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-legado-de-vicentico-y-raymundo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-legado-de-vicentico-y-raymundo/hero.jpg
 ---
 
 ![Parque Bolívar rescatado por Vicente Blel./VoxPopuli.Digital.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-legado-de-vicentico-y-raymundo/hero.jpg)

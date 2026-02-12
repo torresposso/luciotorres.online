@@ -5,7 +5,7 @@ pubDate: "2018-10-06 14:33:26"
 author: "Lucio"
 categories: ["Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/exalcaldesa-yolanda-tomemos-un-cafe-me-perdona/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/exalcaldesa-yolanda-tomemos-un-cafe-me-perdona/hero.jpg
 ---
 
 \[caption id="attachment\_6369" align="aligncenter" width="701"\](imagen no disponible) Escuchando a **Yolanda Wong**. Después de esta entrevista no quiso hablar más conmigo. El primer desencuentro con el periodista. Nunca supe qué le molestó.\[/caption\] Ofrezco disculpas a **Yolanda Wong**, a la mujer, a la madre, a la hija, a sus hijos. Ofrezco disculpas a las mujeres que se sintieron heridas por ese titular del **«amante bandido»**, a las directivas de la **Red de Empoderamiento de Mujeres** que discutieron el tema en su seno e hicieron una declaración pública. Mi intención no fue hacerle daño a nadie con esa metáfora, pero las palabras son puñaladas de fuego que llegan a las personas según su estructura mental y cultural. No me imaginé que dicho titular iba a causar daño moral, incluso, a una de las protagonistas de mis historias periodísticas sobre el **modus operandi de los servidores públicos** que cabalgan sobre la Bestia de la administración pública. Una novia arhuaca que tuve en los tiempos mozos y fogosos, me dijo una vez:

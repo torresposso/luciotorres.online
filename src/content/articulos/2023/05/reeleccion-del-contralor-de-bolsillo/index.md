@@ -5,7 +5,7 @@ pubDate: "2023-05-30 03:32:16"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/reeleccion-del-contralor-de-bolsillo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/reeleccion-del-contralor-de-bolsillo/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/reeleccion-del-contralor-de-bolsillo/hero.jpg)

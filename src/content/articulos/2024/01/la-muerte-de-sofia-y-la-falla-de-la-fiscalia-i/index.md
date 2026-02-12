@@ -5,7 +5,7 @@ pubDate: "2024-01-25 22:11:21"
 author: "Lucio"
 categories: ["Crónica","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-muerte-de-sofia-y-la-falla-de-la-fiscalia-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-muerte-de-sofia-y-la-falla-de-la-fiscalia-i/hero.jpg
 ---
 
 ![La muerte de Sofía significó una falla de la Fiscalía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-muerte-de-sofia-y-la-falla-de-la-fiscalia-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2025-07-11 12:50:47"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/hero.jpg
 ---
 
 ![¡Adivinen! ¿Quién es el hijo negado? ¿El de adelante o el de atrás?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/hero.jpg)

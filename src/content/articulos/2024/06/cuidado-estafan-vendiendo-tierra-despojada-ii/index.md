@@ -5,7 +5,7 @@ pubDate: "2024-06-18 04:14:49"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/cuidado-estafan-vendiendo-tierra-despojada-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/cuidado-estafan-vendiendo-tierra-despojada-ii/hero.jpg
 ---
 
 ![Al norte de Cartagena, kilómetro 21, tierra despojada. Son 12,5 hectáreas despojadas a Eddy Marina Aguacha de López, y las tienen a la venta.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/cuidado-estafan-vendiendo-tierra-despojada-ii/hero.jpg)

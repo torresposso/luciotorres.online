@@ -5,7 +5,7 @@ pubDate: "2021-08-05 21:30:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/el-prontuario-de-ali-badau-y-sus-40-inspectores-caso-johana/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/el-prontuario-de-ali-badau-y-sus-40-inspectores-caso-johana/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/el-prontuario-de-ali-badau-y-sus-40-inspectores-caso-johana/hero.jpg)

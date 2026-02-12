@@ -5,7 +5,7 @@ pubDate: "2025-06-30 02:44:37"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/los-audio-de-leyva-el-viejo-conspirador-estremece-al-pais-politico/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/los-audio-de-leyva-el-viejo-conspirador-estremece-al-pais-politico/hero.jpg
 ---
 
 ![«El viejo conspirador» estremece al país político. Aquí  Leyva acompañando a Petro en la posesión del presidente de Brasil, Lula da Silva.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/los-audio-de-leyva-el-viejo-conspirador-estremece-al-pais-politico/Leyva_petro_lula.jpeg)

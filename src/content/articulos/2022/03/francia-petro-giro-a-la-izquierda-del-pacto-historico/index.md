@@ -5,7 +5,7 @@ pubDate: "2022-03-24 20:01:19"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/francia-petro-giro-a-la-izquierda-del-pacto-historico/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/francia-petro-giro-a-la-izquierda-del-pacto-historico/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/francia-petro-giro-a-la-izquierda-del-pacto-historico/hero.jpg)

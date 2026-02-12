@@ -5,7 +5,7 @@ pubDate: "2024-01-11 01:22:25"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/los-pillos-buena-gente-de-la-corte-y-la-libertad-de-arturo-char-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/los-pillos-buena-gente-de-la-corte-y-la-libertad-de-arturo-char-i/hero.jpg
 ---
 
 ![Libertad provisional de Arturo Char.

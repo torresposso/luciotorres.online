@@ -5,7 +5,7 @@ pubDate: "2025-01-12 22:25:10"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/senora-fiscal-termino-la-vagancia-judicial-con-los-intocables-xvi/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/senora-fiscal-termino-la-vagancia-judicial-con-los-intocables-xvi/hero.jpg
 ---
 
 ![Señora Fiscal: ¿Terminó la vagancia judicial con Los Intocables?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/senora-fiscal-termino-la-vagancia-judicial-con-los-intocables-xvi/hero.jpg)

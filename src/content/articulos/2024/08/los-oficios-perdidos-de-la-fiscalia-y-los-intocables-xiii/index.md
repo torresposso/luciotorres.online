@@ -5,7 +5,7 @@ pubDate: "2024-08-21 03:46:05"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/hero.jpg)

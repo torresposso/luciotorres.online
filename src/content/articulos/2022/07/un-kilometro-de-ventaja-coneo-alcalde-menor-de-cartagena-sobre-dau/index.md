@@ -5,7 +5,7 @@ pubDate: "2022-07-13 03:19:32"
 author: "Lucio"
 categories: ["Análisis","Emprendimiento","Investigación","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/un-kilometro-de-ventaja-coneo-alcalde-menor-de-cartagena-sobre-dau/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/un-kilometro-de-ventaja-coneo-alcalde-menor-de-cartagena-sobre-dau/hero.jpg
 ---
 
 ¡Un kilómetro de ventaja! Coneo le lleva a Dau. Al escuchar las críticas del alcalde **William Dau** contra la gestión del alcalde de la localidad Industrial y de la Bahía No 3, **Aroldo Coneo**, nos dimos a la tarea de investigar y a analizar el hecho. ¡Oh sorpresa! Nos encontramos que en calidad de ejecución, **el alcalde menor le lleva al alcalde mayor William Dau Chamat un kilómetro de vías nuevas de ventaja, 12 parques, 41 mejoramiento de viviendas**, entre otras obras públicas.

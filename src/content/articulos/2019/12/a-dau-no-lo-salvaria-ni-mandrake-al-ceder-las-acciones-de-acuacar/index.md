@@ -5,7 +5,7 @@ pubDate: "2019-12-17 18:23:17"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/a-dau-no-lo-salvaria-ni-mandrake-al-ceder-las-acciones-de-acuacar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/a-dau-no-lo-salvaria-ni-mandrake-al-ceder-las-acciones-de-acuacar/hero.jpg
 ---
 
 (imagen no disponible)

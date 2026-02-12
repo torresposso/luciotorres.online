@@ -5,7 +5,7 @@ pubDate: "2021-01-05 19:43:05"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/caso-melissa-gonzalez-famisanar-es-famimatar-con-sus-pacientes-oncologicos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/caso-melissa-gonzalez-famisanar-es-famimatar-con-sus-pacientes-oncologicos/hero.jpg
 ---
 
 \[caption id="attachment\_13635" align="aligncenter" width="1080"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/caso-melissa-gonzalez-famisanar-es-famimatar-con-sus-pacientes-oncologicos/hero.jpg) **Elías Botero Mejía**, presidente de Famisanar. Viene de ser el gerente financiero de Pepe Ganga. Cortesía.\[/caption\] **La Eps Famisanar es «famimatar»** al interrumpir sin ninguna justificación el tratamiento oncológico a sus pacientes. En Bogotá, mientras su presidente **Elías Botero Mejía** recibía dos grandes premios de la organización **Cuenta de Alto Costo**,  a la joven modelo **Melissa González** se le suspendía abruptamente la **quimioterapia por un cáncer de mama en su seno izquierdo**. Pareciera que todas las EPS están cortadas con la misma tijera. La diferencia entre unas y otras es que a veces usan tijeras oxidadas que hace más dramático el corte. Y Melissa González vive su propio drama por la tijera oxidada de Famisanar.

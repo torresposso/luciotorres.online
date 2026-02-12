@@ -5,7 +5,7 @@ pubDate: "2025-02-11 04:52:52"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/los-5-rasgos-de-benedetti-el-rasputin-criollo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/los-5-rasgos-de-benedetti-el-rasputin-criollo/hero.jpg
 ---
 
 ![La transformación de Armando Benedetti en el «Rasputín criollo»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/los-5-rasgos-de-benedetti-el-rasputin-criollo/Rasputin_criollo.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2021-06-09 19:51:26"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-importancia-de-analizar-el-idi-como-mejora-territorial/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-importancia-de-analizar-el-idi-como-mejora-territorial/hero.jpg
 ---
 
 \[caption id="attachment\_15382" align="aligncenter" width="800"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/la-importancia-de-analizar-el-idi-como-mejora-territorial/hero.jpg) Director de Función Pública, **Nerio José Alvis Barranco con el gobernador de Cundinamarca, Nicolás García Bustos, puntaje: 98,2  de 100 posibles.**\[/caption\]

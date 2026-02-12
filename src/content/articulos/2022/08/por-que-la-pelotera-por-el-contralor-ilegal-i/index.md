@@ -5,7 +5,7 @@ pubDate: "2022-08-04 16:29:14"
 author: "Lucio"
 categories: ["Investigación","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/hero.jpg
 ---
 
 ![Nubia Fontalvo, Héctor Consuegra y Gustavo Núñez, los tres contralores ilegales de la historia. La pelotera por la contraloría.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/hero.jpg)

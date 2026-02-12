@@ -5,7 +5,7 @@ pubDate: "2025-01-29 13:29:49"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/congreso-realiza-audiencia-para-baru-y-pontezuela/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/congreso-realiza-audiencia-para-baru-y-pontezuela/hero.jpg
 ---
 
 ![Por iniciativa de la senadora del Pacto Histórico, Aida Abella, el congreso realizará audiencia para Barú y Pontezuela](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/congreso-realiza-audiencia-para-baru-y-pontezuela/aida_mujeres-1024x600.jpeg)

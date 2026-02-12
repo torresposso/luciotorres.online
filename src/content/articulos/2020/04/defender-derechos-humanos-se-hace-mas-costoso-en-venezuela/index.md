@@ -5,7 +5,7 @@ pubDate: "2020-04-01 16:16:45"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/defender-derechos-humanos-se-hace-mas-costoso-en-venezuela/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/defender-derechos-humanos-se-hace-mas-costoso-en-venezuela/hero.jpg
 ---
 
 ## ESCUCHE LA ENTREVISTA CON GERARDO GUERRA

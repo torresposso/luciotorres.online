@@ -5,7 +5,7 @@ pubDate: "2025-10-01 02:28:02"
 author: "Lucio"
 categories: ["Barranquilla","Destacadas","Poder"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-alcalde-que-se-burla-de-la-justicia-de-su-hijo-y-de-la-sociedad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-alcalde-que-se-burla-de-la-justicia-de-su-hijo-y-de-la-sociedad/hero.jpg
 ---
 
 ![El alcalde que se burla de la justicia. ¿A Char solo le interesan los negocios y desprecia a su  parentela?  Aquí en Nueva York junto a Eduardo Verano de la Rosa, gobernador del Atlántico, con la firma inversora Seabury Capital Management (SCM) y con SGI Aviation  en un paso importante para  endeudar más a Barranquiilla y a los barranquilleros con el pretexto de desarrollo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/el-alcalde-que-se-burla-de-la-justicia-de-su-hijo-y-de-la-sociedad/hero.jpg)

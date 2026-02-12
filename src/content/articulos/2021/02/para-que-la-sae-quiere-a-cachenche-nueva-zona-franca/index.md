@@ -5,7 +5,7 @@ pubDate: "2021-02-16 22:48:49"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/02/para-que-la-sae-quiere-a-cachenche-nueva-zona-franca/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/02/para-que-la-sae-quiere-a-cachenche-nueva-zona-franca/hero.jpg
 ---
 
 \[caption id="attachment\_13818" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/02/para-que-la-sae-quiere-a-cachenche-nueva-zona-franca/MACHETE1.jpeg) Los campesinos organizados. **¿Para que la SAE quiere a Cachenche?** Foto/Cortesía.\[/caption\] **¿Para qué la SAE quiere a Cachenche?** Desde hace más de 15 años **220 familias** campesinas ejercen la posesión de la **Finca Cachenche**. Siembran productos de pancoger: maíz, yuca, ñame, hortalizas y otros. Pero el director de la Regional Norte de Activos Especiales S.A.S. —SAE—, **Juan Pablo Valbuena Anaya**, insiste en desalojarlos. ¿La razón? Arrendar sus 180 hectáreas probablemente para un proyecto de **Zona Franca**. Los campesinos lograron detener transitoriamente el desalojo que la SAE debía ejecutar en el día de hoy. **El Juzgado Promiscuo de Turbana—Bolívar**, luego de admitir la orden de tutela, determinó que se debía suspender transitoriamente la orden de desalojo mientras se define de fondo la suerte de las 220 familias. El Juzgado dentro de la acción de tutela impetrada por la señora **Ana Lucía Miranda García** a nombre propio, contra la la Sociedad de Activos Especiales,  resolvió lo siguiente:

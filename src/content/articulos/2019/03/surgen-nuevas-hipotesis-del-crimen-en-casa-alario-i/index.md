@@ -5,7 +5,7 @@ pubDate: "2019-03-08 02:42:31"
 author: "Lucio"
 categories: ["Crónica","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/surgen-nuevas-hipotesis-del-crimen-en-casa-alario-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/surgen-nuevas-hipotesis-del-crimen-en-casa-alario-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/surgen-nuevas-hipotesis-del-crimen-en-casa-alario-i/hero.jpg)

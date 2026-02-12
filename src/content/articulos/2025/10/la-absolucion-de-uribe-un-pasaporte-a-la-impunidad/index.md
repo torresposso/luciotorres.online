@@ -5,7 +5,7 @@ pubDate: "2025-10-22 03:50:29"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/la-absolucion-de-uribe-un-pasaporte-a-la-impunidad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/la-absolucion-de-uribe-un-pasaporte-a-la-impunidad/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/la-absolucion-de-uribe-un-pasaporte-a-la-impunidad/Juicio-Alvaro-Uribe-1024x567.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2022-03-10 00:39:56"
 author: "Lucio"
 categories: ["Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/costa-caribe-los-pronosticos-electorales-del-13-de-marzo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/costa-caribe-los-pronosticos-electorales-del-13-de-marzo/hero.jpg
 ---
 
 /articulos/episode/5Gv79q36fiVPgq6fD9RNJO?si=482b27856abd4239

@@ -5,7 +5,7 @@ pubDate: "2021-10-06 21:40:10"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/costa-caribe-los-talibanes-de-la-economia-en-cloacas-fiscales-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/costa-caribe-los-talibanes-de-la-economia-en-cloacas-fiscales-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/costa-caribe-los-talibanes-de-la-economia-en-cloacas-fiscales-ii/Los-talibanes-de-la-economia-2-e1633569774516.jpeg)

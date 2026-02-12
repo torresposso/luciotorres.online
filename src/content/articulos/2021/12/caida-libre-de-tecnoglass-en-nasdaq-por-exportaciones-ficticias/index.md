@@ -5,7 +5,7 @@ pubDate: "2021-12-15 13:27:54"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/caida-libre-de-tecnoglass-en-nasdaq-por-exportaciones-ficticias/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/caida-libre-de-tecnoglass-en-nasdaq-por-exportaciones-ficticias/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/caida-libre-de-tecnoglass-en-nasdaq-por-exportaciones-ficticias/hero.jpg)

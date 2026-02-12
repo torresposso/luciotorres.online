@@ -5,7 +5,7 @@ pubDate: "2021-04-16 23:50:45"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-talaigua-nuevo-contratan-parque-sin-el-lleno-de-requisitos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-talaigua-nuevo-contratan-parque-sin-el-lleno-de-requisitos/hero.jpg
 ---
 
 \[caption id="attachment\_14571" align="aligncenter" width="1080"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-talaigua-nuevo-contratan-parque-sin-el-lleno-de-requisitos/hero.jpg) **Angelica Carpio Quintana**, alcaldesa de Talaigua Nuevo.\[/caption\]

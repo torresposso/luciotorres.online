@@ -5,7 +5,7 @@ pubDate: "2024-11-01 11:43:20"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/hero.jpg
 ---
 
 ![En los tiempos que estalló el escándalo de la parapolitica](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/hero.jpg)

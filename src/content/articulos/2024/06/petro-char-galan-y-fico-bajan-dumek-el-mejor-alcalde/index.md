@@ -5,7 +5,7 @@ pubDate: "2024-06-28 01:13:17"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/hero.jpg
 ---
 
 ![En la última encuesta de Invamer Poll, se destacó Dumek Turbay como el mejor alcalde al obtener una aprobación de  79% y la menor desaprobación de 16%. Yamilito, auqnue bajó dos puntos, es el mejor de la Costa Caribe y casi empata con el gobernador de Antioquia, Andrés Julián Rendón](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/hero.jpg)

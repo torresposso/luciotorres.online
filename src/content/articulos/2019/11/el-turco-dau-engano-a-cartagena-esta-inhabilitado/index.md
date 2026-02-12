@@ -5,7 +5,7 @@ pubDate: "2019-11-29 14:58:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/el-turco-dau-engano-a-cartagena-esta-inhabilitado/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/el-turco-dau-engano-a-cartagena-esta-inhabilitado/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/el-turco-dau-engano-a-cartagena-esta-inhabilitado/hero.jpg)

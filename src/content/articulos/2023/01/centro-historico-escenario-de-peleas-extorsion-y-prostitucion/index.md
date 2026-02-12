@@ -5,7 +5,7 @@ pubDate: "2023-01-16 19:47:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/centro-historico-escenario-de-peleas-extorsion-y-prostitucion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/centro-historico-escenario-de-peleas-extorsion-y-prostitucion/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/centro-historico-escenario-de-peleas-extorsion-y-prostitucion/hero.jpg)

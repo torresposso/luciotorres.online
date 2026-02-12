@@ -5,7 +5,7 @@ pubDate: "2024-11-08 03:46:08"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/que-hay-detras-del-atentado-contra-el-jefe-de-los-piloneros/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/que-hay-detras-del-atentado-contra-el-jefe-de-los-piloneros/hero.jpg
 ---
 
 ![Victor Reales, el supuesto jefe de «Los Piloneros», en una de las presentaciones de Diomedes Díaz en Valencia, Venezuela.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/que-hay-detras-del-atentado-contra-el-jefe-de-los-piloneros/hero.jpg)

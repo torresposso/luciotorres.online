@@ -5,7 +5,7 @@ pubDate: "2025-07-17 13:05:20"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/la-absolucion-de-hilsaca-y-las-incongruencias-del-tribunal-superior-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/la-absolucion-de-hilsaca-y-las-incongruencias-del-tribunal-superior-i/hero.jpg
 ---
 
 ![La absolución de Hilsaca tan controvertida como él mismo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/la-absolucion-de-hilsaca-y-las-incongruencias-del-tribunal-superior-i/hero.jpg)

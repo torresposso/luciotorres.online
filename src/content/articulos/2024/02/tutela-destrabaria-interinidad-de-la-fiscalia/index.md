@@ -5,7 +5,7 @@ pubDate: "2024-02-14 15:31:43"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tutela-destrabaria-interinidad-de-la-fiscalia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tutela-destrabaria-interinidad-de-la-fiscalia/hero.jpg
 ---
 
 ![¿Tutela destrabaría interinidad de la Fiscalía? En mano de estos magistrados está el concepto de dignidad humanada en conexidad con el acceso a la justicia./captura de pantalla.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tutela-destrabaria-interinidad-de-la-fiscalia/hero.jpg)

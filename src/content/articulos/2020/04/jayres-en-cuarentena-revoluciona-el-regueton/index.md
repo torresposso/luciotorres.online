@@ -5,7 +5,7 @@ pubDate: "2020-04-05 19:16:43"
 author: "Lucio"
 categories: ["Análisis","Nueva Generación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/jayres-en-cuarentena-revoluciona-el-regueton/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/jayres-en-cuarentena-revoluciona-el-regueton/hero.jpg
 ---
 
 ## Jayres puede transformar el reguetón

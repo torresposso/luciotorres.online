@@ -5,7 +5,7 @@ pubDate: "2023-12-13 04:37:34"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 tags: ["Corte Constitucional","Elsa Noguera","Gobernación del Magdalena","Gobernación del Valle"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/tasa-de-seguridad-ciudadana-es-ilegal-y-un-fracaso-para-combatir-el-delito-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/tasa-de-seguridad-ciudadana-es-ilegal-y-un-fracaso-para-combatir-el-delito-i/hero.jpg
 ---
 
 ![Eduardo Verano y Elsa Noguera fueron promotores de la tasa de seguridad ciudadana en el Atlántico](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/tasa-de-seguridad-ciudadana-es-ilegal-y-un-fracaso-para-combatir-el-delito-i/ElsaNoguera_Eduardo_verano.jpeg)

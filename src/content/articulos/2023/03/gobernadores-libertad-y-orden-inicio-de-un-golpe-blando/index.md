@@ -5,7 +5,7 @@ pubDate: "2023-03-23 00:07:26"
 author: "Lucio"
 categories: ["Análisis","Mi País","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/gobernadores-libertad-y-orden-inicio-de-un-golpe-blando/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/gobernadores-libertad-y-orden-inicio-de-un-golpe-blando/hero.jpg
 ---
 
 ![Gobernadores: «¡Libertad y Orden!» ¿Inicio de un golpe blando?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/gobernadores-libertad-y-orden-inicio-de-un-golpe-blando/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2020-05-28 01:40:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/no-hay-cama-pa-tanta-gente-con-covid-19-sos-cartagena-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/no-hay-cama-pa-tanta-gente-con-covid-19-sos-cartagena-iii/hero.jpg
 ---
 
 Es verdad. **«No hay cama p'a tanta gente».** Cartagena está **cundida de Covid—19**. El gobierno nacional intervino el Distrito para adoptar las medidas urgentes que el alcalde **William Dau** debió tomar cuando en marzo implementó el toque de queda. Pasaron dos meses, y los resultados fueron adversos. ¿Las causas? Se pueden identificar: Una ciudad caótica y una administración ídem. **«No hay cama p'a tanta gente enferma de Covid».** La clínica Gestión Salud colapsó. «No cabe un alma». Las camas UCI la desocupan cuando muere el paciente. Son muy pocos los que se salvan cuando entran en estado crítico. El número de fallecimientos intrahospitalario por Covid crece en forma alarmante. Hoy, 8 defunciones. Mañana no se sabe cuánto serán.

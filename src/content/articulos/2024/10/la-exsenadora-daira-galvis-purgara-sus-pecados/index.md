@@ -5,7 +5,7 @@ pubDate: "2024-10-29 03:05:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/la-exsenadora-daira-galvis-purgara-sus-pecados/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/la-exsenadora-daira-galvis-purgara-sus-pecados/hero.jpg
 ---
 
 ![¿Daira Galvis purgará sus pecados en el cielo?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/la-exsenadora-daira-galvis-purgara-sus-pecados/hero.jpg)

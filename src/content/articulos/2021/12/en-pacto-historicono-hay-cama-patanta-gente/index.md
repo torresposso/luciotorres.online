@@ -5,7 +5,7 @@ pubDate: "2021-12-13 03:15:22"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-pacto-historicono-hay-cama-patanta-gente/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-pacto-historicono-hay-cama-patanta-gente/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-pacto-historicono-hay-cama-patanta-gente/hero.jpg)

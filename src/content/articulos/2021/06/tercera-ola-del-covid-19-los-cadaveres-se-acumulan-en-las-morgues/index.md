@@ -5,7 +5,7 @@ pubDate: "2021-06-15 18:27:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/tercera-ola-del-covid-19-los-cadaveres-se-acumulan-en-las-morgues/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/tercera-ola-del-covid-19-los-cadaveres-se-acumulan-en-las-morgues/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/tercera-ola-del-covid-19-los-cadaveres-se-acumulan-en-las-morgues/hero.jpg)

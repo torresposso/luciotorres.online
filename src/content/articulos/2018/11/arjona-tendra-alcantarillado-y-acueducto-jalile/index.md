@@ -5,7 +5,7 @@ pubDate: "2018-11-16 14:31:47"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/arjona-tendra-alcantarillado-y-acueducto-jalile/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/arjona-tendra-alcantarillado-y-acueducto-jalile/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/arjona-tendra-alcantarillado-y-acueducto-jalile/hero.jpg)

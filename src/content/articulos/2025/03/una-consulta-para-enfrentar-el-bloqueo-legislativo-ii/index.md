@@ -5,7 +5,7 @@ pubDate: "2025-03-19 03:15:22"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/una-consulta-para-enfrentar-el-bloqueo-legislativo-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/una-consulta-para-enfrentar-el-bloqueo-legislativo-ii/hero.jpg
 ---
 
 ![¿Una consulta para enfrentar el bloqueo legislativo? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/una-consulta-para-enfrentar-el-bloqueo-legislativo-ii/hero.jpg)

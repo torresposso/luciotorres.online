@@ -5,7 +5,7 @@ pubDate: "2024-08-25 04:00:28"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/la-fiscal-del-paramilitarismo-y-la-crisis-moral-de-la-fiscalia-xiv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/la-fiscal-del-paramilitarismo-y-la-crisis-moral-de-la-fiscalia-xiv/hero.jpg
 ---
 
 ![La fiscal del paramilitarismo y la crisis moral de la Fiscalía](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/la-fiscal-del-paramilitarismo-y-la-crisis-moral-de-la-fiscalia-xiv/Claudia_Lozano_Doria.jpeg)

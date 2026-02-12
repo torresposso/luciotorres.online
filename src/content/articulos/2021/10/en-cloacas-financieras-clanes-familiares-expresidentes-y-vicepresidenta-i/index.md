@@ -5,7 +5,7 @@ pubDate: "2021-10-05 12:50:38"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/hero.jpg)

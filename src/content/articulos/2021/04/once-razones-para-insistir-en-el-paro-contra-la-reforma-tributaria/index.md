@@ -5,7 +5,7 @@ pubDate: "2021-04-26 20:06:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/once-razones-para-insistir-en-el-paro-contra-la-reforma-tributaria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/once-razones-para-insistir-en-el-paro-contra-la-reforma-tributaria/hero.jpg
 ---
 
 \[caption id="attachment\_14694" align="aligncenter" width="600"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/once-razones-para-insistir-en-el-paro-contra-la-reforma-tributaria/hero.jpg) Paro contra la reforma tributaria.\[/caption\]

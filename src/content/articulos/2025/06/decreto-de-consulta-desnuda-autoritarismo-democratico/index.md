@@ -5,7 +5,7 @@ pubDate: "2025-06-13 02:20:53"
 author: "Lucio"
 categories: ["Poder"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/decreto-de-consulta-desnuda-autoritarismo-democratico/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/decreto-de-consulta-desnuda-autoritarismo-democratico/hero.jpg
 ---
 
 ![«Autoritarismo democrático» , el peligro del decreto de consulta popular.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/decreto-de-consulta-desnuda-autoritarismo-democratico/hero.jpg)

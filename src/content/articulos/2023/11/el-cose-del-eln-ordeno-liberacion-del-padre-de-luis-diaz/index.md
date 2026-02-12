@@ -5,7 +5,7 @@ pubDate: "2023-11-03 02:33:27"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-cose-del-eln-ordeno-liberacion-del-padre-de-luis-diaz/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-cose-del-eln-ordeno-liberacion-del-padre-de-luis-diaz/hero.jpg
 ---
 
 ![Momento de la llegada de Luis Manuel Diaz a su casa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-cose-del-eln-ordeno-liberacion-del-padre-de-luis-diaz/hero.jpg)

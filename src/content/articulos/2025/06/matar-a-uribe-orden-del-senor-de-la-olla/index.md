@@ -5,7 +5,7 @@ pubDate: "2025-06-16 00:44:33"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/matar-a-uribe-orden-del-senor-de-la-olla/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/matar-a-uribe-orden-del-senor-de-la-olla/hero.jpg
 ---
 
 ![¡Matar a Uribe! Orden del «Señor de la olla»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/matar-a-uribe-orden-del-senor-de-la-olla/hero.jpg)

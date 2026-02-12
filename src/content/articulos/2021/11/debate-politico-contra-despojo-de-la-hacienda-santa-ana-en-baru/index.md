@@ -5,7 +5,7 @@ pubDate: "2021-11-14 23:49:27"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/debate-politico-contra-despojo-de-la-hacienda-santa-ana-en-baru/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/debate-politico-contra-despojo-de-la-hacienda-santa-ana-en-baru/hero.jpg
 ---
 
 (imagen no disponible)

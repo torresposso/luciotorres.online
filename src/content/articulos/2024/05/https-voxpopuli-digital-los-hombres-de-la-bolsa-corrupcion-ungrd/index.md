@@ -5,7 +5,7 @@ pubDate: "2024-05-29 02:56:52"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/https-voxpopuli-digital-los-hombres-de-la-bolsa-corrupcion-ungrd/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/https-voxpopuli-digital-los-hombres-de-la-bolsa-corrupcion-ungrd/hero.jpg
 ---
 
 ![¿«Las bisagras del gobierno»? / UNGRD CAJA MENOR

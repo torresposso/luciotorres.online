@@ -5,7 +5,7 @@ pubDate: "2022-03-07 00:38:49"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/desierta-la-app-para-rescatar-galeon-san-jose-abre-un-mar-de-beneficios-al-caribe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/desierta-la-app-para-rescatar-galeon-san-jose-abre-un-mar-de-beneficios-al-caribe/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/desierta-la-app-para-rescatar-galeon-san-jose-abre-un-mar-de-beneficios-al-caribe/hero.jpg)

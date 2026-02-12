@@ -5,7 +5,7 @@ pubDate: "2019-11-10 16:03:34"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/el-top-secret-de-la-victoria-de-dau-el-uribismo-fue-artifice-de-un-gran-fraude-al-electorado-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/el-top-secret-de-la-victoria-de-dau-el-uribismo-fue-artifice-de-un-gran-fraude-al-electorado-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/el-top-secret-de-la-victoria-de-dau-el-uribismo-fue-artifice-de-un-gran-fraude-al-electorado-i/hero.jpg)

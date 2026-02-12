@@ -5,7 +5,7 @@ pubDate: "2021-04-29 00:40:10"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/un-oportunista-en-la-marcha-28a-en-busca-de-popularidad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/un-oportunista-en-la-marcha-28a-en-busca-de-popularidad/hero.jpg
 ---
 
 \[caption id="attachment\_14730" align="aligncenter" width="1080"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/un-oportunista-en-la-marcha-28a-en-busca-de-popularidad/marcha-Cartagena.jpeg) El oportunista en la Marcha 28A. Dau fue abucheado por los marchantes espontáneos.\[/caption\]

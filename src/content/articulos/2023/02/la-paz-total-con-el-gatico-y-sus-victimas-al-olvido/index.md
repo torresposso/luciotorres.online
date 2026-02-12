@@ -5,7 +5,7 @@ pubDate: "2023-02-09 03:36:24"
 author: "Lucio"
 categories: ["Análisis","Post Conflicto"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-paz-total-con-el-gatico-y-sus-victimas-al-olvido/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-paz-total-con-el-gatico-y-sus-victimas-al-olvido/hero.jpg
 ---
 
 ![La «Paz Total» con «el Gatico», y sus víctimas, al olvido. Danilo Rueda está detrás de la rehabilitación del genocida «Jorge 40». Quiere poner en libertad a los genocidas del paramilitarismo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-paz-total-con-el-gatico-y-sus-victimas-al-olvido/hero.jpg)

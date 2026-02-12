@@ -5,7 +5,7 @@ pubDate: "2022-06-07 12:42:49"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/la-suspension-del-alcalde-es-inminente/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/la-suspension-del-alcalde-es-inminente/hero.jpg
 ---
 
 ![La suspensión del alcalde está engavetada. En los mentideros políticos locales se dice que se debe a los buenos oficios del hermano del presidente Duque. Pero el decreto debe salir pronto.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/la-suspension-del-alcalde-es-inminente/hero.jpg)

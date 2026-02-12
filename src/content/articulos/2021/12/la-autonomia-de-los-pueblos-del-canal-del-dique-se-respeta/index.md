@@ -5,7 +5,7 @@ pubDate: "2021-12-05 23:52:04"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/la-autonomia-de-los-pueblos-del-canal-del-dique-se-respeta/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/la-autonomia-de-los-pueblos-del-canal-del-dique-se-respeta/hero.jpg
 ---
 
 ![Julian Gallo (Carlos Lozada)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/la-autonomia-de-los-pueblos-del-canal-del-dique-se-respeta/hero.jpg)

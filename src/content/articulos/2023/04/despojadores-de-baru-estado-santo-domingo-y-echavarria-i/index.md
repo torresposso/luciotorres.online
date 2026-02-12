@@ -5,7 +5,7 @@ pubDate: "2023-04-06 02:29:12"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/despojadores-de-baru-estado-santo-domingo-y-echavarria-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/despojadores-de-baru-estado-santo-domingo-y-echavarria-i/hero.jpg
 ---
 
 ## _¡Levántate Mulato!_ que el territorio es tuyo

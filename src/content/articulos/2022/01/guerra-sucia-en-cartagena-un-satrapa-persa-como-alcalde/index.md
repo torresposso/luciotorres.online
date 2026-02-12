@@ -5,7 +5,7 @@ pubDate: "2022-01-17 23:03:13"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/guerra-sucia-en-cartagena-un-satrapa-persa-como-alcalde/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/guerra-sucia-en-cartagena-un-satrapa-persa-como-alcalde/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/guerra-sucia-en-cartagena-un-satrapa-persa-como-alcalde/hero.jpg)

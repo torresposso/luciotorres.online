@@ -5,7 +5,7 @@ pubDate: "2021-10-22 01:16:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/cartagena-es-una-ciudad-prisionera-de-la-pobreza-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/cartagena-es-una-ciudad-prisionera-de-la-pobreza-petro/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/cartagena-es-una-ciudad-prisionera-de-la-pobreza-petro/petro-en-la-boquilla.jpeg)

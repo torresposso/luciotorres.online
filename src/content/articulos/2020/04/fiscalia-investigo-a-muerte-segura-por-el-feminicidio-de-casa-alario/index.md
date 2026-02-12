@@ -5,7 +5,7 @@ pubDate: "2020-04-16 22:56:56"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/fiscalia-investigo-a-muerte-segura-por-el-feminicidio-de-casa-alario/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/fiscalia-investigo-a-muerte-segura-por-el-feminicidio-de-casa-alario/hero.jpg
 ---
 
 **«Muerte segura»** estuvo el 13 de enero del 2019, una hora antes en el escenario del feminicidio cometido con sevicia y odio contra la docente del Colegio Mayor de Cartagena **María Victoria del Río Quintana, Vicky.** El asesinato de **«Casa Alario de Mompox»** está en la impunidad sin que el **fiscal No 41 de Mompox, Fernando Quintero Álvarez**, haya avanzado para esclarecer móviles, tiempo, circunstancias y autores de ese horrendo hecho. https://youtu.be/DYjVRaDKxpU La paradoja de esta historia es que la víctima del homicidio quiso una vez cambiarle la vida a **«Muerte segura»** por los crímenes que cometió. ¿Qué hacía en _Casa Alario_ una hora antes de la muerte de Vicky del Río?

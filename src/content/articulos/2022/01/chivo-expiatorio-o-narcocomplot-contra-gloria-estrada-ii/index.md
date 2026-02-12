@@ -5,7 +5,7 @@ pubDate: "2022-01-17 02:45:23"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/chivo-expiatorio-o-narcocomplot-contra-gloria-estrada-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/chivo-expiatorio-o-narcocomplot-contra-gloria-estrada-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/chivo-expiatorio-o-narcocomplot-contra-gloria-estrada-ii/hero.jpg)

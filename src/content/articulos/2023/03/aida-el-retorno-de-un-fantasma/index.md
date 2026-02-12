@@ -5,7 +5,7 @@ pubDate: "2023-03-11 02:21:12"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/aida-el-retorno-de-un-fantasma/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/aida-el-retorno-de-un-fantasma/hero.jpg
 ---
 
 ![Aída, el retorno de un fantasma](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/aida-el-retorno-de-un-fantasma/hero.jpg)

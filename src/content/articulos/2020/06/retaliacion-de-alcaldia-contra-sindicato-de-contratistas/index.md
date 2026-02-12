@@ -5,7 +5,7 @@ pubDate: "2020-06-02 19:54:29"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/06/retaliacion-de-alcaldia-contra-sindicato-de-contratistas/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/06/retaliacion-de-alcaldia-contra-sindicato-de-contratistas/hero.jpg
 ---
 
 \[caption id="attachment\_11843" align="alignnone" width="700"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/06/retaliacion-de-alcaldia-contra-sindicato-de-contratistas/hero.jpg) Aquí **Martha Carvajal**, directora de Talento Humano, aparece con el exsecretario de Hacienda **Roberto Useche** y la exalcaldesa **Judith Pinedo**. ¿Retaliación? Cortesía.\[/caption\] Una cacería de brujas ordenaría el alcalde William Dau **contra el Sindicato de Contratistas del Distrito de Cartagena.** Es una clara retaliación la actitud de la administración de retrasar la renovación del contrato de prestación de servicios a varios directivos sindicales, especialmente a su presidenta Ingeborg Barros de la Hoz. https://youtu.be/ttQ4qTsn3Hc Erick Ujueta, director de la Veeduría del Poder Judicial, manifestó que no existe otra explicación a la conducta de la administración. Ello porque la administración viola flagrantemente el decreto [**No 491 del 28 de marzo**](http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/30039011) **de 2020:**

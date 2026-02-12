@@ -5,7 +5,7 @@ pubDate: "2022-07-11 13:03:03"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/dau-empeno-alcaldia-para-atornillarse-al-poder-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/dau-empeno-alcaldia-para-atornillarse-al-poder-ii/hero.jpg
 ---
 
 Cuando el 7 de julio el alcalde de Cartagena le solicitó la renuncia colectiva a su gabinete distrital la justificó diciendo que algunos de sus miembros pretenden participar en las próximas elecciones. Pero, la realidad es otra. Estaba pensando cómo acomodar en el gabinete a los recomendados de quienes lo ayuden mantenerse en el cargo.

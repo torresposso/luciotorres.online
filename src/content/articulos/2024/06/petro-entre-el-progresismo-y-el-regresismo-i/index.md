@@ -5,7 +5,7 @@ pubDate: "2024-06-27 12:29:00"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-entre-el-progresismo-y-el-regresismo-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-entre-el-progresismo-y-el-regresismo-i/hero.jpg
 ---
 
 ![¿Entre el progresismo y el «regresismo»? El nuevo escándalo que rodea al gobierno progresista de Petro. A la izquierda, el presidente con Jaime Ramírez Carbó (29 de mayo de 2022), hoy su enlace con el congreso. A la derecha, Laura Sarabia Torres y su séquito (29 de agosto? ¿Pueden observar a Marelbis Meza?/Suministrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-entre-el-progresismo-y-el-regresismo-i/Petro_laura_Ramirez.jpeg)

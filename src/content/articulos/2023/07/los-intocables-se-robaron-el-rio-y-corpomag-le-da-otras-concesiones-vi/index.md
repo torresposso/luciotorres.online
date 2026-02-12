@@ -5,7 +5,7 @@ pubDate: "2023-07-12 02:18:32"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-intocables-se-robaron-el-rio-y-corpomag-le-da-otras-concesiones-vi/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-intocables-se-robaron-el-rio-y-corpomag-le-da-otras-concesiones-vi/hero.jpg
 ---
 
 ![Rafael Matera Lajud, dueño de matadero Camagüey, y representante de Los Intocables, al parecer se robaron el Río Ariguaní con la complicidad del director de la Corporación Autonómica Regional del Magdalena―Corpomag.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/los-intocables-se-robaron-el-rio-y-corpomag-le-da-otras-concesiones-vi/hero.jpg)

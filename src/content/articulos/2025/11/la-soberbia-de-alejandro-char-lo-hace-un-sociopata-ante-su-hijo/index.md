@@ -5,7 +5,7 @@ pubDate: "2025-11-09 18:01:55"
 author: "Lucio"
 categories: ["Ahora","Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/la-soberbia-de-alejandro-char-lo-hace-un-sociopata-ante-su-hijo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/la-soberbia-de-alejandro-char-lo-hace-un-sociopata-ante-su-hijo/hero.jpg
 ---
 
 ![La soberbia de Alejandro Char lo hace un sociópata ante su hijo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/la-soberbia-de-alejandro-char-lo-hace-un-sociopata-ante-su-hijo/hero.jpg)

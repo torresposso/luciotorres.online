@@ -5,7 +5,7 @@ pubDate: "2025-03-16 13:09:47"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/el-escudero-de-petro-augusto-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/el-escudero-de-petro-augusto-i/hero.jpg
 ---
 
 ![Augusto, el escudero de Petro contra los molinos de la corrupción](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/el-escudero-de-petro-augusto-i/hero.jpg)

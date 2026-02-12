@@ -5,7 +5,7 @@ pubDate: "2023-11-06 04:10:50"
 author: "Lucio"
 categories: ["Análisis","Deportes"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-gol-de-la-libertad-de-lucho-diaz/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-gol-de-la-libertad-de-lucho-diaz/hero.jpg
 ---
 
 ![Después de anotar el gol de la libertad, la mirada de Lucho Díaz no es de alegría. Liverpool empató con Luton. «¡Libertad para papá!»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-gol-de-la-libertad-de-lucho-diaz/hero.jpg)

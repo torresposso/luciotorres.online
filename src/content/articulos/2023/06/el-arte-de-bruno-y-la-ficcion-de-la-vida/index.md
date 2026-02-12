@@ -5,7 +5,7 @@ pubDate: "2023-06-10 00:28:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-arte-de-bruno-y-la-ficcion-de-la-vida/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-arte-de-bruno-y-la-ficcion-de-la-vida/hero.jpg
 ---
 
 ![El arte de Bruno y la ficción de la vida. Aquí con el tmabién escritor y su corrector de estilo, Laurent Céspedes. Foto suministrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-arte-de-bruno-y-la-ficcion-de-la-vida/hero.jpg)

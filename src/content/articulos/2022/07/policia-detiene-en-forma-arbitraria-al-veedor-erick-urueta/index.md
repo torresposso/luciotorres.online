@@ -5,7 +5,7 @@ pubDate: "2022-07-03 22:01:34"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/policia-detiene-en-forma-arbitraria-al-veedor-erick-urueta/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/policia-detiene-en-forma-arbitraria-al-veedor-erick-urueta/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/policia-detiene-en-forma-arbitraria-al-veedor-erick-urueta/hero.jpg)

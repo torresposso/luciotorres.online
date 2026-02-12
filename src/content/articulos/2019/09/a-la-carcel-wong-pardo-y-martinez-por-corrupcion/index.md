@@ -5,7 +5,7 @@ pubDate: "2019-09-29 13:57:18"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/09/a-la-carcel-wong-pardo-y-martinez-por-corrupcion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/09/a-la-carcel-wong-pardo-y-martinez-por-corrupcion/hero.jpg
 ---
 
 (imagen no disponible)

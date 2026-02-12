@@ -5,7 +5,7 @@ pubDate: "2022-07-14 00:57:05"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/firma-espanola-con-antecedentes-de-baja-temeraria-pretende-adjudicarse-megaobra-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/firma-espanola-con-antecedentes-de-baja-temeraria-pretende-adjudicarse-megaobra-canal-del-dique/hero.jpg
 ---
 
 ![Entre Iván Duque y Gustavo Petro está la corrección del proceso de licitación que se le piensa adjudicar a firma española.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/firma-espanola-con-antecedentes-de-baja-temeraria-pretende-adjudicarse-megaobra-canal-del-dique/hero.jpg)

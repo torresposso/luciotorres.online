@@ -5,7 +5,7 @@ pubDate: "2022-07-21 21:41:50"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/betto-el-legado-de-abudinen-para-rifarse-83-billones-anuales/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/betto-el-legado-de-abudinen-para-rifarse-83-billones-anuales/hero.jpg
 ---
 
 ![¿BETTO, el legado de Abudinen para rifarse el dinero de los niños más pobres de Colombia?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/betto-el-legado-de-abudinen-para-rifarse-83-billones-anuales/hero.jpg)

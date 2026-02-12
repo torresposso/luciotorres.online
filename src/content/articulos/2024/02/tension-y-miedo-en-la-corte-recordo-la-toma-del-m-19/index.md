@@ -5,7 +5,7 @@ pubDate: "2024-02-09 02:58:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tension-y-miedo-en-la-corte-recordo-la-toma-del-m-19/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tension-y-miedo-en-la-corte-recordo-la-toma-del-m-19/hero.jpg
 ---
 
 ![Voto en blanco, tensión y miedo en la Corte recordó la toma del M/19](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tension-y-miedo-en-la-corte-recordo-la-toma-del-m-19/hero.jpg)

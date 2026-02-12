@@ -5,7 +5,7 @@ pubDate: "2021-05-12 23:26:26"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-alianza-maquiavelica-privatizaran-las-vias-del-centro-historico-como-parqueaderos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-alianza-maquiavelica-privatizaran-las-vias-del-centro-historico-como-parqueaderos/hero.jpg
 ---
 
 \[caption id="attachment\_14986" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-alianza-maquiavelica-privatizaran-las-vias-del-centro-historico-como-parqueaderos/Directiva-del-concejo.jpeg) William Dau, **en alianza con el concejo**, privatizarán las vías del centro histórico. Aquí los directivos del concejo.\[/caption\]

@@ -5,7 +5,7 @@ pubDate: "2020-11-10 00:37:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/cartagena-la-heroica-del-sueno-a-la-pesadilla-resistira-las-pendejadas-del-malandro-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/cartagena-la-heroica-del-sueno-a-la-pesadilla-resistira-las-pendejadas-del-malandro-ii/hero.jpg
 ---
 
 (imagen no disponible) Lo que le faltaba a La Heroica. Pasamos **del sueño a la pesadilla**. A soportar las pendejadas de un **alcalde malandro** que tomó por asalto a una ciudad que ha sido víctima de piratas y corsarios a lo largo de su historia colonial, independentista y contemporánea. **Celebramos con mucha pena estos 209 años de nuestra independencia absoluta de la Corona Española**. En su posesión William Dau prometió el sueño:

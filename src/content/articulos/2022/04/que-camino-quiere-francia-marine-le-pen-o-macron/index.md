@@ -5,7 +5,7 @@ pubDate: "2022-04-12 00:31:05"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/que-camino-quiere-francia-marine-le-pen-o-macron/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/que-camino-quiere-francia-marine-le-pen-o-macron/hero.jpg
 ---
 
 ![¿Qué camino quiere Francia? Marine Le Pen se asoma al palacio de Elíseo.  Cortesía EPE.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/que-camino-quiere-francia-marine-le-pen-o-macron/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-04-10 20:27:18"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/jorge-quintana-una-veeduria-con-resultados/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/jorge-quintana-una-veeduria-con-resultados/hero.jpg
 ---
 
 ![Jorge Quintana: Una veeduría con resultados](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/jorge-quintana-una-veeduria-con-resultados/hero.jpg)

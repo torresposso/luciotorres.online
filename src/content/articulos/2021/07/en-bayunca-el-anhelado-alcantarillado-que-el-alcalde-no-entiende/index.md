@@ -5,7 +5,7 @@ pubDate: "2021-07-28 03:04:27"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/en-bayunca-el-anhelado-alcantarillado-que-el-alcalde-no-entiende/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/en-bayunca-el-anhelado-alcantarillado-que-el-alcalde-no-entiende/hero.jpg
 ---
 
 El anhelado alcantarillado de Bayunca es el sueño de 30 mil personas que desean hacer del cuerpo como Dios manda. Quieren salir de las viejas y putrefactas letrinas y disfrutar una buena sentada en su retrete con su alcantarillado moderno. **Ya están cansados de seguir haciendo sus necesidades en medio de ríos de aguas servidas que bañan las calles con sus millones de microbios.** 

@@ -5,7 +5,7 @@ pubDate: "2024-03-28 22:43:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/hero.jpg
 ---
 
 ![Inspecciones de policía amparan despojo para proyectos inmobiliarios. En el centro, el directivo de Camacol, Luis Cubas Montes, empresario constructor que pretende se la ingenió para pretender a la Ingeniosa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/inspecciones-de-policia-amparan-despojo-para-proyectos-inmobiliarios-i/hero.jpg)

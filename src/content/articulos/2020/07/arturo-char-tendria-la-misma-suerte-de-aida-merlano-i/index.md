@@ -5,7 +5,7 @@ pubDate: "2020-07-22 01:34:09"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/arturo-char-tendria-la-misma-suerte-de-aida-merlano-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/arturo-char-tendria-la-misma-suerte-de-aida-merlano-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/arturo-char-tendria-la-misma-suerte-de-aida-merlano-i/hero.jpg)

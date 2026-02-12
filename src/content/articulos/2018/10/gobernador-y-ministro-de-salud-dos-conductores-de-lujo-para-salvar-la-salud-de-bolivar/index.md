@@ -5,7 +5,7 @@ pubDate: "2018-10-18 05:19:06"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/gobernador-y-ministro-de-salud-dos-conductores-de-lujo-para-salvar-la-salud-de-bolivar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/gobernador-y-ministro-de-salud-dos-conductores-de-lujo-para-salvar-la-salud-de-bolivar/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/gobernador-y-ministro-de-salud-dos-conductores-de-lujo-para-salvar-la-salud-de-bolivar/hero.jpg)

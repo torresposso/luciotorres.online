@@ -5,7 +5,7 @@ pubDate: "2022-04-24 13:51:04"
 author: "Lucio"
 categories: ["Análisis","Mi País","Opinión","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/hero.jpg)

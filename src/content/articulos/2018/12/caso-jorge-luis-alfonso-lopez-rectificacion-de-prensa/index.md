@@ -5,7 +5,7 @@ pubDate: "2018-12-22 16:53:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/caso-jorge-luis-alfonso-lopez-rectificacion-de-prensa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/caso-jorge-luis-alfonso-lopez-rectificacion-de-prensa/hero.jpg
 ---
 
 ## **_«_**No juzguéis y no seréis juzgados; No condenéis y no seréis condenados; perdonad y seréis perdonados**_»_**. (Lucas: 6:37)

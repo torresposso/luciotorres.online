@@ -5,7 +5,7 @@ pubDate: "2018-11-24 04:48:37"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/el-pes-en-el-habitad-acerca-la-oferta-oficial-a-los-mas-pobres-de-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/el-pes-en-el-habitad-acerca-la-oferta-oficial-a-los-mas-pobres-de-cartagena/hero.jpg
 ---
 
 ![Jornada de Atención.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/el-pes-en-el-habitad-acerca-la-oferta-oficial-a-los-mas-pobres-de-cartagena/hero.jpg)

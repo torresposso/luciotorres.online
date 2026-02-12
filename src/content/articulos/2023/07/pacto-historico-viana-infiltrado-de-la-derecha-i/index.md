@@ -5,7 +5,7 @@ pubDate: "2023-07-15 03:29:20"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/pacto-historico-viana-infiltrado-de-la-derecha-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/pacto-historico-viana-infiltrado-de-la-derecha-i/hero.jpg
 ---
 
 ![ ¿Viana, infiltrado de la derecha? Luis Enrique Flórez Agamez (izquierda) y Germán Viana Guerrero disputan la candidatura a la gobernación del Pacto Histórico. En los próximos días se definirá la escogencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/pacto-historico-viana-infiltrado-de-la-derecha-i/hero.jpg)

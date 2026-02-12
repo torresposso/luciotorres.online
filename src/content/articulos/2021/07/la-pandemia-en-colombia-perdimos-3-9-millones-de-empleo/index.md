@@ -5,7 +5,7 @@ pubDate: "2021-07-20 16:15:16"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/la-pandemia-en-colombia-perdimos-3-9-millones-de-empleo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/la-pandemia-en-colombia-perdimos-3-9-millones-de-empleo/hero.jpg
 ---
 
 La pandemia aumentó la brecha laboral y, especialmente, en la diferencia de géneros. Los efectos sociales y económicos en Colombia son catastróficos. **En solo año y medio perdimos 3.9 millones de empleos y el 12.2% de las empresas cerraron definitivamente sus pertas.** La brecha social se incrementó. Y como «**el pelado que llora y la mamá lo pellizca»**, llegó el Paro Nacional del 28 de abril provocando resultados adversos en la economía nacional. 

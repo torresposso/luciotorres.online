@@ -5,7 +5,7 @@ pubDate: "2022-08-03 12:26:14"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/reforma-agraria-car-y-medioambiente-las-apuestas-de-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/reforma-agraria-car-y-medioambiente-las-apuestas-de-petro/hero.jpg
 ---
 
 ![El presidente Gustavo Petro con su bancada del Pacto Histórico. uno de los temas centrales asumidos por los parlamentarios de la Comisión Quinta fue la Reforma Agraria.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/reforma-agraria-car-y-medioambiente-las-apuestas-de-petro/hero.jpg)

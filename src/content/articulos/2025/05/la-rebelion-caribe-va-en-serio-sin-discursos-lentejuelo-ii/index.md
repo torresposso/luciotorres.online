@@ -5,7 +5,7 @@ pubDate: "2025-05-18 17:09:04"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-rebelion-caribe-va-en-serio-sin-discursos-lentejuelo-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-rebelion-caribe-va-en-serio-sin-discursos-lentejuelo-ii/hero.jpg
 ---
 
 ![Liga Caribe: La rebelión va en serio sin discursos lentejuelo. Aquí el ministro del Interior, Armando Benedetti, con gobernadores y alcaldes que lideran el proceso. /Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-rebelion-caribe-va-en-serio-sin-discursos-lentejuelo-ii/hero.jpg)

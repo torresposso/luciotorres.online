@@ -5,7 +5,7 @@ pubDate: "2023-06-06 02:02:10"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-dueno-de-la-bolsa-petro-o-benedetti/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-dueno-de-la-bolsa-petro-o-benedetti/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-dueno-de-la-bolsa-petro-o-benedetti/hero.jpg)

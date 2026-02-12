@@ -5,7 +5,7 @@ pubDate: "2022-09-04 23:46:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/el-caribe-norcontinental-independencia-total-ahora/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/el-caribe-norcontinental-independencia-total-ahora/hero.jpg
 ---
 
 ![¿Este Bloque Parlamentario del Caribe puede desarrollar la política de descentralización y desarrollo de las regiones? Independencia total ¡ahora! Cortesía Prensa Gobernación de Bolívar.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/el-caribe-norcontinental-independencia-total-ahora/bloque-parlamentario.jpeg)

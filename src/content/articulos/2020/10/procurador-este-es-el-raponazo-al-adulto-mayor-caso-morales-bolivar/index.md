@@ -5,7 +5,7 @@ pubDate: "2020-10-23 23:11:51"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/procurador-este-es-el-raponazo-al-adulto-mayor-caso-morales-bolivar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/procurador-este-es-el-raponazo-al-adulto-mayor-caso-morales-bolivar/hero.jpg
 ---
 
 \[caption id="attachment\_12978" align="alignright" width="702"\](imagen no disponible) **«El raponazo**» de los recursos del adulto mayor en Morales Bolívar. El alcalde **Neguib Slait Barrios**, el Secretario de Desarrollo Municipal **Deimer Campuzano** y el presunto financista de Slait, **Juan Carlos Orellan**o. (Laura Botett).\[/caption\] A corte de junio de este año, **en las arcas del municipio de Morales, sur de Bolívar, había la suma de $400 millones** por concepto de recaudo de estampilla pro adulto mayor. Pero el alcalde **Neguib Slait Barrios**, inició **«el raponazo**» de esos recursos el 16 de junio. En esta fecha firmó el convenio de asociación **No S.A-002-2020** ([ver el Contrato](/articulos/consultas/detalleProceso.do?numConstancia=20-22-16307#)) **por $450 millone**s, al parecer, sin el lleno de requisitos legales. También se pudo establecer, que no están cumpliendo con el objeto del contrato. El convenio es atender a «viejitos» del **Centro Vida** del casco urbano. Y otros que están por fuera. El contrato fue adjudicado a **Fundacion Sonrisa Visible para Todos** con Nit No 900814622. Representante legal **Yedinson Durán Peinado**, con cédula de ciudadanía No 1062908504. Se le pagó un anticipo del 30% sobre los aportes del municipio que fueron **$315 millones.** En los dos documentos que subieron al **Secop** no aparece el número de beneficiarios.

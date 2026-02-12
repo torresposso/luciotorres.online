@@ -5,7 +5,7 @@ pubDate: "2024-05-19 13:59:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/la-triquinuela-juridica-de-uribe-aplazo-la-audiencia-de-acusacion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/la-triquinuela-juridica-de-uribe-aplazo-la-audiencia-de-acusacion/hero.jpg
 ---
 
 ![Aspecto de la transmisión de la audiencia pública donde se debía escuchar la acusación contra el intocable número 1 de Colombia. La triquiñuela jurídica de Uribe aplazó la audiencia de acusación](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/la-triquinuela-juridica-de-uribe-aplazo-la-audiencia-de-acusacion/Audiencia_uribe-1024x514.jpeg)

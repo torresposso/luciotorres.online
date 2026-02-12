@@ -5,7 +5,7 @@ pubDate: "2025-07-20 02:08:19"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/tribunal-superior-violento-precedente-juridico-al-absolver-a-hilsaca/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/tribunal-superior-violento-precedente-juridico-al-absolver-a-hilsaca/hero.jpg
 ---
 
 ![Tribunal Superior violentó precedente jurídico  al absolver a Hilsaca](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/tribunal-superior-violento-precedente-juridico-al-absolver-a-hilsaca/hero.jpg)

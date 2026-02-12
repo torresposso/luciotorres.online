@@ -5,7 +5,7 @@ pubDate: "2023-10-28 21:57:04"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/ganara-ali-baba-en-magangue/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/ganara-ali-baba-en-magangue/hero.jpg
 ---
 
 ![Magangué ¿Ganará «Alí Babá y sus 40 ladrones»? Franco, Alí, Bedoya.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/ganara-ali-baba-en-magangue/hero.jpg)

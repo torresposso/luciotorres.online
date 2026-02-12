@@ -5,7 +5,7 @@ pubDate: "2019-10-02 10:13:29"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/wong-pardo-y-joiser-son-unos-magos-desaparecieron-2-120-millones-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/wong-pardo-y-joiser-son-unos-magos-desaparecieron-2-120-millones-ii/hero.jpg
 ---
 
 ![Yoanda Wong y las inspecciones.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/wong-pardo-y-joiser-son-unos-magos-desaparecieron-2-120-millones-ii/hero.jpg)

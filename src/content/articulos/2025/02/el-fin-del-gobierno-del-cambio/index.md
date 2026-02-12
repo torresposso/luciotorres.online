@@ -5,7 +5,7 @@ pubDate: "2025-02-07 04:25:40"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-fin-del-gobierno-del-cambio/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-fin-del-gobierno-del-cambio/hero.jpg
 ---
 
 ![¿El fin del Gobierno del Cambio? Gustavo Petro gobernará con Armando Benedetti. Sus viejos compañeros se resisten a ser instrumentalizados.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-fin-del-gobierno-del-cambio/hero.jpg)

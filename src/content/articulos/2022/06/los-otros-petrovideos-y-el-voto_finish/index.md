@@ -5,7 +5,7 @@ pubDate: "2022-06-16 15:01:17"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/los-otros-petrovideos-y-el-voto_finish/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/los-otros-petrovideos-y-el-voto_finish/hero.jpg
 ---
 
 ![Fotofinish entre Rodolfo Hernández y Gustavo Petro. Los otros petrovideos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/los-otros-petrovideos-y-el-voto_finish/hero.jpg)

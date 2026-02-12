@@ -5,7 +5,7 @@ pubDate: "2019-11-28 15:02:40"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/el-paro-sigue-y-tambien-la-falsa-normalidad-de-duque/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/el-paro-sigue-y-tambien-la-falsa-normalidad-de-duque/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/el-paro-sigue-y-tambien-la-falsa-normalidad-de-duque/hero.jpg)

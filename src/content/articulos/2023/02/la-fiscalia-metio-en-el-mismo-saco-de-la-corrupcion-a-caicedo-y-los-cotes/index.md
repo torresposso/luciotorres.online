@@ -5,7 +5,7 @@ pubDate: "2023-02-14 01:06:58"
 author: "Lucio"
 categories: ["Análisis","Santa Marta"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-fiscalia-metio-en-el-mismo-saco-de-la-corrupcion-a-caicedo-y-los-cotes/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-fiscalia-metio-en-el-mismo-saco-de-la-corrupcion-a-caicedo-y-los-cotes/hero.jpg
 ---
 
 ![La Fiscalía metió en el mismo saco de la corrupción a Caicedo y los Cotes. Aquí con la exgobernadora Rosa Cotes de Zúñiga, la compañera de infortunio. ¿Terminarán en la cárcel?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/la-fiscalia-metio-en-el-mismo-saco-de-la-corrupcion-a-caicedo-y-los-cotes/hero.jpg)

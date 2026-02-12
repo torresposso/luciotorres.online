@@ -5,7 +5,7 @@ pubDate: "2024-04-09 01:38:52"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-vomito-prieto-de-la-udec-dos-cuentos-y-la-historia-verdadera-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-vomito-prieto-de-la-udec-dos-cuentos-y-la-historia-verdadera-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-vomito-prieto-de-la-udec-dos-cuentos-y-la-historia-verdadera-ii/William_malkun-1024x697.jpeg)

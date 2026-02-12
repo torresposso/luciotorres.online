@@ -5,7 +5,7 @@ pubDate: "2023-08-25 03:18:28"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/william-garcia-el-emprendedor/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/william-garcia-el-emprendedor/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/william-garcia-el-emprendedor/hero.jpg)

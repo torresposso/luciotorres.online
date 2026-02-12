@@ -5,7 +5,7 @@ pubDate: "2024-02-23 03:32:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/hero.jpg
 ---
 
 ![la «cogida de moña» de Petro](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/hero.jpg)

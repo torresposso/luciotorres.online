@@ -5,7 +5,7 @@ pubDate: "2024-11-24 12:18:14"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/superarea-metropolitana-ya-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/superarea-metropolitana-ya-i/hero.jpg
 ---
 
 ![El gobernador de Bolívar Yamil Hernando Arana Padauí y el alcalde de Cartagena, Dumek José Turbay Paz, podrían liderar la creación la Superárea Metropolitana La Heroica.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/superarea-metropolitana-ya-i/hero.jpg)

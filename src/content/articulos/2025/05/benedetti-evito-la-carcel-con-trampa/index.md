@@ -5,7 +5,7 @@ pubDate: "2025-05-20 01:00:01"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/benedetti-evito-la-carcel-con-trampa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/benedetti-evito-la-carcel-con-trampa/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/benedetti-evito-la-carcel-con-trampa/armando_benedetti-1024x768.jpeg)

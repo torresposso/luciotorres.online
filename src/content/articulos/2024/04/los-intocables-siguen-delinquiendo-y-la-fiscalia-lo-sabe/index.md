@@ -5,7 +5,7 @@ pubDate: "2024-04-16 04:15:24"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez","Arturo Char","Corte Suprema de Justicia"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/los-intocables-siguen-delinquiendo-y-la-fiscalia-lo-sabe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/los-intocables-siguen-delinquiendo-y-la-fiscalia-lo-sabe/hero.jpg
 ---
 
 ![Los Intocables siguen delinquiendo y la Fiscalía lo sabe](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/los-intocables-siguen-delinquiendo-y-la-fiscalia-lo-sabe/hero.jpg)

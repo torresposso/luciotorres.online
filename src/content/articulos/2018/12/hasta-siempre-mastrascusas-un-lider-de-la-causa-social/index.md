@@ -5,7 +5,7 @@ pubDate: "2018-12-25 14:04:16"
 author: "Lucio"
 categories: ["Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/hasta-siempre-mastrascusas-un-lider-de-la-causa-social/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/hasta-siempre-mastrascusas-un-lider-de-la-causa-social/hero.jpg
 ---
 
 ![Alexis Mastracusas, uno de los líderes más destacadas en el tema de vivienda popular.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/hasta-siempre-mastrascusas-un-lider-de-la-causa-social/hero.jpg)

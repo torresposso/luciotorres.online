@@ -5,7 +5,7 @@ pubDate: "2023-01-21 13:21:44"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/costo-de-vida-aumento-225-en-america-latina-y-el-caribe/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/costo-de-vida-aumento-225-en-america-latina-y-el-caribe/hero.jpg
 ---
 
 ![No hay plata ni siquiera para hacer la olla comunitaria. Costo de vida.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/costo-de-vida-aumento-225-en-america-latina-y-el-caribe/hero.jpg)

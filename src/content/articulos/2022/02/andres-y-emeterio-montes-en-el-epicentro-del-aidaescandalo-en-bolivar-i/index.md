@@ -5,7 +5,7 @@ pubDate: "2022-02-11 13:06:25"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/andres-y-emeterio-montes-en-el-epicentro-del-aidaescandalo-en-bolivar-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/andres-y-emeterio-montes-en-el-epicentro-del-aidaescandalo-en-bolivar-i/hero.jpg
 ---
 
 ![Aidaescándalo en Bolívar](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/andres-y-emeterio-montes-en-el-epicentro-del-aidaescandalo-en-bolivar-i/hero.jpg)

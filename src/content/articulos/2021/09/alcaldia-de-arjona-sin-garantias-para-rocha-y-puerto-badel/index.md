@@ -5,7 +5,7 @@ pubDate: "2021-09-09 22:24:26"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/alcaldia-de-arjona-sin-garantias-para-rocha-y-puerto-badel/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/alcaldia-de-arjona-sin-garantias-para-rocha-y-puerto-badel/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/alcaldia-de-arjona-sin-garantias-para-rocha-y-puerto-badel/hero.jpg)

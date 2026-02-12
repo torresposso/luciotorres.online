@@ -5,7 +5,7 @@ pubDate: "2023-01-25 12:36:23"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/cunde-el-panico-en-el-clan-daes-char-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/cunde-el-panico-en-el-clan-daes-char-i/hero.jpg
 ---
 
 ![¿Por qué le negaron la visa a Estados Unidos a Alejandro Char? Cunde el pánico en el Clan Daes—Char](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/cunde-el-panico-en-el-clan-daes-char-i/Visa-Alejandro-Char.jpeg)

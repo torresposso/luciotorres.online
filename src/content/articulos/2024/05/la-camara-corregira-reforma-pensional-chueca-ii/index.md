@@ -5,7 +5,7 @@ pubDate: "2024-05-04 15:26:14"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/la-camara-corregira-reforma-pensional-chueca-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/la-camara-corregira-reforma-pensional-chueca-ii/hero.jpg
 ---
 
 ![¿La cámara corregirá reforma pensional?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/la-camara-corregira-reforma-pensional-chueca-ii/gloria-ines.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2023-10-09 14:13:27"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/dumek-rompera-la-maldicion-politica-en-cartagena-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/dumek-rompera-la-maldicion-politica-en-cartagena-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/dumek-rompera-la-maldicion-politica-en-cartagena-i/hero.jpg)

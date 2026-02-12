@@ -5,7 +5,7 @@ pubDate: "2024-07-28 03:11:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Yamil Arana"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/girardot-se-conjuro-el-hundimiento-de-magangue-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/girardot-se-conjuro-el-hundimiento-de-magangue-i/hero.jpg
 ---
 
 ![hundimiento de Magangué](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/girardot-se-conjuro-el-hundimiento-de-magangue-i/hero.jpg)

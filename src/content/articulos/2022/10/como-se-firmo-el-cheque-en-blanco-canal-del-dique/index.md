@@ -5,7 +5,7 @@ pubDate: "2022-10-09 17:19:03"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/como-se-firmo-el-cheque-en-blanco-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/como-se-firmo-el-cheque-en-blanco-canal-del-dique/hero.jpg
 ---
 
 ![¿Cómo se firmó el cheque en blanco?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/como-se-firmo-el-cheque-en-blanco-canal-del-dique/hero.jpg)

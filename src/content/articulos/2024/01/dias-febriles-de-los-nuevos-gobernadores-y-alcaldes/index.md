@@ -5,7 +5,7 @@ pubDate: "2024-01-03 02:44:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/dias-febriles-de-los-nuevos-gobernadores-y-alcaldes/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/dias-febriles-de-los-nuevos-gobernadores-y-alcaldes/hero.jpg
 ---
 
 ![Los gobernadores y alcaldes elegidos el pasado 29 de octubre de 2022, comenzaron hoy un período de 4 años marcado por las expectativas del plan de desarrollo Colombia Potencia Mundial de la Vida. Pero también, un proceso de reorganización administrativa y financiera para cumplir con  ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/dias-febriles-de-los-nuevos-gobernadores-y-alcaldes/hero.jpg)

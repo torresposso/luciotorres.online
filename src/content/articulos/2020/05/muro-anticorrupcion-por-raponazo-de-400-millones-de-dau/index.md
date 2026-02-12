@@ -5,7 +5,7 @@ pubDate: "2020-05-08 18:58:58"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/muro-anticorrupcion-por-raponazo-de-400-millones-de-dau/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/muro-anticorrupcion-por-raponazo-de-400-millones-de-dau/hero.jpg
 ---
 
 **EL MURO ANTICORRUPCIÓN DE LA CONTRALORÍA CONTRA DAU**

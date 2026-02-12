@@ -5,7 +5,7 @@ pubDate: "2023-02-27 02:50:11"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-las-pavoneadas-de-pava-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-las-pavoneadas-de-pava-iii/hero.jpg
 ---
 
 ![Las pavoneadas de Pava. #BuenVivir. Para los mojaneros es el #MalVivir.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-las-pavoneadas-de-pava-iii/hero.jpg)

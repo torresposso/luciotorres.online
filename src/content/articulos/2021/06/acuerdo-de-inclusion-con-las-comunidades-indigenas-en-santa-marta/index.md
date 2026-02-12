@@ -5,7 +5,7 @@ pubDate: "2021-06-14 19:43:03"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/acuerdo-de-inclusion-con-las-comunidades-indigenas-en-santa-marta/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/acuerdo-de-inclusion-con-las-comunidades-indigenas-en-santa-marta/hero.jpg
 ---
 
 Fue un acuerdo histórico de inclusión con las comunidades indígenas que se plasmó en el día de hoy. Es un convenio de cooperación mutua, inclusión e integración entre los representantes legales de las autoridades civiles (Gobernación del Magdalena y alcaldía de Santa Marta) con las autoridades ancestrales de la Sierra Nevada de Santa Marta. El acuerdo le llevaría agua a Santa Marta y a otras poblaciones de las estribaciones del complejo montañoso. Es decir, que es un beneficio mutuo.

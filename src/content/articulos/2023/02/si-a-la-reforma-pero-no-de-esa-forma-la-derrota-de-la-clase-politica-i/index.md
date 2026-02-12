@@ -5,7 +5,7 @@ pubDate: "2023-02-20 03:33:13"
 author: "Lucio"
 categories: ["Análisis","Mi País","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/si-a-la-reforma-pero-no-de-esa-forma-la-derrota-de-la-clase-politica-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/si-a-la-reforma-pero-no-de-esa-forma-la-derrota-de-la-clase-politica-i/hero.jpg
 ---
 
 ![La marcha de la oposición en Medellín.Sí a la reforma, pero no de esa forma.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/si-a-la-reforma-pero-no-de-esa-forma-la-derrota-de-la-clase-politica-i/hero.jpg)

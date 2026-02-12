@@ -5,7 +5,7 @@ pubDate: "2024-04-18 03:32:44"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/revolcon-o-farsa-el-nuevo-fiscal-del-atlantico-un-mercenario-de-la-justicia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/revolcon-o-farsa-el-nuevo-fiscal-del-atlantico-un-mercenario-de-la-justicia/hero.jpg
 ---
 
 ![¿Revolcón o farsa? La atractiva fiscal Luz Adriana Camargo debe hacer valer su discurso para que no se convierta en una mitología./Prensa Fiscalía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/revolcon-o-farsa-el-nuevo-fiscal-del-atlantico-un-mercenario-de-la-justicia/Luz-Adriana_camargo_fiscal.jpeg)

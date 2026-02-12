@@ -5,7 +5,7 @@ pubDate: "2023-08-14 23:27:09"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/asi-mataron-a-laura-vanessa-lista-macabra-para-sicariar-v/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/asi-mataron-a-laura-vanessa-lista-macabra-para-sicariar-v/hero.jpg
 ---
 
 ![¿Laura Vanessa Molinares Martínez hacía parte de esa lista macabra para sicariar? La Policía y la Fiscalía deben responder.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/asi-mataron-a-laura-vanessa-lista-macabra-para-sicariar-v/hero.jpg)

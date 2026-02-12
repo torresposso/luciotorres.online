@@ -5,7 +5,7 @@ pubDate: "2023-12-23 23:18:45"
 author: "Lucio"
 categories: ["Crónica","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/el-despojo-de-baru-por-santo-domingo-y-la-vida-del-restituidor/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/el-despojo-de-baru-por-santo-domingo-y-la-vida-del-restituidor/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/el-despojo-de-baru-por-santo-domingo-y-la-vida-del-restituidor/hero.jpg)

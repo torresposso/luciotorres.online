@@ -5,7 +5,7 @@ pubDate: "2021-01-10 20:24:32"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/los-char-jorge-40-y-la-guerra-que-perdio-barranquilla/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/los-char-jorge-40-y-la-guerra-que-perdio-barranquilla/hero.jpg
 ---
 
 La memoria colectiva persigue a la gente que participó en la locura colectiva por el poder. Es un fantasma del eterno retorno. La guerra que perdió Barranquilla con el narcotráfico y  **«Jorge 40**» —en la última década del siglo 20 y comienzo del siglo 21— **significó el ascenso al poder político de los Char**. Pero también la aparición de una generación de grandes empresarios y comerciantes emergentes. **El surgimiento de esta nueva hegemonía estuvo ligado al narcotráfico y a la corrupción político-administrativa**.

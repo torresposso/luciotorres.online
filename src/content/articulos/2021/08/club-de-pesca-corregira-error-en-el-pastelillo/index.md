@@ -5,7 +5,7 @@ pubDate: "2021-08-24 03:36:19"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/club-de-pesca-corregira-error-en-el-pastelillo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/club-de-pesca-corregira-error-en-el-pastelillo/hero.jpg
 ---
 
 (imagen no disponible)

@@ -5,7 +5,7 @@ pubDate: "2023-07-30 20:29:05"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/veronica-recibio-la-posta-de-maximo-por-la-gobernacion-del-atlantico/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/veronica-recibio-la-posta-de-maximo-por-la-gobernacion-del-atlantico/hero.jpg
 ---
 
 ![Verónica recibió la posta de Máximo como candidata a la gobernación del atlántico. Su esposo le alza el brazo derecho. ¿El Plab B le ganará a Eduardo Verano y a Alfredo Varela? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/veronica-recibio-la-posta-de-maximo-por-la-gobernacion-del-atlantico/hero.jpg)

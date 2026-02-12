@@ -5,7 +5,7 @@ pubDate: "2025-01-10 00:34:30"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/nicolas-el-ilegitimo-hacia-un-estado-paria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/nicolas-el-ilegitimo-hacia-un-estado-paria/hero.jpg
 ---
 
 ![Posesión ilegítima de Maduro. ¿Hacia un Estado paria?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/nicolas-el-ilegitimo-hacia-un-estado-paria/hero.jpg)

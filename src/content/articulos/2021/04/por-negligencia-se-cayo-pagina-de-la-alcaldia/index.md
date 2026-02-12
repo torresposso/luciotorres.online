@@ -5,7 +5,7 @@ pubDate: "2021-04-14 21:18:11"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/hero.jpg
 ---
 
 \[caption id="attachment\_14552" align="aligncenter" width="712"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/hero.jpg) **William Dau mamando gallo**, mientras la ciudad se desmorona. Se cayó página de la alcaldía.\[/caption\]

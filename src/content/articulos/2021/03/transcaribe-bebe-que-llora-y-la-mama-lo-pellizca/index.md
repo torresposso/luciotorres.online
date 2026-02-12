@@ -5,7 +5,7 @@ pubDate: "2021-04-01 02:05:14"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/transcaribe-bebe-que-llora-y-la-mama-lo-pellizca/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/transcaribe-bebe-que-llora-y-la-mama-lo-pellizca/hero.jpg
 ---
 
 \[caption id="attachment\_14383" align="aligncenter" width="1300"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/transcaribe-bebe-que-llora-y-la-mama-lo-pellizca/hero.jpg) Se acrecienta crisis en Transcaribe. Se paraliza el sistema. El bebé que llora.\[/caption\]

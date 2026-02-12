@@ -5,7 +5,7 @@ pubDate: "2024-03-30 17:50:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez","Corte Suprema de Justicia"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/los-rateros-de-odebrecht-se-reanuda-proceso-contra-oscar-zuluaga-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/los-rateros-de-odebrecht-se-reanuda-proceso-contra-oscar-zuluaga-ii/hero.jpg
 ---
 
 ![¿Nadie se salva con Odebrecht? Dos momentos de las campañas presidenciales de 2014 financiadas con dineros de la corrupción de Odebrecht. Caro o sello sería lo mismo. /Foto cortesía Semana](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/los-rateros-de-odebrecht-se-reanuda-proceso-contra-oscar-zuluaga-ii/Juan_manuel_Santos_Oscar_zuluaga.jpeg)

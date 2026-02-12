@@ -5,7 +5,7 @@ pubDate: "2024-02-08 12:33:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Alejandro Char"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/char-en-el-tibiri-tubara-con-la-admision-de-accion-de-nulidad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/char-en-el-tibiri-tubara-con-la-admision-de-accion-de-nulidad/hero.jpg
 ---
 
 ![Char en el «tibiri―tabara»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/char-en-el-tibiri-tubara-con-la-admision-de-accion-de-nulidad/hero.jpg)

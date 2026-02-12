@@ -5,7 +5,7 @@ pubDate: "2022-07-06 14:57:30"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/poder-comunal-sin-interferencia-partidista/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/poder-comunal-sin-interferencia-partidista/hero.jpg
 ---
 
 ¿Se podrá consolidar un **poder comunal** sin interferencia partidista? Esa es la aspiración de líderes y lideresas comunales que se han resistido a los mismos **vicios electorales** con la compra y venta del voto. Este fenómeno se observa más en la elección de directivos de niveles superiores. Con motivo de la nueva **ley 2166 de 2021** que rige la nueva vida de los **Organismos de Acción Comunal (OAC)**, en Colombia se renovarán los directivos y dignatarios de segundo, tercero y cuarto grado.

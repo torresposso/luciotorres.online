@@ -5,7 +5,7 @@ pubDate: "2023-12-21 02:59:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/no-mas-betto-en-el-icbf-democratizarian-contratacion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/no-mas-betto-en-el-icbf-democratizarian-contratacion/hero.jpg
 ---
 
 ![Astrid Eliana Cárdenas, directora nacional del ICBF se propone democratizar y transparentar la contratación del ICBF. ¿No más Betto en el ICBF? /Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/no-mas-betto-en-el-icbf-democratizarian-contratacion/hero.jpg)

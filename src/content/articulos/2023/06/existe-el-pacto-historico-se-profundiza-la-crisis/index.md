@@ -5,7 +5,7 @@ pubDate: "2023-06-15 00:33:18"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/existe-el-pacto-historico-se-profundiza-la-crisis/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/existe-el-pacto-historico-se-profundiza-la-crisis/hero.jpg
 ---
 
 ![¿Existe el Pacto Histórico? No existe jurídicamente y carece de una dirección democrática./Darwin Núñez-Pacto Histórico.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/existe-el-pacto-historico-se-profundiza-la-crisis/hero.jpg)

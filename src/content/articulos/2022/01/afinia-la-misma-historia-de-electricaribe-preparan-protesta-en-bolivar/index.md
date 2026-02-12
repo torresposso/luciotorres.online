@@ -5,7 +5,7 @@ pubDate: "2022-01-03 23:12:28"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/afinia-la-misma-historia-de-electricaribe-preparan-protesta-en-bolivar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/afinia-la-misma-historia-de-electricaribe-preparan-protesta-en-bolivar/hero.jpg
 ---
 
 ![Protesta contra Afinia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/afinia-la-misma-historia-de-electricaribe-preparan-protesta-en-bolivar/afinia.jpeg)

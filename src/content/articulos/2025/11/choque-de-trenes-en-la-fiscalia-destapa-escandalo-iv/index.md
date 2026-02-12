@@ -5,7 +5,7 @@ pubDate: "2025-11-08 20:30:21"
 author: "Lucio"
 categories: ["Ahora","Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/choque-de-trenes-en-la-fiscalia-destapa-escandalo-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/choque-de-trenes-en-la-fiscalia-destapa-escandalo-iv/hero.jpg
 ---
 
 ![Choque de trenes en la fiscalía destapa escándalo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/choque-de-trenes-en-la-fiscalia-destapa-escandalo-iv/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2021-04-07 00:23:43"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-desacato-alcaldia-para-cumplir-recuperacion-de-la-popa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-desacato-alcaldia-para-cumplir-recuperacion-de-la-popa/hero.jpg
 ---
 
 \[caption id="attachment\_14471" align="aligncenter" width="960"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-desacato-alcaldia-para-cumplir-recuperacion-de-la-popa/hero.jpg) La alcaldía está en desacato. Es obligada a diseñar una política pública de **recuperación integral del Cerro de la Popa**. Cortesía.\[/caption\]

@@ -5,7 +5,7 @@ pubDate: "2023-11-22 02:45:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/petro-busca-acuerdo-nacional-con-empresarios/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/petro-busca-acuerdo-nacional-con-empresarios/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/petro-busca-acuerdo-nacional-con-empresarios/hero.jpg)

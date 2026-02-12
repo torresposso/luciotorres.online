@@ -5,7 +5,7 @@ pubDate: "2024-05-08 03:12:33"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/ungrd-la-fiscalia-escucho-a-olmedo-y-sneyder-petro-se-victimiza-y-gonzalez-en-silencio-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/ungrd-la-fiscalia-escucho-a-olmedo-y-sneyder-petro-se-victimiza-y-gonzalez-en-silencio-ii/hero.jpg
 ---
 
 ![La Fiscalía escuchó a Olmedo y Sneyder, Petro se victimiza y González en silencio. Aquí cuando Olmedo López tomó posesión ante el presidente y Carlos Ramón González./Presidencia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/ungrd-la-fiscalia-escucho-a-olmedo-y-sneyder-petro-se-victimiza-y-gonzalez-en-silencio-ii/Carlos_ramon_gonzalez.jpeg)

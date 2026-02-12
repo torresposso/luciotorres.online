@@ -5,7 +5,7 @@ pubDate: "2025-04-27 18:49:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/captura-de-testaferros-y-extincion-a-exgobernador-condenado-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/captura-de-testaferros-y-extincion-a-exgobernador-condenado-ii/hero.jpg
 ---
 
 ![En el juicio, abajo, camisa amarilla, el exgobernador condenado, Jorge Pérez Bernier](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/captura-de-testaferros-y-extincion-a-exgobernador-condenado-ii/perez_bernier_-1024x450.jpeg)

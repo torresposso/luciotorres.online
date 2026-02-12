@@ -5,7 +5,7 @@ pubDate: "2022-02-19 18:54:22"
 author: "Lucio"
 categories: ["Análisis","Investigación","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-el-camino-de-un-falso-positivo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-el-camino-de-un-falso-positivo/hero.jpg
 ---
 
 ![El camino de un falso positivo ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-el-camino-de-un-falso-positivo/hero.jpg)

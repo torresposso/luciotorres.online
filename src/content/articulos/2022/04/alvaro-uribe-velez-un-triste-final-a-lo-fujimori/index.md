@@ -5,7 +5,7 @@ pubDate: "2022-04-29 02:16:38"
 author: "Lucio"
 categories: ["Análisis","Podcast","Post Conflicto","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/alvaro-uribe-velez-un-triste-final-a-lo-fujimori/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/alvaro-uribe-velez-un-triste-final-a-lo-fujimori/hero.jpg
 ---
 
 ![Muchos se preguntan si al expresidente Álvaro Uribe Vélez le espera un triste final. La historia nos demuestra que sí](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/alvaro-uribe-velez-un-triste-final-a-lo-fujimori/hero.jpg)

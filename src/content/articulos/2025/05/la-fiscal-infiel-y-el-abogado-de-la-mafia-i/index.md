@@ -5,7 +5,7 @@ pubDate: "2025-05-29 10:36:22"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/hero.jpg
 ---
 
 ![Narly Patiño Pascuas y el abogado de la mafia Luis Alfredo Berrío. ¿Fiscal infiel con la justicia?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/hero.jpg)

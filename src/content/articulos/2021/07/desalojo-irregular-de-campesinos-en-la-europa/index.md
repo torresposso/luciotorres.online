@@ -5,7 +5,7 @@ pubDate: "2021-07-29 17:56:35"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/desalojo-irregular-de-campesinos-en-la-europa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/desalojo-irregular-de-campesinos-en-la-europa/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/desalojo-irregular-de-campesinos-en-la-europa/europa1.jpeg)

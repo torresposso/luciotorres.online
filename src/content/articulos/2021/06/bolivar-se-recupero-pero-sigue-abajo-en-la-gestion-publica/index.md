@@ -5,7 +5,7 @@ pubDate: "2021-06-08 23:49:33"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/bolivar-se-recupero-pero-sigue-abajo-en-la-gestion-publica/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/bolivar-se-recupero-pero-sigue-abajo-en-la-gestion-publica/hero.jpg
 ---
 
 \[caption id="attachment\_15365" align="aligncenter" width="900"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/bolivar-se-recupero-pero-sigue-abajo-en-la-gestion-publica/hero.jpg) **¿Para dónde Vamos en la gestión pública? «P'a allá»**, diría el gobernador de Bolívar **Vicente Blel** quien se ubicó en el puesto 14 de los 32 gobernadores evaluados por la Función Pública. El reto es llegar entre los 5 mejores.\[/caption\]

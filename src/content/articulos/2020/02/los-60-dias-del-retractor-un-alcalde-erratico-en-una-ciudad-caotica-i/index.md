@@ -5,7 +5,7 @@ pubDate: "2020-02-28 15:42:05"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/los-60-dias-del-retractor-un-alcalde-erratico-en-una-ciudad-caotica-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/los-60-dias-del-retractor-un-alcalde-erratico-en-una-ciudad-caotica-i/hero.jpg
 ---
 
 **El Retractor ha saboteado los 60 días de Dau**

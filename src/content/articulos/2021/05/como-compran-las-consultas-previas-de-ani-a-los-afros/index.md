@@ -5,7 +5,7 @@ pubDate: "2021-05-06 16:07:40"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/hero.jpg
 ---
 
 \[caption id="attachment\_14836" align="aligncenter" width="1440"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/hero.jpg) **Henry Martin Guizamano Vives**, recibió $260 millones de los $350 girados por la ANI al Consejo Comunitario El Recreo por las consultas previas.\[/caption\] \[caption id="attachment\_14853" align="aligncenter" width="696"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/photo_2021-05-06_11-18-38.jpg) Los recibos del dinero de las consultas previas pagados a Henry Guizamano.\[/caption\]

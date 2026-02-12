@@ -5,7 +5,7 @@ pubDate: "2019-12-01 15:11:32"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/las-4-causas-que-provocarian-la-caida-del-alcalde-dau-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/las-4-causas-que-provocarian-la-caida-del-alcalde-dau-ii/hero.jpg
 ---
 
 > **¿Qué es la corrupción, según la RAE?** _"El término **corrupción** suele ser utilizado para referirse a actividades ilícitas o deshonestas dentro de organizaciones públicas estatales. En ese sentido, se cataloga de corrupto a un político **que saca provecho personal de los recursos del Estado**"._

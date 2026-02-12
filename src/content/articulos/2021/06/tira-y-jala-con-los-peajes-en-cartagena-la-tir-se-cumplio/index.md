@@ -5,7 +5,7 @@ pubDate: "2021-06-23 00:32:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/hero.jpg
 ---
 
 Se acabó la tira**_—y—jala_** con los peajes del contrato vial de Cartagena. **Está probado y comprobado que la Tasa Interna de Retorno (TIR) del 17,22% se cumplió en el año 2016.** También está mostrado que su extensión hasta el año presente (2021) es ilegal, ilegítima y prevaricadora. ¿Cuál es la prueba de esta tesis? En el primer año hubo un excedente de **$5.860** **millones gracias al pago de la contribución de valorización que hicieron los empresarios contribuyentes.**

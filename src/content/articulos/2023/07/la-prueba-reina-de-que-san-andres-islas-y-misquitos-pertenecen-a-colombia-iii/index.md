@@ -5,7 +5,7 @@ pubDate: "2023-07-09 22:51:40"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/la-prueba-reina-de-que-san-andres-islas-y-misquitos-pertenecen-a-colombia-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/la-prueba-reina-de-que-san-andres-islas-y-misquitos-pertenecen-a-colombia-iii/hero.jpg
 ---
 
 ![La prueba reina de que San Andrés islas pertenecen a Colombia es la  Real Orden de 20 de noviembre de 1803 (III). Aquí el presidente Petro y el Canciller con el presidente de Brasil Lula Da Silva, en el marco de la preparación de la Gran Cumbre para salvar al Amazona. Aparecen las ministras de Medio Ambiente, Susana Muahamad y  la ministra del Trabajo, Gloria Inés Ramírez. /Presidencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/la-prueba-reina-de-que-san-andres-islas-y-misquitos-pertenecen-a-colombia-iii/Cancilleria_Lula_Petro.jpeg)

@@ -5,7 +5,7 @@ pubDate: "2023-01-20 01:00:55"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-historia-de-un-prevaricato-caso-gloria-estrada-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-historia-de-un-prevaricato-caso-gloria-estrada-i/hero.jpg
 ---
 
 ![El juez y la mano derecha de Fredys Quintero y Luis Cassiani. Ella se llama Patricia Tafur vinculada a la Contraloría Distrital de Cartagena. ¿Corrupción judicial y policial Caso Gloria Estrada? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-historia-de-un-prevaricato-caso-gloria-estrada-i/hero.jpg)

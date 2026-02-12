@@ -5,7 +5,7 @@ pubDate: "2025-07-28 23:32:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/uribe-condenado-la-juez-no-se-arrodillo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/uribe-condenado-la-juez-no-se-arrodillo/hero.jpg
 ---
 
 ![¡Uribe, condenado! La juez no se arrodilló](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/uribe-condenado-la-juez-no-se-arrodillo/hero.jpg)

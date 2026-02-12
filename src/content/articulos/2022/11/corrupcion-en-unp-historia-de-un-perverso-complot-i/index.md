@@ -5,7 +5,7 @@ pubDate: "2022-11-23 20:25:24"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/hero.jpg)

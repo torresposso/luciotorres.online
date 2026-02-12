@@ -5,7 +5,7 @@ pubDate: "2022-11-09 21:08:15"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/cartagena-colapso-con-un-alcalde-insensible-y-peligroso-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/cartagena-colapso-con-un-alcalde-insensible-y-peligroso-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/cartagena-colapso-con-un-alcalde-insensible-y-peligroso-i/hero.jpg)

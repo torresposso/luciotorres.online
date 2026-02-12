@@ -5,7 +5,7 @@ pubDate: "2024-01-22 02:36:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/hero.jpg
 ---
 
 ![Demanda de nulidad contra Alejandro Char  en Tribunal Administrativo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/Alejandro-char_posesion-fuad.jpeg)

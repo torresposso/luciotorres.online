@@ -5,7 +5,7 @@ pubDate: "2022-10-17 14:54:18"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/el-cheque-chimbo-del-ministro-de-transporte-es-un-fraude/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/el-cheque-chimbo-del-ministro-de-transporte-es-un-fraude/hero.jpg
 ---
 
 ![El cheque salió chimbo. El desistimiento y los "Acuerdos de Voluntades" no tienen validez constitucional y legal.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/el-cheque-chimbo-del-ministro-de-transporte-es-un-fraude/hero.jpg)

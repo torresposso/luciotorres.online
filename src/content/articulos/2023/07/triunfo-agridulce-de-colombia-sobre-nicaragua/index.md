@@ -5,7 +5,7 @@ pubDate: "2023-07-13 23:33:24"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/hero.jpg
 ---
 
 ![Triunfo agridulce de Colombia sobre Nicaragua./CIJ.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/hero.jpg)

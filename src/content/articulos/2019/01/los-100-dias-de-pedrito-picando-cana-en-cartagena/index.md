@@ -5,7 +5,7 @@ pubDate: "2019-01-17 12:45:27"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/los-100-dias-de-pedrito-picando-cana-en-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/los-100-dias-de-pedrito-picando-cana-en-cartagena/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/los-100-dias-de-pedrito-picando-cana-en-cartagena/hero.jpg)

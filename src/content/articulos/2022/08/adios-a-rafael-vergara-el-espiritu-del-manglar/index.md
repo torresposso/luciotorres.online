@@ -5,7 +5,7 @@ pubDate: "2022-08-17 01:31:16"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/adios-a-rafael-vergara-el-espiritu-del-manglar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/adios-a-rafael-vergara-el-espiritu-del-manglar/hero.jpg
 ---
 
 ![El adiós de Rafael Vergara, el popular "Dr Mangle".](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/adios-a-rafael-vergara-el-espiritu-del-manglar/hero.jpg)

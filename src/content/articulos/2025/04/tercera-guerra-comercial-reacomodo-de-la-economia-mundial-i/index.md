@@ -5,7 +5,7 @@ pubDate: "2025-04-05 02:03:30"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/tercera-guerra-comercial-reacomodo-de-la-economia-mundial-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/tercera-guerra-comercial-reacomodo-de-la-economia-mundial-i/hero.jpg
 ---
 
 ![Tercera Guerra Comercial, reacomodo de la economía mundial](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/tercera-guerra-comercial-reacomodo-de-la-economia-mundial-i/TRUMP_TERCERA-GUERRA-COMERCIAL-1024x486.jpeg)

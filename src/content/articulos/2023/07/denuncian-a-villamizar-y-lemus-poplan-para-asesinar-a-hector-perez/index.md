@@ -5,7 +5,7 @@ pubDate: "2023-07-22 02:11:09"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/denuncian-a-villamizar-y-lemus-poplan-para-asesinar-a-hector-perez/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/denuncian-a-villamizar-y-lemus-poplan-para-asesinar-a-hector-perez/hero.jpg
 ---
 
 ![Denuncian plan para asesinar a Héctor Pérez](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/denuncian-a-villamizar-y-lemus-poplan-para-asesinar-a-hector-perez/hero.jpg)

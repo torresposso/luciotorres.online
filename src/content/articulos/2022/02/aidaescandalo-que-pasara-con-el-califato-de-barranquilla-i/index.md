@@ -5,7 +5,7 @@ pubDate: "2022-02-22 14:14:37"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/aidaescandalo-que-pasara-con-el-califato-de-barranquilla-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/aidaescandalo-que-pasara-con-el-califato-de-barranquilla-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/aidaescandalo-que-pasara-con-el-califato-de-barranquilla-i/hero.jpg)

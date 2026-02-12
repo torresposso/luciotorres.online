@@ -5,7 +5,7 @@ pubDate: "2023-10-29 02:57:04"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/los-delfines-del-proximo-concejo-de-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/los-delfines-del-proximo-concejo-de-cartagena/hero.jpg
 ---
 
 ![Algunos de los delfines: Carlos Raad (A.V. No 9), Laura Díaz (A.V. No 2) y Ricardo Pión (Liberal 2).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/los-delfines-del-proximo-concejo-de-cartagena/hero.jpg)

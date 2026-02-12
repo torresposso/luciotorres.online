@@ -5,7 +5,7 @@ pubDate: "2021-06-01 18:34:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-cartagena-por-que-las-eps-subutilizan-las-camas-uci/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-cartagena-por-que-las-eps-subutilizan-las-camas-uci/hero.jpg
 ---
 
 \[caption id="attachment\_15247" align="aligncenter" width="1156"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-cartagena-por-que-las-eps-subutilizan-las-camas-uci/hero.jpg) Una de las clínicas más grandes de la ciudad. Tiene disponible 27 camas para Covid.\[/caption\]

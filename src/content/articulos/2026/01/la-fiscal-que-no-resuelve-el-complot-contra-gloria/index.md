@@ -5,7 +5,7 @@ pubDate: "2026-01-16 01:01:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Sin categoría"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/la-fiscal-que-no-resuelve-el-complot-contra-gloria/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/la-fiscal-que-no-resuelve-el-complot-contra-gloria/hero.jpg
 ---
 
 ![El momento de la captura de Gloria Estrada. El agente Alexander  Mercado le respira en el oído](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/la-fiscal-que-no-resuelve-el-complot-contra-gloria/hero.jpg)

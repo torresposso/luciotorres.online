@@ -5,7 +5,7 @@ pubDate: "2023-01-20 17:34:50"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/petrolera-insurcol-se-apropio-30-has-de-la-gobernacion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/petrolera-insurcol-se-apropio-30-has-de-la-gobernacion/hero.jpg
 ---
 
 ![Algunos de los directivos de Insurcol en un homenaje por los servicios prestados.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/petrolera-insurcol-se-apropio-30-has-de-la-gobernacion/hero.jpg)

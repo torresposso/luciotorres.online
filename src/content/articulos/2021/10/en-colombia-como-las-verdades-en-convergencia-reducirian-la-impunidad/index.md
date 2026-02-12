@@ -5,7 +5,7 @@ pubDate: "2021-10-10 18:29:17"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-colombia-como-las-verdades-en-convergencia-reducirian-la-impunidad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-colombia-como-las-verdades-en-convergencia-reducirian-la-impunidad/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-colombia-como-las-verdades-en-convergencia-reducirian-la-impunidad/hero.jpg)

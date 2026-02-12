@@ -5,7 +5,7 @@ pubDate: "2024-08-22 01:44:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/palenque-libre-de-mahates-presidente-petro-proclamara-su-libertad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/palenque-libre-de-mahates-presidente-petro-proclamara-su-libertad/hero.jpg
 ---
 
 ![Palenque ¡libre de Mahates!. Durante la campaña a congreso, el hoy presidente acompañó a Dorina Hernández, elegida representante por el Pacto Histórico. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/palenque-libre-de-mahates-presidente-petro-proclamara-su-libertad/Petro_palenque_ley-1024x571.jpeg)

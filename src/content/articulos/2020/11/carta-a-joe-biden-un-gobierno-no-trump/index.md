@@ -5,7 +5,7 @@ pubDate: "2020-11-16 22:37:09"
 author: "Lucio"
 categories: ["Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/carta-a-joe-biden-un-gobierno-no-trump/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/carta-a-joe-biden-un-gobierno-no-trump/hero.jpg
 ---
 
 > _VoxPopuliDigital publica la carta que el afamado periodista, cineasta, documentalista, activista y escritor Michel Moore le dirigió recientemente al presidente electo Joe Biden. Le solicita que haga los primeros 4 años No Trump y permita que los residentes en Estados Unidos logren el objetivo del segundo párrafo: "Derechos inalienables, que entre ellos se encuentran la Vida, la Libertad y la Búsqueda de la Felicidad"_. La carta fue tomada de [Diario Latinomaericano.com](/articulos/la-carta-de-michael-moore-a-joe-biden-que-esta-estremeciendo-el-mundo/). **Nota de Lucio Torres.**

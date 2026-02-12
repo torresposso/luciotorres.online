@@ -5,7 +5,7 @@ pubDate: "2024-01-24 02:04:27"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/detenidos-de-manzanillo-del-mar-piden-intervencion-del-oit/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/detenidos-de-manzanillo-del-mar-piden-intervencion-del-oit/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/detenidos-de-manzanillo-del-mar-piden-intervencion-del-oit/consejo-comunitario_consultivo-1024x396.jpeg)

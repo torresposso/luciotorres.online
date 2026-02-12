@@ -5,7 +5,7 @@ pubDate: "2022-03-04 21:49:31"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/cartagena-viola-derecho-a-la-educacion-a-miles-de-ninos-pobres/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/cartagena-viola-derecho-a-la-educacion-a-miles-de-ninos-pobres/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/cartagena-viola-derecho-a-la-educacion-a-miles-de-ninos-pobres/colegio-francisco-de-paula.jpeg)

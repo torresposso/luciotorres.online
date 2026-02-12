@@ -5,7 +5,7 @@ pubDate: "2022-07-26 00:43:18"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/hero.jpg
 ---
 
 ![La policía mató a los matapolicías .](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2024-12-15 15:25:44"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/caso-bonilla-exploto-la-mermelada-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/caso-bonilla-exploto-la-mermelada-i/hero.jpg
 ---
 
 ![El presidente Gustavo Petro en la noche del 12 de diciembre de 2024. Caso Bonilla, romper relaciones con las unidades legislativas económicas del congreso ¿Colombia entraría a un estado "default"?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/caso-bonilla-exploto-la-mermelada-i/Gustavo_Petro_colegio_mayor_-1024x520.jpeg)

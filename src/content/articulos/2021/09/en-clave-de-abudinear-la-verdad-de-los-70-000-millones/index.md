@@ -5,7 +5,7 @@ pubDate: "2021-09-17 23:33:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/en-clave-de-abudinear-la-verdad-de-los-70-000-millones/hero.jpg)

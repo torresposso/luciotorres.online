@@ -5,7 +5,7 @@ pubDate: "2022-05-11 02:03:39"
 author: "Lucio"
 categories: ["Análisis","Opinión","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/sicariato-en-decameron-asesinado-fiscal-antimafia-de-paraguay/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/sicariato-en-decameron-asesinado-fiscal-antimafia-de-paraguay/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/sicariato-en-decameron-asesinado-fiscal-antimafia-de-paraguay/hero.jpg)

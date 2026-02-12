@@ -5,7 +5,7 @@ pubDate: "2021-03-08 20:49:15"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/igualdad-de-genero-ahora/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/igualdad-de-genero-ahora/hero.jpg
 ---
 
 (imagen no disponible)

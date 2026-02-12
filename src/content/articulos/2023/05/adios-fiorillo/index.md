@@ -5,7 +5,7 @@ pubDate: "2023-05-30 18:15:10"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/adios-fiorillo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/adios-fiorillo/hero.jpg
 ---
 
 ![Nada es mentira. Este es uno de los compendios publicados por el Banco de la República de la obra de Heriberto Fiorillo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/adios-fiorillo/hero.jpg)

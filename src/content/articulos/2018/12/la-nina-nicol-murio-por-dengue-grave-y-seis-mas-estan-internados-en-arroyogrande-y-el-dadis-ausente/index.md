@@ -5,7 +5,7 @@ pubDate: "2018-12-10 03:19:37"
 author: "Lucio"
 categories: ["Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/la-nina-nicol-murio-por-dengue-grave-y-seis-mas-estan-internados-en-arroyogrande-y-el-dadis-ausente/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/la-nina-nicol-murio-por-dengue-grave-y-seis-mas-estan-internados-en-arroyogrande-y-el-dadis-ausente/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/la-nina-nicol-murio-por-dengue-grave-y-seis-mas-estan-internados-en-arroyogrande-y-el-dadis-ausente/hero.jpg)

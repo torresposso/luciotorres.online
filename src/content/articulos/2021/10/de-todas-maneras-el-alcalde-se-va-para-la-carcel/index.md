@@ -5,7 +5,7 @@ pubDate: "2021-10-25 12:13:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/de-todas-maneras-el-alcalde-se-va-para-la-carcel/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/de-todas-maneras-el-alcalde-se-va-para-la-carcel/hero.jpg
 ---
 
 ![¿El alcalde se va para la cárcel?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/de-todas-maneras-el-alcalde-se-va-para-la-carcel/hero.jpg)

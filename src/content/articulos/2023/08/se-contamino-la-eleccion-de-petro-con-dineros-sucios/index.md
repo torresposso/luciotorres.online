@@ -5,7 +5,7 @@ pubDate: "2023-08-07 15:39:55"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/se-contamino-la-eleccion-de-petro-con-dineros-sucios/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/se-contamino-la-eleccion-de-petro-con-dineros-sucios/hero.jpg
 ---
 
 ![¿Se contaminó la elección de Petro con dineros sucios?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/se-contamino-la-eleccion-de-petro-con-dineros-sucios/hero.jpg)

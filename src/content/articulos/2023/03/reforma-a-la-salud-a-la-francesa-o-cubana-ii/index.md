@@ -5,7 +5,7 @@ pubDate: "2023-03-11 02:22:05"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reforma-a-la-salud-a-la-francesa-o-cubana-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reforma-a-la-salud-a-la-francesa-o-cubana-ii/hero.jpg
 ---
 
 ![Las encuesta dicen sí a la reforma. ¿Qué propone el gobierno? Reforma: ¿a la francesa o  cubana?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reforma-a-la-salud-a-la-francesa-o-cubana-ii/hero.jpg)

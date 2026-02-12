@@ -5,7 +5,7 @@ pubDate: "2023-07-05 02:15:27"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/hero.jpg
 ---
 
 ![¿La venganza de Negra Dominga? Álvaro Luis Ospino Illera con su sobrino del alma, Jonnathan, ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/hero.jpg)

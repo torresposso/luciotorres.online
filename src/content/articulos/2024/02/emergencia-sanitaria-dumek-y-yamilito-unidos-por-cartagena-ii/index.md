@@ -5,7 +5,7 @@ pubDate: "2024-02-19 12:12:10"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 tags: ["Dumek Turbay","Yamil Arana"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/hero.jpg
 ---
 
 ![¡Emergencia sanitaria! El alcalde Dumek unido al gobernador Yamil.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/hero.jpg)

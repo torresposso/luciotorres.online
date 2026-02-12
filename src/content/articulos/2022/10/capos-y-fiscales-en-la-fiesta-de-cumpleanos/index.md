@@ -5,7 +5,7 @@ pubDate: "2022-10-28 20:37:25"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/capos-y-fiscales-en-la-fiesta-de-cumpleanos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/capos-y-fiscales-en-la-fiesta-de-cumpleanos/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/capos-y-fiscales-en-la-fiesta-de-cumpleanos/hero.jpg)

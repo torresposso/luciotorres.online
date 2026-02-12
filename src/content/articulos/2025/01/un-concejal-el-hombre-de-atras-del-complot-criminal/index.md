@@ -5,7 +5,7 @@ pubDate: "2025-01-14 17:11:08"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/hero.jpg)

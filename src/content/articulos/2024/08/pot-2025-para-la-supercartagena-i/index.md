@@ -5,7 +5,7 @@ pubDate: "2024-08-26 17:31:04"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/pot-2025-para-la-supercartagena-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/pot-2025-para-la-supercartagena-i/hero.jpg
 ---
 
 ![¿POT 2025? ¿Qué necesita la SuperCartagena?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/pot-2025-para-la-supercartagena-i/superciudades-1024x682.jpeg)

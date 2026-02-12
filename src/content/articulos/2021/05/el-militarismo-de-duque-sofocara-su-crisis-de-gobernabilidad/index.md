@@ -5,7 +5,7 @@ pubDate: "2021-05-31 11:31:27"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/el-militarismo-de-duque-sofocara-su-crisis-de-gobernabilidad/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/el-militarismo-de-duque-sofocara-su-crisis-de-gobernabilidad/hero.jpg
 ---
 
 \[caption id="attachment\_15183" align="aligncenter" width="720"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/el-militarismo-de-duque-sofocara-su-crisis-de-gobernabilidad/hero.jpg) Después de la horrible noche del 28 de mayo. Las marchas populares del 30 de mayo se hicieron sentir.\[/caption\]

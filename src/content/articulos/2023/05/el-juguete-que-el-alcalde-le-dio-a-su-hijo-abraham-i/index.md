@@ -5,7 +5,7 @@ pubDate: "2023-05-02 13:58:34"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-juguete-que-el-alcalde-le-dio-a-su-hijo-abraham-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-juguete-que-el-alcalde-le-dio-a-su-hijo-abraham-i/hero.jpg
 ---
 
 ![El juguete que el alcalde le dio a su hijo Abraham: la alcaldía de la localidad No 1 Histórica y del Caribe Norte.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-juguete-que-el-alcalde-le-dio-a-su-hijo-abraham-i/hero.jpg)

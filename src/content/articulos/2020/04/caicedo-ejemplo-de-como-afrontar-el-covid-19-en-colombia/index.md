@@ -5,7 +5,7 @@ pubDate: "2020-04-04 22:19:39"
 author: "Lucio"
 categories: ["Mi Ciudad","Santa Marta"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/caicedo-ejemplo-de-como-afrontar-el-covid-19-en-colombia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/caicedo-ejemplo-de-como-afrontar-el-covid-19-en-colombia/hero.jpg
 ---
 
 \[caption id="attachment\_11376" align="alignnone" width="606"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/caicedo-ejemplo-de-como-afrontar-el-covid-19-en-colombia/caicedo-ayhuda-comunitaria-300x185.jpeg) El gobernador **Carlos Caicedo** en compañía de los comandantes de las diferentes fuerzas armadas y de la policía Nacional.\[/caption\] Cincuentas camas UCI y 75 de cuidados intermedios están disponibles para la siguiente fase del Covid—19. El gobernador del Magdalena, **Carlos Eduardo Caicedo Omar**, hizo una inspección ocular del Hospital **Julio Méndez Barreneche** y de la **Antigua Clínica Salucoop y constató** las adecuadas condiciones médico—científicas de esos dos centros asistenciales. Desde el mismo momento en que tuvo la información sobre **peligro inminente del Covid—19**, Caicedo no dudó en tomar las medidas excepcionales. Declaró la emergencia social, decretró la cuarentena para contener el coronavirus e implementar medidas políticas para paliar la situación social de la población menos favorecida. Junto a su gabinete y las autoridades civiles y militares, el gobernador Caicedo **intensificó las acciónes. Convocó a las fuerzas vivas de todo el departamento** para que las medidas de contención dé los resultados esperados. Con estas medidas se reducirá el número de contaminados y, por ende, el número de muertos.

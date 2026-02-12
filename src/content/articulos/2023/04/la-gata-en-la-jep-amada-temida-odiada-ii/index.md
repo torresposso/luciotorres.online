@@ -5,7 +5,7 @@ pubDate: "2023-04-10 13:54:26"
 author: "Lucio"
 categories: ["Análisis","Crónica","Investigación","Post Conflicto"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/la-gata-en-la-jep-amada-temida-odiada-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/la-gata-en-la-jep-amada-temida-odiada-ii/hero.jpg
 ---
 
 ![Enilce del Rosario López Romero en los tiempos de esplendor. En 2007 cayó presa por lavado de activos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/la-gata-en-la-jep-amada-temida-odiada-ii/hero.jpg)

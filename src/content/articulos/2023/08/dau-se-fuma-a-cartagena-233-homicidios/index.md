@@ -5,7 +5,7 @@ pubDate: "2023-08-13 17:49:14"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/dau-se-fuma-a-cartagena-233-homicidios/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/dau-se-fuma-a-cartagena-233-homicidios/hero.jpg
 ---
 
 ![El alcalde William Dau se fuma a Cartagena: 233 homicidios. Mientras hace payasadas.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/dau-se-fuma-a-cartagena-233-homicidios/hero.jpg)

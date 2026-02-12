@@ -5,7 +5,7 @@ pubDate: "2021-03-23 22:25:41"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/como-se-vacunas-contra-el-covid-19-en-colombia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/como-se-vacunas-contra-el-covid-19-en-colombia/hero.jpg
 ---
 
 \[caption id="attachment\_14271" align="aligncenter" width="900"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/como-se-vacunas-contra-el-covid-19-en-colombia/hero.jpg) Se aplicarán 61.5 millones de vacunas contra el Covid-19. Cortesía.\[/caption\]  

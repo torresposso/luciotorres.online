@@ -5,7 +5,7 @@ pubDate: "2023-08-24 03:02:48"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/nicolas-se-retractara-con-la-visita-presidencial/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/nicolas-se-retractara-con-la-visita-presidencial/hero.jpg
 ---
 
 ![Luka, el centro de los Petro Ojeda. ¿Nicolás se retractará?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/nicolas-se-retractara-con-la-visita-presidencial/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-02-09 00:31:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/por-mal-trago-petro-quedo-zambiloco-en-girardot/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/por-mal-trago-petro-quedo-zambiloco-en-girardot/hero.jpg
 ---
 
 ![Por mal trago, Petro pronunció un discurso incoherente,](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/por-mal-trago-petro-quedo-zambiloco-en-girardot/hero.jpg)

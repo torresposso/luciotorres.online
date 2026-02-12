@@ -5,7 +5,7 @@ pubDate: "2025-07-31 03:40:15"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pot-decorativo-de-rey-planeacion-o-simulacro-xiii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pot-decorativo-de-rey-planeacion-o-simulacro-xiii/hero.jpg
 ---
 
 ![El POT decorativo de Rey: ¿Planeación o simulacro?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pot-decorativo-de-rey-planeacion-o-simulacro-xiii/hero.jpg)

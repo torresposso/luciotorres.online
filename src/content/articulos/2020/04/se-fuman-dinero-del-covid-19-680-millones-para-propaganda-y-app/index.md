@@ -5,7 +5,7 @@ pubDate: "2020-04-13 00:10:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/se-fuman-dinero-del-covid-19-680-millones-para-propaganda-y-app/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/se-fuman-dinero-del-covid-19-680-millones-para-propaganda-y-app/hero.jpg
 ---
 
 \[caption id="attachment\_11457" align="aligncenter" width="487"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/se-fuman-dinero-del-covid-19-680-millones-para-propaganda-y-app/hero.jpg) Ana María González le proyectó el contrato a Dau con Moca. Se fuman $150 milones. Cortesía.\[/caption\] Si los recursos oficiales son sagrados ¿cómo serán los del Covid—19 destinados para contener la pandemia, atender a los afectados y paliar la situación de hambruna de la población más vulnerable? Contrario a ello, **William Dau Chamat**, y su equipo de gobierno distrital, **_«_se fuman_»_** gran parte de los $20 mil millones recortados del presupuesto para atender la emergencia en acciones poco relevantes. Mientras eso sucede, miles de cartageneros y cartageneras se encuentran confinados con hambre y necesidades de primera necesidad. Se incrementa la inseguridad y los asaltos a negocios de provisiones alimentarias. Ayer fue asaltado un camión proveedor de Olímpica en el barrio Amberes. Sin embargo, la administración distrital **cuestiona a representantes de las comunidades y a los periodistas** que se atreven a denunciar este panorama de derroche y desidia. Pareciera que la alcaldía no tuviese brújula.

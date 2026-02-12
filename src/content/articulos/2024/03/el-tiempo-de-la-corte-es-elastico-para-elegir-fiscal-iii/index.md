@@ -5,7 +5,7 @@ pubDate: "2024-03-08 03:12:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/el-tiempo-de-la-corte-es-elastico-para-elegir-fiscal-iii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/el-tiempo-de-la-corte-es-elastico-para-elegir-fiscal-iii/hero.jpg
 ---
 
 ![El tiempo de la Corte es elástico para elegir fiscal](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/el-tiempo-de-la-corte-es-elastico-para-elegir-fiscal-iii/hero.jpg)

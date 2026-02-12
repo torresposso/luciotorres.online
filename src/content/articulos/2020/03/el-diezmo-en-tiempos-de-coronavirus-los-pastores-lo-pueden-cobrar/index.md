@@ -5,7 +5,7 @@ pubDate: "2020-03-24 19:13:10"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/el-diezmo-en-tiempos-de-coronavirus-los-pastores-lo-pueden-cobrar/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/03/el-diezmo-en-tiempos-de-coronavirus-los-pastores-lo-pueden-cobrar/hero.jpg
 ---
 
 > **«El que para enriquecerse oprime al pobre o le da al rico, terminará en la pobreza». (Proverbios 22:16).**

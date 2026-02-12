@@ -5,7 +5,7 @@ pubDate: "2022-05-21 02:18:59"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/alerta-urgente-por-perfilada-de-veedor-judicial/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/alerta-urgente-por-perfilada-de-veedor-judicial/hero.jpg
 ---
 
 ![¡Alerta Urgente! Erick Urueta](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/alerta-urgente-por-perfilada-de-veedor-judicial/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-07-27 21:45:11"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/con-aval-automatico-de-ch-maximo-inscribira-su-candidatura-a-la-gobernacion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/con-aval-automatico-de-ch-maximo-inscribira-su-candidatura-a-la-gobernacion/hero.jpg
 ---
 
 !["Atlántico al Máximo" con aval automático de Colombia Humana, se inscribirá Máximo Noriega. /Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/con-aval-automatico-de-ch-maximo-inscribira-su-candidatura-a-la-gobernacion/hero.jpg)

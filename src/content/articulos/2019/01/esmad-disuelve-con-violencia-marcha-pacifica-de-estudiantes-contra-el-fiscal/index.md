@@ -5,7 +5,7 @@ pubDate: "2019-01-18 02:24:35"
 author: "Lucio"
 categories: ["Cartagena","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/esmad-disuelve-con-violencia-marcha-pacifica-de-estudiantes-contra-el-fiscal/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/esmad-disuelve-con-violencia-marcha-pacifica-de-estudiantes-contra-el-fiscal/hero.jpg
 ---
 
 \[caption id="attachment\_7807" align="alignright" width="358"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/01/esmad-disuelve-con-violencia-marcha-pacifica-de-estudiantes-contra-el-fiscal/hero.jpg) Herido se encuentra el estudiante **Alex Flórez** a raíz de la intervención violenta del Esmad.\[/caption\]

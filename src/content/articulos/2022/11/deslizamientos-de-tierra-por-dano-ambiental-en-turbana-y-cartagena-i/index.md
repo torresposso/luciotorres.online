@@ -5,7 +5,7 @@ pubDate: "2022-11-20 16:03:16"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/deslizamientos-de-tierra-por-dano-ambiental-en-turbana-y-cartagena-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/deslizamientos-de-tierra-por-dano-ambiental-en-turbana-y-cartagena-i/hero.jpg
 ---
 
 ![Luis Alberto Caraballo explica como se viene desmoronando la tierra a más de 10 metros de altura. Deslizamientos de tierra por daño ambiental en Turbana .](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/deslizamientos-de-tierra-por-dano-ambiental-en-turbana-y-cartagena-i/hero.jpg)

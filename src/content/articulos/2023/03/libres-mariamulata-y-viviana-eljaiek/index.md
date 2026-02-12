@@ -5,7 +5,7 @@ pubDate: "2023-03-17 03:14:45"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/libres-mariamulata-y-viviana-eljaiek/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/libres-mariamulata-y-viviana-eljaiek/hero.jpg
 ---
 
 ![Llanto de alegría, sentimientos encontrados, abrazos cuando salieron libres «Mariamulata» y Viviana Eljaiek. Aquí en el patio del Batallón 12 de Infantería Marina de Bocagrande.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/libres-mariamulata-y-viviana-eljaiek/hero.jpg)

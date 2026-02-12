@@ -5,7 +5,7 @@ pubDate: "2023-06-14 14:14:54"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/los-ninos-supervivientes-perdidos-o-secuestrados-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/los-ninos-supervivientes-perdidos-o-secuestrados-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/los-ninos-supervivientes-perdidos-o-secuestrados-i/hero.jpg)

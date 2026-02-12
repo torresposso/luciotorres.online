@@ -5,7 +5,7 @@ pubDate: "2023-03-01 19:56:20"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/hero.jpg
 ---
 
 ![La mitad de los colombianos sigue esperando en el cambio propuesto por Gustavo Petro cuando fue elegido presidente en junio de 2022.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/hero.jpg)

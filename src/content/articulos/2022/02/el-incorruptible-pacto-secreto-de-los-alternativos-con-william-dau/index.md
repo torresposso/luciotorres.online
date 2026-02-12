@@ -5,7 +5,7 @@ pubDate: "2022-02-02 17:11:49"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-incorruptible-pacto-secreto-de-los-alternativos-con-william-dau/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-incorruptible-pacto-secreto-de-los-alternativos-con-william-dau/hero.jpg
 ---
 
 ![El «incorruptible Pacto Secreto»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-incorruptible-pacto-secreto-de-los-alternativos-con-william-dau/hero.jpg)

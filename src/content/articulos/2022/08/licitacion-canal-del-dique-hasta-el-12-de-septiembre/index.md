@@ -5,7 +5,7 @@ pubDate: "2022-08-11 19:50:24"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/licitacion-canal-del-dique-hasta-el-12-de-septiembre/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/licitacion-canal-del-dique-hasta-el-12-de-septiembre/hero.jpg
 ---
 
 ![El ministro de Transporte Guillermo Reyes anunciando el aplazamiento de la licitación Canal del Dique para el 12 de septiembre.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/licitacion-canal-del-dique-hasta-el-12-de-septiembre/hero.jpg)

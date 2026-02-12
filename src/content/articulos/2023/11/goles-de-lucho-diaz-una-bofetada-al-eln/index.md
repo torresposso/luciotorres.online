@@ -5,7 +5,7 @@ pubDate: "2023-11-17 03:47:50"
 author: "Lucio"
 categories: ["Crónica","Deportes","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/goles-de-lucho-diaz-una-bofetada-al-eln/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/goles-de-lucho-diaz-una-bofetada-al-eln/hero.jpg
 ---
 
 ![Goles de Lucho Díaz. Lo que siente un padre cuando su hijo triunfa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/goles-de-lucho-diaz-una-bofetada-al-eln/hero.jpg)

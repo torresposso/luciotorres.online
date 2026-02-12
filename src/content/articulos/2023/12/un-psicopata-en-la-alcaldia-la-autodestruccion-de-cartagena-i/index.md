@@ -5,7 +5,7 @@ pubDate: "2023-12-17 14:53:08"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 tags: ["Alcaldía de Cartagena","el buitre","William Dau"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/un-psicopata-en-la-alcaldia-la-autodestruccion-de-cartagena-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/un-psicopata-en-la-alcaldia-la-autodestruccion-de-cartagena-i/hero.jpg
 ---
 
 ![Un psicópata en la alcaldía. Las 40 malandrinadas](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/un-psicopata-en-la-alcaldia-la-autodestruccion-de-cartagena-i/hero.jpg)

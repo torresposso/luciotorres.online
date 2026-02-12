@@ -5,7 +5,7 @@ pubDate: "2022-03-14 04:53:05"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/petro-fico-y-fajardo-los-candidatos-de-izquierda-derecha-y-centro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/petro-fico-y-fajardo-los-candidatos-de-izquierda-derecha-y-centro/hero.jpg
 ---
 
 ![Petro, Fico y Fajardo, los candidatos de la izquierda, la derecha y el centro](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/petro-fico-y-fajardo-los-candidatos-de-izquierda-derecha-y-centro/hero.jpg)

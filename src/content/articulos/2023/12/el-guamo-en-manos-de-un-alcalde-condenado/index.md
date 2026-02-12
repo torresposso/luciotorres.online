@@ -5,7 +5,7 @@ pubDate: "2023-12-03 02:58:56"
 author: "Lucio"
 categories: ["Análisis"]
 tags: ["Corelca","Javien Angulo Romero","Juan Carlos Gossaín"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/el-guamo-en-manos-de-un-alcalde-condenado/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/el-guamo-en-manos-de-un-alcalde-condenado/hero.jpg
 ---
 
 **![En la inauguración de una de las obras cuando fue alcalde de El Guamo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/el-guamo-en-manos-de-un-alcalde-condenado/hero.jpg)Javier Eduardo Angulo Romero**, es un alcalde condenado en primera instancia. Es el famoso abogado que le pagó $2 millones a **Emerson Torres Bolaño**, un funcionario que compartió ese dinero con la Notaria Quinta de Cartagena, **Elith Isabel Zúñiga Pérez.**  El abogado pagó para alterar ilícitamente una escritura pública con el fin de "comprar" unos terrenos en Mamonal destinados a pagar una indemnización a campesinos afectados por Corelca. La autoridad judicial escindió ese proceso penal donde aparece el nuevo alcalde de El Guamo (Bolívar) del caso de los terrenos de **Mamonal de Corelca**. En las anteriores elecciones recibió el respaldo del actual mandatario municipal, **Gustavo Guzmán Narvaez,** y el senador liberal **Lidio García.** Es uno de los casos más sonados de corrupción de la justicia y de la administración pública que tienen que ver con el despojo de propiedades de campesinos por parte de empresarios privados. Aquí se encuentran involucrados empresarios, jueces, fiscales, investigadores, notarios y hasta el que fuera gerente de Corelca de la época.

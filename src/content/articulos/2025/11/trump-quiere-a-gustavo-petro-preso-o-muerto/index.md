@@ -5,7 +5,7 @@ pubDate: "2025-11-11 00:02:43"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/trump-quiere-a-gustavo-petro-preso-o-muerto/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/trump-quiere-a-gustavo-petro-preso-o-muerto/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/trump-quiere-a-gustavo-petro-preso-o-muerto/hero.jpg)

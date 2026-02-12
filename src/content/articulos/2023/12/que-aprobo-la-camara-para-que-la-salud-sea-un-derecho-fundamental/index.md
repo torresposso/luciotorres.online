@@ -5,7 +5,7 @@ pubDate: "2023-12-07 01:35:02"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 tags: ["Alfonso Jaramillo","Ministro de Salud","Reforma a la salud"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/que-aprobo-la-camara-para-que-la-salud-sea-un-derecho-fundamental/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/que-aprobo-la-camara-para-que-la-salud-sea-un-derecho-fundamental/hero.jpg
 ---
 
 ![La cámara votó para que la  salud sea un derecho fundamental](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/que-aprobo-la-camara-para-que-la-salud-sea-un-derecho-fundamental/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2023-12-28 05:32:51"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/a-quemar-al-alcalde-su-maldicion-y-el-ano-viejo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/a-quemar-al-alcalde-su-maldicion-y-el-ano-viejo/hero.jpg
 ---
 
 ![Cartagena Revoca](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/a-quemar-al-alcalde-su-maldicion-y-el-ano-viejo/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2019-02-25 04:22:08"
 author: "Lucio"
 categories: ["Crónica","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/rosas-rojas-para-pantaleon-porque-el-memoricidio-es-la-peor-de-las-muertes/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/rosas-rojas-para-pantaleon-porque-el-memoricidio-es-la-peor-de-las-muertes/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/rosas-rojas-para-pantaleon-porque-el-memoricidio-es-la-peor-de-las-muertes/oracion.jpg?fit=702%2C395&ssl=1)

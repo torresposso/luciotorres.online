@@ -5,7 +5,7 @@ pubDate: "2022-03-29 01:43:53"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/aunque-los-peces-gordos-no-vuelan-el-plomo-sigue-bajito/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/aunque-los-peces-gordos-no-vuelan-el-plomo-sigue-bajito/hero.jpg
 ---
 
 ![Pese a los operativos y a las Megatomas de la MECAR, el plomo sigue bajito en Cartagena. Cortesía Mecar.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/aunque-los-peces-gordos-no-vuelan-el-plomo-sigue-bajito/hero.jpg)

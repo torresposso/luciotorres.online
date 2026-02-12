@@ -5,7 +5,7 @@ pubDate: "2023-01-17 01:34:53"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/veronica-alcocer-y-el-papa-francisco-filigrana-momposina-vs-outfit/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/veronica-alcocer-y-el-papa-francisco-filigrana-momposina-vs-outfit/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/veronica-alcocer-y-el-papa-francisco-filigrana-momposina-vs-outfit/hero.jpg)

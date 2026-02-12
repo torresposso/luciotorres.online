@@ -5,7 +5,7 @@ pubDate: "2024-12-02 03:22:35"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/paz-total-entre-benedetti-y-el-presidente-petro/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/paz-total-entre-benedetti-y-el-presidente-petro/hero.jpg
 ---
 
 ![¿«Paz Total» entre Benedetti y el presidente Petro? Esta fue la foto filtrada a los medios de comunicación, en especial a Semana. El presidente, desparramado en su sillón. Laura, en atenta escucha. Benedetti, contando lo que va hacer, al parecer. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/paz-total-entre-benedetti-y-el-presidente-petro/Petro_benedetti_laura_portada-1024x513.jpeg)

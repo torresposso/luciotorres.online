@@ -5,7 +5,7 @@ pubDate: "2023-01-15 15:11:51"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asi-ordenaron-matar-a-laura-amante-de-paty-paty/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asi-ordenaron-matar-a-laura-amante-de-paty-paty/hero.jpg
 ---
 
 ![Esta era Laura ¿amante de «Paty Paty»? Foto tomada en 2019 suministrada. ¿amante de «Paty Paty»?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/asi-ordenaron-matar-a-laura-amante-de-paty-paty/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-03-16 00:43:30"
 author: "Lucio"
 categories: ["Cartagena","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/ediles-localidad-2-de-cartagena-aclaran-caso-gloria-estrada/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/ediles-localidad-2-de-cartagena-aclaran-caso-gloria-estrada/hero.jpg
 ---
 
 ![Presidente y secretario de Junta administradora Local (JAL 2) sobre el Caso Gloria Estrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/ediles-localidad-2-de-cartagena-aclaran-caso-gloria-estrada/hero.jpg)

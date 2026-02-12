@@ -5,7 +5,7 @@ pubDate: "2021-11-10 03:08:05"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-cartagena-la-revocatoria-es-un-hecho-revolucionario/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-cartagena-la-revocatoria-es-un-hecho-revolucionario/hero.jpg
 ---
 
 Querida Cartagena:

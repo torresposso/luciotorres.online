@@ -5,7 +5,7 @@ pubDate: "2023-09-10 00:48:31"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/la-mala-suerte-del-rey-arturo-y-el-fin-del-califato-daes-char/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/la-mala-suerte-del-rey-arturo-y-el-fin-del-califato-daes-char/hero.jpg
 ---
 
 ![La mala suerte del «rey» Arturo y el fin del Califato  Daes—Char ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/la-mala-suerte-del-rey-arturo-y-el-fin-del-califato-daes-char/hero.jpg)

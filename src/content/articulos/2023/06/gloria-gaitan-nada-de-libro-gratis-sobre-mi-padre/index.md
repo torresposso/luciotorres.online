@@ -5,7 +5,7 @@ pubDate: "2023-06-24 21:50:09"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/gloria-gaitan-nada-de-libro-gratis-sobre-mi-padre/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/gloria-gaitan-nada-de-libro-gratis-sobre-mi-padre/hero.jpg
 ---
 
 ![Jornada fue un ejemplo de autogestión de masas. Sus suscriptores permitieron comprar las mejores rotativas de Bogotá. La gente lo compraba ávidamente. /Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/gloria-gaitan-nada-de-libro-gratis-sobre-mi-padre/hero.jpg)

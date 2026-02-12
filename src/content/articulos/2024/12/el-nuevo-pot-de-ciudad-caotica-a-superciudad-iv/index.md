@@ -5,7 +5,7 @@ pubDate: "2024-12-10 15:50:10"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-nuevo-pot-de-ciudad-caotica-a-superciudad-iv/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-nuevo-pot-de-ciudad-caotica-a-superciudad-iv/hero.jpg
 ---
 
 ![El alcalde Dumek y Robinson Rada, experto urbanista. ¿De Ciudad Caótica a Superciudad? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-nuevo-pot-de-ciudad-caotica-a-superciudad-iv/hero.jpg)

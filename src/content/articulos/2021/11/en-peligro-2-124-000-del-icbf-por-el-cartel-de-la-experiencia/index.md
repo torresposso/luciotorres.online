@@ -5,7 +5,7 @@ pubDate: "2021-11-13 16:44:44"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-peligro-2-124-000-del-icbf-por-el-cartel-de-la-experiencia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-peligro-2-124-000-del-icbf-por-el-cartel-de-la-experiencia/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/en-peligro-2-124-000-del-icbf-por-el-cartel-de-la-experiencia/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2020-11-03 01:04:48"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/se-acabo-el-embrujo-del-alcalde-malandro-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/se-acabo-el-embrujo-del-alcalde-malandro-i/hero.jpg
 ---
 
 ¿Se acabó el embrujo del alcalde malandro? Diferentes voces disidentes de «Salvemos a Cartagena» se están escuchando desde su interior. Y apenas se cumplió un año del triunfo del hoy alcalde malandro, William Dau Chamat. La desilusión no se hizo esperar entre la gente que honestamente le acompañó. **Pero estos hechos confirman lo informado, analizado e investigado por Vox Populi Digital: William Dau es un malandro** **disfrazado** **de anticorrupción**. Los cuestionamientos no vienen desde los denominados «malandrines». Por el contrario, son varios sectores que están denunciando sus actos de corrupción. También por haberse amangualado con dos sectores de la mafia política local: los Aráujo y los Char. Son críticas que marcan la decadencia de un efímero movimiento que tiene en su cabeza a un malandro disfrazado de alcalde.

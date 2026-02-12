@@ -5,7 +5,7 @@ pubDate: "2023-01-14 00:43:33"
 author: "Lucio"
 categories: ["Análisis","Barranquilla"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-triple-a-inassa-el-nulo-contrato-y-el-tio-christian-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-triple-a-inassa-el-nulo-contrato-y-el-tio-christian-i/hero.jpg
 ---
 
 ![Son los dueños de todo. La Triple A , Inassa, el nulo contrato y el «tío Christian». Como en la bonanza marimbera.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/la-triple-a-inassa-el-nulo-contrato-y-el-tio-christian-i/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2024-12-18 21:14:00"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-retorno-de-clara-revollo-a-su-tierra-de-baru-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-retorno-de-clara-revollo-a-su-tierra-de-baru-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-retorno-de-clara-revollo-a-su-tierra-de-baru-i/Clara_revollo_portada-1024x561.jpeg)

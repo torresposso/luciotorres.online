@@ -5,7 +5,7 @@ pubDate: "2019-02-22 14:08:06"
 author: "Lucio"
 categories: ["Cartagena","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/una-champeta-por-los-martires-de-la-invasion-extranjera/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/una-champeta-por-los-martires-de-la-invasion-extranjera/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/una-champeta-por-los-martires-de-la-invasion-extranjera/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-06-23 01:08:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/magistrado-simancas-torres-vuela-al-cielo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/magistrado-simancas-torres-vuela-al-cielo/hero.jpg
 ---
 
 !["El magistrado" Simancas Torres al lado de su amada hija, Janeth Simancas Guardo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/magistrado-simancas-torres-vuela-al-cielo/hero.jpg)

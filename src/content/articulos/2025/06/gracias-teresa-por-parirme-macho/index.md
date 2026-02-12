@@ -5,7 +5,7 @@ pubDate: "2025-06-08 01:48:32"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/gracias-teresa-por-parirme-macho/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/gracias-teresa-por-parirme-macho/hero.jpg
 ---
 
 ![ Teresa Moreno Martínez (izquierda) en compañía de su nieta Ingeborg Barros.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/gracias-teresa-por-parirme-macho/hero.jpg)

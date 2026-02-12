@@ -5,7 +5,7 @@ pubDate: "2023-11-10 03:28:21"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/libre-mane-diaz-el-eln-recibira-perdon-social/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/libre-mane-diaz-el-eln-recibira-perdon-social/hero.jpg
 ---
 
 ![¡Libre Mane Díaz!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/libre-mane-diaz-el-eln-recibira-perdon-social/hero.jpg)

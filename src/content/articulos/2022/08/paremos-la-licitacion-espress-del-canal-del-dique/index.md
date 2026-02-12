@@ -5,7 +5,7 @@ pubDate: "2022-08-01 12:33:53"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/paremos-la-licitacion-espress-del-canal-del-dique/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/paremos-la-licitacion-espress-del-canal-del-dique/hero.jpg
 ---
 
 !["¡Paremos la licitación espress del Canal del Dique!". Hoy, la gente protesta para que se pare la licitación que define el futuro de sus vidas.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/paremos-la-licitacion-espress-del-canal-del-dique/canaldel-dique.jpeg)

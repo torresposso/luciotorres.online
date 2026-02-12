@@ -5,7 +5,7 @@ pubDate: "2021-05-14 22:50:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-las-jornadas-de-abril-mayo-anuncian-la-primavera-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-las-jornadas-de-abril-mayo-anuncian-la-primavera-ii/hero.jpg
 ---
 
 «**La primavera ha venido, nadie sabe cómo ha sido» (Antonio Machado).**

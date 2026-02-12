@@ -5,7 +5,7 @@ pubDate: "2026-01-04 17:35:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/maduro-encadenado-el-nuevo-enclave-territorial-de-e-u-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/maduro-encadenado-el-nuevo-enclave-territorial-de-e-u-i/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/maduro-encadenado-el-nuevo-enclave-territorial-de-e-u-i/hero.jpg)

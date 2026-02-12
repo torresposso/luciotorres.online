@@ -5,7 +5,7 @@ pubDate: "2022-08-06 20:05:50"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/hero.jpg)

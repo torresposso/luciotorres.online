@@ -5,7 +5,7 @@ pubDate: "2024-02-20 02:38:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tutela-para-eleccion-de-fiscal-magistrado-se-declara-impedido/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tutela-para-eleccion-de-fiscal-magistrado-se-declara-impedido/hero.jpg
 ---
 
 ![Tutela para elección de fiscal, magistrado se declara impedido .](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/tutela-para-eleccion-de-fiscal-magistrado-se-declara-impedido/Luis-Rico-Puerta.jpeg)

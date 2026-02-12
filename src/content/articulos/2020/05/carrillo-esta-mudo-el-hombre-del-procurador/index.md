@@ -5,7 +5,7 @@ pubDate: "2020-05-11 18:25:03"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/carrillo-esta-mudo-el-hombre-del-procurador/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/carrillo-esta-mudo-el-hombre-del-procurador/hero.jpg
 ---
 
 \[caption id="attachment\_11699" align="alignnone" width="958"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/carrillo-esta-mudo-el-hombre-del-procurador/hero.jpg) El procurador Fernando **Carrillo está mudo**. No individualiza sus denuncias. Puro comentarios, nada de **acción pura**. Cortesía. (Tuiter).\[/caption\]

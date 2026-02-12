@@ -5,7 +5,7 @@ pubDate: "2025-11-14 04:05:47"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/el-crimen-politico-que-se-cocino-en-el-chef-revollo-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/el-crimen-politico-que-se-cocino-en-el-chef-revollo-ii/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/el-crimen-politico-que-se-cocino-en-el-chef-revollo-ii/hero.jpg)

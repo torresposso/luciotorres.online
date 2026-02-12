@@ -5,7 +5,7 @@ pubDate: "2022-12-22 23:00:58"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-corrupcion-policial-es-de-abajo-o-arriba-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-corrupcion-policial-es-de-abajo-o-arriba-i/hero.jpg
 ---
 
 ![¿La corrupción policial es de abajo o arriba? (I) La patrullera Daniela Echeverry Gómez fue capturada en Arauca por trata de persona. Estuvo 5 años en la Policía Metropolitana de Cartagena en la división de Infancia y Adolescencia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/la-corrupcion-policial-es-de-abajo-o-arriba-i/patrullera1.jpeg)

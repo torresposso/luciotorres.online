@@ -5,7 +5,7 @@ pubDate: "2022-03-05 20:36:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/hero.jpg)

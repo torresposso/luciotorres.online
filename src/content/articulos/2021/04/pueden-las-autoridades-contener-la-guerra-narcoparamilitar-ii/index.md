@@ -5,7 +5,7 @@ pubDate: "2021-04-05 23:54:40"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/pueden-las-autoridades-contener-la-guerra-narcoparamilitar-ii/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/pueden-las-autoridades-contener-la-guerra-narcoparamilitar-ii/hero.jpg
 ---
 
 \[caption id="attachment\_14309" align="aligncenter" width="565"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/pueden-las-autoridades-contener-la-guerra-narcoparamilitar-ii/hero.jpg) Otoniel Úsuga sigue intocable. Cualquier cosa que le pase allí está "Chiquito Malo".\[/caption\]

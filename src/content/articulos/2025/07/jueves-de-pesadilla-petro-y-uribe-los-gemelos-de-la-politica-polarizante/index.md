@@ -5,7 +5,7 @@ pubDate: "2025-07-04 03:25:14"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/jueves-de-pesadilla-petro-y-uribe-los-gemelos-de-la-politica-polarizante/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/jueves-de-pesadilla-petro-y-uribe-los-gemelos-de-la-politica-polarizante/hero.jpg
 ---
 
 ![Jueves de pesadilla: Petro y Uribe, los gemelos de la política polarizante.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/jueves-de-pesadilla-petro-y-uribe-los-gemelos-de-la-politica-polarizante/hero.jpg)

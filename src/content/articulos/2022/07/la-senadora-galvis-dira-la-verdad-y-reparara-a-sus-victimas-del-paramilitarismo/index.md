@@ -5,7 +5,7 @@ pubDate: "2022-07-07 21:15:52"
 author: "Lucio"
 categories: ["Análisis","Investigación","Política","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-senadora-galvis-dira-la-verdad-y-reparara-a-sus-victimas-del-paramilitarismo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-senadora-galvis-dira-la-verdad-y-reparara-a-sus-victimas-del-paramilitarismo/hero.jpg
 ---
 
 La comparecencia de la senadora **Galvis Méndez** ante la **Justicia Especial de Paz** (JEP) este 22 de julio despierta gran expectativa por la verdad que revelará. Pero sobre todo, qué aportará para conocer la verdad de procesos que están confusos u oscuros. **Son 11 hechos que la implican en concierto para delinquir agravado**. La Corte Suprema de Justicia (CSJ) la tiene procesada desde el **30 de junio de 2010**.

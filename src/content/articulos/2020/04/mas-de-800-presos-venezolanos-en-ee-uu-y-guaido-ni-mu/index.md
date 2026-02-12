@@ -5,7 +5,7 @@ pubDate: "2020-04-07 21:14:38"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/mas-de-800-presos-venezolanos-en-ee-uu-y-guaido-ni-mu/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/mas-de-800-presos-venezolanos-en-ee-uu-y-guaido-ni-mu/hero.jpg
 ---
 
 ## Lucio entrevista al activista de DD.HH. Carlos Villavicencio Goicochea

@@ -5,7 +5,7 @@ pubDate: "2023-06-30 04:27:58"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/kike-vega-e-hijos-masacrados-en-su-madriguera/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/kike-vega-e-hijos-masacrados-en-su-madriguera/hero.jpg
 ---
 
 ![«Kike» Vega e hijos masacrados en su madriguera](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/kike-vega-e-hijos-masacrados-en-su-madriguera/hero.jpg)

@@ -5,7 +5,7 @@ pubDate: "2022-10-31 01:22:27"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/lula-resucitado-o-novo-presidente-do-brasil/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/lula-resucitado-o-novo-presidente-do-brasil/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/lula-resucitado-o-novo-presidente-do-brasil/hero.jpg)

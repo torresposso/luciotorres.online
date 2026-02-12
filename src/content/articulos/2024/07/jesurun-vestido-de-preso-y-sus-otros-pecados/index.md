@@ -5,7 +5,7 @@ pubDate: "2024-07-16 01:34:56"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/jesurun-vestido-de-preso-y-sus-otros-pecados/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/jesurun-vestido-de-preso-y-sus-otros-pecados/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/jesurun-vestido-de-preso-y-sus-otros-pecados/hero.jpg)

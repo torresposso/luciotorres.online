@@ -5,7 +5,7 @@ pubDate: "2024-11-29 02:21:17"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/la-vida-loca-loca-de-benedetti-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/la-vida-loca-loca-de-benedetti-i/hero.jpg
 ---
 
 ![Las aguas regresan a su cauce. La vida loca de Benedetti lo regresa al lado de Laura Sarabia, directora del Dapre. Si se cae Benedetti, se cae el presidente.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/la-vida-loca-loca-de-benedetti-i/hero.jpg)

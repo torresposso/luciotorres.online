@@ -5,7 +5,7 @@ pubDate: "2020-10-12 23:12:51"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/los-cotes-no-se-resignan-buscan-retomar-el-poder-con-las-regalias/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/los-cotes-no-se-resignan-buscan-retomar-el-poder-con-las-regalias/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/10/los-cotes-no-se-resignan-buscan-retomar-el-poder-con-las-regalias/hero.jpg) Los Cotes no se resignan a perder el poder. Cuentan con el apoyo de parlamentarios costeños y de 26 alcaldes del Magdalena para poner al sucesor de **Carlos Caicedo Omar**. El proceso lo lidera el parlamentario **Franklin Del Cristo Lozano De La Ossa**, quien será candidato a la gobernación. ¿Cuál es la atracción para consolidar esta unión? **Los $320 mil millones del Sistema General de Regalías (SGR) que le asignarán al Magdalena.** Para la región Caribe están asignados **$3,6 billones** en el período 2020-2022. Y ya los parlamentarios tienen previsto cómo gastarse ese dinero del SGR con los diferentes gobernadores, excepto el del Magdalena. Y todo con la complicidad del ministro de Hacienda, Alberto Carrasquilla y del director del Departamento Nacional de Planeación, **Luis Alberto Rodríguez Ospino**.

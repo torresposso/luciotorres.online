@@ -5,7 +5,7 @@ pubDate: "2020-08-09 00:47:38"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/ito-el-intocable-de-la-champeta-ataca-de-nuevo/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/08/ito-el-intocable-de-la-champeta-ataca-de-nuevo/hero.jpg
 ---
 
 # **_ESCUCHE lA ENTREVISTA «MÚSICA PARA BANDIDOS»_**

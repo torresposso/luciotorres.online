@@ -5,7 +5,7 @@ pubDate: "2020-05-13 01:06:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/crisis-del-covid-19-caos-en-la-ciudad-y-en-la-alcaldia-de-cartagena/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/crisis-del-covid-19-caos-en-la-ciudad-y-en-la-alcaldia-de-cartagena/hero.jpg
 ---
 
 \[caption id="attachment\_11709" align="alignnone" width="960"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/crisis-del-covid-19-caos-en-la-ciudad-y-en-la-alcaldia-de-cartagena/hero.jpg) **Álvaro Fortich duró 4 meses y 12 días en el Dadis**. Por dos días mantiene el récord su tocayo Álvaro Cárcamo. Johana Bueno lo reemplazó. En la gráfica, Dau Bueno, Fortich y Ana María González. Cortesía Prensa.\[/caption\] Mientras el alcalde de Cartagena William Dau se emrumba, la ciudad se derrumba. Comienza la renuncia de su equipo de gobierno mejor preparado para asumir la emergencia social. En medio de un caos social descubierto por el Covid—19 y un desbarajuste de la alcaldía de Cartagena, el director del Departamento Administrativo Distrital de Salud (DADIS), **Álvaro Fortich Revollo**, presentó renuncia irrevocable al alcalde **William Dau Chamat**. Pocas horas después, el burgomaestre encargó a **Johana Bueno Álvarez**, directora Operativa de Salud Pública de esa entidad. Entre tanto, la ciudad vive un caos. La tasa de letalidad del virus (4.2 por cada 100 mil habitantes) duplica a la de Bogotá. El sistema de salud no sirve. En los barrios populares la gente tiene hambre. Sale a la calle a rebuscarse y no a mamar gallo. Hoy, con la distribución de las raciones del PAE, la gente pobre de la ciudad se aglomeró sin medidas de bioseguridad.

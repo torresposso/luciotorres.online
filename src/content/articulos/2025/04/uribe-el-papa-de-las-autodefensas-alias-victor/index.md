@@ -5,7 +5,7 @@ pubDate: "2025-04-08 17:56:01"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/uribe-el-papa-de-las-autodefensas-alias-victor/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/uribe-el-papa-de-las-autodefensas-alias-victor/hero.jpg
 ---
 
 ![«Uribe, el papá de las Autodefensas»: alias «Víctor»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/uribe-el-papa-de-las-autodefensas-alias-victor/URIBE-EN-LA-PICOTA-1024x565.jpeg)

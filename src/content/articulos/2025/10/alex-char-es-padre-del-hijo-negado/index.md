@@ -5,7 +5,7 @@ pubDate: "2025-10-13 03:31:07"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/alex-char-es-padre-del-hijo-negado/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/alex-char-es-padre-del-hijo-negado/hero.jpg
 ---
 
 ![Alex Char es padre del hijo negado, según jueza  (VI)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/alex-char-es-padre-del-hijo-negado/hero.jpg)

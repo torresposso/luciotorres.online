@@ -5,7 +5,7 @@ pubDate: "2022-07-24 21:09:06"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/hero.jpg
 ---
 
 ![Aura Márquez una de las víctimas de las prácticas antisindicales de la corriente mayoritaria de la ADEA. Cortesía. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/hero.jpg)

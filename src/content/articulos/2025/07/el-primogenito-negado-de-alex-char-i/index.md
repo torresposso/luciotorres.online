@@ -5,7 +5,7 @@ pubDate: "2025-07-10 11:20:55"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-primogenito-negado-de-alex-char-i/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-primogenito-negado-de-alex-char-i/hero.jpg
 ---
 
 ![¿El primogénito negado de Alex Char? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-primogenito-negado-de-alex-char-i/hero.jpg)

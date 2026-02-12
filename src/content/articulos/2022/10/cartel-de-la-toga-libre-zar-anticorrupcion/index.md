@@ -5,7 +5,7 @@ pubDate: "2022-10-20 01:50:32"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/cartel-de-la-toga-libre-zar-anticorrupcion/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/cartel-de-la-toga-libre-zar-anticorrupcion/hero.jpg
 ---
 
 ![Luis Gustavo Moreno, el exZar Anticorrupción, recibió de su propia dosis. Libre Zar Anticorrupción](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/cartel-de-la-toga-libre-zar-anticorrupcion/hero.jpg)

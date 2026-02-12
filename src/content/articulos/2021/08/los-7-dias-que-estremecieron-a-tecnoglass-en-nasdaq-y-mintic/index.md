@@ -5,7 +5,7 @@ pubDate: "2021-08-28 21:31:52"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/los-7-dias-que-estremecieron-a-tecnoglass-en-nasdaq-y-mintic/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/los-7-dias-que-estremecieron-a-tecnoglass-en-nasdaq-y-mintic/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/los-7-dias-que-estremecieron-a-tecnoglass-en-nasdaq-y-mintic/hero.jpg)

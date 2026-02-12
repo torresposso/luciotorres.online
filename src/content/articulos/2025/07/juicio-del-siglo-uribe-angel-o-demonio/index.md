@@ -5,7 +5,7 @@ pubDate: "2025-07-12 15:48:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/juicio-del-siglo-uribe-angel-o-demonio/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/juicio-del-siglo-uribe-angel-o-demonio/hero.jpg
 ---
 
 ![«Juicio del Siglo»: ¿Uribe es culpable o inocente?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/juicio-del-siglo-uribe-angel-o-demonio/hero.jpg)

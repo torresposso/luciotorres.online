@@ -5,7 +5,7 @@ pubDate: "2021-12-12 18:38:35"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/hindenburg-research-denuncia-ingresos-ficticios-de-tecnoglass-en-nasdaq/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/hindenburg-research-denuncia-ingresos-ficticios-de-tecnoglass-en-nasdaq/hero.jpg
 ---
 
 ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/hindenburg-research-denuncia-ingresos-ficticios-de-tecnoglass-en-nasdaq/hero.jpg)

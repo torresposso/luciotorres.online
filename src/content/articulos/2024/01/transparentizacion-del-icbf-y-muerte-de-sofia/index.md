@@ -5,7 +5,7 @@ pubDate: "2024-01-28 17:32:01"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/transparentizacion-del-icbf-y-muerte-de-sofia/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/transparentizacion-del-icbf-y-muerte-de-sofia/hero.jpg
 ---
 
 ![El proceso de transparentización del ICBF es clave para crear una generación de paz./Presidencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/transparentizacion-del-icbf-y-muerte-de-sofia/Petro_astrid.jpeg)

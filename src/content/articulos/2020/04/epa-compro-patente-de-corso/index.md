@@ -5,7 +5,7 @@ pubDate: "2020-04-26 22:42:28"
 author: "Lucio"
 categories: ["Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/epa-compro-patente-de-corso/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/epa-compro-patente-de-corso/hero.jpg
 ---
 
 \[caption id="attachment\_11573" align="aligncenter" width="537"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/epa-compro-patente-de-corso/hero.jpg) Sin control ambiental. Una patente de corso para el EPA. Cortesía.\[/caption\] ¿EPA compró patente de corso ambiental? En el gobierno anticorruptivo de **William Dau**, el Establecimiento Público Ambiental-**EPA** de Cartagena, cuyo director es el ingeniero **Javier Mouthon Bello**, pareciera que compró una **patente de corso** con la contratación, al parecer, irregular del arquitecto **Orlando Antonio Ortiz Llanos,** compañero afectivo de la **procuradora Agraria y Ambiental de Bolívar, Mayelis Chamorro Ruiz**.

@@ -5,7 +5,7 @@ pubDate: "2022-11-07 03:52:22"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/negligencia-de-unp-puso-en-riesgo-a-protegidos/"./hero.jpg"
+heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/negligencia-de-unp-puso-en-riesgo-a-protegidos/hero.jpg
 ---
 
 ![¿Quién miente? ¿El director o el contratista? Negligencia de UNP puso en riesgo a protegidos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/negligencia-de-unp-puso-en-riesgo-a-protegidos/augusto-rodriguez-fotocompisicion.jpeg)
