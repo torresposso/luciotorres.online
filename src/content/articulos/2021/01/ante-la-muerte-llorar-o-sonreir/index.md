@@ -1,0 +1,31 @@
+---
+title: "Ante la muerte: ¿llorar o sonreír?"
+slug: "ante-la-muerte-llorar-o-sonreir"
+pubDate: "2021-01-29 18:03:24"
+author: "Lucio"
+categories: ["Opinión"]
+
+heroImage: "./hero.jpg"
+---
+
+  \[caption id="attachment\_13735" align="aligncenter" width="390"\]![](./hero.jpg) Mi hermano Enilso del Cristo. ¿Llorar o sonreír?\[/caption\]  ¿Llorar o sonreír ante la muerte? Parece una pregunta existencialista. Pero es la esencia para indagar el misterio de la muerte. **Enilso del Cristo**, uno de mis hermanos menores, sufría de diabetes. Finalmente su corazón dejó de latir a las 2:04 p.m. de este 28 de enero. Las complicaciones cardiovasculares y renales ganaron la batalla. ¿Ganó el dolor? En realidad, ganó la vida. Puedo sonreír. Vivimos juntos momentos impactantes de nuestra niñez. Aprendí lo que es la solidaridad con los hermanos menores. Sin hacerlo conscientemente, me comporté como papá de ellos. Así nos enseñaron. **Los hermanos mayores debíamos ser ejemplo y guía de los menores**. Y ese principio lo apliqué con mis hermanos menores. Mi padre, **Juan de la Cruz**, fue paternalista. No solo veló por sus hijos sino también por sus sobrinos. Y eran muchos. Especialmente aquellos que quedaron huérfanos. Así también fue Teresa de Jesús, mi madre. Cuando mis primos estaban en casa, eran como nuestros hermanos. No había diferencias. El plato de comida era el mismo para todos.
+
+## ¿Llorar o sonreír?
+
+Enilso era menor que yo. La diferencia era de dos años. Pero me comporté como su padre y protector. Vivíamos en un barrio popular donde el _matoneo_ era agresivo. No sé cuántas peleas hice para defender a mi hermano. Pero fueron muchas. Él era callado, noble y no se metía con nadie. Algunos _pelaos_ lo interpretaban como pendejo. Y venía el _matoneo_. Si volviera a esos tiempos de infancia, lo único que no haría sería pelear con mis semejantes. Incluso, ni siquiera para proteger a mi hermano. Hubiera sido como él, mirar al agresor y su agresión. Pero no responderle. Nadie debe afectarte, aunque te crean un pendejo. En 1999, entendí que uno no podía responder con violencia a la violencia de otro. Hace poco entendí que mi vida no depende de otros. **Que yo soy la vida**. Que yo escojo mi estado de ánimo y no depende de las agresiones de otros o de las cosas que sucedan. Y ahora que murió Enilso, sonreí y dije: **«Dios, eres misericordioso»**.
+
+## ¿Llorar o sonreír? La hermandad
+
+\[caption id="attachment\_13736" align="aligncenter" width="796"\]![](./TERE.jpg) Teresa Moreno, mi madre. 2010.\[/caption\] Aprendí de esas experiencias infantiles el concepto de la hermandad. Si recibíamos un pan lo distribuíamos equitativamente con quiénes estábamos. Primero le dábamos a nuestro prójimo. Aprendí de mi mamá que el pan debíamos partirlo, no solo con nuestros hermanos sino, incluso, con los primos, o con quién estábamos en el momento. Puesto que el prójimo es el que está cerca de nosotros. Si alguien llegaba a la hora del almuerzo, mi mamá le decía:
+
+> _«No te vayas. Quédate, que te voy a dar un bocao e' comía»._
+
+Siempre había comida para invitar al prójimo. Y ya adulto, entendí por qué mi mamá Tere hacía más comida de la necesaria. Y se molestaba si algunas de mis hermanas cocinaba estricto para los que estábamos en casa. Tenía que quedar para el que llegara. ¿Quién? Cualquiera. Así aprendí la generosidad. Es uno de los principios de familia. Mi padre era tan generoso que en La Peña (Bolívar), dónde tenía el astillero, a los muertos de la gente pobre le compraba el cajón y le hacía una compra para los 9 días del velorio. Y todos en ese pueblo le decían **«tío Juan»**. Curioso. Crecí sin ver a mi padre y mi madre juntos. Era de un hogar que hoy le llaman «disfuncional» liderado por la madre. Nadie tuvo mal rumbo. Yo nací fuera del matrimonio de mi papá. Pero su esposa **Isabel Navas** fue otra madre. Tan generosa como mi papá y mi mamá Teresa.
+
+## Sonrío
+
+\[caption id="attachment\_13737" align="aligncenter" width="279"\]![](./JUAN-TORRES-2.jpg) Juan Torres Ortega, mi padre. 1974.\[/caption\] Con la muerte de mi hermano Enilso, sonrío. Y le doy gracias por los momentos felices que vivimos. Me hizo poner en práctica la hermandad. Y cómo no iba a serlo si veía a mi madre Teresa ayudar a su hermana Ana (**«tía Cachaca»**) a criar a sus hijas. O a mi padre Juan criar a sus sobrinos Comas Torres —hijos de Ana Felicia Torres—que quedaron huérfanos de padre y madre. O a mi hermana mayor, Candelaria, echarse la carga de los sobrinos huérfanos. El ejemplo es la mejor enseñanza con la que uno puede guiar a los hijos y a la sociedad. Eso fue lo que Jesucristo hizo y nos enseñó. Jesús nos dijo: _**«Amar al prójimo como a ti mismo»**_. Nosotros nacimos para amar. Y hoy la neurociencia nos habla de las células espejos. Nuestros hijos hacen lo que uno hace consciente o inconscientemente. Seguimos lo que vemos, porque refleja lo que somos. ¿Llorar o sonreír? ¿Llorar por la muerte? ¿Sonreír por la vida? Sonrío por esos momentos que vivimos juntos. A pie _pelao,_ caminando por caminos llenos de espinas pero también de rosas. Uno tiene el poder de elegir. Te quedas con las espinas o disfrutas el olor y la frescura de las rosas. Enilso vivió como quiso. **No aprendió a vivir con la diabetes y eso le acortó su ciclo vital**. Fue el más vulnerable de mis hermanos, pero de mente brillante. Que si hubiese estudiado, fuera un inventor. Por eso le decíamos «Giro sin tornillos». Hasta siempre, hermano mío. Tu no has muerto. Ahora integraste el polvo cósmico. Somos parte de un todo que los existencialistas no entendieron. Por esto, sonrío.
+
+### Te puede interesar
+
+## [La Pulla de El Espectador destaca a tres grandes del periodismo: Daniel Coronel, Claudia López y Lucio Torres](/articulos/la-pulla-de-el-espectador-destaca-tres-grandes-del-periodismo-daniel-coronel-claudia-lopez-y-lucio-torres/)

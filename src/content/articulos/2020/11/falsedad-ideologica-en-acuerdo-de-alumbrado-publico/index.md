@@ -1,0 +1,35 @@
+---
+title: "Falsedad ideológica en acuerdo de alumbrado público"
+slug: "falsedad-ideologica-en-acuerdo-de-alumbrado-publico"
+pubDate: "2020-11-08 23:41:43"
+author: "Lucio"
+categories: ["Análisis","Investigación"]
+
+heroImage: "./hero.jpg"
+---
+
+![](./hero.jpg)Otra falsedad ideológica de la administracion Dau. El proyecto de acuerdo **No 044 del 2020** de alumbrado público presentado por el alcalde de Cartagena **William Dau Chamat,** es más falso que una moneda de cuero. La certificación anexada por su Secretario de Planeación **Guillermo Avila falsea la realidad**. Contrario a lo que Ávila certifica, su contenido no está contemplado en el acuerdo **No 027 DE 2020 del Plan de Desarrollo Salvemos a Cartagena** (documento no disponible). ![](./alumbrado_Mesa-de-trabajo-1-copia-3_Mesa-de-trabajo-1-copia-3-1024x909.jpg)
+
+## La audiencia del concejo
+
+La denuncia la presentamos en la audiencia pública convocada por el concejo distrital para la discusión del mentado proyecto. La Secretaria General (e) **Myrna Martínez Mayorga** reiteró, sin sonrojarse, que la iniciativa se encuentra definida en las páginas 98, 99 y 100. Ratificó lo que dice la certificación que anexó. El Distrito pretende hacer un **convenio interadministrativo** para el servicio público no domiciliario del alumbrado público. Este se sostiene con una tasa autorizada por la ley. Y para ello solicitó al concejo autorización para vigencias futuras con el fin de comprometer la suma de **$ 0.5 billones** en los próximos tres años. Según reza en el proyecto, para realizar ese convenio administrativo se invitó a tres empresas industriales y comerciales del Estado. Estas son **EPM, Codensa y Alumbrado Público de Barranquilla.** Señala que es parte del estudio de mercado. Aunque la administración de Dau no lo admite, en realidad, todo apunta a que el proceso terminaría con Alumbrado Público de Barranquilla. Una de las personas que lo está sustanciando sería **José Luis Contreras,** conocido de auto en procesos similares que ha beneficiado a los «malandrines».  Dau y su banda pretenden tenerlo por 10 años.
+
+## La falsedad ideológica
+
+\[caption id="attachment\_13197" align="aligncenter" width="569"\]![](./4-Certificado-de-Planeacion-Distrital-2-569x1024.jpg) Esta es la certificación de Guillermo Ávila, Secretario de Planeación. Habla del Programa Energía Asequible, Confiable y Sostenible. Su contenido no contempla la esencia del proyecto No 044 de 2020.\[/caption\] Sin embargo, la realidad es contrario a lo que certifica **Guillermo Ávila Barragán**, Secretario de Planeación Distrital. El acuerdo _**No 027 DE 2020 del Plan de Desarrollo Salvemos a Cartagena**_ en las páginas que menciona dicha certificación no aparece el proyecto de alumbrado público. Nos dimos a la tarea de contrastar la certificación del Secretario de Planeación Distrital con el plan de Desarrollo y nos encontramos con una sorpresa. Los objetivos del **numeral 7 del plan que aparecen en la página 98 del Plan de Desarrollo no contempla el objeto del proyecto**. Así lo mostramos en el capture de pantalla que publicamos. Por ejemplo, en la página 99 del Plan de Desarrollo bajo el título «Objetivo 7. Garantizar el acceso a energía asequible, confiable, sostenible y moderna para todos» dice textualmente: _«**META: 7.1** En 2030 garantizar el acceso universal a servicios de energía asequibles, confiables y modernos.  **7.2** - Aumentar el porcentaje global de energía renovable, de aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas. **7.3** - Duplicar la mejora en la eficiencia energética, de aquí a 2030, duplicar la tasa mundial de mejora de la eficiencia energética»._ Si es cierto lo que certifica Ávila Barragán cabe una pregunta reveladora. **¿Por qué no socializaron el proyecto de alumbrado público en las convocatorias que hicieron para debatir el plan de desarrollo distrital?** No hay una sola acta. Y si la hacen, sería extemporánea y espuria.
+
+## Inducción al error
+
+La conclusión es que el proyecto de acuerdo **No 044 de 2020** materializa una falsedad ideológica. El Artículo 286 sobre falsedad ideológica en documento publico dice:
+
+> _«El servidor público que en ejercicio de sus funciones, al extender documento público **que pueda servir de prueba**, **consigne una falsedad o calle total o parcialmente la verdad**, incurrirá en prisión de sesenta y cuatro (64) a ciento cuarenta y cuatro (144) meses e inhabilitación para el ejercicio de derechos y funciones públicas de ochenta (80) a ciento ochenta (180) meses_». ([Ver el Código Penal](/articulos//leyes.co/codigo_penal/286.htm\).))
+
+Ello indicaría que la administración de William Dau Chamat, a través de la certificación de su secretario de Planeación, busca inducir al error al concejo. Para esto usa como prueba la certificación que anexó junto con el proyecto de acuerdo. La norma es clara. «D_ocumento público **que pueda servir de prueba**, **consigne una falsedad o calle total o parcialmente la verdad».**_ ¿El oficio **No 090528-2020** dice la verdad? ¿Cómo pueden encuadrar este proyecto al objetivo 7 del plan de desarrollo que no tiene una sola palabra del título del proyecto? Si el concejo usa este documento para discutirlo, a sabiendas que es una falsedad ideológica, también incurriría en la misma falta que William Dau y su secretario de Planeación del Distrito Guillermo Ávila.
+
+## No es la primera vez
+
+Son recurrentes las falsedades de esta administración encabezada por un alcalde que se demostró que es un **malandro**. Ejemplo evidente y aceptado, el **Caso de Cynthia Pérez Amador**. Pero el periodista puede recordar la elección de **Héctor Consuegra** como contralor Distrital. Era el candidato de William Dau que indujo al error a ocho (8) concejales, entre los cuales está **Javier Julio Bejarano**, quien está enfrentado a su antiguo aliado. Pero Myrna Martínez Mayorga, Jefe de Jurídica y Secretaria General (e), comprometida en el cartel de la conciliación del Distrito, sustentó ante el concejo el proyecto **No 044-2020** y, especialmente, la certificación expedida por la Secretaría de Planeación Distrital. Un nuevo escándalo se avecina con este proyecto de acuerdo. El concejo del Distrito de Cartagena debe asumir una posición consecuente y presentar las denuncias respectivas. O, en su defecto, debe solicitarle a Guillermo Ávila, que explique las razones legales de su certificación con base en el plan de desarrollo y las actas contempladas en su socialización. **Te puede** **interesar:**
+
+### [¿Se acabó el embrujo del alcalde malandro?](/articulos/se-acabo-el-embrujo-del-alcalde-malandro-i/ "¿Se acabó el embrujo del alcalde malandro? (I)")
+
+[Trump y los cristianos. ¿Una mujer Presidenta de E.U?](/articulos/trump-y-los-cristianos-una-mujer-presidenta-de-e-u/ "Trump y los cristianos. ¿Una mujer Presidenta de E.U?")

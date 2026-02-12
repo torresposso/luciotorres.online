@@ -1,0 +1,61 @@
+---
+title: "«La Cruz de Cynthia» hizo llorar al arzobispo de Cartagena"
+slug: "la-cruz-de-cynthia-hizo-llorar-al-arzobispo-de-cartagena"
+pubDate: "2020-10-26 01:15:58"
+author: "Lucio"
+categories: ["Análisis","Investigación"]
+
+heroImage: "./hero.jpg"
+---
+
+Escuchar llorar al arzobispo de Cartagena conmueve a cualquier cristiano. **Monseñor Jorge Enrique Jiménez Carvajal** no aguantó el llanto. Su voz se quebró cuando leía hoy el comunicado de la arquidiócesis sobre **«La Cruz de Cynthia**». Pero más que resolver el problema lo agravó. Cayó en una grave contradicción que aquí, en este escrito, se lo narro con objetividad y revelo la prueba reina que podría hundir al **«alcalde malandro» y a sus compinches**. Monseñor sintió el «meque» (la fuerza) de esa pesada cruz que lo atormenta camino al Gólgota del escarnio público. No se si quiso salvar al padre Christian Mercado, a la iglesia o a la misma Cynthia del suplicio de la pesada cruz. Pero su error puede ser interpretado como una forma de complicidad frente a un fraude procesal, una falsedad y el delito de contrato con interés propio. Su llanto reflejó las emociones contenidas. Reprimidas. Las liberó. Pero también pudo ser expresión de impotencia. O reflejo de su contradicción consciente. Puede presentir que hay una amenaza cierta a la fe de la iglesia Católica y del advenimiento de un cisma. Pero los desordenes de un padre que le dio una certificación a Cynthia Pérez Amador en 2009, ciertamente no lo debe pagar el párroco actual de la iglesia **María Madre de los Pobres y de las Naciones** del barrio El Educador, **padre Christian Mercado Mercado**.
+
+## Preguntas urgentes
+
+En este planteamiento, hacemos las mismas preguntas que se hacen los investigadores de la Contraloría, el CTI y la Procuraduría para dislucidar este penoso y espinoso problema de moralidad pública, el cual se convierte en un monumento de la corrupción del **«alcalde malandro»**. **¿Cuáles son los títulos académicos aportados por la contratista que dan cuenta de sus conocimientos o servicios especializados en cada una de las áreas indicadas?** En el expediente solo aparece el certificado Politécnico Central sede Cartagena. Le otorga el titulo de Técnico en Análisis y Programación de Sistemas. Dos certificaciones de experiencia adjuntó. Una es falsa, según la denuncia penal de la persona a quien le falsificaron la firma. Y la segunda es la del padre Christian Mercado, que es real. Pero no alcanza a cubrir la experiencia. **¿Posee la contratista algún título académico en ciencia, jurídico/legal, contable, en economía, ciencias sociales, o de tipo cívico?** No. Solo hay una constancia de que cursó una tecnología, pero no adjuntó el diploma.
+
+## ¿Aportó la contratista la experiencia suficiente que le permita acreditar conocimientos necesarios equivalentes a la de un especialista en algunas de las áreas señaladas en la pregunta anterior? No. **La certificación que presentó es falsa**. (imagen no disponible)La palabra del arzobispo de Cartagena
+
+\[caption id="attachment\_13013" align="aligncenter" width="673"\]![](./hero.jpg) El arzobispo de Cartagena, monseñor Jorge Enrique Jiménez en compañía del alcalde **William Dau**, **un experto de la mentira y el engaño**. Cortesía.\[/caption\] El arzobispo de Cartagena dijo:
+
+> _«El padre **Nelson Arango** no pagó los aportes de seguridad social debidos ni lo informó a la Tesorería de la Arquidiócesis. Tampoco dejó los archivos correspondientes. Por otra parte **le dio a Cynthia Pérez Amador una certificación de trabajo por los años 2002, 2007 y 2008**. Dicha certificación data del 14 de septiembre de 2009»_.
+
+## La contradicción
+
+No obstante lo dicho por el arzobispo de Cartagena, el certificado que el párroco **Christian Mercado Mercado** **adjuntó el 16 de marzo de 2020 como prueba ante la Contraloría,** **señala fechas diferentes**. Además, el número de años laborados es menor al que dice el arzobispo. El certificado que reposa en el expediente de la Contraloría y que **fue pedido este viernes por el CTI de la Fiscalía**, según fuente de entero crédito, dice lo siguiente: _![](./CERTIFICACION-DE-CHRISTIAN-MERCADO.jpg)«Parroquia María de los Pobres y de las Naciones hace constar:_ _«Que la señora **Cynthia del Carmen Pérez Amador**, identificada con cédula de ciudadanía número 45552360 expedida en Cartagena, laboró en esta parroquia secretaría, con contrato verbal durante los siguientes períodos:_
+
+*   _Desde el 21 de febrero de 2002 hasta el 01 de junio del mismo año._
+*   _Desde el 25 de enero de 2007 hasta el 02 de octubre de 2008_
+*   _(...) Que los aportes al sistema general de seguridad social fueron realizados en su totalidad para los períodos laborados.» (El papelito habla. LEA: [CERTIFICADO DEL PADRE CHRISTIAN Y APORTES EN LÍNEAS](/pdfs/CERTIFICADO-Y-APORTES-EN-LINEAS.pdf))._
+
+La fecha de expedición del certificado fue el 9 de marzo de 2020. Fue entregado a la Contraloría el **16 de marzo a las 11:56**. Es decir, faltando 4 minutos para las 12. ¿La contradicción dónde está? El padre **Nelson Arango,** «por su desorden», le dio una certificación de tres años de labores firmada el 14 de septiembre de 2009. **¿Por qué razón no certificaron los tres años sino año y medio?** ¿Por qué razón solo pagaron año y siete meses a la seguridad social y parafiscales? ¿Es un descuido de la Arquidiócesis que se puede interpretar como una defraudación al fisco nacional? ¿O fue un certificado para que la Contraloría desviara su investigación e inducir a error a los investigadores? He aquí el grave problema. Es el uso de ese documento. No lo olviden, se trataba de justificar el cobro de $33,6 millones que ahora la alcaldía dijo que devolvió al fisco.
+
+## ¿Por qué lloró el arzobispo de Cartagena?
+
+**Monseñor Jorge Enrique Jiménez, arzobispo de Cartagena**, llegó a esta ciudad en el año 2012. Conoce la intríngulis de la política local. Debe saber que Dau es un artista de la mentira y actor que engaña. Probablemente no conoció su pasado díscolo y de **_marihuanero viejo_**, según las personas que lo conocieron en esas andanzas. Si aquí se metía sus _**pericales**_ ¿cómo no se los va a meter en los últimos 16 años de Nueva York donde está la madre de los periqueros? Ahora bien. ¿Cuáles son los motivos internos para que monseñor Jiménez llorara? ¿Tiene sentimiento de culpa? ¿Dijo toda la verdad sobre este penoso caso de Cynthia? ¿Se puede convertir en un pecado capital para alguno de los miembros de la iglesia católica? ¿Por qué lloró, moseñor? San Agustin dijo:
+
+> _«Sin embargo, al fin, la certera investigación podrá sustanciar nuestra opinión. Si en ella hay algún error, **la verdad nos libra de todos los errores del mismo modo que la falsedad nos conduce a todos.** Pero nunca pienso que se puede errar del todo cuando se yerra con un amor total a la verdad y un rechazo total de la falsedad. Los que juzgan con severidad dicen que esto es excesivo, pero la misma verdad tal vez nos diga que aún no es suficiente»_. ([Sobre la mentira, Obras completas, versión española. San Agustín](/articulos/spagnolo/menzogna/index2.htm)).
+
+Para claridad del arzobispo de Cartagena y del clero, mi actuación está guiada por este **pensamiento agustiniano de la verdad y de la mentira**. En mis investigaciones periodísticas las hago con rigor. Pero luego las paso por el tamiz de mi razonamiento consciente. Y si aun así cometo algún error, «_**la verdad nos (me) libra de todos los errores del mismo modo que la falsedad nos conduce a todos».**_ Cuando mis escritos afectan a algún troyano, los tirios se alegran. Pero cuando denuncio a un tirio, los troyanos también se alegran. Nadie acepta la paja en el propio ojo. La naturaleza humana solo ve la paja ajena.
+
+## El llanto del arzobispo de Cartagena
+
+Pareciera que a monseñor Jiménez le duele más lo que dicen por redes sociales (Jacqueline Perea) sobre el párroco Christian Mercado que la falsedad de **Cynthia Pérez.**  Y tampoco le importa la conducta indecorosa del alcalde para defraudar el fisco distrital. Mucho menos un detrimento patrimonial comprobado y confesado por **$33.6 millones**, la mitad de lo que la Curia pagó por la seguridad social de su feligrés que pasó a ser empleada. Cuando el arzobispo de Cartagena se le quebró la voz, pausó, tragó saliva y volvió a pausar, fue al leer el item 11 de su comunicado de prensa:
+
+> «_Al terminar este Comunicado, me asaltan algunas preguntas. ¿Estamos asistiendo en Cartagena a un **“linchamiento moral”** de personas cuyo pecado es haber entregado toda su vida al servicio de los más pobres de nuestra ciudad? ¿Han robado algo al erario público? ¿No tienen derecho a entregar generosamente su vida al servicio de los más pobres? ¿Cuáles son los verdaderos motivos para perseguirlos? ¿Si los sacan del camino quienes pierden? ¿Si, a punta de infamias, desacreditan al Padre Christian, quienes ganan? ¿Quiénes los remplazarían para dar un poco de Esperanza a la inmensa mayoría de la población de la ciudad?_»
+
+Querido monseñor Jiménez, aquí nadie tiene algún motivo para desacreditar al padre Christian. Nadie. El tema es que él presentó una certificación que ahora será —junto con otros documentos— cabeza de proceso penal por falsedad de lo certificado. Y si se demuestra este delito, **Cynthia, Christian, Diana Martínez, Martha Carvajal y William Dau se irían a la cárcel**. **El artículo  409 del Código Penal sobre i_nterés indebido en la celebración de contratos,_ dice:** _«El  servidor público que se interese en provecho propio o de un tercero, en cualquier clase de contrato u operación en que deba intervenir por razón de su cargo o de sus funciones, incurrirá en prisión de cuatro (4) a doce (12) años, multa de cincuenta (50) a doscientos (200) salarios mínimos legales mensuales vigentes, e inhabilitación para el ejercicio de derechos y funciones públicas de cinco (5) a doce (12) años»._ Termino este análisis con San Agustin:
+
+> _«Al veraz y al mentiroso no hay que juzgarles por la verdad o falsedad de las cosas en sí mismas, **sino por la intención de su opinión**. Se puede decir que yerra o que es temerario el que afirma algo falso, si piensa que es verdadero, pero no se le puede llamar mentiroso, porque no tiene un corazón doble en lo que dice, ni desea tampoco engañar, sino que se engaña él mismo. **El pecado del mentiroso está en su deseo intencionado de engañar.»** (Las negrillas son mías)**.**_
+
+**Conclusión**. El comunicado del arzobispo de Cartagena agravó la situación para Cynthia, Dau y la iglesia católica. Parece que el arzobispo cayó en un error. Pero como dice San Agustín, aquel que yerra no se le puede juzgar de doble moral, porque no tuvo la intención de mentir. Pero Dau, Diana Martínez y Cynthia si tuvieron esa intención. Aquí lo demostramos.
+
+#### Te puede interesar la serie de este acto de corrupción:
+
+### [La cruz de Cynthia la carga el padre Cristian y su iglesia (I)](/articulos/la-cruz-de-cynthia-la-carga-el-padre-cristian-y-su-iglesia/ "La cruz de Cynthia la carga el padre Cristian y su iglesia (I)")
+
+### [«La Cruz de Cynthia y del alcalde malandro» (II)](/articulos/la-cruz-de-cynthia-y-del-alcalde-malandro-ii/ "«La Cruz de Cynthia y del alcalde malandro» (II)")
+
+### [«Caso Cynthia»: Las claves para descubrir a un gobernante malandro](/articulos/caso-cynthia-las-claves-para-descubrir-a-un-gobernante-malandro/ "«Caso Cynthia»: Las claves para descubrir a un gobernante malandro")
+
+### [«El raponazo» al Adulto Mayor, «aúnan esfuerzos». Caso Morales—Bolívar (I)](/articulos/procurador-este-es-el-raponazo-al-adulto-mayor-caso-morales-bolivar/ "«El raponazo» al Adulto Mayor, «aúnan esfuerzos». Caso Morales—Bolívar (I)")

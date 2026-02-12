@@ -1,0 +1,221 @@
+---
+import { getCollection } from "astro:content";
+import BaseHead from "../../components/BaseHead.astro";
+import Footer from "../../components/Footer.astro";
+import FormattedDate from "../../components/FormattedDate.astro";
+import Header from "../../components/Header.astro";
+import LazyImage from "../../components/LazyImage.astro";
+import Pagination from "../../components/Pagination.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
+import FallbackImage from "../../assets/blog-placeholder-1.jpg";
+
+export async function getStaticPaths({ paginate }: any) {
+    const posts = (await getCollection("articulos")).sort(
+        (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+    );
+    console.log(`[Pagination Debug] Total posts: ${posts.length}`);
+    return paginate(posts, { pageSize: 11 });
+}
+
+function extractSlugFromPath(id: string): string {
+    const parts = id.split("/");
+    return parts[parts.length - 1];
+}
+
+const { page } = Astro.props as { page: any };
+
+const posts = page.data;
+---
+
+<!doctype html>
+<html lang="es">
+    <head>
+<BaseHead
+                title={`${SITE_TITLE} – Página ${page.currentPage}`}
+                description={`${SITE_DESCRIPTION} – Página ${page.currentPage}`}
+                image={FallbackImage}
+            />
+        <style>
+            main {
+                width: 960px;
+            }
+            ul {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 2rem;
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+            }
+            ul li {
+                width: calc(50% - 1rem);
+            }
+            ul li * {
+                text-decoration: none;
+                transition: 0.2s ease;
+            }
+            ul li:first-child {
+                width: 100%;
+                margin-bottom: 1rem;
+                text-align: center;
+            }
+            ul li:first-child img {
+                width: 100%;
+                aspect-ratio: 16 / 9;
+                object-fit: cover;
+            }
+            ul li:first-child .title {
+                font-size: 2.369rem;
+            }
+            ul li img {
+                margin-bottom: 0.5rem;
+                border-radius: 12px;
+                width: 100%;
+                aspect-ratio: 16 / 9;
+                object-fit: cover;
+            }
+            ul li a {
+                display: block;
+            }
+            .title {
+                margin: 0;
+                color: rgb(var(--black));
+                line-height: 1;
+            }
+            .date {
+                margin: 0;
+                color: rgb(var(--gray));
+            }
+            .categories {
+                margin-top: 0.3em;
+            }
+            .categories span {
+                display: inline-block;
+                background: rgb(var(--accent));
+                color: white;
+                padding: 0.1em 0.4em;
+                border-radius: 3px;
+                font-size: 0.75em;
+                margin-right: 0.3em;
+            }
+            ul li a:hover h4,
+            ul li a:hover .date {
+                color: rgb(var(--accent));
+            }
+            ul a:hover img {
+                box-shadow: var(--box-shadow);
+            }
+
+            .pagination {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 1.5rem;
+                margin-top: 4rem;
+                padding: 2rem 1rem;
+                border-top: 1px solid rgb(var(--gray-light));
+            }
+            .pagination a {
+                text-decoration: none;
+                padding: 0.75rem 1.5rem;
+                background-color: var(--accent);
+                color: #ffffff !important;
+                border-radius: 8px;
+                font-weight: 700;
+                transition:
+                    transform 0.2s,
+                    background-color 0.2s;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            }
+            .pagination a:hover {
+                background-color: var(--accent-dark);
+                transform: translateY(-2px);
+                color: #ffffff !important;
+            }
+            .pagination .current {
+                font-weight: 700;
+                color: rgb(var(--black));
+                font-size: 1.1rem;
+            }
+            .pagination .disabled {
+                color: rgb(var(--gray));
+                padding: 0.75rem 1.5rem;
+                background-color: #f0f0f0;
+                border-radius: 8px;
+                cursor: not-allowed;
+                opacity: 0.6;
+            }
+
+            @media (max-width: 720px) {
+                ul {
+                    gap: 0.5em;
+                }
+                ul li {
+                    width: 100%;
+                    text-align: center;
+                }
+                ul li:first-child {
+                    margin-bottom: 0;
+                }
+                ul li:first-child .title {
+                    font-size: 1.563em;
+                }
+                .pagination {
+                    flex-direction: column;
+                    gap: 1rem;
+                }
+            }
+        </style>
+    </head>
+
+    <body>
+        <Header />
+        <main>
+            <section>
+                <ul>
+                    {
+                        posts.map((post: any) => (
+                            <li>
+                                <a
+                                    href={`/articulos/${extractSlugFromPath(post.id)}/`}
+                                >
+                                    {post.data.heroImage && (
+                                        <LazyImage
+                                            src={post.data.heroImage}
+                                            alt={
+                                                post.data.heroImageAlt ||
+                                                post.data.title
+                                            }
+                                            width={720}
+                                            height={360}
+                                            aspectRatio="16/9"
+                                        />
+                                    )}
+                                    <h4 class="title">{post.data.title}</h4>
+                                    <p class="date">
+                                        <FormattedDate
+                                            date={post.data.pubDate}
+                                        />
+                                    </p>
+                                    {post.data.categories &&
+                                        post.data.categories.length > 0 && (
+                                            <div class="categories">
+                                                {post.data.categories.map(
+                                                    (cat: any) => (
+                                                        <span>{cat}</span>
+                                                    ),
+                                                )}
+                                            </div>
+                                        )}
+                                </a>
+                            </li>
+                        ))
+                    }
+                </ul>
+
+<Pagination page={page} urlPattern={"/articulos/{}"} />
+            </section>
+        </main>
+        <Footer />
+    </body>
+</html>

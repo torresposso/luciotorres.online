@@ -1,0 +1,35 @@
+---
+title: "Peajes, Dau «mató el tigre» con mentiras"
+slug: "peajes-el-alcalde-mato-el-tigre-con-mentiras"
+pubDate: "2021-02-14 22:57:47"
+author: "Lucio"
+categories: ["Análisis"]
+
+heroImage: "./hero.jpg"
+---
+
+\[caption id="attachment\_13843" align="aligncenter" width="1280"\]![](./hero.jpg) No se pierda los Envivos desde Los Peajes. El alcalde «mató el tigre» con mitomanía.\[/caption\] **El alcalde «mató el tigre y le tuvo miedo a la sangre».** Su arma, la mentira. El alcalde reculó nuevamente. Después que había anunciado con bombos y platillo la excepción de pago a los vehículos tipos I y II, creó el caos. Esto confirma que no está bien de la cabeza. Hasta el domingo 14 no le había firmado el acto administrativo de ese acuerdo espurio. Apresurado para mostrarlo como una gran conquista de su falso protagonismo, lo llevó a mentir nuevamente. Como se había denunciado, el acuerdo que solo hacía excepción de los vehículos tipos I y II, es una flagrante violación de la ley 80/93. **Prevarica por acción y omisión**, porque es un acto contra el orden jurídico. **Concierto para delinquir**, porque se conciertan para defraudar al Estado. Peculado a favor de terceros, porque la conducta del burgomaestre favorece el enriquecimiento ilícito de la Concesión Vial. **DESDE LOS PEAJES** UN NUEVO ENGAÑO DEL ALCALDE WILLIAM DAU DESDE LOS PEAJES UN NUEVO ENGAÑO DEL ALCALDE WILLIAM DAU https://m.facebook.com/story.php?story\_fbid=455812195858780&id=100042900100559&sfnsn=scwspw En un Envivo realizado el viernes 12 de febrero por las redes sociales señalábamos que la conducta del alcalde William Dau Chamat fue engañosa. Quiso darle un dulcecito a la comunidad, mientras le daba continuidad al contrato de concesión vial No 0868804. Este contrato dejó de ser legal desde el mismo momento en que se alcanzó la meta de la Tasa de Retorno. De acuerdo con la Contraloría General, en el 2015 se alcanzó la Tasa Interna de Retorno (TIR), y desde ese momento se ha cobrado más de $300 mil millones. Esto se ha convertido en un detrimento patrimonial para el Distrito de Cartagena. La TIR es una medición que mide la inversión a valor presente.
+
+## **El alcalde «mató el tigre» y dice que lo tergiversaron** 
+
+El Tractor (desde hace rato le dicen el **Retractor**, porque echa para atrás), fue quien alegremente anunció el acuerdo de las dos partes. Ni los periodistas, ni el Comité Antipeajes tergiversaron el acuerdo. La mitomanía es otro problema mental que tiene el alcalde. El mismo Dau lo anunció oficialmente a través de las redes oficiales de la alcaldía. Si alguien mintió, fue el mismo burgomaestre. Si alguien tergiversó, fue Dau. Aquí están las pruebas de estas mentiras oficiales: https://twitter.com/JulioOrozco1977/status/1360404023711584258?s=20 ¿Quién miente alcalde? Usted es que miente constantemente. ¿Qué dice la Procuraduría General de esta mentira oficial que le causa un daño social incalculable a la ciudad? ¿Será capaz de seguirle un proceso oral?
+
+## La incapacidad de gobernar
+
+/articulos/100042900100559/videos/456372312469435/ El acuerdo pomposamente anunciado por el alcalde Dau en la noche del 10 de febrero como una gran victoria sobre los peajes, pasó a ser un engaño más. Es la costumbre del burgomaestre. **Es un ejemplo más de su incapacidad para gobernar.** No tiene cabeza fría. Pasa zambiloco. Sus decisiones político—administrativas son desaciertos. Todo lo convierte en un grotesco show. **Es incapaz de gobernar en mínimas cosas, como emitir un decreto para liquidar el contrato vial de los peajes.** Esa conducta ilegal y perjudicial para la ciudad, es secundada por un violento comité de aplausos que le cuesta a los cartageneros más de **300 órdenes de servicios (OPS)**. Es decir, **más de mil millones de pesos mensuales** le distribuyen a un grupo de personas que respaldan a William Dau para causar una sensación de masivo apoyo. Esta misma táctica la hacen a través de redes sociales con las bodegas digitales. **El Comité Antipeajes** —compuesto por reconocidos líderes y abogados de la ciudad— se opuso al acuerdo y lo denunció como un atentado a los intereses de los cartageneros. Por esta razón, **a William Dau le dio miedo de firmar el acto administrativo mediante el cual debía protocolizarlo. Reculó. Y ahora dicen que lo tergiversaron.** Por esa razón, en los Envivos de Face le preguntamos a Dau la razón por la cual no lo firmó. Ni un acto administrativo expidió. Fue una tomadura de pelo a la ciudad. Simple show para manipular a la opinión pública y oponerse a la Revocatoria del Mandato.
+
+## Las bases legales del acuerdo
+
+En realidad, **William Dau** sabía que no podía hacer el acuerdo. Él es abogado. Se supone que conoce la ley. Se supone que el Edurbe ejerce la interventoría del contrato, pero el **nuevo gerente Uriel de Arco** expidió una declaración dudosa :
+
+> _«No afirma ni asegura que la Tasa Interna de Retorno de la concesión vial no se ha cumplido ni desestima el informe de la Contraloría General. Todo lo contrario. **Desde de septiembre del 2020** no hemos vuelto a firmar ningún tipo de informe de supervisión del contrat_o».
+
+El Edurbe bajo la administración de William Dau avaló los informes de interventoría del contrato con la Concesión Vial de Cartagena. Los únicos meses que no avaló fueron octubre, noviembre y diciembre del 2020. Por tanto, es la prueba fehaciente que también incurrió en el mismo error de los demás alcaldes al favorecer a terceros para defraudar al Estado. La concesión vial se defiende y señala que el contrato es legal. Su apoderado **Julio José Orozco**, respondió a una pregunta del periodista con un hilo de tuits: https://twitter.com/JulioOrozco1977/status/1360601154187632644?s=20
+
+## **El alcalde «mató el tigre»** **con mentiras**
+
+En un cruce de comunicaciones, el apoderado de la Concesión Vial le solicitó a la alcaldía que expidiera el acto administrativo para protocolizar el acuerdo de la noche del 10 de febrero. Pero Dau hasta ahora no lo ha hecho. Mientras tanto, se presentó algunos problemas con el cumplimiento del acuerdo que comenzó a regir el sábado 13 de febrero. https://twitter.com/JulioOrozco1977/status/1360601853197758466?s=20 https://twitter.com/JulioOrozco1977/status/1360603243542372356?s=20 **Sin duda, el alcalde «mató el tigre y le tuvo miedo a la sangre».** Son las acciones erráticas que viene cometiendo desde el 1 de enero de 2020. En la cuarentena del Covid—19 retrocedió tres veces con el decreto de pico y cedula. Violó el derecho fundamental a la movilidad de miles de cartageneros y la ciudad quedó adormecida. Son errores que cuestan miles de millones de pesos al Distrito y perjudica la confianza que los ciudadanos le tienen al Estado. La confianza de la ciudadanía se desquebrajó con el alcalde. Esta conducta errática demuestra que  es incapaz de gobernar.
+
+#### Te puede interesar:
+
+## [Una «lumpencracia anticorrupción» gobierna a Cartagena](/articulos/una-lumpencracia-anticorrupcion-gobierna-a-cartagena/ "Una «lumpencracia anticorrupción» gobierna a Cartagena")

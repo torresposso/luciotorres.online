@@ -1,0 +1,41 @@
+---
+title: "Visibilicemos la violencia sicológica. Pintémonos de naranja."
+slug: "visibilicemos-la-violencia-sicologica-pintemonos-de-naranja"
+pubDate: "2020-11-24 22:26:23"
+author: "Lucio"
+categories: ["Análisis"]
+
+heroImage: "./hero.jpg"
+---
+
+\[caption id="attachment\_13329" align="aligncenter" width="596"\]![](./hero.jpg) La violencia sicológica es una de las peores violencia, porque **es invisible**. (Melissa Villarreal).\[/caption\] La violencia sicológica tiene efectos desbastadores contra la integridad personal de las mujeres. **Rosa María\*** vivió 13 años en unión libre con **Eduardo\***. De esa unión nacieron dos niñas. Hoy, que tomó la decisión de separarse, siente que durante esa relación **padeció manipulación y violencia sicológica de su pareja**. Fueron 13 años perdidos bajo una de las violencias más sutiles y poco estudiada en Colombia. **¿Cuándo Rosa María se dio cuenta que estaba sufriendo de violencia sicológica?** Ella sintió que su autoestima se había  caído. Se engordó. Se descuidó física y mentalmente. Le costaba sacar adelante sus metas y proyectos. La primera vez que decidió separarse, duró muy poco. Porque él le juró que iba a cambiar su modo de ser. Pero **Eduardo también había sido víctima de violencia sicológica en su niñez**. Violencia ejercida por su propio padre. Luego de un breve lapso de separación, regresaron. Seis meses después, sintió que su decisión fue equivocada. No solo afianzó su violencia sicológica contra ella sino que también generó un proceso de dependencia de las niñas con él. Y las puso en contra de Rosa María. Es decir, que en ese hogar, **fueron tres las víctimas del comportamiento psicopático de su pareja.**
+
+> **¿Por qué hay personas que son capaces —inconsciente o conscientemente— de hacerle daños a personas más cercanas?** En su interior, en su mente, anida cuerpos del dolor que los hacen sufrir. Lo peor, hacen sufrir a las personas más cercanas. Tienen pensamientos profundamente autodestructivos hasta el suicidio. Pero en este proceso, causan daño a las personas que dicen amar. **Lo mejor es alejarse de este tipo de personas que ocupan roles de víctimas y victimarios**.
+
+## La violencia sicológica baja la productividad
+
+[Del 25 de noviembre al 10 de diciembre se inicia una jornada de NO violencia contra la mujer](/articulos/es/what-we-do/ending-violence-against-women/take-action#:~:text=y%20las%20ni%C3%B1as.-,2020,responder%2C%20prevenir%2C%20recopilar!%E2%80%9D). La violencia sicológica contra la mujer es un problema para la sociedad. Un análisis de los resultados de la **Encuesta Nacional de Demografía y Salud de 2005 (ENDS 2005)** elaborada por PROFAMILIA sugiere varios problemas subyacentes. Entre ellos, puede transformarse en una barrera para el desarrollo socioeconómico. Se estimó que cerca del 25% de las mujeres en Colombia experimentó algún tipo de violencia sicológica por parte de su pareja, durante los doce meses anteriores a la realización de la encuesta. Y esto afecta su productividad. Por eso la ONU lanzó una campaña hasta el 2030.
+
+> «La campaña del Secretario General de las Naciones Unidas **ÚNETE de aquí al 2030 para poner fin a la violencia contra las mujeres** (campaña ÚNETE), gestionada por ONU Mujeres. Es un esfuerzo de varios años que tiene como fin prevenir y eliminar la violencia contra las mujeres y las niñas en todo el mundo. Para ello, insta a los gobiernos, la sociedad civil, las organizaciones de mujeres, las y los jóvenes, el sector privado, los medios de comunicación y todo el sistema de las Naciones Unidas a unir fuerzas para afrontar la pandemia mundial de violencia contra las mujeres y las niñas».
+
+## La violencia sicológica
+
+\[caption id="attachment\_13330" align="aligncenter" width="350"\]![](./unite-logo_sp.jpg) Campaña del 25 de noviembre al 10 de diciembre.\[/caption\] Debemos decir que la violencia sicológica **contra las mujeres,** para considerarla como tal, no tiene por qué alcanzar el hostigamiento o la humillación. Esta puede manifestarse como acoso, restricción, humillación, manipulación o aislamiento. Produce **daños emocionales** y perjudica el desarrollo personal. Provoca problemas emocionales y psicológicos muy graves que han llevado a muchas mujeres al suicidio. De acuerdo a la **Encuesta Nacional de Violencia contra las Mujeres** citada, se puede establecer variables de manifestación de violencia psicológica por parte de la pareja. Amenaza de quitarle los hijos, amenaza de quitarle apoyo económico. Pero también manipulación de la voluntad de los hijos con conductas permisivas. Al mismo tiempo, de descrédito hacia la madre para ganarse el favor de sus hijos. Igualmente instrumentalización de los hijos para sus propósitos de manipulación de la pareja. Son muy pocos los estudios sobre la violencia sicológica. La revista de Economía de la Universidad del Rosario  (2011) puso este hecho de manifiesto. El mismo artículo resaltó los resultados de la Encuesta Nacional de Violencia contra las Mujeres. Hoy se evidencia esta carencia.
+
+## El 34% sufren de violencia
+
+Respecto al nivel de educación, se observa que casi el 60% del total de mujeres entrevistadas tienen educación secundaria o técnica. En tanto que las universitarias representan solo el 10%. **Cabe destacar la importante pro- ´** **porción de mujeres que sufrieron violencia en sus hogares: 34%.** En cuanto al estado civil, se encontró que las mujeres en primera unión representan el 82% de las entrevistadas, mientras que las legalmente casadas representan solo la mitad. Según la región del país, la mitad de las entrevistadas reside en la región Caribe y Central. El 50% de ellas tienen esposos o compañeros que son bachilleres o técnicos, y el 11%, esposos con estudios universitarios. La proporción de mujeres con esposos maltratados por sus padres cuando niños es de 32%. Según el nivel de riqueza del hogar, las mujeres en hogares pobres representan el 24%, seguido de aquellas en hogares con un nivel de riqueza medio (23%). Del total de mujeres encuestadas, el 25.3% reportó violencia sicológica en los últimos doce meses cifra que representa casi el doble de las tasas de violencia física reportadas.
+
+## La educación previene la violencia sicológica
+
+La encuesta dice que el porcentaje de mujeres que han sufrido, al menos, un tipo de violencia sicológica disminuye conforme aumenta el nivel de educación  de la mujer. En cuanto al nivel de educación del compañero actual de las entrevistadas, se encontró una diferencia de cinco puntos porcentuales, al comparar las mujeres con esposos universitarios sin reporte de violencia, con aquellas que tuvieron, al menos, un reporte de violencia sicológica en su contra. En este estudio se utiliza la información de la **Encuesta Nacional de Demografía y Salud de 2005 (ENDS 2005)** elaborada por PROFAMILIA, para analizar las variables relacionadas con la violencia sicológica. La ENDS ofrece información valiosa sobre los temas de salud de las mujeres en Colombia. Esta encuesta constituye la mejor fuente de información de violencia de pareja en Colombia, debido a la representatividad de la muestra. **Rosa María se separó de nuevo**. Sintió que se liberó de un yugo que la oprimía. Ahora busca la manera de romper cualquier lazo con su antiguo opresor. Pero la tarea más importante que tiene Rosa María es también lograr la liberación de sus dos hijas. Ellas sufrieron un grado de dependencia con su padre por la conducta permisiva de éste. Conducta que las llevó a manipularlas. También instrumentalizarlas para ejercer la violencia contra Rosa María.
+
+*   _**Los nombres fueron cambiados por obvia razones.**_
+
+#### Te puede interesar
+
+## [«La justicia me desampara», trabajadora de Olímpica](/articulos/la-justicia-me-desampara-trabajadora-de-olimpica/)
+
+## [Virus paralelos: covid y violencia contra la mujer (II)](/articulos/virus-paralelos-covid-y-violencia-contra-la-mujer-ii/)
+
+## [¿Quién mata a las mujeres en Colombia?](/articulos/quien-mata-mujeres-en-colombia/)

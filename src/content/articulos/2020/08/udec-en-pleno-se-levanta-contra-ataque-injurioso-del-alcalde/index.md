@@ -1,0 +1,55 @@
+---
+title: "UdeC en pleno se levanta contra ataque injurioso del alcalde"
+slug: "udec-en-pleno-se-levanta-contra-ataque-injurioso-del-alcalde"
+pubDate: "2020-08-08 00:03:16"
+author: "Lucio"
+categories: ["Análisis","Cartagena","Mi Ciudad"]
+
+heroImage: "./hero.jpg"
+---
+
+\[caption id="attachment\_12293" align="alignnone" width="1280"\]![](./william-malkun.jpg "La UdeC se respeta") El rector delegado **William Malkún Castillejo** y dos funcionarias de su despacho. En el fondo, retratos de los rectores que ha tenido la **UdeC**.\[/caption\] Si en la Universidad de Cartagena (UdeC) existe alguna «rata», no podríamos descalificar un estamento que ha educado a muchas generaciones para la construcción de la República. Por esta razón, la Alma Máter en pleno —como nunca se ha visto— **rechazó categórica y elegantemente las declaraciones injuriosas, irrespetuosas y escatológicas vomitadas por el alcalde de Cartagena William Dau contra esa institución**. Tales declaraciones las hizo el burgomaestre cuando se encontraba entre la espada y la pared por la **elección fraudulenta de su candidato Héctor Consuegra** como contralor distrital. Dau Chamat le echó la culpa de la fraudulenta elección a la [Universidad de Cartagena](/articulos/component/k2/carta-abierta-del-consejo-academico). En realidad, él fue quien indujo al error a los 8 concejales —encabezados por el concejal de la coalición de centroizquierda, **Javier Julio Bejarano**— con el fin de elegir a un inhabilitado para resguardar el tesoro público.
+
+## Cortina de humo para esconder su propia corrupción
+
+**La conducta corrupta del alcalde Dau la quiso esconder con una nube de humo,** declarar que la Universidad de Cartagena es _**«un nido de ratas»**_. Ante esta situación, quizás por decisión del rector delegado, **William Malkún, y no del rector titular Edgar Parra Chacón, ordenó que el primer mandatario no fuera invitado en ninguno de los eventos oficiales de la UdeC.** El viernes 31 de julio todo estaba dispuesto para presentar públicamente el robot que la Fundación Santo Domingo le había donado a la UdeC. El robot permitirá tecnificar el laboratorio **Unimol** con extracción automatizada de RNA en el procesamiento de las pruebas PCR para detectar el covid-19. Ante esta situación, Dau colgó un video en una cuenta de Facebook no oficial de la alcaldía donde dijo:
+
+> _«Vine a la entrega de un robot que va a facilitar las prácticas de pruebas de COVID-19, **que fue gestionado por la Alcaldía**. No me dejan entrar por orden del rector, no soy bienvenido aquí por las palabras de esta mañana, tildando a **las directivas de la Universidad de Cartagena** de ser corruptos, de ser unos malandrines que siempre obran en contra de los intereses del Distrito. **Así que no me retracto**; haga lo que quiera señor rector, **no por eso voy a cambiar mi opinión sobre usted».**_
+
+Tres mentiras dijo Dau en 30 segundos de video. **(I)** No es cierto que la gestión la haya hecho la alcaldía para adquirir el robot del laboratorio. **La gestión la hizo la rectoría delegada** de la UdeC encabezada por **William Malkún**, de acuerdo a las evidencias que tiene [voxpopuli.digital](/articulos/). **(II)** La orden de impedir la entrada del alcalde a esos eventos no la dio el rector **Edgar Parra Chacón**. La dio su tocayo Malkún. **(III**) Las declaraciones de Dau Chamat fue contra el conjunto de la Universidad.
+
+## Ética colectiva en la UdeC
+
+\[caption id="attachment\_12294" align="alignnone" width="2048"\]![](./hero.jpg) **La foto donde excluyeron a William Dau por su vocabulario escatológico.** Aparece el gobernador, **Vicente Blel Escaff**, el rector delegado **William Malkún Castillejo**, el decano de medicina **Fredys Pomares**, **Larry Laza** de la Secretaría de Bolívar, **Johana Bueno** directora del Dadis y el representante de la Fundación Santo Domingo. Cortesía.\[/caption\] Todos los estamentos de la Alma Máter se unieron. El pasado 3 de agosto se reunieron en pleno y redactaron la declaración denominada (Clic para leerla) **«CARTA ABIERTA CONSEJO ACADÉMICO» (documento no disponible)** firmada por todos, sin excepción. La firmaron decanos, vicerrectores, rector delegado, representantes de egresados y docentes. No faltó ninguno. La declaración del Consejo Académico rechaza la irrespetuosa conducta:
+
+> _«Expresa su rechazo a las declaraciones ya conocidas por todos del alcalde **WilliamDau Chamat**, que degradan el nombre de nuestra institución. Lamentamos que, con **expresiones ofensivas de la dignidad institucional,** se desconozcan los valiosos aportes de nuestra Alma Máter a la edificación de la historia,la cultura, la academia y el desarrollo de nuestra ciudad y nuestra región_». (Subrayado por el periodista).
+
+Desde una perspectiva de la ética colectiva y con una visión discursiva—ontológica, el Consejo Académico y Directivo consideró que la trayectoria de la UdeC se construyó con el **_«_reconocimiento de la dignidad del otro (,) el limite irrebasable en el que se deben desarrollar el diálogo y la deliberación»**. Los representantes de los estamentos universitarios añoraron las virtudes que un líder debe tener para producir los verdaderos cambios:
+
+> **_«_**Sus desafortunadas expresiones **nos hacen echar de menos las virtudes que debe tener un líder para promover verdaderos cambios** hacia una cultura democrática y más incluyente**»**.
+
+## Apoyo al rector de la UdeC
+
+**Frente a la réplica escatológica y patológica de William Dau Chamat contra el rector de la UdeC, Edgar Parra Chacón,** los representantes de los diferentes estamentos fueron categóricos en rechazarla.
+
+> _**«**Rechazamos el señalamiento directo que hizo al señor rector, doctor Edgar Parra Chacon, a quien todos conocemos y de quien valoramos su actuar profesional, humano, ético y comprometido, con una trayectoria de más de 40 años al servicio de la educación pública y de nuestra institución. Las palabras del alcalde Dau Chamat se reciben como un ataque al trabajo de los directivos de la Universidad, quienes, con responsabilidad y gran esfuerzo, cumplimos con la prestación del servicio educativo. Creemos firmemente que el papel de los líderes no debe eje_rcerse replicando los rasgos de violencia verbal que ocasionan daño en las esferas privada y pública**»**.
+
+## «Una rata inmunda»
+
+El alcalde William Dau cometió un acto de corrupción al **comprar a $49 mil el litro de gel glicerado**, según las especificaciones del Invima. En tanto si se lo hubiese comprado a la UdeC que vende el litro a **$26 mil** no estaría ad portas que lo metan a la cárcel, como seguramente sucederá. **¿Dónde se encuentra la «rata inmunda»?** ¿En la UdeC o en la alcaldía? Por su frutos los conoceréis, dijo alguna vez Mateo. Y antes había dicho:
+
+> _«Guardaos de los falsos profetas, que vienen a vosotros con vestidos de ovejas, pero **por dentro son lobos rapaces**_».
+
+En otras palabras, cuídate de los falsos salvadores de la corrupción, **que por su práctica, son unas «ratas inmundas»**. Por ejemplo, los que compraron el **gel a $49 mil** y mascarilla **N95 a $19.500**; pruebas rápidas que nunca entregaron **a $75.000**, el doble de lo que le cuesta a las Eps. Si Dau hizo esos contratos insostenibles éticamente, a sus secretarios **no los podríamos tratar de «ratas inmundas»**. De la misma manera, si alguien ha estado incurso en delitos de corrupción en la UdeC, **el vómito escatológico que hizo el alcalde es injusto contra la dignidad de estudiantes**, docentes, trabajadores, coordinadores académicos, científicos y personal administrativo. Éstos luchan cada día por mejorar la **calidad y la cobertura de una educación superior.** Sabemos  que en los últimos años la educación se ha venido a menos por las políticas públicas de corte neoclásica del gobierno central que pretende privatizarla.
+
+## Nuestra UdeC
+
+Como periodista anticorrupción hemos escudriñado muchas instituciones públicas y privadas, laicas y religiosas. **Pero no sería capaz de decir que por un mango podrido, toda la caja esté dañada**. La Universidad de Cartagena, como muchas universidades públicas o privadas, presenta episodios de corrupción administrativa. Pero no podemos generalizar ni basarnos en supuestos. Las autoridades deben partir de hechos concretos para pronunciarse. La anticorrupción no consiste en acusar a todo el mundo de corrupto sino de administrar nuestros recursos idónea y transparentemente. El alcalde y algunos de sus secretarios no lo han hecho. Un caso concreto que analizamos de corrupción universitaria fue la administración de la Universidad del Atlántico. Con nuestras investigaciones aportamos un granito para que saliera el rector **Carlos Prasca** por su conducta corrupta. Así se hace un periodismo Anticorrupción, individualiza la conducta. No la generaliza. Y si la forma como presentamos nuestros escritos parece hiriente, es porque aplicamos la semiótica.  \[A [Prasca, recto(r) de UA, le gusta el «chiquito» y es rey de burla de las redes sociales. Piden su destitución ¡ya!\]](/articulos/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/) **William Dau, como estaba entre la espada y la pared**, lanzó una **_cortina de humo_** a costa de la dignidad colectiva de la UdeC. Es nuestra Alma Máter, que pese a que haya algunas **«ratas»**, no podemos decir que es **«un nido de ratas»**. Pero Dau lo hizo porque no es digno del cargo que ocupa y confirma la equivocación de aquellos que votaron por un «**remedio que fue peor que la enfermedad»: la corrupción.** Si yo fuera rector de la UdeC, Dau no pisaría ni el anden de los predios de nuestra Alma Máter.
+
+#### Te puede interesar:
+
+[¿Quién es el ladrón? Sobrecostos de Dau: Gel antiséptico 300%; Mascarillas 200%](/articulos/quien-es-el-ladron-sobrecostos-de-dau-gel-antiseptico-300-mascarilla-a-19-5-mil-200/) [Dau con Veneplast se estarían robando 1,500 ayudas humanitarias del Covid-19](/articulos/con-sobrecosto-del-40-dau-le-compra-a-veneplast-ayudas-humanitarias-del-covid-19/) [David Múnera de «Dr. No» pasó a ser «Dr Mudo». Los 60 días de Dau (II)](/articulos/david-munera-de-dr-no-paso-a-ser-dr-mudo-los-60-dias-de-dau-ii/) [A Prasca, recto(r) de UA, le gusta el «chiquito» y es rey de burla de las redes sociales. Piden su destitución ¡ya](/articulos/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/)
+
+ [0](/articulos/prasca-un-rector-chiquito-para-una-universidad-grande-los-char-y-verano-lo-mantienen-en-el-cargo/#respond)
+
+[Prasca, un rector chiquito para una universidad grande. Los Char y Verano lo mantienen en el cargo.](/articulos/prasca-un-rector-chiquito-para-una-universidad-grande-los-char-y-verano-lo-mantienen-en-el-cargo/)

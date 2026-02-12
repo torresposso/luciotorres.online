@@ -1,0 +1,31 @@
+---
+title: "EPA liquida contrato del marido de la Procuradora (III)"
+slug: "epa-liquida-contrato-del-marido-de-la-procuradora-iii"
+pubDate: "2020-05-09 22:57:20"
+author: "Lucio"
+categories: ["Análisis"]
+
+heroImage: "./hero.jpg"
+---
+
+\[caption id="attachment\_11695" align="aligncenter" width="537"\]![](./hero.jpg) Como el Retractor, Javier Mouthon, director del EPA, _dio la reculada del ovejo_. Tuiter.\[/caption\] El director del EPA, **Javier Mouthon Bello**, no tuvo otra salida legal que **deshacerse del incómodo contrato No 30** de prestación de servicios con el arquitecto **Orlando Ortiz Llanos**. Entre tanto, la procuradora **Agraria y Ambiental Mayelis Chamorro Ruiz,** pareja de Ortiz**,**, instauró una **tutela contra el periodista** aduciendo la defensa del buen nombre, supuestamente violentado con la primera entrega de «patente de corso».
+
+## EPA y la patente de corso
+
+Como lo habíamos informado, el 10 de febrero el EPA suscribió una OPS con Ortíz Llanos por la suma de $43.200.000, cuyo objeto social era realizar una asesoría general al director de la entidad. En la segunda entrega de esta serie se estimó que **el contrato del Epa es de tipo corsario**. Le daría licencia al director de la entidad, **Javier Mouthon**, para que no sea objeto de control disciplinario en lo tocante a su misión ambiental urbana. En ese análisis —publicado el pasado 29 de abril— señalamos que esta conducta es ilegal y puede tener riesgos de corrupción. Tal conducta —dentro del derecho disciplinario— se encuentra estatuido en el artículo 40 del Código Único Disciplinario (CUD) –Ley 734 de 2002– y el artículo 11 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo –Ley 1437 de 2011. El caso se presenta cuando existe un **choque del interés particular del funcionario y el interés general** de la administración pública. Por esa razón, dichos comportamientos _**«pueden constituir en un riesgo de corrupción y si se materializa, se incurrirá en actuaciones fraudulentas o corruptas»**, dice la citada norma_.
+
+## Liquidación del contrato
+
+La liquidación del contrato fue subida al Secop el pasado 8 de mayo del 2020. Fue una decisión de mutuo acuerdo con el contratista Ortiz Llanos, quien adujo razones personales para no continuar prestando sus servicios profesionales al EPA. En términos jurídicos y contractuales, es una terminación bilateral. Es decir, que el marido de la procuradora se acogió a la cláusula vigésima sexta que indica, entre otras cosas, que cualquiera de las partes puede solicitar la terminación anticipada del contrato cuando lo considere necesario. El arquitecto Ortiz manifestó **«razones personales»** para no continuar con el compromiso. La terminación anticipada del contrato y, en consecuencia, su liquidación, **indicaría que no eran infundadas las pruebas y argumentos** que adujimos para decir que dicho contrato podría ser una patente de corso. El trabajo periodístico estuvo bien documentado y argumentado jurídicamente. El hecho de que el marido de la procuradora solicitara su terminación anticipada y que el director del EPA procediera a aceptarla, ¿fue infundada? Sin duda, entraron en razón. El contrato era un conflicto de intereses que _puyaba_ los ojos.
+
+## La tutela pretende intimidar
+
+Como se puede ver, nos referimos a hechos concretos: contratos, estudios de conveniencia y a lo que dice la ley. Pero la procuradora Agraria y Ambiental, Mayelis Chamorro, **la tomó contra ella**. ¿Quién incurrió en conflicto de intereses? Nosotros la mencionamos en la investigación como referencia para decir que su marido debió presentar esa incompatibilidad en el momento de la declaración jurada. Como dijera David Sánchez Juliao, **«¡Señora Tulia no es con usted!»**. Pero ¿por qué adoptó esa postura defensiva? Más bien, la posición de la procuradora fue ofensiva contra el periodismo libre, independientes y de investigación. Es una forma de intimidación para que el periodismo se amedrente y retroceda en su búsqueda de la verdad y el ejercicio del control social. En la tutela, Chamorro se refirió a 8 hechos, 7 de los cuales perteneció a una tutela pasada que no pude responder. Esto llevó a la procuradora a solicitar un incidente de desacato con el fin de buscar una retractación de parte del periodista. **El poder de la procuradora no podrá intimidar al periodista pero sí puede suceder con el poder judicial.** Aquí reside la clave de abrogarse una pelea que no es con ella.
+
+## Yo con yo
+
+No obstante, la procuradora con esta actitud pendenciera, en vez de ayudar a su marido, lo que hace es agravarla. Y, por demás, **pone en peligro su cargo**. **¿Por qué la procuradora corre un riesgo innecesario?** Si ella da una confrontación, que la debiera dar su marido, quiere decir que sus intereses se prolongan con los intereses de aquél. Dicho de un modo bacano: es una relación de «**yo con yo»**. ¿Conflicto de intereses en el EPA? Ella (la procuradora) se prolonga en su marido Ortiz. Éste se prolonga en ella. Los dos son uno, y uno son los dos. ¿Me expliqué? La tutela es un ejemplo de que ella se toma lo que le pertenece a su marido. Por eso, **su conducta es temeraria cuando de los 8 hechos que aduce en su tutela, 7 son de una tutela pasada**. Como víctima de su conducta temeraria la podría denunciar y allí se le acabaría su poder como procuradora. Pero no lo voy a hacer. ¿Muerto el perro se acabaron las pulgas en el EPA? No. Si hubo terminación anticipada y liquidación de contrato ¿terminaron las consecuencias disciplinarias? Lo dudo. La Procuraduría General y la Veeduría de la Procuraduría deberán referirse a esta conducta de acoso judicial contra el periodismo de la cual hemos sido víctima.
+
+## [¿EPA compró patente de corso ambiental?](/articulos/epa-compro-patente-de-corso/)
+
+## [¿Conflicto de intereses en el Epa? (Patente de corso II)](/articulos/conflicto-de-intereses-en-el-epa-patente-de-corso-ii/ "¿Conflicto de intereses en el Epa? (Patente de corso II)")

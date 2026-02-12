@@ -1,0 +1,25 @@
+{
+  "name": "luciotorres.online",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "bun": "latest"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "start": "bun x serve dist -p ${PORT:-8080}",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.3.13",
+    "@astrojs/rss": "^4.0.15",
+    "@astrojs/sitemap": "^3.7.0",
+    "astro": "^5.17.1",
+    "sharp": "^0.34.3"
+  },
+  "devDependencies": {
+    "glob": "^13.0.2"
+  }
+}

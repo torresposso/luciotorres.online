@@ -1,0 +1,145 @@
+---
+/** Pagination Component */
+/**
+ * Props:
+ *  - page: Astro pagination Page object (contains url.prev, url.next, currentPage, lastPage, etc.)
+ *  - urlPattern (optional): pattern string used to build page URLs (defaults to Astro's pagination pattern)
+ */
+
+// @ts-ignore: ignore Astro typing for simplicity
+import type { Page } from "astro";
+
+// Extract props from Astro (using any to avoid type errors)
+const page: any = Astro.props.page;
+const urlPattern: any = Astro.props.urlPattern;
+
+/** Helper to build a URL for a given page number */
+function buildUrl(pageNumber: number): string {
+  if (urlPattern) {
+    // Replace placeholder `{}` with the page number (empty for first page)
+    return pageNumber === 1 ? urlPattern.replace("{}", "") : urlPattern.replace("{}", pageNumber.toString());
+  }
+  // Fallback: use Astro's prev/next URLs as a template when possible
+  if (pageNumber === page.currentPage) return "#";
+  if (pageNumber < page.currentPage && page.url.prev) {
+    return page.url.prev.replace(/\d+(?=\/?$)/, pageNumber.toString());
+  }
+  if (pageNumber > page.currentPage && page.url.next) {
+    return page.url.next.replace(/\d+(?=\/?$)/, pageNumber.toString());
+  }
+  // As a last resort, point to the first page with the pattern or #
+  return urlPattern ? urlPattern.replace("{}", pageNumber === 1 ? "" : pageNumber.toString()) : "#";
+}
+
+/** Compute the list of page numbers (including ellipsis) to display */
+function getPageNumbers(windowSize = 5): (number | "...")[] {
+  const total = page.lastPage;
+  const current = page.currentPage;
+  const half = Math.floor(windowSize / 2);
+  let start = Math.max(1, current - half);
+  let end = Math.min(total, current + half);
+
+  // If we are near the start, extend the end range
+  if (current - half < 1) {
+    end = Math.min(total, end + (half - current + 1));
+  }
+  // If we are near the end, shift the start range left
+  if (current + half > total) {
+    start = Math.max(1, start - (current + half - total));
+  }
+
+  const pages: number[] = [];
+  for (let i = start; i <= end; i++) pages.push(i);
+
+  const result: (number | "...")[] = [];
+  if (pages[0] > 1) {
+    result.push(1);
+    if (pages[0] > 2) result.push("...");
+  }
+  result.push(...pages);
+  if (pages[pages.length - 1] < total) {
+    if (pages[pages.length - 1] < total - 1) result.push("...");
+    result.push(total);
+  }
+  return result;
+}
+
+const pageNumbers = getPageNumbers();
+
+console.log("[Pagination Debug] page.currentPage:", page?.currentPage);
+console.log("[Pagination Debug] page.lastPage:", page?.lastPage);
+console.log("[Pagination Debug] page.url.prev:", page?.url?.prev);
+console.log("[Pagination Debug] page.url.next:", page?.url?.next);
+console.log("[Pagination Debug] pageNumbers:", pageNumbers);
+
+// Fallback: if pageNumbers is empty or page is undefined, show a simple pagination
+if (!pageNumbers || pageNumbers.length === 0) {
+  console.warn("[Pagination] pageNumbers is empty, page might be undefined");
+}
+
+---
+<style>
+  .pagination {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    padding: 1rem;
+    border-top: 1px solid rgb(var(--gray-light));
+  }
+  .pagination a,
+  .pagination span {
+    padding: 0.4rem 0.8rem;
+    border-radius: 0.4rem;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .pagination a {
+    background: var(--accent);
+    color: #fff;
+  }
+  .pagination a:hover {
+    background: var(--accent-dark);
+  }
+  .pagination .current {
+    background: transparent;
+    color: rgb(var(--black));
+    cursor: default;
+  }
+  .pagination .disabled {
+    color: rgb(var(--gray));
+    background: #f0f0f0;
+    cursor: not-allowed;
+  }
+  @media (max-width: 720px) {
+    .pagination { flex-direction: column; }
+  }
+</style>
+
+<nav class="pagination" aria-label="Pagination">
+  {page.url.prev ? (
+    <a href={page.url.prev} rel="prev">← Anterior</a>
+  ) : (
+    <span class="disabled">← Anterior</span>
+  )}
+
+  {pageNumbers.map((p) =>
+    typeof p === "number" ? (
+      p === page.currentPage ? (
+        <span class="current" aria-current="page">{p}</span>
+      ) : (
+        <a href={buildUrl(p)}>{p}</a>
+      )
+    ) : (
+      <span class="disabled">…</span>
+    )
+  )}
+
+  {page.url.next ? (
+    <a href={page.url.next} rel="next">Siguiente →</a>
+  ) : (
+    <span class="disabled">Siguiente →</span>
+  )}
+</nav>
