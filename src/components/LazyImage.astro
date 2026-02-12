@@ -1,4 +1,6 @@
 ---
+import FallbackImage from "../assets/blog-placeholder-1.jpg";
+
 interface Props {
   src: any;
   alt: string;
@@ -11,7 +13,12 @@ interface Props {
 
 const { src, alt, width, height, class: className, priority = false, aspectRatio = "16/9" } = Astro.props;
 
-const imgSrc = typeof src === 'string' ? src : src?.src;
+// Use fallback if src is undefined or invalid
+let imgSrc = typeof src === 'string' ? src : src?.src;
+if (!imgSrc || imgSrc.includes('undefined')) {
+  imgSrc = FallbackImage;
+}
+
 const imgWidth = width || (typeof src === 'object' ? src?.width : undefined);
 const imgHeight = height || (typeof src === 'object' ? src?.height : undefined);
 ---

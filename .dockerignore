@@ -29,13 +29,16 @@ cache/
 .DS_Store
 Thumbs.db
 
-# Content images (will be fetched from existing site or CDN)
+# Content images - will be served from Railway Bucket
+# Keep only markdown files and small assets
 src/content/articulos/**/hero.jpg
 src/content/articulos/**/*.jpg
 src/content/articulos/**/*.jpeg
 src/content/articulos/**/*.png
 src/content/articulos/**/*.webp
 src/content/articulos/**/*.gif
+
+# Keep placeholder for fallback
 !src/content/articulos/**/placeholder.jpg
 
 # Scripts not needed in production
@@ -47,10 +50,3 @@ README.md
 # Package locks
 package-lock.json
 yarn.lock
-bun.lock
-
-# Tests
-*.test.js
-*.test.ts
-*.spec.js
-*.spec.ts
