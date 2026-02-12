@@ -1,0 +1,144 @@
+---
+interface Props {
+    title: string;
+    url?: string;
+}
+
+const { title, url } = Astro.props;
+---
+
+<aside
+    class="share-buttons"
+    x-data="{ copied: false }"
+    aria-label="Compartir artículo"
+>
+    <a
+        :href="`https://twitter.com/intent/tweet?text=${encodeURIComponent(document.title)}&url=${encodeURIComponent(window.location.href)}`"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Compartir en X (Twitter)"
+        class="share-btn"
+    >
+        <svg
+            viewBox="0 0 24 24"
+            width="20"
+            height="20"
+            fill="currentColor"
+            aria-hidden="true"
+        >
+            <path
+                d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
+            ></path>
+        </svg>
+    </a>
+
+    <a
+        :href="`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(window.location.href)}`"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Compartir en Facebook"
+        class="share-btn"
+    >
+        <svg
+            viewBox="0 0 24 24"
+            width="20"
+            height="20"
+            fill="currentColor"
+            aria-hidden="true"
+        >
+            <path
+                d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 1.09.044 1.613.115v3.146c-.427-.044-.72-.065-.82-.065-1.199 0-1.683.45-1.683 1.623v2.74h3.334l-.544 3.666h-2.79v7.98C19.396 22.759 24 17.928 24 12c0-6.627-5.373-12-12-12S0 5.373 0 12c0 5.628 3.874 10.35 9.101 11.691z"
+            ></path>
+        </svg>
+    </a>
+
+    <button
+        x-on:click="
+      navigator.clipboard.writeText(window.location.href);
+      copied = true;
+      setTimeout(() => copied = false, 2000);
+    "
+        :aria-label="copied ? 'Enlace copiado' : 'Copiar enlace'"
+        class="share-btn"
+        :class="{ 'share-btn--copied': copied }"
+    >
+        <svg
+            x-show="!copied"
+            viewBox="0 0 24 24"
+            width="20"
+            height="20"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            aria-hidden="true"
+        >
+            <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+            <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"
+            ></path>
+        </svg>
+        <svg
+            x-show="copied"
+            x-cloak
+            viewBox="0 0 24 24"
+            width="20"
+            height="20"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            aria-hidden="true"
+        >
+            <polyline points="20 6 9 17 4 12"></polyline>
+        </svg>
+    </button>
+</aside>
+
+<style>
+    .share-buttons {
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+    }
+
+    /* Desktop: vertical floating sidebar */
+    @media (min-width: 1100px) {
+        .share-buttons {
+            position: fixed;
+            left: max(1.5rem, calc((100vw - 720px) / 2 - 5rem));
+            top: 50%;
+            transform: translateY(-50%);
+            flex-direction: column;
+            z-index: 50;
+        }
+    }
+
+    .share-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 44px;
+        height: 44px;
+        border-radius: 50%;
+        background: var(--editorial-surface);
+        color: var(--editorial-secondary);
+        border: 1px solid var(--editorial-border);
+        cursor: pointer;
+        transition: all 0.2s ease;
+        text-decoration: none;
+    }
+    .share-btn:hover {
+        background: var(--editorial-primary);
+        color: #fff;
+        border-color: var(--editorial-primary);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(24, 24, 27, 0.15);
+    }
+    .share-btn--copied {
+        background: var(--editorial-accent) !important;
+        color: #fff !important;
+        border-color: var(--editorial-accent) !important;
+    }
+
+    [x-cloak] {
+        display: none !important;
+    }
+</style>

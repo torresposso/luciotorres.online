@@ -1,25 +1,16 @@
 ---
-/** Pagination Component */
-/**
- * Props:
- *  - page: Astro pagination Page object (contains url.prev, url.next, currentPage, lastPage, etc.)
- *  - urlPattern (optional): pattern string used to build page URLs (defaults to Astro's pagination pattern)
- */
+/** Pagination Component — Design C Aesthetic */
 
-// @ts-ignore: ignore Astro typing for simplicity
-import type { Page } from "astro";
-
-// Extract props from Astro (using any to avoid type errors)
 const page: any = Astro.props.page;
 const urlPattern: any = Astro.props.urlPattern;
 
 /** Helper to build a URL for a given page number */
 function buildUrl(pageNumber: number): string {
   if (urlPattern) {
-    // Replace placeholder `{}` with the page number (empty for first page)
-    return pageNumber === 1 ? urlPattern.replace("{}", "") : urlPattern.replace("{}", pageNumber.toString());
+    return pageNumber === 1
+      ? urlPattern.replace("{}", "")
+      : urlPattern.replace("{}", pageNumber.toString());
   }
-  // Fallback: use Astro's prev/next URLs as a template when possible
   if (pageNumber === page.currentPage) return "#";
   if (pageNumber < page.currentPage && page.url.prev) {
     return page.url.prev.replace(/\d+(?=\/?$)/, pageNumber.toString());
@@ -27,8 +18,9 @@ function buildUrl(pageNumber: number): string {
   if (pageNumber > page.currentPage && page.url.next) {
     return page.url.next.replace(/\d+(?=\/?$)/, pageNumber.toString());
   }
-  // As a last resort, point to the first page with the pattern or #
-  return urlPattern ? urlPattern.replace("{}", pageNumber === 1 ? "" : pageNumber.toString()) : "#";
+  return urlPattern
+    ? urlPattern.replace("{}", pageNumber === 1 ? "" : pageNumber.toString())
+    : "#";
 }
 
 /** Compute the list of page numbers (including ellipsis) to display */
@@ -39,11 +31,9 @@ function getPageNumbers(windowSize = 5): (number | "...")[] {
   let start = Math.max(1, current - half);
   let end = Math.min(total, current + half);
 
-  // If we are near the start, extend the end range
   if (current - half < 1) {
     end = Math.min(total, end + (half - current + 1));
   }
-  // If we are near the end, shift the start range left
   if (current + half > total) {
     start = Math.max(1, start - (current + half - total));
   }
@@ -65,70 +55,201 @@ function getPageNumbers(windowSize = 5): (number | "...")[] {
 }
 
 const pageNumbers = getPageNumbers();
-
 ---
-<style>
-  .pagination {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    justify-content: center;
-    align-items: center;
-    margin-top: 2rem;
-    padding: 1rem;
-    border-top: 1px solid rgb(var(--gray-light));
-  }
-  .pagination a,
-  .pagination span {
-    padding: 0.4rem 0.8rem;
-    border-radius: 0.4rem;
-    text-decoration: none;
-    font-weight: 600;
-  }
-  .pagination a {
-    background: var(--accent);
-    color: #fff;
-  }
-  .pagination a:hover {
-    background: var(--accent-dark);
-  }
-  .pagination .current {
-    background: transparent;
-    color: rgb(var(--black));
-    cursor: default;
-  }
-  .pagination .disabled {
-    color: rgb(var(--gray));
-    background: #f0f0f0;
-    cursor: not-allowed;
-  }
-  @media (max-width: 720px) {
-    .pagination { flex-direction: column; }
-  }
-</style>
 
 <nav class="pagination" aria-label="Pagination">
-  {page.url.prev ? (
-    <a href={page.url.prev} rel="prev">← Anterior</a>
-  ) : (
-    <span class="disabled">← Anterior</span>
-  )}
-
-  {pageNumbers.map((p) =>
-    typeof p === "number" ? (
-      p === page.currentPage ? (
-        <span class="current" aria-current="page">{p}</span>
+  <div class="pagination-inner">
+    {
+      page.url.prev ? (
+        <a href={page.url.prev} class="nav-btn prev" rel="prev">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="m15 18-6-6 6-6" />
+          </svg>
+          <span>Anterior</span>
+        </a>
       ) : (
-        <a href={buildUrl(p)}>{p}</a>
+        <span class="nav-btn disabled prev">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="m15 18-6-6 6-6" />
+          </svg>
+          <span>Anterior</span>
+        </span>
       )
-    ) : (
-      <span class="disabled">…</span>
-    )
-  )}
+    }
 
-  {page.url.next ? (
-    <a href={page.url.next} rel="next">Siguiente →</a>
-  ) : (
-    <span class="disabled">Siguiente →</span>
-  )}
+    <div class="page-numbers">
+      {
+        pageNumbers.map((p) =>
+          typeof p === "number" ? (
+            p === page.currentPage ? (
+              <span class="page-num current" aria-current="page">
+                {p}
+              </span>
+            ) : (
+              <a href={buildUrl(p)} class="page-num">
+                {p}
+              </a>
+            )
+          ) : (
+            <span class="ellipsis">…</span>
+          ),
+        )
+      }
+    </div>
+
+    {
+      page.url.next ? (
+        <a href={page.url.next} class="nav-btn next" rel="next">
+          <span>Siguiente</span>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="m9 18 6-6-6-6" />
+          </svg>
+        </a>
+      ) : (
+        <span class="nav-btn disabled next">
+          <span>Siguiente</span>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="m9 18 6-6-6-6" />
+          </svg>
+        </span>
+      )
+    }
+  </div>
 </nav>
+
+<style>
+  .pagination {
+    margin: 4rem 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .pagination-inner {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background: var(--surface);
+    padding: 0.5rem;
+    border-radius: 60px;
+    border: 1px solid var(--border);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+  }
+
+  .nav-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 1.25rem;
+    border-radius: 50px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--text-sec);
+    transition: all 0.2s;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .nav-btn:not(.disabled):hover {
+    background: var(--colombia-y);
+    color: var(--text);
+  }
+
+  .nav-btn.disabled {
+    color: var(--text-subtle);
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+
+  .page-numbers {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .page-num {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--text-sec);
+    transition: all 0.2s;
+  }
+
+  .page-num.current {
+    background: var(--colombia-gold);
+    color: var(--text);
+  }
+
+  .page-num:not(.current):hover {
+    background: rgba(245, 158, 11, 0.1);
+    color: var(--colombia-gold);
+  }
+
+  .ellipsis {
+    color: var(--text-subtle);
+    padding: 0 0.25rem;
+  }
+
+  @media (max-width: 640px) {
+    .page-numbers {
+      display: none;
+    }
+    .pagination-inner {
+      gap: 0.5rem;
+      width: 100%;
+      justify-content: space-between;
+    }
+    .nav-btn span {
+      display: none;
+    }
+    .nav-btn {
+      padding: 0.6rem;
+    }
+  }
+</style>

@@ -1,0 +1,41 @@
+<!-- Reading Progress Bar — Alpine.js powered -->
+<div
+    x-data="{ progress: 0 }"
+    x-on:scroll.window.throttle.50ms="
+    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    progress = docHeight > 0 ? Math.min((window.scrollY / docHeight) * 100, 100) : 0;
+  "
+    class="reading-progress"
+    role="progressbar"
+    :aria-valuenow="Math.round(progress)"
+    aria-valuemin="0"
+    aria-valuemax="100"
+    aria-label="Progreso de lectura"
+>
+    <div class="reading-progress__bar" :style="`width: ${progress}%`"></div>
+</div>
+
+<style>
+    .reading-progress {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 3px;
+        z-index: 9999;
+        background: transparent;
+        pointer-events: none;
+    }
+    .reading-progress__bar {
+        height: 100%;
+        background: linear-gradient(90deg, var(--editorial-accent), #f472b6);
+        transition: width 0.15s ease-out;
+        will-change: width;
+        border-radius: 0 2px 2px 0;
+    }
+    @media (prefers-reduced-motion: reduce) {
+        .reading-progress__bar {
+            transition: none;
+        }
+    }
+</style>

@@ -2,14 +2,104 @@
 const today = new Date();
 ---
 
-<footer>
-	&copy; {today.getFullYear()} Lucio Torres. Todos los derechos reservados.
+<footer class="site-footer">
+	<div class="footer-inner">
+		<div class="footer-flag">
+			<span class="flag-bar flag-y"></span>
+			<span class="flag-bar flag-b"></span>
+			<span class="flag-bar flag-r"></span>
+		</div>
+		<div class="footer-content">
+			<p class="footer-name">Lucio Torres</p>
+			<p class="footer-tagline">Periodista · Defensor del Pueblo</p>
+			<div class="footer-links">
+				<a href="/">Inicio</a>
+				<a href="/articulos">Artículos</a>
+				<a href="/about">Acerca</a>
+			</div>
+			<p class="footer-copy">
+				&copy; {today.getFullYear()} Lucio Torres. Todos los derechos reservados.
+			</p>
+		</div>
+	</div>
 </footer>
+
 <style>
-	footer {
-		padding: 2em 1em 6em 1em;
-		background: linear-gradient(var(--gray-gradient)) no-repeat;
-		color: rgb(var(--gray));
+	.site-footer {
+		background: #060a11;
+		color: rgba(255, 255, 255, 0.4);
+		padding: 4rem 1.5rem;
+		border-top: 1px solid rgba(255, 255, 255, 0.05);
+	}
+
+	.footer-inner {
+		max-width: 1200px;
+		margin: 0 auto;
 		text-align: center;
+	}
+
+	.footer-flag {
+		display: flex;
+		justify-content: center;
+		gap: 0.5rem;
+		margin-bottom: 2rem;
+	}
+
+	.flag-bar {
+		width: 32px;
+		height: 3px;
+		border-radius: 2px;
+	}
+	.flag-y {
+		background: var(--colombia-y);
+	}
+	.flag-b {
+		background: var(--colombia-b);
+	}
+	.flag-r {
+		background: var(--colombia-r);
+	}
+
+	.footer-name {
+		font-family: var(--font-heading);
+		font-size: 1.5rem;
+		color: rgba(255, 255, 255, 0.9);
+		margin-bottom: 0.25rem;
+	}
+
+	.footer-tagline {
+		font-family: var(--font-body);
+		font-size: 0.85rem;
+		letter-spacing: 0.05em;
+		text-transform: uppercase;
+		margin-bottom: 2rem;
+	}
+
+	.footer-links {
+		display: flex;
+		justify-content: center;
+		gap: 2rem;
+		margin-bottom: 2.5rem;
+	}
+
+	.footer-links a {
+		font-family: var(--font-body);
+		font-size: 0.9rem;
+		font-weight: 500;
+		color: rgba(255, 255, 255, 0.5);
+		text-decoration: none;
+		transition: color 0.2s;
+	}
+
+	.footer-links a:hover {
+		color: var(--colombia-y);
+	}
+
+	.footer-copy {
+		font-family: var(--font-body);
+		font-size: 0.75rem;
+		color: rgba(255, 255, 255, 0.2);
+		border-top: 1px solid rgba(255, 255, 255, 0.05);
+		padding-top: 2rem;
 	}
 </style>

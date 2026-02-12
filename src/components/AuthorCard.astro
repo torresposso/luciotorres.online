@@ -1,0 +1,61 @@
+---
+interface Props {
+    author?: string;
+}
+
+const { author = "Lucio Torres" } = Astro.props;
+---
+
+<div class="author-card">
+    <div class="author-card__avatar">
+        <span>{author.charAt(0)}</span>
+    </div>
+    <div class="author-card__info">
+        <p class="author-card__name">{author}</p>
+        <p class="author-card__tagline">Periodista investigativo · Colombia</p>
+    </div>
+</div>
+
+<style>
+    .author-card {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        padding: 1.5rem;
+        margin: 3rem 0 1rem;
+        background: var(--editorial-surface);
+        border: 1px solid var(--editorial-border);
+        border-radius: 12px;
+    }
+    .author-card__avatar {
+        width: 52px;
+        height: 52px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, var(--editorial-accent), #f472b6);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: var(--font-heading);
+        font-size: 1.4rem;
+        font-weight: 700;
+        color: #fff;
+        flex-shrink: 0;
+    }
+    .author-card__info {
+        display: flex;
+        flex-direction: column;
+        gap: 0.15rem;
+    }
+    .author-card__name {
+        margin: 0;
+        font-family: var(--font-heading);
+        font-weight: 600;
+        font-size: 1.05rem;
+        color: var(--editorial-primary);
+    }
+    .author-card__tagline {
+        margin: 0;
+        font-size: 0.85rem;
+        color: var(--editorial-muted);
+    }
+</style>
