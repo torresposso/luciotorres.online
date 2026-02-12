@@ -52,7 +52,7 @@ function extractSlugFromPath(id: string): string {
 	</head>
 	<body>
 		<Header />
-		<main class="landing-page">
+		<main class="landing-page" id="main-content">
 			<!-- HERO SECTION — IMPACTO PATRIÓTICO -->
 			<section class="hero" id="inicio">
 				<div class="hero-inner">
@@ -68,19 +68,18 @@ function extractSlugFromPath(id: string): string {
 							>
 						</h1>
 						<p class="hero-subtitle">
-							"Sin corrupción, sin promesas vacías"
+							Los colombianos merecemos una segunda oportunidad que no tuvieron "los Buendía"
 						</p>
 						<p class="hero-desc">
-							Periodista independiente · Defensor del pueblo ·
-							Candidato por una Colombia justa y soberana en la
-							consulta del Frente Por La Vida.
+							La Gran Colombia se forja desde tu corazón, desde el Yo Soy. 
+							Comunicador Social. Periodista y escritor. Defensor y docente universitario de Derechos Humanos.
 						</p>
 						<div class="hero-cta">
-							<a href="#votar" class="btn btn-gold"
-								>Votar el 8 de Marzo</a
+							<a href="/gran-colombia" class="btn btn-gold"
+								>La Gran Colombia</a
 							>
-							<a href="#unirse" class="btn btn-glass"
-								>Únete al Equipo</a
+							<a href="/poder-del-ser" class="btn btn-glass"
+								>El Poder del Ser</a
 							>
 						</div>
 					</div>
@@ -96,6 +95,70 @@ function extractSlugFromPath(id: string): string {
 						<div class="hero-card">
 							<span class="num">45+</span>
 							<span class="lbl">Años de Lucha</span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- PHILOSOPHY SECTION - EL PODER DEL SER -->
+			<section class="philosophy-section" id="filosofia">
+				<div class="container">
+					<div class="philosophy-inner">
+						<div class="philosophy-content">
+							<div class="sec-label">
+								<div class="dot"></div><span>El Poder del Ser</span>
+							</div>
+							<h2>Basta ya de quejarse</h2>
+							<p class="philosophy-lead">
+								La disrupción de los pobres de espíritu. Los colombianos merecemos una segunda oportunidad que no tuvieron "los Buendía".
+							</p>
+							<p>
+								El mundo político padecen la misma enfermedad trágica que encarnan dos reconocidos gemelos: José Arcadio y Aureliano Buendía. El primero, machote y extrovertido, asume la violencia a flor de piel, sin justificación política. El segundo, con una aparente serenidad, la violencia la internaliza como ideología. Los dos surgen desde el mismo tronco: el Ego.
+							</p>
+							<p>
+								La Gran Colombia se forja desde tu corazón, desde el Yo Soy. Quien comprende esto sabe que el verdadero voto no ocurre en las urnas: ocurre en la conciencia.
+							</p>
+							<a href="/poder-del-ser" class="btn btn-gold">Leer más</a>
+						</div>
+						<div class="philosophy-image">
+							<img src="https://luciotorres.com.co/wp-content/uploads/2025/10/lucio-torres.png" alt="Lucio Torres" />
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- LA GRAN COLOMBIA PREVIEW -->
+			<section class="gran-colombia-preview" id="gran-colombia">
+				<div class="container">
+					<div class="section-head">
+						<div>
+							<div class="sec-label">
+								<div class="dot"></div><span>Mi Proyecto</span>
+							</div>
+							<h2>La Gran Colombia</h2>
+						</div>
+						<a href="/gran-colombia">Ver el Manifiesto →</a>
+					</div>
+					<div class="gc-content">
+						<blockquote class="gc-quote">
+							"Esta es la oportunidad para comenzar un buen día y nacer de nuevo en el Ser y crear el Gran Macondo que está dentro de mí."
+						</blockquote>
+						<div class="gc-points">
+							<div class="gc-point">
+								<span class="gc-num">01</span>
+								<h4>La disrupción de los pobres de espíritu</h4>
+								<p>Basta ya de quejarse. Basta ya de echarle la culpa al Otro.</p>
+							</div>
+							<div class="gc-point">
+								<span class="gc-num">02</span>
+								<h4>¡Basta ya de quejarse!</h4>
+								<p>Colombia duele como el mundo: alienación, guerras, inseguridad, pobreza.</p>
+							</div>
+							<div class="gc-point">
+								<span class="gc-num">03</span>
+								<h4>La Iluminación</h4>
+								<p>Es el instante en que el Ser se reconoce libre, consciente y capaz de transformar su realidad.</p>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -932,6 +995,101 @@ function extractSlugFromPath(id: string): string {
 		line-height: 1.6;
 	}
 
+	/* ----- PHILOSOPHY SECTION ----- */
+	.philosophy-section {
+		padding: 8rem 0;
+		background: var(--bg);
+	}
+	.philosophy-inner {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 5rem;
+		align-items: center;
+	}
+	.philosophy-content .sec-label {
+		margin-bottom: 1.5rem;
+	}
+	.philosophy-content h2 {
+		font-family: var(--font-heading);
+		font-size: 3rem;
+		font-weight: 400;
+		margin-bottom: 2rem;
+		color: var(--text);
+	}
+	.philosophy-lead {
+		font-size: 1.25rem;
+		color: var(--text);
+		line-height: 1.7;
+		margin-bottom: 1.5rem;
+		font-weight: 500;
+	}
+	.philosophy-content p {
+		font-size: 1rem;
+		color: var(--text-muted);
+		line-height: 1.8;
+		margin-bottom: 1.5rem;
+	}
+	.philosophy-image {
+		position: relative;
+	}
+	.philosophy-image img {
+		width: 100%;
+		max-width: 450px;
+		border-radius: 24px;
+		box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+	}
+
+	/* ----- GRAN COLOMBIA PREVIEW ----- */
+	.gran-colombia-preview {
+		padding: 8rem 0;
+		background: linear-gradient(180deg, #f1f5f9 0%, var(--bg) 100%);
+	}
+	.gc-content {
+		background: var(--surface);
+		border: 1px solid var(--border);
+		border-radius: 24px;
+		padding: 3rem;
+	}
+	.gc-quote {
+		font-family: var(--font-heading);
+		font-size: 1.75rem;
+		font-style: italic;
+		color: var(--text);
+		line-height: 1.5;
+		margin-bottom: 3rem;
+		padding-left: 2rem;
+		border-left: 4px solid var(--colombia-gold);
+	}
+	.gc-points {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 2rem;
+	}
+	.gc-point {
+		padding: 1.5rem;
+		background: var(--bg);
+		border-radius: 16px;
+	}
+	.gc-num {
+		display: block;
+		font-family: var(--font-heading);
+		font-size: 2rem;
+		color: var(--colombia-gold);
+		margin-bottom: 1rem;
+	}
+	.gc-point h4 {
+		font-family: var(--font-heading);
+		font-size: 1.1rem;
+		font-weight: 400;
+		margin-bottom: 0.75rem;
+		color: var(--text);
+	}
+	.gc-point p {
+		font-size: 0.9rem;
+		color: var(--text-muted);
+		line-height: 1.6;
+	}
+
 	/* ----- CTA ----- */
 	.cta-section {
 		padding: 10rem 2rem;
@@ -1044,6 +1202,17 @@ function extractSlugFromPath(id: string): string {
 		.tl-grid {
 			grid-template-columns: repeat(2, 1fr);
 		}
+		.philosophy-inner {
+			grid-template-columns: 1fr;
+			gap: 3rem;
+		}
+		.philosophy-image {
+			order: -1;
+			text-align: center;
+		}
+		.gc-points {
+			grid-template-columns: 1fr;
+		}
 	}
 	@media (max-width: 768px) {
 		.hero-title {
@@ -1068,6 +1237,12 @@ function extractSlugFromPath(id: string): string {
 		}
 		.tl-grid {
 			grid-template-columns: 1fr;
+		}
+		.philosophy-content h2 {
+			font-size: 2.25rem;
+		}
+		.gc-quote {
+			font-size: 1.35rem;
 		}
 	}
 </style>

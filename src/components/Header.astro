@@ -4,20 +4,22 @@ import HeaderLink from "./HeaderLink.astro";
 ---
 
 <header class="site-header">
+	<a href="#main-content" class="skip-link">Saltar al contenido principal</a>
 	<div class="flag-strip">
 		<span class="strip-y"></span>
 		<span class="strip-b"></span>
 		<span class="strip-r"></span>
 	</div>
-	<nav class="nav-inner">
+	<nav class="nav-inner" aria-label="Navegación principal">
 		<a href="/" class="nav-brand">
 			{SITE_TITLE}
 		</a>
 		<div class="nav-links">
 			<HeaderLink href="/">Inicio</HeaderLink>
+			<HeaderLink href="/gran-colombia">La Gran Colombia</HeaderLink>
+			<HeaderLink href="/poder-del-ser">El Poder del Ser</HeaderLink>
 			<HeaderLink href="/articulos">Artículos</HeaderLink>
-			<HeaderLink href="/#propuestas">Propuestas</HeaderLink>
-			<HeaderLink href="/about">Acerca</HeaderLink>
+			<HeaderLink href="/about">¿Quién es Lucio?</HeaderLink>
 		</div>
 		<div class="header-actions">
 			<a href="/#votar" class="nav-cta">Votar 8 de Marzo</a>

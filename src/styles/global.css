@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800;1,9..40,400&family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:wght@400;500;600;700&family=Public+Sans:wght@300;400;500;600&display=swap');
 
 :root {
 	/* Brand Colors — Colombia Patriotic */
@@ -20,15 +20,32 @@
 	--gradient-hero: linear-gradient(135deg, #0F172A 0%, #1E293B 40%, #1E3A5F 100%);
 	--gradient-accent: linear-gradient(135deg, #F59E0B 0%, #EF4444 100%);
 
-	/* Typography */
-	--font-heading: 'DM Serif Display', 'Georgia', serif;
-	--font-body: 'DM Sans', system-ui, sans-serif;
+	/* Typography - Opción C: Libre Bodoni + Public Sans */
+	--font-heading: 'Libre Bodoni', Georgia, serif;
+	--font-body: 'Public Sans', system-ui, sans-serif;
 
-	/* Legacy Compatibility (will transition these) */
+	/* Modular Scale 1.25 */
+	--text-xs: 0.75rem;
+	--text-sm: 0.875rem;
+	--text-base: 1rem;
+	--text-lg: 1.125rem;
+	--text-xl: 1.25rem;
+	--text-2xl: 1.563rem;
+	--text-3xl: 1.953rem;
+	--text-4xl: 2.441rem;
+	--text-5xl: 3.052rem;
+
+	/* Line Heights */
+	--leading-tight: 1.25;
+	--leading-normal: 1.5;
+	--leading-relaxed: 1.625;
+	--leading-loose: 1.75;
+
+	/* Legacy Compatibility */
 	--accent: var(--colombia-gold);
 	--accent-dark: var(--colombia-r);
 
-	/* Component Compatibility (Editorial Mappings) */
+	/* Component Compatibility */
 	--editorial-surface: var(--surface);
 	--editorial-primary: var(--text);
 	--editorial-secondary: var(--text-sec);
@@ -39,15 +56,50 @@
 
 body {
 	font-family: var(--font-body);
+	font-size: var(--text-base);
+	line-height: var(--leading-relaxed);
 	margin: 0;
 	padding: 0;
 	text-align: left;
 	background: var(--bg);
 	color: var(--text);
-	font-size: 18px;
-	line-height: 1.6;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Accessibility: Skip Link */
+.skip-link {
+	position: absolute;
+	top: -40px;
+	left: 0;
+	background: var(--colombia-gold);
+	color: var(--text);
+	padding: 0.5rem 1rem;
+	z-index: 9999;
+	transition: top 0.2s ease;
+	font-weight: 600;
+	text-decoration: none;
+}
+.skip-link:focus {
+	top: 0;
+}
+
+/* Accessibility: Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+		scroll-behavior: auto !important;
+	}
+}
+
+/* Focus Visible */
+:focus-visible {
+	outline: 2px solid var(--colombia-gold);
+	outline-offset: 2px;
 }
 
 main {
@@ -57,6 +109,7 @@ main {
 	padding: 3em 1em;
 }
 
+/* Headings - Modular Scale */
 h1,
 h2,
 h3,
@@ -66,38 +119,54 @@ h6 {
 	font-family: var(--font-heading);
 	margin: 0 0 0.5rem 0;
 	color: var(--text);
-	line-height: 1.15;
+	line-height: var(--leading-tight);
 	letter-spacing: -0.01em;
+	font-weight: 600;
 }
 
 h1 {
-	font-size: 3.2rem;
+	font-size: var(--text-5xl);
+	text-wrap: balance;
 }
 
 h2 {
-	font-size: 2.5rem;
+	font-size: var(--text-4xl);
 }
 
 h3 {
-	font-size: 2rem;
+	font-size: var(--text-3xl);
+	line-height: var(--leading-normal);
 }
 
 h4 {
-	font-size: 1.5rem;
+	font-size: var(--text-2xl);
+	line-height: var(--leading-normal);
 }
 
+h5 {
+	font-size: var(--text-xl);
+}
+
+h6 {
+	font-size: var(--text-lg);
+}
+
+/* Links - Specific Transitions */
 a {
 	color: var(--colombia-gold);
-	text-decoration: none;
-	transition: color 0.2s ease;
+	text-decoration: underline;
+	text-underline-offset: 2px;
+	transition: color 0.2s ease, text-decoration-color 0.2s ease;
 }
 
 a:hover {
 	color: var(--colombia-r);
+	text-decoration-color: var(--colombia-r);
 }
 
 p {
 	margin-bottom: 1.25em;
+	line-height: var(--leading-relaxed);
 }
 
 img {
@@ -119,16 +188,16 @@ img {
 	border-width: 0;
 }
 
-/* Article Specific ProStyles */
+/* Article ProStyles */
 .article-prose {
 	max-width: 720px;
 	margin: 0 auto;
-	font-size: 1.125rem;
-	line-height: 1.8;
+	font-size: var(--text-lg);
+	line-height: var(--leading-loose);
 }
 
 .article-prose h2 {
-	font-size: 1.8rem;
+	font-size: var(--text-3xl);
 	margin-top: 2.5rem;
 	margin-bottom: 1rem;
 	position: relative;
@@ -146,6 +215,16 @@ img {
 	border-radius: 2px;
 }
 
+.article-prose h3 {
+	font-size: var(--text-2xl);
+	margin-top: 2rem;
+	margin-bottom: 0.75rem;
+}
+
+.article-prose p {
+	margin-bottom: 1.5em;
+}
+
 .article-prose blockquote {
 	border-left: 4px solid var(--colombia-gold);
 	padding: 1rem 1.5rem;
@@ -153,6 +232,57 @@ img {
 	background: rgba(252, 211, 77, 0.05);
 	font-style: italic;
 	font-family: var(--font-heading);
-	font-size: 1.25rem;
+	font-size: var(--text-xl);
 	border-radius: 0 12px 12px 0;
+}
+
+/* Lists */
+ul, ol {
+	margin-bottom: 1.25em;
+	padding-left: 1.5em;
+}
+
+li {
+	margin-bottom: 0.5em;
+	line-height: var(--leading-relaxed);
+}
+
+/* Code */
+code {
+	font-family: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+	font-size: 0.875em;
+	background: rgba(0, 0, 0, 0.05);
+	padding: 0.2em 0.4em;
+	border-radius: 4px;
+}
+
+pre {
+	background: #1e293b;
+	color: #e2e8f0;
+	padding: 1rem;
+	border-radius: 8px;
+	overflow-x: auto;
+	margin: 1.5em 0;
+}
+
+pre code {
+	background: transparent;
+	padding: 0;
+}
+
+/* Small text */
+small {
+	font-size: var(--text-sm);
+	color: var(--text-muted);
+}
+
+/* Strong/Bold */
+strong, b {
+	font-weight: 600;
+}
+
+/* Selection */
+::selection {
+	background: var(--colombia-gold);
+	color: var(--text);
 }

@@ -11,11 +11,24 @@ const today = new Date();
 		</div>
 		<div class="footer-content">
 			<p class="footer-name">Lucio Torres</p>
-			<p class="footer-tagline">Periodista · Defensor del Pueblo</p>
+			<p class="footer-tagline">Comunicador Social · Periodista · Escritor</p>
 			<div class="footer-links">
 				<a href="/">Inicio</a>
+				<a href="/gran-colombia">La Gran Colombia</a>
+				<a href="/poder-del-ser">El Poder del Ser</a>
 				<a href="/articulos">Artículos</a>
-				<a href="/about">Acerca</a>
+				<a href="/about">Acerca de</a>
+			</div>
+			<div class="footer-social">
+				<a href="https://www.facebook.com/edisonluciotorres/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+					<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
+				</a>
+				<a href="https://www.instagram.com/edisonluciotorres/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+					<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+				</a>
+				<a href="https://x.com/luciotorres" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
+					<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></svg>
+				</a>
 			</div>
 			<p class="footer-copy">
 				&copy; {today.getFullYear()} Lucio Torres. Todos los derechos reservados.
@@ -78,8 +91,9 @@ const today = new Date();
 	.footer-links {
 		display: flex;
 		justify-content: center;
-		gap: 2rem;
-		margin-bottom: 2.5rem;
+		gap: 1.5rem;
+		margin-bottom: 2rem;
+		flex-wrap: wrap;
 	}
 
 	.footer-links a {
@@ -95,11 +109,54 @@ const today = new Date();
 		color: var(--colombia-y);
 	}
 
+	.footer-social {
+		display: flex;
+		justify-content: center;
+		gap: 1rem;
+		margin-bottom: 2rem;
+	}
+
+	.footer-social a {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 40px;
+		height: 40px;
+		border-radius: 50%;
+		background: rgba(255, 255, 255, 0.05);
+		color: rgba(255, 255, 255, 0.5);
+		transition: all 0.2s;
+	}
+
+	.footer-social a:hover {
+		background: var(--colombia-gold);
+		color: var(--text);
+		transform: translateY(-2px);
+	}
+
 	.footer-copy {
 		font-family: var(--font-body);
 		font-size: 0.75rem;
 		color: rgba(255, 255, 255, 0.2);
 		border-top: 1px solid rgba(255, 255, 255, 0.05);
 		padding-top: 2rem;
+	}
+
+	/* Skip Link */
+	.skip-link {
+		position: absolute;
+		top: -50px;
+		left: 0;
+		background: var(--colombia-gold);
+		color: var(--text);
+		padding: 0.75rem 1.5rem;
+		z-index: 9999;
+		transition: top 0.2s;
+		font-weight: 600;
+		text-decoration: none;
+	}
+
+	.skip-link:focus {
+		top: 0;
 	}
 </style>
