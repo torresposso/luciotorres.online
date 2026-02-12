@@ -29,4 +29,4 @@ RUN bun add -g serve
 
 EXPOSE 8080
 
-CMD ["bun", "x", "serve", "dist", "-p", "8080"]
+CMD ["bun", "x", "serve", "dist", "-l", "tcp://0.0.0.0:8080"]
