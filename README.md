@@ -1,62 +1,108 @@
-# Astro Starter Kit: Blog
+# Lucio Torres Blog
 
-```sh
-bun create astro@latest -- --template blog
+> Periodismo de investigación y análisis político sobre Cartagena, Bolívar y Colombia.
+
+🌐 **Sitio en vivo:** [luciotorres.online](https://luciotorres.online)
+
+## Sobre el Proyecto
+
+Este es el sitio web personal de **Lucio Torres**, periodista e investigador colombiano con más de 10 años de trayectoria cubriendo temas de corrupción, política local y poder en la región Caribe.
+
+### Características
+
+- **1,000+ artículos** publicados desde 2018
+- **Paginación SEO-friendly** con enlaces numerados y navegación prev/next
+- **Imágenes optimizadas** con lazy loading y relación de aspecto 16:9
+- **Diseño responsive** optimizado para móviles
+- **Alto rendimiento:** Build estático con Astro 5
+- **SEO completo:** Meta tags, Open Graph, sitemap.xml, RSS feed
+
+## Stack Tecnológico
+
+- **Framework:** [Astro](https://astro.build/) v5.17
+- **Lenguaje:** TypeScript
+- **Estilos:** CSS vanilla con variables CSS
+- **Deploy:** Railway (Docker)
+- **Gestión de contenido:** Content Collections de Astro
+- **Imágenes:** Componente LazyImage personalizado con aspect-ratio fijo
+
+## Estructura del Proyecto
+
 ```
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-Features:
-
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-├── public/
 ├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
+│   ├── components/          # Componentes reutilizables
+│   │   ├── LazyImage.astro  # Imágenes con lazy loading
+│   │   ├── Pagination.astro # Paginación con números y ellipsis
+│   │   ├── Header.astro
+│   │   ├── Footer.astro
+│   │   └── BaseHead.astro   # Metadatos SEO
+│   ├── content/
+│   │   └── articulos/       # Colección de artículos en Markdown
+│   ├── layouts/
+│   │   └── BlogPost.astro   # Layout de artículos individuales
+│   ├── pages/
+│   │   ├── articulos/
+│   │   │   ├── [...page].astro  # Listado paginado de artículos
+│   │   │   └── [...id].astro    # Página de artículo individual
+│   │   ├── index.astro
+│   │   └── about.astro
+│   └── styles/
+├── public/
+│   └── pdfs/               # Documentos públicos (tutelas, contratos, etc.)
 ├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
+├── Dockerfile
+└── railway.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## Comandos
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+```bash
+# Instalar dependencias
+npm install
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+# Servidor de desarrollo
+npm run dev
 
-Any static assets, like images, can be placed in the `public/` directory.
+# Build de producción
+npm run build
 
-## 🧞 Commands
+# Preview local del build
+npm run preview
+```
 
-All commands are run from the root of the project, from a terminal:
+## Características Destacadas
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `bun install`             | Installs dependencies                            |
-| `bun dev`             | Starts local dev server at `localhost:4321`      |
-| `bun build`           | Build your production site to `./dist/`          |
-| `bun preview`         | Preview your build locally, before deploying     |
-| `bun astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `bun astro -- --help` | Get help using the Astro CLI                     |
+### Paginación Inteligente
 
-## 👀 Want to learn more?
+El sistema de paginación implementa:
+- Números de página visibles (ventana de 5 páginas)
+- Ellipsis (...) para saltar páginas lejanas
+- Enlaces "Anterior" y "Siguiente" con atributos `rel="prev"` y `rel="next"`
+- Títulos y descripciones únicos por página para SEO
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+### Optimización de Imágenes
 
-## Credit
+El componente `LazyImage` proporciona:
+- Carga diferida (lazy loading) nativa
+- Relación de aspecto fija 16:9 en todas las tarjetas
+- `object-fit: cover` para recorte uniforme
+- Placeholder con gradiente mientras carga
+- Transición suave al cargar
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+### SEO Avanzado
+
+Cada página incluye:
+- Títulos descriptivos únicos
+- Meta descripciones personalizadas
+- URLs canónicas
+- Open Graph tags (Facebook/Twitter)
+- Sitemap XML generado automáticamente
+- Feed RSS
+
+## Licencia
+
+© 2026 Lucio Torres. Todos los derechos reservados.
+
+---
+
+**Contacto:** [luciotorres.online](https://luciotorres.online) | Twitter: [@luciotorres](https://twitter.com/luciotorres)
