@@ -5,10 +5,10 @@ pubDate: "2022-09-01 22:05:26"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/congresistas-trasladan-a-petro-la-ultima-palabra-del-canal-del-dique/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/congresistas-trasladan-a-petro-la-ultima-palabra-del-canal-del-dique/hero.jpg
 ---
 
-![Los parlamentarios Pedro Florez y Dolcey Torres con los ministros del Transporte Guillermo Reyes y de Medio Ambiente Susana Muhamad. La última palabra del Canal del Dique la tiene el presidente Petro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/congresistas-trasladan-a-petro-la-ultima-palabra-del-canal-del-dique/hero.jpg)
+![Los parlamentarios Pedro Florez y Dolcey Torres con los ministros del Transporte Guillermo Reyes y de Medio Ambiente Susana Muhamad. La última palabra del Canal del Dique la tiene el presidente Petro.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/congresistas-trasladan-a-petro-la-ultima-palabra-del-canal-del-dique/hero.jpg)
 *Los parlamentarios Pedro Florez y Dolcey Torres con los ministros del Transporte Guillermo Reyes y de Medio Ambiente Susana Muhamad y el presidente de la ANI, William Camargo. La última palabra del Canal del Dique la tiene el presidente Petro.*
 
 La última palabra del Canal del Dique la tiene el presidente Petro. Es la conclusión que se desprende de la Comisión Accidental Bicameral. Esta unidad especial legislativa presentó **las recomendaciones recogidas durante la audiencia realizada en Santa Lucía** el pasado 26 de agosto. Dentro de estas recomendaciones sobresale la necesidad de realizar otras consultas previas, el licenciamiento ambiental y modificación del objeto contractual del proceso APP "Restauración de los Ecosistemas Degradados Canal del Dique".
@@ -37,7 +37,7 @@ De acuerdo con un oficio fechado el 31 de agosto y radicado hoy ante la presiden
 
 ## La última palabra del Canal del Dique
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/congresistas-trasladan-a-petro-la-ultima-palabra-del-canal-del-dique/comision_accidental_panoramica.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/congresistas-trasladan-a-petro-la-ultima-palabra-del-canal-del-dique/comision_accidental_panoramica.jpg)
 *La última palabra del Canal del Dique la tiene el presidente Petro.*
 
 La Comisión Accidental Bicameral, que tiene el poder legal del congreso para hacerle seguimiento al macroproyecto, le trasladó la responsabilidad al presidente de la república. Éste debe tomar una decisión política antes del 12 de septiembre, plazo para resolver la suerte inmediata del proceso licitatorio.

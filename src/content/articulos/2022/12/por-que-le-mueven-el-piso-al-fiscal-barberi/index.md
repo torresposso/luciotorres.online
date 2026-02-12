@@ -5,10 +5,10 @@ pubDate: "2022-12-18 14:13:22"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/por-que-le-mueven-el-piso-al-fiscal-barberi/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/por-que-le-mueven-el-piso-al-fiscal-barberi/hero.jpg
 ---
 
-![La foto suministrada a El Tiempo para ilustrar un informe de la Unidad Investigativa que pone injustificadamente en entredicho al fiscal Barberi de la Dirección Nacional de Extinción de Dominio.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/por-que-le-mueven-el-piso-al-fiscal-barberi/Barberi_Comision_de_Inteligencia.jpeg)
+![La foto suministrada a El Tiempo para ilustrar un informe de la Unidad Investigativa que pone injustificadamente en entredicho al fiscal Barberi de la Dirección Nacional de Extinción de Dominio.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/por-que-le-mueven-el-piso-al-fiscal-barberi/Barberi_Comision_de_Inteligencia.jpeg)
 *La foto suministrada a El Tiempo para ilustrar un informe de la Unidad Investigativa que pone injustificadamente en entredicho al fiscal Barberi de la Dirección Nacional de Extinción de Dominio.*
 
 **José** **Fernando Barberi Forero**, fiscal especializado de la Dirección Nacional de Extinción de Dominio, tiene bajo su responsabilidad varios procesos que afectan a antiguos jefes del paramilitarismo y de las FARC. ¿Por qué le mueven el piso al fiscal Barberi?
@@ -19,7 +19,7 @@ Todo hace señalar que se busca debilitar la capacidad de desempeño del fiscal 
 
 ## El fiscal Barberi, una historia digna de contar
 
-![El fiscal Barberi en su tiempo de capitán de infante de Marina. Esta foto se la suministraron a El Tiempo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/por-que-le-mueven-el-piso-al-fiscal-barberi/barberi.jpeg)
+![El fiscal Barberi en su tiempo de capitán de infante de Marina. Esta foto se la suministraron a El Tiempo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/por-que-le-mueven-el-piso-al-fiscal-barberi/barberi.jpeg)
 *El fiscal Barberi en su tiempo de capitán de infante de Marina. Esta foto se la suministraron a El Tiempo.*
 
 El verdadero periodismo de investigación debe enfocarse en las causas y efectos de los hechos. No puede mirar esos hechos en forma aislada. Si lo hace, las ramas impedirán ver el gran bosque. Es lo que está haciendo la Unidad Investigativa de El Tiempo. De esta forma, este medio de comunicación se está convirtiendo en una fábrica de suspicacias para dañar el buen nombre de personas —que como Barberi— fue víctima de los giros chuecos de la misma justicia.

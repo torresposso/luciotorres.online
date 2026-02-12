@@ -5,10 +5,10 @@ pubDate: "2021-04-17 03:21:02"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/enjaulada-mariamulata-en-un-dia-de-lluvia-y-humedo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/enjaulada-mariamulata-en-un-dia-de-lluvia-y-humedo/hero.jpg
 ---
 
-\[caption id="attachment\_14580" align="alignnone" width="1080"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/enjaulada-mariamulata-en-un-dia-de-lluvia-y-humedo/hero.jpg) **Mariamulata** enjaulada camina al lado de su marido **Arturo Zea Solano**. Parece que caminaran al cadalso y no a entregarse al CTI. Cortesìa.\[/caption\]
+\[caption id="attachment\_14580" align="alignnone" width="1080"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/enjaulada-mariamulata-en-un-dia-de-lluvia-y-humedo/hero.jpg) **Mariamulata** enjaulada camina al lado de su marido **Arturo Zea Solano**. Parece que caminaran al cadalso y no a entregarse al CTI. Cortesìa.\[/caption\]
 
 Maríamulata enjaulada en un día de lluvia, caluroso y húmedo. La escena no podía ser más conmovedora. La exalcaldesa **Judith del Carmen Pinedo Flórez** tomada de la mano de su esposo **Arturo Nicolás Zea Solano**. Verlos llegar juntos al búnker de la Fiscalia. Abrazarla. Susurrarle no sé que cosa. Y después dejarla sola en un día lluvioso y húmedo de esta ciudad que sigue siendo las **«dos Cartagena» desde el tiempo en que Getsemaní era un arrabal de «extranjeros » y negros libertos**. Tenemos la Cartagena de los hijos de **«papi y mami»** y la Cartagena negra y tiznada de olvido. 
 
@@ -16,7 +16,7 @@ Maríamulata enjaulada en un día de lluvia, caluroso y húmedo. La escena no po
 
 ## Maríamulata enjaulada
 
-\[caption id="attachment\_14586" align="aligncenter" width="613"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/enjaulada-mariamulata-en-un-dia-de-lluvia-y-humedo/IMG_20210416_131732.jpg) **Marìamulata escucha** la lectura de sus derechos antes de entrar a prisión.\[/caption\]
+\[caption id="attachment\_14586" align="aligncenter" width="613"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/enjaulada-mariamulata-en-un-dia-de-lluvia-y-humedo/IMG_20210416_131732.jpg) **Marìamulata escucha** la lectura de sus derechos antes de entrar a prisión.\[/caption\]
 
 Arturo Zea, su compañero inseparable en medio de esta angustia, está absorto. Ido. No entiende lo que sucede. Ella, **Judith Pinedo Flórez, se nota delgada, un poco nerviosa.** Luce un vestido a la usanza wayuu, con diez pliegues de los pechos hacia abajo. Esconde un cuerpo que conserva los contornos que apasionó a su compañero de más de 35 años juntos.   Su tapaboca disimula la tristeza que podría sentir.  Todo indica que está también desconcertada.
 
@@ -58,7 +58,7 @@ Aquel año, 2009 le ordenó a su Secretaria de Hacienda **Vivian Eljaiek Juan** 
 
 ## La dignidad
 
-\[caption id="attachment\_14587" align="aligncenter" width="1080"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/enjaulada-mariamulata-en-un-dia-de-lluvia-y-humedo/FB_IMG_1618625133341.jpg) **Maríamulata con su defensor** en el torniquete de entrada a la Fiscalía. Cortesía.\[/caption\]
+\[caption id="attachment\_14587" align="aligncenter" width="1080"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/enjaulada-mariamulata-en-un-dia-de-lluvia-y-humedo/FB_IMG_1618625133341.jpg) **Maríamulata con su defensor** en el torniquete de entrada a la Fiscalía. Cortesía.\[/caption\]
 
 **Es de destacar la dignidad de Maríamulata enjaulada**. Entregarse. Enfrentarse a la justicia y ponerle el pecho es un acto de valor que merece destacarse. Así lo hizo su amigo **Francisco Ricaurte**, exactamente hace un mes por el caso del **«Cartel de la Toga**».
 

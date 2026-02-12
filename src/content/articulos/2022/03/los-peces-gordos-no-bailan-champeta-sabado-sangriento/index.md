@@ -5,7 +5,7 @@ pubDate: "2022-03-27 02:36:26"
 author: "Lucio"
 categories: ["Investigación","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/hero.jpg
 ---
 
 https://youtu.be/756HEqOXyDo
@@ -16,14 +16,14 @@ Los «peces gordos» no bailan champeta. ¡Ahora cantan! y otros quieren volar y
 
 En tanto que las autoridades policivas desatan una eficaz persecución contra las bandas criminales del país y, particularmente, en Cartagena, **en el bajo mundo se desarrolla otra guerra mucho más sangrienta.** En lo que va corrido del año han decomisado **7.4 toneladas** en el puerto local. Pero las víctimas del sicariato continúan sembrando el terror en extramuros. Son 81 muertos, la mayoría por sicariato.  
 
-![Los «peces gordos» no bailan champeta. Foto cortesía Policía Nacional.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/CAPTURADOS.jpeg)
+![Los «peces gordos» no bailan champeta. Foto cortesía Policía Nacional.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/CAPTURADOS.jpeg)
 *Los «peces gordos» no bailan champeta. Foto cortesía Policía Nacional.*
 
 Por ejemplo, este sábado 26 de marzo fue la mañana más violenta de los últimos años. Cuatro homicidios en la modalidad de sicariato se produjeron desde la madrugada hasta las 11:30 de la mañana. Se cree que todos los _sicariatos_ de hoy sábado tienen como causa esa guerra inter criminal de los «Salsas Mexicanos» y el «Clan del Golfo».
 
 ## Líderes sociales
 
-![líderes sociales caen en esta guerra de los «peces gordos» que no bailan champeta. Así invitan a los funerales del líder social asesinado hoy en Daniel Lemaitre.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/fran-ahumada-herrera.jpeg)
+![líderes sociales caen en esta guerra de los «peces gordos» que no bailan champeta. Así invitan a los funerales del líder social asesinado hoy en Daniel Lemaitre.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/fran-ahumada-herrera.jpeg)
 *Líderes sociales caen en esta guerra de los «peces gordos» que no bailan champeta. Así invitan a los funerales del líder social asesinado hoy en Daniel Lemaitre.*
 
 Varios de los asesinatos por sicariato del día de hoy se le podría atribuir a la estructura de los Salsas Mexicanos por la modalidad y el modus operandi. Esta estructura viene cometiendo una ola de exterminio. El pasado 5 de marzo publicó un panfleto con los alias de 28 personas. Algunas de ellas vinculadas a actividades delincuenciales, como lo mostramos en el artículo [**Cartel Jalisco declara objetivo militar a chawala**](/articulos/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/) publicado el 5 de marzo. 
@@ -34,7 +34,7 @@ De igual forma, el pasado 13 de febrero había sido asesinado otro líder social
 
 ## ¿Por qué los asesinan?
 
-![Frank Ahumada, líder social y comerciante que manejaba cierta facilidad con el dinero, cayó en esta guerra de los peces gordos](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/hero.jpg)
+![Frank Ahumada, líder social y comerciante que manejaba cierta facilidad con el dinero, cayó en esta guerra de los peces gordos](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/hero.jpg)
 *Frank Ahumada, líder social y comerciante que manejaba cierta facilidad con el dinero,*
 
 Con la industrialización y desarrollo a gran escala del microtráfico, los líderes sociales, especialmente los organizadores de eventos de masas como baile y deportes, se ven sometidos a una encrucijada: o le sirven a la nueva organización o se marchan del barrio. Si no obedecen a las nuevas estructuras delincuenciales, son declarados objetivo militar.
@@ -45,7 +45,7 @@ De tal manera, que para garantizar un abastecimiento las 24/7 colocan turnos, co
 
 ## «Los peces gordos» no bailan champeta
 
-![Los «peces gordos» no bailan champeta.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/CAPTURADOS1.jpeg)
+![Los «peces gordos» no bailan champeta.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/CAPTURADOS1.jpeg)
 *Los «peces gordos» no bailan champeta.*
 
 De manera que, si antes «el pez gordo» bailaba champeta por sí mismo, hoy ya no puede hacerlo. Tiene que darle cuenta a la estructura criminal dominante. Por ejemplo, si el «Clan del Golfo» cayó en desgracia —como es el caso que está sucediendo en el país— sus estructuras son desmontadas para, a su vez, construir otra que obedece a los designios de la nueva organización criminal.
@@ -84,7 +84,7 @@ Una parte de «los peces gordos» capturados están en trance de ser extraditado
 
 ## Simancas, «un pez gordo»
 
-![Alias Simancas, listo para ser extraditado. Un pez gordo que no pudo volar.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/SIMANCAS.jpeg)
+![Alias Simancas, listo para ser extraditado. Un pez gordo que no pudo volar.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/SIMANCAS.jpeg)
 *Alias Simancas, listo para ser extraditado. Un pez gordo que no pudo volar. ¡Literal!*
 
 Debemos destacar algo curioso. Luego de que el 16 de marzo las autoridades le dieron certeros golpes a la mafia del narcotráfico con la captura del sucesor de «Andrea» o «Falcon», se presenta esta ola de sicariato en Cartagena y en las zonas donde domina esa organización criminal. Recordemos que en desarrollo de una operación ejecutada por la Dirección de Investigación Criminal (DIJIN) con apoyo de la Agencia Antidrogas de los Estados Unidos (DEA) en Bogotá, Barranquilla, Cartagena, Santa Marta, Cali y el archipiélago de San Andrés, cayeron «los peces gordos» del «Clan del Golfo».  También uno de los outsourcing de esa organización. 
@@ -97,7 +97,7 @@ De manera que la Policía tiene la información de que una subestructura de ‘l
 
 ## Un homicidio que desató otros
 
-![El homicidio de Wilson Rafael Púa Narváez, en la noche del 15 de diciembre 2021. La guerra de los peces gordos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/asesinato-de-wilson.jpg)
+![El homicidio de Wilson Rafael Púa Narváez, en la noche del 15 de diciembre 2021. La guerra de los peces gordos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/los-peces-gordos-no-bailan-champeta-sabado-sangriento/asesinato-de-wilson.jpg)
 *El homicidio de Wilson Rafael Púa Narváez, en la noche del 15 de diciembre 2021. La guerra de los peces gordos.*
 
 El homicidio de **Wilson Rafael Púa Narváez,** en la noche del 15 de diciembre 2021, en el barrio Olaya Herrera, sector La Puntilla, desató otros homicidios. Las investigaciones indican que Púa Narváez tenía siete anotaciones judiciales por seis delitos: lesiones culposas (2011), hurto calificado y agravado (2013), tráfico, fabricación o porte de armas de fuego (2014), concierto para delinquir (2017), fuga de presos (2019 y 2020) y concierto para delinquir (2020). La Policía también indica que la víctima perteneció a «los Cobras». 

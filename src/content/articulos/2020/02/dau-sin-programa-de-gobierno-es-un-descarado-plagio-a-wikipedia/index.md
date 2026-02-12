@@ -5,12 +5,12 @@ pubDate: "2020-02-03 12:59:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/dau-sin-programa-de-gobierno-es-un-descarado-plagio-a-wikipedia/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/02/dau-sin-programa-de-gobierno-es-un-descarado-plagio-a-wikipedia/hero.jpg
 ---
 
 > **_Esto es simplemente un botón de muestra de los exabruptos encontrados en el mal llamado programa de gobierno de Dau. Un menor de 6° año de educación media lo hubiese hecho mejor con la ayuda de su madre._**
 
-\[caption id="attachment\_11114" align="aligncenter" width="428"\]![Dau y su secretario de Planeación](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/dau-sin-programa-de-gobierno-es-un-descarado-plagio-a-wikipedia/hero.jpg) Dau presentando a su secretario de Planeación, Guillermo Ávila. Tomado de Facebook.\[/caption\] La precariedad programática del gobierno de **William Dau Chamat**, alcalde de Cartagena, es tan evidente que **no tiene programa de gobierno**. Éste se redujo a un vulgar plagio de la enciclopedia libre Wikipedia y del tema anticorrupción del Banco Mundial. Por tanto, Dau carece de herramientas para diseñar y estructurar un adecuado **plan de desarrollo distrital** que satisfaga las principales necesidades de los cartageneros en los próximos 4 años. Un programa de gobierno es tan esencial como el Plan de Desarrollo. Uno da nacimiento al otro, el cual debe diseñarlo desde el segundo mes de gobierno. Ya terminamos el primer mes, y Dau no tiene idea para dónde va su gobierno. Los cartageneros y cartageneras estamos adportas de gritar: _**"¡Auxilio! ¡Sálvennos, porque no tenemos piloto ni carta de navegación!".**_
+\[caption id="attachment\_11114" align="aligncenter" width="428"\]![Dau y su secretario de Planeación](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/02/dau-sin-programa-de-gobierno-es-un-descarado-plagio-a-wikipedia/hero.jpg) Dau presentando a su secretario de Planeación, Guillermo Ávila. Tomado de Facebook.\[/caption\] La precariedad programática del gobierno de **William Dau Chamat**, alcalde de Cartagena, es tan evidente que **no tiene programa de gobierno**. Éste se redujo a un vulgar plagio de la enciclopedia libre Wikipedia y del tema anticorrupción del Banco Mundial. Por tanto, Dau carece de herramientas para diseñar y estructurar un adecuado **plan de desarrollo distrital** que satisfaga las principales necesidades de los cartageneros en los próximos 4 años. Un programa de gobierno es tan esencial como el Plan de Desarrollo. Uno da nacimiento al otro, el cual debe diseñarlo desde el segundo mes de gobierno. Ya terminamos el primer mes, y Dau no tiene idea para dónde va su gobierno. Los cartageneros y cartageneras estamos adportas de gritar: _**"¡Auxilio! ¡Sálvennos, porque no tenemos piloto ni carta de navegación!".**_
 
 ## **Fraude al electorado**
 

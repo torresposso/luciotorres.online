@@ -5,10 +5,10 @@ pubDate: "2022-01-23 21:56:15"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/caso-gloria-estrada-puede-ser-un-falso-positivo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/caso-gloria-estrada-puede-ser-un-falso-positivo/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/caso-gloria-estrada-puede-ser-un-falso-positivo/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/caso-gloria-estrada-puede-ser-un-falso-positivo/hero.jpg)
 *Vestido de civil, el excoronel Luis Roa, secretario General de William Dau. La teoría del complot no se puede descartar. ¿Qué dice el comandante de la policía de Cartagena y el CTI?*
 
 El kilo de cocaína hallado en la camioneta donde se transportaba la presidenta del concejo distrital de Cartagena, **Gloria Estrada**, deja más sombras que luces. Pero también arroja las claves para comprender la idiosincrasia de una ciudad asociada al imaginario cultural sobre la política, el narcotráfico y la moralidad. Estas claves presuponen una pregunta problemática: **¿Es el caso de Gloria Estrada comida para buitres de doble moral o un falso positivo?** 
@@ -35,7 +35,7 @@ La decisión del juez Galarza se podría señalar como ambivalente. Le dio temor
 
 ## La teoría del complot
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/caso-gloria-estrada-puede-ser-un-falso-positivo/manuel-mercado-palencia-2.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/caso-gloria-estrada-puede-ser-un-falso-positivo/manuel-mercado-palencia-2.jpg)
 *Manuel Mercado, el veedor de San Onofre que junto con dos funcionarios de la Contraloría fue objeto de un complot al ponerle un kilo de cocaína en la camioneta donde iban. Presuntamente una abogada de la alcaldía fue la compradora de la cocaína para crear un falso positivo.*
 
 Veamos un caso similar. En el 2012, en San Onofre (Sucre), sucedió algo similar al caso de **Gloria Estrada**. Habiendo un control excepcional a la gestión del alcalde de aquella época, **Nelson de Jesús Pinedo Lozano**, tres veedores y dos funcionarios de la Contraloría General de la República (CGR) fueron a verificar varias obras fantasmas. En papel se decía que las obras se habían ejecutado cabalmente, pero los veedores señalaban que las obras no existían. Había una pugna política de control social sobre la alcaldía.
@@ -64,7 +64,7 @@ No obstante, ¿la administración distrital y la misma policía podrían haber c
 
 ## Dau, rodeado de exmilitares y expolicías
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/caso-gloria-estrada-puede-ser-un-falso-positivo/luis-roy-merchan-1.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/caso-gloria-estrada-puede-ser-un-falso-positivo/luis-roy-merchan-1.jpg)
 *Una de las últimas apariciones del coronel Roa Merchan, secretario General de Dau*
 
 ¿Cómo podrían crear ese falso positivo? Recordemos que el alcalde William Dau Chamat tiene una docena de exagentes del DAS en su administración. Algunos de estos tienen relaciones con la inteligencia tanto de la Policía como de otras fuerzas. Otros fueron procesados por falsos positivos y tuvieron que salir de sus instituciones. De igual manera, se encuentran tres altos exoficiales de la policía que ocupan cargos importantes en el Distrito. El secretario General excoronel **Luis Enrique Roa Merchan** y el director de Distriseguridad, excoronel **Pedro Rafael Rodelo Asfora**. Así mismo tiene altos exoficiales de las fuerzas militares. Todo esto se consolidó cuando el presidente del concejo distrital, **Wilson Toncel** y el alcalde estaban de **«pipí cogido»**, como el mismo Dau lo reconoció en la Reina y en La Cariñosa.

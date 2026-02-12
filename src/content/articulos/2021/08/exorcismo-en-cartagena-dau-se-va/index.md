@@ -5,10 +5,10 @@ pubDate: "2021-08-08 00:28:16"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/exorcismo-en-cartagena-dau-se-va/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/exorcismo-en-cartagena-dau-se-va/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/exorcismo-en-cartagena-dau-se-va/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/exorcismo-en-cartagena-dau-se-va/hero.jpg)
 *Un alcalde de vida loca. Exorcismo en Cartagena.*
 
 **Exorcismo en Cartagena para sacar al demonio.** El movimiento de revocatoria **es fundamentalmente una iniciativa ciudadana.** No es una propuesta de partido ni tiene color político como lo quieren hacer ver los corruptos de este gobierno. Los políticos tradicionales son indiferentes, porque piensan pescar en río revuelto.  Si algunos líderes que promueven la revocatoria han militado en partidos tradicionales, no es óbice para descalificar el movimiento.  El derecho de elegir y ser elegido es un derecho fundamental. Más aún, el derecho de participación.
@@ -31,7 +31,7 @@ No olviden que Dau estudió donde se educa la élite colombiana. Obtuvo cargos d
 
 ## Exorcismo en Cartagena
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/exorcismo-en-cartagena-dau-se-va/yerena.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/exorcismo-en-cartagena-dau-se-va/yerena.jpeg)
 *Yerena Cháves, es una cristiana que recoge firmas para Cartagena Revoca. Aquí eleva una oración para sacar a los espíritus malignos de la alcaldía. Así se inició el exorcismo en Cartagena.*
 
 **Yerena Cháves,** una líder cristiana y **activista de Cartagena Revoca que recolecta firma**, elevó una oración al Todopoderoso frente a la fachada de la alcaldía de Cartagena:
@@ -42,7 +42,7 @@ Mientras tanto, los líderes de la revocatoria llevaron incienso.  Lo quemaron 
 
 ## Milciades Garcés y la traición de Dau
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/exorcismo-en-cartagena-dau-se-va/7-de-agosto-dau-se-va.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/exorcismo-en-cartagena-dau-se-va/7-de-agosto-dau-se-va.jpeg)
 *En la marcha los comités de revocatoria arrastraron la carretilla loca en lo que quedó El Tractor. ¡Dau se va!*
 
 A William Dau lo premiaron con ese cargo en Black Stone y con las acciones en Aguas de Cartagena. ¿Tendrá razón el difunto **Milciades Garcés** cuando dijo que algunos veedores, entre ellos William Dau Chamat, **recibieron más de un millón de dolares, cargos y acciones de Cartagena a Cambio de que desistieran de ese litigio que afectó la calidad de vida de las poblaciones afros de Punta Canoa, Arroyo de las Canoas, la Boquilla y Manzanillo**? Tengo un expediente de **365 folios** que daré a conocer públicamente a las autoridades norteamericanas para que investiguen a Dau, porque probablemente les engañó haciéndose pasar por perseguido político.
@@ -59,7 +59,7 @@ Es cierto, Dau no es el causante de la desgracia que vive hoy la ciudad. **Pero 
 
 ## El alcalde compra falsa gobernabilidad
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/exorcismo-en-cartagena-dau-se-va/el-tractor.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/exorcismo-en-cartagena-dau-se-va/el-tractor.jpeg)
 *Mientras unos hacían exorcismo en Cartagena, Fanny Pachón, activista animalista de Cartagena, estrellaba el tractor contra el suelo.*
 
 Los organizadores originales de la marcha fueron los del Comité de Revocatoria Líderes Sociales a los cuales se le sumó Cartagena Revoca, animalistas, la CGT y otras organizaciones sociales. Se espera que los sindicatos combativos de la ciudad se unan a la voluntad ciudadana que cada día crece más. Sin embargo, Dau está construyendo una falsa gobernabilidad comprando a líderes sindicales con órdenes de prestación de servicio (OPS). Vox Populi publicará una extensa lista de contratos que salen de la alcaldía de Cartagena, probablemente, para comprar silencio. Quieren invisibilizar la revocatoria, pero no lo conseguirán.

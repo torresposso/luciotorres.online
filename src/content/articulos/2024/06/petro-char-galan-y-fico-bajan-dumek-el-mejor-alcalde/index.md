@@ -5,10 +5,10 @@ pubDate: "2024-06-28 01:13:17"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/hero.jpg
 ---
 
-![En la última encuesta de Invamer Poll, se destacó Dumek Turbay como el mejor alcalde al obtener una aprobación de  79% y la menor desaprobación de 16%. Yamilito, auqnue bajó dos puntos, es el mejor de la Costa Caribe y casi empata con el gobernador de Antioquia, Andrés Julián Rendón](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/hero.jpg)
+![En la última encuesta de Invamer Poll, se destacó Dumek Turbay como el mejor alcalde al obtener una aprobación de  79% y la menor desaprobación de 16%. Yamilito, auqnue bajó dos puntos, es el mejor de la Costa Caribe y casi empata con el gobernador de Antioquia, Andrés Julián Rendón](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/hero.jpg)
 *En la última encuesta de Invamer Poll, se destacó Dumek Turbay como el mejor alcalde al obtener una aprobación de 79% y la menor desaprobación de 16%. Yamilito, aunque bajó dos puntos, es el mejor de la Costa Caribe y casi empata con el gobernador de Antioquia, Andrés Julián Rendón.*
 
 Las encuestas lo dicen, la caída de la imagen favorable de **Gustavo Petro** Urrego sigue en franco deterioro. Su nivel de aprobación cayó al 32%. Significa que **su nueva estrategia de ir al territorio con un discurso radical fracasó**. En tanto que a nivel nacional, el alcalde de Cartagena, **Dumek Turbay Paz** (79%) de aprobación, es el mejor alcalde medido. Destronó al de Barranquilla, **Alejandro Char Chaljub**. Contrario a **Carlos Fernando Galán**, alcalde de Bogotá, que fue el peor de los medidos: cayó al 47% de aprobación con una desaprobación de 44%.
@@ -21,7 +21,7 @@ En efecto, la encuesta nacional de **Invamer Poll**, contratada por los medios d
 
 ## Petro, a la baja
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/Encuesta_invamer-1024x576.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/Encuesta_invamer-1024x576.jpeg)
 
 Se puede decir que su iniciativa comunicacional de Gobierno en los barrios fracasó para detener esa tendencia bajista. Pero, se podría señalar sirvió de atenuante para que su caída no fuera estrepitosa como la que sufrió Iván Duque después del estallido social y durante la pandemia del Covid-19. La encuesta reveló que el presidente bajó de **34% al 32%** en comparación con la medición de abril. Por el contrario, su desaprobación aumentó de **60% al 62%**.
 
@@ -42,7 +42,7 @@ La citada encuesta se hizo a **1.400 personas**. Bogotá, 400 encuestas; Medell�
 
 ## Dumek Turbay, el mejor alcalde
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/Encuesta_ivamer_alcaldes.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/Encuesta_ivamer_alcaldes.jpeg)
 
 La segunda noticia más importante de este análisis de la encuesta de Invamer, señala que **Dumek Turbay** desbancó a **Alejandro Char Chaljub** del primer lugar de la aprobación de sus gobernados.
 
@@ -54,7 +54,7 @@ En cambio, Dumek es un gobernante de acción, aunque sus detractores no lo admit
 
 ## Char cayó 6 puntos
 
-![El bajón de Alejandro Char, quien fuera el mejor alcalde medido, y del gobernador del Atlántico Eduardo Verano de la Rosa, fue significativo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/Alejandro_Char_Eduardo_Verano.jpg)
+![El bajón de Alejandro Char, quien fuera el mejor alcalde medido, y del gobernador del Atlántico Eduardo Verano de la Rosa, fue significativo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/Alejandro_Char_Eduardo_Verano.jpg)
 *El bajón de Alejandro Char, quien fuera el mejor alcalde medido, fue significativo. Aquí con el gobernador del Atlántico Eduardo Verano de la Rosa, quien cayó al 49% de aprobación y subió en desaprobación con el 41%./ Prensa_Cortesía.*
 
 La citada encuesta nos muestra un dato interesante con **Alejandro Char**. Primero, se destaca que perdió 6 puntos desde la última encuesta. Esto es significativo, porque **podría marcar una tendencia** en la medida que la situación social y de seguridad se agrave en Barranquilla. Su modelo de ciudad basada en la cultura del pavimento, se está agrietando estructuralmente como sus casas de **Campo Alegre**.
@@ -73,14 +73,14 @@ El peor alcalde de los medidos, **Carlos Fernando Galán**, le fue como _perro e
 
 ## Yamilito, el primero en la Costa
 
-![Aquí Yamilito Arana yendo al sitio a mediar con las comunidades que bloquearon la vía El Carmen-Plato./Prensa. El mejor alcalde](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/Yamilito_elcarmen_desbloque-1024x712.jpg)
+![Aquí Yamilito Arana yendo al sitio a mediar con las comunidades que bloquearon la vía El Carmen-Plato./Prensa. El mejor alcalde](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/Yamilito_elcarmen_desbloque-1024x712.jpg)
 *Aquí Yamilito Arana yendo al sitio a mediar con las comunidades que bloquearon la vía El Carmen-Plato./Prensa.*
 
 La medición de los gobernadores demostró que todos perdieron puntos en comparación con la medición de abril. El que más puntos perdió fue el gobernador de Bolívar **Yamilito Arana Padauí**. Esta vez su nivel aprobación fue de 59%, seis puntos menos que la encuesta anterior. Casi quedó empatado con el gobernador de Antioquia **Andrés Julián Rendón**, quien obtuvo 60% de aprobación. Los dos obtuvieron una desaprobación de **22%**.
 
 ¿Te interesa? [Bolívar Mejor en los 100 días (I)](/articulos/bolivar-mejor-en-los-100-dias/)
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/Encuesta_ivamer_gobernacion-1024x570.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/petro-char-galan-y-fico-bajan-dumek-el-mejor-alcalde/Encuesta_ivamer_gobernacion-1024x570.jpeg)
 *Yamilito sigue siendo el mejor gobernador de laCosta Caribe, según esta encuesta de Invamer.*
 
 ¿Cómo se explica ese bajón de Yamilito? De acuerdo con nuestro análisis, se debe a tres causas. **Primero.** Yamilito es aliado del gobierno de Petro y compartió tribuna varias veces con el presidente en Bolívar y la región Caribe. **Segundo**. Rendón, por el contrario, es crítico del gobierno central. **Tercero.** Los recursos fiscales dejados por **Vicentico Blel** fueron escasos. Para ser más exacto, **dejó un saldo en rojo**. Además, el gobierno nacional no ha apalancado financieramente las acciones de la gobernación. Por ejemplo, en vivienda no hay dinero.

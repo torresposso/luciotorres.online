@@ -5,10 +5,10 @@ pubDate: "2021-05-06 16:07:40"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/hero.jpg
 ---
 
-\[caption id="attachment\_14836" align="aligncenter" width="1440"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/hero.jpg) **Henry Martin Guizamano Vives**, recibió $260 millones de los $350 girados por la ANI al Consejo Comunitario El Recreo por las consultas previas.\[/caption\] \[caption id="attachment\_14853" align="aligncenter" width="696"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/photo_2021-05-06_11-18-38.jpg) Los recibos del dinero de las consultas previas pagados a Henry Guizamano.\[/caption\]
+\[caption id="attachment\_14836" align="aligncenter" width="1440"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/hero.jpg) **Henry Martin Guizamano Vives**, recibió $260 millones de los $350 girados por la ANI al Consejo Comunitario El Recreo por las consultas previas.\[/caption\] \[caption id="attachment\_14853" align="aligncenter" width="696"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/photo_2021-05-06_11-18-38.jpg) Los recibos del dinero de las consultas previas pagados a Henry Guizamano.\[/caption\]
 
 En este informe mostraremos cómo compran las consultas previas de la ANI. Fueron convocadas con motivo del **Proyecto APP Restauración de los Ecosistemas Degradados del Canal del Dique**.
 
@@ -32,7 +32,7 @@ Lo anterior quiere decir que en el caso particular de las consultas previas real
 
 ## De lo particular a lo general
 
-\[caption id="attachment\_14837" align="aligncenter" width="1300"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/consejo-comunitarios.jpg) Aspecto de una reunión para participar en el plan de desarrollo\[/caption\]
+\[caption id="attachment\_14837" align="aligncenter" width="1300"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/consejo-comunitarios.jpg) Aspecto de una reunión para participar en el plan de desarrollo\[/caption\]
 
 En este estudio de caso del **Consejo Comunitario de El Recre**o observamos que la ANI hizo una transferencia de $350 millones el 23 de noviembre de 2020. Ese dinero estaba destinado para la **realización efectiva de la consulta previa.** ¿Qué ocurrió?
 
@@ -42,7 +42,7 @@ Como se puede apreciar, esa es una de las pruebas reina de que en El Recreo hubo
 
 ## **La prueba**
 
-\[caption id="attachment\_14851" align="aligncenter" width="602"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/diego-alejandro-morales-silva-ANI-3.jpeg) **Diego Morales Silva.** Vicepresidente de Planeación y Entornos de ANI. Debe responder por las falsas consultas previas.\[/caption\]
+\[caption id="attachment\_14851" align="aligncenter" width="602"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/diego-alejandro-morales-silva-ANI-3.jpeg) **Diego Morales Silva.** Vicepresidente de Planeación y Entornos de ANI. Debe responder por las falsas consultas previas.\[/caption\]
 
 Para que no haya duda de lo denunciado en este informe periodístico, presentamos los dos recibos de retiro bancario del Bancolombia que se registraron el **23 de noviembre de 2020.** Como lo dijimos, Guizamano al recibir el dinero podría estar incurso en varios delitos penales. Pero lo que se puede observar es que existe una clara incompatibilidad de participar como gestor del contratos de socialización de la consulta, cuando él es delegado nacional de las comunidades afros.
 
@@ -52,7 +52,7 @@ Además, las autoridades competentes deberán investigar el comportamiento de lo
 
 ## Conclusión
 
-\[caption id="attachment\_14853" align="aligncenter" width="696"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/photo_2021-05-06_11-18-38.jpg) Los recibos del dinero de las consultas previas pagados a Henry Guizamano el 23 de noviembre de 2020.\[/caption\]
+\[caption id="attachment\_14853" align="aligncenter" width="696"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/como-compran-las-consultas-previas-de-ani-a-los-afros/photo_2021-05-06_11-18-38.jpg) Los recibos del dinero de las consultas previas pagados a Henry Guizamano el 23 de noviembre de 2020.\[/caption\]
 
 Pero hay algo más importante en el análisis criminalístico. La ANI expidió la resolución referenciada el **9 de noviembre del 2020**. Catorce días después le giró no solo los **$200 millones** correspondientes al primer pago por el «**acta de preconsulta y apertura»**. Es más, **ese mismo día le giró $150 millones** correspondiente a la segunda entrega por concepto de **«taller de análisis e identificación de impacto y formulación de medida de manejo con la dirección de consulta previa del Ministerio del Interior».** O sea, le hizo en realidad un solo giro por $350 millones.
 

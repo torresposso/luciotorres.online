@@ -5,10 +5,10 @@ pubDate: "2021-10-17 02:35:43"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/Un-coronel-alcalde.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/Un-coronel-alcalde.jpeg)
 *Un coronel, un alcalde en Nueva York con una falsa agenda. Laura Botet*
 
 La vida loca de esta alcaldía no tiene precedentes. Un coronel como alcalde (e) de Cartagena y un alcalde «loco» en Nueva York de viaje oficial sin agenda preestablecida, reflejan la decadencia de una ciudad que soporta todo? ¿Cuánto nos cuesta ese turismo de falsa gestión a los cartageneros? ¿Cuanto derroche de recursos mientras los niños se mueren de dengue. ¿Dau tendrá una agenda oculta en Nueva York?
@@ -19,7 +19,7 @@ La gira a Nueva York del alcalde **William Dau Chamat** con una **«agenda espec
 
 ## Los que viajaban a buscar las coimas de la corrupción
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/hero.jpg)
 *Samuel Moreno, exalcalde de Bogotá, también hacía sus viajes fantasmas a Estados Unidos. Allí recibía las coimas en dólares. Cortesía.*
 
 Recordemos que **Samuel Moreno, exalcalde de Bogotá** condenado por el Carrusel de la Contratación, tenía residencia en Miami y era ciudadano estadounidense. Se le facilitaba sus viajes que los disfrazaba con viajes oficiales u otras veces con vacaciones.
@@ -30,7 +30,7 @@ Asimismo, el fiscal anticorrupción, **Gustavo Moreno,** condenado por corrupci�
 
 ## ¿«La agenda oscura»? de William Dau
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/autorizacion-a-Dau.png)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/autorizacion-a-Dau.png)
 *¿Quieres leer la agenda oscura de Dau?*
 
 Debemos también recordar que William Dau tiene una formación cultural que lo lleva al amor por el dinero. Fue criado en una familia (los Dau) con **costumbres sirio—palestinas** donde el dinero juega un papel preponderante. Tiene dos antecedentes oscuros como veedor «anticorrupción» antes de ser alcalde de Cartagena. 
@@ -67,7 +67,7 @@ Regresemos al caso de ahora. Si uno lee con atención el oficio **No 0113152—2
 
 ## «La agenda oscura» oculta
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/Ana-Maria-Gonzalez-cooperacion-internacional.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/Ana-Maria-Gonzalez-cooperacion-internacional.jpeg)
 *Ana María González, es la "cerebro" de la UAC. Contratación del PAE, y muchos otros con la Bolsa Mercantil tiene una melaza que sola ella y Dau la saborean. El mayor logro de esta funcionaria fue ¡darle un contrato a Moca por $1.500 millones! para hacer una App sobre el Coronavirus que sirvió para nada. Cortesía.*
 
 Como se señaló, en ninguno de esos cuatro puntos aparece lugar, fecha, tema e interlocutores. Pura generalidades. Por ejemplo, el objetivo 1 de la agenda dice:
@@ -88,7 +88,7 @@ Para reflexionar no se necesita hacer un viaje del alcalde con su jefe de Cooper
 
 ## Falsos logros, una fiesta de memes
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/dau-visita.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/un-coronel-como-alcalde-e-y-la-agenda-oscura-en-nueva-york/dau-visita.jpeg)
 *Los falsos logros de la agenda de Dau se convirtieron en una fiesta de memes. Cortesía.*
 
 De hecho, el alcalde Dau  y su acompañante **Ana María González**, están paseando y mostrando sus reuniones sociales como si fuesen grandes logros, como el famoso reparcheo que sigue sin concluir después de tres meses de ejecución. Por ejemplo, mostró un video desde las escalinatas de la Universidad de Columbia donde dijo que se reunió con los premios nobeles Stiglitz y Phelps.

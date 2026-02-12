@@ -5,10 +5,10 @@ pubDate: "2024-09-24 03:07:56"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/la-jep-no-tuvo-piedad-a-zuccardi-y-sus-complices-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/la-jep-no-tuvo-piedad-a-zuccardi-y-sus-complices-i/hero.jpg
 ---
 
-![Aunque Vicente Blel (izq.) declaró a favor de Piedad Zuccardi, esta no pudo aclarar los hechos donde está mencionada junto a Alfonso Hilsaca para sobornar a testigos, según la JEP](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/la-jep-no-tuvo-piedad-a-zuccardi-y-sus-complices-i/hero.jpg)
+![Aunque Vicente Blel (izq.) declaró a favor de Piedad Zuccardi, esta no pudo aclarar los hechos donde está mencionada junto a Alfonso Hilsaca para sobornar a testigos, según la JEP](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/la-jep-no-tuvo-piedad-a-zuccardi-y-sus-complices-i/hero.jpg)
 *Aunque Vicente Blel (izq.) declaró a favor de Piedad Zuccardi, esta no pudo aclarar los hechos donde está mencionada junto a Alfonso Hilsaca para sobornar a testigos, según la JEP.*
 
 Como no aportó nada nuevo a los hechos judicializados, la JEP rechazó la inclusión de la exsenadora del partido de la U, **Piedad Zuccardi de García**. La justicia ordinaria la procesará por sus presuntos crímenes. Ella ocultó la verdad del entramado criminal donde participó junto a otros políticos, agentes del Estado y empresarios, como **Alfonso Hilsaca Eljadue** y la familia **Alfonso López**. En palabras de la JEP, ellos participaron en la **consolidación y expansión paramilitar que causó centenares de muertos** en la región Caribe.
@@ -37,7 +37,7 @@ En suma, los que decidirán el futuro político de Bolívar y de casi toda la re
 
 ¿Te interesa? [Los Intocables siguen delinquiendo y la Fiscalía lo sabe (XI)](/articulos/los-intocables-siguen-delinquiendo-y-la-fiscalia-lo-sabe/)
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/09/la-jep-no-tuvo-piedad-a-zuccardi-y-sus-complices-i/foto_Zuccardi_cossio_mandrake_hector_julio.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/la-jep-no-tuvo-piedad-a-zuccardi-y-sus-complices-i/foto_Zuccardi_cossio_mandrake_hector_julio.jpg)
 *Piedad Zuccardi en compañía del entonces candidato a la gobernación de Bolívar, Alfonso López Cossio (qepd). Les acompaña Mandrake, Héctor Luis Alfonso López, Edgar Fandiño, Manuel Berrío*
 
 ## Las razones

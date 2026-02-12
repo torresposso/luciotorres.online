@@ -5,10 +5,10 @@ pubDate: "2023-09-27 11:36:57"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/viejos-vicios-en-nuevas-convocatorias-del-icbf-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/viejos-vicios-en-nuevas-convocatorias-del-icbf-i/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/viejos-vicios-en-nuevas-convocatorias-del-icbf-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/viejos-vicios-en-nuevas-convocatorias-del-icbf-i/hero.jpg)
 
 Está en curso varias convocatorias de la dirección general del ICBF, donde se presentan, al parecer, algunas de las viejas irregularidades ya denunciadas oportunamente por **VoxPopuli Digital**. Existe una especie de tráfico de certificaciones falsas entre los mismos proponentes con el fin de obtener los contratos pretendidos. En esta oportunidad reseñamos dos casos que se presentan en la regional del Atlántico.
 
@@ -34,7 +34,7 @@ Al analizar los resultados de esas dos convocatorias se notan posibles actos de
 
 ## Primer caso irregular
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/viejos-vicios-en-nuevas-convocatorias-del-icbf-i/1000535249.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/viejos-vicios-en-nuevas-convocatorias-del-icbf-i/1000535249.jpg)
 
 Citemos el caso de la Fundación Juntos por el Desarrollo y Progreso de Colombia que certifica a la **Fundación Colombiana para el Desarrollo Económico Social** y de Paz, identificada con Nit. 900-787767. Esta se presentó a las zonas 27, 83 y 85 de las convocatorias CV-PC-003-2023SEN y CV-PC-004-2023SEN con experiencias acreditadas por otras fundaciones, y una de ellas se llama **Fundación Juntos por el Desarrollo y Progreso** de Colombia. Esta organización es identificada con Nit. 900.836.783-1, que entre otras cosas fue constituida el 09 de abril de 2015 en la Cámara de Comercio de Barranquilla. Certifica la celebración de un contrato desde el día 05 de junio de 2015 por valor de $37.463.000. La certificación que genera duda ya que ambas fundaciones fueron constituidas por miembros de la misma familia y comparten la misma revisora fiscal **Alix María Correa Sánchez** y tienen la misma sede. O sea, "yo con yo".
 

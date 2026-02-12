@@ -5,10 +5,10 @@ pubDate: "2024-10-29 03:05:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/la-exsenadora-daira-galvis-purgara-sus-pecados/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/la-exsenadora-daira-galvis-purgara-sus-pecados/hero.jpg
 ---
 
-![¿Daira Galvis purgará sus pecados en el cielo?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/la-exsenadora-daira-galvis-purgara-sus-pecados/hero.jpg)
+![¿Daira Galvis purgará sus pecados en el cielo?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/la-exsenadora-daira-galvis-purgara-sus-pecados/hero.jpg)
 *¿Daira Galvis purgará sus pecados en el cielo?*
 
 Antes de llegar al cielo, hay que llegar al purgatorio. ¿Daira Galvis purgará sus pecados? Quizás uno de los dos días más triste de **Daira Galvis Méndez** fue el 20 de marzo de 2015. Ese día le dieron la infausta noticia de la muerte de su leal compañera **María del Socorro Bustamante Ibarra**, la popular Mayo, en una sala UCI de Medellín. Nueve años después, la exsenadora, tras una falla sistémica en la madrugada de hoy, murió en la UCI de la **clínica Porto Azul** de Barranquilla.
@@ -17,7 +17,7 @@ Asimismo, el segundo día más triste de Daira Galvis fue cuando la Corte Suprem
 
 ¿Te interesa?
 
-[![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/la-exsenadora-daira-galvis-purgara-sus-pecados/daira-galvis-2-300x200.jpg "La paradoja de Daira: de la cumbre al infierno")](/articulos/la-paradoja-de-daira-de-la-cumbre-al-infierno/)
+[![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/la-exsenadora-daira-galvis-purgara-sus-pecados/daira-galvis-2-300x200.jpg "La paradoja de Daira: de la cumbre al infierno")](/articulos/la-paradoja-de-daira-de-la-cumbre-al-infierno/)
 
 [La paradoja de Daira: de la cumbre al infierno](/articulos/la-paradoja-de-daira-de-la-cumbre-al-infierno/)
 

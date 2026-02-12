@@ -5,10 +5,10 @@ pubDate: "2025-02-13 14:18:33"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-expresidente-uribe-esta-acorralado-impide-avance-de-su-juicio-criminal-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/el-expresidente-uribe-esta-acorralado-impide-avance-de-su-juicio-criminal-i/hero.jpg
 ---
 
-![Senador Iván Cepeda Castro, la víctima y el denunciante de Álvaro Uribe, tiene sobre las cuerdas al expresidente Uribe, Impide avance de su juicio criminal. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-expresidente-uribe-esta-acorralado-impide-avance-de-su-juicio-criminal-i/hero.jpg)
+![Senador Iván Cepeda Castro, la víctima y el denunciante de Álvaro Uribe, tiene sobre las cuerdas al expresidente Uribe, Impide avance de su juicio criminal. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/el-expresidente-uribe-esta-acorralado-impide-avance-de-su-juicio-criminal-i/hero.jpg)
 *Senador Iván Cepeda Castro, la víctima y el denunciante de Álvaro Uribe, tiene sobre las cuerdas al expresidente Uribe, Impide avance de su juicio criminal. Cortesía.*
 
 El expresidente **Álvaro Uribe Vélez** ―el presunto capo invisible auspiciador del paramilitarismo― teme que avance su juicio criminal. Su conducta marañera quedó evidenciada en este proceso. Es el principal integrante de **Los Intocables**. Se siente acorralado y sin salida, porque por primera vez ―después de 40 años de presunta vida delincuencial― la justicia lo tiene en el punto de mira. Las pruebas son contundentes. No tuvo más remedio que aplicar la **estrategia _«gato boca arriba»_** para que la Fiscalía no le dé el zarpazo que lo hundiría en la cárcel por fraude procesal y manipulación de testigos.
@@ -19,7 +19,7 @@ Como no le funcionó su **estrategia de dilación** el lunes, porque la juez rec
 
 ## Contexto
 
-![¿Fin de la impunidad de Álvaro Uribe, quien impide continuidad del juicio criminal?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-expresidente-uribe-esta-acorralado-impide-avance-de-su-juicio-criminal-i/URIBE-FIN-DE-LA-IMPUNIDAD.jpg)
+![¿Fin de la impunidad de Álvaro Uribe, quien impide continuidad del juicio criminal?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/el-expresidente-uribe-esta-acorralado-impide-avance-de-su-juicio-criminal-i/URIBE-FIN-DE-LA-IMPUNIDAD.jpg)
 *¿Fin de la impunidad de Álvaro Uribe, quien impide continuidad del juicio criminal?*
 
 Se recordará que el expresidente ordenó atacar infundadamente al senador [**Iván Cepeda Castro**](/articulos/comunicados-caso-alvaro-uribe/) en el 2012, porque había recolectado testimonios de exjefes paramilitares que dieron fe de la conducta criminal del expresidente. El debate se realizó en el 2014. Allí lo desnudó sobre los nexos del expresidente con los escuadrones de la muerte. Fue entonces cuando Uribe, instrumentalizando a Cadena, creó pruebas falsas para denunciar a Cepeda ante la Corte Suprema. Ésta, en 2018, emitió la sentencia SP245-2018 (documento no disponible) de la Sala de Instrucción II, donde señaló que no había méritos para abrir una investigación a Cepeda:
@@ -40,7 +40,7 @@ La situación de la clase política colombiana ―cualquiera que sea su ideolog�
 
 ## La estrategia de dilación
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-expresidente-uribe-esta-acorralado-impide-avance-de-su-juicio-criminal-i/Captura-de-pantalla-2025-02-11-224636.png)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/el-expresidente-uribe-esta-acorralado-impide-avance-de-su-juicio-criminal-i/Captura-de-pantalla-2025-02-11-224636.png)
 *El expresidente Uribe está acorralado. Impide avance de su juicio criminal. Cortesía.*
 
 Lo que se observa de parte de Uribe y sus abogados, evidentemente, es una estrategia de dilación como prolongación de la **estrategia de retractación usada por muchos políticos para evadir el juicio criminal**. Esta verdad jurídica la demostró la Corte Suprema de Justicia en los casos de **Piedad Zuccardi** (exsenadora de la U ) y la difunta **Daira Galvis**, exsenadora de Cambio Radical.

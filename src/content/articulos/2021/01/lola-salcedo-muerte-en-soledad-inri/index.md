@@ -5,10 +5,10 @@ pubDate: "2021-01-03 22:17:00"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/lola-salcedo-muerte-en-soledad-inri/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/01/lola-salcedo-muerte-en-soledad-inri/hero.jpg
 ---
 
-\[caption id="attachment\_13623" align="aligncenter" width="1024"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/01/lola-salcedo-muerte-en-soledad-inri/hero.jpg) Lola Salcedo Castañeda, mi columnista favorita en mi primera juventud..\[/caption\] **Lola Salcedo** murió como vivió: en la soledad. La reconocida periodista fue hallada hoy muerta en la soledad de su apartamento ubicado en **Pradomar, Puerto Colombia**, al norte de Barranquilla. Es un sitio ideal para esconderse en medio de la angustia o la depresión. Su último mensaje fue a las 8:01 de la noche del 30 de diciembre de 2020. Lola demostró que no le gusta el tiempo extendido. ¿Y qué es el tiempo? ¿Acaso no es una ilusión? ¿Y por qué se envenenó? Lola no andaba por la rama. Hablaba claro. Y fue radical hasta con su vida. ¿Fue cobarde? ¿Valiente? No la juzgo. No puedo juzgarla. Soy incapaz de juzgar. Soy imperfecto. Aceptaré lo que ella propuso con su suicidio. ¿Somos libres? ¿Hasta quitarnos nuestra propia vida? ¿Acaso no fue una huida sin alcanzar sus sueños?
+\[caption id="attachment\_13623" align="aligncenter" width="1024"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/01/lola-salcedo-muerte-en-soledad-inri/hero.jpg) Lola Salcedo Castañeda, mi columnista favorita en mi primera juventud..\[/caption\] **Lola Salcedo** murió como vivió: en la soledad. La reconocida periodista fue hallada hoy muerta en la soledad de su apartamento ubicado en **Pradomar, Puerto Colombia**, al norte de Barranquilla. Es un sitio ideal para esconderse en medio de la angustia o la depresión. Su último mensaje fue a las 8:01 de la noche del 30 de diciembre de 2020. Lola demostró que no le gusta el tiempo extendido. ¿Y qué es el tiempo? ¿Acaso no es una ilusión? ¿Y por qué se envenenó? Lola no andaba por la rama. Hablaba claro. Y fue radical hasta con su vida. ¿Fue cobarde? ¿Valiente? No la juzgo. No puedo juzgarla. Soy incapaz de juzgar. Soy imperfecto. Aceptaré lo que ella propuso con su suicidio. ¿Somos libres? ¿Hasta quitarnos nuestra propia vida? ¿Acaso no fue una huida sin alcanzar sus sueños?
 
 ## El INRI de Lola
 

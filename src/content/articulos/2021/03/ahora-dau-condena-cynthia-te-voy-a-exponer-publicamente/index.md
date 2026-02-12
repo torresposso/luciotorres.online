@@ -5,10 +5,10 @@ pubDate: "2021-03-18 19:28:06"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/ahora-dau-condena-cynthia-te-voy-a-exponer-publicamente/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/ahora-dau-condena-cynthia-te-voy-a-exponer-publicamente/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/ahora-dau-condena-cynthia-te-voy-a-exponer-publicamente/cynthia.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/ahora-dau-condena-cynthia-te-voy-a-exponer-publicamente/cynthia.jpeg)
 *Ahora Dau condena. En los tiempos que William Dau usaba a Cynthia como su Negrita Puloy. "Pídeme perdón para que vuelvas a mi rebaño", le gritó.*
 
 Ahora **Dau condena.** La víctima es Cynthia Pérez Amador , su ex primera dama. Ella se acogió al **principio de oportunidad dentro del proceso de investigación que realiza la Fiscalía sobre su contrato de OPS**. También había manifestado que dirigirá **Salvemos a Cartagena**, ya que es una de las tres inscriptoras del alcalde. Estos dos hechos enfurecieron a Dau.
@@ -19,7 +19,7 @@ La forma grotesca cómo el alcalde se dirige a su antigua aliada, denota un alto
 
 William Dau se envenenó luego de que se reunió con «la niña de sus ojos», **Néstor Castro Castañeda, gerente de Corvivienda**. Como la alcaldía es un centro del chisme y de la impostura, según fuentes de entero crédito, Castro Castañeda le dijo al alcalde que **Cynthia Pérez** había ido donde él para pedirle Ops a su grupo y que contratara una ESAL (Entidad Sin Ánimo de Lucro).
 
-\[caption id="attachment\_14139" align="aligncenter" width="1300"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/ahora-dau-condena-cynthia-te-voy-a-exponer-publicamente/hero.jpg)  El gerente de Corvivienda, **Néstor Castro Castañeda** con Cynthia Pérez.\[/caption\]
+\[caption id="attachment\_14139" align="aligncenter" width="1300"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/ahora-dau-condena-cynthia-te-voy-a-exponer-publicamente/hero.jpg)  El gerente de Corvivienda, **Néstor Castro Castañeda** con Cynthia Pérez.\[/caption\]
 
 Mis fuentes me manifestaron que Cynthia Pérez se reunió con el gerente de Corvivienda, Néstor Castro Castañeda. Luego éste se reunió con el alcalde Dau y le informó lo que había hablado con la exprimera dama. Y el mandatario rompió en cólera.
 

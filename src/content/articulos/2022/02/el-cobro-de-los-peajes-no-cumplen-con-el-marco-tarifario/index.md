@@ -5,10 +5,10 @@ pubDate: "2022-02-13 20:43:14"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-cobro-de-los-peajes-no-cumplen-con-el-marco-tarifario/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/el-cobro-de-los-peajes-no-cumplen-con-el-marco-tarifario/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-cobro-de-los-peajes-no-cumplen-con-el-marco-tarifario/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/el-cobro-de-los-peajes-no-cumplen-con-el-marco-tarifario/hero.jpg)
 *Nixon Torres, abogado, demandó el sistema de peajes en Turbaco. El cobro de los peajes no cumplen con el marco tarifario*
 
 ¿El cobro de los peajes cumplen con el marco tarifario? Ninguno de los peajes urbanos que funcionan en el territorio bolivarense cumplen con el marco tarifario, tal como lo determinó la Corte Constitucional. En esta condición se encuentran los peajes de Cartagena y Turbaco.  

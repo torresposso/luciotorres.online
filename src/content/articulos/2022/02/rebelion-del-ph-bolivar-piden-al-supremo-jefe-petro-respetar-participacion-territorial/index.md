@@ -5,7 +5,7 @@ pubDate: "2022-02-11 20:44:38"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/rebelion-del-ph-bolivar-piden-al-supremo-jefe-petro-respetar-participacion-territorial/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/rebelion-del-ph-bolivar-piden-al-supremo-jefe-petro-respetar-participacion-territorial/hero.jpg
 ---
 
 (imagen no disponible)
@@ -23,7 +23,7 @@ Bogotá siempre viene a los territorios a buscar los votos con las manos vacías
 
 ## La puñalada trapera de Racero
 
-![¡Rebelión del PH Bolívar! Racedo y Petro](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/rebelion-del-ph-bolivar-piden-al-supremo-jefe-petro-respetar-participacion-territorial/hero.jpg)
+![¡Rebelión del PH Bolívar! Racedo y Petro](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/rebelion-del-ph-bolivar-piden-al-supremo-jefe-petro-respetar-participacion-territorial/hero.jpg)
 *Gustavo Petro y David Racedo, tal para cual. ¡Rebelión del PH Bolívar!*
 
 Dentro de este proceso de la lista Bolívar, hay algo singular. El enemigo del Pacto Histórico no fue externo. El fuego amigo vino de Bogotá y del círculo cercano del jefe supremo del Pacto Histórico. ¡Explicame eso! Bogotá diseñó la lista que se inscribió el 13 de diciembre de 2021. Petro y los demás jefes de la coalición firmaron el acta donde se incluyó a Sandra Villadiego. Pero, después el mismo Petro hizo como Pedro, negó no una sino seis veces su participación en esa decisión. ¿Cómo se llama eso? 

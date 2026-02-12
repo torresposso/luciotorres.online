@@ -5,10 +5,10 @@ pubDate: "2021-06-22 00:22:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/verdades-y-mentiras-entorno-a-los-peajes-viales-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/verdades-y-mentiras-entorno-a-los-peajes-viales-i/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/verdades-y-mentiras-entorno-a-los-peajes-viales-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/verdades-y-mentiras-entorno-a-los-peajes-viales-i/hero.jpg)
 *Julio Gerleín Echeverría en la audiencia pública Caso Aida Merlano. Verdades y mentiras del contrato vial. (Cortesía El Heraldo).*
 
 ¿Quieres saber las verdades y mentiras en torno a los peajes de los contratos viales? **Una de las áreas de contratación pública por medio de la cual se ha desangrado más al Estado y, por consiguiente, a la sociedad colombiana, es la infraestructura vial.** Los contratos viales de **cuarta generación** perfeccionaron un modelo de apropiación ilegítima de los recursos públicos que da la apariencia de legalidad. Para solo mencionar un caso, con la **Ruta El Sol**, cuyo principal inversionista es **Odebrecht**. Esta empresa pagó aproximadamente **12 millones de dólares en sobornos.**  

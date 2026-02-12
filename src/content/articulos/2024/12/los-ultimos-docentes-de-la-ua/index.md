@@ -5,10 +5,10 @@ pubDate: "2024-12-05 01:18:27"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/los-ultimos-docentes-de-la-ua/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/los-ultimos-docentes-de-la-ua/hero.jpg
 ---
 
-![Danilo Hernández, alegre por el programa de medicina. Pero los últimos docentes convencionales están tristes porque no les atienden sus exigencias.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/los-ultimos-docentes-de-la-ua/Danilo-Hernandez.jpeg)
+![Danilo Hernández, alegre por el programa de medicina. Pero los últimos docentes convencionales están tristes porque no les atienden sus exigencias.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/los-ultimos-docentes-de-la-ua/Danilo-Hernandez.jpeg)
 *Danilo Hernández, alegre por el programa de medicina. Pero los últimos docentes convencionales están tristes porque no les atienden sus exigencias.*
 
 Mientras los últimos docentes (68) de la Universidad del Atlántico (UA), con derechos convencionales, están tristes, alegres están los directivos. **La comisión creada por el Consejo Superior** para buscarle una salida a su problema sigue en divagaciones. En tanto, los directivos se encuentran alegres porque abrieron las (documento no disponible) inscripciones hasta (documento no disponible) el 9 de diciembre el programa de medicina. Pero estas dos caras, aparentemente contradictorias, reflejan, de algún modo, la profunda crisis del Alma Máter en lo financiero, lo ético y de la vida existencial de sus estudiantes.

@@ -5,10 +5,10 @@ pubDate: "2025-03-27 16:32:23"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-extranas-consignaciones-de-un-directivo-de-camacol-a-un-subintendente-de-la-policia-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/las-extranas-consignaciones-de-un-directivo-de-camacol-a-un-subintendente-de-la-policia-i/hero.jpg
 ---
 
-![Al parecer, Álvaro Cubas Montesd le da instrucciones a los policías para que desalojen violentamente a los campesinos](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-extranas-consignaciones-de-un-directivo-de-camacol-a-un-subintendente-de-la-policia-i/hero.jpg)
+![Al parecer, Álvaro Cubas Montesd le da instrucciones a los policías para que desalojen violentamente a los campesinos](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/las-extranas-consignaciones-de-un-directivo-de-camacol-a-un-subintendente-de-la-policia-i/hero.jpg)
 *Álvaro Cubas Montes, compañero de Rafael Simón del Castillo, en la dirección de Camacol, es quien hizo las transferencias al subintendente Ernesto Cogollo para que hostigue a los campesinos de Pontezuela. Aquí, en el predio, al parecer, le da instrucciones a Cogollo y otros agentes.*
 
 Las extrañas consignaciones en pesos recibidas por el subintendente de la policía, **Ernesto Cogollo**, uno de los agentes más activos que quieren expulsar a los campesinos del predio El Socorro (**La Ingeniosa**), jurisdicción del corregimiento de Pontezuela (Cartagena), podrían ser la cabeza de proceso de un supuesto soborno a funcionario público.
@@ -17,7 +17,7 @@ Pero lo más extraño es que las extrañas consignaciones fueron colocadas por e
 
 ## Las extrañas consignaciones: prueba reina
 
-![Consignaciones a Cogollo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-extranas-consignaciones-de-un-directivo-de-camacol-a-un-subintendente-de-la-policia-i/Cogollo.jpg)
+![Consignaciones a Cogollo](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/las-extranas-consignaciones-de-un-directivo-de-camacol-a-un-subintendente-de-la-policia-i/Cogollo.jpg)
 *Aquí están las pruebas. Estas son las extrañas consignaciones de Cubas al subintendente Cogollo.*
 
 Las extrañas consignaciones de Cubas Montes al subintendente Cogollo no son tan extrañas. Podrían ser la prueba reina de que los inversores y empresarios detrás de los proyectos inmobiliarios en la zona norte de Cartagena, instrumentalizan la violencia estatal contra los campesinos que la poseen. Si así lo hacen con un subintendente, ¿cómo será con los fiscales, jueces e inspectores de policía?
@@ -34,7 +34,7 @@ El subintendente Cogollo, por su parte, al ser consultado por **VoxPopuli Digita
 
 ## La expansión de Serena del Mar
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/las-extranas-consignaciones-de-un-directivo-de-camacol-a-un-subintendente-de-la-policia-i/Serena-del-Mar-y-su-expansion-1024x732.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/las-extranas-consignaciones-de-un-directivo-de-camacol-a-un-subintendente-de-la-policia-i/Serena-del-Mar-y-su-expansion-1024x732.jpeg)
 *Esta es la expansión de Serena del Mar. La 90A con la carretera a Bayunca, por la Vía al Mar, constituye la expansión urbanística de esa Ciudad en la Ciudad. La zona rural de Pontezuela es su corazón.*
 
 Los constructores citados diseñaron **un proyecto inmobiliario** de alto costo que pretenden construir, presuntamente, en ese lugar. Para ello le cambiaron el nombre de El Socorro por **Los Arrayanes**. Este proyecto inmobiliario es parte de la expansión urbanística jalonada por el proyecto **Serena del Mar** del empresario **Daniel Haime Gutt**.

@@ -5,10 +5,10 @@ pubDate: "2024-07-31 04:02:53"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/hero.jpg
 ---
 
-![Una camioneta similar tenía Omar Cervantes González](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/omar.jpeg)
+![Una camioneta similar tenía Omar Cervantes González](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/omar.jpeg)
 *¿Por qué mataron al inspector de policía? En el interior de su camioneta Mitsubishi murió el inspector de policía de Arroyo de Piedra. /Foto suministrada*
 
 Morir bajo las balas del sicario en un día caluroso de Cartagena, ya hace parte del paisaje. La particularidad del homicidio de **Omar Cervantes González**, inspector de policía de Arroyo de Piedra, corregimiento de Cartagena, ocurrido al mediodía del 29 de julio, tiene un pequeño detalle que las autoridades no se percataron para responder a esta pregunta: ¿Por qué mataron al inspector de policía? En las primeras pesquisas de VoxPopuli Digital, logramos establecer oficialmente que la víctima **tenía 20 investigaciones de la oficina de Control Disciplinario de la alcaldía distrital**.
@@ -33,7 +33,7 @@ A partir de esta investigación, se podría encontrar la causalidad de su asesin
 
 ## Notaria y exgobernador invaden tierra
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/hero.jpg)
 *El inspector de policía no hizo lo suficiente para restituir una vía pública tomada por el exgobernador Carlos Mendivil Ciodaro y su esposa Evelia Rosa Ayazo, Notaria Cuarta de Cartagena*
 
 Por ejemplo, en toda la zona norte el costo de la tierra se multiplicó con ocasión de grandes obras civiles y proyectos del Estado, como el aeropuerto de Bayunca o los proyectos inmobiliarios. El inspector Cervantes tenía jurisdicción en Arroyo de Piedra donde opera la espuria **Empresa Asociativa Campesina** que despojó y estafó a varios propietarios, entre ellos, a **Eddy Marina Aguacha de López**. Estas pequeñas bandas operan con el amparo, incluso, de las autoridades oficiales.
@@ -48,7 +48,7 @@ Te recomiendo: [El Rinconcito del exgobernador Mendivil posado en la vía públi
 
 ## A Gregorio Rico también lo iban a matar
 
-![Una de las tantas investigaciones realizadas por VoxPopuli Digital en 2017 con consecuencias penales y disciplinarias, fue cuando puso al descubierto la existencia de 30 construcciones ilegales de los Quiroz y del alcalde local 2, Gregorio Rico Gómez. Ellos dijeron que mentíamos, pero la realidad se encargó de desmentirlos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/Gregorio_rico-1024x646.jpg)
+![Una de las tantas investigaciones realizadas por VoxPopuli Digital en 2017 con consecuencias penales y disciplinarias, fue cuando puso al descubierto la existencia de 30 construcciones ilegales de los Quiroz y del alcalde local 2, Gregorio Rico Gómez. Ellos dijeron que mentíamos, pero la realidad se encargó de desmentirlos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/Gregorio_rico-1024x646.jpg)
 *El asesinato del inspector de policía abre el debate sobre las irregularidades en el litigio de tierra. Una de las tantas investigaciones realizadas por VoxPopuli Digital en 2017 con consecuencias penales y disciplinarias, fue cuando puso al descubierto la existencia de 30 construcciones ilegales de los Quiroz y del alcalde local 2, Gregorio Rico Gómez. Ellos dijeron que mentíamos, pero la realidad se encargó de desmentirlos.*
 
 El asesinato del inspector de policía Cervantes González, recuerda el caso del exalcalde de la localidad de la Virgen y Turística, **Gregorio Rico Gómez**. Pidió asilo en Canadá porque lo iban a matar. Después de salir de la alcaldía local, se dedicó al tema de tierra. En algún momento estuvo detrás de la finca Canalete, según lo manifiesta los campesinos que vienen siendo perseguidos por el inspector de policía de Bayunca, **Arnaldo Hidalgo Hurtado.**
@@ -67,7 +67,7 @@ Son 20 procesos desde 2008 cuando ingresó como inspector de policía, probablem
 
 ## La camioneta del inspector de policía asesinado
 
-![20 procesos disciplinarios .  Una camioneta Mitsubishi Outlander similar tenía el inspector asesinado](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/Camioneta_mitsubishi-1024x628.jpg)
+![20 procesos disciplinarios .  Una camioneta Mitsubishi Outlander similar tenía el inspector asesinado](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/20-procesos-disciplinarios-tenia-inspector-de-policia-asesinado-i/Camioneta_mitsubishi-1024x628.jpg)
 *Una camioneta Mitsubishi Outlander similar tenía el inspector de policía asesinado./Cortesía.*
 
 El dato curioso es que de esos 20 procesos, **17 terminaron en archivo**. Solo tenía 3 activos hasta el 29 de julio, día en que varios sicarios le dieron 4 tiros mortales mientras conducía su **camioneta Mitsubishi Outlander**. Las heridas que sufrió, al parecer, le causó la muerte al instante. Perdió el control de la camioneta que se vino a estrellar contra una cuneta adyacente a la rotonda de la Cordialidad, a la altura de la entrada al barrio El Pozón.

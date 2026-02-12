@@ -5,10 +5,10 @@ pubDate: "2023-10-15 19:35:59"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/nixon-torres-la-esperanza-democratica-del-concejo-de-cartagena/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/nixon-torres-la-esperanza-democratica-del-concejo-de-cartagena/hero.jpg
 ---
 
-![Nixon Torres, la Esperanza Democrática del concejo de Cartagena](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/nixon-torres-la-esperanza-democratica-del-concejo-de-cartagena/hero.jpg)
+![Nixon Torres, la Esperanza Democrática del concejo de Cartagena](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/nixon-torres-la-esperanza-democratica-del-concejo-de-cartagena/hero.jpg)
 *Nixon Torres, la Esperanza Democrática del concejo de Cartagena*
 
 El constitucionalista y administrativista, **Nixon Torres Cárcamo**, es el principal candidato (**No 3 en la lista**) que tiene **Esperanza Democrática** en su lista al concejo de Cartagena. Si es elegido, sería un salto cualitativo que daría la corporación en los próximos cuatro años, en el entendido de que su capacidad intelectual y su independencia política, demostrada en la práctica, son garantías para un verdadero control político al alcalde de turno.

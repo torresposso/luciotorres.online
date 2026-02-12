@@ -5,14 +5,14 @@ pubDate: "2021-05-10 03:25:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/primera-reunion-del-comando-nacional-de-paro-con-duque/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/primera-reunion-del-comando-nacional-de-paro-con-duque/hero.jpg
 ---
 
 El Comando Nacional de Paro **aceptó reunirse con el presidente Iván Duque Márquez** este lunes al mediodía en la Casa de Mariño. Pero el Paro el 10 de Mayo se mantiene. Los directivos del movimiento de protesta, que tiene en vilo al país, solicitaron el acompañamiento de voceros de la ONU y del Episcopado colombiano.
 
 Insisten en denunciar el uso desmedido de la fuerza por parte del gobierno para contener el movimiento de protesta en las calles. También rechazó la militarización del país y la violencia de la policía y el ESMAD para sofocar la protesta social.
 
-\[caption id="attachment\_14927" align="aligncenter" width="320"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/primera-reunion-del-comando-nacional-de-paro-con-duque/hero.jpg) Paro 10 de Mayo y diálogo con el gobierno.\[/caption\]
+\[caption id="attachment\_14927" align="aligncenter" width="320"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/primera-reunion-del-comando-nacional-de-paro-con-duque/hero.jpg) Paro 10 de Mayo y diálogo con el gobierno.\[/caption\]
 
 **Francisco Maltés, presidente de la CUT**, dijo en la noche de hoy que asistirán para presentar las peticiones consignadas en el Pliego Nacional de Emergencia.
 

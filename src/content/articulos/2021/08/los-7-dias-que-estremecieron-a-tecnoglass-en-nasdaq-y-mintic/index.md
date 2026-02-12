@@ -5,10 +5,10 @@ pubDate: "2021-08-28 21:31:52"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/los-7-dias-que-estremecieron-a-tecnoglass-en-nasdaq-y-mintic/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/los-7-dias-que-estremecieron-a-tecnoglass-en-nasdaq-y-mintic/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/los-7-dias-que-estremecieron-a-tecnoglass-en-nasdaq-y-mintic/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/los-7-dias-que-estremecieron-a-tecnoglass-en-nasdaq-y-mintic/hero.jpg)
 *La familia Daes Abuchaide muy alegres. Los 7 días que estremecieron a Tecnoglass fue el preludio de una gran conquista: Tocar la campana de cristal en Nasdaq. Con el repunte del sector de la construcción le puede ir mejor, dicen algunos expertos. Cortesía.*
 
 Los 7 días que estremecieron a Tecnoglass en Nasdaq llevó a los **Daes Abuchaibe** de la incertidumbre a la alegría. **Tocar la campana en Nasdaq por segunda vez, es histórico.** Pero ¿qué tiene tiene que ver «el caldo con la tajá» cuando se habla de las grandes fluctuaciones de las acciones de **Tecnoglass en Nasdaq** y el escándalo de los **$70 mil millones (18.3 millones de dólares)** que se perdieron con el contrato de **Centros Poblados**? A simple vista nada. 
@@ -27,7 +27,7 @@ https://twitter.com/ChrisDaes/status/1429182779963682825?s=20
 
 ## Luz—oscuridad—luz
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/los-7-dias-que-estremecieron-a-tecnoglass-en-nasdaq-y-mintic/daes-nasdaq.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/los-7-dias-que-estremecieron-a-tecnoglass-en-nasdaq-y-mintic/daes-nasdaq.jpg)
 *Barranquilla conquista a Nasdaq. Los siete días que estremecieron a Tecnoglass. ¿Habrá mejores momentos?*
 
 La bolsa refleja las alegrías, frustraciones, incertidumbres y diferentes matices emocionales de los inversionistas. **Pero también es el espejo del estado emocional de los propietarios de esas empresas.** Esto lo entendí cuando me puse a estudiar la motivación humana desde la neurociencia. ¿Quién iba a pensar que después de los siete días oscuros, los hermanos Daes Abuchaibe iban a sonar de nuevo la campana de Nasdaq? Pero sucedió. ¿Solidaridad con una empresa barranquillera que por primera vez se mete entre los grandes del mundo? Es muy probable.

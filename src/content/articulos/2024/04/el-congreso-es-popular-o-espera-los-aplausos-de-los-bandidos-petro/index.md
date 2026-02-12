@@ -5,10 +5,10 @@ pubDate: "2024-04-13 03:21:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-congreso-es-popular-o-espera-los-aplausos-de-los-bandidos-petro/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/el-congreso-es-popular-o-espera-los-aplausos-de-los-bandidos-petro/hero.jpg
 ---
 
-![«El Congreso es popular o espera los aplausos de los bandidos». El presidente Petro saluda efusivamente al gobernador de Bolívar, Yamil Arana. Igualmente, el ministro de Salud, Guillermo Alfonso Jaramillo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-congreso-es-popular-o-espera-los-aplausos-de-los-bandidos-petro/petro_yamil_portada_1-1-1024x705.jpeg)
+![«El Congreso es popular o espera los aplausos de los bandidos». El presidente Petro saluda efusivamente al gobernador de Bolívar, Yamil Arana. Igualmente, el ministro de Salud, Guillermo Alfonso Jaramillo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/el-congreso-es-popular-o-espera-los-aplausos-de-los-bandidos-petro/petro_yamil_portada_1-1-1024x705.jpeg)
 *«El Congreso es popular o espera los aplausos de los bandidos». El presidente Petro saluda efusivamente al gobernador de Bolívar, Yamil Arana. Igualmente, el ministro de Salud, Guillermo Alfonso Jaramillo.*
 
 «El Congreso es popular o espera los aplausos de los bandidos». Esta fue la sentencia central del discurso del presidente Gustavo Petro en el lanzamiento de los **Equipos Básicos y Cabildo de Salud** realizado hoy en Cartagena. Mientras el gobernador de Bolívar, **Yamil Arana Padauí**, atacaba de frente al **«cartel del ibuprofeno de las EPS»** y se ganaba los aplausos de los presentes, el mandatario de los colombianos lanzaba un petardo contra el congreso que le negó la reforma de salud el pasado 3 de abril.
@@ -23,7 +23,7 @@ Lo curioso del lanzamiento de los Equipos Básicos de Salud es que no se contó 
 
 ## El congreso es popular o es de los bandidos
 
-![Momento en que intervenía el gobernador de Bolívar, Yamil Arana sobre el cartel del Ibuprofesono, Entre tanto, el presidente proponía que congreso es popular o de los bandidos. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/el-congreso-es-popular-o-espera-los-aplausos-de-los-bandidos-petro/hero.jpg)
+![Momento en que intervenía el gobernador de Bolívar, Yamil Arana sobre el cartel del Ibuprofesono, Entre tanto, el presidente proponía que congreso es popular o de los bandidos. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/el-congreso-es-popular-o-espera-los-aplausos-de-los-bandidos-petro/hero.jpg)
 *Momento en que intervenía el gobernador de Bolívar, Yamil Arana sobre el cartel del Ibuprofeno, Entre tanto, el presidente proponía que congreso es popular o de los bandidos.*
 
 En el marco del lanzamiento de los **Equipos Básicos de Salud y Cabildo Abierto de Salud**, el presidente Petro se puso la carabina al hombro y lanzó varios disparos contra el congreso que los relacionó tácita o implícitamente con los supuestos «bandidos» de las EPS.

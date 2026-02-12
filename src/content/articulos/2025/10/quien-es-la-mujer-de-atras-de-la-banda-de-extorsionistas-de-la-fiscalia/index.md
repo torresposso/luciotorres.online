@@ -5,10 +5,10 @@ pubDate: "2025-11-01 02:23:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/quien-es-la-mujer-de-atras-de-la-banda-de-extorsionistas-de-la-fiscalia/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/quien-es-la-mujer-de-atras-de-la-banda-de-extorsionistas-de-la-fiscalia/hero.jpg
 ---
 
-![¿Quién es «la mujer de atrás» del cartel de la Fiscalía?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/quien-es-la-mujer-de-atras-de-la-banda-de-extorsionistas-de-la-fiscalia/hero.jpg)
+![¿Quién es «la mujer de atrás» del cartel de la Fiscalía?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/quien-es-la-mujer-de-atras-de-la-banda-de-extorsionistas-de-la-fiscalia/hero.jpg)
 *¿Quién es «la mujer de atrás» del cartel de la Fiscalía?*
 
 Era una audiencia reservada, casi clandestina. Las luces bajas, los murmullos contenidos y el eco de una justicia que, una vez más, se sienta en el banquillo de sus propios pecados. El escenario era digno del _Día de las Brujas_. ¿Quién es «la mujer de atrás» de la banda de extorsionistas de la Fiscalía?
@@ -23,7 +23,7 @@ El silencio de la reserva no era jurídico ni tampoco legalmente justificable, e
 
 ## La audiencia reservada
 
-![¿Qué esconde la Fiscalía al hacer una audiencia reservada para procesar a tres presuntos delincuentes? La ciudadanía tiene el derecho a conocer la intríngulis del ente acusador capturado por la delincuencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/quien-es-la-mujer-de-atras-de-la-banda-de-extorsionistas-de-la-fiscalia/audiencia-reservada-1024x1024.jpg)
+![¿Qué esconde la Fiscalía al hacer una audiencia reservada para procesar a tres presuntos delincuentes? La ciudadanía tiene el derecho a conocer la intríngulis del ente acusador capturado por la delincuencia.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/quien-es-la-mujer-de-atras-de-la-banda-de-extorsionistas-de-la-fiscalia/audiencia-reservada-1024x1024.jpg)
 *¿Qué esconde la Fiscalía al hacer una audiencia reservada para procesar a tres presuntos delincuentes? La ciudadanía tiene el derecho a conocer la intríngulis del ente acusador capturado por la delincuencia.*
 
 A las 12 del mediodía del **31 de octubre** parecía uno más en los corredores del poder judicial, pero algo no cuadraba. La fiscal Amorocho imputaba los delitos de **concusión, asociación para delinquir y acceso abusivo a un sistema informático**.

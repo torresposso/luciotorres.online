@@ -5,10 +5,10 @@ pubDate: "2024-11-06 19:58:47"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/dios-eligio-a-trump-o-los-miedos-y-la-ambicion/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/dios-eligio-a-trump-o-los-miedos-y-la-ambicion/hero.jpg
 ---
 
-![¿Dios eligió a Trump? Aquí el presidente electo de Estados Unidos, Donald Trump, al lado de su esposa Melania Trump. (Cortesía BBC).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/dios-eligio-a-trump-o-los-miedos-y-la-ambicion/Donald_trump.jpeg)
+![¿Dios eligió a Trump? Aquí el presidente electo de Estados Unidos, Donald Trump, al lado de su esposa Melania Trump. (Cortesía BBC).](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/dios-eligio-a-trump-o-los-miedos-y-la-ambicion/Donald_trump.jpeg)
 *¿Dios eligió a Trump? Aquí el presidente electo de Estados Unidos, Donald Trump, al lado de su esposa Melania Trump. (Cortesía BBC).*
 
 En la mañana de hoy ―cuando apenas se levanta Norteamérica y América Latina― el mundo se podría preguntar: **¿Dios eligió a Trump o los miedos y la ambición?** Sin duda, el regreso de Trump en las elecciones del 5 de noviembre de 2024, se debió a los miedos reales o no y a una sociedad ambiciosa que teme perder su **«sueño americano»**. Este triunfo se podría convertir en un desafío para los migrantes y las naciones latinoamericanas que, en vez de buscar su verdadero camino, vuelan allende a sus propias fronteras

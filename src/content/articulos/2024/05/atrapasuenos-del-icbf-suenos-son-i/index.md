@@ -5,10 +5,10 @@ pubDate: "2024-05-24 13:08:31"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/atrapasuenos-del-icbf-suenos-son-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/atrapasuenos-del-icbf-suenos-son-i/hero.jpg
 ---
 
-![«Atrapasueños» del ICBF, sueños son. Portada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/atrapasuenos-del-icbf-suenos-son-i/atrapasuenos_portada-1024x732.jpeg)
+![«Atrapasueños» del ICBF, sueños son. Portada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/atrapasuenos-del-icbf-suenos-son-i/atrapasuenos_portada-1024x732.jpeg)
 *«Atrapasueños» del ICBF, sueños son/Cortesía.*
 
 «Atrapasueños» del ICBF, es una Estrategia Intersectorial que, teóricamente es justa y necesaria. Pero, como es inútil callar la verdad, en realidad, «Atrapasueños», sueños son. Tal cual lo dice el cuento de Unamuno. Empezando, porque no tiene monitoreo y seguimiento en sus resultados para establecer su efectividad. Pero el problema fundamental del Instituto Colombiano de Bienestar Familiar se origina en el débil proceso de contratación que **facilita la corrupción galopante**.
@@ -35,7 +35,7 @@ Por tanto, **la clave está en la transparencia del proceso de contratación de 
 
 ## Atlántico y Magdalena
 
-![Los derechos de la niñez y adolescencia en «Atrapasueños» del ICBF, siguen siendo un sueño. ¿Comida para golero?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/atrapasuenos-del-icbf-suenos-son-i/hero.jpg)
+![Los derechos de la niñez y adolescencia en «Atrapasueños» del ICBF, siguen siendo un sueño. ¿Comida para golero?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/atrapasuenos-del-icbf-suenos-son-i/hero.jpg)
 *Los derechos de la niñez y adolescencia en «Atrapasueños» del ICBF, siguen siendo un sueño. ¿Comida para golero?*
 
 La directora nacional del Bienestar, **Astrid Cáceres Cárdenas**, delegó en la subdirectora, **Adriana Velásquez Lasprilla** el desarrollo de la convocatoria a través de la plataforma SECOP II. Pero, la centralización de estos procesos impide la participación de las veedurías ciudadanas para que se les resuelva las dudas.
@@ -48,7 +48,7 @@ Todo indica que en este proceso se repitieron las mismas anomalías que no vio e
 
 ## Un caso en concreto
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/atrapasuenos-del-icbf-suenos-son-i/image-3-787x1024.png)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/atrapasuenos-del-icbf-suenos-son-i/image-3-787x1024.png)
 
 El proceso está en la etapa de subsanación para aquellos que clasificaron en el primer lugar. La ciudadanía desconoce la ponderación para llegar a la clasificación de los elegidos. Mucho menos se discrimina a que departamento están ofertando los **152 oferentes.**
 
@@ -56,7 +56,7 @@ El **Comité Evaluador**, que funciona desde Bogotá, a juzgar de algunos veedor
 
 Se puede evidenciar que en el departamento del Atlántico seleccionaron y adjudicaron a una empresa llamada Corporación Sumando Sonrisas-**CORSUSO**. En tanto, en el Magdalena, escogieron a la Corporación Manos Unidas del Magdalena y la Universidad del Magdalena.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/atrapasuenos-del-icbf-suenos-son-i/image-2.png)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/atrapasuenos-del-icbf-suenos-son-i/image-2.png)
 
 Respecto a **CORSUSO**, logró habilitarse con certificaciones de una institución educativa. Además, presenta certificaciones de una una IPS del Magdalena. La sorpresa hallada por VoxPopuli Digital es que no cuenta con aval de la Secretaría de Salud del departamento del Magdalena, de donde es su domicilio. Tampoco de la Secretaría de Salud del departamento del Atlántico. ¿El Comité Evaluador de Bogotá se dio cuenta de este hecho que ya había sido advertido?
 

@@ -5,10 +5,10 @@ pubDate: "2024-12-15 15:25:44"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/caso-bonilla-exploto-la-mermelada-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/caso-bonilla-exploto-la-mermelada-i/hero.jpg
 ---
 
-![El presidente Gustavo Petro en la noche del 12 de diciembre de 2024. Caso Bonilla, romper relaciones con las unidades legislativas económicas del congreso ¿Colombia entraría a un estado "default"?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/caso-bonilla-exploto-la-mermelada-i/Gustavo_Petro_colegio_mayor_-1024x520.jpeg)
+![El presidente Gustavo Petro en la noche del 12 de diciembre de 2024. Caso Bonilla, romper relaciones con las unidades legislativas económicas del congreso ¿Colombia entraría a un estado "default"?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/caso-bonilla-exploto-la-mermelada-i/Gustavo_Petro_colegio_mayor_-1024x520.jpeg)
 *El presidente Gustavo Petro en la noche del 12 de diciembre de 2024. Caso Bonilla, romper relaciones con las unidades legislativas económicas del congreso ¿Colombia entraría a un estado "default"?.*
 
 Con el hundimiento de la **segunda reforma tributaria** del gobierno del cambio y el **Caso Bonilla**, sin duda, **explotó **_«_**la mermelada**_»_**** (auxilio parlamentario o cupos indicativos). Explotó como **modelo de relación política** con el congreso para tramitar leyes, reformas y, especialmente, iniciativas fiscales o económicas del gobierno de turno. Este modelo ―usado por todos los presidentes después de 1991― entró en estado de coma que ****_«_****llevaría a un default al país****_»_****, como lo advirtió el mismo presidente Gustavo Petro.
@@ -33,7 +33,7 @@ Bonilla administraba el gasto público y dirigía la producción, distribución 
 
 ## Caso Bonilla: Sin ruptura con la mermelada
 
-![A pesar del cuestionamiento que hizo el presidente Gustavo Petro  en el Colegio Mayor de Cartagena, con el Caso Bonilla, no presentó una autocrítica por el uso y abuso de la mermelada en su relación con el congreso.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/caso-bonilla-exploto-la-mermelada-i/Petro_bonilla.jpeg)
+![A pesar del cuestionamiento que hizo el presidente Gustavo Petro  en el Colegio Mayor de Cartagena, con el Caso Bonilla, no presentó una autocrítica por el uso y abuso de la mermelada en su relación con el congreso.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/caso-bonilla-exploto-la-mermelada-i/Petro_bonilla.jpeg)
 *A pesar del cuestionamiento que hizo el presidente Gustavo Petro en el Colegio Mayor de Cartagena, con el Caso Bonilla, no presentó una autocrítica por el uso y abuso de la mermelada en su relación con el congreso.*
 
 En Colombia, los ministros de Hacienda y Crédito Público tienen un papel central en la formulación y negociación de políticas económicas, fiscales y de crédito público, especialmente en los gobiernos de **Álvaro Uribe Vélez, Juan Manuel Santos e Iván Duque**. Contextualizando, la relación con el Congreso, y en particular con la Comisión Interparlamentaria de Crédito Público y las comisiones económicas, es fundamental para aprobar las leyes económicas.

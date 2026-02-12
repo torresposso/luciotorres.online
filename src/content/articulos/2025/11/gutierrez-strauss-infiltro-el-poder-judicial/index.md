@@ -5,10 +5,10 @@ pubDate: "2025-11-05 03:06:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/gutierrez-strauss-infiltro-el-poder-judicial/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/gutierrez-strauss-infiltro-el-poder-judicial/hero.jpg
 ---
 
-![Solo Juan Carlos Gutiérrez Strauss infiltró el poder judicial?  Darío Laino  andaba libremente por Barranquilla enriquecido con el producto de la guerra. Cayó en desgracia porque hubo una disputa grave con otro sector poderoso de los dueños de Barranquilla: los Daes.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/gutierrez-strauss-infiltro-el-poder-judicial/hero.jpg)
+![Solo Juan Carlos Gutiérrez Strauss infiltró el poder judicial?  Darío Laino  andaba libremente por Barranquilla enriquecido con el producto de la guerra. Cayó en desgracia porque hubo una disputa grave con otro sector poderoso de los dueños de Barranquilla: los Daes.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/gutierrez-strauss-infiltro-el-poder-judicial/hero.jpg)
 *¿Solo Juan Carlos Gutiérrez Strauss infiltró el poder judicial? Darío Laino andaba libremente por Barranquilla enriquecido con el producto de la guerra. Cayó en desgracia porque hubo una disputa grave con otro sector poderoso de los dueños de Barranquilla: los Daes Abuchaibe.*
 
 En los sótanos de la justicia barranquillera opera una hermandad que sobrevivió a todas las purgas, a todos los fiscales y procuradores. Hoy, en el centro de esa red, aparece el abogado **Juan Carlos Gutiérrez Strauss**, exdecano de Derecho de la Universidad Libre y actual **Procurador Judicial II Penal**.
@@ -31,7 +31,7 @@ Name Terán les enseñó cómo **lavar dinero capturando el Estado**, cómo **
 
 ## El capítulo Asthon: **La ruta judicial**
 
-![alianzas entre dirigentes políticos, empresarios, miembros de la fuerza pública y estructuras paramilitares del Bloque Norte de las AUC.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/gutierrez-strauss-infiltro-el-poder-judicial/alvaro_asthon.jpg)
+![alianzas entre dirigentes políticos, empresarios, miembros de la fuerza pública y estructuras paramilitares del Bloque Norte de las AUC.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/gutierrez-strauss-infiltro-el-poder-judicial/alvaro_asthon.jpg)
 *Alianzas entre dirigentes políticos, empresarios, miembros de la fuerza pública y estructuras paramilitares del Bloque Norte de las AUC.*
 
 [Ashton describió con detalles en la JEP](https://www.google.com/search?q=El+informe+de+la+comparencia+de+%C3%81lvaro+Asthon+ante+la+Jep&oq=El+informe+de+la+comparencia+de+%C3%81lvaro+Asthon+ante+la+Jep&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBdIBCjEzOTEwajBqMTWoAgiwAgHxBfUudX5qginQ8QX1LnV-aoIp0A&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:c67e60e7,vid:-Or_BpkoDNY,st:0) cómo **los pactos económicos, políticos y electorales** permitieron **la cooptación de instituciones públicas**, la **manipulación de elecciones** y el **control político en la Costa Caribe**. Mencionó nombres propios y roles precisos:
@@ -107,7 +107,7 @@ El **control de la Fiscalía** fue encomendado, inicialmente, a la llamada **
 
 ## Juan Carlos Gutiérrez Strauss
 
-![Juan Carlos Gutiérrez Strauss asistió a varios jefes paramilitares. Uno de sus clientes fue Alfonso Macía Vargas, quien usó los recursos de Palmeras de la Costa para financiar y auspiciar el paramilitarismo y sus crímenes de lesa humanidad.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/gutierrez-strauss-infiltro-el-poder-judicial/juancarlos_poder_firma.png)
+![Juan Carlos Gutiérrez Strauss asistió a varios jefes paramilitares. Uno de sus clientes fue Alfonso Macía Vargas, quien usó los recursos de Palmeras de la Costa para financiar y auspiciar el paramilitarismo y sus crímenes de lesa humanidad.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/gutierrez-strauss-infiltro-el-poder-judicial/juancarlos_poder_firma.png)
 *Juan Carlos Gutiérrez Strauss asistió legalmentea varios jefes paramilitares. Uno de sus clientes fue Alfonso Macíad Vargas, quien usó los recursos de Palmeras de la Costa para financiar y auspiciar el paramilitarismo y sus crímenes de lesa humanidad.*
 
 El caso del abogado **Juan Carlos Gutiérrez Strauss** sintetiza el tránsito oscuro entre la justicia y el crimen. En los noventa fue **Fiscal Delegado ante el Tribunal Superior de Barranquilla**, pero pronto se vio relacionado con los paramilitares que debía investigar.

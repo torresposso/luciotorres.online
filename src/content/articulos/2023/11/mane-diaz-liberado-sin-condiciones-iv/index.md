@@ -5,10 +5,10 @@ pubDate: "2023-11-14 04:38:33"
 author: "Lucio"
 categories: ["Análisis","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/mane-diaz-liberado-sin-condiciones-iv/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/mane-diaz-liberado-sin-condiciones-iv/hero.jpg
 ---
 
-![«Mane» Díaz fue liberado «sin condiciones», Antonio García, comandante del ELN. Foto cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/mane-diaz-liberado-sin-condiciones-iv/hero.jpg)
+![«Mane» Díaz fue liberado «sin condiciones», Antonio García, comandante del ELN. Foto cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/mane-diaz-liberado-sin-condiciones-iv/hero.jpg)
 *«Mane» Díaz fue liberado «sin condiciones», Antonio García, comandante del ELN. Foto cortesía.*
 
 ¿«Mane» Díaz liberado «sin condiciones»? Es el interrogante inicial. Mientras un juez de garantía de Maicao mandó a la cárcel a alias **_Arenca_ (Yerdinson José Bolívar Bolívar)**, junto a dos de sus compinches en el secuestro de **Manuel _Mane_ Díaz**, el comandante del ELN, **Antonio García**, explicó que su liberación se hizo **«sin condiciones y sin contraprestación alguna»**. Salió al paso a la versión según la cual se había pagado **una millonaria extorsión**. Esta versión se originó por la aparición de un carro transportador de valores en la caravana de la Comisión Humanitaria presidida por **Francisco Ceballos**, obispo de Riohacha y la ONU.
@@ -26,7 +26,7 @@ En este análisis, además, se propone la necesidad de una financiación de los 
 
 ## «Mane» Díaz liberado sin condición, García
 
-![«Mane» Díaz fue liberado «sin condiciones», según el ELN. Foto cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/mane-diaz-liberado-sin-condiciones-iv/Libre_mane_.jpg)
+![«Mane» Díaz fue liberado «sin condiciones», según el ELN. Foto cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/mane-diaz-liberado-sin-condiciones-iv/Libre_mane_.jpg)
 *«Mane» Díaz fue liberado «sin condiciones», según el ELN. Foto cortesía.*
 
 En un artículo fechado el 12 de noviembre por García, a nombre del Coce del ELN, dijo:
@@ -67,7 +67,7 @@ Te puede interesar: [El gol de la libertad de «Lucho» Díaz (III)](/articulos
 
 ## No hay acuerdo para no secuestrar
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/mane-diaz-liberado-sin-condiciones-iv/Jesus-Emilio-Jaramillo.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/mane-diaz-liberado-sin-condiciones-iv/Jesus-Emilio-Jaramillo.jpeg)
 
 En otros tiempos el ELN se financiaba con la extorsión a las multinacionales del petróleo. Explotaba el tubo y en Europa negociaba los _petrodólares_. El frente más rico era el **Domingo Laín**. Tal vez el Coce vivía en gran parte de los aportes del **Frente de Guerra Oriental**. Pero en esa época de ricos, secuestraron y mataron al obispo **Jesús Emilio Jaramillo**, beatificado por la iglesia católica. ¿Contradicción? En palabras de García, ahora es una guerrilla pobre y por eso recurren al secuestro. ¿Entonces? _¡Palo porque bogas, palo porque no bogas!_ Cuando eras rico secuestraba y mataba a un hombre bueno como al hoy beato Jaramillo. Lo mataron por criticar la actuación demencial del ELN. ¿Matarán a un periodista porque les devela su verdadera máscara? En los tiempos de guerra secuestran y matan. En los tiempo de diálogo para la paz ¿por qué lo siguen haciendo?
 

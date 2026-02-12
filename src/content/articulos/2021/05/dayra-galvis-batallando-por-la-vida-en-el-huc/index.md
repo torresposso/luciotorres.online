@@ -5,10 +5,10 @@ pubDate: "2021-05-02 20:10:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/dayra-galvis-batallando-por-la-vida-en-el-huc/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/dayra-galvis-batallando-por-la-vida-en-el-huc/hero.jpg
 ---
 
-\[caption id="attachment\_14768" align="aligncenter" width="984"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/dayra-galvis-batallando-por-la-vida-en-el-huc/hero.jpg) Daira Galvis batallando por la vida. fue ingresada al HUC.\[/caption\]
+\[caption id="attachment\_14768" align="aligncenter" width="984"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/dayra-galvis-batallando-por-la-vida-en-el-huc/hero.jpg) Daira Galvis batallando por la vida. fue ingresada al HUC.\[/caption\]
 
 Batallando por la vida. A esta hora la senadora Daira Galvis Méndez se encuentra **batallando por la vida contra el Covid-19**. En las últimas horas se complicó. Los médicos ordenaron su hospitalización. Fue ingresada hoy. Está en una de las camas UCi del Hospital Universitario del Caribe.
 

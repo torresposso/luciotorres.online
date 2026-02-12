@@ -5,10 +5,10 @@ pubDate: "2023-12-10 14:06:25"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez","Corte Suprema de Justicia"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/bienvenido-2024-uribe-sera-detenido-por-masacres-de-la-granja-y-el-aro-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/bienvenido-2024-uribe-sera-detenido-por-masacres-de-la-granja-y-el-aro-i/hero.jpg
 ---
 
-![Bienvenido 2024: ¿Uribe, un triste final, a lo Fujimori?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/bienvenido-2024-uribe-sera-detenido-por-masacres-de-la-granja-y-el-aro-i/hero.jpg)
+![Bienvenido 2024: ¿Uribe, un triste final, a lo Fujimori?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/bienvenido-2024-uribe-sera-detenido-por-masacres-de-la-granja-y-el-aro-i/hero.jpg)
 *Bienvenido 2024: ¿Uribe, un triste final, a lo Fujimori?*
 
 Bienvenido 2024. Los seres humanos podemos crear nuevas oportunidades o seguir en lo mismo. En el aspecto judicial se darán grandes acontecimientos. ¿El fin de Los Intocables? Uno de ellos, el verdadero capo de Los Intocables, es el presidente más popular que haya tenido Colombia en los últimos 30 años. ¿Álvaro Uribe será detenido por las masacres de **La Granja y El Aro**? Si hay jueces justos, si la Corte Suprema de Justicia actúa y si la nueva fiscal es facilitadora del proceso, **la respuesta es un rotundo sí**.
@@ -29,7 +29,7 @@ Te puede interesar: [**“Los Intocables” se robaron el río Ariguaní y Corpo
 
 ## Para la memoria
 
-![Bienvenido 2024. Álvaro Uribe y su general Montoya acusados de delitos de lesa humanidad.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/bienvenido-2024-uribe-sera-detenido-por-masacres-de-la-granja-y-el-aro-i/uribe-y-montoya.jpg)
+![Bienvenido 2024. Álvaro Uribe y su general Montoya acusados de delitos de lesa humanidad.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/bienvenido-2024-uribe-sera-detenido-por-masacres-de-la-granja-y-el-aro-i/uribe-y-montoya.jpg)
 *Álvaro Uribe y su general Mario Montoya acusados de delitos de lesa humanidad. En los tiempos de completa impunidad y de apoyo popular.*
 
 En 2006 se envió a varias editoriales mi libro **_El Príncipe Oscuro_**. Durante ese tiempo el presidente Uribe tenía un favoritismo superior al 80%. Su reelección era un hecho. Ninguna de las editoriales que recibió los manuscritos se atrevió a publicar el libro. ¿La razón? La hipótesis central del texto se centra en que el **proyecto contrainsurgente** financiado por el narcotráfico y dirigido por el Estado con el apoyo del gobierno norteamericano y su política de _seguridad nacional_, permitió el triunfo de Álvaro Uribe Vélez. Este apoyo se conoció como **_Plan Colombia_**.

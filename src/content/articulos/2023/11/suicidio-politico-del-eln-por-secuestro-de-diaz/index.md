@@ -5,10 +5,10 @@ pubDate: "2023-11-05 03:50:17"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/hero.jpg)
 *Los extremos se encuentran. ¿Cuál es la diferencia entre el método Uribe o paramilitar con el método elenístico? Los falsos positivos en nada se diferencian del secuestro de "Mane" Diaz. (Cortesía).*
 
 El secuestro de "Mane" Diaz padre de **«Lucho**»** Díaz**, el pasado 28 de octubre, un día antes de las elecciones, y su no liberación, es un auto saboteo y un suicidio político del Eln. Al mismo tiempo, es una _puñalada trapera_ a la _Paz Total_. Este secuestro, que la misma guerrilla reconoce que lo hizo por razones financieras, a esta altura del diálogo del proceso de paz con el presidente Gustavo Petro, es un auto pistoletazo que trasciende el error políticio.
@@ -25,14 +25,14 @@ Comparta en Youtube este análisis.
 
 ## Líderes del Eln sin autoridad moral
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/Luisdiaz.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/Luisdiaz.jpg)
 *Eln se demora para liberar al padre de Luis Díaz. Cortesía.*
 
 Esta conducta inmoral, vuelve añicos cualquier pacto de paz. Destruye la poca confianza que la sociedad colombiana le brindaba al Eln. ¿Por qué? Su conducta es una afrenta a la humanidad, tanto como que "Mane" representa el buen hombre que pudo sacar adelante a su hijo Luis, el gran futbolista de Liverpool, de las garras de la pobreza, del vicio y del hampa que ronda a una región como Barrancas y toda La Guajira.
 
 La víctima es un hombre noble, sencillo y bueno. Antes de ser secuestrado junto a su amada esposa y madre de Luis, fue en busca de un amigo vendedor ambulante para comerse un pedazo de patilla. Los verdugos del ELN, le seguían sus pasos para secuestrarlo por orden del frente guerrillero adscrito al Frente de Guerra Norte.
 
-![El frente de Guerra Norte se atribuyó lo que eufemísticamente llamó "privación de la libertad". Suicidio político del Eln.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/Eln_comunicado.jpg)
+![El frente de Guerra Norte se atribuyó lo que eufemísticamente llamó "privación de la libertad". Suicidio político del Eln.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/Eln_comunicado.jpg)
 *El Frente de Guerra Norte se atribuyó lo que eufemísticamente llamó "privación de la libertad".*
 
 El secuestro no solo es un error político. No. Es una catástrofe política para la paz que llevó al mismo presidente condenarla y exigir la inmediata liberación. Le resta valor moral y ético al planteamiento programático y político de la misma organización que dice representar los intereses populares. Al mismo tiempo, elimina la poca credibilidad de su demanda de **diálogo participativo**.
@@ -43,7 +43,7 @@ Te puede interesar: [EL Coce del Eln ordenó liberación del padre de Luis Díaz
 
 ## La alienación armada
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/Fabio-Vasquez-Castano.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/Fabio-Vasquez-Castano.jpg)
 *Fabio Vásquez, fundador del ELN en 1965, estaba alienado. Lo peor, muchos le siguieron en su locura. La misma guerrilla lo juzgó por sus crímenes de guerra en 1974. La condena: exiliarse en La Habana donde murió en 2019. Cortesía de Carlos Medina.*
 
 Ninguna transformación social y cultural que libere al humano de la opresión es posible mediante la violencia. No existe un solo ejemplo en la historia de la humanidad que reivindique el uso de la violencia, ni siquiera la revolucionaria o de liberación nacional. **Carlos Marx** dijo que _la violencia es la partera de la historia_. Pero no dijo que era la causa de la transformación.
@@ -52,7 +52,7 @@ Por el contrario, la teoría marxista propuso que la transformación humana solo
 
 ## Secuestrar y odiar
 
-![Antonio García, comandante del ELN dijo que el secuestro fue un error, pero lo justificó. (Cortesía Colombia Informa).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/Antonio-Garcia_colombia-informa.jpg)
+![Antonio García, comandante del ELN dijo que el secuestro fue un error, pero lo justificó. (Cortesía Colombia Informa).](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/suicidio-politico-del-eln-por-secuestro-de-diaz/Antonio-Garcia_colombia-informa.jpg)
 *Antonio García, comandante del ELN dijo que el secuestro fue un error, pero lo justificó. (Cortesía Colombia Informa).*
 
 El secuestro de un hombre bueno como lo es "Mane" Díaz ganó el rechazo masivo de los colombianos y disminuyó la legitimidad del proceso de paz. ¿Por qué unos seres humanos que dicen ser el reflejo de la _nueva sociedad_ son capaces de cometer un crimen multiofensivo contra la humanidad? ¿Cómo entendemos este comportamiento suicida del Eln? Acaso solo es un error, como admite su comandante **Antonio García**? ¿Cuáles son sus orígenes?

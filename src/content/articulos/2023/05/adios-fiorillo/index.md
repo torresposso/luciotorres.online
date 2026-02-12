@@ -5,10 +5,10 @@ pubDate: "2023-05-30 18:15:10"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/adios-fiorillo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/adios-fiorillo/hero.jpg
 ---
 
-![Nada es mentira. Este es uno de los compendios publicados por el Banco de la República de la obra de Heriberto Fiorillo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/adios-fiorillo/hero.jpg)
+![Nada es mentira. Este es uno de los compendios publicados por el Banco de la República de la obra de Heriberto Fiorillo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/adios-fiorillo/hero.jpg)
 *Nada es mentira. Este es uno de los compendios publicados por el Banco de la República de la obra de Heriberto Fiorillo.*
 
 ¡Adiós, Fiorillo! En el despertar de este martes 30 de mayo del 2023, nos encontramos con la noticia de la muerte de Heriberto Fiorillo, el destacado periodista, cineasta, productor y escritor barranquillero que hizo carrera en diferentes medios de comunicación del país. Descansó en paz. En la paz eterna.
@@ -19,7 +19,7 @@ Con _Fiori_, junto a **Arturo Alape** (autor de _El Bogotazo_), también ya fall
 
 ## Fiorillo, el cronista
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/adios-fiorillo/La-cueva-de-Fiorillo.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/adios-fiorillo/La-cueva-de-Fiorillo.jpg)
 *Heriberto Fiorillo le dedicó la parte final de su vida a la Cueva. Foto Caracol.*
 
 **Arde Raúl, La Cueva, Nada es mentira, Cantar mi pena y La mejor vida que tuve**, son algunos de los títulos que compendia su obra periodística y literaria. Crónica pura.
@@ -44,7 +44,7 @@ Tomás Eloy Martínez estima que Fiorillo tiene una gran imaginación que estruc
 
 ## Fiorillo voló a otra dimensión
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/adios-fiorillo/Las-artes-de-fiorillo.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/adios-fiorillo/Las-artes-de-fiorillo.jpg)
 *En las últimas presentaciones de Heriberto Fiorillo/Carnaval S.A.*
 
 > Cronista mayor de una generación de grandes cronistas, Fiorillo es el único de todos ellos que incurre en dos admirables virtudes: es fiel al legado de sus maestros y, a la vez, tiene la osadía de apoyarse en ellos para volar hacia otros horizontes.

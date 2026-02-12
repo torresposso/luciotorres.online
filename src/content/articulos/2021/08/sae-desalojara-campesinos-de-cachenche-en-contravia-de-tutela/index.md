@@ -5,10 +5,10 @@ pubDate: "2021-08-20 21:32:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/sae-desalojara-campesinos-de-cachenche-en-contravia-de-tutela/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/sae-desalojara-campesinos-de-cachenche-en-contravia-de-tutela/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/sae-desalojara-campesinos-de-cachenche-en-contravia-de-tutela/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/sae-desalojara-campesinos-de-cachenche-en-contravia-de-tutela/hero.jpg)
 *Campesinos de Cachenche dispuestos a marchar y bloquear vías si SAE persiste en desalojarlos violando la ley.*
 
 La Sociedad de Activos Especiales—SAE desalojará a campesinos de la finca de Cachenche haciendo fraude a resolución judicial. ¿Por qué? Porque estaría incumpliendo el fallo de tutela de Segunda Instancia el Juzgado Primero Penal del Circuito de Turbaco (Bolívar) del pasado 12 de abril de 2021. 

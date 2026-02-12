@@ -5,17 +5,17 @@ pubDate: "2022-01-03 23:12:28"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/afinia-la-misma-historia-de-electricaribe-preparan-protesta-en-bolivar/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/afinia-la-misma-historia-de-electricaribe-preparan-protesta-en-bolivar/hero.jpg
 ---
 
-![Protesta contra Afinia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/afinia-la-misma-historia-de-electricaribe-preparan-protesta-en-bolivar/afinia.jpeg)
+![Protesta contra Afinia](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/afinia-la-misma-historia-de-electricaribe-preparan-protesta-en-bolivar/afinia.jpeg)
 *Protesta contra Afinia. El día en que Afinia comenzó su operación en Cartagena. William Dau, el alcalde, quiso recibir el milagro con comandula ajena.*
 
 **Afinia y Air-E**, una historia que se repite en el Caribe colombiano. Es el mismo resultado de cuando estaban Electricaribe y Electrocosta. Luego de más de un año de operación esa es la conclusión. Tenemos los mismos problemas de energía doméstica: altas tarifas, **cobro de energía no prestado** y una inestabilidad en la prestación del servicio eléctrico domiciliario. 
 
 Por esa razón, **se prepara una protesta de carácter regional contra Afinia el 10 de febrero que promete ser contundente para detener esta otra aberración contra los usuarios.**
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/01/afinia-la-misma-historia-de-electricaribe-preparan-protesta-en-bolivar/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/afinia-la-misma-historia-de-electricaribe-preparan-protesta-en-bolivar/hero.jpg)
 *La Superintendente de Servicios Públicos Domiciliarios, Natasha Avendaño García, pareciera que estuviera al servicio de los dueños de Afinia y Air-E. Una sonrisa para Afinia.*
 
 En tanto la Superintendente de Servicios Públicos Domiciliarios, **Natasha Avendaño García**, pidió a los usuarios de energía de la costa pagar las deudas a los operadores de Redes Locales (ORL) contraídas con Electricaribe en Liquidación. Esa decisión es una presión indebida de Avendaño García que contraría su papel en la defensa de los derechos de los usuarios de los servicios de energía.

@@ -5,10 +5,10 @@ pubDate: "2022-08-12 02:00:00"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/un-gabinete-neoliberal-con-presidente-progresista/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/un-gabinete-neoliberal-con-presidente-progresista/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/un-gabinete-neoliberal-con-presidente-progresista/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/un-gabinete-neoliberal-con-presidente-progresista/hero.jpg)
 *¿Entre el discurso popular y el gabinete neoliberal? ¿Pragmatismo político? María José Pizarro le pone la banda presidencial en honor a Carlos Pizarro, el cartagenero que fue líder del M-19.*
 
 ¿El cambio comenzó? ¿El presidente Petro navegará hacia puerto seguro entre el discurso popular y su gabinete neoliberal, y sin representación de las regiones? La plaza de Bolívar llena en la tarde del pasado domingo 7 de agosto. La multicultural audiencia con gran ilusión esperó el anuncio del cambio. Un discurso popular que resumió la propuesta de gobierno en un decálogo. Un discurso construido en casi 30 años de lucha política parlamentaria y 15 años de lucha armada simbolizada por el robo de la espada de Bolívar.
@@ -29,7 +29,7 @@ Todo indica que **existe una ausencia de pegamento programático para la constru
 
 ## Mermelada por gobernabilidad
 
-![Roy Barrera, presidente del senado, artífice de la gobernabilidad parlamentaria, realiza su intervención mientras el presidente Petro y el presidente de la cámara de Representantes, David Racero, escuchan reflexivamente.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/un-gabinete-neoliberal-con-presidente-progresista/Petro-los-presidentes1.jpg)
+![Roy Barrera, presidente del senado, artífice de la gobernabilidad parlamentaria, realiza su intervención mientras el presidente Petro y el presidente de la cámara de Representantes, David Racero, escuchan reflexivamente.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/un-gabinete-neoliberal-con-presidente-progresista/Petro-los-presidentes1.jpg)
 *Roy Barreras, presidente del senado, artífice de la gobernabilidad parlamentaria, realiza su intervención mientras el presidente Petro y el presidente de la cámara de Representantes, David Racero, escuchan reflexivamente.*
 
 Por tanto, si no se se actúa como corresponde a las exigencias actuales, cuando se obtenga la tal gobernabilidad, será frágil, inestable y volátil. Podrá sacar los proyectos adelante, pero en ellos estará implícita el germen de su propia destrucción. Así le sucedió a Pastrana, Samper, Juan Manuel Santos e Iván Duque. Es una gobernabilidad parlamentaria conquistada mediante la distribución burocrática y la mermelada.

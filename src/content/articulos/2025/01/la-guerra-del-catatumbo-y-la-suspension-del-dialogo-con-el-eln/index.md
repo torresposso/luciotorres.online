@@ -5,10 +5,10 @@ pubDate: "2025-01-18 03:12:56"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/la-guerra-del-catatumbo-y-la-suspension-del-dialogo-con-el-eln/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/la-guerra-del-catatumbo-y-la-suspension-del-dialogo-con-el-eln/hero.jpg
 ---
 
-![La guerra del Catatumbo, y la suspensión del diálogo con el ELN](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/la-guerra-del-catatumbo-y-la-suspension-del-dialogo-con-el-eln/hero.jpg)
+![La guerra del Catatumbo, y la suspensión del diálogo con el ELN](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/la-guerra-del-catatumbo-y-la-suspension-del-dialogo-con-el-eln/hero.jpg)
 *La guerra del Catatumbo, y la suspensión del diálogo con el ELN*
 
 La guerra del Catatumbo, Norte de Santander, refleja la degradación y fragmentación total del conflicto armado colombiano. Expresa el divorcio del discurso político con la práctica militar de la guerrilla. Un conflicto que se centra en una lucha territorial de los cuatro frentes del ELN contra la escisión del frente 33 perteneciente a las Disidencias de las FARC para alcanzar el objetivo central: **el control de las rentas ilegales de la droga, la extorsión y la minería ilegal.**
@@ -27,7 +27,7 @@ Testimonios de Dairo Abril y de su padre, José del Carmen Abril. Análisis de L
 
 ## La familia Abril
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/la-guerra-del-catatumbo-y-la-suspension-del-dialogo-con-el-eln/Los_abril-1024x1024.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/la-guerra-del-catatumbo-y-la-suspension-del-dialogo-con-el-eln/Los_abril-1024x1024.jpg)
 *José del Carmen Abril y Dairo Abril (hijo) denuncian persecución militar por parte del ELN. (Captura de pantalla).*
 
 El caso de la familia Abril, padre e hijo, líderes sociales del campesinado, es un caso patético de la degradación de la guerra del Catatumbo protagonizada por el ELN y el frente 33 del Estado Mayor Central (EMC), una de las disidencias de Las FARC. ¿Por qué fueron declarados objetivo militar? Tal vez porque los relacionan con esa disidencia de las FARC. De la misma manera como los paramilitares lo hicieron con las bases sociales de esa guerrilla

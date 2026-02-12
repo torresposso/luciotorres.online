@@ -5,10 +5,10 @@ pubDate: "2024-01-21 03:01:05"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-muerte-de-piedad-cordoba-y-la-frustrada-prediccion-de-una-santera/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-piedad-cordoba-y-la-frustrada-prediccion-de-una-santera/hero.jpg
 ---
 
-![Piedad Córdoba era senadora del Pacto Histórico. Fue protagonista de muchas controversias. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-muerte-de-piedad-cordoba-y-la-frustrada-prediccion-de-una-santera/hero.jpg)
+![Piedad Córdoba era senadora del Pacto Histórico. Fue protagonista de muchas controversias. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-piedad-cordoba-y-la-frustrada-prediccion-de-una-santera/hero.jpg)
 *Piedad Córdoba era senadora del Pacto Histórico. Fue protagonista de muchas controversias. /EFE (Cortesía).*
 
 Una santera (culto lucumí) de **Chávez y Maduro** predijo que **Piedad Córdoba Ruiz** iba a ser presidenta de Colombia. Pero, paradójicamente, la controvertida mujer murió de un infarto fulminante en la tarde de hoy 20 de enero 2024. Por tanto, la predicción de la Santera, la llamada _médium de Simón Bolívar_, fue conjurada hoy, día del _Dulce Nombre de Jesús_ en Colombia. La izquierda militante del país creía que era la sucesora de Gustavo Petro.
@@ -33,7 +33,7 @@ Te puede interesar: [La segunda oportunidad de Saab, el Superministro de Maduro]
 
 ## Enero fatídico para mujeres de _raca mandaca_
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-muerte-de-piedad-cordoba-y-la-frustrada-prediccion-de-una-santera/enilce-lopez.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-piedad-cordoba-y-la-frustrada-prediccion-de-una-santera/enilce-lopez.jpg)
 *Enilce López, la otra controvertida mujer que enero 2024 se llevó a la eternidad. (archivo familiar).*
 
 Enero 2024 se le recordará como el más demoledor con las **controvertidas mujeres** que marcaron historia política en las dos primeras décadas del siglo XXI.
@@ -46,7 +46,7 @@ Te puede interesar: [Los presidentes de «la Gata». ¿Quién](/articulos/los-pr
 
 ## ¿Piedad Córdoba, la novia de Chávez?
 
-![Lamentan muerte de Piedad Córdoba en Venezuela](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/la-muerte-de-piedad-cordoba-y-la-frustrada-prediccion-de-una-santera/Piedad_caricatura-959x1024.jpg)
+![Lamentan muerte de Piedad Córdoba en Venezuela](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-piedad-cordoba-y-la-frustrada-prediccion-de-una-santera/Piedad_caricatura-959x1024.jpg)
 *Gobierno nacional lamenta muerte de Piedad Córdoba en Venezuela. /Vicman_VenezuelaNews.*
 
 Alrededor de estas destacadas y controvertidas mujeres se construyó una mitología popular. La especulación y el _chisme_ que sus enemigos y amigos se encargaron de reproducir pudieron crear una fábula alrededor de sus vidas. Por ejemplo, la vida sentimental es una de las especulaciones favoritas. En este caso, a Piedad Córdoba se le atribuyó haber sido novia de Hugo Chávez, el poderoso presidente venezolano de comienzo de siglo.

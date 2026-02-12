@@ -5,10 +5,10 @@ pubDate: "2024-03-12 20:37:34"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/habemus-fiscal-su-gran-desafio-ser-autonoma/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/habemus-fiscal-su-gran-desafio-ser-autonoma/hero.jpg
 ---
 
-!["¡Hebemus fiscal", pareciera decir Luz Adriana Camargo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/habemus-fiscal-su-gran-desafio-ser-autonoma/hero.jpg)
+!["¡Hebemus fiscal", pareciera decir Luz Adriana Camargo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/habemus-fiscal-su-gran-desafio-ser-autonoma/hero.jpg)
 *"¡Hebemus fiscal", pareciera decir Luz Adriana Camargo.*
 
 ¡Habemus Fiscal! ¡Por fin! **Luz Adriana Camargo ,** la ternada elegida, no es un triunfo político de la Corte Suprema de Justicia ni del Presidente de la República. Su inesperada elección señalaría que el **principal desafío de la nueva fiscal es Ser autónoma** para ponerse al servicio de los **mandantes**. Es la gran oportunidad para cambiar el curso y la suerte actual de la justicia colombiana. Es el gran reto de transformar la **Fiscalía General de la Nación (FGN)** en un ente independiente de cualquier ideología política y, en especial, de las organizaciones criminales que mantienen en jaque al país. Ser autónoma significa ponerse al servicio de los **mandantes** y no del **mandatario de turno** o de la misma Corte que la eligió.
@@ -21,7 +21,7 @@ Se recuerda que en 2005 llegó a la Sala de Casación de la Corte Suprema de Jus
 
 ## **¡Habemus Fiscal!** La renuncia no desestructuró la terna
 
-![Amelia Pérez, la super favorita del presidente Petro renunció.  ¡Habemus fiscal!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/habemus-fiscal-su-gran-desafio-ser-autonoma/Amelia-Perez-1024x512.jpg)
+![Amelia Pérez, la super favorita del presidente Petro renunció.  ¡Habemus fiscal!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/habemus-fiscal-su-gran-desafio-ser-autonoma/Amelia-Perez-1024x512.jpg)
 *Amelia Pérez, la súper favorita del presidente Petro renunció minutos antes de la sesión de elección.*
 
 ¡Habemus Fiscal! Fue un proceso complicado que puso en peligro la estabilidad institucional. Fue motivo de un duro enfrentamiento entre la Corte y la Presidencia. La favorita, **Amelia Pérez**, presentó su renuncia -que fue una venia a la bandera- de la terna pocos minutos antes de la Sala Plena que eligió fiscal. Puesto que Amelia ya no contaba para garantizar la victoria, quizás la jugada maestra del Presidente fue recomponer la terna con otra candidata fresca que atrajera a las mayorías.
@@ -38,7 +38,7 @@ Aparte de ese último hecho, vale decir que el equilibrio de poderes públicos s
 
 **¿Quién ganó el pulso?**
 
-![Coogidos de la moña después de esta fotografía.¡Habemus fiscal!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/habemus-fiscal-su-gran-desafio-ser-autonoma/Petro_y_corte.jpg)
+![Coogidos de la moña después de esta fotografía.¡Habemus fiscal!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/habemus-fiscal-su-gran-desafio-ser-autonoma/Petro_y_corte.jpg)
 
 Si bien para el presidente Gustavo Petro la nueva fiscal no fue un triunfo político diáfano, sí puede contribuir a la **armonía y a la articulación institucional**, siempre y cuando así lo quiera la fiscal Camargo. Enfrentaría el desafío que se propone en **VoxPopuli Digital**: transformar la Fiscalía para hacerla un ente autónomo y no de bolsillo del presidente de turno y/o de los **grupos de poder legales e ilegales**. Esta elección es un paso muy importante para iniciar el proceso de fortalecimiento de la justicia y, al mismo tiempo, liberar a la institución de la incidencia mafiosa. Una incidencia que viene desde su nacimiento.
 

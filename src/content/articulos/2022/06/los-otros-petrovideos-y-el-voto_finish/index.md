@@ -5,10 +5,10 @@ pubDate: "2022-06-16 15:01:17"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/los-otros-petrovideos-y-el-voto_finish/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/los-otros-petrovideos-y-el-voto_finish/hero.jpg
 ---
 
-![Fotofinish entre Rodolfo Hernández y Gustavo Petro. Los otros petrovideos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/los-otros-petrovideos-y-el-voto_finish/hero.jpg)
+![Fotofinish entre Rodolfo Hernández y Gustavo Petro. Los otros petrovideos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/los-otros-petrovideos-y-el-voto_finish/hero.jpg)
 *Fotofinish entre Rodolfo Hernández y Gustavo Petro. Los otros petrovideos.*
 
 Si bien al ponerse al descubierto las vísceras de la campaña del Pacto Histórico por los llamados "petrovideos" no va a hacer cambiar la opinión de los que votaron por Gustavo Petro, sí impediría que lleguen nuevos votantes. Esto es fundamental, ya que como lo señalan las últimas encuestas, la tendencia es a un **empate técnico**. Y esto sí es esencial, puesto que los candidatos están obligados a buscar nuevos votantes que no se manifestaron el pasado 29 de mayo.

@@ -5,10 +5,10 @@ pubDate: "2023-12-26 11:08:44"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/hero.jpg
 ---
 
-![El oro del abogado David Espinosa Acuña al servicio del uribismo. ¿Saqueo en Monómeros? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/hero.jpg)
+![El oro del abogado David Espinosa Acuña al servicio del uribismo. ¿Saqueo en Monómeros? ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/hero.jpg)
 *El oro del abogado David Espinosa Acuña al servicio del uribismo. ¿Saqueo en Monómeros?*
 
 ¿Saqueo en Monómeros? Las evidencias que aquí se presentan indicarían que la respuesta es sí. En septiembre del 2022, en el Hotel Dann Carlton de Barranquilla, el ahora presidente de PDVSA y ministro del Petróleo, coronel (r) **Pedro Rafael Tellechea**, según una fuente del gobierno chavista, se reunió casi que en secreto con los abogados uribistas para asumir la toma de posesión de la empresa que el 9 de agosto del 2022 había entregado la Superintendencia de Sociedades al gobierno del presidente Nicolás Maduro.
@@ -71,7 +71,7 @@ Vea en este documental la visión de uno de los directivos de Monómeros en esta
 
 ## Abogados enriquecidos
 
-![Tareck El Aissaimi y Pedro Rafael Pellechea, los dos coroneles zares del petroleo en Venezuela. El primero cayó en desgracia frente al régimen.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/De-Tarek-a-Pellechea.jpg)
+![Tareck El Aissaimi y Pedro Rafael Pellechea, los dos coroneles zares del petroleo en Venezuela. El primero cayó en desgracia frente al régimen.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/De-Tarek-a-Pellechea.jpg)
 *Tareck El Aissaimi y Pedro Rafael Tellechea, los dos coroneles zares del petroleo en Venezuela. El primero cayó en desgracia frente al régimen.*
 
 Lo curioso de esas costas judiciales es que los tres problemas jurídicos fundamentales que tenía el gobierno del presidente Maduro se resolvieron vía diplomática con la llegada de Gustavo Petro a la presidencia el 7 de agosto de 2022. **Uno**, el supuesto control de los leales de Juan Guaidó de Mónomeros. Tres, la intervención de la Superintendencia de Industria y Comercio sobre el control de Monómeros. **Tres**, la licencia de la Oficina de Control de Activos Extranjeros (Ofac).
@@ -84,14 +84,14 @@ El 11 de julio de 2023, se hizo pública por parte de la Oficina de Control de A
 
 ## El uribismo nunca se fue
 
-![Olga Lucía Trujillo, la ficha del uribismo en Monómeros.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/Olga-Lucia-Trujillo-Arevalo.jpg)
+![Olga Lucía Trujillo, la ficha del uribismo en Monómeros.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/Olga-Lucia-Trujillo-Arevalo.jpg)
 *Olga Lucía Trujillo, la ficha del uribismo en Monómeros.*
 
 Monómeros era colombo venezolano hasta cuando **Álvaro Uribe Vélez** le vendió la participación nacional al gobierno de **Hugo Chávez**. Fue un pésimo negocio para Colombia. Hoy, después de que el presidente Gustavo Petro le devolviera la empresa a Nicolás Maduro que estaba en manos de los amigos de Juan Guaidó y del uribismo, ellos siguen incrustados.
 
 El hecho de que los abogados **David Espinosa y Jaime Andrés Novoa**, reconocidos servidores del uribismo, estén contratados por Monómeros, indica que su representación jurídica está atada a intereses de los mismos que se tomaron la empresa en 2019 con el presidente Iván Duque.
 
-![Acta 485 del 21 de septiembre de 2022 inscribieron el nombramiento de la abogada uribista Olga Lucía Trujillo Arévalo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/Monomeros_camara_olga.jpg)
+![Acta 485 del 21 de septiembre de 2022 inscribieron el nombramiento de la abogada uribista Olga Lucía Trujillo Arévalo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/saqueo-en-monomeros-el-uribismo-sigue-mandando-i/Monomeros_camara_olga.jpg)
 *Acta 485 del 21 de septiembre de 2022 inscribieron el nombramiento de la abogada uribista Olga Lucía Trujillo Arévalo.*
 
 La actual administración de Monómeros es controlada por el coronel (r) Tellechea desde PDVSA y del ministerio del Petroleo. La entidad contrató como representante judicial a la abogada uribista **Olga Lucía Trujillo Arévalo**, quien otorgó poder a los abogados de los diferentes bufetes que se ponen al servicio de parlamentarios, dirigentes y exparamilitares que tienen o han tenido alguna relación con los gobiernos del _régimen bonapartista_ que se interrumpió con la llegada del presidente Petro.  

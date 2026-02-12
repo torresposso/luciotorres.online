@@ -5,7 +5,7 @@ pubDate: "2020-04-17 21:00:44"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/covid-19-los-venezolanos-somos-unos-heroes-para-soportar-esta-crisis-dice-lider-popular/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/04/covid-19-los-venezolanos-somos-unos-heroes-para-soportar-esta-crisis-dice-lider-popular/hero.jpg
 ---
 
 \[caption id="attachment\_11510" align="aligncenter" width="489"\](imagen no disponible) **Janeth Nieves** líder de Voluntad Popular hace una descripción descarnada de la crisis humanitaria en Venezuela .\[/caption\] **El Covid—19 agrava la emergencia humanitaria en Venezuela.** La falta de servicios públicos domiciliarios, transporte, gasolina, alimentos, entre otras, **está profundizado la crisis humanitaria** que venía soportando los sectores sociales más empobrecidos de Venezuela. Definitivamente los venezolanos que siguen en el país y los que se han ido, **«somos unos héroes»**, dice  líder de la parroquia **_Miguel Peña_** de Valencia, estado de Carabobo. https://youtu.be/AhKrudxHswE Después de que la gasolina era un artículo en abundancia, hoy está escasa y dolarizada. **Antes era más costoso un litro de agua en botella que un litro de gasolina.** Este hecho produjo una crisis en el transporte y en otros renglones de la economía. Se disparó el alto costo de vida. Y para remate, los servicios públicos colapsaron. El servicio de energía es evidente. No hay agua potable y deben abastecerse a través de _carrotanques_. Las comunicaciones son inestables.

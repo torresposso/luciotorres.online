@@ -5,10 +5,10 @@ pubDate: "2021-05-03 23:26:46"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/carrasquilla-el-fusible-de-duque-para-contener-la-fuerza-popular/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/carrasquilla-el-fusible-de-duque-para-contener-la-fuerza-popular/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/carrasquilla-el-fusible-de-duque-para-contener-la-fuerza-popular/Jose-Manuel-Restrepo-Alianza-del-pacifico.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/carrasquilla-el-fusible-de-duque-para-contener-la-fuerza-popular/Jose-Manuel-Restrepo-Alianza-del-pacifico.jpeg)
 *El nuevo ministro de Hacienda, Jose Manuel Restrepo en reemplazo de Alberto Carrasquilla, el fusible de Duque./Presidencia.*
 
 El fusible de Duque se quemó. En efecto, el ministro de Hacienda, **Alberto Carrasquilla, pasó a ser un fusible** para evitar que el régimen se electrocute con las manifestaciones populares contra la Reforma Tributaria. El equipo económico del presidente **Iván Duque** se quemó junto con el gobierno. **Pero solo cambiarán los fusibles desechables para que la situación siga igual**.
@@ -23,7 +23,7 @@ El consenso de Duque para una nueva reforma tributaria será problemático. Se a
 
 ## **El fusible de Duque**
 
-\[caption id="attachment\_14802" align="aligncenter" width="2047"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/carrasquilla-el-fusible-de-duque-para-contener-la-fuerza-popular/hero.jpg) **El Minhacienda Alberto Carrasquilla**, el fusible de Duque, en la reunión del Consejo Directivo del Banco de la República./Minhacienda.\[/caption\]
+\[caption id="attachment\_14802" align="aligncenter" width="2047"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/carrasquilla-el-fusible-de-duque-para-contener-la-fuerza-popular/hero.jpg) **El Minhacienda Alberto Carrasquilla**, el fusible de Duque, en la reunión del Consejo Directivo del Banco de la República./Minhacienda.\[/caption\]
 
 El régimen quiere sofocar el movimiento social de protesta contra la Reforma Tributaria solo cambiando sus fusibles. Cree que lo único que tiene que hacer es bajar la palanca, sustituir sus fusibles y volver a subir la palanca para que el circo y el embuste continué. Cambiar los fusibles para que todo siga igual. Es la inveterada costumbre uribista a lo largo de estos 20 años de régimen político.
 

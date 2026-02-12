@@ -5,10 +5,10 @@ pubDate: "2023-07-23 17:07:47"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/kundera-la-literatura-el-poder-y-la-dignidad-humana-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/kundera-la-literatura-el-poder-y-la-dignidad-humana-ii/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/kundera-la-literatura-el-poder-y-la-dignidad-humana-ii/Milan-kundera_bufanda.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/kundera-la-literatura-el-poder-y-la-dignidad-humana-ii/Milan-kundera_bufanda.jpeg)
 *Milán Kundera/Pintores.*
 
 Después del fallecimiento de **Milán Kundera** se despertó un interés en su obra literaria, especialmente de su novela maestra: _La insoportable levedad del ser_. Cualquier persona que le guste leer y explorar más allá del mundo condicionado, está obligado a entender a **Kundera, la literatura, el poder y la dignidad humana**. No siempre el arte coincide con el poder. En esencia, el arte es antipoder. Es un concepto muy debatible.

@@ -5,10 +5,10 @@ pubDate: "2022-09-20 18:47:52"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-sangrienta-y-paro-distrital-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/cartagena-sangrienta-y-paro-distrital-i/hero.jpg
 ---
 
-![Mientras aseguraban a alias Paola, se produjeron 7 sicariatos. Cartagena sangrienta](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-sangrienta-y-paro-distrital-i/paola.jpeg)
+![Mientras aseguraban a alias Paola, se produjeron 7 sicariatos. Cartagena sangrienta](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/cartagena-sangrienta-y-paro-distrital-i/paola.jpeg)
 *Mientras un juez aseguraba a alias Paola de los Rastrojos Costeños, se se reactivó el sicariato en una Cartagena Sangrienta donde líderes sociales promueven un Paro Distrital.*
 
 La Cartagena sangrienta no quiere despertar cada vez que amanece. ¿Cuántos son los muertos de ayer? ¿Cuantos los muertos de hoy? En una ciudad caótica y poca solidaria esos muertos no cuentan para las autoridades locales. ¿Son delincuentes los que mueren? ¿Es una guerra de malandros, cuyas víctimas merecen la aplicación de la pena de muerte? Pero hay una pregunta que nos daría una pista de lo que está sucediendo. ¿Por qué la ilegalidad prosperó desde que William Dau se montó en la alcaldía? ¿La gente solidaria participará en el **Paro Distrital** como respuesta a esta realidad?
@@ -33,7 +33,7 @@ Se creía que la ciudad había caído fondo con **Campo Elías Terán o Manolo D
 
 El pasado domingo de Amor y Amistad sangriento deterioró más la seguridad en Cartagena. Fueron 24 horas de terror. Mientras un juez penal emitía una medida de aseguramiento contra alias «**Paola**», presunta extorsionista de la banda «**los Rastrojos Costeños**» y pareja sentimental de **«Tommy Masacre»**, se produjeron -entre la tarde del sábado 17 y la noche del domingo 18 de septiembre- 7 ataques sicariales que dejaron 6 muertos.
 
-![Cartagena Sangrienta. Van 9 sicariados en septiembre.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/cartagena-sangrienta-y-paro-distrital-i/hero.jpg)
+![Cartagena Sangrienta. Van 9 sicariados en septiembre.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/cartagena-sangrienta-y-paro-distrital-i/hero.jpg)
 *Cartagena sangrienta*
 
 Luego de la calma chicha que sobrevino al asesinato (2 de septiembre) del niño Neyder David, 2 años, y de su padrastro Carlos Manuel Luna Lerma, se reactivó la ola de sicarial. Los cartageneros terminaron de celebrar el Día del Amor y la Amistad con una lluvia de balas en la modalidad de asesinatos por encargo.

@@ -5,10 +5,10 @@ pubDate: "2021-07-31 00:33:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/policia-al-servicio-de-despojadores-en-pasacaballos-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/policia-al-servicio-de-despojadores-en-pasacaballos-ii/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/policia-al-servicio-de-despojadores-en-pasacaballos-ii/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/policia-al-servicio-de-despojadores-en-pasacaballos-ii/hero.jpg)
 *El 27 de julio desalojaron a los campesinos de la Europa. El 14 de julio el comandante de la Policía de Pasacaballos reconoció en terreno que se habían pasado las 48 horas que tenían para desalojarlos usando la acción preventiva. Que ya no era de su competencia*
 
 El caso de la finca La Europa evidencia que la Policía está al servicio de despojadores en Pasacaballos, corregimiento de Cartagena de Indias. También nos propone dos problemas y, al mismo tiempo, su solución. Uno de carácter legal y otro social. **El desalojo usando una fuerza desproporcional se produjo sin competencia de la policía**. Esta competencia la perdió cuando la acción se **produjo 17 días después.** La ley habla de que la acción preventiva de la policía es de 48 horas.  
@@ -17,7 +17,7 @@ El otro problema indica que el predio **está ubicado en territorio ancestral,**
 
 ## Despojadores en Pasacaballos
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/policia-al-servicio-de-despojadores-en-pasacaballos-ii/LA-EUROPA-EL-RECLAMADOR2.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/policia-al-servicio-de-despojadores-en-pasacaballos-ii/LA-EUROPA-EL-RECLAMADOR2.jpg)
 *Este es el presunto representante del propietario de La Europa que financió el desalojo. La policía al servicio de despojadores en Pasacaballos.*
 
 En el corregimiento de Pasacaballos el narcotráfico apareció en la década de los 80s. Hicieron presencia personas armadas como nuevos dueños de tierras ancestrales, de acuerdo con testimonios de las comunidades.

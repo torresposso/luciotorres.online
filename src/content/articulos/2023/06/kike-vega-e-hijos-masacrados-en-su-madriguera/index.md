@@ -5,10 +5,10 @@ pubDate: "2023-06-30 04:27:58"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/kike-vega-e-hijos-masacrados-en-su-madriguera/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/kike-vega-e-hijos-masacrados-en-su-madriguera/hero.jpg
 ---
 
-![«Kike» Vega e hijos masacrados en su madriguera](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/kike-vega-e-hijos-masacrados-en-su-madriguera/hero.jpg)
+![«Kike» Vega e hijos masacrados en su madriguera](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/kike-vega-e-hijos-masacrados-en-su-madriguera/hero.jpg)
 *«Kike» Vega e hijos masacrados en su madriguera*
 
 Uno de los peces gordos más activos del inframundo de Barranquilla y su área de influencia, **Rafael Julio Vega Cuello,** alias «Kike» Vega, luego de sobrevivir a dos atentados, esta vez no tuvo suerte. Murió en su ley en la tarde de hoy jueves junto a dos de sus hijos. Los masacrados —que siempre permanecen custodiados por guardaespaldas fuertemente armados— fueron sorprendidos por la parte trasera de su propia madriguera. Es una residencia amplia con patio ubicada en el conjunto residencial North Frontier de **Villa Campestre**, al norte de esta ciudad colindante con Puerto Colombia.
@@ -19,7 +19,7 @@ También ahí, sobrevivieron, los hermanos **Ronald y Roberto Carlos Vega Daza**
 
 ## La muerte de «Kike» Vega y la guerra del bajo mundo
 
-![El arma con la cual asesinaron a «Kike» Vega. Aparece abandonado en uno de los container por donde entraron.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/kike-vega-e-hijos-masacrados-en-su-madriguera/Los-Vega_el-arma-asesina.jpg)
+![El arma con la cual asesinaron a «Kike» Vega. Aparece abandonado en uno de los container por donde entraron.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/kike-vega-e-hijos-masacrados-en-su-madriguera/Los-Vega_el-arma-asesina.jpg)
 *El arma con la cual asesinaron a «Kike» Vega. Aparece abandonado en uno de los container por donde entraron.*
 
 Se debe indicar que **los Vega** eran «peces gordos» asociados al tráfico de droga y empresarios emergentes vinculados al despojo de tierras y a la extorsión en Barranquilla, según información de inteligencia de los organismos de seguridad. Al parecer, en esa sangrienta fiesta de cumpleaños donde murió el sobrino de uno los capos, se pretendía limar asperezas entre varias organizaciones de bandidos que se disputan a sangre y fuego el control del puerto de la ciudad y del negocio del bajo mundo. La intención era llegar a un acuerdo entre ellos y luego acogerse a la _paz total_ que está proponiendo el gobierno nacional.

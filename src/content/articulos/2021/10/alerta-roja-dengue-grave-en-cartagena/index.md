@@ -5,10 +5,10 @@ pubDate: "2021-10-28 22:20:56"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/alerta-roja-dengue-grave-en-cartagena/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/alerta-roja-dengue-grave-en-cartagena/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/alerta-roja-dengue-grave-en-cartagena/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/alerta-roja-dengue-grave-en-cartagena/hero.jpg)
 
 ¡Alerta Roja Dengue Grave en cartagena! El Departamento Administrativo de Salud del Distrito de Cartagena-DADIS, si bien declaró el 27 de octubre de 2021 la **Alerta Roja Hospitalaria por emergencia del dengue,** no destinó más personal para enfrentar la contingencia desde la prevención. Pero más grave, el DADIS no ha contratado el personal suficiente en tiempos «normales» para el área de Salud Pública.
 

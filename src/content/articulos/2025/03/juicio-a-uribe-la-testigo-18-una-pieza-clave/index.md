@@ -5,10 +5,10 @@ pubDate: "2025-03-31 12:46:25"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-testigo-18-una-pieza-clave/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/juicio-a-uribe-la-testigo-18-una-pieza-clave/hero.jpg
 ---
 
-![Juicio a Uribe: La testigo 18, una pieza clave ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-testigo-18-una-pieza-clave/Juicio_uribe_abogada.jpeg)
+![Juicio a Uribe: La testigo 18, una pieza clave ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/juicio-a-uribe-la-testigo-18-una-pieza-clave/Juicio_uribe_abogada.jpeg)
 *Juicio a Uribe: La testigo 18, Ángela Milena López Gómez, una pieza clave del proceso.*
 
 El juicio a Uribe continúa este  lunes 31 de marzo a las 08:30 de la mañana. **La dilación como estrategia fundamental de su defensa se desmoronó**. La Juez 55 penal del Circuito de Bogotá, **Laura Patricia Melo Cristancho**, declaró infundada la recusación presentada por su abogado **Jaime Granados**. En la sesión del pasado viernes 28 de marzo apareció la testigo 18, una pieza clave en el rompecabezas de la Fiscalía.
@@ -57,7 +57,7 @@ En ese contexto, la Corte descubrió una **retractación de proporciones industr
 
 ## López, la bisagra
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-testigo-18-una-pieza-clave/Juicio_uribe_Angela-Milena-Lopez-Gomez.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/juicio-a-uribe-la-testigo-18-una-pieza-clave/Juicio_uribe_Angela-Milena-Lopez-Gomez.jpeg)
 *La abogada Ángela Milena López Gómez estuvo en la defensa de alias Otoniel y de varios narcos extraditados a E.U. También es la abogada de varios capos de la Oficina de Envigado.*
 
 En consonancia con los hechos expuestos en el banquillo judicial, la abogada **López Gómez** sirvió de bisagra para conectar a **Diego Cadena**, abogado del expresidente **Álvaro Uribe Vélez**, con los exjefes paramilitares presos en La Picota y Combita. Los exjefes paramilitares le solicitaron, según su decir, servir de puente para buscar una persona cercana al exmandatario con el fin de llevarle el recado de que esos presidiarios querían retractarse. Fue, entonces, cuando en el 2018 le presentaron a **Fabián Arturo Rojas Puertas**.
@@ -74,7 +74,7 @@ Pero existe una tercera carta de un tercer recluso: **Elmo José Mármol Torregr
 
 ## El juicio a Uribe y la testigo 18
 
-![Alias "Cesarín" participó en la audiencia del juicio a Uribe en forma virtual. Dijo que conoció al abogado Cadena cuando estaba visitando a varios internos en Cómbita.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/juicio-a-uribe-la-testigo-18-una-pieza-clave/Juicio_uribe_alias_cesarin.jpeg)
+![Alias "Cesarín" participó en la audiencia del juicio a Uribe en forma virtual. Dijo que conoció al abogado Cadena cuando estaba visitando a varios internos en Cómbita.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/juicio-a-uribe-la-testigo-18-una-pieza-clave/Juicio_uribe_alias_cesarin.jpeg)
 *Alias "Cesarín" participó en la audiencia del juicio a Uribe en forma virtual. Dijo que conoció al abogado Cadena cuando estaba visitando a varios internos en Cómbita.*
 
 https://twitter.com/WRadioColombia/status/1905644095822856337

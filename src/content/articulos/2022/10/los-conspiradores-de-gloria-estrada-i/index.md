@@ -5,10 +5,10 @@ pubDate: "2022-10-15 15:00:34"
 author: "Lucio"
 categories: ["Análisis","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/los-conspiradores-de-gloria-estrada-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/los-conspiradores-de-gloria-estrada-i/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/los-conspiradores-de-gloria-estrada-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/los-conspiradores-de-gloria-estrada-i/hero.jpg)
 *Mayor Gustavo Bueno está en el tibiri-tabara ¿dependen del exagente Salas Mercado? Los conspiradores de Gloria Estrada deben estar temblando.*
 
 ¿Qué pasó con los conspiradores de Gloria Estrada? El principal sospechoso de sembrarle el kilo de cocaína de pésima calidad, en la camioneta donde se transportaba la concejal, es el agente de policía **Alexander Salas Mercado**. Este 13 de octubre, el eslabón más débil del proceso, no compareció en la audiencia pública del **Juzgado** **Cuarto Penal Municipal** donde se determinará medida de aseguramiento. El crimen fue planificado y orquestado por servidores públicos que ya están identificados en el proceso de investigación.

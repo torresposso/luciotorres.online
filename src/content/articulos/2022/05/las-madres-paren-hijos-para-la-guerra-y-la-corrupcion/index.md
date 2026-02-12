@@ -5,10 +5,10 @@ pubDate: "2022-05-08 20:01:49"
 author: "Lucio"
 categories: ["Análisis","Investigación","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/las-madres-paren-hijos-para-la-guerra-y-la-corrupcion/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/las-madres-paren-hijos-para-la-guerra-y-la-corrupcion/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/las-madres-paren-hijos-para-la-guerra-y-la-corrupcion/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/las-madres-paren-hijos-para-la-guerra-y-la-corrupcion/hero.jpg)
 *Las madres paren los hijos para la guerra. El mundo está dirigidos, en su mayoría,por psicópatas. Las Mujeres Resisten foto tomada en cali. Cortesía.*
 
 Aunque suene provocador, **las madres paren hijos e hijas para la guerra y la corrupción.** Pero también para toda clase de violencias. El odio, el resentimiento, la agresión y la falta de perdón moral, crea hermanos que se matan entre sí por lo mínimo. Las madres reproducen la cosmovisión dominante y son instrumentalizadas para perpetuar el dominio ancestral con sus hijos e hijas. Por tanto, **el Día de las Madres se convierte en la segunda fecha más violenta de Colombia.**
@@ -61,7 +61,7 @@ En una sociedad como la nuestra, donde los niveles de violencia son abrumadores 
 
 ## Un violencia inserta en el ADN colombiano
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/las-madres-paren-hijos-para-la-guerra-y-la-corrupcion/Madres-paren-hijoz-para-la-guerra.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/las-madres-paren-hijos-para-la-guerra-y-la-corrupcion/Madres-paren-hijoz-para-la-guerra.jpg)
 *Las madres paren hijos para la guerra. cortesía.*
 
 Al estudiar a los neurocientíficos de hoy, se puede citar un fenómeno conocido como la **epigenética**. Estas son las marcas químicas en el ADN. Todos los seres humanos tenemos el mismo ADN. Incluso, compartimos con el mono el 99.9 de la genética. Pero la diferencia son los puntos químicos producidos por miles de años de evolución. 

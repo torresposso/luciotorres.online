@@ -5,18 +5,18 @@ pubDate: "2022-03-10 22:47:06"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/no-disponga-del-galeon-le-dicen-a-la-vicepresidenta-de-colombia/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/no-disponga-del-galeon-le-dicen-a-la-vicepresidenta-de-colombia/hero.jpg
 ---
 
 «No disponga del Galeón y su tesoro», le dicen a la vicepresidenta de Colombia, Marta Lucía Ramírez. Ese tesoro, avaluada en más de $200 billones, yace a 600 metros en el lecho marino frente a Cartagena de Indias. Desde la noche del **8 de junio de 1708** se encuentra el tesoro submarino más grande del mundo.  Ella había anunciado que buscarán una firma para rescatar el pecio del San José. Tiene en su panza destrozada un tesoro de 600 metros cúbicos.
 
-![«No disponga del Galeón y su tesoro», le dicen a la vicepresidenta de Colombia, Marta Lucía Ramírez. Ese tesoro, avaluada en más de $200 billones](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/no-disponga-del-galeon-le-dicen-a-la-vicepresidenta-de-colombia/hero.jpg)
+![«No disponga del Galeón y su tesoro», le dicen a la vicepresidenta de Colombia, Marta Lucía Ramírez. Ese tesoro, avaluada en más de $200 billones](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/no-disponga-del-galeon-le-dicen-a-la-vicepresidenta-de-colombia/hero.jpg)
 
 Como se sabe, el gobierno del presidente Iván Duque declaró desierta la licitación mediante la cual se pretendía entregar el rescate a una firma inglesa con capital en los paraísos fiscales. **Maritime Archaeology Consultans (MAC)** fue la única proponente del proceso licitatorio declarado desierto. La decisión se tomó lue que se reconociera que  el tesoro arqueológico no se puede transar comercialmente.  
 
 ## «No disponga del Galeón y su tesoro»
 
-![«No disponga del Galeón y su tesoro»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/no-disponga-del-galeon-le-dicen-a-la-vicepresidenta-de-colombia/linda-pinedo-2.jpg)
+![«No disponga del Galeón y su tesoro»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/no-disponga-del-galeon-le-dicen-a-la-vicepresidenta-de-colombia/linda-pinedo-2.jpg)
 *«No disponga del Galeón y su tesoro»*
 
 En una carta dirigida al presidente Iván Duque Márquez, la líder social **Linda Pinedo y el veedor Héctor Pérez Fernández,**  le advirtieron al presidente, en el día de hoy, que  es preferible que dejen las cosas como quedaron después de la declaratoria de desierta de la licitación. La razón fundamental es el poco tiempo que tienen para iniciar un verdadero proceso que responda a las necesidades para la conservación de patrimonio cultural. Además, en menos de cuatro meses deben entregar el gobierno a su sucesor.

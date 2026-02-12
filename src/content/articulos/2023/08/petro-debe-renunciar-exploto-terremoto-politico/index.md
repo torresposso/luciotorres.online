@@ -5,10 +5,10 @@ pubDate: "2023-08-03 22:08:18"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/petro-debe-renunciar-exploto-terremoto-politico/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/petro-debe-renunciar-exploto-terremoto-politico/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/petro-debe-renunciar-exploto-terremoto-politico/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/petro-debe-renunciar-exploto-terremoto-politico/hero.jpg)
 *Este es el momento en que Nicolás Petro aceptó los cargos y admitió que los dineros tenían como destino la campaña presidencial y que el presidente lo sabía. La declaración fue conjunta con Daysuris Vásquez , quien lanzó una sonrisa. ¿Petro debe renunciar?*
 
 Como lo anunció **VoxPopuli Digital**, explotó un terremoto jurídico y político. ¿Petro debe renunciar ante la evidencia de que su campaña presidencial del 2022 recibió aportes no declarados de **Lopesierra, Hilsaca y Camacho** y se violaron los topes de financiación? Nicolás Petro Burgos, su primogénito, hizo esta revelación ante la Fiscalía y el juez de audiencia de medida de aseguramiento. Al mismo tiempo, aceptó los cargos de los delitos de enriquecimiento ilícito y lavado de activo. Y parte de esos dineros fueron usufructuados por él y su exesposa **Daysuris Vásquez**.
@@ -17,7 +17,7 @@ De la misma manera, la Fiscalía mostró evidencias y pruebas que comprometen la
 
 ## Administración de Elsa Noguera
 
-![¿Petro debe renunciar? En la audiencia se mostró el modelo de contratación de la gobernación del Atlántico.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/petro-debe-renunciar-exploto-terremoto-politico/Elsa-Noguera_gobernadora.jpg)
+![¿Petro debe renunciar? En la audiencia se mostró el modelo de contratación de la gobernación del Atlántico.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/petro-debe-renunciar-exploto-terremoto-politico/Elsa-Noguera_gobernadora.jpg)
 *En la audiencia se mostró el modelo de contratación de la gobernación del Atlántico.*
 
 Lo anterior presupone que la Fiscalía General de la Nación debe abrir dos nuevas líneas de investigación. La primera, investigar las evidencias de la **campaña presidencial del presidente Gustavo Petro**. La segunda, investigar la contratación de la gobernación del Atlántico a cargo de **Elsa Noguera**.

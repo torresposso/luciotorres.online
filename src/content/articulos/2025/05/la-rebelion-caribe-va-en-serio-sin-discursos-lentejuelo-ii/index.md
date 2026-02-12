@@ -5,10 +5,10 @@ pubDate: "2025-05-18 17:09:04"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-rebelion-caribe-va-en-serio-sin-discursos-lentejuelo-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/la-rebelion-caribe-va-en-serio-sin-discursos-lentejuelo-ii/hero.jpg
 ---
 
-![Liga Caribe: La rebelión va en serio sin discursos lentejuelo. Aquí el ministro del Interior, Armando Benedetti, con gobernadores y alcaldes que lideran el proceso. /Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-rebelion-caribe-va-en-serio-sin-discursos-lentejuelo-ii/hero.jpg)
+![Liga Caribe: La rebelión va en serio sin discursos lentejuelo. Aquí el ministro del Interior, Armando Benedetti, con gobernadores y alcaldes que lideran el proceso. /Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/la-rebelion-caribe-va-en-serio-sin-discursos-lentejuelo-ii/hero.jpg)
 *La rebelión Caribe va en serio sin discursos lentejuelos. Aquí el ministro del Interior, Armando Benedetti, con gobernadores y alcaldes que lideran el proceso. /Cortesía.*
 
 ¡La rebelión Caribe va en serio! Se creó el Consejo Regional de Proyectos del Caribe. Su primera sesión será el 12 de junio en Sincelejo. El gobierno nacional, a través de su ministro del Interior **Armando Benedetti**, apoyará esa rebelión que es liderada por el **alcalde de Cartagena Dumek Turbay Paz**. Cuenta con el apoyo físico de los gobernadores de Bolívar, **Yamil Arana Padauí** y de Córdoba, **Erasmo Zuleta**.
@@ -37,7 +37,7 @@ Lo anterior implica dos elementos: «**descentralización pragmática** y **conc
 
 ## Benedetti y el Consejo Regional
 
-![De sillón a sillón, el ministro del Interior Armando Benedetti le habla al gobernador de Córdoba, Erasmo Zuleta sobre la Apuesta por el territorio./Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-rebelion-caribe-va-en-serio-sin-discursos-lentejuelo-ii/Benedetti_alcalde-1024x682.jpg)
+![De sillón a sillón, el ministro del Interior Armando Benedetti le habla al gobernador de Córdoba, Erasmo Zuleta sobre la Apuesta por el territorio./Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/la-rebelion-caribe-va-en-serio-sin-discursos-lentejuelo-ii/Benedetti_alcalde-1024x682.jpg)
 *De sillón a sillón, el ministro del Interior Armando Benedetti le habla al gobernador de Córdoba, Erasmo Zuleta sobre la Apuesta por el territorio./Cortesía.*
 
 El Consejo Regional de Proyectos del Caribe contará con el apoyo nacional a través de su ministro Armando Benedetti. Porque, según él, es un puente con el Gobierno nacional para alcanzar objetivos regionales.
@@ -64,7 +64,7 @@ La promesa electoral incumplida es una gran frustración para los costeños que 
 
 ## El 12 de junio
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-rebelion-caribe-va-en-serio-sin-discursos-lentejuelo-ii/Los-gobernadores-1024x948.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/la-rebelion-caribe-va-en-serio-sin-discursos-lentejuelo-ii/Los-gobernadores-1024x948.jpeg)
 *El gobernador de Bolívar, Yamil Arana Padauí (izq.) y los alcaldes de Cartagena, Dumek Turbay (der.) y de Montería, Hugo Kerguelén/Cortesía.*
 
 Los mandatarios de Bolívar, **Dumek Turbay** (alcalde de Cartagena) y el mismo gobernador de Bolívar, **Yamilito Arana Padauí**, al parecer, entendieron que si los gobernantes no jalonan el proceso y se lo dejan al gobierno nacional o a los parlamentarios jamás se alcanzaría la tan anhelada descentralización.

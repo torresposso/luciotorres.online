@@ -5,10 +5,10 @@ pubDate: "2022-05-18 18:36:30"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/audiencia-publica-o-privada-la-policia-sembro-el-kilo-de-cocaina/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/audiencia-publica-o-privada-la-policia-sembro-el-kilo-de-cocaina/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/audiencia-publica-o-privada-la-policia-sembro-el-kilo-de-cocaina/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/audiencia-publica-o-privada-la-policia-sembro-el-kilo-de-cocaina/hero.jpg)
 *Según los testimonios, en el apartamento de Luis Cassiani, Pedro Aponte se entrevistó con el capitán de la policía Cadena Tanganá para exponerle el plan del kilo de cocaína contra Gloria Estrada.*
 
 ¿La policía sembró el kilo de cocaína en la camioneta de Martín Barreto? Es un interrogante que puede explotar hoy en la audiencia pública del Caso Gloria Estrada. En esta audiencia, tal como se preveía, **a la Policía Nacional le fue como perro en misa en el cumplimiento de su deber constitucional y legal.** Hoy, probablemente se dará a conocer la conducta sospechosa del agente de policía, **Alexander Salas**, de haber colocado la droga aprovechando su chaleco antibala.
@@ -19,7 +19,7 @@ En la sesión pasada se dieron a conocer audios del capitán **Iván Darío Cade
 
 ## ¿La policía sembró el kilo de cocaína?
 
-![Este es Alexander Vega, separado por la policía, cuando esposaba a Martín Barreto. Pudo ser el agente que sembró el kilo de cocaína en la camioneta del compañero de Gloria Estrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/audiencia-publica-o-privada-la-policia-sembro-el-kilo-de-cocaina/alexander-salas.jpg)
+![Este es Alexander Vega, separado por la policía, cuando esposaba a Martín Barreto. Pudo ser el agente que sembró el kilo de cocaína en la camioneta del compañero de Gloria Estrada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/audiencia-publica-o-privada-la-policia-sembro-el-kilo-de-cocaina/alexander-salas.jpg)
 *Este es Alexander Vega, separado por la policía, cuando esposaba a Martín Barreto. Pudo ser el agente que sembró el kilo de cocaína en la camioneta del compañero de Gloria Estrada.*
 
 En uno de los informes de VoxPopuli.Digital ([El camino de un falso positivo. Caso Gloria Estrada II](/articulos/caso-gloria-estrada-el-camino-de-un-falso-positivo/)) revelamos que existían dos sospechosos de haber sembrado el kilo de cocaína. Uno era el agente Alexander Salas y el otro el abogado Mauro Martínez de la Puente. La sospecha del primero estriba en que durante el operativo aprovechó que los otros agentes tenían a los detenidos, mientras él solo abría la puerta trasera. Tapó la visibilidad con su chaleco. Y, tomando en cuenta los testimonios, luego se devolvió a los detenidos, diciendo: 
@@ -32,7 +32,7 @@ Debemos decir que **Alexander Salas** se le sindica —en la audiencia del resta
 
 ## El mayor Bueno
 
-![Mayor Gustavo Adolfo Bueno Aguilar, principal implicado en la policía por el falso operativo del kilo de cocaína. Foto cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/audiencia-publica-o-privada-la-policia-sembro-el-kilo-de-cocaina/mayor-bueno-retrato.jpg)
+![Mayor Gustavo Adolfo Bueno Aguilar, principal implicado en la policía por el falso operativo del kilo de cocaína. Foto cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/audiencia-publica-o-privada-la-policia-sembro-el-kilo-de-cocaina/mayor-bueno-retrato.jpg)
 *Mayor Gustavo Adolfo Bueno Aguilar, principal implicado en la policía por el falso operativo del kilo de cocaína. Foto cortesía.*
 
 ¿La policía sembró el kilo de cocaína? De acuerdo a la conversación sostenida por el capitán de la policía, **Iván Darío Cadena Tanganá con Martín Barreto**_,_ salió a relucir el caso del plan que tenía concebido el edil Pedro Aponte. La idea era incriminar a Gloria Estrada y su compañero. Pero el oficial de policía le dijo que ese operativo no lo podía hacer la SIJIN, ya que ese no es su papel dentro de la institución. Los patrulleros de la policía —le dijo— podrían realizar dicho operativo.

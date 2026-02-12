@@ -5,10 +5,10 @@ pubDate: "2024-08-29 03:23:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/maduro-autogolpe-lumpen-proletario/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/maduro-autogolpe-lumpen-proletario/hero.jpg
 ---
 
-![La presidencia de Nicolás Maduro y de Diosdado Cabello son ilegítimas, porque se sustentan en el fraude y el chanchullo. Maduro: ¿Autogolpe lumpen―proletario?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/maduro-autogolpe-lumpen-proletario/Maduro_portada-1024x824.jpeg)
+![La presidencia de Nicolás Maduro y de Diosdado Cabello son ilegítimas, porque se sustentan en el fraude y el chanchullo. Maduro: ¿Autogolpe lumpen―proletario?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/maduro-autogolpe-lumpen-proletario/Maduro_portada-1024x824.jpeg)
 *La presidencia de Nicolás Maduro y de Diosdado Cabello son ilegítimas, porque se sustentan en el fraude y el chanchullo. Maduro: ¿Autogolpe lumpen―proletario?*
 
 **Nicolás Maduro Moros** está más débil. Se deslegitima. Ya no representa al pueblo venezolano sino a una camarilla encaramada artificialmente que usurpa el poder popular. Maduro es lo contrario a **Hugo Chávez** **Frías** (1999_**―**_2001) que representó _**―**_en su momento_**―**_ a los herederos del **«**Caracazo**»** y a la mayoría desheredada. Pero hoy, sus poderosos herederos _**―**_y el mismo Chávez del ocaso_**―**_ vaciaron sus discursos con la usurpación de la voluntad popular. Inauguraron una nueva modalidad de Golpe de Estado: _**el autogolpe lumpen―proletario**_.
@@ -45,7 +45,7 @@ Entonces, los estadistas de la República Bolivariana ―inspirados en la revolu
 
 ## ¿Partido único en una democracia?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/maduro-autogolpe-lumpen-proletario/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/maduro-autogolpe-lumpen-proletario/hero.jpg)
 *Caracas (Venezuela), 19 Abril del 2013. Posesión de Nicolas Maduro como Presidente de la República Bolivariana de Venezuela. Foto: Xavier Granja Cedeño/Ministerio de Relaciones Exteriores Comercio e Integración./Cortesía.*
 
 Como consecuencia lógica, el poder se concentra en el partido único y se deniega la participación democrática. Se interviene a los demás partidos declarándolos ilegales. En los debates electorales, decretan la ilegalidad de los candidatos rivales que les pueden ganar las elecciones, como el caso de **María Corina Machado** en Venezuela. O los 7 candidatos a la presidencia encarcelados por el dictador **Daniel Ortega**, presidente de Nicaragua, en las elecciones del 2021.

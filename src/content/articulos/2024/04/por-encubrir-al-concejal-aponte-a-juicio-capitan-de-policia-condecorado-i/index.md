@@ -5,17 +5,17 @@ pubDate: "2024-04-27 13:00:17"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/hero.jpg
 ---
 
-![¿Corrupción judicial? Mírenlos allí. Quien toma la selfie es el contralor distrital de 2021, Fredy Quintero. En el fondo la pareja de aliados muy sonrientes, Pedro Aponte y Luis Cassiani. ¡A manteles tendidos! Por encubrir al concejal Aponte, a juicio capitán de policía  condecorado](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/FredysQuintero_Cassiani_pedro-aponte-1024x622.jpeg)
+![¿Corrupción judicial? Mírenlos allí. Quien toma la selfie es el contralor distrital de 2021, Fredy Quintero. En el fondo la pareja de aliados muy sonrientes, Pedro Aponte y Luis Cassiani. ¡A manteles tendidos! Por encubrir al concejal Aponte, a juicio capitán de policía  condecorado](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/FredysQuintero_Cassiani_pedro-aponte-1024x622.jpeg)
 *¿Corrupción judicial? Mírenlos allí. Quien toma la selfie es el contralor distrital de 2021, Fredy Quintero. En el fondo la pareja de aliados muy sonrientes, Pedro Aponte y Luis Cassiani. ¡A manteles tendidos!*
 
 Se cierra el cerco judicial al concejal Aponte. Con el llamamiento a juicio al capitán **Iván Darío Cadena Tanganá**, condecorado con la **Gran Cruz** **de la Independencia de Cartagena**, al parecer, expareja del exconcejal **Luis Cassiani Valiente**, se cierra poco a poco el cerco judicial al concejal _sub judice_ **Pedro Aponte García** (Cambio Radical). Sería _el hombre de atrás_ que determinó el complot del **kilo de droga** contra **Gloria Estrada Benavides**, en la época de los hechos, presidenta del concejo distrital de Cartagena, y su pareja permanente, el empresario **Martín Barreto de la Hoz**.
 
 Este hecho sucedió el **14 de enero de 2022**, cuyas hipótesis **VoxPopuli Digital** construyó objetivamente en su momento, muy a pesar de que todos los medios de prensa, incluso, el alcalde Dau, anticipadamente procesaron y condenaron a la concejal liberal. Ahora se está comprobando una a una esas hipótesis. Esto resultó de una investigación y un razonamiento deductivo sin sesgos. La historia sucedió como la puesta en escena de un guión de una película de suspenso, cuyo desenlace sólo sabía su determinador, al parecer, Aponte García apodado en su localidad «el Patrón». ¡La sorpresa! No solo Cadena Tanganá sabía del suceso futuro sino también varios ediles, concejales, incluso, hasta el mismo alcalde de ese año.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/hero.jpg)
 
 [Caso Gloria Estrada: Sospechosa conducta de una juez y un edil (I)](/articulos/caso-gloria-estrada-sospechosa-conducta-de-una-juez-y-un-edil-i/)
 
@@ -29,14 +29,14 @@ De manera que los indicios apuntan al alcalde, al alcalde menor, a varios concej
 
 ## La justicia selectiva de Dora Cáceres,
 
-![Dora Patricia Cáceres Puentes es doctora en derechos de la Universidad Externado. El concejal Aponte](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/Dora-Patricia-Caceres-Puentes-1024x641.jpeg)
+![Dora Patricia Cáceres Puentes es doctora en derechos de la Universidad Externado. El concejal Aponte](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/Dora-Patricia-Caceres-Puentes-1024x641.jpeg)
 *Dora Patricia Cáceres Puentes es doctora en derechos de la Universidad Externado. /Captura de pantalla.*
 
 La argumentación de la fiscal Cáceres Puentes para llamar a juicio a Cadena Tanganá fue timorata. Débil. Vulnerable. Carente de contundencia argumentativa para involucrar la complicidad de algunos políticos. El hilo conductor de su débil argumentación, lo tejió con delicadeza cuidándose de no involucrar a otros actores políticos del complot. ¿Trató de encubrir a alguien? **Esta conducta es atípica en una veterana fiscal con doctorado en derechos.** Este hallazgo en el análisis periodístico, nos propone varios interrogantes que deben responder la directora saliente y la entrante. Pero también la misma fiscal.
 
 ¿Qué intereses políticos tiene la fiscal **Dora Patricia Cáceres Puentes**, cuya productividad fue deficitaria en este período de la administración de **Iveth Hernández Sampayo**? ¿Qué pasará con estos fiscales de Bolívar que fueron improductivos durante la nefasta gestión de Hernández Sampayo, herencia del exprocurador conservador **Alejandro Ordoñez**? ¿Por qué no lo hizo con Dau y los concejales y ediles que presuntamente lo sabían? Ni siquiera los llamó a declarar dentro del caso Cadena Tanganá. ¿Por qué en la ruptura del proceso de Alexander Mercado, autor material del crimen junto a sus dos delincuentes patrulleros, NO se abrió una línea investigativa contra estos personajes? ¿Por qué la fiscalía no pidió detención intramural contra Salas Mercado, el principal cabecilla del crimen material?
 
-![Alexander Salas Mercado, el patrullero que presuntamente recibió una buena porción de los $40 millones que dijo el concejal Aponte en la conversación con Cadena Tanganá tenía para invertir en el complot.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/Alexander-Salas-Mercado.jpg)
+![Alexander Salas Mercado, el patrullero que presuntamente recibió una buena porción de los $40 millones que dijo el concejal Aponte en la conversación con Cadena Tanganá tenía para invertir en el complot.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/Alexander-Salas-Mercado.jpg)
 *Alexander Salas Mercado, el patrullero que presuntamente recibió una buena porción de los $40 millones que dijo el concejal Aponte en la conversación con Cadena Tanganá tenía para invertir en el complot.*
 
 ## ¿Quién protege a Salas?
@@ -49,7 +49,7 @@ Es así que el **Juzgado** **Octavo Penal Municipal de Cartagena** el 12 de en
 
 ## El motivo del complot
 
-![El concejal Luis Cassiani entrega la Gran Cruz de la Independencia al teniente (2021) Iván Darío Cadena Tanganá./Captura de pantalla.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/Capitan-Cadena-Tangana.jpeg)
+![El concejal Luis Cassiani entrega la Gran Cruz de la Independencia al teniente (2021) Iván Darío Cadena Tanganá./Captura de pantalla.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/Capitan-Cadena-Tangana.jpeg)
 *El concejal Luis Cassiani entrega la Gran Cruz de la Independencia al teniente (2021) Iván Darío Cadena Tanganá./Captura de pantalla.*
 
 Sin embargo, el llamamiento a juicio contra Tanganá se sustenta a partir de la rivalidad política al interior del concejo, cuyo detonante llevó al edil de la época, **Pedro Aponte García** a cranear y ejecutar el consabido complot. Aunque la resolución de la fiscal Dora Cáceres no lo cita, sin duda, debe decirse que dicha rivalidad se originó en el seno del concejo, por un lado. Y por el otro, en el control de la localidad 2 con el alcalde local **Andy Reales Arroyo**. En el primer escenario, la cabeza visible de la coalición minoritaria era **Luis Javier Cassiani Valiente**. Tanto el alcalde Dau Chamat como la coalición minoritaria liderada por Cassiani se beneficiaron con la caída estrepitosa de Gloria Estrada. ¿Lo analizó Dora Cáceres? No. Omitió este hecho. ¿Deliberadamente? No se sabe.
@@ -62,7 +62,7 @@ La concejal liberal hizo coalición con algunos conservadores como **Alfonso Mar
 
 ## El poder de Gloria y Dora
 
-![Gloria Estrada, cuando solo era la vicepresidenta del concejo de Cartagena y no se había presentado la rivalidad con el concejal Aponte](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/gloria-estrada-feliz-788x1024.jpg)
+![Gloria Estrada, cuando solo era la vicepresidenta del concejo de Cartagena y no se había presentado la rivalidad con el concejal Aponte](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/por-encubrir-al-concejal-aponte-a-juicio-capitan-de-policia-condecorado-i/gloria-estrada-feliz-788x1024.jpg)
 *Gloria Estrada, cuando solo era la vicepresidenta del concejo de Cartagena y no se había presentado la rivalidad con el concejal Aponte.*
 
 Con la presidencia y la coalición mayoritaria, sin saber lo que le deparaba el futuro, el 18 de noviembre de ese mismo año, **Gloria Estrada** tumbó al contralor distrital encargado **Fredy Quintero** (cuota de Cassiani Valiente) e hizo elegir a **Rafael Castillo Fortich**.

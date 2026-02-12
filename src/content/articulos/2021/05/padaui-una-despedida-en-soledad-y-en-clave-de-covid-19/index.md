@@ -5,10 +5,10 @@ pubDate: "2021-05-02 04:29:57"
 author: "Lucio"
 categories: ["Crónica","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/padaui-una-despedida-en-soledad-y-en-clave-de-covid-19/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/padaui-una-despedida-en-soledad-y-en-clave-de-covid-19/hero.jpg
 ---
 
-\[caption id="attachment\_14763" align="aligncenter" width="960"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/padaui-una-despedida-en-soledad-y-en-clave-de-covid-19/hero.jpg) Padauí: una despedida en soledad y en clave de Covid-19. Aquí con las mujeres de su movimiento. /Cortesía.\[/caption\]
+\[caption id="attachment\_14763" align="aligncenter" width="960"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/padaui-una-despedida-en-soledad-y-en-clave-de-covid-19/hero.jpg) Padauí: una despedida en soledad y en clave de Covid-19. Aquí con las mujeres de su movimiento. /Cortesía.\[/caption\]
 
 Hernando Padauí, una despedida en soledad y en clave de Covid-19. **Las propiedades, el dinero acumulado y los conflictos se extinguieron con la muerte**. Cuando llega la parca, el ser humano pasa a otra dimensión. Se transforma en energía. Ya sea en forma de cenizas o de un cuerpo que se desintegra para reencontrarse con la Madre Tierra. **Se hace polvo**. Solo los recuerdos, la memoria y la imaginación de ese cuerpo ya muerto, **sobreviven para siempre**. Todo se se desvanece. **¿Quién llorará por ti cuando te mueras?** ¿Cómo te recordarán?
 
@@ -70,7 +70,7 @@ Tenía frente a mí a un ejemplo. Vestía una camiseta blanca de algodón, vaque
 
 ## El resurgir de Padauí con Daira Galvis
 
-\[caption id="attachment\_14768" align="aligncenter" width="984"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/padaui-una-despedida-en-soledad-y-en-clave-de-covid-19/daira-galvis-2.jpg) Daira Galvis, quien también tiene Covid-19, fue la protectora de Picho Padauí. Padauí: una despedida en soledad./Cortesía\[/caption\]
+\[caption id="attachment\_14768" align="aligncenter" width="984"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/padaui-una-despedida-en-soledad-y-en-clave-de-covid-19/daira-galvis-2.jpg) Daira Galvis, quien también tiene Covid-19, fue la protectora de Picho Padauí. Padauí: una despedida en soledad./Cortesía\[/caption\]
 
 Me contó que en su regreso a Colombia las cosas las tuvo bien dura. Buscó apoyo en **Daira Galvis Méndez**, la senadora de Cambio Radical. Me dijo que le agradece mucho por lo que hizo por él. Encontró nuevos desafíos. Entró a ocupar otro cargo público en el departamento y luego se hizo elegir representante a la Cámara de la mano de la senadora Daira. Fueron tres períodos. Y se dio el lujo de renunciar en 2018 para lanzarse como candidato a la gobernación en 2019. Estaba seguro que iba a ser el gobernador.
 

@@ -5,10 +5,10 @@ pubDate: "2022-07-15 21:15:00"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Post Conflicto","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-oscura-relacion-de-daira-galvis-con-enilce-lopez-paso-a-la-jep-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/la-oscura-relacion-de-daira-galvis-con-enilce-lopez-paso-a-la-jep-ii/hero.jpg
 ---
 
-![La relación oscura entre la senadora Daira Galvis y la empresaria Enilce López será esclarecida ante la JEP.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-oscura-relacion-de-daira-galvis-con-enilce-lopez-paso-a-la-jep-ii/hero.jpg)
+![La relación oscura entre la senadora Daira Galvis y la empresaria Enilce López será esclarecida ante la JEP.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/la-oscura-relacion-de-daira-galvis-con-enilce-lopez-paso-a-la-jep-ii/hero.jpg)
 *La oscura relación entre la senadora Daira Galvis y la empresaria Enilce López será esclarecida ante la JEP.*
 
 Uno de los hechos por los cuales la **Corte Suprema de Justicia (CSJ)** investigaba a la senadora de Cambio Radical, **Daira de Jesús Galvis Méndez**, fue su oscura relación con la Reina del Chance, la polémica **Enilce López Romero**. El alto tribunal halló suficiente material probatorio que **comprueba haberse concertado para financiar a los "escuadrones de la muerte**" que causaron asesinatos selectivos, masacres y desplazamientos forzados.
@@ -23,7 +23,7 @@ La OSCURA RELACIÓN de Daira galvis con Enilce López.
 
 En 2010, narramos que en el **"Expediente Jorge Piedrahita"**, el veedor ciudadano fue perseguido, apresado y finalmente murió como resultado de la persecución:
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/la-oscura-relacion-de-daira-galvis-con-enilce-lopez-paso-a-la-jep-ii/jorge-piedrahita.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/la-oscura-relacion-de-daira-galvis-con-enilce-lopez-paso-a-la-jep-ii/jorge-piedrahita.jpg)
 *Jorge Piedrahita fue perseguido por la Familia García Romero, la Sociedad Portuaria y Daira Galvis. Murió como consecuencia de esa persecución.*
 
 > "Con whisky incluido, conspicuos líderes políticos y empresariales celebraban, como si fueran las fiestas de Baco o Dionisio, en el edificio Isla del Sol del barrio exclusivo de Bocagrande, el 31 de octubre de 2007. ¿El motivo? El Juzgado Cuarto Penal del Circuito de Cartagena había condenado al médico cirujano Jorge Piedrahita Aduen a la pena principal de 5 años y 8 meses de cárcel por el delito de injuria y calumnia y fraude procesal".

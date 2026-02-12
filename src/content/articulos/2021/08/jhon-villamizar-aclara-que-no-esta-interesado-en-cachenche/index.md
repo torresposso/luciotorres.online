@@ -5,12 +5,12 @@ pubDate: "2021-08-31 17:53:45"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/jhon-villamizar-aclara-que-no-esta-interesado-en-cachenche/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/jhon-villamizar-aclara-que-no-esta-interesado-en-cachenche/hero.jpg
 ---
 
 **Jhon Villamizar aclara que no tiene interés en Cachenche.** Es un reconocido empresario antioqueño —no bogotano—, aclaró que no está interesado en arrendar o comprar los predios de Cachenche. De igual manera que su empresa Coral Azúl cumple a cabalidad con los requisitos y exigencias de la licencia ambiental concedida por Cardique.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/jhon-villamizar-aclara-que-no-esta-interesado-en-cachenche/jhon-villamizar.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/jhon-villamizar-aclara-que-no-esta-interesado-en-cachenche/jhon-villamizar.jpeg)
 *A la izquierda el empresario antioqueño Jhon Villamizar aclara: "No me interesa Cachenche".*
 
 [¿Qué quiere hacer la SAE en Cachenche?](/articulos/que-quiere-hacer-la-sae-en-cachenche/) fue el artículo que publicamos el lunes 29 de agosto en VoxPopuli Digital. Relatamos que los campesinos habían dicho en varias oportunidades que el empresario Villamizar estaba interesado en Cachenche.

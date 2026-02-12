@@ -5,10 +5,10 @@ pubDate: "2025-01-14 17:11:08"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/hero.jpg)
 *Pedro de Jesús Aponte García, abogado, nacido en Santa Marta en 1988. El ahora concejal de Cambio Radical, y Andy Reales, exalcalde de la localidad 2, aparecen como autores intelectuales de este complot criminal.*
 
 Hoy, 14 de enero de 2025, se cumplen tres años desde cuando la presidenta del concejo de Cartagena de Indias de aquel momento, **Gloria Estrada Benavides**, y su compañero, **Martín Alonso Barreto de la Hoz**, fueron víctimas de un **complot criminal** por rivalidades políticas. Agentes de policías corruptos le «sembraron**»** un kilo de cocaína barata en la camioneta donde se transportaban cuando ejecutaban un falso operativo en Manga, a la bajada del Puente Román.
@@ -51,7 +51,7 @@ La hipótesis periodística, apuntó a un edil y al alcalde de la localidad 2. E
 
 ## Un muerto
 
-![Miguel Antonio Navarro Villa, el agente que se suicidó, quizás presionado y acosado por la injusta desvinculación de la Policía por el solo hecho de denunciar al agente corrupto Alexander Salas por participar en el complot criminal.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/Navarro_policia.jpeg)
+![Miguel Antonio Navarro Villa, el agente que se suicidó, quizás presionado y acosado por la injusta desvinculación de la Policía por el solo hecho de denunciar al agente corrupto Alexander Salas por participar en el complot criminal.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/Navarro_policia.jpeg)
 *Miguel Antonio Navarro Villa, el agente que se suicidó, quizás presionado y acosado por la injusta desvinculación de la Policía por el solo hecho de denunciar al agente corrupto Alexander Salas por participar en el complot criminal.*
 
 Sin embargo, el hecho tiene un muerto. Uno de los primeros policías contactados por **Alexander Salas Mercado** se suicidó. **Miguel Antonio Navarro Villa**, tomó esa determinación en febrero de 2023 en su casa. Según los familiares que **VoxPopuli Digital** entrevistó en aquella época, el exagente padecía un **estrés crónico** por las presiones y amenazas que recibió. Pero antes de morir, hizo una declaración reveladora ante la fiscalía. Declaración donde reconoció que **recibió la oferta de $15 millones de Salas Mercado**, el agente corrupto. Pero no aceptó dicha propuesta.
@@ -60,7 +60,7 @@ El otro agente que Salas también tentó ofreciéndole $15 millones es **Sergio 
 
 ## La juez
 
-![Haydeé Hernández Vargas , juez de Ejecución de Penas, acompañó a Pedro Aponte en la cárcel, presuntamente para intimidar a Martín Barreto, según la denuncia que presentó en la Fiscalía. Complot criminal.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/image-1-983x1024.png)
+![Haydeé Hernández Vargas , juez de Ejecución de Penas, acompañó a Pedro Aponte en la cárcel, presuntamente para intimidar a Martín Barreto, según la denuncia que presentó en la Fiscalía. Complot criminal.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/image-1-983x1024.png)
 *Haydeé Hernández Vargas, juez de Ejecución de Penas, acompañó a Pedro Aponte en la cárcel, presuntamente para intimidar a Martín Barreto, según la denuncia que presentó en la Fiscalía.*
 
 La fiscalía y la procuradora del caso actuaron diligentemente al pedir cárcel para los presuntos implicados del kilo de cocaína. Cuando el juez 18 penal municipal dio casa por cárcel, la apelación la hizo la procuradora seriamente parcializada a propinar el duro castigo a las víctimas del complot criminal.
@@ -77,7 +77,7 @@ No obstante, las víctimas salieron de ese trance dramático. Finalmente fueron 
 
 ## Dora Cáceres, la fiscal
 
-![Dora Cáceres, fiscal del proceso contra Pedro Aponte](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/Dora-Patricia-Caceres-Puentes-1024x641.jpeg)
+![Dora Cáceres, fiscal del proceso contra Pedro Aponte](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/un-concejal-el-hombre-de-atras-del-complot-criminal/Dora-Patricia-Caceres-Puentes-1024x641.jpeg)
 *Dora Patricia Cáceres Puentes. El concejal Aponte*
 
 Sin embargo, la fiscal que tiene a su conocimiento las investigaciones penales de este caso, **Dora Patricia Cáceres Puentes**, no ha llamado a juicio a los presuntos autores intelectuales y materiales. Muy a pesar del esclarecimiento de la verdad en cuanto a los hallazgos de tipo penal de este proceso.

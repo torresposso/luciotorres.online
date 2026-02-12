@@ -5,10 +5,10 @@ pubDate: "2025-07-08 04:42:41"
 author: "Lucio"
 categories: ["Destacadas","Poder"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/barranquilla-ciudad-simulacro-sede-del-foro-ocde-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/barranquilla-ciudad-simulacro-sede-del-foro-ocde-i/hero.jpg
 ---
 
-![Alejandro Char Chaljub, es un auténtico Aladino con su lámpara mágica](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/barranquilla-ciudad-simulacro-sede-del-foro-ocde-i/hero.jpg)
+![Alejandro Char Chaljub, es un auténtico Aladino con su lámpara mágica](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/barranquilla-ciudad-simulacro-sede-del-foro-ocde-i/hero.jpg)
 *Alejandro Char Chaljub, es un auténtico Aladino con su lámpara mágica. Los Char construyeron la ciudad simulacro, Parece pero no es.*
 
 **Alejandro Char Chaljub**, es un auténtico Aladino con su lámpara mágica. En 2010 se la tiró de popular, como si fuera coleto de barrio, y ganó la alcaldía de Barranquilla por primera vez. **Su desarrollo en estos cuatro períodos administrativo es un espejismo de ciudad sostenible**. ¿Sabes por qué nuestra querida Curramba ahora es la ciudad simulacro?

@@ -5,10 +5,10 @@ pubDate: "2021-11-12 19:32:55"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/el-rinconcito-del-exgobernador-mendivil-posado-en-la-via-publica/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/el-rinconcito-del-exgobernador-mendivil-posado-en-la-via-publica/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/el-rinconcito-del-exgobernador-mendivil-posado-en-la-via-publica/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/el-rinconcito-del-exgobernador-mendivil-posado-en-la-via-publica/hero.jpg)
 *Este es el Rinconcito del exgobernador Mendívil Ciodaro y de su esposa Evelia Rosa Ayazo, notaría Cuarta.*
 
 El Rinconcito, la casa campestre del exgobernador de Bolívar **Carlos Mendivil Ciodaro,** está posada en todo el centro de la vía que de Pontezuela conduce a Punta de Piedra, corregimientos de Cartagena. Impide el paso de los demás propietarios que al otro lado de la vía. Uno de estos propietarios es **Roberto del Río**, quien tiene una posesión heredada de su padre fallecido **Víctor del Río.** 

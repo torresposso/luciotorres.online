@@ -5,7 +5,7 @@ pubDate: "2021-03-08 20:49:15"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/igualdad-de-genero-ahora/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/igualdad-de-genero-ahora/hero.jpg
 ---
 
 (imagen no disponible)
@@ -14,7 +14,7 @@ Igualdad de género ¡ahora! Como es ya conocido, hoy conmemoramos el Día Inter
 
 Por esa razón no celebramos. Conmemoramos este día no como una formalidad que se inserta en la cotidianidad banal del mundo globalizado. Por ejemplo, un día para que el comercio se reactive en esta época de pandemia del Covid—19. No. Si hacemos esto, despedazamos el espíritu de este día. Y lo domesticaríamos para que se convierta en una fecha más del comercio internacional. 
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/igualdad-de-genero-ahora/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/igualdad-de-genero-ahora/hero.jpg)
 *Igualdad de género ¡ahora!*
 
 Recuerdo que en las épocas idas de bachillerato y de universidad, conmemorar este día era publicar la poesía que habíamos escrito especial para este día. O rebuscar la mejor poesía de nuestros poetas favoritos. Solíamos hacerlo con poetas como José Asunción Silva, Porfirio Barba Jacob. También leíamos a Gioconda Belli. Y una que que me gusta bastante, **Alfonsina Storni**. «Me quieres blanca».  (Ver el video).

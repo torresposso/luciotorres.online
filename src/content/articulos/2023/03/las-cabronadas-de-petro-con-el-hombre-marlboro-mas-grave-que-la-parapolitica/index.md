@@ -5,10 +5,10 @@ pubDate: "2023-03-04 22:19:19"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/las-cabronadas-de-petro-con-el-hombre-marlboro-mas-grave-que-la-parapolitica/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/las-cabronadas-de-petro-con-el-hombre-marlboro-mas-grave-que-la-parapolitica/hero.jpg
 ---
 
-![«Las cabronadas» de Petro con el «Hombre Marlboro» más grave que la «Parapolítica» ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/las-cabronadas-de-petro-con-el-hombre-marlboro-mas-grave-que-la-parapolitica/hero.jpg)
+![«Las cabronadas» de Petro con el «Hombre Marlboro» más grave que la «Parapolítica» ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/las-cabronadas-de-petro-con-el-hombre-marlboro-mas-grave-que-la-parapolitica/hero.jpg)
 *El vidrio de la portada familiar se rompió. «Las cabronadas» de Petro con el «Hombre Marlboro» más grave que la «Parapolítica»*
 
 ¿«Las cabronadas» de Petro son más graves que el **«Proceso 8 mil»**? ¿Mucho más grave que el **«Proceso de la Parapolítica»**? Si bien las relaciones tormentosas de **Nicolás Petro** tienen un hecho positivo, porque el presidente **Gustavo Petro** **será abuelo**, también sería el **inicio del fin** del **«Mito Petro»** y de un sueño. El fin de los sueños de millones de personas que veían el cambio (la regeneración de Colombia) con el nuevo gobierno. Es decir, el sueño de **una Colombia próspera, democrática y libre de la dictadura del narcotráfico y la corrupción**.
@@ -100,7 +100,7 @@ De hecho, **«las cabronadas» de Petro Burgos** no terminarán aquí. El idilio
 
 ## **«Las cabronadas»** de Petro y el desamor en el poder
 
-![Por cuenta de las mujeres, los líderes de la izquierda y la derecha mostraron su verdadera catadura de corrupción..  «Las cabronadas» de Petro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/las-cabronadas-de-petro-con-el-hombre-marlboro-mas-grave-que-la-parapolitica/Relaciones-tormentosas-i.jpg)
+![Por cuenta de las mujeres, los líderes de la izquierda y la derecha mostraron su verdadera catadura de corrupción..  «Las cabronadas» de Petro.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/las-cabronadas-de-petro-con-el-hombre-marlboro-mas-grave-que-la-parapolitica/Relaciones-tormentosas-i.jpg)
 *Por cuenta de las mujeres, los líderes de la izquierda y la derecha mostraron su verdadera catadura de corrupción.*
 
 Para entender el escándalo de **«las cabronadas»** de Petro debemos partir de la premisa que se propone en este análisis. No se necesita consultar _gurús_ para llegar a la conclusión de que en cosas del amor o el desamor **la política y los negocios son detonantes muy explosivos**. La personalidad de **Nicolás Petro Burgos y de Day Vásquez** **—**como le dicen sus amigos**—** coadyuva a entender lo que está sucediendo con este escándalo que estremece el poder político del Pacto Histórico. Ahora es la comidilla de las redes sociales, de las esquinas, las peluquerías y los programas de farándula.

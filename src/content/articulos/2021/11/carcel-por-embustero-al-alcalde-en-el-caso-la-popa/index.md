@@ -5,10 +5,10 @@ pubDate: "2021-11-08 03:36:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/hero.jpg)
 *Mientras los jueces lo condenan por negligente y embustero, el alcalde William Dau sigue faranduleando en el negocio de su hijo. ¿Cartagena se merece un gobernante así?*
 
 ¡Arresto! por embusteros y negligentes fueron sancionados por desacato el alcalde de Cartagena **William Dau Chamat y Javier Mouthón Bello,** director del EPA sobre el **Caso La Popa**. Presentaron «evidencias de cumplimientos» que el juez calificó de «solo palabras» y nada de hechos. Estos servidores públicos entraron en desacato para implementar las medidas urgentes ordenadas por el Juez Séptimo Administrativo del Circuito de Cartagena dentro de la Acción Popular impulsada por el director de ECOPOPA, **Rafael Zuñiga**. 
@@ -31,7 +31,7 @@ Las autoridades judiciales le concedieron a la alcaldía y al EPA un plazo de un
 
 ## Por embusteros y negligentes
 
-![Cárcel por embustero](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/Dau-contemplando-su-propia-basura.jpg)
+![Cárcel por embustero](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/Dau-contemplando-su-propia-basura.jpg)
 *El juez dijo que la responsabilidad del alcalde no se resume en requerir a otras autoridade, ¡debe ejercer su poder! Aquí contempla su basura pero no es capaz de hacerla recoger. El juez tiene razón.*
 
 William Dau Chamat, en su calidad de alcalde y Javier Mouthón, como director del Establecimiento Público Ambiental-EPA, fueron llamados a presentar evidencias de que habían cumplido con el mandato del Juzgado Séptimo  Administrativo del Circuito. 
@@ -42,7 +42,7 @@ Las **«evidencias de cumplimientos»** que presentaron, en su mayoría **eran f
 
 ## Embuste y negligencia
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/FB_IMG_1636370465290.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/FB_IMG_1636370465290.jpg)
 *Javier Mouthón Bello en compañía de su madrina política Judith Pinedo. Es uno de los funcionarios que ha brillado por su ineptitud, según el juez. Cortesía.*
 
 El auto No 00063/2016 del Juzgado Octavo Administrativo de Cartagena puso en evidencia dos elementos que son comunes en esta administración y que retrata la gestión del alcalde William Dau. Esos dos distintivos son **la embustería** que presenta a la ciudadanía sobre supuestas realizaciones. **Y el otro es su negligencia en la gestión pública**.

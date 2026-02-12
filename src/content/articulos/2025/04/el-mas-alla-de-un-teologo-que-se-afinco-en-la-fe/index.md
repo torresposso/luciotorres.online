@@ -5,12 +5,12 @@ pubDate: "2025-04-16 22:20:07"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Entrevista"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-mas-alla-de-un-teologo-que-se-afinco-en-la-fe/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/el-mas-alla-de-un-teologo-que-se-afinco-en-la-fe/hero.jpg
 ---
 
 ![
 «El más allá» de un teólogo que se afincó en la fe
-](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-mas-alla-de-un-teologo-que-se-afinco-en-la-fe/Carlos_martinez_mompox-1024x575.jpg)
+](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/el-mas-alla-de-un-teologo-que-se-afinco-en-la-fe/Carlos_martinez_mompox-1024x575.jpg)
 *Carlos Martínez. «el más allá» de un teólogo que se afincó en la fe./VoxPopuli.digital.*
 
 Llegué a **Carlos Martínez** inesperadamente. No sabía que era teólogo ni filosofo. Que vivió 14 años en Italia y se regresó a Santa Cruz de Mompox. Tampoco conocía de su vida como miembro de la **Hermandad Caballeros de Cristo**. Una cofradía derivada de **Los Caballeros Templarios** de la edad media europea. Ni mucho menos de su **experiencia** con «el más allá» cuando se opuso a los médicos que lo intubaran.
@@ -27,7 +27,7 @@ En consecuencia, capté la forma cómo varios hombres uniformados hacían los ú
 
 ## Periodismo inesperado: «el más allá»
 
-![«El más allá» de un teólogo que se afincó en la fe](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/el-mas-alla-de-un-teologo-que-se-afinco-en-la-fe/hero.jpg)
+![«El más allá» de un teólogo que se afincó en la fe](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/el-mas-alla-de-un-teologo-que-se-afinco-en-la-fe/hero.jpg)
 *«El más allá» de un teólogo que se afincó en la fe*
 
 Cuando hago periodismo me gusta escuchar atentamente. Los detalles son esenciales. Esto me permite hacer la pregunta adecuada, lógica y orientadora para conducirla. Cada respuesta es un insumo que proceso críticamente. Si bien tengo un propósito cuando inicio una entrevista inesperada, esta acción va emparejada con el sentir del entrevistado. Esto es tan importantes como las preguntas.

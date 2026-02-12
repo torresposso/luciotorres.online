@@ -5,10 +5,10 @@ pubDate: "2022-12-24 14:08:58"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/en-navidad-dar-sin-esperar-nada/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/en-navidad-dar-sin-esperar-nada/hero.jpg
 ---
 
-![Un caballito de palo me regaló el Niño Dios cuando aprendí a dar sin recibir nada a cambio.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/en-navidad-dar-sin-esperar-nada/hero.jpg)
+![Un caballito de palo me regaló el Niño Dios cuando aprendí a dar sin recibir nada a cambio.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/en-navidad-dar-sin-esperar-nada/hero.jpg)
 *Un caballito de palo me regaló el Niño Dios cuando aprendí a dar sin recibir nada a cambio. Cortesía de 123RF.*
 
 Cuando estaba _pelao_, me sucedió una historia que me marcó. Desde ese momento entendí la importancia de **dar sin esperar nada**. Y que la Navidad es un buen momento para regalar con amor. Tendría siete años. Hacía muchos días que mi hermana **Nuris María**, de 9 años, no estaba con nosotros. A lo lejos se escuchaba un villancico en la prima mañana del 24 de diciembre. Mi madre **Teresa de Jesús Moreno** me levantó y me dijo:

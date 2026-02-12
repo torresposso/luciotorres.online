@@ -5,10 +5,10 @@ pubDate: "2024-07-10 16:46:16"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ricos-empresarios-estafan-al-estado-y-despojan-a-nativos-de-baru-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/ricos-empresarios-estafan-al-estado-y-despojan-a-nativos-de-baru-i/hero.jpg
 ---
 
-![Ricos empresarios estafaron al Estado y despojaron a nativos de Barú. La revista Dinero omitió decir que los dos empresarios estafaron al Estado/Portada de Dinero.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ricos-empresarios-estafan-al-estado-y-despojan-a-nativos-de-baru-i/Gabriel_echavarria_Alejandro_Santo_Domingo-1024x583.jpeg)
+![Ricos empresarios estafaron al Estado y despojaron a nativos de Barú. La revista Dinero omitió decir que los dos empresarios estafaron al Estado/Portada de Dinero.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/ricos-empresarios-estafan-al-estado-y-despojan-a-nativos-de-baru-i/Gabriel_echavarria_Alejandro_Santo_Domingo-1024x583.jpeg)
 *Ricos empresarios estafaron al Estado y despojaron a nativos de Barú. La revista Dinero omitió decir que los dos empresarios estafaron al Estado/Portada de Dinero.*
 
 ¿Cómo ricos empresarios **estafaron al Estado** mediante el despojo violento a **nativos propietarios** de predios en Barú? No todos los nativos de esta isla vendieron sus predios, como hasta ahora se pretende presentar ante la justicia, el Estado y la opinión pública. Para demostrar esta fehaciente verdad, nos dimos a la tarea de seguirle el rastro al afrodescendiente **Otilio Ortega**, quien fue el principal **calanchín** de estas compras dolosas y espurias. Un rastro que nos lleva a **«**los _hombres de atrás_**»**, ricos empresarios que amasaron fortunas mediante _megaestafas_ contra el Estado y el despojo violento de los nativos.
@@ -21,7 +21,7 @@ No obstante, como era una inversión netamente colombiana, los ricos empresarios
 
 ## La prueba reina
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ricos-empresarios-estafan-al-estado-y-despojan-a-nativos-de-baru-i/Prueba_escritura_baru_compra.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/ricos-empresarios-estafan-al-estado-y-despojan-a-nativos-de-baru-i/Prueba_escritura_baru_compra.jpeg)
 *Escritura 1541 del 27 de abril de 1972 donde Pablo Obregón vendió a la Corporación Nacional de Turismo el predio El Pajal, propiedad de Tomás Barcasnegras. El predio nunca lo vendieron y lo poseen actualmente.*
 
 Por primera vez se presentarán casos emblemáticos con suficiente material probatorio de cómo los nativos propietarios de Barú que jamás vendieron, los despojaron con triquiñuelas y violencia. La misma institucionalidad del Estado la utilizaron para esta finalidad. Así lo confirmaron los jefes paramilitares Juancho Dique y Salvatore Mancuso en Justicia y Paz y la JEP.

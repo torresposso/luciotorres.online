@@ -5,12 +5,12 @@ pubDate: "2022-07-04 22:40:06"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/cartagena-ciudad-muerta-de-hambre-y-de-miedo-segun-indicadores-del-dane/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/cartagena-ciudad-muerta-de-hambre-y-de-miedo-segun-indicadores-del-dane/hero.jpg
 ---
 
 Una ciudad muerta de hambre y de miedo. Pareciera que Cartagena soportara las 7 plagas bíblicas. Según la última encuesta Pulso Social del DANE, la hacen una ciudad inviable. La mitad de su población aguanta hambre el doble de lo que soporta el país. Solo el 50,2% se consume las tres comidas diarias. El 94% no tiene mayores posibilidades de comprar ropa, zapatos, alimentos. El 64.7% afirmó que la situación económica actual de su hogar es **“Peor”** o **“Mucho peor”** que hace un año. El **95.2%** afirmó **sentirse inseguros y muy inseguros** caminando su barrio de noche.
 
-![Ante la incapacidad de la alcaldía, fundaciones particulares buscan las maneras de hacerle llegar un bocado de comida a niños que viven en una ciudad muerta de hambre.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/cartagena-ciudad-muerta-de-hambre-y-de-miedo-segun-indicadores-del-dane/hero.jpg)
+![Ante la incapacidad de la alcaldía, fundaciones particulares buscan las maneras de hacerle llegar un bocado de comida a niños que viven en una ciudad muerta de hambre.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/cartagena-ciudad-muerta-de-hambre-y-de-miedo-segun-indicadores-del-dane/hero.jpg)
 *Ante la incapacidad de la alcaldía, fundaciones particulares buscan las maneras de hacerle llegar un bocado de comida a niños que viven en una ciudad muerta de hambre.*
 
 Estos indicadores fueron publicados por el DANE en lo que denominan [Encuesta Pulso Social](https://www.dane.gov.co/index.php/estadisticas-por-tema/encuesta-pulso-social) de 23 ciudades del país. En término s generales lo peores indicadores están en la Costa caribe y Pacífica. Pero Cartagena es la ciudad capital que peor le va en esta medición. Cada trimestre sale esta publicación.
@@ -43,7 +43,7 @@ Su incapacidad para materializar los planes en obras fue diciente. El 95% de sus
 
 ## Sin política social
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/cartagena-ciudad-muerta-de-hambre-y-de-miedo-segun-indicadores-del-dane/salvemos-a-Cartagena-de-Dau.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/cartagena-ciudad-muerta-de-hambre-y-de-miedo-segun-indicadores-del-dane/salvemos-a-Cartagena-de-Dau.jpg)
 *Salvemos a cartagena de Dau*
 
 La secretaría de Participación, que maneja la política social para la población vulnerable, no ha cumplido con su misión. Dos secretarios (**Armando Córdoba y Miguel Ángel Correa**) pasaron por allí sin pena ni gloria. El primero salió por el éxito de una moción de censura del concejo distrital. El segundo salió huyendo a otra moción, porque la dinámica fue la misma. Ahora no se sabe que pasa con esta dependencia. Se entendió que la fiebre no está en la sábana. Que es necesario cambiar al alcalde Dau, es decir, a la cabeza de este entramado de dejadez y corrupción.

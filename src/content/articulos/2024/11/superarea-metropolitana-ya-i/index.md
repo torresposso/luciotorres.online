@@ -5,10 +5,10 @@ pubDate: "2024-11-24 12:18:14"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/superarea-metropolitana-ya-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/superarea-metropolitana-ya-i/hero.jpg
 ---
 
-![El gobernador de Bolívar Yamil Hernando Arana Padauí y el alcalde de Cartagena, Dumek José Turbay Paz, podrían liderar la creación la Superárea Metropolitana La Heroica.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/superarea-metropolitana-ya-i/hero.jpg)
+![El gobernador de Bolívar Yamil Hernando Arana Padauí y el alcalde de Cartagena, Dumek José Turbay Paz, podrían liderar la creación la Superárea Metropolitana La Heroica.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/superarea-metropolitana-ya-i/hero.jpg)
 *El gobernador de Bolívar Yamil Hernando Arana Padauí y el alcalde de Cartagena, Dumek José Turbay Paz, podrían liderar la creación la Superárea Metropolitana La Heroica.*
 
 Uno de los hechos que catapultó el desarrollo urbanístico y económico de **Bogotá, Cali, Bucaramanga, Medellín y Barranquilla** fue la creación de su respectiva Área Metropolitana con un Plan de Ordenamiento Territorial―POT orientado a su expansión urbanística. Pero, los **intereses mezquinos dominantes** de mega contratistas del Estado crearon una talanquera para la formación de una **Superárea Metropolitana** de Cartagena y quedarse con pequeños feudos para sus también mezquinos negocios.
@@ -25,7 +25,7 @@ En tanto el gobernador de Bolívar, **Yamil Hernando Arana Padauí** , no podrí
 
 ## Se abre el debate
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/superarea-metropolitana-ya-i/yamil-1-1200x675-1-1024x576.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/superarea-metropolitana-ya-i/yamil-1-1200x675-1-1024x576.jpg)
 *Aquí el gobernador Yamil Arana con el director de Cardique.*
 
 De la misma manera, los concejos municipales de los entes territoriales implicados en el proyecto y la misma Asamblea de Bolívar, deberían abrir un debate serio sobre esta propuesta de la **Superárea Metropolitana de la Heroica.** Así como el Área Metropolitana del Valle de Aburrá que une 10 municipios antioqueños de sur a norte.

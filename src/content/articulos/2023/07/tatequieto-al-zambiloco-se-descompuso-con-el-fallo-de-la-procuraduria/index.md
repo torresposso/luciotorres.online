@@ -5,10 +5,10 @@ pubDate: "2023-07-24 23:26:08"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/tatequieto-al-zambiloco-se-descompuso-con-el-fallo-de-la-procuraduria/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/tatequieto-al-zambiloco-se-descompuso-con-el-fallo-de-la-procuraduria/hero.jpg
 ---
 
-![Alcalde Dau se descompuso cuando la Procuraduría lo suspendió./Captura de pantalla. Arriba a la izq., la procuradora Yolanda Reyes Niño. Derecha, el defensor Andrés Suáres. Abajo, William Dau. A la derecha, Jair Caro, el denunciante. Tatequieto al zambiloco](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/tatequieto-al-zambiloco-se-descompuso-con-el-fallo-de-la-procuraduria/hero.jpg)
+![Alcalde Dau se descompuso cuando la Procuraduría lo suspendió./Captura de pantalla. Arriba a la izq., la procuradora Yolanda Reyes Niño. Derecha, el defensor Andrés Suáres. Abajo, William Dau. A la derecha, Jair Caro, el denunciante. Tatequieto al zambiloco](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/tatequieto-al-zambiloco-se-descompuso-con-el-fallo-de-la-procuraduria/hero.jpg)
 *La audiencia de fallo. Alcalde Dau se descompuso cuando la Procuraduría lo suspendió. Arriba (izq). la procuradora Yolanda Reyes Niño. Derecha, el defensor Andrés Suáres. Abajo, William Dau. A la derecha, Jair Caro, el denunciante../Captura de pantalla*
 
 ¡_Tatequieto_ al _Zambiloco_! Por fin. Cuando la procuradora Delegada para lo Disciplinario, **Yolanda Reyes Niño**, terminó de leer el fallo de suspensión de primera instancia, el alcalde se descompuso. Comenzó a _patalear_ como _pelao malcriado_. Visiblemente alterado, William Dau se levantó y comenzó a lanzar improperios y ofensas. No solo contra los directivos de la Universidad de Cartagena, sino también contra la Procuraduría. No dejó que su abogado defensor terminara de hacer el alegato de apelación cuando **entró en crisis neurótica**. Se descompuso como si sintiera una pérdida de contacto con la audiencia que lo juzgaba por la falta disciplinaria al deshonrar a servidores públicos del alma máter.
@@ -27,7 +27,7 @@ Que lo debieron suspender por otros procesos más graves, es verdad. Pero este c
 
 ## ¡_Tatequieto_ al _Zambiloco_! ¿Alcance del fallo?
 
-![Jair Caro el veedor que hizo posible su tatequieto al zambiloco.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/tatequieto-al-zambiloco-se-descompuso-con-el-fallo-de-la-procuraduria/jair-caro.jpeg)
+![Jair Caro el veedor que hizo posible su tatequieto al zambiloco.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/tatequieto-al-zambiloco-se-descompuso-con-el-fallo-de-la-procuraduria/jair-caro.jpeg)
 *Jair Caro el veedor que hizo posible su tatequieto al zambiloco.*
 
 Si el ¡_tatequieto_ al _Zambiloco_! es confirmado en segunda instancia, con seguridad William Dau se despedirá anticipadamente de la alcaldía. Quedaría sin el bolígrafo. Perdería importancia para quienes lo pusieron en ese cargo. Quedaría vulnerable. Por esta razón, debe prepararse para enfrentar otros procesos que ya están avanzados. Podría ir a la cárcel en los casos penales que tiene pendiente. Es decir, sufriría la misma suerte de **Manuel Vicente Duque**, el popular _Manolo_.
@@ -38,7 +38,7 @@ Vale decir que **William Dau Chamat** es uno de los alcaldes más investigados q
 
 ## Contexto del ¡_tatequieto_ al _Zambiloco_!
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/tatequieto-al-zambiloco-se-descompuso-con-el-fallo-de-la-procuraduria/william-Dau-vapeando_2.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/tatequieto-al-zambiloco-se-descompuso-con-el-fallo-de-la-procuraduria/william-Dau-vapeando_2.jpg)
 *Aquí vemos al alcalde, al parecer, vapeando basuco. ¿Mereció el tatequieto?*
 
 El proceso que terminó con la suspensión se inició en julio de 2020 cuando el abogado veedor **Jair Caro** presentó una denuncia disciplinaria contra el alcalde de Cartagena. Este dijo que la Universidad de Cartagena era un _nido de ratas_. En el proceso que se le abrió, usó todos los medios posibles para prolongarls hasta hoy. Al principio, finalizando la administración del procurador Fernando Carrillo, fue llamado a juicio disciplinario en audiencia del 23 de diciembre de 2020.

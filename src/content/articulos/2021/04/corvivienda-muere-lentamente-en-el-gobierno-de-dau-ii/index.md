@@ -5,10 +5,10 @@ pubDate: "2021-05-01 00:41:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/corvivienda-muere-lentamente-en-el-gobierno-de-dau-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/corvivienda-muere-lentamente-en-el-gobierno-de-dau-ii/hero.jpg
 ---
 
-\[caption id="attachment\_14754" align="aligncenter" width="1920"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/corvivienda-muere-lentamente-en-el-gobierno-de-dau-ii/hero.jpg) **Corvivienda muere lentamente.** No han hecho nada. El año pasado se gastaron $26 mil millones y no construyeron una sola vivienda.\[/caption\]
+\[caption id="attachment\_14754" align="aligncenter" width="1920"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/corvivienda-muere-lentamente-en-el-gobierno-de-dau-ii/hero.jpg) **Corvivienda muere lentamente.** No han hecho nada. El año pasado se gastaron $26 mil millones y no construyeron una sola vivienda.\[/caption\]
 
 Corvivienda muere lentamente en este gobierno de William Dau. **¿Correrá la misma suerte de Edurbe, Transcaribe?** En un año los sabremos. Ha pasado un año y cuatro meses del gobierno «incorruptible», y no han construido una sola vivienda. No han legalizado un solo predio. Tampoco han mejorado una sola vivienda de los más pobres. Entonces, ¿**para qué tener una burocracia ociosa que se gasta $25 mil millones si no cumple su función social?**
 
@@ -54,7 +54,7 @@ El primer proyecto está a punto de ser declarado siniestrado por incumplimiento
 
 ## Willíam Dau Vs William García
 
-\[caption id="attachment\_14758" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/corvivienda-muere-lentamente-en-el-gobierno-de-dau-ii/dau-y-garcia.jpeg) **Corvivienda muere lentamente.** García y Barrios se lo dejaron boyante. En poco tiempo Dau lo liquidará.\[/caption\]
+\[caption id="attachment\_14758" align="aligncenter" width="1280"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/corvivienda-muere-lentamente-en-el-gobierno-de-dau-ii/dau-y-garcia.jpeg) **Corvivienda muere lentamente.** García y Barrios se lo dejaron boyante. En poco tiempo Dau lo liquidará.\[/caption\]
 
 Algunos seguidores de Dau —que hacen parte de las organizaciones de izquierda que lo apoyan— me cuestionan por qué no escribo sobre la administración de **William García Tirado (WGT) en Corvivienda**. Pues, les narro hechos concretos y no especulación.  Hacemos salvedad que no tenemos ni hemos tenido **ninguna relación política** o comercial con **WGT**.
 

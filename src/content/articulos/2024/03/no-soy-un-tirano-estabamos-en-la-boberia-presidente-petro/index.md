@@ -5,10 +5,10 @@ pubDate: "2024-03-22 13:50:40"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/hero.jpg
 ---
 
-!["No soy un tirano. (...) estábamos en la bobería", presidente Petro](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/Petro_SanOnofre-1024x575.jpeg)
+!["No soy un tirano. (...) estábamos en la bobería", presidente Petro](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/Petro_SanOnofre-1024x575.jpeg)
 *"No soy un tirano. (...) estábamos en la bobería", presidente Petro*
 
 > "¡No soy un tirano! No somos de la oligarquía. Yo no estoy construyendo una tiranía sino una democracia.
@@ -19,13 +19,13 @@ El presidente Gustavo Petro se está radicalizando cada día más. La sola frase
 
 ## Los ministros atentos
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/Ministro_Lilia_sanOnofre-1024x575.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/Ministro_Lilia_sanOnofre-1024x575.jpeg)
 
 Ello es tan cierto que, incluso, regaña a sus funcionarios en público cuando no están presentes en los eventos presidenciales, como este denominado **el Gobierno del Pueblo en el Caribe**.
 
 ## En Santa Cruz de Mompox
 
-![El Gobierno del Cambio en Mompox. "No soy un tirano"](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/hero.jpg)
+![El Gobierno del Cambio en Mompox. "No soy un tirano"](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/hero.jpg)
 
 Hoy, el presidente y su comitiva presidencial llegará a Santa Cruz de Mompox. La cita está programada para las 11 de la mañana. Al parecer, el evento de Cartagena será reservado sin presencia del público.
 
@@ -33,7 +33,7 @@ Hoy, el presidente y su comitiva presidencial llegará a Santa Cruz de Mompox. L
 
 ## Asamblea Popular en El Pozón
 
-!["No soy un tirano" Asamblea Popular](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/Asamblea-Popular-1024x1024.jpg)
+!["No soy un tirano" Asamblea Popular](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/Asamblea-Popular-1024x1024.jpg)
 
 Para la 1 de la tarde hay un evento especial en El Pozón denominado **Asamblea Popular de Ciencia y** Cultura. Deben asistir varios ministros y directores de unidades. Pero no se confirmó la asistencia del presidente Gustavo Petro.
 
@@ -41,7 +41,7 @@ Todo indica que el presidente estará en un encuentro reservado en el hotel Hilt
 
 ## El otro Petro
 
-!["No soy un tirano", pero regañó al director del Sena](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/Sena_Director_londono_dg.jpg)
+!["No soy un tirano", pero regañó al director del Sena](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/no-soy-un-tirano-estabamos-en-la-boberia-presidente-petro/Sena_Director_londono_dg.jpg)
 *Jorge Eduardo Londoño Ulloa, director del SENA.*
 
 En el atardecer marino de Santiago de Tolú, Sucre, al norte de Colombia, pronunció su acostumbrado discurso kilométrico en el marco de un Consejo de Ministros. Además de líderes sociales y políticos del Pacto histórico, estaban el canciller, los ministros del sector social el director del Departamento de la Prosperidad Social y de asistencia. Se molestó que no estuviese el director del Sena, **Jorge Eduardo Londoño Ulloa**. Interrumpió su discurso donde dijo que _no soy un tirano_ y que la oligarquía le dio **las espaldas al mar** para referirse a la falta de compromiso de los funcionarios. Además, aclaró:

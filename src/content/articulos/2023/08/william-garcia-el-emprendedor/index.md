@@ -5,10 +5,10 @@ pubDate: "2023-08-25 03:18:28"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/william-garcia-el-emprendedor/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/william-garcia-el-emprendedor/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/william-garcia-el-emprendedor/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/william-garcia-el-emprendedor/hero.jpg)
 *William García*
 
 **William García besó a _Romeo_**, y se quedó quieto el pinscher doberman que me salió al paso como si fuera su perro guardián. La visita a su hogar fue tempranera antes de su jornada cotidiana enfocado en superar los 104 mil votos para ganar la alcaldía de Cartagena que hace un año se le fue como agua entre los dedos. Lo vi claro, preciso y seguro en sus respuestas. En el fondo, García Tirado no es un político profesional. Es un emprendedor que, luego de tener 14 droguerías y una corporación educativa, le picó el bicho de la política que lo llevó a ser edil, concejal y representante a la cámara.
@@ -43,7 +43,7 @@ Te puede interesar: [Los 15 pretendientes de una ciudad líquida (I)](/articulos
 
 ## William García, el político
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/william-garcia-el-emprendedor/william-garcia_casa.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/william-garcia-el-emprendedor/william-garcia_casa.jpg)
 *William García, el emprendedor, el político, el humano. ¿Ganará la alcaldía 2023?*
 
 El 2 de enero de 2001 cuando se iba a posesionar como concejal no sabía dónde estaba la sede de la corporación. Cuando llegó a la plaza de Bolívar, debajo del Palacio de la Proclamación, se dio cuenta que la sede estaba vueltas ruinas. Con el apoyo de la administración de Carlos Díaz Redondo se logró diseñar el proyecto de la sede La Marina donde funciona actualmente.
@@ -52,7 +52,7 @@ Como concejal hizo más de 100 debates. Por ejemplo, en la administración de Ju
 
 Ningún otro concejal fue más productivo que William García. Lo peculiar de su control político, es que presentaba denuncias ante los organismos de control. Por esta razón, algunos terminaron en la cárcel. Para los gremios económicos, García era el principal enemigo, porque los que cayeron presos de sus debates estaban al servicio de las élites.
 
-![El Zambiloco se la pasó soplando como lo muestra esta gráfica. ¿Juicio político a los que votaron por él? Él le gano a William García en octubre se cumplirá 4 años.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/william-garcia-el-emprendedor/william-Dau-vapeando_2.jpg)
+![El Zambiloco se la pasó soplando como lo muestra esta gráfica. ¿Juicio político a los que votaron por él? Él le gano a William García en octubre se cumplirá 4 años.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/william-garcia-el-emprendedor/william-Dau-vapeando_2.jpg)
 *El Zambiloco se la pasó soplando como lo muestra esta gráfica. ¿Juicio político a los que votaron por él? Le ganó a William García. En octubre se cumplirá 4 años.*
 
 Si los cartageneros hubiesen abierto los ojos en 2019 y hubiesen hecho un análisis comparativo con el trabajo de veedor del Zambiloco, seguramente hoy viéramos algo diferente. Bastaba con analizar los resultados de cada quien. Los de William Dau como veedor que jamás colocó una denuncia penal ni disciplinaria, pero le benefició en lo personal. Le sacó provecho supuestamente para extorsionar a contratistas. Tal es el caso del emisario submarino, donde los inversionistas y ejecutores debieron, al parecer, destinar un millón de dólares para pagar coimas. Uno de los veedores beneficiarios de esas coimas, fue William Dau Chamat. Además, al parecer, le dieron acciones en Aguas de Cartagena y un puesto en el sector financiero de Nueva York.

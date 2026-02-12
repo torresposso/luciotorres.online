@@ -5,10 +5,10 @@ pubDate: "2024-08-26 17:31:04"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/pot-2025-para-la-supercartagena-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/pot-2025-para-la-supercartagena-i/hero.jpg
 ---
 
-![¿POT 2025? ¿Qué necesita la SuperCartagena?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/pot-2025-para-la-supercartagena-i/superciudades-1024x682.jpeg)
+![¿POT 2025? ¿Qué necesita la SuperCartagena?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/pot-2025-para-la-supercartagena-i/superciudades-1024x682.jpeg)
 *¿POT 2025? ¿Qué necesita la SuperCartagena?/Cortesía prensa alcaldía.*
 
 El alcalde **Dumek Turbay Paz** está pensando en un **Plan de Ordenamiento Territorial (POT)** para una **SuperCartagena**. _Pensar en Grande_ ―en inglés **Think Big**― para un gobernante, es una predisposición positiva cuando se **sienta a planificar la sociedad con sus mandantes**. Pero, en realidad, todavía su administración no da el primer paso para alcanzar la meta que se trazó de tener **POT en el 2025**. La situación se agrava, porque **existe un evidente divorcio** entre el Secretario de Planeación Distrital, **Camilo Rey Sabogal**, y el director del POT, **Juan Correa** **Reyes**, según fuentes no oficiales de esa entidad que no quisieron que las citaran.
@@ -23,7 +23,7 @@ Sin duda, existe un evidente silencio en materia de la Ruta del POT. ¿En estos 
 
 ## ¿El divorcio que agrava el POT
 
-![ecretario de Planeación Distrital, Camilo Rey Sabogal, y el director del POT, Juan Correa Reyes, al parecer, están divorciados.para jalar hacia la SuperCartagena](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/pot-2025-para-la-supercartagena-i/POT_portada_Camilo-1024x683.jpeg)
+![ecretario de Planeación Distrital, Camilo Rey Sabogal, y el director del POT, Juan Correa Reyes, al parecer, están divorciados.para jalar hacia la SuperCartagena](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/pot-2025-para-la-supercartagena-i/POT_portada_Camilo-1024x683.jpeg)
 *Secretario de Planeación Distrital, Camilo Rey Sabogal, y el director del POT, Juan Correa Reyes, al parecer, están divorciados para jalar hacia la SuperCartagena.*
 
 Hay un cantado divorcio entre el secretario de Planeación Distrital, **Camilo Rey Sabogal**, y el director del POT, **Juan Correa** **Reyes**, que agravaría los términos de tener la carta del desarrollo urbanístico para lograr la SuperCartagena. Los conocedores de este hecho, explicaron que este divorcio de los dos altos funcionarios estaría dando al traste con la iniciativa de tener un POT bien concebido en el tiempo propuesto. Es más, si se logra el POT sería en el 2026, si acaso.
@@ -40,7 +40,7 @@ En ese sentido, proponemos esta pregunta: ¿Son cuentas alegres las del alcalde 
 
 ## La SuperCartagena
 
-![El alcalde Dumek Turbay Paz, Pensando en Grande por una SuperCartagena. Aquí, en Washington en julio de 2024, reunión con el  Banco Interamericano de Desarrollo, BID, y el Banco Mundial. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/pot-2025-para-la-supercartagena-i/dumek_miami_BID-1024x682.jpeg)
+![El alcalde Dumek Turbay Paz, Pensando en Grande por una SuperCartagena. Aquí, en Washington en julio de 2024, reunión con el  Banco Interamericano de Desarrollo, BID, y el Banco Mundial. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/pot-2025-para-la-supercartagena-i/dumek_miami_BID-1024x682.jpeg)
 *El alcalde Dumek Turbay Paz, Pensando en Grande por una SuperCartagena. Aquí, en Washington en julio de 2024, reunión con el Banco Interamericano de Desarrollo, BID, y el Banco Mundial. /Cortesía Prensa alcaldía.*
 
 En cuanto a ordenar una ciudad, la complejidad es mayor, porque se trata de organizar la unidad básica de la convivencia social en un espacio determinado. Las ciudades modernas son como los seres humanos: cambian y se transforman de acuerdo a la cultura urbana y ciudadana dominante. Por ende, si el que se piensa, no está centrado en el ser humano, finalmente las ciudades terminan devoradas por la negligencia y la indiferencia.

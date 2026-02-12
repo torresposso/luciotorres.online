@@ -5,10 +5,10 @@ pubDate: "2021-04-07 00:23:43"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-desacato-alcaldia-para-cumplir-recuperacion-de-la-popa/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-desacato-alcaldia-para-cumplir-recuperacion-de-la-popa/hero.jpg
 ---
 
-\[caption id="attachment\_14471" align="aligncenter" width="960"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-desacato-alcaldia-para-cumplir-recuperacion-de-la-popa/hero.jpg) La alcaldía está en desacato. Es obligada a diseñar una política pública de **recuperación integral del Cerro de la Popa**. Cortesía.\[/caption\]
+\[caption id="attachment\_14471" align="aligncenter" width="960"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-desacato-alcaldia-para-cumplir-recuperacion-de-la-popa/hero.jpg) La alcaldía está en desacato. Es obligada a diseñar una política pública de **recuperación integral del Cerro de la Popa**. Cortesía.\[/caption\]
 
 En desacato entró de nuevo la alcaldía al no cumplir resolución judicial que la obligó a diseñar una política pública de **protección integral del Cerro de La Popa**. Este alto relieve se encuentra en un proceso de deterioro ambiental afectado por intervenciones humanas sin control. **Con esta conducta omisiva, la administración distrital demuestra su ineptitud y desprecio por los bienes públicos y los derechos de la gente.**
 
@@ -30,7 +30,7 @@ Ese fallo fue apelado por la alcaldía ante el Tribunal Administrativo de Bolív
 
 ## Ecopopa presenta incidente
 
-\[caption id="attachment\_14473" align="aligncenter" width="946"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-desacato-alcaldia-para-cumplir-recuperacion-de-la-popa/cerro-de-La-Popa-2.jpg) La acción popular obliga la reubicación de 5 barrios que se crearon hasta 2017.\[/caption\]
+\[caption id="attachment\_14473" align="aligncenter" width="946"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-desacato-alcaldia-para-cumplir-recuperacion-de-la-popa/cerro-de-La-Popa-2.jpg) La acción popular obliga la reubicación de 5 barrios que se crearon hasta 2017.\[/caption\]
 
 El 4 de enero de 2020, **Rafael Zúñiga, representante legal de Ecopopa**, con mucho entusiasmo y optimismo visitó el despacho del secretario del Interior, **David Múnera Cavadía con el fin de que actuaran de inmediato**. Le presentó los dos fallos, el de primera y segunda instancia.  Le puso en conocimiento las órdenes del juzgado administrativo emitidas en el fallo judicial que había sido notificado debidamente en 2017. Pero no hizo absolutamente nada.
 
@@ -44,7 +44,7 @@ La audiencia se debe efectuar a las 10 de la mañana del 7 de abril de 2020.
 
 ## En desacato
 
-\[caption id="attachment\_14474" align="aligncenter" width="738"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-desacato-alcaldia-para-cumplir-recuperacion-de-la-popa/visita-tecnica.jpg) **Rafael Zúñiga**, de Ecopopa, demostró en tres visitas técnicas que el Epa no ha cumplido con el fallo.\[/caption\]
+\[caption id="attachment\_14474" align="aligncenter" width="738"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-desacato-alcaldia-para-cumplir-recuperacion-de-la-popa/visita-tecnica.jpg) **Rafael Zúñiga**, de Ecopopa, demostró en tres visitas técnicas que el Epa no ha cumplido con el fallo.\[/caption\]
 
 Además, Zúñiga le manifestó que las organizaciones ambientales de la comunidad estaban dispuestas a apoyar directamente las iniciativas de recuperación integral de La Popa.
 

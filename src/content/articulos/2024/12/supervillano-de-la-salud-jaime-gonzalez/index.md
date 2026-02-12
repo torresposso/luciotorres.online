@@ -5,10 +5,10 @@ pubDate: "2024-12-20 11:12:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/supervillano-de-la-salud-jaime-gonzalez/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/supervillano-de-la-salud-jaime-gonzalez/hero.jpg
 ---
 
-![De Superempresario exitoso al Supervillano de la salud](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/supervillano-de-la-salud-jaime-gonzalez/jaime_Gonzalez_Supervillano.jpeg)
+![De Superempresario exitoso al Supervillano de la salud](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/supervillano-de-la-salud-jaime-gonzalez/jaime_Gonzalez_Supervillano.jpeg)
 *De Superempresario exitoso al Supervillano de la salud.*
 
 **Jaime González ¿el Supervillano de la Salud?** Para la Superintendencia de la Salud (Supersalud) y la Superintendencia de la Economía Solidaria (Supersolidaria). González Montaño se convirtió en el cerebro de un entramado de corrupción en Coosalud superior al que construyó su colega **Carlos Palacino** en la ya desaparecida **Salucoop**. Los dos aplicaron el mismo sistema de corrupción, a juzgar por los 8 hallazgos que tienen consecuencias penales, disciplinarias y administrativas.

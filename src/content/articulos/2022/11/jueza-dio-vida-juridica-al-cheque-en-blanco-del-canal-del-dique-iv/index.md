@@ -5,10 +5,10 @@ pubDate: "2022-11-15 00:36:59"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/jueza-dio-vida-juridica-al-cheque-en-blanco-del-canal-del-dique-iv/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/jueza-dio-vida-juridica-al-cheque-en-blanco-del-canal-del-dique-iv/hero.jpg
 ---
 
-![Vida jurídica al «cheque en blanco» del Canal del Dique.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/jueza-dio-vida-juridica-al-cheque-en-blanco-del-canal-del-dique-iv/hero.jpg)
+![Vida jurídica al «cheque en blanco» del Canal del Dique.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/jueza-dio-vida-juridica-al-cheque-en-blanco-del-canal-del-dique-iv/hero.jpg)
 *Vida jurídica al «cheque en blanco» del Canal del Dique.*
 
 La jueza Sexta Administrativa del Circuito de Cartagena, **Laura Arnedo Jiménez**, le dio vida jurídica al **«cheque en blanco»** sin tener en cuenta los derechos fundamentales a la prevención ambiental y a la participación ambiental. Son derechos inalienables e indivisibles de las comunidades asentadas en la ecorregión **Canal del Dique**.

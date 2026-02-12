@@ -5,10 +5,10 @@ pubDate: "2021-09-09 22:24:26"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/alcaldia-de-arjona-sin-garantias-para-rocha-y-puerto-badel/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/alcaldia-de-arjona-sin-garantias-para-rocha-y-puerto-badel/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/alcaldia-de-arjona-sin-garantias-para-rocha-y-puerto-badel/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/alcaldia-de-arjona-sin-garantias-para-rocha-y-puerto-badel/hero.jpg)
 *La alcaldía de Arjona sin garantías constitucionales ni legales para la organización de los afros, denuncian voceros de la asamblea de consejos comunitarios de Rocha y Puerto Badel, los corregimientos negros del municipio.*
 
 Alcaldía de Arjona sin garantías para Rocha y Puerto Badel. Voceros de la asamblea general de los Consejos Comunitarios de esos corregimientos denunciaron que el **alcalde de Arjona, Isaías Salamancas,** como máxima autoridad civil del municipio, no ofrece garantías a los derechos de los afros. Por esa razón, realizarán protesta social directa y acciones judiciales y disciplinarias contra el burgomaestre. 
@@ -21,7 +21,7 @@ Voz de **Adil Meléndez**, asesor de la asamblea del consejo comunitario de **Ro
 
 La situación en Rocha, corregimiento de Arjona, sigue siendo preocupante por los duros enfrentamientos que esa falta de garantía provoca al interior del consejo comunitario. La actuación sesgada, parcializada y errática de la Secretaria General y de Gobierno, Dilhy Romero Herrera, es expresión de la falta de garantías constitucionales y legales de la administración municipal en cabeza de Simancas. 
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/alcaldia-de-arjona-sin-garantias-para-rocha-y-puerto-badel/Dihly-Romero.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/alcaldia-de-arjona-sin-garantias-para-rocha-y-puerto-badel/Dihly-Romero.jpeg)
 *La secretaria General y de Gobierno Dilhy Romero Herrera, actúa sesgada y erráticamente en el caso de los consejos comunitarios de Rocha y Puerto y Badel.*
 
 El dinero de las consultas previa y de las compensaciones no ha sido utilizado adecuadamente por los directivos de los consejos comunitarios que Simancas y Romero mantienen en una directiva espuria. Probablemente porque ellos le votaron en la pasada campaña. 

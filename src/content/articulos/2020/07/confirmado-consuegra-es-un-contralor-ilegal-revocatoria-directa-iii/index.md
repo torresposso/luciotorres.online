@@ -5,10 +5,10 @@ pubDate: "2020-07-31 02:12:01"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/confirmado-consuegra-es-un-contralor-ilegal-revocatoria-directa-iii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/confirmado-consuegra-es-un-contralor-ilegal-revocatoria-directa-iii/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/confirmado-consuegra-es-un-contralor-ilegal-revocatoria-directa-iii/hero.jpg) **El ratón se quedó sin el queso**. Consuegra es un contralor ilegal. El **Tribunal Administrativo de Bolívar** admitió una demanda de revocatoria directa de la elección de **Héctor Consuegra Salinas** como Contralor Distrital y **decretó la suspensión cautelar de ese acto legislativo**. En tanto, la **Función Pública** **confirmó que es un contralor ilegal**, ya que su elección fue una grosera violación de la normativa vigente. Son dos hechos concretos que sepultarán a Consuegra Salinas como contralor ilegal. No podrá ser el contralor de bolsillo que pretendía custodiar la contratación pública ordenada por el alcalde Dau. Esos dos hecho detuvieron ese propósito. **Uno es jurídico**, emanado del Tribunal Administrativo. **El otro es consultivo**, que si bien no tiene fuerza vinculante, su desconocimiento se convertiría en una acción temeraria.
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/confirmado-consuegra-es-un-contralor-ilegal-revocatoria-directa-iii/hero.jpg) **El ratón se quedó sin el queso**. Consuegra es un contralor ilegal. El **Tribunal Administrativo de Bolívar** admitió una demanda de revocatoria directa de la elección de **Héctor Consuegra Salinas** como Contralor Distrital y **decretó la suspensión cautelar de ese acto legislativo**. En tanto, la **Función Pública** **confirmó que es un contralor ilegal**, ya que su elección fue una grosera violación de la normativa vigente. Son dos hechos concretos que sepultarán a Consuegra Salinas como contralor ilegal. No podrá ser el contralor de bolsillo que pretendía custodiar la contratación pública ordenada por el alcalde Dau. Esos dos hecho detuvieron ese propósito. **Uno es jurídico**, emanado del Tribunal Administrativo. **El otro es consultivo**, que si bien no tiene fuerza vinculante, su desconocimiento se convertiría en una acción temeraria.
 
 ## Revocatoria directa
 

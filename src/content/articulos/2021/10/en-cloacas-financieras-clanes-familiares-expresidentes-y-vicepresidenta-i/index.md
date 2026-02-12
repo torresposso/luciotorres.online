@@ -5,10 +5,10 @@ pubDate: "2021-10-05 12:50:38"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/hero.jpg)
 *«cloacas financieras». Un nuevo escándalo para las altas esferas del gobierno del presidente Iván Duque. Su vicepresidenta Martha Lucía Ramírez y su ministra de Transporte, Ángela Orozco, tienen cuentas offshore. Cortesía.*
 
 ¿Qué hacen clanes familiares —al lado de expresidentes y líderes políticos — en «cloacas financieras» del mundo? En efecto, varios grupos económicos y financieros colombianos se encuentran reportados en la lista de Pandora Paper's. La vicepresidenta y Canciller Martha Lucía Ramírez, la ministra de Transporte Ángela María Orozco (grupo Char), el director general de la DIAN Lisandro Junco Riveira, entre otros servidores públicos.
@@ -17,7 +17,7 @@ Esta nueva investigación periodística de carácter internacional escudriña lo
 
 ## Justifican las «cloacas financieras»
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/lisandro_junco_riveira_2.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/lisandro_junco_riveira_2.jpg)
 *«Cloacas financieras». El hombre —Lisandro Junco—que está llamado a combatir la evasión, es probable que se beneficie de ella con sus tres cuentas offshore en los paraísos fiscales.*
 
 Todos los personajes cuyas cuentas les han sido descubiertas, salieron a dar explicaciones comunes. Desde el mismísimo director de la DIAN, **Lisandro Junco Riveira,** hasta la vicepresidenta **Martha Lucía Ramírez** con el presidente Duque y demás implicados, afirman que no es delito tener “activos en el exterior”. Junco en vez de presentar su **renuncia irrevocable,** se fue «**lanza en ristre**» contra los periodistas y los medios que abordaron la megainvestigación. Son millones de datos de cuentas offshore que afectan a 70 países.
@@ -28,26 +28,26 @@ Pero una cosa es tener activos en el exterior en países con transparencia fisca
 
 ## Los delincuentes de corbatín
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/descarga.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/descarga.jpeg)
 *Pablo Escobar, El patrón del Mal, era un gran beneficiario de las cuentas offshore. En Anguila tenía gran parte de su fortuna del narcotráfico.*
 
 Recordemos que Anguila —reconocido paraíso fiscal— fue el lugar en el que **Pablo Escobar** escondía su fortuna y lavaba sus activos. Pero también recordemos que el negociado de **Interbolsa** se hizo en Curazao y Panamá, que son paraísos fiscales, pero que Colombia no los reconoce así.
 
 Las fortunas de los **delincuentes de corbatín**, la plata de la corrupción, del narcotráfico, de las movidas de gigantes empresariales, del dinero para especular en los mercados de divisas e inmobiliarios están en estos «paraísos fiscales». En fin, los usuarios de estas «cloacas financieras» saben para qué sirven las cuentas offshore.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/licensed-image.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/licensed-image.jpeg)
 *Alejandro Santo Domingo, el magnate colombo—estadounidense vendió Bavaria desde una cuenta offshore sin pagarle un peso al Estado colombiano. Su corbatín le luce. Cortesía.*
 
 A manera de ejemplos, tenemos dos casos de elusión fiscal. En 2004 cuando **Olímpica S.A**. compró Megamarket de Costa Rica no pagó impuestos. O cuando el grupo Santo Domingo vendió **Bavaria a SabMiller** por 7.5 mil millones de dólares. Es cierto que la negociación la iniciaron los asesores de **Alejandro Santo Domingo** en Londres. Pero la transacción la hicieron en Delaware desde una cuenta offshore. Solo en este negocio Colombia dejó de percibir por impuesto la suma de **$4.2 billones,** denunció la exministr**a Cecilia López Montaño.** Este es un ejemplo elocuente de elusión fiscal de los hombres más ricos de Colombia. ¿Tienes dudas de que el paraíso fiscal es para eludir el pago de impuestos?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/ivan-duque-y-alberto-carrasquilla-ministro-de-hacienda.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/ivan-duque-y-alberto-carrasquilla-ministro-de-hacienda.jpg)
 *El presidente y su socio. Iván Duque y Alberto Carrasquilla, el cerebro de la frustrada reforma tributaria. Defensores acérrimos de las «cloacas financieras». Cortesía.*
 
 El ministro de Hacienda de la época, **Alberto Carrasquilla** (¿te suena?), justificó tal transacción haciéndola pasar **como si fuera una fusión**. Claro, Carrasquilla fue mencionado por los **Panamá Paper's** por tener varias cuentas offshore. Nos hace recordar al director de la DIAN de hoy. No tienen autoridad moral para cuestionar este sistema de evasión de impuestos. Si se pagaran seguramente mermaría la pobreza en nuestro país.
 
 ## Expresidentes en «cloacas financieras»
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/COLP_179706_e290c.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/COLP_179706_e290c.jpg)
 *Y se mueren de la risa. Los expresidentes que más impulsaron los paraísos fiscales. Uribe, Pastrana y Gaviria. Esto es «confianza inversionista.» Cortesía.*
 
 Como se informó, **César Gaviria Trujillo** (presidente 1990—1994), **Andrés Pastrana Caicedo** (1998—2002) y la vicepresidenta **Martha Lucía Ramírez** aparecen en la lista de beneficiarios de cuentas de esas «cloacas financieras» del mundo.  Pero no son los únicos. Esta revelación la hizo el consorcio periodístico **International Consortium of Investigative Journalists** (ICIJ por sus siglas en inglés). 
@@ -70,7 +70,7 @@ Al respecto, el director de la DIAN, salió disparando su escopeta de Cirilo con
 
 Este es el comunicado expedido en el día de hoy:
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/comunicado-dian.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/en-cloacas-financieras-clanes-familiares-expresidentes-y-vicepresidenta-i/comunicado-dian.jpg)
 *Comunicado del director General de la DIAN*
 
 ## «Cloacas financieras», narcotráfico y lavado de activos

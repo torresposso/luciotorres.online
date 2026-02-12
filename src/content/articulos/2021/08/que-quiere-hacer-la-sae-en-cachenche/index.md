@@ -5,10 +5,10 @@ pubDate: "2021-08-29 22:46:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-quiere-hacer-la-sae-en-cachenche/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/que-quiere-hacer-la-sae-en-cachenche/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-quiere-hacer-la-sae-en-cachenche/jhon-villamizar.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/que-quiere-hacer-la-sae-en-cachenche/jhon-villamizar.jpeg)
 *Aquí está Jhon Villamizar. Se le nota interesado en Cachenche.*
 
 ¿Qué quiere hacer la SAE en Cachenche? Es la pregunta que cualquier ciudadano con claridad se hace. La SAE tiene como finalidad recuperar esos bienes del narcotráfico y la corrupción para proyectos de interés social. Entonces, ¿por qué no plantear un proyecto agroindustrial? Un proyecto social donde participen la Gobernación de Bolívar, la alcaldía de Turbana, el ministerio de Agricultura, la Agencia Nacional de Tierra-ANT y los campesinos que ocupan el predio y hayan demostrado su condición como tal. 
@@ -37,9 +37,9 @@ En efecto, trascendió que Valbuena está preparando la artillería jurídica pa
 
 ## ¿Cachenche para Villamizar?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-quiere-hacer-la-sae-en-cachenche/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/que-quiere-hacer-la-sae-en-cachenche/hero.jpg)
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-quiere-hacer-la-sae-en-cachenche/hero.jpg)![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-quiere-hacer-la-sae-en-cachenche/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/que-quiere-hacer-la-sae-en-cachenche/hero.jpg)![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/que-quiere-hacer-la-sae-en-cachenche/hero.jpg)
 
 Los campesinos, en diferentes momentos, han señalado que la SAE quiere entregarle Cachenche a la empresa del bogotano **Jhon Villamizar** dueño de la firma **Biointech Oil SAS** que gerencia su hija **Eliana Villamizar Gallego**. La finca de Villamizar —contigua a Cachenche— tiene un uso industrial. La utilizan para procesamientos de residuos petroleros contaminantes. Son residuos que aparentemente proceden de la Refinería de Cartagena —Reficar.
 
@@ -53,7 +53,7 @@ Si CARDIQUE confirma esa presunta irregularidad de la firma de Villamizar, **no 
 
 ## Lo que dice Valbuena
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/que-quiere-hacer-la-sae-en-cachenche/juan-pablo-valbuena.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/que-quiere-hacer-la-sae-en-cachenche/juan-pablo-valbuena.jpg)
 *Juan Pablo Valbuena Anaya. ¿Para qué la SAE quiere a Cachenche?*
 
 En varias ocasiones hemos querido conversar con el director de la SAE, zona Caribe, Juan Pablo Valbuena para que nos responda varias preguntas. Pero no ha sido posible. En el día de hoy nos comunicamos con su asistente **Ana María Sánchez**, pero manifestó que es probable que mañana lunes pueda hablar con este medio.

@@ -5,7 +5,7 @@ pubDate: "2025-10-21 05:24:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/hero.jpg
 ---
 
 ¿Char a la cárcel? La era de impunidad del clan Char comenzó a resquebrajarse con la decisión de una juez de familia que ordenó reconocer la paternidad de **Steven Castellanos Ramos**. Ahora, tras ocho años de parálisis judicial, la **Corte Suprema de Justicia** obligó a la **Fiscalía** a pronunciarse en un expediente que hasta ahora dormía bajo el manto del poder del _Califato Daeschariano_.
@@ -16,7 +16,7 @@ La ponencia de los magistrados **Fernando León** y **Jorge Hernán Díaz** d
 
 ## El POT por decreto
 
-![La firma comprometedora de Elsa Noguera. Proyectó Miguel Vergara Cabello. Revisó el Dr. Alfredo del Toro Núñez. ¿Todos a la cárcel?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/hero.jpg)
+![La firma comprometedora de Elsa Noguera. Proyectó Miguel Vergara Cabello. Revisó el Dr. Alfredo del Toro Núñez. ¿Todos a la cárcel?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/hero.jpg)
 *La firma comprometedora de Elsa Noguera. Proyectó Miguel Vergara Cabello. Revisó el Dr. Alfredo del Toro Núñez. ¿Todos a la cárcel?*
 
 El hecho presuntamente delictuoso se produjo cuando en 2014, **Elsa Noguera de la Espriella**, junto a su secretario de Planeación Distrital, **Miguel Vergara Cabello**, sobrino de la que en aquel momento era paradójicamente la presidenta del alto tribunal, **Margarita Cabello Blanco**, firmaron el Decreto de adopción del Plan de Ordenamiento Territorial—POT. Esta relación de sangre y de política marcó la suerte de este proceso que esperó 8 años para que la Fiscalía impute los delitos citados o archive el proceso antes de marzo de 2026.
@@ -27,7 +27,7 @@ Por eso la Corte Suprema ordenó investigar **no solo a los firmantes**, sino t
 
 ## Los delitos
 
-![¿Char a la cárcel por un POT tramposo? La autora material fue Elsa Noguera. ¿Habrá justicia?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/Char_elsa-Noguera.jpg)
+![¿Char a la cárcel por un POT tramposo? La autora material fue Elsa Noguera. ¿Habrá justicia?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/Char_elsa-Noguera.jpg)
 *¿Char a la cárcel por un POT tramposo? La autora material fue Elsa Noguera. ¿Habrá justicia?*
 
 Como se recordará, Elsa Noguera (alcaldesa  2012–2015) firmó el Decreto No 0212 de 2014 mediante el cual se adoptó el Plan de Ordenamiento Territorial—POT sin llenar los requisitos legales. Esta conducta terminó por beneficiar irregularmente a un entramado de empresas allegadas a los Char y sus socios que se enriquecieron ilícitamente al cambiar el uso del suelo sin ninguna clase de justificación legal.
@@ -58,7 +58,7 @@ En otras palabras, Noguera firmó el decreto, pero el modelo, los intereses urba
 
 ## Char, autor intelectual
 
-![Los procesos judiciales contra Alejandro Char que están vivito y coleando..](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/Captura-de-pantalla-2025-10-20-201151.png)
+![Los procesos judiciales contra Alejandro Char que están vivito y coleando..](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/Captura-de-pantalla-2025-10-20-201151.png)
 *Los procesos judiciales contra Alejandro Char que están vivito y coleando. VoxPopuli Digital investigará cada uno de estos expedientes para que la Fiscalía asuma su compromiso con la justicia y la comunidad barranquillera expoliada durante la era del Califato Daeschariano.*
 
 Desde el punto de vista jurídico, Char puede estar involucrado como **determinador o autor mediato** de las decisiones que llevaron a la expedición irregular del POT. Esto significa que **aunque no firmó el decreto**, pudo haber **Ordenado, impulsado o facilitado** su aprobación irregular.
@@ -71,7 +71,7 @@ En derecho penal colombiano, esto configura **coautoría o participación por d
 
 ## El enriquecimiento ilícito
 
-![Barranquilla, ciudad fachada, en poder de la mafia poderosa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/galeria-barranquilla-10-1024x682.jpeg)
+![Barranquilla, ciudad fachada, en poder de la mafia poderosa.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/char-a-la-carcel-por-un-pot-tramposo-que-lo-enriquecio-i/galeria-barranquilla-10-1024x682.jpeg)
 *Barranquilla, ciudad fachada, en poder de la mafia poderosa.*
 
 El desarrollo y expansión urbanística de Barranquilla están ligados a la economía subterránea desde su propio nacimiento. La clave para descifrar este hallazgo son los decretos y medidas administrativas que tienen apariencia de legalidad, pero de facto, son ilegales. El POT aprobado en 2014 sirvió de **plataforma legal** para varios **proyectos de infraestructura y valorización urbana** desarrollados bajo las administraciones posteriores de Char, Noguera y Jaime Pumarejo. Citemos algunos de ellos:

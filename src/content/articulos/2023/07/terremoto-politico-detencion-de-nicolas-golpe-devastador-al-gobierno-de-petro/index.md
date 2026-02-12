@@ -5,10 +5,10 @@ pubDate: "2023-07-30 04:54:20"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/terremoto-politico-detencion-de-nicolas-golpe-devastador-al-gobierno-de-petro/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/terremoto-politico-detencion-de-nicolas-golpe-devastador-al-gobierno-de-petro/hero.jpg
 ---
 
-![Detención de Nicolás. Daysuris Vásquez con Gustavo Petro Burgos, a la izquierda del estrado. El fiscal delegado, Mario Burgos, a la derecha. /Captura de Pantalla.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/terremoto-politico-detencion-de-nicolas-golpe-devastador-al-gobierno-de-petro/hero.jpg)
+![Detención de Nicolás. Daysuris Vásquez con Gustavo Petro Burgos, a la izquierda del estrado. El fiscal delegado, Mario Burgos, a la derecha. /Captura de Pantalla.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/terremoto-politico-detencion-de-nicolas-golpe-devastador-al-gobierno-de-petro/hero.jpg)
 *Daysuris Vásquez con Nicolás Petro Burgos, a la izquierda del estrado. El fiscal delegado, Mario Burgos, a la derecha. /Captura de Pantalla.*
 
 Un verdadero terremoto político produjo la detención de Nicolás Petro. La única vez en la historia de Colombia que el hijo de un presidente de la República en ejercicio, es detenido por delitos asociados a su actividad política. Pero más _sui géneris_ es el caso que su propio padre lo haya entregada como comida para buitre. ¿Qué se puede esperar de su círculo más cercano? Empero, si queremos hacer un **análisis fáctico** y descartar una _falacia de la verdad a medias_, es preciso formularnos esta pregunta: ¿La detención de Nicolás, es un golpe devastador al gobierno de Gustavo Petro?
@@ -39,7 +39,7 @@ Mientras todo esto sucede, el hijo del presidente debe sentirse solo y afligido.
 
 ## Suspendieron audiencia de control de garantías
 
-![La foto del reencuentro de Daysuris con su exesposo, Nicolás Petro Burgos. Detención de Nicolás.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/terremoto-politico-detencion-de-nicolas-golpe-devastador-al-gobierno-de-petro/Daysuris_Petro.jpg)
+![La foto del reencuentro de Daysuris con su exesposo, Nicolás Petro Burgos. Detención de Nicolás.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/terremoto-politico-detencion-de-nicolas-golpe-devastador-al-gobierno-de-petro/Daysuris_Petro.jpg)
 *La foto del reencuentro de Daysuris con su exesposo, Nicolás Petro Burgos. Detención de Nicolás./Captura de pantalla.*
 
 Mientras tanto, la juez 1 de Control de Garantías de Bogotá, siendo las 8:30 de la noche de hoy sábado 29 de julio, suspendió la audiencia porque no estaba presente presencialmente el abogado defensor de **Daysuris Vásquez**. Hizo su presentación desde el avión que lo transportaba a Bogotá. La juez consideró que hubo una información indebida de la Fiscalía al despacho al informarle que las partes estaban disponibles para la realización de la vista pública.

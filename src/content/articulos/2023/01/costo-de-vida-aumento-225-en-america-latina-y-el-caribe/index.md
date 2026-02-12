@@ -5,10 +5,10 @@ pubDate: "2023-01-21 13:21:44"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/costo-de-vida-aumento-225-en-america-latina-y-el-caribe/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/costo-de-vida-aumento-225-en-america-latina-y-el-caribe/hero.jpg
 ---
 
-![No hay plata ni siquiera para hacer la olla comunitaria. Costo de vida.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/costo-de-vida-aumento-225-en-america-latina-y-el-caribe/hero.jpg)
+![No hay plata ni siquiera para hacer la olla comunitaria. Costo de vida.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/costo-de-vida-aumento-225-en-america-latina-y-el-caribe/hero.jpg)
 *No hay plata ni siquiera para hacer la olla comunitaria. Costo de vida. (Cortesía Sara).*
 
 _**Especial desde Santiago de Chile. (**_Vía ONU_**).**_ Costo de vida aumentó 22,5% en 2022. El nuevo informe de Naciones Unidas Panorama de la Seguridad Alimentaria y Nutricional asegura que **131,3 millones de personas** **en América Latina y el Caribe, no cuentan con los medios suficientes para acceder a una dieta saludable**.

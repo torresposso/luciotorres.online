@@ -5,10 +5,10 @@ pubDate: "2025-11-08 20:30:21"
 author: "Lucio"
 categories: ["Ahora","Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/choque-de-trenes-en-la-fiscalia-destapa-escandalo-iv/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/choque-de-trenes-en-la-fiscalia-destapa-escandalo-iv/hero.jpg
 ---
 
-![Choque de trenes en la fiscalía destapa escándalo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/choque-de-trenes-en-la-fiscalia-destapa-escandalo-iv/hero.jpg)
+![Choque de trenes en la fiscalía destapa escándalo](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/choque-de-trenes-en-la-fiscalia-destapa-escandalo-iv/hero.jpg)
 *Choque de trenes en la fiscalía destapa escándalo*
 
 El escándalo estalló dentro de la propia Fiscalía. La captura de **Abraham Muñoz** **Guerra**, hijo de una poderosa fiscal, es solo la _punta del iceberg_ de un problema más grave de corrupción en Barranquilla. Pero solo el 12 de noviembre **―día de la audiencia de solicitud de medida de aseguramiento―** se podrá vislumbrar si el proceso judicial prospera o no, ya que se realiza en medio de una **reserva y hermetismo sospechoso**. Lo que parecía una acción de autodepuración terminó siendo un **choque de trenes que desnuda la podredumbre de la justicia en el Caribe**. Ese día intervendrán los abogados **Diego Muñetón y Henry del Portillo** en representación de los capturados.
@@ -43,7 +43,7 @@ Este dato no es de poca monta. ¿Qué imparcialidad puede existir en los operati
 
 ## Fiscal e investigadora
 
-![Margarita Bula Trujillo en el sanduche de este choque de trenes](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/choque-de-trenes-en-la-fiscalia-destapa-escandalo-iv/069aa302-958c-4b24-aac3-a1e24c50c9eb-1024x576.jpeg)
+![Margarita Bula Trujillo en el sanduche de este choque de trenes](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/choque-de-trenes-en-la-fiscalia-destapa-escandalo-iv/069aa302-958c-4b24-aac3-a1e24c50c9eb-1024x576.jpeg)
 *Margarita Bula Trujillo en el sanduche de este choque de trenes*
 
 La coordinadora de la operación era la fiscal **Claudia Patricia** **Amorocho** **Barrangán**. Una fiscal que, al igual que Betzaida Guerra, tiene sombras en su trayectoria. ¿Por qué las investigaciones contra funcionarios públicos de la administración de Barranquilla y el Atlántico no han prosperado en estas dos décadas?
@@ -56,7 +56,7 @@ Lo curioso, la investigadora que tiene la fiscal Amorocho es paradójicamente **
 
 ## La defensa
 
-![Diego Muñetón es uno de los penalistas que estarán en la defensa de los iniciados en este choque de trenes](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/choque-de-trenes-en-la-fiscalia-destapa-escandalo-iv/diego-Muneton.jpeg)
+![Diego Muñetón es uno de los penalistas que estarán en la defensa de los iniciados en este choque de trenes](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/choque-de-trenes-en-la-fiscalia-destapa-escandalo-iv/diego-Muneton.jpeg)
 *Diego Muñetón es uno de los penalistas que estarán en la defensa de los indiciados en este choque de trenes. Muñetón ya tiene su tarjeta profesional libre, luego de que fue absuelto por la Comisión Nacional de Disciplina Judicial.*
 
 Los abogados **Diego Muñetón y Henry del Portillo** asumirán la defensa de los capturados este 12 de noviembre. Pero detrás de los nombres y las fechas, se agita una historia que huele a repetición.

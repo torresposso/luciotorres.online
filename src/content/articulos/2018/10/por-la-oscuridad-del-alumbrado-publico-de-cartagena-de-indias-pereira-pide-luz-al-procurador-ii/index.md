@@ -5,10 +5,10 @@ pubDate: "2018-10-13 20:57:01"
 author: "Lucio"
 categories: ["Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/hero.jpg
 ---
 
-*   ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/hero.jpg)
+*   ![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/hero.jpg)
     *El alcalde designado de Cartagena, Pedrito Pereira, pide luz al Procurador para obrar con transparencia. Cortesía alcaldía.*
     
 
@@ -38,7 +38,7 @@ Mientras tanto, Pedrito Pereira se quiere desembarazar de la _papa caliente_, ra
 
 > _«(Como) ...mis antecesores no tomaron una decisión respecto del aludido contrato de concesión, por lo que me es imperativo asumir dicha responsabilidad, precisando que **ante el inminente vencimiento del plazo contractual pudieran reducirse las alternativas jurídicas, técnicas y financieras a considerar**, generando así una ineludible presión sobre el Distrito de Cartagena por cuenta de la obligación de garantizar la oportuna y eficiente prestación del servicio, siendo imprescindible la toma de una decisión a la mayor brevedad en aras de asegurar dicha continuidad del servicio de la manera dispuesta en el Decreto 2424 de 2006»._
 
-![Pedrito Pereira, al tanto del "Pacto por Cartagena" con la vicepresidenta Martha Lucía Ramírez.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/pedrito-y-vicepresidenta-2.jpg)
+![Pedrito Pereira, al tanto del "Pacto por Cartagena" con la vicepresidenta Martha Lucía Ramírez.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/pedrito-y-vicepresidenta-2.jpg)
 *La vicepresidente de la República, Martha Lucía Ramírez se refiere al "Pacto por Cartagena". Al término de este evento, Pedrito Pereira, le dijo a este periodista que se iniciaron unas mesas de trabajo para el alumbrado público.*
 
 Para Pedrito Pereira tomar una decisión que le responda a los intereses de la ciudad y no a la de un político o empresario particular, no solo es un compromiso del _«_Pacto por Cartagena_»_ **sino un imperativo de transparencia y de economía.**
@@ -54,7 +54,7 @@ Pérez Fernández, por su parte, ripostó:
 «_El tema del desequilibrio económico de los años 2016 y 2017,¨lo estamos apenas analizando,no me he referido a ese tema, nuestra inquietud radica en el cobro de la TIR desde mucho tiempo antes, las que presentaremos por escrito y sustentadas, asesoría que recibo de un familiar ingeniero experto en temas de alumbrado público. Igualmente cuestiono la calidad del servicio,que es evidente a los ojos de los cartageneros, no necesito probarlo.  
 El mismo interventor dijo el 15 de julio de 2015, en un debate del concejo sobre el concesionario: 'viene hablando de desequilibrio desde la administración de Carlos Díaz (...) alegando que en 2002 hubo un rompimiento del equilibrio....'; Agregó que 'están amenazando desde que empezó el contrato, en enero de 1999, pero no hay que temerles porque el contrato está perfecto'»._
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/veedores.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-la-oscuridad-del-alumbrado-publico-de-cartagena-de-indias-pereira-pide-luz-al-procurador-ii/veedores.jpg)
 *Los veedores unidos y sonrientes contra la Concesión Vial de los peajes urbanos: (izq. a derecha) Nausícrate Pérez, Héctores Pérez, William Murra, Alcides Arrieta y Erick Urueta.*
 
 Parece que los dos veedores están ahora en orillas opuestas con respecto al alumbrado público. Desde luego, Murra está ahora en la orilla del interventor. Mientras la ciudadanía cartagenera debe atender lo que se dijo en la primera entrega de esta serie:

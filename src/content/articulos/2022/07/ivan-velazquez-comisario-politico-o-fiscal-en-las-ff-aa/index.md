@@ -5,10 +5,10 @@ pubDate: "2022-07-24 01:14:41"
 author: "Lucio"
 categories: ["Análisis","Podcast","Post Conflicto","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/ivan-velazquez-comisario-politico-o-fiscal-en-las-ff-aa/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/ivan-velazquez-comisario-politico-o-fiscal-en-las-ff-aa/hero.jpg
 ---
 
-![¿Comisario político o fiscal de las FF.AA? El sistema internacional de derechos humanos tiene su representación en el gobierno de Petro. Gustavo Petro y Iván Velásquez.(Cortesía).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/ivan-velazquez-comisario-politico-o-fiscal-en-las-ff-aa/hero.jpg)
+![¿Comisario político o fiscal de las FF.AA? El sistema internacional de derechos humanos tiene su representación en el gobierno de Petro. Gustavo Petro y Iván Velásquez.(Cortesía).](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/ivan-velazquez-comisario-politico-o-fiscal-en-las-ff-aa/hero.jpg)
 *¿Comisario político o fiscal de las FF.AA? El sistema internacional de derechos humanos tiene su representación en el gobierno de Petro. (Cortesía).*
 
 ¿Comisario político o fiscal en las Fuerzas Militares-FF.AA? ¿Para qué llega un fiscal anticorrupción en el poder militar? ¿Cuál es la principal tarea que acometerá? Son las preguntas retóricas que surge para explicar la designación del exmagistrado auxiliar de la Corte Suprema de Justicia, **Iván Velásquez Gómez**, en el Ministerio de la Defensa. No solo fue una sorpresa, sino también un mensaje directo del presidente electo Gustavo Petro al sistema internacional de los derechos humanos de no tolerar unas fuerzas militares violatoria de los derechos humanos.

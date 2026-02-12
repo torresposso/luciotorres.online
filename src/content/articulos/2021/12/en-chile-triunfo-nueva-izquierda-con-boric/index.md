@@ -5,10 +5,10 @@ pubDate: "2021-12-20 01:40:31"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-chile-triunfo-nueva-izquierda-con-boric/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/en-chile-triunfo-nueva-izquierda-con-boric/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/en-chile-triunfo-nueva-izquierda-con-boric/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/en-chile-triunfo-nueva-izquierda-con-boric/hero.jpg)
 *Gabriel Boric, el nuevo presidente de Chile.*
 
 Una nueva izquierda asoma la cabeza en Chile con el triunfo del joven Gabriel Boric con 55,8% de los votos, frente al candidato de extrema derecha, José Antonio Kast, quien obtuvo 44,1%, con el 99% escrutado. El candidato perdedor reconoció el triunfo.

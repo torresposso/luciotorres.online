@@ -5,10 +5,10 @@ pubDate: "2025-12-15 22:14:39"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/el-de-la-vista-gorda-frente-al-lavado-descarado-de-los-bancos-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/12/el-de-la-vista-gorda-frente-al-lavado-descarado-de-los-bancos-i/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/el-de-la-vista-gorda-frente-al-lavado-descarado-de-los-bancos-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/12/el-de-la-vista-gorda-frente-al-lavado-descarado-de-los-bancos-i/hero.jpg)
 
 Hay delitos que no dejan sangre, aparentemente. Pero sí balances inflados. También historias de ricos que se hacen más ricos con dineros malhabidos. Crímenes sin sirenas ni capturas, que se cometen a la luz del día en oficinas alfombradas de los bancos más prestantes de Colombia. Y tienen el amparo de sellos oficiales y silencios cómplices del Estado y de la Gran Prensa. En el centro de esta omisión sistemática aparece una figura clave: el **Superintendente Financiero**, ayer y hoy, convertido en el funcionario de la **vista gorda**.
 
@@ -20,7 +20,7 @@ Esta es la historia de cómo billones de pesos de presunto **origen dudoso** n
 
 ### **El cuerpo de la investigación**
 
-![El de la vista gorda. Un estado cómplice](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/el-de-la-vista-gorda-frente-al-lavado-descarado-de-los-bancos-i/Cuenta_davivienda-1024x725.jpg)
+![El de la vista gorda. Un estado cómplice](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/12/el-de-la-vista-gorda-frente-al-lavado-descarado-de-los-bancos-i/Cuenta_davivienda-1024x725.jpg)
 *Esta es una prueba de cómo Davivienda se apropió de 200 millones de dólares sin explicación legal alguna. Y la Super, de la vista gorda*
 
 Una investigación de _VoxPopuli Digital_ revela que, en los últimos años, varias entidades financieras colombianas podrían haberse apropiado irregularmente de **más de $30 billones**. Estos dineros corresponden a recursos retenidos o congelados bajo la etiqueta de “operaciones sospechosas”. Pero no tienen una trazabilidad pública ni reporte efectivo a las autoridades del Estado.
@@ -31,7 +31,7 @@ Un caso emblemático es el de **Davivienda**. El **24 de junio de 2009**, en l
 
 ### **¿Prevención o apropiación?**
 
-![El Superintendente Financiero, César Ferrari, se hace de la vista gorda ante apropiación billonaria de «origen dudoso».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/12/el-de-la-vista-gorda-frente-al-lavado-descarado-de-los-bancos-i/Cesar-Ferrari-1024x683.jpeg)
+![El Superintendente Financiero, César Ferrari, se hace de la vista gorda ante apropiación billonaria de «origen dudoso».](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/12/el-de-la-vista-gorda-frente-al-lavado-descarado-de-los-bancos-i/Cesar-Ferrari-1024x683.jpeg)
 *El Superintendente Financiero, César Ferrari, "se hace de la vista gorda" ante apropiación billonaria de «origen dudoso». Foto, cortesía.*
 
 La normativa colombiana es clara. Cuando una entidad financiera detecta una operación sospechosa, debe:

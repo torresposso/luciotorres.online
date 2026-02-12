@@ -5,10 +5,10 @@ pubDate: "2021-11-28 19:09:24"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/murio-michi-pero-sigue-vivo-tibiri-el-ultimo-pelayero/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/murio-michi-pero-sigue-vivo-tibiri-el-ultimo-pelayero/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/11/murio-michi-pero-sigue-vivo-tibiri-el-ultimo-pelayero/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/murio-michi-pero-sigue-vivo-tibiri-el-ultimo-pelayero/hero.jpg)
 *Manuel «Tibiri» García, a sus 96 años, sigue con trompeta como cuando integró Pedro Laza y sus pelayeros.*
 
 **Manuel «Tibiri» García**, uno de los mejores trompetistas de los años 50, 60 y 70 de la Costa Caribe sigue vivo, a sus 96 años.  La muerte de **«Michi Sarmiento»**, su paisano y colega, lo deja como el último músico que irrumpieron en los años 50s en los cabarets de la zona de tolerancia conocida como Tesca, barrio Líbano de Cartagena. «  

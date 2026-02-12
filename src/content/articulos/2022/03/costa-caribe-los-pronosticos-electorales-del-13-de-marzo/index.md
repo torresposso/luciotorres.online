@@ -5,14 +5,14 @@ pubDate: "2022-03-10 00:39:56"
 author: "Lucio"
 categories: ["Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/costa-caribe-los-pronosticos-electorales-del-13-de-marzo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/costa-caribe-los-pronosticos-electorales-del-13-de-marzo/hero.jpg
 ---
 
 /articulos/episode/5Gv79q36fiVPgq6fD9RNJO?si=482b27856abd4239
 
 Segunda parte del análisis de pronósticos de la jornada del 13 de marzo 2022
 
-![La encuesta publicada este 8 de marzo, indica que en la Costa Caribe la consulta la ganan Gustavo Petro (92,49%), Alex Char (55,98%) y Sergio Fajardo (54,88%). Pronósticos electorales,](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/costa-caribe-los-pronosticos-electorales-del-13-de-marzo/hero.jpg)
+![La encuesta publicada este 8 de marzo, indica que en la Costa Caribe la consulta la ganan Gustavo Petro (92,49%), Alex Char (55,98%) y Sergio Fajardo (54,88%). Pronósticos electorales,](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/costa-caribe-los-pronosticos-electorales-del-13-de-marzo/hero.jpg)
 *La encuesta publicada este 8 de marzo, indica que en la Costa Caribe la consulta la ganan Gustavo Petro (92,49%), Alex Char (55,98%) y Sergio Fajardo (54,88%). Pronósticos electorales,*
 
 Pronósticos electorales en el Caribe colombiano. Será más de lo mismo este 13 de marzo. Aunque la incógnita sobresaliente será la capacidad del Pacto Histórico de traducir en votos las preferencias preelectorales en una región donde el clientelismo y la compra de votos está muy arraigada. Es el gran reto para las elecciones de cámara y senado.

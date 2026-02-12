@@ -5,10 +5,10 @@ pubDate: "2024-04-17 03:24:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/revolcon-en-la-fiscalia/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/revolcon-en-la-fiscalia/hero.jpg
 ---
 
-![Este es el equipo de la fiscal Luz Adriana Camargo. ¿Revolcón en la Fiscalía?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/revolcon-en-la-fiscalia/La-Fiscal-y-su-equipo-1024x296.jpeg)
+![Este es el equipo de la fiscal Luz Adriana Camargo. ¿Revolcón en la Fiscalía?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/revolcon-en-la-fiscalia/La-Fiscal-y-su-equipo-1024x296.jpeg)
 *Este es el equipo de la fiscal Luz Adriana Camargo. ¿Revolcón en la Fiscalía?*
 
 Hoy quedó evidenciado que la fiscal, **Luz Adriana Camargo**, quiere hacer un revolcón en la Fiscalía para combatir la **corrupción de alta gama** anidada desde los tiempos de **Luis Camilo Osorio Isaza**. Con su nuevo equipo iniciará un remezón de **fiscales delegados ante la Corte Suprema de Justicia** (CSJ). La corrupción en la Fiscalía es más evidente en esa instancia, porque también investiga a los mismos fiscales.
@@ -17,7 +17,7 @@ Dentro de estos cambios estaría el fiscal delegado que llamó a juicio al expre
 
 ## La esperanza: ¿Revolcón en la Fiscalía?
 
-![La esperanza: ¿Revolcón en la Fiscalía?/Fiscalía. Hernando Barreto Ardila, director de Fiscales Delegados ante la Corte Suprema de Justicia tomando posesión ante Luz Adriana Camargo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/revolcon-en-la-fiscalia/Hernando-barreto_fiscal.jpeg)
+![La esperanza: ¿Revolcón en la Fiscalía?/Fiscalía. Hernando Barreto Ardila, director de Fiscales Delegados ante la Corte Suprema de Justicia tomando posesión ante Luz Adriana Camargo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/revolcon-en-la-fiscalia/Hernando-barreto_fiscal.jpeg)
 *La esperanza: ¿Revolcón en la Fiscalía?/Fiscalía. Hernando Barreto Ardila, director de Fiscales Delegados ante la Corte Suprema de Justicia tomando posesión ante Luz Adriana Camargo.*
 
 Como se analizó en el artículo de hoy de **VoxPopuli Digital**, se espera de la fiscal una transformación del ente investigador capturado por las diferentes mafias del país:

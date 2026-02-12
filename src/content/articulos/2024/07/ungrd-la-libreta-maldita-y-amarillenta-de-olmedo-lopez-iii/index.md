@@ -5,10 +5,10 @@ pubDate: "2024-07-18 17:00:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ungrd-la-libreta-maldita-y-amarillenta-de-olmedo-lopez-iii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/ungrd-la-libreta-maldita-y-amarillenta-de-olmedo-lopez-iii/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ungrd-la-libreta-maldita-y-amarillenta-de-olmedo-lopez-iii/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/ungrd-la-libreta-maldita-y-amarillenta-de-olmedo-lopez-iii/hero.jpg)
 *La libreta maldita y amarillenta de Olmedo López*
 
 La libreta maldita y amarillenta de **Olmedo López**, exdirector de la UNGRD, se la entregó a la **Corte Suprema de Justicia** en su declaración del pasado 25 de junio del 2024, según la filtración de Caracol Noticias. ¿Se puede considerar una prueba reina para denunciar el entramado de corrupción que reina en el gobierno? En esa libreta maldita, presuntamente, hay una trazabilidad física de la alta corruptela del gobierno central para sobornar a congresistas de diferentes colores y financiar al ELN que se encuentra en un proceso de paz tambaleante.
@@ -67,7 +67,7 @@ No hay coincidencia. Los diálogos estaban trabados porque el vocero del ELN, **
 
 ## Pruebas a tutiplén
 
-![Karen Astrith Marique, representante de paz de Arauca. Está anotada en la libreta maldita de Olmedo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/07/ungrd-la-libreta-maldita-y-amarillenta-de-olmedo-lopez-iii/Karen-Manrique-510px.png)
+![Karen Astrith Marique, representante de paz de Arauca. Está anotada en la libreta maldita de Olmedo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/ungrd-la-libreta-maldita-y-amarillenta-de-olmedo-lopez-iii/Karen-Manrique-510px.png)
 *Karen Astrith Marique, representante de paz de Arauca. Está anotada en la libreta maldita de Olmedo.*
 
 De hecho, la libreta maldita y amarillenta de Olmedo Blanco tiene nombres de congresistas, ministros, estafetas y altos funcionarios. También hay referencias de chats, citas, registros de ingresos a las entidades, ubicación exacta de los protagonistas a través de las fotoceldas de los celulares, comunicaciones, obras asignadas. Parece que la representante de Arauca, **Karen Astrith Marique**, puso su impronta en la libreta maldita y amarillenta como prueba de la corruptela diseñada desde arriba para financiar al ELN con su contrato de Aravena, Arauca.

@@ -5,10 +5,10 @@ pubDate: "2025-10-25 12:07:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/donald-trump-del-discurso-a-la-agresion-militar/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/donald-trump-del-discurso-a-la-agresion-militar/hero.jpg
 ---
 
-![Donald Trump ¿del discurso a la agresión militar?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/10/donald-trump-del-discurso-a-la-agresion-militar/hero.jpg)
+![Donald Trump ¿del discurso a la agresión militar?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/donald-trump-del-discurso-a-la-agresion-militar/hero.jpg)
 *Donald Trump ¿del discurso a la agresión militar? Cortesía.*
 
 ¿Qué esperanza puede tener la paz hemisférica si quienes se autoproclaman defensores de la libertad ignoran los llamados de la ONU y convierten la justicia en un acto de guerra? Colombia y Venezuela son hoy el escenario donde el magnate-presidente **Donald Trump** ejecuta operaciones que, aunque parecen aisladas, revelan una **peligrosa estrategia de escalamiento militar en el Caribe**.

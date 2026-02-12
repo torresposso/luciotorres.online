@@ -5,10 +5,10 @@ pubDate: "2021-05-04 00:25:43"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/papa-dau-le-echo-el-esmad-a-sus-hijos-por-protestarpapa-dau-le-echo-el-esmad-a-sus-hijos-por-protestar/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/papa-dau-le-echo-el-esmad-a-sus-hijos-por-protestarpapa-dau-le-echo-el-esmad-a-sus-hijos-por-protestar/hero.jpg
 ---
 
-\[caption id="attachment\_14809" align="aligncenter" width="461"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/papa-dau-le-echo-el-esmad-a-sus-hijos-por-protestarpapa-dau-le-echo-el-esmad-a-sus-hijos-por-protestar/hero.jpg) Mientras el ESMAD maltrata a sus «hijos», el «papá Dau» observa con los brazos atrás. Tomado de video.\[/caption\]
+\[caption id="attachment\_14809" align="aligncenter" width="461"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/papa-dau-le-echo-el-esmad-a-sus-hijos-por-protestarpapa-dau-le-echo-el-esmad-a-sus-hijos-por-protestar/hero.jpg) Mientras el ESMAD maltrata a sus «hijos», el «papá Dau» observa con los brazos atrás. Tomado de video.\[/caption\]
 
 El ESMAD atacó con gases lacrimógenos y disparos aturdidores a estudiantes en la Plaza de la Paz. En tanto el alcalde William Dau observaba desde los patios de la alcaldía. Apenas sintió los disparos, salió corriendo para dentro.
 
@@ -18,13 +18,13 @@ Los estudiantes de la Universidad de Cartagena y de otros centros universitarios
 
 Parece que tal tratamiento fuera la respuesta del sofoco que le hicieron pasar los estudiantes, especialmente mujeres, en la manifestación del 1 de Mayo. Dau fue sacado como perro en misa.
 
-\[caption id="attachment\_14810" align="aligncenter" width="713"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/papa-dau-le-echo-el-esmad-a-sus-hijos-por-protestarpapa-dau-le-echo-el-esmad-a-sus-hijos-por-protestar/DAU-POLICIA-2.jpg) La administración de William Dau se militariza cada día. El populista que los han sacado varias veces de las manifestaciones.\[/caption\]
+\[caption id="attachment\_14810" align="aligncenter" width="713"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/papa-dau-le-echo-el-esmad-a-sus-hijos-por-protestarpapa-dau-le-echo-el-esmad-a-sus-hijos-por-protestar/DAU-POLICIA-2.jpg) La administración de William Dau se militariza cada día. El populista que los han sacado varias veces de las manifestaciones.\[/caption\]
 
 Con esta conducta se demuestra que las fuerzas policivas realizan una acción provocadora y coercitiva contra la manifestación popular. Son intolerantes frente a protestas justas de los estudiantes. 
 
 Además, refleja el proceso de militarización que está experimentado la administración distrital. Varios altos oficiales de la policía ocupan cargos de importancia estratégica en la administración central. Tales son los casos de los coroneles **Luis Roa Merchan** (Secretario General del Distrito) y **Pedro Rodelo Asfora, director de Distriseguridad,**
 
-\[caption id="attachment\_14816" align="aligncenter" width="1008"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/papa-dau-le-echo-el-esmad-a-sus-hijos-por-protestarpapa-dau-le-echo-el-esmad-a-sus-hijos-por-protestar/DAU-Y-EL-GENERAL.png) William Dau con su general **Luis Carlos Hernández,** director de la MECAR. ¿Quién está al servicio de quién?\[/caption\]
+\[caption id="attachment\_14816" align="aligncenter" width="1008"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/papa-dau-le-echo-el-esmad-a-sus-hijos-por-protestarpapa-dau-le-echo-el-esmad-a-sus-hijos-por-protestar/DAU-Y-EL-GENERAL.png) William Dau con su general **Luis Carlos Hernández,** director de la MECAR. ¿Quién está al servicio de quién?\[/caption\]
 
 Adicionalmente, en las alocuciones para redes sociales y los medios de prensa, William Dau Chamat se hace acompañar del **Brigadier General Luis Carlos Hernández, director de la MECAR**.
 

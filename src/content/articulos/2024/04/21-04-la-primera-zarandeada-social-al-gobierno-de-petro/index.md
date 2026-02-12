@@ -5,10 +5,10 @@ pubDate: "2024-04-23 03:41:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro","marchas"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/21-04-la-primera-zarandeada-social-al-gobierno-de-petro/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/21-04-la-primera-zarandeada-social-al-gobierno-de-petro/hero.jpg
 ---
 
-![Medellín, 21/04: La primera zarandeada social al gobierno de Petro. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/21-04-la-primera-zarandeada-social-al-gobierno-de-petro/Marchas_plaza_bolivar_2024.jpeg)
+![Medellín, 21/04: La primera zarandeada social al gobierno de Petro. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/21-04-la-primera-zarandeada-social-al-gobierno-de-petro/Marchas_plaza_bolivar_2024.jpeg)
 *Medellín, 21/04: La primera zarandeada social al gobierno de Petro. (Cortesía/Semana).*
 
 ¿Las marchas masivas e históricas del **21/04** obligarían a un cambio de curso del único gobierno de izquierda de los últimos 100 años? ¿Frenarían los proyectos de reformas? Sin duda, este movimiento social zarandeó fuertemente los cimientos políticos del gobierno que debe provocar consecuencias. Como muchas veces los mandatarios viven en **la burbuja del poder**, aupados por un grupo de áulicos, el mandante debe zarandearlo para que lo escuche. Por ende, pareció que la gente agarró al Presidente de los dos hombros y le dijo en su cara:
@@ -35,7 +35,7 @@ Si cerca de medio millón de colombianos se movilizaron en un día de descanso, 
 
 Por ende, las marchas de hoy fueron una continuidad del **movimiento de abril del 2021**, que reventaron por el detonante de la Reforma Tributaria que afectaba a la clase media. Exactamente hace 3 años, cuando el presidente **Duque Márquez** había traspasado la mitad de su gobierno, trastabilló pero no cayó. El establecimiento político le dio todo su apoyo. Apoyo que hoy no tiene Gustavo Petro. Sin tanta ciencia, esto lo debe hacer entrar en conciencia.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/21-04-la-primera-zarandeada-social-al-gobierno-de-petro/Los-billonarios.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/21-04-la-primera-zarandeada-social-al-gobierno-de-petro/Los-billonarios.jpeg)
 
 Por el contrario, el establecimiento dominante está inconforme con el gobierno de Petro, incluso, aquellos que han recibido grandes beneficios de este modelo de gobierno compartido. Además, durante estos 20 meses de Petro, **los ricos se han hecho más ricos**, según la famosa lista de Forbes. Y Petro se reúne a manteles con ellos, como el 23 de noviembre de 2023. Por tanto, el fenómeno de las marchas merece una reflexión sin sesgo político o ideológico que le permita al gobierno un cambio de frente. Si no lo hace, **la protesta social contra su gobierno se va a escalar como le sucedió a Iván Duque**.
 
@@ -73,7 +73,7 @@ No obstante, la fe y la esperanza de un cambio se mantienen intactas. Se está d
 
 ## La salida a la crisis política del **21/04**
 
-![¿Salida a la crisis del 21/04? Construir poder ciudadano y retirar los proyectos de reformas](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/21-04-la-primera-zarandeada-social-al-gobierno-de-petro/Marchas_21_de_abril_-1024x582.jpeg)
+![¿Salida a la crisis del 21/04? Construir poder ciudadano y retirar los proyectos de reformas](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/21-04-la-primera-zarandeada-social-al-gobierno-de-petro/Marchas_21_de_abril_-1024x582.jpeg)
 *¿Salida a la crisis del 21/04? Construir poder ciudadano y retirar los proyectos de reformas.*
 
 En la próxima entrega detallaremos este tema. Los sectores populares y los que votaron por un verdadero cambio deben advertirle al gobierno que la “zarandeada” es para dedicarse a implementar el plan de desarrollo y ejecutar el presupuesto. Menos anuncios y más hechos. Aquí van algunas propuestas para el presidente Petro con el fin de que no deje el trasero _fuera de toldo_, como decimos en la Costa Caribe.

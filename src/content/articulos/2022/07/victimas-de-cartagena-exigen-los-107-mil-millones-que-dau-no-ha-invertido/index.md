@@ -5,10 +5,10 @@ pubDate: "2022-07-26 20:27:41"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/victimas-de-cartagena-exigen-los-107-mil-millones-que-dau-no-ha-invertido/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/victimas-de-cartagena-exigen-los-107-mil-millones-que-dau-no-ha-invertido/hero.jpg
 ---
 
-![Víctimas de Cartagena se tomaron la sede de la Secretaría del Interior del Distrito. Se mantendrán hasta que el alcalde William Dau los atienda.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/victimas-de-cartagena-exigen-los-107-mil-millones-que-dau-no-ha-invertido/victimas-de-cartagena.jpeg)
+![Víctimas de Cartagena se tomaron la sede de la Secretaría del Interior del Distrito. Se mantendrán hasta que el alcalde William Dau los atienda.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/victimas-de-cartagena-exigen-los-107-mil-millones-que-dau-no-ha-invertido/victimas-de-cartagena.jpeg)
 *Víctimas de Cartagena se tomaron la sede de la Secretaría del Interior del Distrito. Se mantendrán hasta que el alcalde William Dau los atienda.*
 
 En el presupuesto de 2022 se incluyó un rubro de **$107 mil millones** para aplicar la política de víctimas de Cartagena. Pero el dinero ahora no aparece. Por esta razón, la **Mesa Distrital de Víctimas** se tomó desde esta mañana pacíficamente la sede de la Secretaría del Interior y de Convivencia hasta cuando se presente el alcalde y firme un compromiso de cumplimiento.
@@ -31,7 +31,7 @@ Pero hasta ahora no existe ninguna voluntad política para atender las peticione
 
 ## Toma pacífica
 
-![Representantes de víctimas de Cartagena en la toma pacífica.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/victimas-de-cartagena-exigen-los-107-mil-millones-que-dau-no-ha-invertido/victimas-toma.jpeg)
+![Representantes de víctimas de Cartagena en la toma pacífica.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/victimas-de-cartagena-exigen-los-107-mil-millones-que-dau-no-ha-invertido/victimas-toma.jpeg)
 *Representantes de víctimas de Cartagena en la toma pacífica.*
 
 > "Esta es una manifestación pacífica en las instalaciones de la Secretaría del Interior, nos encontramos exigiendo a la administración de William Dau el cumplimiento a la política de víctimas de asistencia en atención social, participación, vivienda, salud y educación. Este gobierno nos ha marginado. No hemos visto voluntad política de atender a las víctimas como tales. Por estas razones estamos haciendo este plantón pacífico".

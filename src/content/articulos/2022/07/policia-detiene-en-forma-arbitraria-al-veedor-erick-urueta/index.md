@@ -5,10 +5,10 @@ pubDate: "2022-07-03 22:01:34"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/policia-detiene-en-forma-arbitraria-al-veedor-erick-urueta/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/policia-detiene-en-forma-arbitraria-al-veedor-erick-urueta/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/policia-detiene-en-forma-arbitraria-al-veedor-erick-urueta/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/policia-detiene-en-forma-arbitraria-al-veedor-erick-urueta/hero.jpg)
 *Erick urueta benavidez*
 
 El presidente de la Veeduría a la Justicia Vejuca, **Erick Urueta Benavides**, acaba de ser detenido en la tarde de este domingo 3 de junio por la policía, al parecer, al mando del mayor Bueno. De acuerdo a la información entregada por el abogado Alberto Cárdenas, los hechos sucedieron cuando el Urueta se encontraba en su papel de defensor de los derechos de campesinos que están en posesión de la finca La Europa, en el corregimiento de Pasacaballos de Cartagena.

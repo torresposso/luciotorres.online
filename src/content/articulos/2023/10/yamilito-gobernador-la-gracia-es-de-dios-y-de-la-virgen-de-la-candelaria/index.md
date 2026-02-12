@@ -5,10 +5,10 @@ pubDate: "2023-11-01 03:18:47"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/yamilito-gobernador-la-gracia-es-de-dios-y-de-la-virgen-de-la-candelaria/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/yamilito-gobernador-la-gracia-es-de-dios-y-de-la-virgen-de-la-candelaria/hero.jpg
 ---
 
-![Yamilito gobernador. Lo primero es lo primero, agradecerle a Dios y a la virgen de la Candelaria.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/yamilito-gobernador-la-gracia-es-de-dios-y-de-la-virgen-de-la-candelaria/hero.jpg)
+![Yamilito gobernador. Lo primero es lo primero, agradecerle a Dios y a la virgen de la Candelaria.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/yamilito-gobernador-la-gracia-es-de-dios-y-de-la-virgen-de-la-candelaria/hero.jpg)
 *Yamilito gobernador. Lo primero es lo primero, agradecerle a Dios y a la virgen de la Candelaria.*
 
 **Yamilito gobernador**. Lo primero que hizo el gobernador electo de Bolívar, **Yamil Hernando Arana Padauí**, fue confirmar su fe cristiana en Dios y en la virgen de la Candelaria. Le dio gracias por los favores recibido. Ese poder divino de fe, expresado en su característica humildad, confirmó todas las encuestas y pronósticos al ser elegido con la mayor votación de toda la historia: **el 70,09 % de la votación general.** Es decir, **598.679 votos**. Fue un triunfo rotundo. Sin pizca de duda.
@@ -25,7 +25,7 @@ Vea el video sobre la victoria de Yamilito Arana el pasado 29 de octubre de 2023
 
 ## Magangueleño de pura cepa
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/yamilito-gobernador-la-gracia-es-de-dios-y-de-la-virgen-de-la-candelaria/Yamil_.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/yamilito-gobernador-la-gracia-es-de-dios-y-de-la-virgen-de-la-candelaria/Yamil_.jpg)
 *Yamilito gobernador. En la noche dela victoria, salió a recorrer las calles de Magangué donde fue aclamado.*
 
 El 5 de diciembre de 1990 nació en Magangué un bebé a quien le llamaron Yamil Hernando. Hijo de **Yamil Arana Gechem y Rocío Padauí Álvarez**. Su padre, siendo muy joven, fue senador de la República.
@@ -38,7 +38,7 @@ A pesar de su posición política o económica, son humildes en la relación con
 
 ## Votación histórica
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/yamilito-gobernador-la-gracia-es-de-dios-y-de-la-virgen-de-la-candelaria/Resultados_gobernacion_Yamilito.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/yamilito-gobernador-la-gracia-es-de-dios-y-de-la-virgen-de-la-candelaria/Resultados_gobernacion_Yamilito.jpg)
 
 La votación de Yamilito es histórica. Superó el 70% de los resultados electorales. Esto es, como se dijo, 854.116 sufragios. Bajó el voto en blanco a 12%, la mitad con relación a las elecciones de hace cuatro años cuando eligieron a **Vicente Blel con 384 mil votos**, En esa oportunidad el voto en blanco alcanzó la impresionante cifra de 24,27%. Es decir, 199.359 mil votos.
 

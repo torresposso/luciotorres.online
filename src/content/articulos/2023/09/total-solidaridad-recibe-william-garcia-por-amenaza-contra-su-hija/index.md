@@ -5,18 +5,18 @@ pubDate: "2023-09-22 22:37:18"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/total-solidaridad-recibe-william-garcia-por-amenaza-contra-su-hija/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/total-solidaridad-recibe-william-garcia-por-amenaza-contra-su-hija/hero.jpg
 ---
 
 Estas elecciones están contaminadas por un alcalde que no es prenda de garantía para unas elecciones libres. El candidato a la alcaldía de Cartagena por el movimiento _Los tres golpes_, **William García,** recibió total solidaridad frente a las cobardes amenazas de muerte contra su hija. Este hecho abominable, surgió poco después de que denunciara de cómo la administración de **William Dau** esquilma la economía de los más pobres para favorecer a los más ricos con la famosa actualización "Go catastral", cuyo contrato le cuesta a los cartageneros la suma de **$26 mil millones**.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/total-solidaridad-recibe-william-garcia-por-amenaza-contra-su-hija/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/total-solidaridad-recibe-william-garcia-por-amenaza-contra-su-hija/hero.jpg)
 
 Luego de que denunciara el acto de corrupción que significó ese contrato, cuyo interventor es un familiar de una candidata a la alcaldía, el alcalde Dau se vio en la necesidad de no autorizar su prórroga.
 
 ## Total solidaridad ante amenaza
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/total-solidaridad-recibe-william-garcia-por-amenaza-contra-su-hija/william-garcia_casa.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/total-solidaridad-recibe-william-garcia-por-amenaza-contra-su-hija/william-garcia_casa.jpg)
 *William García, ¡total solidaridad!*
 
 Es necesario destacar que el candidato William García recibió toda la solidaridad. Incluso, Reynaldo Tovar, quien renunciara para apoyar a Dumek, expresó su fraternalidad. El candidato Dumek Turbay dijo en su cuenta X:

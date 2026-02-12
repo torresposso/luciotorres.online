@@ -5,10 +5,10 @@ pubDate: "2023-07-13 23:33:24"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/hero.jpg
 ---
 
-![Triunfo agridulce de Colombia sobre Nicaragua./CIJ.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/hero.jpg)
+![Triunfo agridulce de Colombia sobre Nicaragua./CIJ.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/hero.jpg)
 *Triunfo agridulce de Colombia sobre Nicaragua./CIJ.*
 
 Es verdad que la Corte Internacional de Justicia (CIJ) rechazó de plano las pretensiones de Nicaragua de **ampliar su plataforma marítima más allá de sus 200 millas náuticas**. Sin embargo, es un triunfo agridulce. ¿Por qué? Si bien es cierto que el fallo detuvo la ambición de Nicaragua, deja incólume el fallo injusto y prevaricador de 2012 de esa Corte que **le quitó al país 75 mil kilómetros** cuadrados de mar y se los entregó al reclamante. ¿Debemos celebrar esta injusticia que hiere el amor patrio? La misión del presidente Petro es liderar una reclamación justa y acorde con las nuevas pruebas que aparecieron en investigaciones históricas del cartagenero Juan Roberto Serrano Ochoa.
@@ -29,7 +29,7 @@ Veamos una reseña rápida de la demanda nicaragüense que originó el fallo de 
 
 ## El fallo
 
-![Triunfo agridulceLa Corte Internacional de Justicia (CIJ) que adioptó el fallo de las dos reclamaciones nicas. /CIJ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/Corte-Internacional-de-Justicia_2.jpg)
+![Triunfo agridulceLa Corte Internacional de Justicia (CIJ) que adioptó el fallo de las dos reclamaciones nicas. /CIJ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/Corte-Internacional-de-Justicia_2.jpg)
 *Sala de Paz de la Corte Internacional de Justicia (CIJ) que adoptó el fallo de las dos reclamaciones nicas. Al frente, las dos delegaciones. /CIJ*
 
 A las 3:25 de la tarde, hora de La Haya, se inició la lectura del esperado fallo. Había grandes expectativas en toda la nación, porque Colombia viene cosechando continuas derrotas desde que en el 2001 al régimen sandinista se le dio por reclamar una soberanía que por siglos viene ejerciendo Colombia con base en el derecho internacional.
@@ -56,12 +56,12 @@ Al mismo tiempo, el abogado y analista político, **Jorge Horta Orozco**, toman
 
 ## La prueba que Serrano presentó en la Corte
 
-![Juan Roberto Serrano Ochoa, el perito investigador que presentó el escrito ante la Corte Internacional de Justicia. /Foto particular. Un fallo agridulce.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/Juan-Roberto-Serrano_foto_.jpg)
+![Juan Roberto Serrano Ochoa, el perito investigador que presentó el escrito ante la Corte Internacional de Justicia. /Foto particular. Un fallo agridulce.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/Juan-Roberto-Serrano_foto_.jpg)
 *Juan Roberto Serrano Ochoa, el perito investigador que presentó el escrito ante la Corte Internacional de Justicia. /Foto particular.*
 
 Juan Roberto Serrano resaltó el párrafo 65 del fallo del 19 de noviembre de 2012, en el sentido de que la Corte manifestó que “ni Nicaragua ni Colombia” demostraron que poseían título sobre las formaciones insulares en disputa, en virtud del _uti possidetis juris_. **Así desconoció la Real Orden del 20 de noviembre de 1803 que tampoco la defensa colombiana hizo valer.**
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/Juan-Roberto-Serrano_escrito.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/triunfo-agridulce-de-colombia-sobre-nicaragua/Juan-Roberto-Serrano_escrito.jpg)
 
 **Te puede interesar la tercera entrega**: [San Andrés Islas, la Real Orden prueba reina frente a Nicaragua (III)](/articulos/la-prueba-reina-de-que-san-andres-islas-y-misquitos-pertenecen-a-colombia-iii/)
 

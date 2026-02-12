@@ -5,10 +5,10 @@ pubDate: "2024-11-29 02:21:17"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/la-vida-loca-loca-de-benedetti-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/la-vida-loca-loca-de-benedetti-i/hero.jpg
 ---
 
-![Las aguas regresan a su cauce. La vida loca de Benedetti lo regresa al lado de Laura Sarabia, directora del Dapre. Si se cae Benedetti, se cae el presidente.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/la-vida-loca-loca-de-benedetti-i/hero.jpg)
+![Las aguas regresan a su cauce. La vida loca de Benedetti lo regresa al lado de Laura Sarabia, directora del Dapre. Si se cae Benedetti, se cae el presidente.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/la-vida-loca-loca-de-benedetti-i/hero.jpg)
 *Las aguas regresan a su cauce. La vida loca de Benedetti lo regresa al lado de Laura Sarabia, directora del Dapre. Si se cae Benedetti, se cae el presidente.*
 
 ¿Se incendiará la **Casa de Nariño**? Hay fuego cruzado amigo y enemigo por su regreso al seno presidencial. ¿Se transformará en un Centro de Rehabilitación para los que sufren de _peripea_? Pareciera que **Armando Benedetti Villaneda**, (**«**El Terminator» Benedetti) exembajador y exsenador, está atrapado en su vida loca, loca, loca. Y, con la tea en la mano, amenaza secuestrar a su habitante principal para que lo ayude a rehabilitarse.
@@ -69,12 +69,12 @@ Tanto Benedetti como García representan los lados oscuros de la política domin
 
 ## Benedetti, el camaleónico
 
-![Armando Benedetti comenzó llevándole el maletín a Germán Vargas. Fue uno de los peores momentos de su adicción a las drogas](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/la-vida-loca-loca-de-benedetti-i/image-2.png)
+![Armando Benedetti comenzó llevándole el maletín a Germán Vargas. Fue uno de los peores momentos de su adicción a las drogas](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/la-vida-loca-loca-de-benedetti-i/image-2.png)
 *Armando Benedetti comenzó llevándole el maletín a Germán Vargas. Fue uno de los peores momentos de su adicción a las drogas.*
 
 Sin embargo, Benedetti no está en la cárcel muy a pesar de que desde hace una década le persiguen 7 procesos penales en la Corte Suprema de Justicia (documento no disponible). Pero su capacidad camaleónica le permitió sobrevivir a las crisis políticas y a estos procesos jurídicos. Junto al Ñoño Elías, Musa Besaile y Antonio Guerra de la Espriella, hizo parte del grupo de senadores apodados **«**Los Bulldozer" que le dieron seguridad jurídica a todos los entuertos de Odebrecht. Ellos actuaron como mercenarios de la multinacional brasilera en detrimento de los intereses de la nación.
 
-![En este mosaico, el único que no ha sido condenado por Odebrecht es Armando Benedetti. Pero él fue el más entusiasta, según el testimonio Fernando Gaviria](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/la-vida-loca-loca-de-benedetti-i/Los-buldozer-1024x359.jpeg)
+![En este mosaico, el único que no ha sido condenado por Odebrecht es Armando Benedetti. Pero él fue el más entusiasta, según el testimonio Fernando Gaviria](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/la-vida-loca-loca-de-benedetti-i/Los-buldozer-1024x359.jpeg)
 *En este mosaico, el único que no ha sido condenado por Odebrecht es Armando Benedetti. Pero él fue el más entusiasta, según el testimonio Fernando Gaviria. Allí están Musa besaile, Noño Elías y Antonio Guerra de la Espriella.*
 
 Una de las características de Benedetti es voltearse. Es otra de sus adicciones. Pero es el deporte más practicado de esta clase política que ejerce el poder en Colombia. No importa su ideología.
@@ -87,7 +87,7 @@ Pero antes, le llevaba el maletín a **Germán Vargas Lleras**. Un hombre brilla
 
 ## La doble moral
 
-![Los tiempos en que Armando Benedetti se convirtió en el congreso como el defensor de reelección de Álvaro Uribe Vélez. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/la-vida-loca-loca-de-benedetti-i/placeholder.jpg)
+![Los tiempos en que Armando Benedetti se convirtió en el congreso como el defensor de reelección de Álvaro Uribe Vélez. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/la-vida-loca-loca-de-benedetti-i/placeholder.jpg)
 *Los tiempos en que Armando Benedetti se convirtió en el congreso como el defensor de reelección de Álvaro Uribe Vélez. Esta es la vida loca de Benedetti.*
 
 Sin embargo, Benedetti regresó de Europa a rehabilitarse. ¡Pobrecito! Colombia necesita compadecerse del hombre que, según él, buscó **15 mil millones** de pesos donados por _manes_ no emprendedores para la campaña presidencial de Petro y se pudiese sentar en el sillón de la Casa de Nariño. ¡Y tiene pruebas! Ahora, la sede presidencial pasará a ser un verdadero Centro de Rehabilitación para los que sufren de _peripea_.

@@ -5,10 +5,10 @@ pubDate: "2024-11-07 14:24:27"
 author: "Lucio"
 categories: ["Sin categoría"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/barranquilla-y-cartagena-en-los-3-mejores-puntajes-saber-11/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/barranquilla-y-cartagena-en-los-3-mejores-puntajes-saber-11/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/barranquilla-y-cartagena-en-los-3-mejores-puntajes-saber-11/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/barranquilla-y-cartagena-en-los-3-mejores-puntajes-saber-11/hero.jpg)
 *Barranquilla y Cartagena, en los 3 mejores puntajes Saber 11/2024. Los mejores a nivel nacional son de dos barrios populares de Cartagena: Ceballos y Santa Clara.*
 
 **Ana Sofía Vergara Marcano** (16 años), del Instituto Inem _José Manuel Rodríguez Torices_, y **Oscar Moisés Castillo Arrieta** (17 años), del _Colegio Alter Alteris_, (Cartagena) superaron al 100% de los estudiantes a nivel nacional. ¡Fueron los mejores en **Saber 11/2024**!
@@ -27,7 +27,7 @@ En consecuencia, ésos resultados ejemplares de dos adolescentes de barrios popu
 4.  **Armenia, Quindío** - 476/500
 5.  **Casanare, Casanare** - 476/500
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/barranquilla-y-cartagena-en-los-3-mejores-puntajes-saber-11/Pruebas_saber_11_2024.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/barranquilla-y-cartagena-en-los-3-mejores-puntajes-saber-11/Pruebas_saber_11_2024.jpeg)
 
 Busca tu lugar en el ICFES 2024 Icfes o hacer [**CLIC AQUÍ**](https://www.icfes.gov.co/).
 

@@ -5,10 +5,10 @@ pubDate: "2022-02-21 00:07:07"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-apocalipsis-de-un-imperio/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/el-apocalipsis-de-un-imperio/hero.jpg
 ---
 
-![La muerte de Rafael Prins Velásquez marcó el inicio del apocalipsis de un imperio.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-apocalipsis-de-un-imperio/hero.jpg)
+![La muerte de Rafael Prins Velásquez marcó el inicio del apocalipsis de un imperio.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/el-apocalipsis-de-un-imperio/hero.jpg)
 *La muerte de Rafael Prins Velásquez marcó el inicio del apocalipsis de un imperio.*
 
 La muerte de **Rafael Prins Velásquez** marcó el inicio del apocalipsis de un imperio. Fue el comienzo de la decadencia de una dictadura política basada en la violencia y el silencio. En la noche del 19 de febrero (2005) el líder comunal y comunicador comunitario sufrió un atentado criminal. Cayó gravemente herido en el parque **Electrificadora de Magangué**, departamento de Bolívar, al norte de Colombia. 

@@ -5,10 +5,10 @@ pubDate: "2023-01-10 03:01:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/hero.jpg
 ---
 
-![Caso Mamatoco, un monumento de la corrupción de Fuerza Ciudadana. Aquí está la evidencia. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/hero.jpg)
+![Caso Mamatoco, un monumento de la corrupción de Fuerza Ciudadana. Aquí está la evidencia. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/hero.jpg)
 *Caso Mamatoco, un monumento de la corrupción de Fuerza Ciudadana. Aquí está la evidencia. Cortesía.*
 
 El Caso Mamatoco, no solo es la mácula del pequeño imperio del gobernador del Magdalena, **Carlos Eduardo Caicedo Omar**, y de su lugarteniente **Rafael Alejandro Martínez**, sino que será la _**piedra de tropiezo**_ que marcaría la caída de su pequeño imperio en este 2023. **El puesto de salud de Mamatoco es un monumento de corrupción de izquierda** de las dos primeras alcaldías de **Fuerza Ciudadana**, el movimiento que en las pasadas elecciones a congreso fracasó para elegir senador al mismo Martínez.
@@ -25,7 +25,7 @@ Y ese hecho de evidente corrupción administrativa al cuadrado **—**pues lo co
 
 ## Un embuste para provecho electoral
 
-![¿Caicedo Omar y Johnson Salcedo se eligieron con la plata de la corrupción? La sociedad exige una explicación. Caso Mamatoco. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/FlP8_tlXEAEMvVn.jpg)
+![¿Caicedo Omar y Johnson Salcedo se eligieron con la plata de la corrupción? La sociedad exige una explicación. Caso Mamatoco. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/FlP8_tlXEAEMvVn.jpg)
 *¿Caicedo Omar y Johnson Salcedo se eligieron en 2019 con la plata de la corrupción? La sociedad exige una explicación. Caso Mamatoco. Cortesía.*
 
 Este hecho lo aprovecharon políticamente para engañar a los más incautos de sus seguidores que le creyeron la carreta de persecución política en 2019. Se victimizaron. Con esta conducta lograron concitar las diferentes fuerzas de izquierda. Este hecho de corrupción lo transformaron en un **hecho político** que les permitió elegir a **Virna Johnson a la alcaldía y Carlos Caicedo a la gobernación**. ¿Sucederá esto en 2023? (Leer: [Carlos Caicedo se siente perseguido en su gobernación](/articulos/carlos-caicedo-se-siente-perseguido-en-su-gobernacion/)).
@@ -34,7 +34,7 @@ Recordemos que en 2014 demolieron los cinco puestos de salud. Lo hicieron sin pe
 
 ## Los sobornos del Caso Mamatoco
 
-![Captura de pantalla de uno de los seis contratos entregados a la hermana del Magistrado Carlos Milton Fonseca Lidueña. Ella se llama Iris María Fonseca Lidueña.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/Mamatoco-contrato-de-Fonseca.jpg)
+![Captura de pantalla de uno de los seis contratos entregados a la hermana del Magistrado Carlos Milton Fonseca Lidueña. Ella se llama Iris María Fonseca Lidueña.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/caso-mamatoco-la-macula-del-pequeno-imperio-de-caicedo-i/Mamatoco-contrato-de-Fonseca.jpg)
 *Captura de pantalla de uno de los seis contratos entregados a la hermana del Magistrado Carlos Milton Fonseca Lidueña. Ella se llama Iris María Fonseca Lidueña.*
 
 De manera que este 2023, dicha acusación —que la están dilatando al mejor estilo de los corruptos tradicionales— la debe resolver el **Juez Tercero Penal del Circuito de Conocimiento de Santa Marta, Jairo Villalba De Ángel** y la **Corte Suprema de Justicia—CSJ**. Pero el proceso está plagado de una serie de hechos donde hay denuncias serias de sobornos al poder judicial. Se teme que la Fiscalía 12 Delegada ante la Corte Suprema de Justicia le eche escopolamina al proceso para ponerlo a dormir eternamente. Es decir, **quieren archivarlo indebidamente como ha sucedido con otros procesos**.

@@ -5,10 +5,10 @@ pubDate: "2021-06-19 00:02:40"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/el-comite-de-paro-nos-da-verguenza-gritan-los-jovenes-en-las-calles/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/el-comite-de-paro-nos-da-verguenza-gritan-los-jovenes-en-las-calles/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/el-comite-de-paro-nos-da-verguenza-gritan-los-jovenes-en-las-calles/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/el-comite-de-paro-nos-da-verguenza-gritan-los-jovenes-en-las-calles/hero.jpg)
 *El Paro No Para. (Creación de Laura Botet).*
 
 **«El Comité de Paro nos da vergüenza»**, gritan jóvenes en las calles en Medellín, Bogotá, Cali, y otras ciudades. **Salieron a marchar los días 16 y 17 de junio** con el objetivo de seguir en la protesta callejera en el marco del Paro Nacional. Fueron acciones contra el **régimen neobonapartista** representado por el presidente Iván Duque. Rechazaron el fracaso del proyecto de ley de **Matrícula Cero** en el congreso de la República. Igualmente lanzaron sus críticas contra la decisión del **Comité del Paro Nacional** con este coro que cantaban en la medida que marchaban: 
@@ -17,7 +17,7 @@ heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/el-comite
 
 ## Gritan los jóvenes
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/el-comite-de-paro-nos-da-verguenza-gritan-los-jovenes-en-las-calles/EL-PARO-NO-PARA.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/el-comite-de-paro-nos-da-verguenza-gritan-los-jovenes-en-las-calles/EL-PARO-NO-PARA.jpg)
 *El Paro No Para. Los jóvenes gritan en las calles.*
 
 El movimiento juvenil —que no tiene nada que perder y no piensa en estrategia electoral— rechazó la decisión de la burocracia sindical de privilegiar el parlamentarismo corrupto. **Gritan los jóvenes** que la dirigencia despreció la lucha directa de la ciudadanía que en una semana tumbó la reforma tributaria, la reforma de la salud y un ministro de economía prepotente. Incluso, hizo tambalear al **régimen neobonapartista del Centro Democrático de Uribe y pidió la renuncia de Duque**.
@@ -54,7 +54,7 @@ Es así que en esa primera semana se multiplicaron los cortes de vías. Se const
 
 Por ejemplo, en Cali crearon **32 barricadas antes de la masacre del 28 de mayo** donde asesinaron a 13 jóvenes. La represión fue tan brutal que la Comisión Interamericana de Derechos Humanos—CIDH le insistió al Estado colombiano que autorizara la visita. Ésta se cumplió entre el 8 y 10 de junio. Constataron las denuncias recibidas de 72 muertos y centenares de heridos por la represión brutal de las fuerzas estatales con el apoyo de grupos civiles armados. 
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/el-comite-de-paro-nos-da-verguenza-gritan-los-jovenes-en-las-calles/El-paro-no.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/el-comite-de-paro-nos-da-verguenza-gritan-los-jovenes-en-las-calles/El-paro-no.jpg)
 *El Paro No para, Cortesía.*
 
 ## El CNP se defiende

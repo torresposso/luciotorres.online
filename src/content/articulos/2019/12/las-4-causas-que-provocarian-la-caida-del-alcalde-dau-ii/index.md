@@ -5,12 +5,12 @@ pubDate: "2019-12-01 15:11:32"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/las-4-causas-que-provocarian-la-caida-del-alcalde-dau-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/12/las-4-causas-que-provocarian-la-caida-del-alcalde-dau-ii/hero.jpg
 ---
 
 > **¿Qué es la corrupción, según la RAE?** _"El término **corrupción** suele ser utilizado para referirse a actividades ilícitas o deshonestas dentro de organizaciones públicas estatales. En ese sentido, se cataloga de corrupto a un político **que saca provecho personal de los recursos del Estado**"._
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/12/las-4-causas-que-provocarian-la-caida-del-alcalde-dau-ii/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/12/las-4-causas-que-provocarian-la-caida-del-alcalde-dau-ii/hero.jpg)
 *Si hay justicia, esta credencial le duraría muy poco al Buitre Dau. Cortesía.*
 
 **Son 4 causas que provocarían la caída del alcalde William Dau Chamat** como accionista de Aguas de Cartagena, de acuerdo con el análisis jurisprudencial del Consejo de Estado. Su caída es inminente, no solo por su evidente inhabilidad sino también porque su conducta refleja trastorno de la personalidad.

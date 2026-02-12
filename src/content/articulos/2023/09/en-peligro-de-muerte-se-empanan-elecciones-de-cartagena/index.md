@@ -5,10 +5,10 @@ pubDate: "2023-09-08 23:56:23"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/en-peligro-de-muerte-se-empanan-elecciones-de-cartagena/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/en-peligro-de-muerte-se-empanan-elecciones-de-cartagena/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/en-peligro-de-muerte-se-empanan-elecciones-de-cartagena/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/en-peligro-de-muerte-se-empanan-elecciones-de-cartagena/hero.jpg)
 *La lucha contra los peajes fue una de las banderas asumidas por Héctor Pérez Fernández, hasta hoy candidato a la alcaldía de Cartagena. Está en peligro de muerte.*
 
 Mientras el gobierno nacional dice que están dadas las condiciones para las elecciones el próximo 29 de octubre, el candidato a la alcaldía de Cartagena por el movimiento Colombia Justa y Libre, **Héctor Pérez Fernández**, se retiró definitivamente de la contienda electoral. ¿La razón? Su vida está en peligro de muerte. Y no es un peligro subjetivo, como pueden creer algunas personas. Por el contrario, es extremo, debido a que fue víctima de un frustrado complot donde varios supuestos empresarios se concertaron para pagar su muerte y de otros veedores de la ciudad.

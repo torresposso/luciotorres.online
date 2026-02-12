@@ -5,10 +5,10 @@ pubDate: "2023-03-15 12:51:53"
 author: "Lucio"
 categories: ["Análisis","Crónica","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/al-caido-caerle-la-sancion-del-cne-a-petro-y-maximo-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/al-caido-caerle-la-sancion-del-cne-a-petro-y-maximo-i/hero.jpg
 ---
 
-![Al caído, caerle: La sanción del CNE a Petro y Máximo (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/al-caido-caerle-la-sancion-del-cne-a-petro-y-maximo-i/hero.jpg)
+![Al caído, caerle: La sanción del CNE a Petro y Máximo (I)](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/al-caido-caerle-la-sancion-del-cne-a-petro-y-maximo-i/hero.jpg)
 *Al caído, caerle: La sanción del CNE a Petro y Máximo.*
 
 Como si no bastara el linchamiento moral sufrido por el primogénito del Presidente de la República y diputado del Atlántico, **Nicolás Petro Burgos**, el Consejo Nacional Electoral (CNE) confirmó fallo mediante el cual sancionaron la campaña a la gobernación de la coalición Colombia Humana y Mais. El magistrado ponente es el conservador **Alfonso Campo Martínez**. La decisión también afecta a su principal aliado y protector **Máximo Noriega Rodríguez**, en su calidad de gerente de la campaña a la gobernación del 27 de octubre de 2019. **Así se patentiza el consabido dicho popular «al caído, caerle»**.
@@ -19,7 +19,7 @@ Como si no bastara el linchamiento moral sufrido por el primogénito del Preside
 
 ## La verdadera razón del escándalo
 
-![El sábado 11 de marzo de 2023 Máximo Noriega recibió el apoyo de una asamblea de organizaciones componentes del Pacto Histórico: Mais, UP, Comunes, Partido Comunista y sectores de Colombia Humana.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/al-caido-caerle-la-sancion-del-cne-a-petro-y-maximo-i/Maximo_apoyo.jpg)
+![El sábado 11 de marzo de 2023 Máximo Noriega recibió el apoyo de una asamblea de organizaciones componentes del Pacto Histórico: Mais, UP, Comunes, Partido Comunista y sectores de Colombia Humana.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/al-caido-caerle-la-sancion-del-cne-a-petro-y-maximo-i/Maximo_apoyo.jpg)
 *El sábado 11 de marzo de 2023 Máximo Noriega recibió el apoyo de una asamblea de organizaciones componentes del Pacto Histórico: Mais, UP, Comunes, Partido Comunista y sectores de Colombia Humana.*
 
 Todo indica que la verdadera motivación del escándalo de Day Vásquez no solo fue la infidelidad **de Nicolás Petro** con **Laura Ojeda**, la gran amiga de la pareja. Quizás ese incidente afectivo y emocional fue su detonante. El objetivo: **boicotear el nacimiento de la campaña** a la gobernación del papá político de Nicolás Petro Burgos: **Máximo Noriega Rodríguez**. El surgimiento de esta iniciativa política al interior de la Colombia Humana es considerada como una disidencia de los posibles acuerdos que están cocinando desde arriba.
@@ -34,7 +34,7 @@ Si uno hace una lectura detenida a la entrevista concedida por Day Vásquez a la
 
 La primera intención era controlar la explosión del escándalo de tal manera que no afectara directamente al presidente. Esto pudo ser el compromiso del encuentro que Day Vásquez tuvo con el presidente Petro el 1 de febrero. **En el segundo caso**, pudo ser la intención de sabotear la campaña a la gobernación de Máximo Noriega. Esta campaña es un desafío a los posibles acuerdos de algunos sectores dominantes del Pacto Histórico con el **Clan Daes-Charismo**.
 
-![Al caído, caerle: La sanción del CNE a Petro y Máximo. Este tuit lo dice todo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/al-caido-caerle-la-sancion-del-cne-a-petro-y-maximo-i/tuit_candidatura-de-maximo.jpg)
+![Al caído, caerle: La sanción del CNE a Petro y Máximo. Este tuit lo dice todo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/al-caido-caerle-la-sancion-del-cne-a-petro-y-maximo-i/tuit_candidatura-de-maximo.jpg)
 *Al caído, caerle: La sanción del CNE a Petro y Máximo. Este tuit lo dice todo.*
 
 ## Al caído, caerle: consecuencias

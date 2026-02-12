@@ -5,10 +5,10 @@ pubDate: "2021-06-03 00:01:52"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-colombia-sigue-alerta-roja-hospitalaria-por-la-covid-19/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/en-colombia-sigue-alerta-roja-hospitalaria-por-la-covid-19/hero.jpg
 ---
 
-\[caption id="attachment\_15257" align="aligncenter" width="800"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-colombia-sigue-alerta-roja-hospitalaria-por-la-covid-19/hero.jpg) **Alerta roja rospitalaria.** Las EPS de espalda a la emergencia. Cortesía ElHospital.com.\[/caption\]
+\[caption id="attachment\_15257" align="aligncenter" width="800"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/en-colombia-sigue-alerta-roja-hospitalaria-por-la-covid-19/hero.jpg) **Alerta roja rospitalaria.** Las EPS de espalda a la emergencia. Cortesía ElHospital.com.\[/caption\]
 
 **¡Alerta roja hospitalaria! Cada día un amigo, un conocido o familiar muere por el virus**. No importa el estrato social. Nando Padauí, Dionisio Miranda, Miguel Portala, Ernesto Taborda, Víctor Ballestas, Walberto Ahumedo, Roque de la Hoz, y una larga lista que crece cada día. Abres las redes sociales y te enteras que otro está en UCI. Así como crece esta alerta hospitalaria, **crece la mezquindad de las EPS.** Ya no solo no contratan a las Ips que no sean de su red sino que **desobedecen los lineamientos del gobierno nacional** en materia de atención primaria y aplicación de los estándares de seguridad del paciente.
 
@@ -86,7 +86,7 @@ De igual manera, el Ministerio de Salud aprobó medidas para garantizar el flujo
 
 ## El efecto Semana Santa
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/en-colombia-sigue-alerta-roja-hospitalaria-por-la-covid-19/NIDOS-DE-RATAS2.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/en-colombia-sigue-alerta-roja-hospitalaria-por-la-covid-19/NIDOS-DE-RATAS2.jpeg)
 *Un verdadero nido de ratas encontró la Supersalud. La ESE debió jugar un papel fundamental en esta pandemia y no lo hizo. ¡Alerta roja hospitalaria!*
 
 En consecuencia, es necesario decir que los colombianos enfrentamos la tercera ola de la pandemia. Con los contagios de Semana Santa hubo un incremento inusitado de los contagios de COVID-19.  Estamos superando los **500 muertos diarios**, según cifras del Ministerio de Salud. 

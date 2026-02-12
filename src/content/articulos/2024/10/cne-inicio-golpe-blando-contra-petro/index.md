@@ -5,10 +5,10 @@ pubDate: "2024-10-11 02:08:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/cne-inicio-golpe-blando-contra-petro/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/cne-inicio-golpe-blando-contra-petro/hero.jpg
 ---
 
-![¿«Golpe blando» del CNE contra Petro? El Consejo de Estado respaldó la decisión del CNE y rechazó una solicitud de nulidad de la defensa del presidente.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/cne-inicio-golpe-blando-contra-petro/hero.jpg)
+![¿«Golpe blando» del CNE contra Petro? El Consejo de Estado respaldó la decisión del CNE y rechazó una solicitud de nulidad de la defensa del presidente.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/cne-inicio-golpe-blando-contra-petro/hero.jpg)
 *¿«Golpe blando» del CNE contra Petro? El Consejo de Estado respaldó la decisión del CNE y rechazó una solicitud de nulidad de la defensa del presidente.*
 
 ¿Se está tejiendo un **«golpe blando»** del CNE contra el presidente **Gustavo Petro** con el **pliego de cargos** librado este 8 de octubre y ratificado hoy por el Consejo de Estado al desestimar una **solicitud de nulidad** de la decisión del pasado 8 de agosto? Si hallan responsables a los dignatarios de la campaña y su candidato, el CNE deberá compulsar copias a la Comisión Legal de Investigación y Acusación de la Cámara de Representantes de investigar la posible conducta punible del primer mandatario.
@@ -59,7 +59,7 @@ Es verdad: Petro no quería Procurador ni tampoco fiscal de bolsillo, como equí
 
 Por esa misma razón, el sempiterno y legendario Secretario General del Congreso, **Gregorio Eljach** **Pacheco** (1959), es una figura de consenso, parida por la clase política tradicional. No en vano fue compañero de Petro. Los dos envejecieron juntos con más de 30 años calentando las sillas del parlamento. Los dos saldrán pensionados y cerrar su ciclo político con broche de oro. Uno en la presidencia y el otro en la Procuraduría. ¿Y para cuándo el Cambio?
 
-![Toma de posesión del presidente del CNE, César Lorduy](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/10/cne-inicio-golpe-blando-contra-petro/Lorduy_Presidencia-Lorduy_450_300.jpeg)
+![Toma de posesión del presidente del CNE, César Lorduy](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/cne-inicio-golpe-blando-contra-petro/Lorduy_Presidencia-Lorduy_450_300.jpeg)
 *Toma de posesión del presidente del CNE, César Lorduy.*
 
 ## El cambio debe esperar

@@ -5,10 +5,10 @@ pubDate: "2023-01-20 17:34:50"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/petrolera-insurcol-se-apropio-30-has-de-la-gobernacion/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/petrolera-insurcol-se-apropio-30-has-de-la-gobernacion/hero.jpg
 ---
 
-![Algunos de los directivos de Insurcol en un homenaje por los servicios prestados.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/petrolera-insurcol-se-apropio-30-has-de-la-gobernacion/hero.jpg)
+![Algunos de los directivos de Insurcol en un homenaje por los servicios prestados.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/petrolera-insurcol-se-apropio-30-has-de-la-gobernacion/hero.jpg)
 *Algunos de los directivos de Insurcol en un homenaje por los servicios prestados.*
 
 La empresa petrolera **Insurcol** viene realizando un papel inverso a lo que hizo la **Andian** en el siglo pasado. Cerca de 30 hectáreas de tierras públicas que esa empresa donó a la gobernación de Bolívar en Turbana y del área de Pasacaballos, se lo está apropiando Insurcol Ltda. Al parecer, esa apropiación es indebida, ilegal e inconstitucional. Existe varios procesos, uno de los cuales está en el Juzgado 4° Civil del Circuito. Allí existe un proceso de pertenencia espurio. Lo mismo que otros procesos que están tramitando en varios juzgados civiles de Cartagena.
@@ -27,7 +27,7 @@ De acuerdo con un escrito radicado por el presidente de **Asocafrobol, Lisardo S
 
 ## Proceso de pertenencia
 
-![Algunos de los directivos de Insurcol en un homenaje por los servicios prestados.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/petrolera-insurcol-se-apropio-30-has-de-la-gobernacion/foto_insurcol_homenaje.jpg)
+![Algunos de los directivos de Insurcol en un homenaje por los servicios prestados.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/petrolera-insurcol-se-apropio-30-has-de-la-gobernacion/foto_insurcol_homenaje.jpg)
 *Algunos de los directivos de Insurcol en un homenaje por los servicios prestados.*
 
 Dentro de esa escalada de apropiación, la petrolera Insurcol inició un proceso de pertenencia en el **Juzgado 4° Civil del Circuito**. La empresa viene comprando una serie de predios que campesinos u otros propietarios las habían escriturado en forma irregular, dado a que son predios fiscales.

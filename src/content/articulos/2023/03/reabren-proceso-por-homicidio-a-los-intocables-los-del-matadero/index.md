@@ -5,10 +5,10 @@ pubDate: "2023-03-21 21:01:04"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/hero.jpg
 ---
 
-![Reabren proceso por homicidio a Los intocables... Los del matadero.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/hero.jpg)
+![Reabren proceso por homicidio a Los intocables... Los del matadero.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/hero.jpg)
 *Reabren proceso por homicidio a Los intocables... Los del matadero. El excomandante Juan Francisco Segura Gómez, alias «El Alacrán», sindicado de la autoría material del homicidio agravado, testimonió contra Rafael Matera Lajud, autor intelectual.*
 
 ¿Se les acabó la suerte a **«Los intocables»**, a la primera generación de criminales de la AUC que se vinieron a grandes empresarios con el botín de guerra producido por el desplazamiento forzado y otros crímenes de lesa humanidad? La Fiscalía de Francisco Barbosa le reabrió el proceso penal donde el excomandante paramilitar, **Juan Francisco Segura Gómez**, alias **«El Alacrán»**, sindicado de la autoría material de homicidio agravado, testimonió contra **Rafael Antonio Matera Lajud**, como autor intelectual de ese crimen. ¿Correrá la misma suerte de **Darío Laino Scopetta, alias «Ojitos azules»**, quien hoy se encuentra en la cárcel pagando dos condenas por homicidio agravado?
@@ -35,12 +35,12 @@ Si. Parece que su racha de suerte se les acabó. Volverán al estrado y segurame
 
 ## Reabren proceso contra Los intocables
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/rafael-Matera-Lajud_1.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/rafael-Matera-Lajud_1.jpg)
 *Este es el radicado del proceso que acaba de reabrir la Fiscalía contra Rafael Matera Lajud, uno de «Los intocables».*
 
 De fuentes de entero crédito se supo que este mes de marzo, ¡sorpresivamente! la Fiscalía reabrió un viejo proceso por homicidio agravado en Valledupar a **Rafael Matera Lajud**. El radicado es el **No 218263** por el delito de **homicidio agravado**, de acuerdo con el **oficio No 20510-01-03-05-08**2 enviado en la citación para los involucrados en el proceso por la fiscal **Nancy del Carmen Martínez Iglesias**.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/Rafael-Matera-Lajud_imagen.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/Rafael-Matera-Lajud_imagen.jpg)
 
 El caso había sido archivado en julio del 2022 bajo una suerte de sospechas. Lo extraño, la misma fiscal que lo cerró, recientemente lo reabrió. Pero, todo hace indicar, que surgieron **nuevas pruebas** contundentes y testimonios que le dan fuerza a la declaración de **Juan Francisco Segura Gómez**, alias **«El Alacrán»**. Este jefe paramilitar aseguró que el empresario palmicultor y propietario del matadero **Camaguey** no solo fue financiador de las estructuras de la AUC. También determinó varios delitos con el propósito de buscar el desplazamiento forzado de sus pobladores. Uno de estos homicidios podría llevar a una condena segura a Matera Lajud.
 
@@ -60,7 +60,7 @@ Por ejemplo, según investigadores, en la Fiscalía 15 de la Unidad Especializad
 
 ## Al fiscal
 
-![Francisco Barbosa, fiscal general ¿tocará a Los Intocables?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/placeholder.jpg)
+![Francisco Barbosa, fiscal general ¿tocará a Los Intocables?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/reabren-proceso-por-homicidio-a-los-intocables-los-del-matadero/placeholder.jpg)
 *Francisco Barbosa, fiscal general ¿tocará a Los Intocables?*
 
 En 2021, por ejemplo, la Sala de Justicia y Paz de Barranquilla envió una solicitud al fiscal Francisco Barbosa investigar las finanzas de los Matera. De igual manera solicitó que se investigara si el empresario participó en una serie de asesinatos ocurridos en el Copey (Cesar) y Algarrobo, Magdalena.

@@ -5,10 +5,10 @@ pubDate: "2022-07-14 00:57:05"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/firma-espanola-con-antecedentes-de-baja-temeraria-pretende-adjudicarse-megaobra-canal-del-dique/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/firma-espanola-con-antecedentes-de-baja-temeraria-pretende-adjudicarse-megaobra-canal-del-dique/hero.jpg
 ---
 
-![Entre Iván Duque y Gustavo Petro está la corrección del proceso de licitación que se le piensa adjudicar a firma española.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/firma-espanola-con-antecedentes-de-baja-temeraria-pretende-adjudicarse-megaobra-canal-del-dique/hero.jpg)
+![Entre Iván Duque y Gustavo Petro está la corrección del proceso de licitación que se le piensa adjudicar a firma española.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/firma-espanola-con-antecedentes-de-baja-temeraria-pretende-adjudicarse-megaobra-canal-del-dique/hero.jpg)
 *Entre Iván Duque y Gustavo Petro está la corrección del proceso de licitación que se le piensa adjudicar a firma española.*
 
 Pese a las solicitudes de las comunidades para que detengan el proceso de licitación de la megaobra **_Restauración de los sistemas degradados Canal del Dique_** por falta de conocimiento, en el día de hoy el gobierno nacional recibió una sola oferta en el proceso de licitación que se debe adjudicar el próximo 4 de agosto. Se trata de la firma española **Sacyr** que pretende adjudicarse la Alianza Público Privada-APP Restauración de Ecosistemas Degradados del Canal de Dique. Esta firma tiene antecedente de oferta de baja temeraria.

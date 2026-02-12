@@ -5,10 +5,10 @@ pubDate: "2025-01-23 14:30:04"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/sin-un-pot-sostenible-la-popa-se-caera-x/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/sin-un-pot-sostenible-la-popa-se-caera-x/hero.jpg
 ---
 
-![Sin un POT sostenible, la Popa se caerá. La declaratoria de calamidad pública debe implementar de inmediato el Plan de Recuperación de La Popa ordenado por los jueces en primera y segunda instancia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/sin-un-pot-sostenible-la-popa-se-caera-x/Dumek_La_Popa_POT-1024x628.jpeg)
+![Sin un POT sostenible, la Popa se caerá. La declaratoria de calamidad pública debe implementar de inmediato el Plan de Recuperación de La Popa ordenado por los jueces en primera y segunda instancia.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/sin-un-pot-sostenible-la-popa-se-caera-x/Dumek_La_Popa_POT-1024x628.jpeg)
 *Sin un POT sostenible, la Popa se caerá. La declaratoria de calamidad pública debe implementar de inmediato el Plan de Recuperación de La Popa ordenado por los jueces en primera y segunda instancia.*
 
 El deslizamiento en la noche del 21 de enero de 2025 en las faldas del Cerro de la Popa, barrio Paseo Bolívar, en Loma Fresca, es solo un **campanazo de advertencia**. El desastre que vendría después, con todas las zonas vulnerables de Cartagena, **es muy previsible**. Puesto que sin un Mapa de Riesgo (documento no disponible) actualizado, sin un **expediente urbano** y sin planeación y gestión para el **logro de compromisos adquiridos**, como partes de **un POT sostenible**, los desastres naturales se multiplicarían.
@@ -21,7 +21,7 @@ Uno de los factores que se identificó en una matriz DOFA del Distrito, es la in
 
 ## Distrito no cumple
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/sin-un-pot-sostenible-la-popa-se-caera-x/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/sin-un-pot-sostenible-la-popa-se-caera-x/hero.jpg)
 
 Como un ejemplo de ello, por iniciativa del concejal de ese entonces, **César Pión González**, el concejo de Cartagena aprobó el **acuerdo No 014 de 2015** mediante el cual se nombró una **Comisión de Seguimiento del Cerro de la Popa**. Diez años después, sigue siendo una venia a la bandera.
 
@@ -31,7 +31,7 @@ En 2021, **VoxPopuli Digital** denunció la tala indiscriminada ordenada por el 
 
 ## La alerta de VoxPopuli con Loma Fresca en 2021
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/sin-un-pot-sostenible-la-popa-se-caera-x/La_Popa_tala_alcaldia-1024x576.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/sin-un-pot-sostenible-la-popa-se-caera-x/La_Popa_tala_alcaldia-1024x576.jpg)
 *VoxPopuli .Digital denunció en el 2021 la tala indiscriminada en La Popa realizada por la alcaldía de William Dau en el sector de Loma Fresca donde se produjo el deslizamiento del 21 de enero de 2025.*
 
 En 2021, **VoxPopuli Digital** publicó en su entrega titulada: (pique) **[_«_Arresto por embustero al alcalde en el Caso La Popa_»_](/articulos/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/)** por desacato de una Acción Popular impulsada por ECOPOPA y coadyuvada por VoxPopuli Digital en el proceso de concientización ciudadana.

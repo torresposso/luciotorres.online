@@ -5,10 +5,10 @@ pubDate: "2019-11-29 14:58:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/el-turco-dau-engano-a-cartagena-esta-inhabilitado/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/el-turco-dau-engano-a-cartagena-esta-inhabilitado/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/el-turco-dau-engano-a-cartagena-esta-inhabilitado/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/el-turco-dau-engano-a-cartagena-esta-inhabilitado/hero.jpg)
 *¡Dau está inhabilitado! Si hay justicia, también caerá. Tomado de Facebook.*
 
 No hay peor ciego que aquel que no quiere ver. Lo dijimos oportunamente, **William _Turco_ Dau es un tractor de mentiras.** Engañó a Cartagena. ¡Dau está inhabilitado! Lo peor, existen evidencias de que su elección _**fue un fraude masivo**_. Además, su **mitomanía patológica** lo hace incompetente para ejercer el cargo de alcalde de Cartagena.

@@ -5,10 +5,10 @@ pubDate: "2021-10-26 00:50:22"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/saab-enfrenta-dos-juicios-simultaneos-en-eu-y-colombia/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/saab-enfrenta-dos-juicios-simultaneos-en-eu-y-colombia/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/saab-enfrenta-dos-juicios-simultaneos-en-eu-y-colombia/alex-saab.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/saab-enfrenta-dos-juicios-simultaneos-en-eu-y-colombia/alex-saab.jpeg)
 *Alex Saab, sometido a juicio en Estados Unidos y Colombia.*
 
 **Alex Naim Saab Morán**, después de aquel día de 2011 cuando fue presentado como un empresario exitoso en una ceremonia binacional de Colombia y Venezuela, nunca se imaginó que 10 años más tarde estuviera en el banco de los acusados.  Hoy, se enfrenta a dos juicios simultáneos. Uno en Estados Unidos que lo inició el pasado 18 de octubre. El otro en su país natal que se inició hoy en la modalidad virtual. En Colombia fue llamado a juicio de extinción de dominio contra sus bienes tomados por la Fiscalía. 

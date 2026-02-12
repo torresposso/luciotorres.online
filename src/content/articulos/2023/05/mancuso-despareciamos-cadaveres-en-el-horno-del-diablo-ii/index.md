@@ -5,10 +5,10 @@ pubDate: "2023-05-12 02:41:04"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/hero.jpg
 ---
 
-![Los generales Rosso José Serrano y Oscar Naranjo comprometidos por Mancuso en el segundo día donde habló del Horno del Diablo. Serrano era el director de la Policía Nacional. Naranjo lo fue después. Últimamente fungió de vicepresidente de la república. El Horno del Diablo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/hero.jpg)
+![Los generales Rosso José Serrano y Oscar Naranjo comprometidos por Mancuso en el segundo día donde habló del Horno del Diablo. Serrano era el director de la Policía Nacional. Naranjo lo fue después. Últimamente fungió de vicepresidente de la república. El Horno del Diablo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/hero.jpg)
 *Los generales Rosso José Serrano y Oscar Naranjo comprometidos por Mancuso en el segundo día donde habló del Horno del Diablo. Serrano era el director de la Policía Nacional. Naranjo lo fue después. Últimamente fungió de vicepresidente de la República.*
 
 **Salvatore Mancuso Gómez**, en el segundo día de la **Audiencia Pública y Única de Aporte de Verdad**, aceptó haber sido bisagra, planificar y ejecutor de acciones de exterminio conjuntas con las Fuerzas Públicas. Reveló que, en 1997, luego de que mataran a dos ciudadanos de Villanueva (Guajira), la Policía lo detuvo junto a **«Jorge 40»**. Pero fueron puestos en libertad al día siguiente gracias a que el comandante de las AUC, **Carlos Castaño** llamó al director de la Policía **Rosso José Serrano** y éste habló con el coronel, en ese entonces, **Oscar Naranjo**, quien ejecutó la orden. Además, reveló que el comandante paramilitar del Frente Fronteras, **Jorge Iván Laverde Zapata**_**, alias**_ ****«**El Iguano»**. utilizó ****«****el **Horno del Diablo»** ante la presión de **las Fuerzas Militares y del alto gobierno a los jefes paramilitares que les exigían desaparecer los cadáveres de sus matanzas.**
@@ -31,7 +31,7 @@ Mientras sucedía ese horror con el patrocinio de las fuerzas públicas, las fue
 
 ## «El Horno del Diablo»
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/Screenshot_20230511_151619_YouTube.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/Screenshot_20230511_151619_YouTube.jpg)
 *Aspecto del segundo día de la Audiencia Única donde Mancuso debe revelar la verdad para ser admitido en la JEP.*
 
 En este segundo día de audiencia, uno podría hacer una cadena de hechos horrorosos con lo dicho por Mancuso en el día de hoy. Pero, el criminal arrepentido trajo a colación el caso del **«Horno del Diablo»** para retratar hasta qué punto estuvieron presionados, dirigidos y manipulados por el alto mando de las Fuerzas Militares. _Los escuadrones de la muerte_ buscaron la forma de deshacerse de los cuerpos de sus víctimas.
@@ -40,7 +40,7 @@ Por ende, esa presión para que los _**paras**_ desaparecieran los muertos, ten�
 
 ## AUC, de pobre a rica y poderosa
 
-![Aquí William Vélez Sierra cuando se salvó del Covid-19. Se enriqueció con las masacres y los desplazamientos forzados, según Mancuso.. El Horno del Diablo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/William-Velez-Sierra.jpg)
+![Aquí William Vélez Sierra cuando se salvó del Covid-19. Se enriqueció con las masacres y los desplazamientos forzados, según Mancuso.. El Horno del Diablo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/William-Velez-Sierra.jpg)
 *Aquí William Vélez Sierra cuando se salvó del Covid-19. Se enriqueció con las masacres y los desplazamientos forzados, según Mancuso.*
 
 ¿Por qué es importante analizar la declaración de Mancuso bajo este contexto? Se demuestra que los altos funcionarios del Estado colombiano fueron ejecutores de una política de exterminio con recursos del Plan Colombia obedeciendo a una estrategia contrainsurgente. Y que grandes empresarios se beneficiaron con el desplazamiento de los propietarios de las tierras, como es el caso de William Vélez Sierra, quien adquirió a precio de despojos, en solo Urabá, según Mancuso, más de 45 mil hectáreas. Al principio las AUC eran pobres, Después se enriquecieron con dineros del Plan Colombia, y del narcotráfico.
@@ -53,7 +53,7 @@ No obstante, la intervención de Mancuso debió centrarse en ejes temáticos com
 
 ## El día que detuvieron a Mancuso y Tovar se iban a reunir con Lopesierra
 
-![¿Salvatore Mancuso y Rodrigo Tovar Pupo se reunieron con Santa Lopesierra? El Horno del Diablo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/Samuel-Santander-Lopezsierra_vieja.jpg)
+![¿Salvatore Mancuso y Rodrigo Tovar Pupo se reunieron con Santa Lopesierra? El Horno del Diablo](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/mancuso-despareciamos-cadaveres-en-el-horno-del-diablo-ii/Samuel-Santander-Lopezsierra_vieja.jpg)
 *¿Salvatore Mancuso y Rodrigo Tovar Pupo se reunieron con Santa Lopesierra?*
 
 Para mostrar el grado de compenetración existente con la Fuerza Pública, Mancuso recordó aquel episodio cuando fueron detenidos en **San Juan del Cesar (Guajira**). Aunque Mancuso no recordó todo el pasaje de su detención, podemos recordar lo que en una oportunidad su guardaespalda alias "Pájaro" le dijo a Verdad Abierta. La detención de **Salvatore Mancuso y Rodrigo Tovar** fue el 4 de mayo de 1997. Parece que tenían como objetivo comprar armas para conformar el grupo en La Guajira. Pensaban reunirse con **Samuel Santander Lópezsierra, ‘el Hombre Marlboro**’.

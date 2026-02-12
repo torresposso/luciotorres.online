@@ -5,10 +5,10 @@ pubDate: "2022-12-06 12:38:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/caida-de-casa-blanca-fin-del-califato-daes-char-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/caida-de-casa-blanca-fin-del-califato-daes-char-i/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/caida-de-casa-blanca-fin-del-califato-daes-char-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/caida-de-casa-blanca-fin-del-califato-daes-char-i/hero.jpg)
 
 Se estremece **«Casa Blanca» del califato Daes—Char en Barranquilla**. El llamamiento a proceso penal por corrupción al electorado de uno de sus más destacados líderes, **el senador Arturo Char** **Chaljub**, hermano de **Alejandro Char** **Chaljub**, será uno de los juicios más espectaculares de esta década. Este proceso podría marcar el inicio del **fin de uno de los imperios políticos** que se ramificó en todas las esferas de **una ciudad que en otrora fuera un remanso de paz**.
 
@@ -16,7 +16,7 @@ Los escombros de **«Casa Blanca»** golpearán a varios parlamentarios de la re
 
 ## ¿Por qué a indagatoria?
 
-![Aida Merlano y el derrumbe del califato. Caída de «Casa Blanca» ¿fin del califato Daes—Char? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/caida-de-casa-blanca-fin-del-califato-daes-char-i/aida-y-sus-dos-maridos.jpg)
+![Aida Merlano y el derrumbe del califato. Caída de «Casa Blanca» ¿fin del califato Daes—Char? ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/caida-de-casa-blanca-fin-del-califato-daes-char-i/aida-y-sus-dos-maridos.jpg)
 *Aida Merlano y el derrumbe del califato. Caída de «Casa Blanca» ¿fin del califato Daes—Char?*
 
 El principal argumento que tuvo el magistrado ponente de la Sala de Instrucción Penal de la CSJ para citar a indagatoria al expresidente del senado, de acuerdo con el expediente citado por la revista Semana en primicia, se refiere a que hizo parte del concierto criminal por el cual fue condenada Aida Merlano.
@@ -77,7 +77,7 @@ Los Daes querían que **Karen Abudinen** fuera quien reemplazara a **Jaime Pumar
 
 ## «Casa Blanca» y Emeterio Montes
 
-![Casa Blanca Bolívar. Aquí con Emeterio Montes quien fuera compañero de fórmula en este departamento.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/caida-de-casa-blanca-fin-del-califato-daes-char-i/aidaemeteriomontes.jpg)
+![Casa Blanca Bolívar. Aquí con Emeterio Montes quien fuera compañero de fórmula en este departamento.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/caida-de-casa-blanca-fin-del-califato-daes-char-i/aidaemeteriomontes.jpg)
 *Casa Blanca Bolívar. Aquí con Emeterio Montes quien fuera compañero de fórmula en este departamento.*
 
 Tal como lo dijo **VoxPopuli Digital** en su momento, en la residencia del patriarca **Fuad Char Abdala tuvo lugar una reunión de alto turmequé en 2017**. Allí, según las fuentes anónimas que participaron en esa cumbre, se definió una estrategia de expansión y consolidación de la alianza política que fortalecería el poder **Daeschariano** en la región Caribe. Vale decir, que a esa reunión fue invitado **Germán Vargas**, candidato presidencial y líder de Cambio Radical en su momento. También estuvieron representantes de los clanes del Atlántico: **los Gerlein, los Name, los Daes**. Por Bolívar asistió **William Montes Medina, exsenador condenado por la parapolítica.**

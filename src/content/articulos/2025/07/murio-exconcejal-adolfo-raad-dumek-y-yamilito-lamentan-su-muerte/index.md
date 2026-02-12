@@ -5,10 +5,10 @@ pubDate: "2025-07-02 03:34:37"
 author: "Lucio"
 categories: ["Ahora","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/murio-exconcejal-adolfo-raad-dumek-y-yamilito-lamentan-su-muerte/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/murio-exconcejal-adolfo-raad-dumek-y-yamilito-lamentan-su-muerte/hero.jpg
 ---
 
-![Murió exconcejal Adolfo Raad. Dumek y Yamilito lamentan su muerte](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/murio-exconcejal-adolfo-raad-dumek-y-yamilito-lamentan-su-muerte/hero.jpg)
+![Murió exconcejal Adolfo Raad. Dumek y Yamilito lamentan su muerte](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/murio-exconcejal-adolfo-raad-dumek-y-yamilito-lamentan-su-muerte/hero.jpg)
 *Murió exconcejal Adolfo Raad. Dumek y Yamilito lamentan su muerte*
 
 La última vez que conversé con **Adolfo Raad Hernández**, 72 años, fue hace varios meses. Lo invité a tomar un café en Bocagrande para hablar de política. Pero se disculpó, porque no podía tomar café sino té. ¡Vaya dilema!

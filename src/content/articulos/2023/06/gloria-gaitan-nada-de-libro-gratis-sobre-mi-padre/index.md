@@ -5,10 +5,10 @@ pubDate: "2023-06-24 21:50:09"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/gloria-gaitan-nada-de-libro-gratis-sobre-mi-padre/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/gloria-gaitan-nada-de-libro-gratis-sobre-mi-padre/hero.jpg
 ---
 
-![Jornada fue un ejemplo de autogestión de masas. Sus suscriptores permitieron comprar las mejores rotativas de Bogotá. La gente lo compraba ávidamente. /Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/gloria-gaitan-nada-de-libro-gratis-sobre-mi-padre/hero.jpg)
+![Jornada fue un ejemplo de autogestión de masas. Sus suscriptores permitieron comprar las mejores rotativas de Bogotá. La gente lo compraba ávidamente. /Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/gloria-gaitan-nada-de-libro-gratis-sobre-mi-padre/hero.jpg)
 *Jornada fue un ejemplo de autogestión de masas. Sus suscriptores permitieron comprar las mejores rotativas de Bogotá. La gente lo compraba ávidamente. /Cortesía.*
 
 Pareciera paradójica la oposición de **Gloria Gaitán** para que no se entregue el libro gratis sobre su padre, **Jorge Eliécer Gaitán Ayala**. Los caraqueños propusieron editar el libro biográfico, pero con la condición de que se regalara a los ciudadanos venezolanos, siguiendo los preceptos del comandante Hugo Chávez **sobre la gratuidad**. Para la hija del caudillo popular, tal hecho sería una afrenta al pensamiento gaitanista y un golpe a la cultura participativa comprometida.
@@ -48,7 +48,7 @@ Si bien, esa canción lleva la situación a un extremo, es simplemente para refl
 
 ## Libro gratis y autogestión
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/gloria-gaitan-nada-de-libro-gratis-sobre-mi-padre/jorge-eliecer-gaitan.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/gloria-gaitan-nada-de-libro-gratis-sobre-mi-padre/jorge-eliecer-gaitan.jpeg)
 
 El criterio de Gaitán es la autogestión económica. Él fue un ejemplo de ello. Aunque reiteraba que la economía inexorablemente debe estar al servicio de la humanidad. Vivir sabroso no porque el Estado le dé todo. Vivir sabroso, porque el Estado debe garantizar las condiciones para que se construya una **economía autogestionaria**. En esta economía el centro de la **producción, la distribución y el consumo** es el humano. Propugnaba por una economía que estuviese al servicio del ser humano y no lo contrario. La autogestión también significa libertad, porque si no somos libres económicamente, no podríamos construir un futuro mejor para nuestra nación.
 
@@ -58,7 +58,7 @@ La pregunta inevitable es si estamos preparados para propiciar una economía aut
 
 ## Cultura participativa comprometida
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/gloria-gaitan-nada-de-libro-gratis-sobre-mi-padre/Gloria-con-Gaitan.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/gloria-gaitan-nada-de-libro-gratis-sobre-mi-padre/Gloria-con-Gaitan.jpeg)
 
 Nada de libros gratis. Si tu regalas un libro a una persona que no lo desea y que no es lectora, nunca lo leerá. Si aplicamos la ley de Pareto, se lo das a 100 ciudadanos, solo el 20% lo podría leer. Botaste los otros 80. Pero lo más grave es que en nada contribuyes para lograr que esas 100 personas cambien de mentalidad sobre la necesidad de trabajar por su metas y su superación personal.
 

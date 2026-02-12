@@ -5,10 +5,10 @@ pubDate: "2024-02-13 21:33:45"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/interinidad-de-la-fiscalia-demanda-de-inconstitucionalidad-y-tutela-contra-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/interinidad-de-la-fiscalia-demanda-de-inconstitucionalidad-y-tutela-contra-i/hero.jpg
 ---
 
-![Interinidad de la fiscalía: Demanda de inconstitucionalidad y tutela contra ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/interinidad-de-la-fiscalia-demanda-de-inconstitucionalidad-y-tutela-contra-i/hero.jpg)
+![Interinidad de la fiscalía: Demanda de inconstitucionalidad y tutela contra ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/interinidad-de-la-fiscalia-demanda-de-inconstitucionalidad-y-tutela-contra-i/hero.jpg)
 *Nixon Torres Cárcamo, constitucionalista y veedor, demandante ante la Corte Constitucional./Voxpopuli.Digital*
 
 Una demanda de inconstitucionalidad y tutela, respectivamente, se convirtieron en dos ataques jurídicos **contra la interinidad de la Fiscalía General de la Nación**, asumida desde hoy y en forma indefinida por la vicefiscal **Martha Mancera**. Es la _otra guerra_ no declarada entre el **poder judicial y ejecutivo**, pero desde la sociedad civil.

@@ -5,10 +5,10 @@ pubDate: "2023-12-08 15:45:11"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 tags: ["Cachenche","Daniel Rojas Medellín","Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/por-que-los-campesinos-gritaron-en-cachenche-petro-petro-petro/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/por-que-los-campesinos-gritaron-en-cachenche-petro-petro-petro/hero.jpg
 ---
 
-![El presidente de la Asociación Campesina Montes de Dios, Enaldo Tovar, en diálogo con VoxPopuli Digital. Fueron cuatro años de una lucha justa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/por-que-los-campesinos-gritaron-en-cachenche-petro-petro-petro/hero.jpg)
+![El presidente de la Asociación Campesina Montes de Dios, Enaldo Tovar, en diálogo con VoxPopuli Digital. Fueron cuatro años de una lucha justa.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/por-que-los-campesinos-gritaron-en-cachenche-petro-petro-petro/hero.jpg)
 *El presidente de la Asociación Campesina Montes de Dios, Enaldo Tovar, en diálogo con VoxPopuli Digital. Fueron cuatro años de una lucha justa por Cachenche.*
 
 Son 350 campesinos que se beneficiarán directamente con la finca Cachenche adjudicada esta semana por la **Sociedad de Activos Especiales—SAE** a la **Asociación Campesina Montes de Dios**. Finca donde ellos producen papaya, yuca, ñame, ahuyama, mafufo, plátano y melón. Los mismos campesinos que gritaron el pasado 6 de diciembre de 2023:
@@ -39,7 +39,7 @@ Te puede interesar: [SAE desalojará campesinos de Cachenche en contravía de tu
 
 ## VoxPopuli y Cachenche
 
-![Daniel Rojas Medellín, presidente de la SAE disfrutó el final feliz con los campesinos de Cachenche.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/por-que-los-campesinos-gritaron-en-cachenche-petro-petro-petro/Cachenche_.jpg)
+![Daniel Rojas Medellín, presidente de la SAE disfrutó el final feliz con los campesinos de Cachenche.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/por-que-los-campesinos-gritaron-en-cachenche-petro-petro-petro/Cachenche_.jpg)
 *Daniel Rojas Medellín, presidente de la SAE disfrutó el final feliz con los campesinos de Cachenche.*
 
 Sin perder nuestra objetividad y transparencia sobre la realidad, **VoxPopuli Digital** acompañó el proceso de recuperación de Cachenche así como se hizo con el proyecto del Canal del Dique donde no se tuvo la misma suerte. Hubo tres motivaciones para ese acompañamiento. La primera, se consideró una **causa justa para los intereses colectivos de campesinos organizados**. La segunda, se prometía una **productividad campesina** dentro del concepto de **desarrollo sostenible**. La tercera, ofrecía la oportunidad de poner en marcha un proyecto de **soberanía alimentaria** para la subregión.

@@ -5,10 +5,10 @@ pubDate: "2019-03-08 02:42:31"
 author: "Lucio"
 categories: ["Crónica","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/surgen-nuevas-hipotesis-del-crimen-en-casa-alario-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/03/surgen-nuevas-hipotesis-del-crimen-en-casa-alario-i/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/surgen-nuevas-hipotesis-del-crimen-en-casa-alario-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/03/surgen-nuevas-hipotesis-del-crimen-en-casa-alario-i/hero.jpg)
 *Nuevas hipótesis de la muerte de Vicky surgen hoy. Ella era alegre. Cortesía.*
 
 En el atardecer momposino del 13 de enero de 2019 no había huéspedes en el hostal **«Casa Alario», ubicado en todo el corazón del centro histórico.** Pero ese día, **María Victoria del Río Quintana**, la anfitriona, había recibido la visita de un joven que había estado internado en **Asomenores**. Casi dos meses después, surgen **nuevas hipótesis de la muerte,** de las circunstancias, tiempo y modo del hecho que conmovió a la **Ciudad Valerosa.**
@@ -47,7 +47,7 @@ Por su parte, la **Fiscalía 41 seccional de Mompox**, pareciera que no ha avanz
 
 Dos meses después, este periodista puede establecer nuevas hipótesis de la muerte de Vicky, incipiente empresaria hotelera. Uno de sus hijos le hizo la propuesta de montar el hostal en la casa colonial heredada por su padre, **Angello Alario Bello** (médico internista). Vicky se había separado de su esposo hace 17 años. **Alario Bello** convive en pareja con **Katia Gazabón.** Cuando el negocio del hostal iba muy bien, surgieron algunos inconvenientes con la pareja. Y últimamente uno de los elementos de la discordia era el hostal.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/surgen-nuevas-hipotesis-del-crimen-en-casa-alario-i/Angelo_Alario_Bello.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/03/surgen-nuevas-hipotesis-del-crimen-en-casa-alario-i/Angelo_Alario_Bello.jpg)
 *Angello Alario Bello, el exposo de Vicky, y heredero de la vieja casona donde funcionaba el hostal «Casa Alario». Cortesía de Facebook.*
 
 Vicky no tenía necesidad de irse a Mompóx, pero se entusiasmó con la propuesta de su hijo de emprender el negocio de hotelería. Ella heredó en vida unas tierras en la zona norte de Cartagena que su mamá le entregó. Fueron 20 hectáreas que recibió. También heredó de su padre varios apartamentos. Por esta razón no reclamó la casa de P**lan Pareja de Turbaco** que había adquirido por $95 millones. Se la dejó a su exmarido Alario Bello, quien, me dicen personas conocidas, vive en la casa con Katia, su mujer de ahora.
@@ -58,7 +58,7 @@ En agosto de 2018 ya estaban recibiendo huéspedes, un mes después de haber emp
 
 ## El día del crimen
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/03/surgen-nuevas-hipotesis-del-crimen-en-casa-alario-i/vicky-y-madre.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/03/surgen-nuevas-hipotesis-del-crimen-en-casa-alario-i/vicky-y-madre.jpg)
 *En el último cumpleaños de Vicky del Rio al lado de su madre Adelina Quintana. !Era feliz!*
 
 El 13 de enero, día del crimen, Vicky llamó a su mamá a las 5:30 de la tarde.

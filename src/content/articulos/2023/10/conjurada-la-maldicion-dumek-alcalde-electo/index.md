@@ -5,10 +5,10 @@ pubDate: "2023-10-30 04:22:48"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/conjurada-la-maldicion-dumek-alcalde-electo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/conjurada-la-maldicion-dumek-alcalde-electo/hero.jpg
 ---
 
-![Dumek Turbay, su esposa Liliana Majana y sus hijos. ¡Conjurada la maldición!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/conjurada-la-maldicion-dumek-alcalde-electo/hero.jpg)
+![Dumek Turbay, su esposa Liliana Majana y sus hijos. ¡Conjurada la maldición!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/conjurada-la-maldicion-dumek-alcalde-electo/hero.jpg)
 *Dumek Turbay, su esposa Liliana Majana y sus hijos. ¡Conjurada la maldición!Cortesía.*
 
 ¡Se acabó la improvisación! También la estupidez hecha pasta en Cartagena. **¡Dumek, alcalde electo**! ¡Conjurada la maldición! Su triunfo fue contundente e inobjetable. Dejó atrás todas las encuestas y alcanzó una cifra cercana al 43% de los resultados electorales de una ciudad sumida en el caos, el desgobierno y la inmoralidad político-administrativa. Ahora, Dumek Turbay tiene el reto de superar con creces la mala obra del _**Tractor**_ que se convirtió en una _**carretilla desguañangada**_ y en una pesadilla a lo _Fredy Kruger_.
@@ -21,7 +21,7 @@ Tomando en cuenta los últimos resultados emitidos por la Registraduría Naciona
 
 ## ¡Conjurada la maldición! Estos son los resultados.
 
-![William García decepcionó. Turbay triplica a su segundo, Javier Julio Bejarano y quintuplica a Maríamulata. No hubo tercería. ¡Conjurada la maldición!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/conjurada-la-maldicion-dumek-alcalde-electo/Dumek_resultados_ultimoBoletin.jpg)
+![William García decepcionó. Turbay triplica a su segundo, Javier Julio Bejarano y quintuplica a Maríamulata. No hubo tercería. ¡Conjurada la maldición!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/conjurada-la-maldicion-dumek-alcalde-electo/Dumek_resultados_ultimoBoletin.jpg)
 *William García decepcionó. Turbay triplica a su segundo, Javier Julio Bejarano y quintuplica a Maríamulata. No hubo tercería.*
 
 ¡Conjurada la maldición! El pasado 8 de octubre publicamos un artículo que prendió las alarmas en la campaña de Dumek Turbay. Desde hacía 16 años ninguno de los candidatos de las maquinarias había triunfado pese a lo que indicaban las encuestas. Le sucedió a **Juan Carlos Gossaín** en 2007, a la difunta María del **Socorro Bustamente** en dos oportunidades y a William García hace 4 años.
@@ -42,7 +42,7 @@ Además, como si fuera una carrera ciclística, dejó regados a sus rivales. Tri
 
 ## El reto de Dumek
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/conjurada-la-maldicion-dumek-alcalde-electo/Los-abrazos-del-triunfo.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/conjurada-la-maldicion-dumek-alcalde-electo/Los-abrazos-del-triunfo.jpg)
 *En Blas de Lezo, barrio obrero, donde nació la ilusión del triunfo, recibió el agradecimiento del triunfador. Aquí el veedor David López abraza a Dumek.*
 
 Después de agradecer a Dios y a su familia, su esposa **Liliana Majana** y a sus hijos, Dumek dijo que asumirá el reto que deberá enfrentar los próximos 4 años. El alcalde electo dijo en su breve discurso que el reto es asumir los grandes desafíos en materia de desarrollo económico y social que enfrenta nuestra amada Cartagena:

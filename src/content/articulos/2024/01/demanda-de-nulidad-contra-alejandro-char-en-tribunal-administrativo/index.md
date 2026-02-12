@@ -5,10 +5,10 @@ pubDate: "2024-01-22 02:36:23"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/hero.jpg
 ---
 
-![Demanda de nulidad contra Alejandro Char  en Tribunal Administrativo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/Alejandro-char_posesion-fuad.jpeg)
+![Demanda de nulidad contra Alejandro Char  en Tribunal Administrativo](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/Alejandro-char_posesion-fuad.jpeg)
 *Demanda de nulidad contra Alejandro Char en Tribunal Administrativo. /Alcaldía de Baranquilla.*
 
 Un demanda de nulidad contra la elección del alcalde de Barranquilla, **Alejandro Char Chaljub**, se radicó ante el **Tribunal Administrativo del Atlántico**. Esta acción electoral se presentó como ciudadano y defensor de los derechos humanos de la humanidad. Se busca que la autoridad judicial declare la **nulidad del fallo del Consejo Nacional Electoral (CNE) que habilitó su candidatura**.
@@ -23,7 +23,7 @@ El Distrito de Barranquilla le hizo un préstamo a Serfinanza pignorando sus ing
 
 ## Un alcalde inhabilitado desde su primera elección
 
-![Demanda de nulidad contra Alejandro Char por tramposo. Usa el junior y los carnavales para mantener dormida a la población barranquillera./Alcaldía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/hero.jpg)
+![Demanda de nulidad contra Alejandro Char por tramposo. Usa el junior y los carnavales para mantener dormida a la población barranquillera./Alcaldía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/hero.jpg)
 *Demanda de nulidad contra Alejandro Char por tramposo. Usa el junior y los carnavales para mantener dormida a la población barranquillera./Alcaldía.*
 
 **El segundo hecho.** Una parte de los $93 mil millones girado por la nación para ese fondo, por cualquier razón, fueron girados a cuentas de Serfinanza. En el último año de la administración de Jaime Pumarejo se abrieron varias cuentas fantasmas en el Banco de los Char con el fin de administrar esos dineros. El hecho se destapó cuando el 7 de septiembre el Ministerio de hacienda y Crédito Público giró la suma de $26.286 millones. En forma extraña esos dineros llegaron a una cuenta de ahorro de Serfinanza que estaba embargada por **Consorcio Grandes Proyectos** donde hacía parte algunos amigos de Alejandro Char.
@@ -34,7 +34,7 @@ Es decir, en su tercera administración, Alejandro Char encontró una verdadera 
 
 ## Caso Junior
 
-![¿Cuánto cuesta Carlos Bacca? El capital del junior representa $500 millones. No le pagan un solo peso al Distrito de Barranquilla por el uso del estadio metropolitano. Son empresarios tramposos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/Junio_Bacca_gol-1024x707.jpg)
+![¿Cuánto cuesta Carlos Bacca? El capital del junior representa $500 millones. No le pagan un solo peso al Distrito de Barranquilla por el uso del estadio metropolitano. Son empresarios tramposos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/Junio_Bacca_gol-1024x707.jpg)
 *¿Cuánto cuesta Carlos Bacca? El capital del junior representa $500 millones. No le pagan un solo peso al Distrito de Barranquilla por el uso del estadio metropolitano. Son empresarios tramposos.*
 
 Ninguno de los clubes deportivos profesionales de Barranquilla pagan por el usufructo de los escenarios deportivos creados para el deportes y la recreación pública. Todos están al servicio exclusivo de esas **empresas deportivas** que generan a sus dueños altas ganancias sin que la ciudad se beneficie.
@@ -63,7 +63,7 @@ El 29 de septiembre de 2023, se presentó ante el CNE una solicitud de revocator
 
 Por esa razón, la demanda de nulidad pretende que se declare la nulidad de la **Resolución No 13709** de 2023 del 19 de octubre de 2023, por la cual el CNE negó la solicitud de revocatoria de la inscripción del candidato de Cambio Radical, **Alejandro Char Chaljub**.
 
-![La demanda contra la elección de Alejandro Char fue trasladada el 19 de enero al Tribunal Administrativo del Atlántico.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/Demanda_identificada-1024x481.jpg)
+![La demanda contra la elección de Alejandro Char fue trasladada el 19 de enero al Tribunal Administrativo del Atlántico.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/demanda-de-nulidad-contra-alejandro-char-en-tribunal-administrativo/Demanda_identificada-1024x481.jpg)
 *La demanda contra la elección de Alejandro Char fue trasladada el 19 de enero al Tribunal Administrativo del Atlántico. Captura de pantalla del traslado.*
 
 ## Declarar nula la elección de Char

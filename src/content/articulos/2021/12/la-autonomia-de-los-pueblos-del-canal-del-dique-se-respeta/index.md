@@ -5,17 +5,17 @@ pubDate: "2021-12-05 23:52:04"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/la-autonomia-de-los-pueblos-del-canal-del-dique-se-respeta/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/la-autonomia-de-los-pueblos-del-canal-del-dique-se-respeta/hero.jpg
 ---
 
-![Julian Gallo (Carlos Lozada)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/la-autonomia-de-los-pueblos-del-canal-del-dique-se-respeta/hero.jpg)
+![Julian Gallo (Carlos Lozada)](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/la-autonomia-de-los-pueblos-del-canal-del-dique-se-respeta/hero.jpg)
 *Julián Gallo (Carlos Lozada), en nombre de la Comisión I del Congreso, presidió la audiencia del 4 de diciembre de 2019. Cortesía.*
 
 Inconformismo y malestar despertó la forma inconsulta, arbitraria y autoritaria cómo el honorable senador del partido Fuerza Alternativa y Revolucionaria de Colombia (FARC), **Julián Gallo**, conocido con el nombre de guerra **Carlos Lozada,** organizó una audiencia pública sin haber consultado con las bases y representantes de las comunidades del Ecosistema Canal del Dique.
 
 La audiencia se convocó por encima de las organizaciones de base que vienen impulsando la lucha por los derechos colectivos y a la vida de los 150 mil habitantes de este Ecosistema.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/la-autonomia-de-los-pueblos-del-canal-del-dique-se-respeta/IMG-20211205-WA0248.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/la-autonomia-de-los-pueblos-del-canal-del-dique-se-respeta/IMG-20211205-WA0248.jpg)
 *El abogado Héctor Pérez expuso el problema que se vive con la finca Cachenche, intervenida por la SAE pero está en posesión de 200 familias de campesinos de Ceballos.*
 
 El evento se hizo por encima de las organizaciones que vienen impulsando la lucha por los derechos colectivos y a la vida de esas poblaciones, aseguró Adil Meléndez, abogado defensor de los derechos humanos.
@@ -24,7 +24,7 @@ De esa manera, históricamente se ha demostrado que esas prácticas autoritarias
 
 ## Comunicado
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/12/la-autonomia-de-los-pueblos-del-canal-del-dique-se-respeta/IMG-20211205-WA0240.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/la-autonomia-de-los-pueblos-del-canal-del-dique-se-respeta/IMG-20211205-WA0240.jpg)
 
 La Alianza para la Defensa y Desarrollo del Territorio del Ecosistema Canal del Dique, en un comunicado difundido este 4 de diciembre de 2021, fecha de la audiencia, señaló:
 

@@ -5,10 +5,10 @@ pubDate: "2023-06-12 20:38:17"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tension-miedo-y-despojo-secular-en-baru/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/tension-miedo-y-despojo-secular-en-baru/hero.jpg
 ---
 
-![Tensión, miedo y despojo secular en Barú /Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tension-miedo-y-despojo-secular-en-baru/hero.jpg)
+![Tensión, miedo y despojo secular en Barú /Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/tension-miedo-y-despojo-secular-en-baru/hero.jpg)
 *Tensión, miedo y despojo secular en Barú /Cortesía.*
 
 En Barú, no pasa una semana sin que se produzca algún brote de violencia relacionado con el despojo secular en esta isla, jurisdicción de Cartagena. Es una violencia asociada a la tenencia de la tierra que viene creciendo en forma incontrolada, denuncian abogados representantes de **víctimas del despojo secular**. Además de hacerle un llamado a las autoridades nacionales, solicitan una intervención masiva de todas las instituciones del Estado relacionadas con la tierra y el desarrollo económico y social. Ahora más que nunca cuando el exjefe paramilitar **Salvatore Mancuso reconoció ante la JEP** el papel financiador de la empresa Bavaria que fue de los Santo Domingo. Son varios focos de esa conflictividad que está creciendo como una caldera, ya que el microtráfico y el narcotráfico vienen acrecentando los hechos violentos.
@@ -19,7 +19,7 @@ Sin embargo, no hay control de las inspecciones de policía ni tampoco de las au
 
 ## Los orígenes del despojo secular
 
-![Esta es un acta de declaración jurada ante la Notaria Cuata del Circuito de Cartagena, Evelia Ayazo de Mendivil, usada para el proceso de prescripción adquisitiva en 1994 de uno de los predios. Así se produjo el despojo secular de Barú.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tension-miedo-y-despojo-secular-en-baru/Baru_prescripcion.jpg)
+![Esta es un acta de declaración jurada ante la Notaria Cuata del Circuito de Cartagena, Evelia Ayazo de Mendivil, usada para el proceso de prescripción adquisitiva en 1994 de uno de los predios. Así se produjo el despojo secular de Barú.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/tension-miedo-y-despojo-secular-en-baru/Baru_prescripcion.jpg)
 *Esta es un acta de declaración jurada ante la Notaria Cuarta del Circuito de Cartagena, Evelia Ayazo de Mendivil, usada para el proceso de prescripción adquisitiva en 1994 de uno de los predios. Así se produjo el despojo secular de Barú.*
 
 El modelo de desarrollo que llegó a la zona insular ―específicamente en Barú― fue por la vía del despojo. Un sistema ya conocido en la historia colombiana. Pero, de acuerdo con las evidencias que se muestran en esta serie, obedece a un modelo económico que denominamos en la primera entrega como neocolonialismo. Es una forma de economía de enclave que avanza en medio de la pobreza material y mental de los nativos. Por tanto, es un modelo de desarrollo alienante y despojador del territorio como forma cultural y espacio de vida de los pobladores tradicionales.
@@ -48,7 +48,7 @@ Recordemos que a esa casa de Julio Mario Santo Domingo llegaban personajes del J
 
 ## Mancuso y los Santo Domingo
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tension-miedo-y-despojo-secular-en-baru/mancuso_4dia_audiencia.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/tension-miedo-y-despojo-secular-en-baru/mancuso_4dia_audiencia.jpg)
 *Salvatore Mancuso admitió que el grupo Bavaria, de los Santo Domingo, financió los escuadrones de la muerte.*
 
 En el segundo día de la audiencia única del exjefe paramilitar Salvatore Mancuso dijo que el grupo Santo Domingo apoyó a los escuadrones de la muerte por la vía de "impuestos" sobre la venta de cervezas y otros productos de Bavaria. El dinero los pagaban los distribuidores a los jefes paramilitares.
@@ -59,7 +59,7 @@ Pero lo que preocupa ahora a los nativos y, en especial, a los reclamantes de la
 
 ## La pista abandonada ¿legal o clandestina?
 
-![Así aparece en el Registro de Tradición la referencia catastral  del predio Cabecera de la Pista. Despojo Secular de Barú.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tension-miedo-y-despojo-secular-en-baru/Baru_Cabecera_catastral.jpg)
+![Así aparece en el Registro de Tradición la referencia catastral  del predio Cabecera de la Pista. Despojo Secular de Barú.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/tension-miedo-y-despojo-secular-en-baru/Baru_Cabecera_catastral.jpg)
 *Así aparece en el Registro de Tradición la referencia catastral del predio Cabecera de la Pista. con matricula 060-162664 Despojo Secular de Barú.*
 
 En el predio **Punta Seca**, que pertenece a los hermanos **Sixto y Lucas Evangelista Girado**, los nativos tienen un recuerdo en su memoria colectiva. En los años 60 se construyó una pista en el predio llamado **Cabecera de la Pista**, cuyos propietarios son Hernán, Elkin y Norman Echavarría Olózaga. **Hernán Echavarría Olózaga**, fallecido, padre de **Gabriel Echavarría Obregón**, quien ejerce el dominio de esos predios. Los Girado para llegar a su propiedad, necesariamente debían cruzar la pista. En algunos ocasiones tuvieron problemas debido a la vigilancia armada que existía en esa lote. Allí aterrizaban aeronaves. Se indicó que algunas pertenecían a la familia Santo Domingo, específicamente de la empresa Bavaria. Los nativos recuerdan que en una avioneta de ellas siempre llegaba Pablo Obregón González.
@@ -70,7 +70,7 @@ Sobre la existencia de esa pista aérea, los que aparecen como propietarios le d
 
 ## Los focos de corrupción el despojo secular
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/tension-miedo-y-despojo-secular-en-baru/Baru_encapuchados_vigilantes.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/tension-miedo-y-despojo-secular-en-baru/Baru_encapuchados_vigilantes.jpg)
 *Vigilantes armados encapuchados custodian los predios de los Echavarría.*
 
 El abogado y veedor, **Erick Urueta Benavides**, por su parte, presentó una denuncia ante la **Corte Suprema de Justicia contra la procuradora general Margarita Cabello**. Según el veedor, la funcionaria prejuzgó cuando calificó a los nativos reclamantes de invasores. La denuncia presenta una relación de hechos y acciones jurídicas interpuestas contra funcionarios de la Oficina de Registro de Instrumentos Públicos, IGAC, y GO Catastral. Presuntamente aperturaron ilícitamente folios de matrícula y referencias catastrales en la tierras que pertenecen a la Hacienda Santa Ana en la Isla de Barú. Los nativos se consideran **propietarios común y pro indiviso**. En tanto que los herederos de los 94 colonos que adquirieron mediante escritura pública número **129 del 12 de mayo1887**, se consideran los legítimos dueños.

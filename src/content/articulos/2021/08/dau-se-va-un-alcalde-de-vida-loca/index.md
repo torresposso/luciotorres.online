@@ -5,10 +5,10 @@ pubDate: "2021-08-07 20:51:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/dau-se-va-un-alcalde-de-vida-loca/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/dau-se-va-un-alcalde-de-vida-loca/hero.jpg
 ---
 
-![Un alcalde de vida loca, La revocatoria va en serio.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/dau-se-va-un-alcalde-de-vida-loca/hero.jpg)
+![Un alcalde de vida loca, La revocatoria va en serio.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/dau-se-va-un-alcalde-de-vida-loca/hero.jpg)
 *Un alcalde de vida loca. La revocatoria va en serio.*
 
 Este 7 de agosto, la gente que se movilizó contra este gobierno inútil e incapaz pidió su revocatoria. Los dos comités de Revocatoria se unieron. Los demás comités ciudadanos, como en el barrio tradicional de Manga, salieron a protestar espontáneamente contra este nefasto gobierno que se presentó como salvador de la corrupción. Muchos comenzaron firmar la revocatoria. En esta ocasión los cartageneros se pronuncian contra **William Dau Chamat**, un alcalde que resultó más malandrín que los que les precedieron. **No tiene ningún resultado positivo que destacar.**
@@ -23,7 +23,7 @@ Pero la **«vida loca»** del alcalde **William Dau Chamat** le puso su impronta
 
 Ninguna dependencia del Distrito de Cartagena sabe lo que hace. Educación, Tránsito, Corvivienda, Valorización, Edurbe, Transcaribe, Salud, andan en el mundo de los conejos. Y el alcalde sigue en su vida loca. El año pasado se _fumó_ el presupuesto en órdenes de prestación de servicios. Este año del 2021, está haciendo lo mismo. ¿Qué esperamos para salir de esta mediocridad? Los promotores de esta protesta tienen una respuesta: ¡Firma ya!
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/dau-se-va-un-alcalde-de-vida-loca/DAU-Y-EL-GENERAL.png)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/dau-se-va-un-alcalde-de-vida-loca/DAU-Y-EL-GENERAL.png)
 *Este alcalde tiene dos coroneles y un general en su administración y Cartagena tiene la peor crisis de seguridad de los últimos años. Aquí aparece con el comandante de la MECAR.*
 
 ## Democracia participativa

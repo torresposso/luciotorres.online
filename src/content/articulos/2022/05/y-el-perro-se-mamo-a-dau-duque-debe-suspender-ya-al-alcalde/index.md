@@ -5,10 +5,10 @@ pubDate: "2022-05-29 03:59:02"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/y-el-perro-se-mamo-a-dau-duque-debe-suspender-ya-al-alcalde/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/y-el-perro-se-mamo-a-dau-duque-debe-suspender-ya-al-alcalde/hero.jpg
 ---
 
-![y el perro se mamó a Dau](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/y-el-perro-se-mamo-a-dau-duque-debe-suspender-ya-al-alcalde/hero.jpg)
+![y el perro se mamó a Dau](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/y-el-perro-se-mamo-a-dau-duque-debe-suspender-ya-al-alcalde/hero.jpg)
 *y el perro se mamó a Dau*
 
 ... «y el perro se mamó a Dau». Es la expresión cartagenera que hoy circula en cualquier barrio de la ciudad. ¿Duque suspenderá al alcalde Dau por caso de corrupción? Sin duda, como nominador del cargo, el presidente de la República no tiene alternativa. **La orden se debe cumplir en forma inmediata**. A lo sumo, en una semana debe resolver esa exigencia de suspensión provisional del alcalde de Cartagena **William Dau Chamat**. 

@@ -5,10 +5,10 @@ pubDate: "2022-07-21 21:41:50"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/betto-el-legado-de-abudinen-para-rifarse-83-billones-anuales/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/betto-el-legado-de-abudinen-para-rifarse-83-billones-anuales/hero.jpg
 ---
 
-![¿BETTO, el legado de Abudinen para rifarse el dinero de los niños más pobres de Colombia?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/betto-el-legado-de-abudinen-para-rifarse-83-billones-anuales/hero.jpg)
+![¿BETTO, el legado de Abudinen para rifarse el dinero de los niños más pobres de Colombia?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/betto-el-legado-de-abudinen-para-rifarse-83-billones-anuales/hero.jpg)
 *¿BETTO, el legado de Abudinen para rifarse el dinero de los niños más pobres de Colombia?*
 
 ¿**Es el Betto el legado de Abudinen para rifarse $8,3 billones anuales? Es la lotería más grande** de Colombia para despedazar el presupuesto de la niñez y la adolescencia. En el Instituto Colombiano de Bienestar Familiar-ICBF están corriendo para cerrar la contratación general antes de que entre el nuevo gobierno de **Gustavo Petro**. Esta correndilla se percibe más en las regionales del Caribe, especialmente Atlántico y Bolívar. Es la percepción de la peor corrupción de esa institución.
@@ -55,7 +55,7 @@ Con esa reforma constitucional del 2007, Uribe logró tres cosas que hoy estamos
 
 ## Próxima entrega: Caso Bolívar y Sucre
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/betto-el-legado-de-abudinen-para-rifarse-83-billones-anuales/ICBF-Calamar.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/betto-el-legado-de-abudinen-para-rifarse-83-billones-anuales/ICBF-Calamar.jpg)
 *¿El legado de Abudinen? Jair Caro, de Corpolucha, es el abogado que está tras las presuntas irregularidades en el ICBF regional Bolívar.*
 
 Vamos a hacer un estudio de caso. Miraremos la contratación de Bolívar. Buscaremos identificar los políticos que están tras bambalina. Se ampliarán las denuncias con nuevas evidencias ante la Fiscalía, la Procuraduría, la Contraloría y buscaremos el acompañamiento de la Defensoría del Pueblo.

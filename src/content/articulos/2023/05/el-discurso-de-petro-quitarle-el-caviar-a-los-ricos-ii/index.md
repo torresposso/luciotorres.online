@@ -5,10 +5,10 @@ pubDate: "2023-05-09 01:57:31"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-discurso-de-petro-quitarle-el-caviar-a-los-ricos-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/el-discurso-de-petro-quitarle-el-caviar-a-los-ricos-ii/hero.jpg
 ---
 
-![¿Quitarle el caviar a los ricos?/Foto presidencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-discurso-de-petro-quitarle-el-caviar-a-los-ricos-ii/hero.jpg)
+![¿Quitarle el caviar a los ricos?/Foto presidencia.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/el-discurso-de-petro-quitarle-el-caviar-a-los-ricos-ii/hero.jpg)
 *¿Quitarle el caviar a los ricos? ¿Petro se está quedando solo?/Foto presidencia.*
 
 Quitarle el **_caviar a los ricos_** es un discurso que despierta las fibras de los trabajadores y de los desposeídos. Un discurso que hipnotiza y moviliza a las masas. El presidente lo sabe y lo utiliza como si fuera un mago. Pero, al mismo tiempo, **Petro no ejerce el poder conferido por una elección legítima privilegiando un gobierno compartido** que le da continuidad al sistema dominante. Esto es un fracaso total para alcanzar los objetivos del cambio que prometió: eliminar los factores de pobreza y desigualdad reinantes.
@@ -35,7 +35,7 @@ El discurso de Gustavo Petro no se correlaciona con lo que hace. Es decir, con s
 
 ## Quitarle el caviar a los ricos
 
-![Jorge Eliécer Gaitán dijo que la revolución se hará no para quitarle el caviar a los ricos sino para facilitárselo a todos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/05/el-discurso-de-petro-quitarle-el-caviar-a-los-ricos-ii/Petro_gaitan_gloria.jpg)
+![Jorge Eliécer Gaitán dijo que la revolución se hará no para quitarle el caviar a los ricos sino para facilitárselo a todos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/el-discurso-de-petro-quitarle-el-caviar-a-los-ricos-ii/Petro_gaitan_gloria.jpg)
 *Jorge Eliécer Gaitán dijo que la revolución se hará no para quitarle el caviar a los ricos sino para facilitárselo a todos.*
 
 La primera vez que disfruté un plato de caviar fue preparado por **Gloria Gaitán**, la hija del caudillo popular **Jorge Eliécer Gaitán**. Lo disfrutamos en su casa del norte de Bogotá mientras hablamos de cualquiera de los temas que domina esta gran mujer. No sé si el caviar estaba rociado de vodka, pero tenía un toque caribeño que se complementaba con una jaiba.

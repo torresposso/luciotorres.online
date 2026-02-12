@@ -5,10 +5,10 @@ pubDate: "2023-12-16 02:17:42"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez","Arturo Char","Corte Suprema de Justicia","Cristina Lombana Velásquez","José Luis Barceló"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/prevarico-la-corte-al-trasladar-a-arturo-char-a-malambo-con-aida-merlano/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/prevarico-la-corte-al-trasladar-a-arturo-char-a-malambo-con-aida-merlano/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/prevarico-la-corte-al-trasladar-a-arturo-char-a-malambo-con-aida-merlano/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/prevarico-la-corte-al-trasladar-a-arturo-char-a-malambo-con-aida-merlano/hero.jpg)
 *¿Prevaricó la Corte al trasladar a Arturo Char a Malambo con Aida Merlano?*
 
 ¿Prevaricó la Corte con el auto de la magistrada **Cristina Eugenia Lombana Velásquez** que ordenó el traslado de **Arturo Char Chaljub** a la guarnición militar del Batallón de Malambo donde se encuentra detenida **Aida Merlano**? El expresidente del senado fue trasladado al mediodía de hoy en medio de un debate público, no solo sobre la inconveniencia de la medida, sino, especialmente, sobre su legalidad.
@@ -21,7 +21,7 @@ Te puede interesar: [La pronosticada renuncia de Arturo Char y la caída de «Ca
 
 ## ¿Prevaricó la Corte?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/prevarico-la-corte-al-trasladar-a-arturo-char-a-malambo-con-aida-merlano/Renzo-y-Lucio.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/prevarico-la-corte-al-trasladar-a-arturo-char-a-malambo-con-aida-merlano/Renzo-y-Lucio.jpeg)
 *El jurista Renzo Montalvo Jimenez responde a VoxPopuli Digital.*
 
 No es la primera vez que la magistrada Cristina Lombana tiene un problema de impedimento no declarado y que la misma Corte se hace de la _vista gorda_. Ya sucedió con el caso que tenía del que fuera presidente y senador de la república, **Álvaro Uribe Vélez**.
@@ -54,7 +54,7 @@ Lea la sentencia: **[Sala de Casación anuló proceso de Cristina Lombana](https
 
 El exmagistrado Barceló participó en la elección de Cristina Lombana como magistrada de la Sala Penal de la Corte Suprema de Justicia. La nombró en propiedad de la lista de elegibles contenida en el **Acuerdo PCSJA18-10986**. Quedó en el cargo de magistrada de la Sala Especial de Instrucción de la Sala Penal de la Corte Suprema de Justicia.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/prevarico-la-corte-al-trasladar-a-arturo-char-a-malambo-con-aida-merlano/Cristina-Lomabana.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/prevarico-la-corte-al-trasladar-a-arturo-char-a-malambo-con-aida-merlano/Cristina-Lomabana.jpg)
 *Tomado del acta de la Corte Suprema de Justicia. Esta es la lista de elegible donde estaba Cristina Eugenia Lombana Velásquez.*
 
 No solo Barceló la nombró, sino que también ella lo remplazó en el **sonado caso contra Álvaro Uribe Vélez** de soborno a testigos. Este proceso lo tenía engavetado su antecesor. Luego de un tiempo dilatorio, la nueva magistrada se declaró impedida. Este impedimento no fue gratuito o por voluntad propia. Ella omitió en su hoja de vida el hecho de haber sido parte del bufete de **Jaime Granados**, abogado del expresidente Uribe.

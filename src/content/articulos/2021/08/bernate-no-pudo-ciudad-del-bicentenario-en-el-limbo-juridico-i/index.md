@@ -5,10 +5,10 @@ pubDate: "2021-08-10 22:14:14"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/bernate-no-pudo-ciudad-del-bicentenario-en-el-limbo-juridico-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/bernate-no-pudo-ciudad-del-bicentenario-en-el-limbo-juridico-i/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/bernate-no-pudo-ciudad-del-bicentenario-en-el-limbo-juridico-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/bernate-no-pudo-ciudad-del-bicentenario-en-el-limbo-juridico-i/hero.jpg)
 *Ángel Carrillo, abogado de los Hernández, acusados de invasores de los terrenos de Ciudad Bicentenario, le ganó a Francisco Bernate en este primer asalto. Dijo que el juez de conocimiento que conoce la denuncia de la Fundación Santo Domingo, excluyó a sus abogados del proceso porque no demostraron su calidad de víctimas.*
 
 El macro proyecto denominado **Ciudad del Bicentenario**, al suroccidente de Cartagena, donde se construirán 15 mil unidades familiares, quedó en un limbo jurídico.  El Juez Tercero Penal del Circuito de Cartagena, **Luis Fernando Machado López,** **se abstuvo de reconocer como víctimas al Distrito de Cartagena y a la Fundación Santo Domingo** dentro del proceso penal que instauraron contra la familia Hernández. En la audiencia también quedó demostrado que la Fundación **no registró a tiempo las resoluciones que le daban sustento al proyecto de vivienda**, tal como lo exige la ley.
@@ -17,7 +17,7 @@ De esta manera, se afectarán más **4 mil familias** que actualmente viven en e
 
 ## Bernate sacado de la audiencia
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/bernate-no-pudo-ciudad-del-bicentenario-en-el-limbo-juridico-i/fracisco-bernate-1.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/bernate-no-pudo-ciudad-del-bicentenario-en-el-limbo-juridico-i/fracisco-bernate-1.jpg)
 *Francisco Bernate fue sacado del proceso donde la Fundación Santo Domingo denunció a los afros Hernández por invasión de tierra. Lo curioso, Bernate no demostró la calidad de víctima de sus representados en el caso Ciudad del Bicentenario. Cortesía Ámbito Jurídico.*
 
 El juez de conocimiento al no reconocer a la Fundación Mario Santo Domingo  y al Distrito de Cartagena en este proceso penal donde denunciaron a los Hernández por invasión de tierras, **los dejó por fuera**. Por tanto, no podrán participar en los demás eventos que se realicen dentro de este litigio por las tierras de la finca Catalina donde se construye **Ciudad del Bicentenario**. Este predio con matricula No. **060-161513,** está siendo disputado entre la Fundación Santo Domingo y la familia Hernández.

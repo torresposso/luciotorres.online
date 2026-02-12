@@ -5,10 +5,10 @@ pubDate: "2023-07-15 03:29:20"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/pacto-historico-viana-infiltrado-de-la-derecha-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/pacto-historico-viana-infiltrado-de-la-derecha-i/hero.jpg
 ---
 
-![ ¿Viana, infiltrado de la derecha? Luis Enrique Flórez Agamez (izquierda) y Germán Viana Guerrero disputan la candidatura a la gobernación del Pacto Histórico. En los próximos días se definirá la escogencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/pacto-historico-viana-infiltrado-de-la-derecha-i/hero.jpg)
+![ ¿Viana, infiltrado de la derecha? Luis Enrique Flórez Agamez (izquierda) y Germán Viana Guerrero disputan la candidatura a la gobernación del Pacto Histórico. En los próximos días se definirá la escogencia.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/pacto-historico-viana-infiltrado-de-la-derecha-i/hero.jpg)
 *Luis Enrique Flórez Agámez (izquierda) y Germán Viana Guerrero disputan la candidatura a la gobernación por el Pacto Histórico. En los próximos días se definirá la escogencia. (FotoEfectos).*
 
 Entró en la recta final la selección de los candidatos a los cargos uninominales (alcaldías y gobernaciones) del **Pacto Histórico**. Si en Bogotá, Cali y Barranquilla llueve, en Cartagena y Bolívar no escampa. La candidatura de la coalición de gobierno se definirá entre **Germán Viana Guerrero** (partido Colombia Humana) y **Luis Enrique Flórez Agámez** (partido Alianza Democrática Amplia, ADA). **Ninguno de los dos obtuvo consenso**. Sin embargo, la candidatura de Viana fue impugnada, no tanto porque no le podría hacer ni cosquillas a **_Yamilito_ Arana**, el candidato a vencer en la pugna por la gobernación de Bolívar, sino porque un sector de estos movimientos considera que Viana no es un digno representante del llamado “movimiento del cambio”. Lo califican a secas como un **“infiltrado de la derecha”**.
@@ -21,7 +21,7 @@ Te puede interesar: [El Pacto Histórico se desmorona](/articulos/existe-el-pact
 
 ## ¿Viana, infiltrado de la derecha?
 
-![Este es el aparte de hechos de la impugnación de la candidatura de Germán Viana ante Colombia Humana. Impugnación que no fue surtida por la Dirección Nacional.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/pacto-historico-viana-infiltrado-de-la-derecha-i/German-Viana_impugnacion.jpg)
+![Este es el aparte de hechos de la impugnación de la candidatura de Germán Viana ante Colombia Humana. Impugnación que no fue surtida por la Dirección Nacional.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/pacto-historico-viana-infiltrado-de-la-derecha-i/German-Viana_impugnacion.jpg)
 *Este es un aparte de los hechos de la impugnación a la candidatura de Germán Viana, ante Colombia Humana. Impugnación no surtida por la Dirección Nacional de ese movimiento.*
 
 En efecto, los impugnadores de la candidatura de Viana dijeron que radicaron el escrito ante la Comisión Nacional de Colombia Humana, porque creen que este es un infiltrado de la derecha. No obstante, Carmen Anachury, presidenta encargada de esa Comisión, se hizo la de la vista gorda, tal vez porque, supuestamente, es amiga de Germán Viana. Ahora esperan que, en la próxima reunión de la coalición Pacto Histórico, constituida por representantes de 12 partidos o movimientos con personería jurídica, atiendan la petición de los impugnadores. Esto quiere decir que la base de la impugnación es política, pero con un fuerte componente ético.
@@ -38,7 +38,7 @@ En fin, los impugnadores de la Colombia Humana se quejan fuertemente en contra d
 
 ## Sin consenso entre Viana y Flórez
 
-![Aquí Luis Flórez (derecha) con la representante Dorina Hernández y el sendaor Julián Gallo en la sede del Polo Democrático.  ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/pacto-historico-viana-infiltrado-de-la-derecha-i/luis-florez_dorina_senador.jpg)
+![Aquí Luis Flórez (derecha) con la representante Dorina Hernández y el sendaor Julián Gallo en la sede del Polo Democrático.  ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/pacto-historico-viana-infiltrado-de-la-derecha-i/luis-florez_dorina_senador.jpg)
 *Aquí, Luis Flórez (derecha) con la representante Dorina Hernández, y el senador Julián Gallo en la sede del Polo Democrático.  /Facebook.*
 
 Más allá de las críticas de carácter ético, lo que podría dar al traste con las candidaturas de **Germán Viana Guerrero** del partido Colombia Humana, y **Luis Enrique Flórez Agámez** del partido ADA, es que ninguno de los dos obtuvo consenso en el proceso de selección. Viana tuvo que derrotar a José Polo, del Polo Democrático y a Luis Flórez Agámez, por mayoría.

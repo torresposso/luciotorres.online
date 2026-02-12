@@ -5,14 +5,14 @@ pubDate: "2022-09-22 13:58:04"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/hoy-todos-al-paro-distrital/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/hoy-todos-al-paro-distrital/hero.jpg
 ---
 
 Hoy, 22 de septiembre ¡todos al Paro Distrital! por la seguridad ciudadana, la movilidad, la educación, la salud y el buen gobierno de Cartagena. Varias universidades privadas y públicas decretaron cese de actividades. Otras decidieron realizar sus clases virtuales. Las instituciones educativas también se sumarán al cese de actividades.
 
 ## ¡Hoy, todos al Paro Distrital! Primeros momentos
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/hoy-todos-al-paro-distrital/policia-aldo.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/hoy-todos-al-paro-distrital/policia-aldo.jpeg)
 *Primeros momentos del Paro Distrital*
 
 Por primera en la historia de la elección popular, un alcalde sufre un golpe tan tremendo como el que está padeciendo William Dau Chamat. Hubo un proceso de revocatoria que fue abortado por la conducta corrupta de la Registraduría al negarse validar las firmas recogidas por las comunidades. Y ahora se ve enfrentado a este Paro Distrital.
@@ -27,7 +27,7 @@ Por esta razón, no hay justificación para que después de más de dos años lo
 
 ## ¡Todos al Paro Distrital!
 
-![¡Hoy, todos al Paro Distrital!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/hoy-todos-al-paro-distrital/hero.jpg)
+![¡Hoy, todos al Paro Distrital!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/hoy-todos-al-paro-distrital/hero.jpg)
 *¡Hoy, todos al Paro Distrital!*
 
 Como lo señalamos en un artículos anterior, un grupo de veedores, líderes sociales, organizaciones comunales y comunitarias están organizando un Paro Distrital contra este alcalde negligente en administración, pero diligente para despilfarrar el dinero de los cartageneros. El evento de hoy 22 de septiembre tiene como finalidad exigirle al gobierno distrital y nacional acciones urgentes para sacar a la ciudad de la profunda crisis en la cual se encuentra.

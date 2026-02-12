@@ -5,10 +5,10 @@ pubDate: "2021-06-17 00:48:52"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/ARMANDO-CORDOBA.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/ARMANDO-CORDOBA.jpeg)
 *Armando Córdoba fue como «pagapato». El alcalde se lavó las manos. Cortesía.*
 
 Armando Córdoba Julio, como «pagapato» de Dau, cayó en la moción de censur**a aprobada hoy por el Concejo Distrital de Cartagena. Lo que nunca logró e**l congreso de Colombia con los ministros del presidente **Iván duque**, el concejo distrital de Cartagena lo hizo hoy —por segunda oportunidad— al aplicar con éxito la moción de censura contra un secretario de la alcaldía. Pero el caso es que el jefe del gobierno local, contrario a lo que sucedió con la primera moción de censura, esta vez brilló por su silencio sospechoso. 
@@ -53,21 +53,21 @@ Alianza macabra y racista, ¿de quién? ¿William Dau y los concejales?
 
 Los concejales de Cartagena realizaron un debate técnico. Igual como lo hicieron contra Guillermo de Ávila, Secretario de Planeación. La diferencia era que de Ávila contaba con el respaldo total de William Dau. En cambio Córdoba estaba solo y casi seguro de que lo iban a sacar. Por eso, en su defensa, se fajó con un discurso político de confrontación contra el concejo. Se hizo la víctima. Una diatriba a la usanza de Dau. No le quedó bien. Perdió la pelea. Los concejales les respondieron con pruebas, argumentos y fundamentos. 
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/oscar-marin.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/oscar-marin.jpeg)
 *Oscar marín fue uno de los concejales que refutó contundentemente a Armando Córdoba, quien quedó como «pagapato».*
 
 > _«No fue un control político sino un control social. Hubo una desatención con el adulto mayor que tuvo el Secretario de Participación Ciudadana, Armando Córdoba»._
 > 
 > **Oscar Marín Villalba**, concejal conservador
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/WILSON-TONCEL.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/WILSON-TONCEL.jpeg)
 *Wilson Toncel, presidente del concejo. A pesar de ser aliado del alcalde Dau, fue uno de los animadores de la moción de censura de Armando Córdoba, quien quedó como «pagapato».*
 
 > _«_Ahora debemos enviar copia del acta de hoy al alcalde. Este debe retirar y nombrar otro secretario. Córdoba no trajo temas técnicos para controvertir lo dicho de los concejales. Le echó la culpa al concejo y a la misma administración por la no ejecución de los programas de esta dependencia_»_.
 > 
 > **Wilson Toncel**, Cambio Radical, presidente del concejo
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/JAVIER-JULIO-BEJARANO.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/JAVIER-JULIO-BEJARANO.jpeg)
 *Javier Julio Bejarano no hace parte de la coalición mayoritaria. Es uno de los principales críticos de la administración.*
 
 > _«_Respetamos el debido proceso con la proposición No 047. Las respuestas del secretario demostraron que no estaba cumpliendo con sus funcionales misionales. El 15 de junio escuchamos al secretario Córdoba con un discurso político para defender su gestión. Logramos demostrar que fue negligente. Quince votamos la moción de censura_»_.
@@ -76,7 +76,7 @@ Los concejales de Cartagena realizaron un debate técnico. Igual como lo hiciero
 
 ## ¿Qué dice la comunidad?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/marelbis.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/cordoba-como-pagapato-de-dau-cayo-en-la-mocion-de-censura/marelbis.jpeg)
 *Marelbis Sheck, lideresa del barrio España.*
 
 > _«_La moción de censura fue objetiva. La negligencia de Córdoba no tuvo en cuenta que los adultos mayores están en estado de mendicidad y con hambre. Los dueños de los inmuebles donde funcionan hoy los Centros de Vida no les han pagado en toda la administración de William Dau_»_.

@@ -5,10 +5,10 @@ pubDate: "2022-08-01 12:33:53"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/paremos-la-licitacion-espress-del-canal-del-dique/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/paremos-la-licitacion-espress-del-canal-del-dique/hero.jpg
 ---
 
-!["¡Paremos la licitación espress del Canal del Dique!". Hoy, la gente protesta para que se pare la licitación que define el futuro de sus vidas.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/paremos-la-licitacion-espress-del-canal-del-dique/canaldel-dique.jpeg)
+!["¡Paremos la licitación espress del Canal del Dique!". Hoy, la gente protesta para que se pare la licitación que define el futuro de sus vidas.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/paremos-la-licitacion-espress-del-canal-del-dique/canaldel-dique.jpeg)
 *"¡Paremos la licitación espress del Canal del Dique!". Hoy, la gente protesta para que se pare la licitación. Es el futuro de sus vidas. Foto Fredy Martínez.*
 
 Ante la testarudez del **gobierno de Iván Duque**, **"¡paremos la licitación espress del Canal del Dique!"**. Es la consigna central de las diferentes comunidades y organizaciones políticas que se oponen a la forma y al contenido del megaproyecto que tendría un costo inicial de **$3,5 billones**. Por esa razón, hoy 1 de agosto, se tomarán tres puntos neurálgicos: **Puente de Calamar, Puente de Soplaviento y Puente de Gambote.**

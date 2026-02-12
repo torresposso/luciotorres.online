@@ -5,10 +5,10 @@ pubDate: "2024-03-05 16:07:24"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/hero.jpg
 ---
 
-![¿Cortina de humo vinculación de Nicolás Petro con Lost Provention?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/hero.jpg)
+![¿Cortina de humo vinculación de Nicolás Petro con Lost Provention?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/hero.jpg)
 *¿Cortina de humo vinculación de Nicolás Petro con Lost Provention?*
 
 ¿Por qué es una cortina de humo la vinculación de **Nicolás Petro Burgos** con Lost Prevention y, de contera, con el Clan Los Vega? Empecemos por decir que no existe evidencia alguna de dicha relación del hijo del presidente Petro con esa entidad. En primer lugar, los representantes de la empresa desmintieron esa versión. En segundo lugar, así está demostrado en las investigaciones de la Fiscalía Seccional Atlántico con radicados **No 080016001055202205531** y **080016001055202201161**. Tercero, la Fiscalía no confirmó la versión difundida por la prensa.
@@ -43,7 +43,7 @@ Como para que no queden dudas, esa confesión fue respaldada con e**lemento mate
 
 ## ¿Proteger a Elsa Noguera?
 
-![¿Cortina de humo para proteger a los afiles de Char-Daes?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/ElsaNoguera_Eduardo_verano.jpeg)
+![¿Cortina de humo para proteger a los afiles de Char-Daes?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/ElsaNoguera_Eduardo_verano.jpeg)
 *¿Cortina de humo para proteger a los afiles de Char-Daes?*
 
 La cortina de humo puede ser obra del **charismo**. Busca matar dos pájaros con un solo tiro. El afán del fiscal **Mario Andrés Burgos Patiño** de sobredimensionar la acción penal para tratar de enredar la campaña presidencial de Gustavo Petro, pone sobre la superficie una **parcialidad objetiva** del administrador de justicia. Esto favorece a posibles autores de delitos, por los cuales no ha compulsado copias a las autoridades competentes para que los investiguen. **Evidentemente, existe un concierto para delinquir para expoliar los recursos de la gobernación del Atlántico**.
@@ -58,7 +58,7 @@ En la audiencia pública se pudo apreciar objetivamente que Vásquez acordó con
 
 ## ¿Omisión del fiscal Burgos?
 
-![Fiscal Mario Burgos Patiño ¿cortina de humo lo de Los vegas?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/Fiscal_mario_burgos_audiencia.jpg)
+![Fiscal Mario Burgos Patiño ¿cortina de humo lo de Los vegas?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/Fiscal_mario_burgos_audiencia.jpg)
 *Fiscal Mario Burgos Patiño ¿cortina de humo lo de Los vegas?/Captura de pantalla.*
 
 Si el fiscal delegado Burgos se abstuvo de compulsar copia para vincular en el proceso a la hoy exgobernadora del Atlántico, Elsa Noguera, estaría cometiendo una irregularidad que se podría convertir en un tipo penal. Se trataría de una evidente OMISIÓN.
@@ -77,7 +77,7 @@ Por tanto, se colige que con los documentos que les fueron infiltrados no busca 
 
 ## Ojo a Conciencia Social
 
-![Gustavo de la Ossa, el presunto testaferro de Elsa Noguera para repartir dinero a los diputados. ¿Cortina de humo?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/Gustavo-de-la-Ossa.jpg)
+![Gustavo de la Ossa, el presunto testaferro de Elsa Noguera para repartir dinero a los diputados. ¿Cortina de humo?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/cortina-de-humo-la-vinculacion-de-nicolas-petro-con-lost-provention/Gustavo-de-la-Ossa.jpg)
 *Gustavo de la Ossa, el presunto testaferro de Elsa Noguera para repartir dinero a los diputados. ¿Cortina de humo?/Foto cortesía.*
 
 En ese aspecto, Conciencia Social, representada por De la Ossa es una de las organizaciones claves para descifrar el modelo de contratación corrupto de la gobernación del Atlántico en la Era del charismo. Raúl Lacouture Daza, el Secretario General de Elsa Noguera, estuvo dirigiendo una empresa de vigilancia llamada Interglobal Ltda.

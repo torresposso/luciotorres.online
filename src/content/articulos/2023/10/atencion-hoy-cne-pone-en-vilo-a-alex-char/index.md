@@ -5,10 +5,10 @@ pubDate: "2023-10-27 16:41:53"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/atencion-hoy-cne-pone-en-vilo-a-alex-char/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/atencion-hoy-cne-pone-en-vilo-a-alex-char/hero.jpg
 ---
 
-![Usan los niños para su proselitismo político. Alejandro Char y Eduardo Verano están moralmente inhabilitados. Hoy CNE pone en vilo  a Alex Char.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/atencion-hoy-cne-pone-en-vilo-a-alex-char/hero.jpg)
+![Usan los niños para su proselitismo político. Alejandro Char y Eduardo Verano están moralmente inhabilitados. Hoy CNE pone en vilo  a Alex Char.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/atencion-hoy-cne-pone-en-vilo-a-alex-char/hero.jpg)
 *Usan los niños para su proselitismo político. Alejandro Char y Eduardo Verano están moralmente inhabilitados. Hoy CNE pone en vilo a Alex Char.*
 
 A menos de dos días, la candidatura de **Alejandro Char** sigue en vilo. La estrategia de manipulación de la verdad, omitiendo hechos reales y anticipándose a las decisiones de la autoridad electoral que se vino a pronunciar el pasado 23 de octubre, su campaña electoral llevó a información falseada de la Gran Prensa el 22 de octubre. Solo hoy, 27 de octubre, se dará a conocer la decisión definitiva del **Consejo Nacional Electoral-CNE** al conocer el recurso de reposición de este periodista que solicitó la revocatoria de su candidatura.
@@ -17,7 +17,7 @@ Si el CNE confirma la resolución recusada, se procederá a solicitar un recurso
 
 Al mismo tiempo, se solicitó la recusación de seis (6) magistrados de esa corporación: Maritza Martínez Aristizábal, César Augusto Lorduy, Alfosno Campo, Benjamin Ortiz Torres, Altus Baquero y Álvaro Hernán Prada.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/atencion-hoy-cne-pone-en-vilo-a-alex-char/Recusacion_magistrados.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/atencion-hoy-cne-pone-en-vilo-a-alex-char/Recusacion_magistrados.jpg)
 
 La magistrada ponente, Maritza Martinez, se encuentra incurso en un conflicto de intereses al aceptar decidir sobre la inhabilidad de Alejandro Char. Si bien ella fue senadora por el partido de la U, tiene una intima relación política con el jefe de Cambio Radical Germán Vargas Lleras. Lo acompañó en su campaña a la presidencia de la República. Germán Vargas Lleras, es el padrino político y de su esposo **Luis Carlos Torres**, exgobernador y exsenador por Cambio Radical.
 

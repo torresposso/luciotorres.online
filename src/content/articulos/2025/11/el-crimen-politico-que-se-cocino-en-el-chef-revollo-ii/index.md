@@ -5,10 +5,10 @@ pubDate: "2025-11-14 04:05:47"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/el-crimen-politico-que-se-cocino-en-el-chef-revollo-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/el-crimen-politico-que-se-cocino-en-el-chef-revollo-ii/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/el-crimen-politico-que-se-cocino-en-el-chef-revollo-ii/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/el-crimen-politico-que-se-cocino-en-el-chef-revollo-ii/hero.jpg)
 *Conozca los consejeros que vendieron la autonomía universitaria por un plato de lentejas. Lo peor, entre ellos los representantes de estudiantes y egresados.*
 
 En el corazón político del Caribe, donde el poder se cocina a fuego lento y los favores se sirven en bandeja, **la Universidad del Atlántico** volvió a ser el plato fuerte. A espaldas de la comunidad académica, lejos de la deliberación pública y del mérito, cinco consejeros del Consejo Superior participaron del crimen político que compró la **autonomía universitaria.** Alrededor de ellos, dos figuras centrales del poder local: **Fuad Char Abdala**, patriarca del clan, y su hijo, **Alejandro Char**, alcalde de Barranquilla. En el Centro de esa compra: **Álvaro Leyton Barrios Torres**, el recien elegido rector, beneficiario de ese crimen que fue un festín.
@@ -17,7 +17,7 @@ Ese almuerzo —que varias fuentes confirman y cuyas fotografías circularon amp
 
 ## **El festín del poder**
 
-![El festín](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/el-crimen-politico-que-se-cocino-en-el-chef-revollo-ii/Char_cheff.jpeg)
+![El festín](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/el-crimen-politico-que-se-cocino-en-el-chef-revollo-ii/Char_cheff.jpeg)
 *El festín presidido por el patriarca Fuad Char. En la punta de la mesa, el alcalde Alejandro Char. Alrededor de la.mesa los.consejeros comprados: Angelly Diaz Cordero, Abraham Scool Gonzalez, Miguel Caro y Manuel Fernández Ariza.*
 
 La imagen de los consejeros degustando un plato de lenteja —metáfora bíblica de la renuncia de su libertad por un beneficio inmediato— se volvió símbolo del deterioro ético del órgano que debería defender la autonomía universitaria. Pero aquí no hubo metáfora: el plato fue literal, cocinado con el toque sirio—libanés que caracteriza al chef Revollo y al gusto del clan Char. El crimen estaba cocinado.
@@ -35,7 +35,7 @@ Cuatro de los 5 que votaron posteriormente por Leyton Barrios Torres. Con **Edua
 
 ## **El plan funcionó a la perfección**
 
-![Ellos son los que vendieron la autonomía universitaria ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/el-crimen-politico-que-se-cocino-en-el-chef-revollo-ii/El-califato.jpg)
+![Ellos son los que vendieron la autonomía universitaria ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/el-crimen-politico-que-se-cocino-en-el-chef-revollo-ii/El-califato.jpg)
 
 Ese voto amarrado no solo fracturó el proceso democrático. Lo vació de sentido. La elección se convirtió en un trámite coreografiado desde el poder del dinero y de la política local. **La pelea democrática era una farsa,** Solo cuatro de los cinco candidatos tenían posibilidad de ser elegidos, no por su méritos sino por sus influencias para torcer la voluntad de la mayoria del Consejo Superior. Ellos son: **Danilo Hernández Rodríguez**, con 6.345,56 votos, **Álvaro González**, con 3.996,73 votos, **Leyton Barrios** con 3.496,07 votos, **Wilson Quimbayo**, con 3.349,57 votos.
 

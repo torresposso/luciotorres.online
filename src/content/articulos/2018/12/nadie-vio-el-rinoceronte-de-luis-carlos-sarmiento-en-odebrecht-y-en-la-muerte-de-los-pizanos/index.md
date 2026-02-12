@@ -5,10 +5,10 @@ pubDate: "2018-12-06 17:15:01"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/nadie-vio-el-rinoceronte-de-luis-carlos-sarmiento-en-odebrecht-y-en-la-muerte-de-los-pizanos/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/12/nadie-vio-el-rinoceronte-de-luis-carlos-sarmiento-en-odebrecht-y-en-la-muerte-de-los-pizanos/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/nadie-vio-el-rinoceronte-de-luis-carlos-sarmiento-en-odebrecht-y-en-la-muerte-de-los-pizanos/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/12/nadie-vio-el-rinoceronte-de-luis-carlos-sarmiento-en-odebrecht-y-en-la-muerte-de-los-pizanos/hero.jpg)
 *Luis Carlos Sarmiento, el magnate en su encrucijada. Foto Dinero.*
 
 Un rinoceronte se pasea orondo por el palacio presidencial de Colombia desde 1972, cuando se apoderó del Banco de Occidente. Y nadie lo ve. Ese rinoceronte está en todos los macronegocios del Estado, y también en sus escándalos financieros. El último caso es **Odebrecht** y la **sospechosa muerte de Jorge Enrique Pizano y su hijo Alejandro**. El rinoceronte tiene un nombre inequívoco: **Luis Carlos Sarmiento Angulo**. El hombre que no le gusta el pollo sino la plata y el oro. Mucho oro. Y por algo le dicen el Rey Midas.

@@ -5,10 +5,10 @@ pubDate: "2022-02-22 00:02:19"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/despojo-afro-y-megaproyecto-canal-del-dique-a-escrutinio-internacional/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/despojo-afro-y-megaproyecto-canal-del-dique-a-escrutinio-internacional/hero.jpg
 ---
 
-![Aspecto de la reunión realizada en Turbaco. Tema: despojo afro y megaproyecto Canal del Dique.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/despojo-afro-y-megaproyecto-canal-del-dique-a-escrutinio-internacional/despojo-hector.jpeg)
+![Aspecto de la reunión realizada en Turbaco. Tema: despojo afro y megaproyecto Canal del Dique.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/despojo-afro-y-megaproyecto-canal-del-dique-a-escrutinio-internacional/despojo-hector.jpeg)
 *Aspecto de la reunión realizada en Turbaco. Tema: despojo afro y megaproyecto Canal del Dique.*
 
 El megaproyecto del Canal del Dique que impulsa el gobierno del presidente Iván Duque no cuenta con el apoyo de la mayoría de las comunidades organizadas. Señalan que esta iniciativa hace parte del proceso de despojo que históricamente sufre la población afro en el Caribe colombiano. Su ejecución enriquecería a los grandes inversionistas y traería más pobreza a la población históricamente excluida.

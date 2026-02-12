@@ -5,10 +5,10 @@ pubDate: "2022-07-24 21:09:06"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/hero.jpg
 ---
 
-![Aura Márquez una de las víctimas de las prácticas antisindicales de la corriente mayoritaria de la ADEA. Cortesía. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/hero.jpg)
+![Aura Márquez una de las víctimas de las prácticas antisindicales de la corriente mayoritaria de la ADEA. Cortesía. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/hero.jpg)
 *Aura Márquez una de las víctimas de las prácticas antisindicales de la corriente mayoritaria de la ADEA. Cortesía.*
 
 Las prácticas antisindicales de los directivos de la ADEA no es tan diferente como se observa a nivel nacional con los directivos de Fecode. Desde el punto de vista de la praxis, se percibe una conducta de doble moral cuando la junta directiva despidió a varios trabajadores porque reclamaban sus derechos. Al mismo tiempo, le reclaman al gobierno sus reivindicaciones gremiales.
@@ -37,7 +37,7 @@ Por esta razón, tres trabajadores **obtuvieron fallos favorables en primera y s
 
 ## El caso de Rafael Acendra
 
-![Rafael Acendra, uno de los despedidos de la Adea. Luis Grimaldo es el responsable de esta clara violación de los derechos](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/RAFAEL-ACENDRA-1.jpg)
+![Rafael Acendra, uno de los despedidos de la Adea. Luis Grimaldo es el responsable de esta clara violación de los derechos](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/RAFAEL-ACENDRA-1.jpg)
 *Rafael Acendra, es otro de los despedidos de la Adea. Luis Grimaldo es el responsable de esta clara violación de los derechos. Cortesía.*
 
 > "El despido no solo acabó con mi trabajo, también acabó con mis posibilidades laborales futuras. No solo sufro por las dificultades económicas sino por saber que no encontraré un trabajo decente a mis 60 años".
@@ -46,7 +46,7 @@ Por esta razón, tres trabajadores **obtuvieron fallos favorables en primera y s
 
 ## **¿Quién produjo el daño?**
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/adea-prueba.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/adea-prueba.jpg)
 *Esta es la prueba fehaciente del despido como represalia por la protesta de los trabajadores. Son las prácticas antisindicales que caracterizan a los viejos camaradas del sindicalismo.*
 
 Si se trata de buscar responsable del daño producido, ese sería Grimaldo. Fue quien tomó la decisión de despedir. Por tanto, deberían llamarlo para que responda por la indemnización del perjuicio que llegare a sufrir o el reembolso total o parcial del pago que tuviere que hacer la ADEA “como resultado de la sentencia que se dicte en el proceso”. Por cierto, Luis Grimaldo Mejía, pertenece al mismo grupo político del hoy cuestionado presidente de Fecode, **Nelson Javier Alarcón Suárez**, quien, sin estar en la nómina de docentes oficiales del Ministerio de Educación Nacional, pretende representar a los maestros de Colombia. 
@@ -79,7 +79,7 @@ Por esa razón algunos calificaron el comportamiento de los directivos sindicale
 
 ## ¿Quién es Drago?
 
-![Medardo Drago León, es el líder sindical también víctima de las prácticas antisindicales de sus viejos camaradas. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/medardo-drago2.jpg)
+![Medardo Drago León, es el líder sindical también víctima de las prácticas antisindicales de sus viejos camaradas. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/practicas-antisindicales-al-interior-de-filial-de-fecode/medardo-drago2.jpg)
 *Medardo Drago León, es el líder sindical también víctima de las prácticas antisindicales de sus viejos camaradas. Cortesía.*
 
 El profesor Medardo Drago León, de naturaleza afrodescendiente, tiene un largo palmarés y una hoja de vida sobresaliente. Licenciado en Ciencias Sociales, y, también, Abogado de la Universidad del Atlántico. Comunicador Social y Periodista de la Universidad Jorge Tadeo Lozano. Tiene tres especializaciones: Administración Pública de la Universidad Antonio Nariño. Realización de Televisión de la Universidad del Norte. Derecho Administrativo de la Universidad Santiago de Cali. Es magíster en Comunicación de la Universidad Nacional de Colombia y Doctorante en Ciencias Políticas de la Urbe.

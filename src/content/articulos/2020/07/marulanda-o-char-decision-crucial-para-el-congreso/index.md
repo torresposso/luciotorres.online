@@ -5,10 +5,10 @@ pubDate: "2020-07-14 22:20:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/marulanda-o-char-decision-crucial-para-el-congreso/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/marulanda-o-char-decision-crucial-para-el-congreso/hero.jpg
 ---
 
-![Arturo Char (izq.) frente a Iván Marulanda. El 20 de julio el congreso definirá su rumbo para resolver su mala imagen y su sometimiento al ejecutivo. ¿Marulanda o Char?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/marulanda-o-char-decision-crucial-para-el-congreso/hero.jpg)
+![Arturo Char (izq.) frente a Iván Marulanda. El 20 de julio el congreso definirá su rumbo para resolver su mala imagen y su sometimiento al ejecutivo. ¿Marulanda o Char?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/marulanda-o-char-decision-crucial-para-el-congreso/hero.jpg)
 
 **¿Marulanda o Char?**  El Congreso de la República presenta hoy una encrucijada histórica: o hace un cambio de frente o sigue su ruta al despeñadero. Nunca antes la Corporación había vivido un período de desprestigio como en las dos últimas décadas. Los gobiernos del Centro Democrático **lo convirtieron en una cuenta de bolsillo**. 
 

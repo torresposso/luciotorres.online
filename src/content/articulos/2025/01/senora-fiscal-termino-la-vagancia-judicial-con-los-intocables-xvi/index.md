@@ -5,10 +5,10 @@ pubDate: "2025-01-12 22:25:10"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/senora-fiscal-termino-la-vagancia-judicial-con-los-intocables-xvi/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/senora-fiscal-termino-la-vagancia-judicial-con-los-intocables-xvi/hero.jpg
 ---
 
-![Señora Fiscal: ¿Terminó la vagancia judicial con Los Intocables?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/senora-fiscal-termino-la-vagancia-judicial-con-los-intocables-xvi/hero.jpg)
+![Señora Fiscal: ¿Terminó la vagancia judicial con Los Intocables?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/senora-fiscal-termino-la-vagancia-judicial-con-los-intocables-xvi/hero.jpg)
 *Señora Fiscal: ¿Terminó la vagancia judicial con Los Intocables?*
 
 Señora Fiscal: ¿Terminó la vagancia judicial con _Los Intocables_? Si, leyó bien. Lo que existe es una **vagancia del sistema judicial** ―en especial de la Fiscalía― para perseguir los crímenes de lesa humanidad de los financiadores y auspiciadores del paramilitarismo, entre los cuales se encuentra mencionados el expresidente **Álvaro Uribe Vélez**. Son 20 años inútiles que se cumplirán este 2025 de Justicia y Paz.
@@ -27,7 +27,7 @@ En nombre de la sociedad y del periodismo colombiano, tenga usted esta entrega p
 
 ## Y para cuándo la extinción
 
-![La fiscal General de la Nación se la pasa de foro en foro anunciando lo que van hacer. Pero no ha iniciado los procesos de extinción de dominio contra Los Intocables. (Fiscalía). Vagancia judicial.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/senora-fiscal-termino-la-vagancia-judicial-con-los-intocables-xvi/Luz_adriana_foro-1024x682.jpg)
+![La fiscal General de la Nación se la pasa de foro en foro anunciando lo que van hacer. Pero no ha iniciado los procesos de extinción de dominio contra Los Intocables. (Fiscalía). Vagancia judicial.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/senora-fiscal-termino-la-vagancia-judicial-con-los-intocables-xvi/Luz_adriana_foro-1024x682.jpg)
 *La fiscal General de la Nación se la pasa de foro en foro anunciando lo que van hacer. Pero no ha iniciado los procesos de extinción de dominio contra Los Intocables. (Fiscalía).*
 
 Después de seis meses de su promesa, nada cambió. Todo sigue igual. Porque no hay excusas para justificar la inexistencia siquiera de una medida cautelar sobre todos los bienes muebles e inmuebles, dineros en bancos, CDTs, empresas, y participaciones accionarias contra los auspiciadores y financiadores del paramilitarismo. Estos sujetos están plenamente identificados.

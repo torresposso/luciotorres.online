@@ -5,10 +5,10 @@ pubDate: "2025-02-18 21:19:45"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/policia-sigue-hostigando-a-campesinos-de-pontezuela/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/policia-sigue-hostigando-a-campesinos-de-pontezuela/hero.jpg
 ---
 
-![Cartel de la Curaduría Urbana 2 de Cartagena donde aparecen como propietarios del proyecto Versalles 2023 Promotora SAS. ¿Es el motivo del hostigamiento de la Policía contra los campesinos de Pontezuela?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/policia-sigue-hostigando-a-campesinos-de-pontezuela/hero.jpg)
+![Cartel de la Curaduría Urbana 2 de Cartagena donde aparecen como propietarios del proyecto Versalles 2023 Promotora SAS. ¿Es el motivo del hostigamiento de la Policía contra los campesinos de Pontezuela?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/policia-sigue-hostigando-a-campesinos-de-pontezuela/hero.jpg)
 *Cartel de la Curaduría Urbana 2 de Cartagena donde aparecen como propietarios del proyecto Versalles 2023 Promotora SAS. ¿Es el motivo del hostigamiento de la Policía contra los campesinos de Pontezuela?*
 
 Agentes de la Policía Nacional, al mando del subintendente Cogollo, adscrito a la estación de Bayunca, siguen hostigando a campesinos de Pontezuela, especialmente, de la familia Rodríguez que poseen una franja de terrenos al lado del Gimnasio Altair. Esto se constituye en una actuación de hecho que contraviene el mandato constitucional. Los policías, de acuerdo a los campesinos, pretenden sacarlos por la fuerza de unos terrenos que ya solicitaron su adjudicación por ser **considerados predios baldíos**.
@@ -31,7 +31,7 @@ Los **predios baldíos** son aquellos terrenos improductivos. Por lo tanto, so
 
 ## Campesinos de Pontezuela de especial protección
 
-![La policía llegó ayer a los predios de los campesinos de Pontezuela custodiando a este personaje que no fue identificado. Foto suministrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/policia-sigue-hostigando-a-campesinos-de-pontezuela/Pontezuela_.jpg)
+![La policía llegó ayer a los predios de los campesinos de Pontezuela custodiando a este personaje que no fue identificado. Foto suministrada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/policia-sigue-hostigando-a-campesinos-de-pontezuela/Pontezuela_.jpg)
 *La policía llegó ayer a los predios de los campesinos custodiando a este personaje que no fue identificado. Foto suministrada.*
 
 El **Acto Legislativo 02 de 2017**, que modifica el artículo 64 de la **Constitución Política de Colombia** promueve el acceso material y real del campesino a la propiedad. Los campesinos, comunidades indígenas, afrodescendientes, y otros grupos en situación de vulnerabilidad, son sujetos de especial protección.

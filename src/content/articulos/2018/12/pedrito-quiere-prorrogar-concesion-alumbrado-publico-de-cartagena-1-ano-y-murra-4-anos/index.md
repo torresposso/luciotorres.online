@@ -5,7 +5,7 @@ pubDate: "2018-12-09 02:49:48"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/pedrito-quiere-prorrogar-concesion-alumbrado-publico-de-cartagena-1-ano-y-murra-4-anos/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/12/pedrito-quiere-prorrogar-concesion-alumbrado-publico-de-cartagena-1-ano-y-murra-4-anos/hero.jpg
 ---
 
 (imagen no disponible)

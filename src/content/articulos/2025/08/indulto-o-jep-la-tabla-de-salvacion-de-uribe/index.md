@@ -5,10 +5,10 @@ pubDate: "2025-08-03 18:45:15"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/indulto-o-jep-la-tabla-de-salvacion-de-uribe/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/08/indulto-o-jep-la-tabla-de-salvacion-de-uribe/hero.jpg
 ---
 
-![¿Indulto o JEP? ¿La tabla de salvación de Uribe?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/indulto-o-jep-la-tabla-de-salvacion-de-uribe/hero.jpg)
+![¿Indulto o JEP? ¿La tabla de salvación de Uribe?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/08/indulto-o-jep-la-tabla-de-salvacion-de-uribe/hero.jpg)
 *¿Indulto o JEP? ¿La tabla de salvación de Uribe?*
 
 ¿Con la sentencia a **12 años de prisión en su finca El Ubérrimo** e inhabilidad política está todo consumado para el expresidente **Álvaro Uribe Vélez**? ¿Indulto o JEP? ¿El presidente de la república **Gustavo Petro** podría indultarlo? ¿Esta idea puede inaugurar una tregua del país político? La propuesta del indulto es del jurista barranquillero **Renzo Montalvo Jiménez**. En tanto que el Presidente considera que Uribe se acoja al tribunal de **Justicia Especial de Paz** (JEP).
@@ -33,7 +33,7 @@ La iniciativa lanzada por el jurista **Renzo Montalvo**, en entrevista concedida
 
 ## Reformar la Constitución
 
-![La entrevista con el jurista Renzo  Montalvo sobre el indulto a Uribe.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/indulto-o-jep-la-tabla-de-salvacion-de-uribe/Renzo_-1024x519.jpeg)
+![La entrevista con el jurista Renzo  Montalvo sobre el indulto a Uribe.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/08/indulto-o-jep-la-tabla-de-salvacion-de-uribe/Renzo_-1024x519.jpeg)
 *La entrevista con el jurista Renzo Montalvo sobre el indulto a Uribe.*
 
 Por otra parte, desde el punto de vista **constitucional**, **no** sería viable un indulto presidencial para Uribe en este momento, salvo que se reforme la Constitución, como **lo señala el mismo Renzo Montalvo**.
@@ -48,7 +48,7 @@ El mismo Renzo se ofrece a redactar un proyecto de ley del indulto del jefe natu
 
 ## La JEP
 
-![¿Indulto o JEP?  El camino de Uribe](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/08/indulto-o-jep-la-tabla-de-salvacion-de-uribe/uribe_culpable_sentencia-1024x576.jpg)
+![¿Indulto o JEP?  El camino de Uribe](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/08/indulto-o-jep-la-tabla-de-salvacion-de-uribe/uribe_culpable_sentencia-1024x576.jpg)
 *¿Indulto o JEP? El camino de Uribe*
 
 ¿Indulto o JEP? Si bien es una sentencia de primera instancia, todo indicaría que en los próximos meses su destino está atado a esa sentencia hasta cuando el **Tribunal Superior de Bogotá** decida la segunda instancia. El presidente de la República, Gustavo Petro Urrego

@@ -5,10 +5,10 @@ pubDate: "2024-02-19 12:12:10"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 tags: ["Dumek Turbay","Yamil Arana"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/hero.jpg
 ---
 
-![¡Emergencia sanitaria! El alcalde Dumek unido al gobernador Yamil.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/hero.jpg)
+![¡Emergencia sanitaria! El alcalde Dumek unido al gobernador Yamil.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/hero.jpg)
 *¡Emergencia sanitaria! El alcalde Dumek unido al gobernador Yamil.*
 
 _No hay mal que por bien no venga_, dice el adagio popular. Pero eso depende de quienes estén gobernando. Bajo el principio de complementariedad y concurrencia, el alcalde de Cartagena, **Dumek Turbay**, pidió ayuda al gobernador de Bolívar, **Yamilito Arena**, con el fin de atender la emergencia para suministrar agua a los barrios populares que tienen tres días sin recibirla. Esto podría ocasionar una epidemia en los próximos días, especialmente, en los barrios populares.
@@ -19,7 +19,7 @@ La prestación de los servicios públicos domiciliarios es **una responsabilidad
 
 ## Acuacar a rendir cuentas
 
-![Emergencia sanitaria. Últimamente Acuacar vive de emergencia en emergencia. ¿Qué se hacen los dineros de los cartageneros en el contrato de concesión? /Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/Manuel-Vicente-Barrera-Medina-nuevo-gerente-de-Aguas-de-Cartagena.jpg)
+![Emergencia sanitaria. Últimamente Acuacar vive de emergencia en emergencia. ¿Qué se hacen los dineros de los cartageneros en el contrato de concesión? /Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/Manuel-Vicente-Barrera-Medina-nuevo-gerente-de-Aguas-de-Cartagena.jpg)
 *Últimamente Acuacar vive de emergencia en emergencia. ¿Qué se hacen los dineros de los cartageneros en el contrato de concesión? /Cortesía.*
 
 Al gerente de Aguas de Cartagena, **Manuel Vicente Barrera**, no lo ví por Puesto de Mando Unificado. Debe explicar dos elementos: **El primero**. ¿Qué se hizo el billón de pesos invertidos en el cambio de la infraestructura sanitaria de la ciudad con el Plan Maestro de Acueducto y Alcantarillado. **Segundo**. ¿Cómo se está ejecutando el Plan de Contingencia estructurado para enfrentar los desafíos del Fenómeno de El Niño? Tercero. ¿Por qué se presentan daños en el sistema con mucha frecuencia?
@@ -30,12 +30,12 @@ Según el informe de ejecuciones, Barrera le dijo a los medios locales que se in
 
 ## La emergencia sanitaria
 
-![La gente de Ceballos llegó donde se encontraban el alcalde y el gobernador repartiendo agua en el carrotanque de UNGRD.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/emergencia-sanitaria-1024x525.jpg)
+![La gente de Ceballos llegó donde se encontraban el alcalde y el gobernador repartiendo agua en el carrotanque de UNGRD.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/emergencia-sanitaria-1024x525.jpg)
 *La gente de Ceballos llegó donde se encontraban el alcalde y el gobernador repartiendo agua en el carrotanque de UNGRD.*
 
 Los epidemiólogos dicen que la falta de agua potable puede contribuir a la transmisión de enfermedades virales y Enfermedades Diarreicas Agudas-EDA. Y en esta época de pospandemia, la situación se agrava debido a que se facilita la transmisión de los virus. Por esta razón, una atención adecuada a la emergencia pasa por suplir la distribución del agua por tubería. En este caso, se amerita el uso de los carrotanques que tiene la gobernación para atender la escasez de agua en en los municipios de Bolívar.
 
-![Yamilito y Dumek dándole agua gratuita a los barrios de Cartagena. Así se atiende la emergencia sanitaria.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/dUMEK_YAMIL-1024x673.jpg)
+![Yamilito y Dumek dándole agua gratuita a los barrios de Cartagena. Así se atiende la emergencia sanitaria.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/emergencia-sanitaria-dumek-y-yamilito-unidos-por-cartagena-ii/dUMEK_YAMIL-1024x673.jpg)
 *Dumek Turbay, alcalde de Cartagena, acompañado del gobernador Yamilito Arana, le suministran agua potable con carrotanques de la UNGRD. Aquí en el barrio Ceballos./VoxpopuliDigital.*
 
 Sin embargo, debido a la manipulación sin las medidas higiénicas, el agua se puede contaminar para el consumo humano y con ello provocar muchas enfermedades virales.

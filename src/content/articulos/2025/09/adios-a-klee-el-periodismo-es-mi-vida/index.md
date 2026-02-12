@@ -5,10 +5,10 @@ pubDate: "2025-09-12 01:40:29"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/adios-a-klee-el-periodismo-es-mi-vida/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/09/adios-a-klee-el-periodismo-es-mi-vida/hero.jpg
 ---
 
-![Jorge Humberto Klee: "el periodismo es mi vida"](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/adios-a-klee-el-periodismo-es-mi-vida/hero.jpg)
+![Jorge Humberto Klee: "el periodismo es mi vida"](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/09/adios-a-klee-el-periodismo-es-mi-vida/hero.jpg)
 *Jorge Humberto Klee Palacio, cuando se convirtió en octogenario, seguía con los guantes puestos. Al morir, no perdió. Su vida espiritual trascendió porque fue un maestro de grandes virtudes humanas. (Cortesía, Jorge Peñaloza).*
 
 Adiós a Klee, un verdadero decano del periodismo barranquillero. Sin duda, un maestro. Un hombre integral que supo darle sentido a su vida e inspiró a decenas, quizás, centenas de sus estudiantes. Muchos continúan su legado profesional y ético. Las honras fúnebres de **Jorge Humberto Klee Palacio** se cumplieron en la tarde de este miércoles 10 de septiembre en Jardines de la Eternidad.
@@ -27,7 +27,7 @@ En 1982, fue mi profesor de Radio y TV. y, al mismo tiempo, compañero de trabaj
 
 ## Líder en la era de oro
 
-![Efraín Peñate Rodríguez es otro ícono de la era de oro de la radio barranquillera. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/adios-a-klee-el-periodismo-es-mi-vida/efrain_penate-1024x654.jpg)
+![Efraín Peñate Rodríguez es otro ícono de la era de oro de la radio barranquillera. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/09/adios-a-klee-el-periodismo-es-mi-vida/efrain_penate-1024x654.jpg)
 *Efraín Peñate Rodríguez es otro ícono de la era de oro de la radio barranquillera. Cortesía.*
 
 Cuando **Efraín Peñate Rodríguez** pasó de Emisora Atlántico a Radio Sutatenza, en 1981, armó un equipo con jóvenes como **_Many_ Ramírez, Mike Fajardo, Santander Herrera**, y este servidor era el redactor. El pionero de las transmisiones radiales, **Juancho Illera Palacio**, hacía parte de ese elenco. Con **Carmelo Castilla** cubrimos la tragedia del incendio del Terminal Marítimo de Barranquilla. Éramos unos bisoños periodistas con ganas de trabajar.
@@ -44,7 +44,7 @@ En aquellos tiempos la narración deportiva la controlaba Caracol con **Edgar Pe
 
 ## Adiós a Klee, el maestro
 
-![Adiós a Klee, el periodista](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/adios-a-klee-el-periodismo-es-mi-vida/Jorge_humberto_acord.jpg)
+![Adiós a Klee, el periodista](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/09/adios-a-klee-el-periodismo-es-mi-vida/Jorge_humberto_acord.jpg)
 *Klee con los directivos de ACORD. Cortesía.*
 
 Adiós a Klee, el maestro de muchos. Centenares de periodistas y productores audiovisuales. Una vez teníamos la clase de Radio y Televisión en la facultad de Comunicación Social y Periodismo. Hice una intervención y cometí un _lapsus linguae_. El maestro, con una sonrisa en la mano, me dijo:
@@ -61,7 +61,7 @@ Recibió muchos homenajes como periodista, profesor, dirigente deportivo de tall
 
 ## Adiós a Klee, "el periodismo es mi vida"
 
-![Aquí nuestro colega y amigo Estewil Quesada entrevista al maestro Jorge Humberto Klee: "el periodismo es mi vida" Adiós a Klee.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/adios-a-klee-el-periodismo-es-mi-vida/jorge_humberto_estewil.jpeg)
+![Aquí nuestro colega y amigo Estewil Quesada entrevista al maestro Jorge Humberto Klee: "el periodismo es mi vida" Adiós a Klee.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/09/adios-a-klee-el-periodismo-es-mi-vida/jorge_humberto_estewil.jpeg)
 *Aquí nuestro colega y amigo Estewil Quesada entrevista al maestro Jorge Humberto Klee: "el periodismo es mi vida". Cortesía.*
 
 En 2023 recibió el galardón _Vida y Obra del Primer Premio Nacional de Periodismo Deportivo Fabio Poveda Márquez_, organizado por **Acord Atlántico**. Perteneció a esta entidad y fue presidente poniendo en practica su lema:

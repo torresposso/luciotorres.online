@@ -5,10 +5,10 @@ pubDate: "2021-03-23 22:33:23"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/petro-supero-neumonia-por-covid-19-en-italia/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/petro-supero-neumonia-por-covid-19-en-italia/hero.jpg
 ---
 
-\[caption id="attachment\_14281" align="aligncenter" width="860"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/petro-supero-neumonia-por-covid-19-en-italia/hero.jpg) Gustavo Petro fue dado de alta por Covid-19. Cortesía AFP.\[/caption\]
+\[caption id="attachment\_14281" align="aligncenter" width="860"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/petro-supero-neumonia-por-covid-19-en-italia/hero.jpg) Gustavo Petro fue dado de alta por Covid-19. Cortesía AFP.\[/caption\]
 
 El senador **Gustavo Petro superó neumonía ocasionada por el virus del Covid—19.** Fue dado de alta de un hospital de Italia **sin los síntomas del virus**. Se encontraba hospitalizado por padecer de una neumonía leve, según lo explicó hoy en su cuenta de tuiter.
 
@@ -26,6 +26,6 @@ La esposa del senador Gustavo Petro, **Verónica Alcoce**r, había emitido el d�
 
 Sin embargo, en dicho comunicado, Verónica Alcocer pidió a los medios de comunicación comprensión y respeto por los derechos del senador y de su familia.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/petro-supero-neumonia-por-covid-19-en-italia/comunicado-gustavo-petro.jpg.webp)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/petro-supero-neumonia-por-covid-19-en-italia/comunicado-gustavo-petro.jpg.webp)
 
 [¿Cómo se vacuna contra el Covid-19 en Colombia?](/articulos/como-se-vacunas-contra-el-covid-19-en-colombia/)

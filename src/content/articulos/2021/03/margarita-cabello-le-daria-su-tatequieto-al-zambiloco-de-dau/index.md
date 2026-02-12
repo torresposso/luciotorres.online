@@ -5,10 +5,10 @@ pubDate: "2021-03-17 23:48:52"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/margarita-cabello-le-daria-su-tatequieto-al-zambiloco-de-dau/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/margarita-cabello-le-daria-su-tatequieto-al-zambiloco-de-dau/hero.jpg
 ---
 
-\[caption id="attachment\_14202" align="aligncenter" width="1046"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/margarita-cabello-le-daria-su-tatequieto-al-zambiloco-de-dau/hero.jpg) _¿Margarita Cabello le dará el tatequieto al zambiloco? Cabello está eredada con esta administración por la vía de los Char_. Cortesía prensa alcaldía.\[/caption\]
+\[caption id="attachment\_14202" align="aligncenter" width="1046"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/margarita-cabello-le-daria-su-tatequieto-al-zambiloco-de-dau/hero.jpg) _¿Margarita Cabello le dará el tatequieto al zambiloco? Cabello está eredada con esta administración por la vía de los Char_. Cortesía prensa alcaldía.\[/caption\]
 
 Cada día son más en Cartagena que esperan un **«tatequieto» al zambiloco de Dau** por parte de la Procuraduría y la Fiscalía. Uno de ellos es el abogado y veedor **Jair Caro Villalba**. Acaba de presentar otra denuncia ante la p**rocuradora Margarita Cabello** por declarar **«persona no grata»** a la gerente de la Andi Bolívar. Sin embargo, Cabello está más enredada  con el alcalde de Cartagena que el anterior procurador Fernando Carrillo Flórez.
 
@@ -24,7 +24,7 @@ Si hacemos un análisis comparativo de esos cuatro alcaldes que la ciudad ha ten
 
 ## A espera de un «tatequieto» al zambiloco
 
-\[caption id="attachment\_14200" align="aligncenter" width="1024"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/margarita-cabello-le-daria-su-tatequieto-al-zambiloco-de-dau/jair-caro.jpeg) **Jair Caro Villalba,** el veedor que pretende darle su **«tatequieto» al zambiloco**.\[/caption\]
+\[caption id="attachment\_14200" align="aligncenter" width="1024"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/margarita-cabello-le-daria-su-tatequieto-al-zambiloco-de-dau/jair-caro.jpeg) **Jair Caro Villalba,** el veedor que pretende darle su **«tatequieto» al zambiloco**.\[/caption\]
 
 El «tatequieto» al zambiloco no se lo han dado. Contrario a ello, los organismos de control son permisivos. Fue elegido siendo **accionista de Aguas de Cartagena** creando una ventaja sobre los demás candidatos. El Tribunal de Bolívar se ríe de eso. Desobedeció de mala gana la orden de demoler el edificio de Aquarela, y Carrillo se calló.
 
@@ -44,7 +44,7 @@ Anteriormente los gremios económicos de Bolívar tenían canal directo con el p
 
 ## Procuradora blandengue
 
-![Tatequieto al zambiloco](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/margarita-cabello-le-daria-su-tatequieto-al-zambiloco-de-dau/carrillo-mudo.jp-3-e1589221172539.jpg)
+![Tatequieto al zambiloco](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/margarita-cabello-le-daria-su-tatequieto-al-zambiloco-de-dau/carrillo-mudo.jp-3-e1589221172539.jpg)
 *El procurador Fernando Carrillo, puro comentarios. El fue "alcahueta de los corruptos". Cortesía.*
 
 La justicia en Colombia adolece de dependencia. Depende del buen postor. Ni siquiera de la relación política. Es un juego de intereses privados en detrimento del interés colectivo. El caso del Cartel de la Toga sustenta esta aseveración.

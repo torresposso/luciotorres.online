@@ -5,10 +5,10 @@ pubDate: "2024-03-15 02:14:27"
 author: "Lucio"
 categories: ["Cartagena","Destacadas","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/el-defraudar-y-despojar-de-una-supuesta-empresa-comunitaria-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/el-defraudar-y-despojar-de-una-supuesta-empresa-comunitaria-i/hero.jpg
 ---
 
-![Defraudar y despojar no solo es propio de los ricos. Hay abogados con cero en conducta que instrumentalizan a organizaciones comunitarias para enriquecerse. Arroyo de Piedra](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/el-defraudar-y-despojar-de-una-supuesta-empresa-comunitaria-i/hero.jpg)
+![Defraudar y despojar no solo es propio de los ricos. Hay abogados con cero en conducta que instrumentalizan a organizaciones comunitarias para enriquecerse. Arroyo de Piedra](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/el-defraudar-y-despojar-de-una-supuesta-empresa-comunitaria-i/hero.jpg)
 *Defraudar y despojar no solo es propio de los ricos. Hay abogados con cero en conducta que instrumentalizan a organizaciones comunitarias para enriquecerse. Ejemplo, el caso de Álvaro Perea Castro en los años 80 y 90 en predios de Arroyo de Piedra, Cartagena.*
 
 Así como hay grandes despojadores en Cartagena de Indias, también hay pequeñas empresas, al parecer, instrumentalizadas para defraudar y despojar a personas que buscan adquirir alguna propiedad. Más de 40 personas fueron estafadas por la supuesta **Empresa Comunitaria Campesina de Arroyo de Piedra**. Se alió a un supuesto abogado para vender por lotes unas tierras que pertenecían a **Eddy Marina Aguacha de López**.
@@ -21,7 +21,7 @@ Dentro de esta historia para defraudar y despojar a los incautos compradores, Re
 
 ## Defraudar y despojar, sus orígenes
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/el-defraudar-y-despojar-de-una-supuesta-empresa-comunitaria-i/ARROYO_ESCRITURA.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/el-defraudar-y-despojar-de-una-supuesta-empresa-comunitaria-i/ARROYO_ESCRITURA.jpeg)
 *Esta fue la escritura de compra del lote que los miembros de la Empresa Campesina Comunitaria de Arroyo de Piedra le arrebató a Eddy Aguancha.*
 
 En 1990, la pareja de esposos **Faustino López Mora y Eddy Marina Aguancha de López**, llevados por un deseo de cultivar y vivir un ambiente de campo, le compraron un predio de **11,5 hectáreas** a la **Empresa Comunitaria Campesina de Arroyo de Piedra** representada legalmente por Clemente Teherán Noriega. Ellos ofrecieron ese lote de terrenos de un lote mayor que le habían adquirido a la Fundación San Pedro Claver. La compra se protocolizó a través de la **escritura No 381 del 5 de febrero de 1990** registrada en la Notaría No 3 de Cartagena de Indias.
@@ -42,7 +42,7 @@ Igualmente, el 14 de diciembre de 2022 se realizó la ampliación de la inspecci
 
 ## Renzo Zúñiga, defraudar y despojar
 
-![La empresa comunitaria nació en la vida jurídica el 7 de octubre de 1980. Se dedicaron a defraudar y despojar a incautos comparadores.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/el-defraudar-y-despojar-de-una-supuesta-empresa-comunitaria-i/ARROYO_EMPRESA.jpeg)
+![La empresa comunitaria nació en la vida jurídica el 7 de octubre de 1980. Se dedicaron a defraudar y despojar a incautos comparadores.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/el-defraudar-y-despojar-de-una-supuesta-empresa-comunitaria-i/ARROYO_EMPRESA.jpeg)
 *La empresa comunitaria nació en la vida jurídica el 7 de octubre de 1980. Se dedicaron a defraudar y despojar a incautos comparadores.*
 
 De acuerdo a las investigaciones de las autoridades de la época, concluyeron de que esas dos incursiones violentas las materializaron y planificaron los mismos directivos de la empresa comunitaria, especialmente de **Renzo Abel Zúñiga Gómez** y **Clemente Teherán Noriega**. Para esto, contaron con la dirección del abogado **Álvaro Perea Castro**, _oveja negra_ de una prestante familia de la ciudad de la cual hizo parte el famoso locutor de aquellos tiempos, **Napoleón Perea Castro** y de una reconocida médica psiquiatra.

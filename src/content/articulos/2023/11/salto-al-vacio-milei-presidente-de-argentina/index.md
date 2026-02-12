@@ -5,10 +5,10 @@ pubDate: "2023-11-20 02:53:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/salto-al-vacio-milei-presidente-de-argentina/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/salto-al-vacio-milei-presidente-de-argentina/hero.jpg
 ---
 
-![Milei presidente de Argentina. ¿Salto al vacío?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/salto-al-vacio-milei-presidente-de-argentina/hero.jpg)
+![Milei presidente de Argentina. ¿Salto al vacío?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/salto-al-vacio-milei-presidente-de-argentina/hero.jpg)
 *Javier Milei y su hermana Karina Milei. ¿Salto al vacío?. Foto cortesía.*
 
 La elección del antisistémico Javier Milei ¿un salto al vacío? Luego de la segunda vuelta presidencial, el economista fue elegido presidente de Argentina frente al candidato de la izquierda kirchnerista, **Jorge Massa**, actual ministro de economía. De acuerdo a la información de las agencias internacionales, el nuevo presidente recibió **56%** de los votos por el **44%** de Massa.

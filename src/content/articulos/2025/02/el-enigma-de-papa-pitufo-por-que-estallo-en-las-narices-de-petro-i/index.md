@@ -5,10 +5,10 @@ pubDate: "2025-02-20 02:29:11"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/hero.jpg
 ---
 
-![Este es el enigma de 'Papá Pitufo': ¿Por qué estalló en el 'Gobierno del Cambio'?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/hero.jpg)
+![Este es el enigma de 'Papá Pitufo': ¿Por qué estalló en el 'Gobierno del Cambio'?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/hero.jpg)
 *Este es el enigma de 'Papá Pitufo': ¿Por qué estalló en el 'Gobierno del Cambio'?*
 
 Una pregunta resuena con fuerza para resolver el enigma de 'Papá Pitufo': ¿Por qué la telaraña de corrupción de **Diego Marín Buitrago** floreció impune durante décadas, pero explotó justo en las propias narices del presidente bajo la administración de Gustavo Petro? ¿Acaso es una telaraña tan arraigada en las estructuras del Estado que desafía toda lógica, incluso, la lógica del discurso presidencial?
@@ -23,7 +23,7 @@ De acuerdo a El Tiempo, en ese organigrama registró meticulosamente los nombre
 
 ## Una falsa esperanza
 
-![El enigma de 'Papá Pitufo', el gran desafío del presidente Gustavo Petro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/El_enigma_de_papa-pitufo-1024x724.jpg)
+![El enigma de 'Papá Pitufo', el gran desafío del presidente Gustavo Petro.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/El_enigma_de_papa-pitufo-1024x724.jpg)
 *El enigma de 'Papá Pitufo', el gran desafío del presidente Gustavo Petro.*
 
 Sin embargo, dicho policía, jamás sospechó que su esperanza ―como la de 11,3 millones de colombianos― estaba mal fincada. Sin duda, era una falsa esperanza. Puesto que a principio de ese mismo año su investigado (**'Papá Pitufo'**) le había donado **$500 millones** ―de $3 mil― a la campaña del presidente **Gustavo Petro** con el propósito de seguir con sus **«pitupillos»** en la Dian, en la Polfa, la Fiscalía y hasta en el mismo mando central.
@@ -34,7 +34,7 @@ Es decir, que al aceptar dineros de mala procedencia en la campaña presidencial
 
 ## ¿Un proyecto _lumpen―_burgués
 
-![Alexander López y Augusto Rodríguez, las dos exposiciones que impactaron a la opinión pública. El enigma de 'Papá Pitufo' se comienza a despejar.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/Alexander_augusto_rodriguez-1024x606.jpg)
+![Alexander López y Augusto Rodríguez, las dos exposiciones que impactaron a la opinión pública. El enigma de 'Papá Pitufo' se comienza a despejar.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/Alexander_augusto_rodriguez-1024x606.jpg)
 *Alexander López y Augusto Rodríguez, las dos exposiciones que impactaron a la opinión pública. El enigma de 'Papá Pitufo' se comienza a despejar.*
 
 Recordemos que **Alexander López**, director del DNP, le dijo al presidente Petro que el **'proyecto político de Benedetti'** (o Roy, se agregaría) no es el mismo del movimiento social y democrático que ellos defendieron y que la gente votó el 19 de junio de 2022. Y no es sectarismo. Porque no es lo mismo llegar a un acuerdo político con sectores de la derecha que con el _lumpen―_ **burgués** representado en la política por Benedetti y Roy.
@@ -43,7 +43,7 @@ Solo comparemos la relación de parlamentarios de todos los colores políticos q
 
 ## ¿Fiscalía y su nula efectividad?
 
-![Rueda de prensa de 15 de marzo de 2024 conjunta de la fiscal Martha Mancera y el general William René Salamanca.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/Martha_mancera_contrabando-1024x561.jpeg)
+![Rueda de prensa de 15 de marzo de 2024 conjunta de la fiscal Martha Mancera y el general William René Salamanca.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/Martha_mancera_contrabando-1024x561.jpeg)
 *Rueda de prensa de 15 de marzo de 2024 conjunta de la fiscal Martha Mancera y el general William René Salamanca. Foto Fiscalía.*
 
 Extrañamente la investigación contra bandas de contrabandistas y, especialmente, de la que dirigía **Diego Marín Buitrago**, se remonta desde el **año 2011**, según fuentes de la Fiscalía. Ninguna de ellas dio como resultados la captura de sus capos.
@@ -58,7 +58,7 @@ En las redadas que hicieron, después de 6 meses de investigación, cayeron vari
 
 ## El afán de tener Fiscal
 
-![La fiscal de Petro](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/Luz_Adriana_Camargo_Gustavo_Petro-1024x826.jpeg)
+![La fiscal de Petro](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/el-enigma-de-papa-pitufo-por-que-estallo-en-las-narices-de-petro-i/Luz_Adriana_Camargo_Gustavo_Petro-1024x826.jpeg)
 *«Yo voy a mandar», dijo la fiscal Luz Adriana Camargo. Es hora de demosrarlo.*
 
 Lo más importante de esa investigación fue la orden de captura con circulación azul, emanada de un juez colombiano contra el jefe de la banda, ****'Papá Pitufo'****. Pero dado a su red de informantes, logró escabullirse a España valiéndose de su doble nacionalidad española. Allí fue puesto en libertad, dado a que como ciudadano español, no podía ser extraditado a Colombia sino juzgado en España. Pero, cuando entró a Portugal, fue capturado en el 2024.

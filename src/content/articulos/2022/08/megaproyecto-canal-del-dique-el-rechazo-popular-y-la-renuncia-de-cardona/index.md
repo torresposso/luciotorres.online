@@ -5,10 +5,10 @@ pubDate: "2022-08-06 20:05:50"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/hero.jpg)
 *Probablemente Diana Cecilia Cardona Restrepo, quien renunció de la vicepresidente de ANI, no se dio cuenta que la mayoría de las 16 consultas previas del megaproyecto Canal del Dique fueron fraudulentas. Aquí aparece al lado del presidente de la ANI, Manuel Felipe Gutiérrez Torres. Cortesía.*
 
 Lo que realmente llevó a la renuncia irrevocable a la Vicepresidenta **Diana Carolina Cardona Restrepo**, Vicepresidenta de Estructuración de la ANI, y la postergación de la adjudicación del megaproyecto Canal del Dique, fueron tres hechos contundentes que incidieron sobre el futuro de la licitación del megaproyecto. Aquí los relacionamos en **VoxPopuli Digital**.
@@ -21,7 +21,7 @@ Lo que realmente llevó a la renuncia irrevocable a la Vicepresidenta **Diana Ca
 
 ## Sacyr y el soborno internacional
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/ONU-ALIANZA-CANAL.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/ONU-ALIANZA-CANAL.jpg)
 *Una de las escuchas realizada por la ONU Colombia en 2021 en la reunión de la Alianza Canal del Diqque. Aquí en la sede de la Fundación Vox Populi Corporación. Foto Camilo Torres.*
 
 La que fuera vicepresidente **Diana Cardona Restrepo**, al ver el duro cuestionamiento a la firma SACYR sobre presunto soborno internacional, se hizo esta pregunta:
@@ -41,7 +41,7 @@ Por su parte, las veedurías (por ejemplo, **Héctor Pérez Fernández**) que ac
 
 ## Dos años de acción comunicativa
 
-![Plantón ante la ANI, las diferentes tomas, las 200 reuniones realizadas en el seno de las comunidades y las acciones comunicativas obligaron a la ANI a aplazar la adjudicación de la licitación del megaproyecto Canal del Dique. Esta es una de las toma.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/canal-del-dique-protesta.jpeg)
+![Plantón ante la ANI, las diferentes tomas, las 200 reuniones realizadas en el seno de las comunidades y las acciones comunicativas obligaron a la ANI a aplazar la adjudicación de la licitación del megaproyecto Canal del Dique. Esta es una de las toma.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/canal-del-dique-protesta.jpeg)
 *Plantón ante la ANI, las diferentes tomas, las 200 reuniones realizadas en el seno de las comunidades y las acciones comunicativas obligaron a la ANI a aplazar la adjudicación de la licitación del megaproyecto Canal del Dique. Esta es una de las toma.*
 
 Cerca de dos años, desafiando la pandemia, las comunidades del Canal del Dique se dieron a una férrea oposición al megaproyecto Canal del Dique **"Restauración de los Ecosistemas Degradados"**. Esta oposición forzó su **aplazamiento para el 12 de agosto** con el fin de que el gobierno de Petro tome la decisión de adjudicar o no. Esta iniciativa se había vendido desde Bogotá y Cartagena como la panacea de los grandes problemas de la Ecorregión. Pero la sabiduría popular decía otra cosa.
@@ -52,7 +52,7 @@ La ANI estructuró el megaproyecto a espalda de las comunidades. Y esto es una c
 
 ## El origen del megaproyecto Canal del Dique
 
-![Este es una ecorregión degrada por los proyectos económicos y el descuido de siglos del Estado colombiano. El megaproyecto Canal del Dique se vendió como la panacea de esos problemas.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/canal-del-dique-ecosistema.jpg)
+![Este es una ecorregión degrada por los proyectos económicos y el descuido de siglos del Estado colombiano. El megaproyecto Canal del Dique se vendió como la panacea de esos problemas.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/canal-del-dique-ecosistema.jpg)
 *Este es una ecorregión degrada por los proyectos económicos y el descuido de siglos del Estado colombiano. El megaproyecto Canal del Dique se vendió como la panacea de esos problemas.*
 
 Nadie discute la necesidad del megaproyecto Canal del Dique. Todos coinciden en la necesidad de su ejecución, incluso, las mismas comunidades. El problema que se suscitó es que, desde el comienzo mismo de la idea de esa prospectiva, no hubo una escucha efectiva de las personas que viven, trabajan y hacen el amor en el Canal del Dique.
@@ -89,7 +89,7 @@ De acuerdo, con los testimonios de la misma comunidad y los documentos que prese
 
 ## La carta de renuncia de Cardona
 
-![Manuel Felipe Gutiérrez, presidente de la ANI en compañía de Adriana Cardona, Vicepresidenta de Estructuración y Julio Diez Díaz, director de Desarrollo Sostenible en su primera visita al megaproyecto Canal del Dique, 2019.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/diana-cardona-restrepo-en-el-canal-del-dique.jpg)
+![Manuel Felipe Gutiérrez, presidente de la ANI en compañía de Adriana Cardona, Vicepresidenta de Estructuración y Julio Diez Díaz, director de Desarrollo Sostenible en su primera visita al megaproyecto Canal del Dique, 2019.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/megaproyecto-canal-del-dique-el-rechazo-popular-y-la-renuncia-de-cardona/diana-cardona-restrepo-en-el-canal-del-dique.jpg)
 *Manuel Felipe Gutiérrez, presidente de la ANI en compañía de Adriana Cardona, Vicepresidenta de Estructuración y Julio Diez Díaz, director de Desarrollo Sostenible en su primera visita al megaproyecto Canal del Dique, 2019.*
 
 **Diana Cecilia Cardona Restrepo**, vicepresidenta de estructuración de la ANI, sorpresivamente **presentó su carta de renuncia el pasado 3 de agosto**. Al mismo tiempo, decidió aplazar el proceso hasta el 5 de agosto. Posteriormente, el presidente Gutiérrez Torres lo postergó para el 12 de agosto. Es decir, que Gustavo Petro debe decidir sobre la suerte de la licitación. En tanto, el lunes 1 de agosto, la Alianza para la Defensa y Desarrollo del Territorio Canal del Dique realizó una toma del Megaproyecto Canal del Dique. El mismo 3 de agosto se hicieron plantones al frente de la ANI.

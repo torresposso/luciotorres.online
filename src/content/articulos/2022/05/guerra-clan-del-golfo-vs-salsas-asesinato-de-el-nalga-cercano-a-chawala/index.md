@@ -5,10 +5,10 @@ pubDate: "2022-05-05 18:26:30"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/guerra-clan-del-golfo-vs-salsas-asesinato-de-el-nalga-cercano-a-chawala/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/guerra-clan-del-golfo-vs-salsas-asesinato-de-el-nalga-cercano-a-chawala/hero.jpg
 ---
 
-![La guerra Clan del Golfo Vs. Salsas Mexicanos](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/guerra-clan-del-golfo-vs-salsas-asesinato-de-el-nalga-cercano-a-chawala/alias-paty-paty.jpeg)
+![La guerra Clan del Golfo Vs. Salsas Mexicanos](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/guerra-clan-del-golfo-vs-salsas-asesinato-de-el-nalga-cercano-a-chawala/alias-paty-paty.jpeg)
 *Este es un anuncio de la Policía Nacional de los más buscados en Cartagena. El «Paty Paty» y el «Mono Paisa», quien fue capturado en abril de 2021, pero ahora está libre y lo están buscando.*
 
 **La guerra Clan del Golfo Vs Salsas Mexicanos** se recrudeció en los últimos días después de una breve tregua. Es una guerra que promete intensificarse con la extradición en las últimas horas de Alias **«Otoniel»** a los Estados Unidos. Anoche fue asesinado **«el Nalga»** en San Fernando, un barrio al suroccidente de Cartagena. Era hermano de la esposa del hijo de **«Chawala». Se** indicó que hacía parte del grupo de **«Paty Paty»**, según fuentes de entero crédito. 
@@ -19,7 +19,7 @@ Para aquellos que creen que la guerra solo le atañe a los delincuentes que mili
 
 ## **«El Nalga»**
 
-![Así quedó «el Nalga». Es la guerra Clan del Golfo Vs. Salsas Mexicanos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/guerra-clan-del-golfo-vs-salsas-asesinato-de-el-nalga-cercano-a-chawala/el-nalga.jpeg)
+![Así quedó «el Nalga». Es la guerra Clan del Golfo Vs. Salsas Mexicanos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/guerra-clan-del-golfo-vs-salsas-asesinato-de-el-nalga-cercano-a-chawala/el-nalga.jpeg)
 *Así quedó «el Nalga», de cúbito abdominal. Esta es la guerra Clan del Golfo Vs Salsas Mexicanos.*
 
 Como se dijo, Gaviria Simancas tenía una hermana con vínculo civiles a la familia del popular **«Chawala».** Al principio se creyó que la herida en el atentado de ayer era su hermana. Pero esto no fue confirmado por la policía. En los mentideros del bajo mundo**,** se sabía que **alias «el Nalga» "**trabajaba" para el **«Paty Paty»,** el alias de **Armando Elías Buelvas Sepúlveda.** Este personaje quedó al mando de los reductos del Clan El Golfo, luego de los diferentes golpes militares y de drogas incautadas durante los últimos meses.

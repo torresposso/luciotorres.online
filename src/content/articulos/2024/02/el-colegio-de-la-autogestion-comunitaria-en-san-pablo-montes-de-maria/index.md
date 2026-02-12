@@ -5,10 +5,10 @@ pubDate: "2024-02-06 03:18:48"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-colegio-de-la-autogestion-comunitaria-en-san-pablo-montes-de-maria/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/el-colegio-de-la-autogestion-comunitaria-en-san-pablo-montes-de-maria/hero.jpg
 ---
 
-![En esta asamblea se aclaró sobre el recaudo de los $10 mil destinados a un aula del colegio. Colegio de autogestión comunitaria. /VoxPopuli Digital.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-colegio-de-la-autogestion-comunitaria-en-san-pablo-montes-de-maria/hero.jpg)
+![En esta asamblea se aclaró sobre el recaudo de los $10 mil destinados a un aula del colegio. Colegio de autogestión comunitaria. /VoxPopuli Digital.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/el-colegio-de-la-autogestion-comunitaria-en-san-pablo-montes-de-maria/hero.jpg)
 *En esta asamblea se aclaró sobre el recaudo de los $10 mil destinados a un aula del colegio. Colegio de autogestión comunitaria. /VoxPopuli Digital.*
 
 La **Institución Etnoeducativa Técnica en Agroindustria y Sistema de San Pablo- IETA** fue creada por la misma comunidad en el corregimiento de María la Baja, en el corazón de los **Montes de María**, zona de Bolívar. Sin duda, son _héroes sin capa_ que no esperan ni siquiera las gracias. Ellos lograron conseguir el lote hasta construir las estructuras con el diseño de la Universidad de Cartagena. Hoy, es el colegio de la autogestión comunitaria en San Pablo, cuyos padres de familia aportan para mejorar y ampliar el servicio educativo.
@@ -31,7 +31,7 @@ Al respecto, **Edgar García** del consejo comunitario de San Pablo en plena asa
 
 ## El regreso con nuevos sueños
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/el-colegio-de-la-autogestion-comunitaria-en-san-pablo-montes-de-maria/ieta_fachada_2-1024x768.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/el-colegio-de-la-autogestion-comunitaria-en-san-pablo-montes-de-maria/ieta_fachada_2-1024x768.jpg)
 
 El regreso al colegio en este 2024 es un motivo de alegría para un nuevo comienzo, un nuevo reto de aprender de mil quinientos niños afrodecendientes de esta **institución etnoeducativa**. Son niños que buscan ser mejores seres humanos, _héroes sin capa_ como aquellos que hicieron posible la existencia de este colegio.
 

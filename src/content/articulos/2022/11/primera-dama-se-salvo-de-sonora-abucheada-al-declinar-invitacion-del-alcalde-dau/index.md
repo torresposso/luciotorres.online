@@ -5,10 +5,10 @@ pubDate: "2022-11-13 02:45:29"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/primera-dama-se-salvo-de-sonora-abucheada-al-declinar-invitacion-del-alcalde-dau/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/primera-dama-se-salvo-de-sonora-abucheada-al-declinar-invitacion-del-alcalde-dau/hero.jpg
 ---
 
-![El que aprovechó el PMU nacional para ayudar a los damnificados fue el gobernador Blel. El alcalde Dau sigue en la nebulosa mamando ron y otras sustancias en las fiestas.  Primera dama se salvó de sonora abucheada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/primera-dama-se-salvo-de-sonora-abucheada-al-declinar-invitacion-del-alcalde-dau/hero.jpg)
+![El que aprovechó el PMU nacional para ayudar a los damnificados fue el gobernador Blel. El alcalde Dau sigue en la nebulosa mamando ron y otras sustancias en las fiestas.  Primera dama se salvó de sonora abucheada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/primera-dama-se-salvo-de-sonora-abucheada-al-declinar-invitacion-del-alcalde-dau/hero.jpg)
 *El que aprovechó el PMU nacional para ayudar a los damnificados fue el gobernador Blel. El alcalde Dau sigue en la nebulosa mamando ron y otras sustancias en las fiestas. De ser copero de los Duque, ahora pretende atender a los Petro. Menos mal que la primera dama se salvó de sonora abucheada.*
 
 La simpática, inteligente y hermosa primera dama de Colombia, **Verónica del Socorro Alcocer García**, declinó una invitación a desfilar en la «carroza anticorrupción». Igualmente no aceptó exhibirse junto a **William Dau Chamat** en el palco central del bando ubicado en la avenida Santander. En realidad, la primera dama se salvó de la **sonora abucheada** que los cartageneros le tenían reservada a su alcalde calificado por inepto, corrupto y desconsiderado. **La ciudad colapsó y se derrumba, mientras Dau anda de rumba.** Esta es la segunda entrega de esta serie.
@@ -31,7 +31,7 @@ Lo sorprendente de este melodrama que vivimos los cartageneros es que la misma A
 
 ## Blel, hechos; y Dau, bla-bla-bla
 
-![El PMU del gobierno nacional y la Primera Dama que desaprovechó el alcalde de Cartagena, William Dau. Primera dama se salvó de sonora abucheada](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/primera-dama-se-salvo-de-sonora-abucheada-al-declinar-invitacion-del-alcalde-dau/PMU.jpg)
+![El PMU del gobierno nacional y la Primera Dama que desaprovechó el alcalde de Cartagena, William Dau. Primera dama se salvó de sonora abucheada](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/primera-dama-se-salvo-de-sonora-abucheada-al-declinar-invitacion-del-alcalde-dau/PMU.jpg)
 *El PMU del gobierno nacional y la Primera Dama que desaprovechó el alcalde de Cartagena, William Dau. Los gobernadores de Bolívar y Atlántico lo aprovecharon.*
 
 Mientras William Dau desaprovechó la oportunidad brindada por el gobierno nacional que llegó al **Puesto de Mando Unificado** **Nacional** para atender la emergencia de la ola de lluvias, el gobernador de Bolívar, se puso las pilas exigiendo a los alcaldes que actualicen el censo de damnificados.
@@ -42,7 +42,7 @@ De esa manera tendrán los instrumentos necesarios para que cada damnificado pue
 
 ## El Chorro y La Legua
 
-![El gobernador de Bolívar, Vicente Blel, atendiendo a los damnificados en Barranco de Loba. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/primera-dama-se-salvo-de-sonora-abucheada-al-declinar-invitacion-del-alcalde-dau/vicente-blel-atendiendo-damnificados.jpg)
+![El gobernador de Bolívar, Vicente Blel, atendiendo a los damnificados en Barranco de Loba. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/primera-dama-se-salvo-de-sonora-abucheada-al-declinar-invitacion-del-alcalde-dau/vicente-blel-atendiendo-damnificados.jpg)
 *El gobernador de Bolívar, Vicente Blel, atendiendo a los damnificados en Barranco de Loba.*
 
 Este periodista, por ejemplo estuvo en las veredas **El Chorro y La Legua**, jurisdicción del municipio de Turbana, atendiendo la solicitud de varios parceleros de esas veredas. Se constató los daños producidos a varios agricultores. Hubo un deslizamiento de tierra que afectó el cultivo de plátano, papaya, mafufo y otros productos de pancoger. Dos kilómetros adentro penetramos a pie superando el barro gallego que se adhería a nuestras botas. Los vehículos y los mulos no podían pasar. Pero pudimos constatar las denuncias de la junta de acción comunal y del consejo comunitario que están esperando la atención de la alcaldesa, Ana Lucía Guerrero.

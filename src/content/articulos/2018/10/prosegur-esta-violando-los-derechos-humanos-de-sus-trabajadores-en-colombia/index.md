@@ -5,10 +5,10 @@ pubDate: "2018-10-18 05:24:55"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/prosegur-esta-violando-los-derechos-humanos-de-sus-trabajadores-en-colombia/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/prosegur-esta-violando-los-derechos-humanos-de-sus-trabajadores-en-colombia/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/prosegur-esta-violando-los-derechos-humanos-de-sus-trabajadores-en-colombia/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/prosegur-esta-violando-los-derechos-humanos-de-sus-trabajadores-en-colombia/hero.jpg)
 *Victor Romero, después de 32 años de servicios a Prosegur lo botaron y lo liquidaron con menos de $3 millones. La cooperativa no le ha pagado sus aportes. A la gerente de la cooperativa, Yasmín Ospino, también la despidieron y le deben todo.*
 
 **Víctor Romero Orozco**, 54 años, era un aplicado guarda de vigilancia con 32 años de servicio en Prosegur, hasta cuando una mañana del mes de julio de 2018, el gerente de la regional de Cartagena de Indias, le entregó la carta de retiro sin justa causa y también lo excluyó de la Cooperativa de Servicios al Trabajador-**Cooservicios**, y hasta ahora no le han pagados sus aportes cooperativos. De una sola _cochada_, despidieron 20 guardias que tenían contrato a tiempo indefinido.
@@ -23,7 +23,7 @@ Cuando adquirieron _**Vimarco**_, de los hermanos Berrío, ya existía la cooper
 
 **¿Botar a una mujer que está disfrutando su licencia de maternidad es violatorio de los derechos humanos? Si.** ¿Quién tomó la decisión? Las jefes seccionales de recursos humanos de **Prosegur** que hacen parte, al mismo tiempo, del Consejo de Administración de la cooperativa.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/prosegur-esta-violando-los-derechos-humanos-de-sus-trabajadores-en-colombia/jorge-mora-rojas.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/prosegur-esta-violando-los-derechos-humanos-de-sus-trabajadores-en-colombia/jorge-mora-rojas.jpg)
 *Jorge Alfonso Rojas Mora, de profesor a guillotina en Prosegur. Es el jefe de Recursos Humanos de la entidad.*
 
 Precisamente las jefes del Ser tienen tanta injerencia en la Cooperativa que **iniciaron una política sistemática de desafiliación de los trabajadores a la cooperativa** por directrices del mismo gerente de Recursos Humanos de Prosegur. **La cooperativa con NIT No 830.505.539-5,** funciona como una dependencia de Prosegur en sus instalaciones. En la época que Roberto Barrios era gerente de la seccional Cartagena de Prosegur, también fungía como presidente del Consejo de Administración de la Cooperativa. A los trabajadores despedidos, se les adeuda sus aportes a la cooperativa. A la gerente que despidieron, no le han pagado sus prestaciones sociales ni las cesantías con lo cual no solo le afectó sus derechos sino también a sus hijos, en especial, a su bebé que sigue amamantando.

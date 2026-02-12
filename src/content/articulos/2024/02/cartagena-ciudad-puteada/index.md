@@ -5,10 +5,10 @@ pubDate: "2024-02-22 03:06:10"
 author: "Lucio"
 categories: ["Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/cartagena-ciudad-puteada/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/cartagena-ciudad-puteada/hero.jpg
 ---
 
-![Cartagena ¿ciudad puteada? Es el gran reto del alcalde Dumek Turbay Paz derrotar ese estigma que tiene bases materiales./Prensa alcaldía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/cartagena-ciudad-puteada/Dumek-Turbay_playa-1024x683.jpeg)
+![Cartagena ¿ciudad puteada? Es el gran reto del alcalde Dumek Turbay Paz derrotar ese estigma que tiene bases materiales./Prensa alcaldía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/cartagena-ciudad-puteada/Dumek-Turbay_playa-1024x683.jpeg)
 *Aquí inspeccionando las playas para el turismo familiar y cultural. Cartagena ¿ciudad puteada? Es el gran reto del alcalde Dumek Turbay Paz derrotar ese estigma que tiene bases materiales./Prensa alcaldía.*
 
 ¿Una ciudad puteada? Es el gran desafío del alcalde **Dumek Turbay**. Un desafío para los próximos 4 años. No es tan difícil para un hombre ejecutivo y de resultados. Desde hace 30 años, aproximadamente, las hermosas playas de la ciudad fueron tomadas por una **horda de tránsfugas** que, en su mayoría, estafan al turista. Es el caso de \***Carlos Castro** (nombre ficticio), residente en San Francisco, en un fin de semana se puede "ganar" un promedio de **$1.500.000** y cuando logra un cruce con los turistas extranjeros, esa cifra aumenta el doble. Pero, el 90% de esos ingresos se quedan en el festejo del **"lunes de alegría"** y **"el martes de Chanchito"** donde los ríos de licor y droga corren libremente al ritmo de la champeta.
@@ -21,7 +21,7 @@ Otros, que se hacen pasar por operadores de playa (¡hasta lista de precios tien
 
 ## _El dedo en la llaga_
 
-![Le caen como chagua al turista para estafarlo/captura de pantalla. Ciudada puteada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/cartagena-ciudad-puteada/hero.jpg)
+![Le caen como chagua al turista para estafarlo/captura de pantalla. Ciudada puteada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/cartagena-ciudad-puteada/hero.jpg)
 *El constructor de contenidos italiano se convirtió en conejillo de indias para mostrar esa realidad. Le caen como chagua al turista para estafarlo. Aellos les parece normal, porque creen que se están ganando la vida. /captura de pantalla. Ciudada puteada.*
 
 Se quiere poner el dedo en la llaga. Duelale a quien le duela. ¿Cartagena es una ciudad puteada? El alcalde **Dumek Turbay Paz** conoce perfectamente esta situación, y admiramos su dinamismo, porque es un mandatario de resultados. Ya se publicó en **VoxPopuli.Digital** un análisis de este proceso de pauperización y lumpenización de las playas de _La Heroica_. Fenómeno social que coincidió con un proceso de despojo de la tierra de los nativos. Estos perdieron el gusto por su tierra, su agua y su pescado. Hubo una ruptura cultural y del tejido social. Cuando uno los entrevista, muchos de ellos señalan que se fueron detrás de los dólares del turismo depredador y de la droga influido por obtener "dinero fácil y rápido". Otros alcanzaron a emplearse en los 40 hoteles 5 estrellas y en las decenas de resorts creados en el sistema insular de la ciudad. Y los que se resisten, son mototaxistas, vendedores estacionarios y ambulantes honestos.
@@ -32,7 +32,7 @@ Todo lo que hizo Dumek en la alta temporada de enero poco sirvió. Es imprescind
 
 ## ¿Ciudad puteada desde arriba?
 
-![Carlos Díaz Redondo, alcalde 2001-2003, el último en intervenir las Comisarías de Familia./X](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/cartagena-ciudad-puteada/carlos-diaz.jpg)
+![Carlos Díaz Redondo, alcalde 2001-2003, el último en intervenir las Comisarías de Familia./X](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/cartagena-ciudad-puteada/carlos-diaz.jpg)
 *Carlos Díaz Redondo, alcalde 2001-2003, el último en intervenir las Comisarías de Familia./X*
 
 > "Si los de arriba tocan el violín, ¿qué les queda a los de abajo sino ponerse a bailar?”

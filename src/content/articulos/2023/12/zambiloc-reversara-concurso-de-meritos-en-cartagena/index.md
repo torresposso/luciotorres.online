@@ -5,10 +5,10 @@ pubDate: "2023-12-30 01:20:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/zambiloc-reversara-concurso-de-meritos-en-cartagena/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/zambiloc-reversara-concurso-de-meritos-en-cartagena/hero.jpg
 ---
 
-![El Zambiloco se fumó todo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/zambiloc-reversara-concurso-de-meritos-en-cartagena/hero.jpg)
+![El Zambiloco se fumó todo](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/zambiloc-reversara-concurso-de-meritos-en-cartagena/hero.jpg)
 *¿L@ Zambiloc@ reversará concurso en Cartagena?*
 
 ¿El Zambiloc@ reversará concurso en Cartagena? **William Dau Chamat**, alcalde de Cartagena (¡uff!, hasta las 12:00 del 31 de diciembre de 2023) no reversará el concurso de méritos para proveer cargos que estaban en provisionalidad, tal como se lo solicitaron los sindicatos SINSERPUPROCAR y SUSPEDECAR. Mientras el renuente mandatario viola derechos laborales de los empleados de la alcaldía, en la Plaza de la Aduana **le tiraron tomates podridos** y se prepara una **quema masiva de muñecos de Año Viejo** con su disfraz de alcalde como **despedida a su nefando desgobierno.**

@@ -5,10 +5,10 @@ pubDate: "2022-04-24 13:51:04"
 author: "Lucio"
 categories: ["Análisis","Mi País","Opinión","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/hero.jpg)
 *¿Sueño o pesadilla? Proyecto Canal del Dique. En el centro, Marta Lucía Ramírez, vicepresidenta de la República. El presidente de la ANI, Manuel Felipe Gutiérrez.*
 
 **¿Sueño o pesadilla?** Es la pregunta que nos queda por responder después de escuchar al **presidente Iván Duque Márquez** y a los demás contertulios del Foro sobre el megaproyecto **«Restauración de los Ecosistemas Degradados del Canal del Dique»**. El evento se realizó el 22 de abril en Cartagena de Indias. Asistieron diferentes sectores de la sociedad cartagenera, menos los representantes de la comunidad que será impactada del proyecto.
@@ -29,7 +29,7 @@ De tal manera, el presidente nacional destacó que se invertirán **$7,14 billon
 
 ## ¿Sueño o pesadilla de la posverdad?
 
-![Felices vendiendo nuestros recursos naturales del Canal del Dique. ¿Sueño o pesadilla? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/Felices-y-contentos-vendiendo-nuestros-recursos_Canal-del-Dique.jpg)
+![Felices vendiendo nuestros recursos naturales del Canal del Dique. ¿Sueño o pesadilla? ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/Felices-y-contentos-vendiendo-nuestros-recursos_Canal-del-Dique.jpg)
 *Felices vendiendo nuestros recursos naturales del Canal del Dique. ¿Sueño o pesadilla?*
 
 En este sentido el presidente de la república puso el debate en el marco de la posverdad: 
@@ -40,7 +40,7 @@ En este sentido el presidente de la república puso el debate en el marco de la 
 
 ## Modelo desarrollista
 
-![Hoy, felices y alegres por un sueño para inversionistas extranjeros y una pesadilla de hambre para los 150 mil pobladores del Canal del Dique. Clausura del foro Canal del Dique un sueño posible realizado en cartagena el 22 de abril. ¿Sueño o pesadilla?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/FORO-CANAL-DEL-DIQUE.jpeg)
+![Hoy, felices y alegres por un sueño para inversionistas extranjeros y una pesadilla de hambre para los 150 mil pobladores del Canal del Dique. Clausura del foro Canal del Dique un sueño posible realizado en cartagena el 22 de abril. ¿Sueño o pesadilla?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/FORO-CANAL-DEL-DIQUE.jpeg)
 *Iván Duque Márquez, la ministra del Transporte Ángela María Orozco, gobernador de Bolívar Vicente Blel Escaff y el presidente de la ANI, Manuel Felipe Gutiérrez, felices y alegres por un sueño para inversionistas extranjeros y una pesadilla de hambre para los 150 mil pobladores del Canal del Dique. Clausura del foro Canal del Dique un sueño posible realizado en Cartagena el 22 de abril. ¿Sueño o pesadilla?*
 
 Que todo lo privado garantiza la transparencia de la inversión económica es un principio de la posverdad. Pero la realidad es completamente contraria a este criterio que solo se encuentra en la emoción y en el sentido ideológico del exponente para crear una **opinión pública favorable**. Las obras faraónicas despiertan interés emocional de la sociedad. Pero solo tienen una finalidad: **acrecentar las arcas de los privadas a expensas del perjuicio de los derechos colectivos.** 
@@ -65,7 +65,7 @@ Pero el presidente de los colombianos, fiel exponente del interés privado sobre
 
 ## ¿Se puede modificar el proyecto?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/Canal-del-Dique-Ilustres-visitantes-del.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/sueno-o-pesadilla-de-la-posverdad-foro-canal-del-dique/Canal-del-Dique-Ilustres-visitantes-del.jpg)
 *Los posibles inversionistas hicieron un recorrido por el Canal del Dique acompañados de Marta Lucía Ramírez.*
 
 Finalmente vale preguntarnos, ¿Se puede modificar el proyecto **«Restauración de los Ecosistemas Degradados del Canal del Dique»?** Marta Lucía Ramírez, la vicepresenta de la República y encargada de coordinar la adjudicación de la obra, cree que no.

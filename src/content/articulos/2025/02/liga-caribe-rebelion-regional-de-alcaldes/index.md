@@ -5,10 +5,10 @@ pubDate: "2025-02-14 03:59:42"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/liga-caribe-rebelion-regional-de-alcaldes/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/liga-caribe-rebelion-regional-de-alcaldes/hero.jpg
 ---
 
-![Liga Caribe: ¿Rebelión regional de alcaldes?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/liga-caribe-rebelion-regional-de-alcaldes/hero.jpg)
+![Liga Caribe: ¿Rebelión regional de alcaldes?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/liga-caribe-rebelion-regional-de-alcaldes/hero.jpg)
 *Mandatarios de la región Caribe con el exministro del Interior, Juan Fernando Cristo. Liga Caribe: ¿Rebelión regional de alcaldes? Cortesía.*
 
 Superar el falso dilema entre **centralismo y federalismo** en Colombia no es tarea fácil para construir un país más justo, equitativo y próspero. Pero este propósito no se planteó en el foro **«Autonomía territorial: competencias para el desarrollo»** realizado hoy en Cartagena donde nació la **Liga Caribe de Alcaldes**. ¿Una rebelión regional de alcaldes o un proyecto político autónomo? No hubo claridad sobre la naturaleza de la iniciativa.
@@ -21,14 +21,14 @@ La autonomía propuesta en el encuentro se redujo a una mayor participación en 
 
 Esto lo señaló claramente el gobernador del Atlántico, **Eduardo Verano de la Rosa**:
 
-![Verano de la Rosa. ¿Rebelión regional de alcaldes? Liga Caribe](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/liga-caribe-rebelion-regional-de-alcaldes/Eduardo_verano_de_la_rosa-1024x789.jpeg)
+![Verano de la Rosa. ¿Rebelión regional de alcaldes? Liga Caribe](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/liga-caribe-rebelion-regional-de-alcaldes/Eduardo_verano_de_la_rosa-1024x789.jpeg)
 *Eduardo Verano de la Rosa, exconstituyente, abanderado de la descentralización. ¿Rebelión regional de alcaldes?*
 
 > **«**(... debe haber un reparto equitativo de los recursos y cada uno manejar sus propios recursos con autonomía. Y eso es lo que nosotros denominamos el Estado Regional**»**.
 > 
 > Eduardo Verano de la Rosa, gobernador del Atlántico.
 
-![Hugo Kerguelén, alcalde de Montería](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/liga-caribe-rebelion-regional-de-alcaldes/Hugo_kerguelen.jpg)
+![Hugo Kerguelén, alcalde de Montería](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/liga-caribe-rebelion-regional-de-alcaldes/Hugo_kerguelen.jpg)
 *Hugo Kerguelén, alcalde de Montería.*
 
 Igualmente, el alcalde de Montería, **Hugo Kerguelén**, dijo que en los territorios se necesitan más apoyo, más recursos, porque son los alcaldes y gobernadores que conocen las necesidades de la gente.
@@ -37,7 +37,7 @@ No obstante, en este texto de **VoxPopuli Digital** se propone buscar conciliar 
 
 ## Rebelión o descentralización
 
-![Parte del Foro convocado por la Liga Caribe: autonomía territorial: competencias para el desarrollo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/liga-caribe-rebelion-regional-de-alcaldes/Liga_Caribe_auditorio-1024x463.jpg)
+![Parte del Foro convocado por la Liga Caribe: autonomía territorial: competencias para el desarrollo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/liga-caribe-rebelion-regional-de-alcaldes/Liga_Caribe_auditorio-1024x463.jpg)
 *Parte del Foro convocado por la Liga Caribe: autonomía territorial: competencias para el desarrollo. Cortesía.*
 
 El anfitrión de la reunión y de la iniciativa de la Liga Caribe, **Dumek Turbay** **Paz**, considera que aquí se construyeron las bases para un proceso de descentralización efectivo:
@@ -56,7 +56,7 @@ Es cierto lo que dice el alcalde Turbay que la descentralización es un derecho 
 
 ## Liga Caribe por la autonomía
 
-![Intervención de Dumek Turbay en el foro dela Liga Caribe](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/02/liga-caribe-rebelion-regional-de-alcaldes/Liga_Caribe_Turbay_auditorio.jpg)
+![Intervención de Dumek Turbay en el foro dela Liga Caribe](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/liga-caribe-rebelion-regional-de-alcaldes/Liga_Caribe_Turbay_auditorio.jpg)
 *Intervención de Dumek Turbay.*
 
 Los mandatarios locales del Caribe ―encabezados por **Dumek Turbay**, alcalde de Cartagena― abrieron nuevamente el debate fundamental sobre la autonomía de las regiones. Este debate tiene 200 años de historia política en Colombia. En el siglo XIX se creó la **Liga Costeña** como respuesta al centralismo de Bogotá que afectaba a las regiones periféricas, especialmente la costa Caribe colombiana.

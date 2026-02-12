@@ -5,10 +5,10 @@ pubDate: "2022-02-19 18:54:22"
 author: "Lucio"
 categories: ["Análisis","Investigación","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-el-camino-de-un-falso-positivo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/caso-gloria-estrada-el-camino-de-un-falso-positivo/hero.jpg
 ---
 
-![El camino de un falso positivo ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-el-camino-de-un-falso-positivo/hero.jpg)
+![El camino de un falso positivo ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/caso-gloria-estrada-el-camino-de-un-falso-positivo/hero.jpg)
 *El agente de policía Luis Barboza hace el procedimiento de captura. Pero no participó en el operativo de decomiso del supuesto kilo de cocaína. El informe policivo lo firmó el agente Alexander Salas, quien halló la droga.*
 
 Estamos transitando —probablemente— por el camino de un falso positivo en el Caso de Gloria Estrada. Luego de más de un mes desde el operativo policivo del pasado 14 de enero que terminó con la captura de la presidenta del concejo del Distrito de Cartagena, **Gloria Estrada Benavides**, promete revelar hechos sin precedentes que refleja la degradación del ejercicio de la política en la Costa Norte de Colombia. Con estas nuevas revelaciones que antecedieron al operativo y las irregularidades que cometió la policía no buscamos construir un **_iter criminis._** Pero confirmarían la teoría según la cual **terceros quieren incriminarla para sacarla de la actividad política.**
@@ -39,7 +39,7 @@ De tal manera que el concepto de Martínez Sinisterra es válido si analizamos e
 
 ## El camino de un falso positivo
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/caso-gloria-estrada-el-camino-de-un-falso-positivo/agentes-que-participaron-en-lacaptura.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/caso-gloria-estrada-el-camino-de-un-falso-positivo/agentes-que-participaron-en-lacaptura.jpg)
 *Arriba, izq. Alexander Salas, quien halló la droga. Der. el agente Esneider López. No aparece el tercer agente del operativo Yosman Orozco Benavides. Abajo, Braulio Vanegas, el cuarto ocupante de la Ford, permanece impávido, pero lo dejaron libre. El informe policivo habla de tres ocupantes. ¡Falso!*
 
 Por esa razón, la teoría del complot cobra mayor fuerza. Sobre esto hay dos elementos que debemos tener en cuenta para definir los caminos que nos pueden conducir al esclarecimiento de este hecho criminal. **La autoría material y la autoría intelectual.** Según los expertos, para incriminar a alguien de un delito que no cometió, necesariamente surge de la mente de quien lo concibió. ¿Qué lo motivó para concebir esa idea? Empecemos por la primera. Las circunstancias, modo y forma de cómo acontecieron los hechos, despeja el camino de un falso positivo. Esto, a su vez, nos conduciría a los autores intelectuales y a los determinadores del delito. 

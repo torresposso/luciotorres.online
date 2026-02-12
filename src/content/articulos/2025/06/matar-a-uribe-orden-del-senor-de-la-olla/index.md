@@ -5,10 +5,10 @@ pubDate: "2025-06-16 00:44:33"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/matar-a-uribe-orden-del-senor-de-la-olla/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/matar-a-uribe-orden-del-senor-de-la-olla/hero.jpg
 ---
 
-![¡Matar a Uribe! Orden del «Señor de la olla»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/matar-a-uribe-orden-del-senor-de-la-olla/hero.jpg)
+![¡Matar a Uribe! Orden del «Señor de la olla»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/matar-a-uribe-orden-del-senor-de-la-olla/hero.jpg)
 *¡Matar a Uribe! Orden del «Señor de la olla»*
 
 ¿Quién dio la orden de matar a Uribe? ¿La extrema derecha? ¿La extrema izquierda? El «Señor de la olla» ordenó matarlo con una pistola glock que le proporcionó. **Miguel Uribe Turbay**, 39 años, dolorosamente lucha por su vida en la clínica Santa Fe de Bogotá, después de una semana del atentado criminal del **7 de junio**. Sin duda, este es un **crimen político** que marca un punto ascendente de la **espiral de violencia** post acuerdo de paz de 2016 con las Farc.
@@ -39,7 +39,7 @@ Nada puede cambiar si hacemos lo mismo. Un **conflicto armado entre 1985 y 2018*
 
 ## ¿Cómo interpretar el presente?
 
-![Matar a Uribe fue una orden proveniente de la extrema derecha, según su modus operandi](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/06/matar-a-uribe-orden-del-senor-de-la-olla/marcha_silencio-1024x443.jpg)
+![Matar a Uribe fue una orden proveniente de la extrema derecha, según su modus operandi](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/matar-a-uribe-orden-del-senor-de-la-olla/marcha_silencio-1024x443.jpg)
 *Matar a Uribe fue una orden proveniente de la extrema derecha, según su modus operandi.*
 
 Las capas sociales que hoy salieron a protestar contra la violencia, deben pensar que si siguen ideas parecidas a la **Seguridad Democrática** o la del gobierno del Cambio ―que se enfrentan por el poder― el país profundizará su crisis política y social. No habrá paz. Tampoco prosperidad.

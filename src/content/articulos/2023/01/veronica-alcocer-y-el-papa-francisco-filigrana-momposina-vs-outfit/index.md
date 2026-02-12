@@ -5,10 +5,10 @@ pubDate: "2023-01-17 01:34:53"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/veronica-alcocer-y-el-papa-francisco-filigrana-momposina-vs-outfit/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/veronica-alcocer-y-el-papa-francisco-filigrana-momposina-vs-outfit/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/veronica-alcocer-y-el-papa-francisco-filigrana-momposina-vs-outfit/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/veronica-alcocer-y-el-papa-francisco-filigrana-momposina-vs-outfit/hero.jpg)
 *Verónica Alcocer y el papa Francisco: Filigrana Momposina Vs outfit.*
 
 Con una técnica de hace más de cuatro mil años fue elaborada la **Filigrana Momposina de Nuestra Señora de la Virgen Milagrosa** que **Verónica Alcocer García**, la compañera del presidente de la república de Colombia, le regaló al papa Francisco. ¿Qué importancia tiene este presente que se diferenció de muchos regalos que recibe diariamente el jerarca máximo de la iglesia Católica? ¿Por qué los medios cachacos desdeñaron la filigrana histórica y le dieron única importancia al _**outfit**_ de la **_Mona Linda_** de la Casa de Nariño?
@@ -17,7 +17,7 @@ Mientras unos medios de comunicación se fijaban en el sobrio vestido negro de l
 
 ## La Filigrana Momposina
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/veronica-alcocer-y-el-papa-francisco-filigrana-momposina-vs-outfit/filigrana-virgen.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/veronica-alcocer-y-el-papa-francisco-filigrana-momposina-vs-outfit/filigrana-virgen.jpg)
 
 Quizás, la Filigrana Momposina de Nuestra Señora de la Virgen Milagrosa, inteligentemente escogida por la **_Mona Linda_** de la Casa de Nariño, fue el regalo más sentido que se haya entregado al Sumo Sacerdote en el tiempo que lleva al frente de la principal iglesia del mundo. Pero, para los medios cachacos, fue más importante el _**outfit**_ de la bella, elegante e inteligente dama caribe, que el sensible y simbólico regalo que el vaticano recibió con mucha alegría.
 
@@ -27,7 +27,7 @@ Pero, para el periodismo cachaco eso no es importante. **Están mortificados por
 
 ## La Mona Linda, el papa y la Filigrana Momposina
 
-![Captura de pantalla de la reunión de Verónica Alcocer con el papa. Ya le había entregado la Filigrana Momposina.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/01/veronica-alcocer-y-el-papa-francisco-filigrana-momposina-vs-outfit/Veronica_papa-1.jpg)
+![Captura de pantalla de la reunión de Verónica Alcocer con el papa. Ya le había entregado la Filigrana Momposina.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/veronica-alcocer-y-el-papa-francisco-filigrana-momposina-vs-outfit/Veronica_papa-1.jpg)
 *Captura de pantalla de la reunión de Verónica Alcocer con el papa. Ya le había entregado la Filigrana Momposina.*
 
 ¿Cuán equivocados están? Demasiados equivocados. La **_Mona Linda_** (¿entienden lo de mona?) es la única Primera Dama que ha sacado esa machista institución de la servidumbre, el esclavismo y la perpetuación de viejas tradiciones que perecen en la contracorriente de la quien ocupa ese viejo papel de los abolengos colonialistas.

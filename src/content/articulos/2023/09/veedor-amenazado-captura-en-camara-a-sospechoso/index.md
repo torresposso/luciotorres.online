@@ -5,10 +5,10 @@ pubDate: "2023-09-01 21:42:41"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/veedor-amenazado-captura-en-camara-a-sospechoso/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/veedor-amenazado-captura-en-camara-a-sospechoso/hero.jpg
 ---
 
-![Veedor amenazado captura en cámara a sospechoso que tomaba foto y grababa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/veedor-amenazado-captura-en-camara-a-sospechoso/hero.jpg)
+![Veedor amenazado captura en cámara a sospechoso que tomaba foto y grababa.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/veedor-amenazado-captura-en-camara-a-sospechoso/hero.jpg)
 *Veedores amenazados capturan en cámara a sospechoso que tomaba foto y grababa.*
 
 Los veedores amenazados y objeto de un complot gestado desde las mismas canchas de golf del **Club Campestre de Cartagena**, entre ellos **Erick Urueta Benavides**, denunciaron hoy que, al parecer, personas desconocidas les están haciendo seguimiento de sus actividades. Para sustentar esta sospecha, Urueta mostró los videos de la grabación obtenida de las cámaras de vigilancia instaladas en su residencia.
@@ -33,7 +33,7 @@ Ese macabro plan lo organizaron socios del Club Campestre de Cartagena. Ante est
 
 ## La tutela
 
-![Luis Fernando Lemus presentó denuncia contra lideres y periodistas que denunciaron el complot para asesinar a  Héctor Pérez.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/veedor-amenazado-captura-en-camara-a-sospechoso/Lemus.jpg)
+![Luis Fernando Lemus presentó denuncia contra lideres y periodistas que denunciaron el complot para asesinar a  Héctor Pérez.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/veedor-amenazado-captura-en-camara-a-sospechoso/Lemus.jpg)
 *Luis Fernando Lemus presentó denuncia contra lideres y periodistas que denunciaron el complot para asesinar a Héctor Pérez.*
 
 **VoxPopuli Digital** publicó la primera entrega cuando el veedor **Erick Urueta Benavides** presentó la denuncia del supuesto complot ante la Fiscalía. En ese momento se dijo:

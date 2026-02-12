@@ -5,10 +5,10 @@ pubDate: "2023-11-03 02:33:27"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-cose-del-eln-ordeno-liberacion-del-padre-de-luis-diaz/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/el-cose-del-eln-ordeno-liberacion-del-padre-de-luis-diaz/hero.jpg
 ---
 
-![Momento de la llegada de Luis Manuel Diaz a su casa.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-cose-del-eln-ordeno-liberacion-del-padre-de-luis-diaz/hero.jpg)
+![Momento de la llegada de Luis Manuel Diaz a su casa.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/el-cose-del-eln-ordeno-liberacion-del-padre-de-luis-diaz/hero.jpg)
 *Momento de conocer la noticia de la liberación de Luis Manuel Diaz a su casa.*
 
 La libertad de **Luis Díaz** padre, al parecer, se realizará formalmente en la mañana del 3 de noviembre por orden del Comando Central (Coce) del ELN. El secuestrado estaba en la Serranía del Perijá. Una comisión guerrillera tiene la misión de entregarlo a una comisión humanitaria. Todo indica que el acto protocolario de liberación se realizará formalmente en la mañana del 3 de noviembre.
@@ -27,7 +27,7 @@ Ante ese emplazamiento, el ELN le informó a voceros oficiales que la libertad d
 
 ## El comunicado de Otty Patiño
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-cose-del-eln-ordeno-liberacion-del-padre-de-luis-diaz/Luis-Diaz_padre.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/el-cose-del-eln-ordeno-liberacion-del-padre-de-luis-diaz/Luis-Diaz_padre.jpg)
 *El ELN liberó a padre de Luis Diaz*
 
 De acuerdo a la información previa a la libertad de Luis Manuel Díaz, se conoció extraoficialmente que el ELN estaba dispuesto a liberarlo, como efectivamente se hizo en la noche del 2 de noviembre en San Pedro. Por razones de protocolo, no se ha informado oficialmente.
@@ -38,4 +38,4 @@ Igualmente, Otty Patiño, señaló en ese comunicado que presentará este caso e
 
 Por otra parte, la periodista Salud Hernández dijo que el gobierno sabía que el ELN tenía a Luis Manuel Díaz, pero se había silenciado.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/11/el-cose-del-eln-ordeno-liberacion-del-padre-de-luis-diaz/Luis_Diaz_comunicado.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/el-cose-del-eln-ordeno-liberacion-del-padre-de-luis-diaz/Luis_Diaz_comunicado.jpg)

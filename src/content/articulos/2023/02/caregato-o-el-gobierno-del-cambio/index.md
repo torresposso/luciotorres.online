@@ -5,10 +5,10 @@ pubDate: "2023-02-25 02:04:23"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-o-el-gobierno-del-cambio/hero.jpg
 ---
 
-![Una cosa es el discurso y otra la praxis. El Gobierno del Cambio está llevando a La Mojana a un desastre social y ambiental mayor.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/hero.jpg)
+![Una cosa es el discurso y otra la praxis. El Gobierno del Cambio está llevando a La Mojana a un desastre social y ambiental mayor.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-o-el-gobierno-del-cambio/hero.jpg)
 *Una cosa es el discurso y otra la praxis. El Gobierno del Cambio está llevando a La Mojana a un desastre social y ambiental mayor. (Banner de UNGR).*
 
 El brillante y contestatario discurso del presidente Petro de **una vida sabrosa para La Mojana** —seis meses después de su posesión— se desvaneció en el aire. Se estrelló con la vida insoportable de **Álvaro Pére**z, 23 años. Uno de los miles pescadores y campesinos de la ecorregión. Él no puede ganar el sustento de su familia porque estas tierras están anegadas. El discurso del gobernante, distante del discurrir cotidiano, también lo expuso en la **Institución Educativa de Las Candelarias** (agosto 2023), cercana a **La Sierpe**, macondiano corregimiento de Majagual. Ese brillante y conmovedor discurso de la **adaptación al cambio climático** y organización del territorio en torno al agua del Gobierno del Cambio, que llamó la atención en las Naciones Unidas (ONU), no aguantó la prueba de **«Caregato»**.
@@ -23,7 +23,7 @@ Nuestro periodismo dio la batalla para detener la depredación de la ecorregión
 
 ## La visita
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/La-sierpe-familia-scaled-1.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-o-el-gobierno-del-cambio/La-sierpe-familia-scaled-1.jpg)
 *En La Sierpe, la casa de Álvaro Pérez se anegó. Ahora vive hacinados con otras familias. No tiene esperanza. No tiene sueños.*
 
 > Aquí, en La Sierpe, viven tres familias revueltas en un tambo de un metro. La casa de **Álvaro Pérez** se anegó. No tiene esperanza. No tiene sueños. ¿Qué puede pensar del cambio climático si no tiene para alimentar a sus hijos? ¿Puede entender la libertad de los ríos si él y su familia no tienen libertad para trabajar y lograr el sustento familiar?
@@ -40,21 +40,21 @@ Ante esa inminente agravación de la situación ambiental y social de La Mojana 
 
 ## Gobierno del Cambio **en La Mojana**
 
-![El presidente Gustavo Petro insiste en la reubicación de 20 mil familias de La Mojana y su teoría de la libertad de los ríos. ¿Adónde?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/Petro-en-la-Mojana.jpg)
+![El presidente Gustavo Petro insiste en la reubicación de 20 mil familias de La Mojana y su teoría de la libertad de los ríos. ¿Adónde?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-o-el-gobierno-del-cambio/Petro-en-la-Mojana.jpg)
 *El presidente Gustavo Petro insiste en la reubicación de 20 mil familias de La Mojana y su teoría de la libertad de los ríos. Pero ahora esa gente ha perdido la esperanza y los sueños del Gobierno del Cambio.*
 
 Llegar a esta mítica región es encontrarse con el contraste de la pobreza y la riqueza. Contraste que brilla por la presencia de **«Las ollas comunitarias»**. Es un fallido programa presidencial para la atención urgente del hambre **convertido en instrumento de propaganda oficial**. Un programa donde el Estado le pisotea la dignidad a un joven trabajador de La Sierpe como **Álvaro Pérez**, 23 años, acostumbrado a ganarse la vida con la pesca y la agricultura. Un Estado que se transforma en el **dios proveedor** para el humilde que debe hacer una larga cola con la esperanza de recibir un plato de comida caliente a la semana.
 
 La inmensa mayoría de los que viven en La Mojana, como **Álvaro Pérez**, están probando el inicio de una una nueva **«vida sabrosa**»**** prometida por el presidente **Gustavo Petro** y su vicepresidenta **Francia Márquez**. No tiene trabajo. Vive sin esperanza. No tiene sueños. Solo quiere que cierren **«Caregato»** porque las tierras están anegadas y no puede trabajar. El hambre y las enfermedades infectocontagiosas arrecian y los embarazos de jóvenes mujeres se multiplican. De cinco mujeres que entrevisté en La Sierpe, dos estaban embarazadas.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/Yeneris-Hernandez.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-o-el-gobierno-del-cambio/Yeneris-Hernandez.jpg)
 *Yeneris Hernández, 22 años, tiene dos hijos y espera un tercero. Desde hace año y medio vive en este cambuche a la vera de la carretera que va de San Marcos a San Benito de Abad.*
 
 Ahora el gobierno nacional está implementando **«Las ollas comunitarias»** como Asistencia Humanitaria de Emergencia (AHE) para atender el hambre que está dejando el chorro de **«Caregato»**. De acuerdo a lo señalado por el director de la Unidad Nacional de Gestión del Riesgo (UNGR) y el Fondo de Adaptación, **Javier Pava Sánchez**, en ese programa se ha invertido la suma de **$4.700 millones**. **En La Sierpe existen 1.200 habitantes**. Solo 100 beneficiarios diarios reciben comida caliente. Si el joven Pérez comió hoy, debe esperar una semana para recibir una nueva ración alimentaria. De manera que la propaganda del gobierno **termina diciendo que se atendieron en la semana 700 damnificados**. Los políticos hablan, los hechos los desmienten.
 
 ## La plata que se llevó **«Caregato»**
 
-![En el gobierno de Iván Duque botó $47 mil millones en esta obra que se llevó el río. No pudieron tapar el chorro. ¿La verdadera cara del cambio?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/Caregato-bultos.jpg)
+![En el gobierno de Iván Duque botó $47 mil millones en esta obra que se llevó el río. No pudieron tapar el chorro. ¿La verdadera cara del cambio?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-o-el-gobierno-del-cambio/Caregato-bultos.jpg)
 *El gobierno de Iván Duque botó $47 mil millones en esta obra que se llevó el río. No pudieron tapar el chorro. En el gobierno de Petro, ya botaron $5.5 mil millones en una adecuación hidraúlica que no era para cerrar Caregato..*
 
 Algunos apologistas del gobierno responderán que el chorro de **«Caregato»** se rompió antes de que llegara el presidente Petro y, por tanto, está eximido de responsabilidad. Iván Duque, el pasado presidente, se gastó **$47 mil millones** para cerrar **«Caregato»**, pero todo se lo llevó el río Cauca. El 3 de febrero Pava Sánchez suscribió un contrato por **$5.39 mil millones** de adecuación hidraúlica con la empresa Khalela no para cerrar el boquete. Todo ese trabajo se perdió, porque Pava el pasado 22 de febrero se destapó reconociendo que no iba a cerrar nada. Su idea alocada y peregrina **—**sin ningún sustento científico que no ha pasado siquiera un estudio de prefactibilidad**—** señala que el boquete del río se mantendrá para una inundación controlada de La Mojana.
@@ -65,7 +65,7 @@ Recordemos que Khalela es la misma firma contratada por el alcalde de Barranquil
 
 ## ¿Detrimento patrimonial?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/khalela_contrato.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-o-el-gobierno-del-cambio/khalela_contrato.jpeg)
 *Facsímil del contrato con Khalela.*
 
 Si Pava Sánchez contrató a Khalela las _**2400 horas**_ de operación con la certeza de que no era para cerrar **«Caregato»** sino para hacer la _**adecuación hidráulica**_ del polígono, estaríamos en un detrimento patrimonial y en un fraude a la buena fe de la comunidad. Fraude a las actas de acuerdo firmadas por el alto gobierno con los representantes de las comunidades.
@@ -88,7 +88,7 @@ En el recorrido que hicimos para llegar a **«Caregato»** en compañía de líd
 
 ## El diálogo social fallido del Gobierno del Cambio
 
-![Aquí con los tres líderes de San Marcos en «Caregato» río Cauca: Mario Ojeda, José Monterroza y Henry Huertas.  San Jacinto del Cauca sur de Bolívar. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/Lideres-sociales.jpg)
+![Aquí con los tres líderes de San Marcos en «Caregato» río Cauca: Mario Ojeda, José Monterroza y Henry Huertas.  San Jacinto del Cauca sur de Bolívar. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-o-el-gobierno-del-cambio/Lideres-sociales.jpg)
 *Aquí con los tres líderes de San Marcos en «Caregato» río Cauca: Mario Ojeda, José Monterroza y Henry Huertas. Todos ellos votaron por Gustavo Petro. San Jacinto del Cauca sur de Bolívar.*
 
 En las elecciones presidenciales, Gustavo Petro solo ganó en tres municipios de La Mojana, entre ellos San Marcos. Cosa distinta en la sabana sucreña donde arrasó. Algunos líderes le manifestaron a este periodista la inquietud, según la cual la conducta de no cerrar **«Caregato»** y cobrar valorización por las obras de mitigación, podría ser una retaliación para los sucreños no mojaneros.
@@ -99,7 +99,7 @@ La teoría ambientalista del gobierno es que los ríos no pueden ser confinados 
 
 ## ****«Caregato»**** y la libertad del río Cauca
 
-![Se destapó Javier Pava: "Inundación controlada de La Mojana. Eso es lo que queremos"](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/Javier-Pava.jpg)
+![Se destapó Javier Pava: "Inundación controlada de La Mojana. Eso es lo que queremos"](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-o-el-gobierno-del-cambio/Javier-Pava.jpg)
 *Se destapó Javier Pava: "Inundación controlada de La Mojana. Eso es lo que queremos".*
 
 Sin duda, la libertad de los ríos arranca aplausos entre los seguidores de un ambientalismo dogmático y teórico. Los ríos deben ser libres como los animales, pero controlados. Los conceptos teóricos deben ser vistos en consonancia con la realidad ambiental colombiana. Específicamente, en el caso de La Mojana y, en particular, de **«Caregato»**. El desenfoque teórico de los funcionarios del gobierno es diciente. ¿Por qué?
@@ -114,7 +114,7 @@ En tercer lugar, Pava parte de una falsa premisa de que la rotura del río Cauca
 
 ## El Cauca, el _Nilo_ de La Mojana
 
-![El atardecer en La Mojana de San Marcos. ¿«Caregato» o la verdadera cara del Cambio?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/caregato-o-el-gobierno-del-cambio/La-Mojana-San-Marcos-scaled-1.jpg)
+![El atardecer en La Mojana de San Marcos. ¿«Caregato» o la verdadera cara del Cambio?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-o-el-gobierno-del-cambio/La-Mojana-San-Marcos-scaled-1.jpg)
 *El atardecer en La Mojana de San Marcos. ¿«Caregato» o la verdadera cara del Cambio?*
 
 Los orígenes del concepto de que el río Cauca es a La Mojana lo que el Nilo es para el valle y el delta de Egipto, puede proponerse a partir de lo que sucedió antes de 1938. Que si no fuera por las inundaciones periódicas del Nilo, las tierras egipcias fueran desérticas y no hubiera surgido esa civilización que fascinó a la humanidad.

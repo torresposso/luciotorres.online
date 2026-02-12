@@ -5,10 +5,10 @@ pubDate: "2024-04-14 00:16:35"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/hero.jpg)
 *¿En desacato la Serrezuela para demoler Andrés Carne de Res? Si demolerán aquarela ¿por qué no lo hacen con este restaurante?*
 
 ¿Está en desacato la **Serrezuela** para demoler parte del restaurante **Andrés Carne de Res**? ¿Por qué razón el IPCC se está haciendo el de _la vista gorda_ para ejecutar una decisión administrativa ejecutoriada que cumplió todos los pasos del **debido proceso**? La directora del IPCC, **Lucy Espinosa Díaz**, está obligada a responder estas preguntas. ¿Acaso espera que intervenga el Ministerio de Cultura o la UNESCO?
@@ -19,7 +19,7 @@ De esa manera, se demuestra que el proceso de **gentrificación urbana** del bar
 
 ## ¿Qué dice Lucy?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/luci-espinosa-Directora-Instituto-de-Patrimonio-y-Cultura-de-Cartagena-IPCC.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/luci-espinosa-Directora-Instituto-de-Patrimonio-y-Cultura-de-Cartagena-IPCC.jpg)
 *¿En desacato la Serrezuela para demoler Andrés Carne de Res? Esperamos la respuesta de Lucy Espinosa Díaz, directora del IPCC.*
 
 En el despacho de la directora del Instituto de Patrimonio Cultural de Cartagena (IPCC), **Lucy Espinosa Díaz**, licenciada en música, especializada en Gerencia y Gestión Cultural y Turismo Sostenible, se encuentra una solicitud firmada por **Germán Osorio Buelvas**, uno de los vecinos afectados por las irregularidades de la construcción **de Andrés Carne de Res**. ¿Qué dice Lucy? ¿Qué dice Dumek? ¿Se pondrán el casco blanco para demoler parte del restaurante _**Andrés Carne de Res**_ como lo hicieron con **Aquarela**? Este es el análisis de **VoxPopuli Digital**.
@@ -50,7 +50,7 @@ De manera que para el cumplimiento de dicha orden, es decir, demoler lo no autor
 
 ## ¿En desacato la Serrezuela?
 
-![Este derecho de petición tiene radicado No EXT-AMC-24-22514 está radicado desde el 26 de febrero de 2024..](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/IPCC_peticion-1.jpeg)
+![Este derecho de petición tiene radicado No EXT-AMC-24-22514 está radicado desde el 26 de febrero de 2024..](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/IPCC_peticion-1.jpeg)
 *Este derecho de petición tiene radicado No EXT-AMC-24-22514 está radicado desde el 26 de febrero de 2024.*
 
 La orden de demolición que establece la resolución ya citada, luego del proceso administrativo que concluyó, debió ejecutarse en el término máximo de cuarenta y cinco (45) días hábiles. Se debió llevar a cabo todas las diligencias necesarias para la adecuación de la intervención realizada a la norma urbanística y patrimonial. Debieron hacer la respectiva solicitud de demolición de las obras que no contaron con autorización de las autoridades competentes. Es decir, seguir la ruta establecida por la primera parte de la **Ley 1437 de 2011**.
@@ -63,7 +63,7 @@ Por tanto, esta decisión obedece a que el [Ministerio de Cultura](/articulos/p
 
 ## Antecedentes de la sanción
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/Dumek_lucio_Portada-800x1024.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/en-desacato-la-serrezuela-para-demoler-andres-carne-de-res/Dumek_lucio_Portada-800x1024.jpg)
 *Haciendo memoria. Le recordamos al alcalde este hecho de la Serrezuela que es tan importante como Aquarela.*
 
 La historia de la sanción indica que el ministerio de Cultura ofició al Alcalde Mayor de Cartagena de Indias en 2017 para que adoptara en el menor tiempos posible la respectiva sanción. Pero a regañadientes el director de Patrimonio de la época, **Alfonso Cabrera Cruz**, debió adoptar la resolución sancionatoria con una sanción irrelevante. Este procedimiento es de conformidad con lo dispuesto en la **Ley General de Cultura**.

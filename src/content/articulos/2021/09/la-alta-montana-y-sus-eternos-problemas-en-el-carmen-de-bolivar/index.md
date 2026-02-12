@@ -5,10 +5,10 @@ pubDate: "2021-09-12 11:49:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/la-alta-montana-y-sus-eternos-problemas-en-el-carmen-de-bolivar/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/la-alta-montana-y-sus-eternos-problemas-en-el-carmen-de-bolivar/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/la-alta-montana-y-sus-eternos-problemas-en-el-carmen-de-bolivar/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/la-alta-montana-y-sus-eternos-problemas-en-el-carmen-de-bolivar/hero.jpg)
 *El Día Nacional de los Derechos Humanos necesitamos resultados concretos.*
 
 **La Alta Montaña de El Carmen de Bolívar** y sus eternos problemas necesitan una intervención integral del Estado para **garantizar Reparación, Verdad y No Repetición de los hechos victimizantes**. En el Día Nacional de los Derechos Humanos vale la pena reflexionar sobre las víctimas irredentas.

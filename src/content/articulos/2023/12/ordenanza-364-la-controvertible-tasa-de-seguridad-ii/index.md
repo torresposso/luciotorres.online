@@ -5,10 +5,10 @@ pubDate: "2023-12-19 02:59:24"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 tags: ["César Sotomayor","José Felix Turbay","Vicente Blel"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/ordenanza-364-la-controvertible-tasa-de-seguridad-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/ordenanza-364-la-controvertible-tasa-de-seguridad-ii/hero.jpg
 ---
 
-![Ordenanza 364, la controvertible tasa de seguridad. La policía y las Fuerzas Armadas se beneficiarán con la sobretasa. El director de Seguridad y Convivencia de Bolívar, César Sotomayor.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/ordenanza-364-la-controvertible-tasa-de-seguridad-ii/hero.jpg)
+![Ordenanza 364, la controvertible tasa de seguridad. La policía y las Fuerzas Armadas se beneficiarán con la sobretasa. El director de Seguridad y Convivencia de Bolívar, César Sotomayor.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/ordenanza-364-la-controvertible-tasa-de-seguridad-ii/hero.jpg)
 *Ordenanza 364, la controvertible tasa de seguridad. La policía y las Fuerzas Armadas se beneficiarán con la sobretasa. El director de Seguridad y Convivencia de Bolívar, César Sotomayor./Cortesía.*
 
 La denominada **Tasa de Seguridad Ciudadana** se convirtió en la **ordenanza 364** del departamento de Bolívar. El gobernador **Vicente Blel Scaff** la sancionó hoy argumentando que está conforme a la constitución, la ley y al trámite natural de la asamblea departamental. Es un mecanismo impositivo que permitiría **captar más de $100 mil millones anuales** en el siguiente período gubernamental de **Yamilito Arana**. Es el regalo del Niño Dios para los usuarios de Afinia.
@@ -19,7 +19,7 @@ Te puede interesar: [Tasa de seguridad ciudadana es ilegal y un fracaso para com
 
 ## El aumento tarifario de la ordenanza 364
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/12/ordenanza-364-la-controvertible-tasa-de-seguridad-ii/Tabla-de-usuarios.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/ordenanza-364-la-controvertible-tasa-de-seguridad-ii/Tabla-de-usuarios.jpg)
 
 Supuestamente, los que sentirían la variación tarifaria serían los **estratos 5 y 6**, puesto que el aumento sería de **0,53 y 0,93**, respectivamente.
 

@@ -5,10 +5,10 @@ pubDate: "2025-01-07 03:34:48"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/hero.jpg
 ---
 
-![La internacionalización de Coosalud. El salto de González.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/hero.jpg)
+![La internacionalización de Coosalud. El salto de González.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/hero.jpg)
 *La internacionalización de Coosalud. En la foto: Francys Caballero, Jaime González, Guy Kawasaki (conferencista norteamericano), Nubia Espinosa y Lupe Yidios de Lemus. (El Universal).*
 
 **Juan de la Cruz\*** (60 años), tiene un año desde que se le detectó un incremento del antígeno prostático específico (PSA). Hasta ahora su **Eps Coosalud**, del régimen subsidiado, no le ordenó los exámenes de detección temprana del cáncer de próstata. Juan desconoce que la directiva de esa Eps se apropió de gran parte de los **$1,323,403** que el Estado le giró a través de la Unidad de Pago por Capitación―UPC. El asalto de **González Montaño**, expresidente ejecutivo, fue largo: **los dineros los transportó de El Pozón a Isla Caimán, uno de los paraísos fiscales favoritos de los capos de la salud**.
@@ -36,7 +36,7 @@ El tercer momento, 2018, cuando Coosalud inició en Grandes Ligas incluyendo en 
 
 ## El dinero de la UPC y el Supervillano
 
-![¿En qué momento Jaime González pasó de exitoso empresario a supervillano de la salud? El asalto de González](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/jaime_Gonzalez_Supervillano.jpeg)
+![¿En qué momento Jaime González pasó de exitoso empresario a supervillano de la salud? El asalto de González](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/jaime_Gonzalez_Supervillano.jpeg)
 *El asalto de González. ¿En qué momento Jaime González pasó de exitoso empresario a supervillano de la salud?*
 
 Los 21 hallazgos graves que determinaron la intervención y toma de posesión de los bienes de Coosalud por un período inicial de un año, afecta las condiciones de vida de sus afiliados. Por ejemplo, se halló una diferencia abismal de la **detención temprana del cáncer de próstata** entre los pacientes del régimen subsidiado y del contributivo. Según la Supersalud:
@@ -75,12 +75,12 @@ Al respecto, no es solo un problema de deficiencia administrativa. Las directiva
 
 ## Desvío de dinero
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/Empresas_gonzalez.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/Empresas_gonzalez.jpeg)
 *Aquí se observa que Francisco Pamplona Beltrán podría ser uno de los testaferros de la familia González Díaz.*
 
 Al desviar los dineros de la UPC a Isla Caimán, debía maquillar los gastos con los recursos girados por ADRES. Respecto al indicador de inversión de la reserva técnica de Coosalud EPS, a corte septiembre de 2024, la Supersalud encontró que no había respaldo de la reserva técnica. Tampoco  **la EPS presentó de manera oportuna el reporte de la información financiera que es esencial para calcular los indicadores financieros y de solvencia correspondientes.**
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/image.png)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/image.png)
 
 Para **Luis Carlos Leal**, el exsuperintendente que presentó la denuncia ante la Fiscalía, lo que existió fue un desvío de los dineros del Adres:
 
@@ -90,7 +90,7 @@ Resulta que **Patria Investments** es dueña de Venum Investments. Tiene sus ra�
 
 ## Coosalud Inversa
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/coosalud_entramado-1024x682.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/el-asalto-de-gonzalez-de-el-pozon-a-isla-caiman-coosalud-iii/coosalud_entramado-1024x682.jpg)
 
 Se estableció que Asesores en Finanzas y Seguros Fincomercial S.A. tiene un 10% de las acciones de **Coosalud Inversa**.  Esta empresa es controlada por las siguientes firmas: IPS Vida Plena SAS, Servicios Especializados de Consultoría Legal, SEC SAS, Organización Agroindrustrial Barú SAS.  Los dueños de estas dos últimas son los hijos de Jaime González: **Jaime González Díaz y Angelica María González Díaz**. Organización Agroindrustrial Barú SAS se dedica al cultivo de frutas tropicales.
 

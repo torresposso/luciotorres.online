@@ -5,10 +5,10 @@ pubDate: "2025-03-03 14:50:27"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/la-reina-de-los-caracoles-el-alcalde-y-una-calle/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/la-reina-de-los-caracoles-el-alcalde-y-una-calle/hero.jpg
 ---
 
-![La reina de Los Caracoles, el alcalde y una calle](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/03/la-reina-de-los-caracoles-el-alcalde-y-una-calle/Dumel_Los-Calamares_portada.jpeg)
+![La reina de Los Caracoles, el alcalde y una calle](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/la-reina-de-los-caracoles-el-alcalde-y-una-calle/Dumel_Los-Calamares_portada.jpeg)
 *La reina de Los Caracoles, el alcalde y una calle.*
 
 Lo que una simple calle pavimentada puede despertar en un barrio popular como **Los Calamares**, no se puede medir con la cantidad de cemento y el dinero invertido. Pero, en medio de la muchedumbre, al ver a la reina del barrio, **Daniela Castro**, recibir al alcalde de Cartagena, **Dumek Turbay Paz**, tocando su violín y bailando al son de _Colombia tierra querida_, nos propone otra manera de ver el imaginario popular.

@@ -5,7 +5,7 @@ pubDate: "2019-10-31 11:23:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/chocorazo-o-fraude-los-organismos-de-control-deben-intervenir-ya/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/10/chocorazo-o-fraude-los-organismos-de-control-deben-intervenir-ya/hero.jpg
 ---
 
 *Así estaba el sitio donde se realizan los escrutinios de Cartagena. ¿Chocorazo o fraude?Cortesía*
@@ -20,7 +20,7 @@ Te puede interesar: [¿Dau, un buitre de corto vuelo? Derrotadas las maquinarias
 
 ## ¿Chocorazo o fraude?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/chocorazo-o-fraude-los-organismos-de-control-deben-intervenir-ya/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/10/chocorazo-o-fraude-los-organismos-de-control-deben-intervenir-ya/hero.jpg)
 *Este es uno de los 10 formularios analizados. Cortesía.*
 
 Para resolver la pregunta ¿chocorazo o fraude? debemos partir del principio de transparencia que es lo contrario a corrupción. Si hay una vigilancia pública y de los organismos de control se podría evitar un chocorazo. Y esto, a su vez, despejaría cualquier duda sobre el proceso electoral.

@@ -5,17 +5,17 @@ pubDate: "2019-10-28 02:54:04"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/dau-un-buitre-de-corto-vuelo-alcalde-de-cartagena/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/10/dau-un-buitre-de-corto-vuelo-alcalde-de-cartagena/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/dau-un-buitre-de-corto-vuelo-alcalde-de-cartagena/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/10/dau-un-buitre-de-corto-vuelo-alcalde-de-cartagena/hero.jpg)
 *Dau, un buitre de corto vuelo, nuevo alcalde de Cartagena.*
 
 **William Dau Chamat**, alcalde electo de Cartagena. **Guillermo Torres Cueter**, alcalde electo de Turbaco. Dos grandes sorpresas. Se estremece el cañaveral. Derrotadas las maquinarias políticas y se inicia un signo de interrogación en el futuro inmediato de una ciudad azotada por la corrupción galopante.
 
 No obstante, la victoria de **Dau es como la de un "buitre" de corto vuelo**. Su victoria es ruidosa pero dudosa. Preparémonos para las atípicas.
 
-![Dau, un buitre de corto vuelo](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/10/dau-un-buitre-de-corto-vuelo-alcalde-de-cartagena/guillermo-torres.jpg)
+![Dau, un buitre de corto vuelo](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/10/dau-un-buitre-de-corto-vuelo-alcalde-de-cartagena/guillermo-torres.jpg)
 *Guillermo Torres, nuevo alcalde de Turbaco.*
 
 En Turbaco ganó un **proyecto político bien definido** de la Colombia Humana-UP-Farc, representado por Torres Cueter. Sabemos qué vendrá y cómo afrontarán los retos para sacar adelante a este municipio del norte de Bolívar atrapado por la corrupción. Lograron un programa político bien definido. **La gente más empobrecida tiene una gran oportunidad con la victoria de Guillermo Torres.**

@@ -5,10 +5,10 @@ pubDate: "2023-09-13 22:32:31"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/hero.jpg
 ---
 
-![rturo Char y su defensa. Entran en el equipo el exmagistrado José Luis Barceló y Ana María Aljure Reales. Se derrite el teflón del Califato Daes—Char.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/hero.jpg)
+![rturo Char y su defensa. Entran en el equipo el exmagistrado José Luis Barceló y Ana María Aljure Reales. Se derrite el teflón del Califato Daes—Char.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/hero.jpg)
 *Arturo Char y su defensa. Entran en el equipo técnico el exmagistrado José Luis Barceló y Ana María Aljure Reales. Se derrite el teflón del Califato Daes—Char.*
 
 ¿Por qué se derrite el teflón del Califato? Para los Char Chaljub es un drama familiar tener a uno de los suyos en La Picota y no disfrutando de su chalet, sus autos y yates costosos como suelen hacer. El nuevo refuerzo de la defensa del «rey**»** **Arturo Char Chaljub** es el exmagistrado **José Luis Barceló Camacho** como figura para provocar una **recusación sobreviniente** contra el magistrado investigador y acusador de la Sala de Instrucción de la Corte Suprema de Justicia, **Francisco Javier Farfán Molina.** Además, entró la ex Secretaria General de la segunda alcaldía de **Alejandro Char Chaljub** (2016-2019), **Ana María Aljure Reales**.
@@ -23,7 +23,7 @@ Te puede interesar: [Serfinanza y Valorcon, la Corte cierra el cerco financiero 
 
 ## Montalvo denunció por prevaricato a Barceló
 
-![La TP expedida por el Consejo Superior de la Judicatura a nombre de Renzo Montalvo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/Renzo_TP_161384D1.jpg)
+![La TP expedida por el Consejo Superior de la Judicatura a nombre de Renzo Montalvo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/Renzo_TP_161384D1.jpg)
 *La TP expedida por el Consejo Superior de la Judicatura a nombre de Renzo Montalvo Jiménez. En 2016 el el magistrado José Luis Barceló desestimó una solicitud de nulidad argumentando que el abogado no tenía tarjeta profesional.*
 
 Por otra parte, el abogado Montalvo Jiménez se ratificó en la ampliación de la denuncia presentada contra los tres magistrados de la Sala de Casación Penal donde estaba **José Luis Barceló**, y de la Sala Única de Juzgamiento de la Corte Suprema de Justicia. A juicio del denunciante, los magistrados tomaron decisiones prevaricadoras dentro del proceso con **radicado No 52240** donde se procesaba al Ex Senador **Álvaro Uribe Vélez**. En uno de los apartes se dice:
@@ -46,7 +46,7 @@ Es decir, al parecer, si Aljure está incurso en el delito de concierto para del
 
 ## El «rey**»** Arturo, el primero en coger cárcel de los Char Chaljub
 
-![Se derrite el teflón califato. José Manuel "Yuyo" Daes (acompañado de su hermano Cristian) fue el primero del Califato en coger cárcel. Modeló en El Bosque. El segundo, David Char Navas, hijo de Jabib Char Abdala. El tercero, pero el primero del núcleo del califato, Arturo Char Chaljub](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/Arturo_Yuyo_David_los_presos_portada.jpg)
+![Se derrite el teflón califato. José Manuel "Yuyo" Daes (acompañado de su hermano Cristian) fue el primero del Califato en coger cárcel. Modeló en El Bosque. El segundo, David Char Navas, hijo de Jabib Char Abdala. El tercero, pero el primero del núcleo del califato, Arturo Char Chaljub](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/Arturo_Yuyo_David_los_presos_portada.jpg)
 *José Manuel "Yuyo" Daes (acompañado de su hermano Cristian) fue el primero del Califato en coger cárcel. Modeló en El Bosque. El segundo, David Char Navas, hijo de Jabib Char Abdala. El tercero, pero el primero del núcleo del califato, Arturo Char Chaljub.*
 
 Como se recordará, el «rey**»** **Arturo** es el primero de la familia Char Chaljub que recibió una orden de captura, y en coger cárcel. Y en La Picota, que no es lo mismo. El tercero del _Califato Daes—Char_ de coger cárcel. El primero fue **José Manuel _Yuyo_ Daes Abuchaibe**. El segundo, David Char Navas, hijo de Jabid Char Abdala sobrino de Fuad y primo hermano de Arturo y Alejandro. El primero, por ser miembro del Cartel de Cali. El segundo, por aliarse con los escuadrones de la muerte de Barranquilla y el Atlántico que asesinaron a más de 500 personas de Barranquilla y el Atlántico.
@@ -61,7 +61,7 @@ Te puede interesar: [Impedimento del magistrado Farfán, la estrategia del «rey
 
 ## Los Char, _roban, pero hacen_
 
-![Barranquilla se merece a su gobernante por permisiva con la delincuencia del bajo mundo y de los de cuello blanco. Aquí Alex Char entrelazado con un presunto miembro de una banda de tierreros. Se derrite el teflón del Califato Daes-Char.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/Alex-Char_Omar-Ladino_1.jpg)
+![Barranquilla se merece a su gobernante por permisiva con la delincuencia del bajo mundo y de los de cuello blanco. Aquí Alex Char entrelazado con un presunto miembro de una banda de tierreros. Se derrite el teflón del Califato Daes-Char.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/se-derrite-el-teflon-del-califato-daes-char-y-la-etica-del-exmagistrado-barcelo-viii/Alex-Char_Omar-Ladino_1.jpg)
 *Barranquilla se merece a su gobernante por permisiva con la delincuencia del bajo mundo y de los de cuello blanco. Aquí Alex Char entrelazado con un presunto miembro de una banda de tierreros.*
 
 Cuando le sucedió el fracaso de los Nule, el contrato de construcción de las sedes regionales de la DIAN, entre otras obras de infraestructura, su papá, **Fuad Ricardo**, como lo quiere mucho, lo levantó cuando estaba tirado en el anden. Usó su dinero y su investidura de senador de la república. **Pagó $20 mil millones a la Contraloría General** para que le tumbaran la sanción que le impedía posesionarse como burgomaestre. Como buen comerciante fenicio, ese hecho lo negoció con **Sandra Morelli**, la contralora de la época que recibió una larga coima, al decir de una fuente. Así le regaló a Barranquilla con todos sus juguetes, incluyendo su gente. (Te sugiero que leas mi artículo de 2011: [El alcalde Char al mismo tiempo es contratista](/articulos/2011/01/el-alcalde-char-al-mismo-tiempo-era.html)).

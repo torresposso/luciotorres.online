@@ -5,10 +5,10 @@ pubDate: "2022-09-29 00:39:37"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/juan-gossain-una-bella-tarde-para-morir/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/juan-gossain-una-bella-tarde-para-morir/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/juan-gossain-una-bella-tarde-para-morir/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/juan-gossain-una-bella-tarde-para-morir/hero.jpg)
 *Aquí Juan Gossaín en una amena entrevista de 2004.*
 
 Las primeras crónicas urbanas que escribí, me las corrigió **Juan Gossaín** ¡hace 42 años! ¡Larga vida para mi maestro! Ahora que falsas especies de su muerte retumbaron en mi mente, recuerdo que un periodista de la revista Cromos le preguntó sobre el momento de morir. La respuesta de Gossaín fue inesperada: "_**una bella tarde de verano para morir"**_.

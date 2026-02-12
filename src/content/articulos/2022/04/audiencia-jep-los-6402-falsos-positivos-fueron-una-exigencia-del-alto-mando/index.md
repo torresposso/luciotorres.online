@@ -5,10 +5,10 @@ pubDate: "2022-04-30 20:02:05"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/hero.jpg
 ---
 
-![Estos son los primeros comparecientes de los 6402 «falsos positivos» durante el gobierno de Álvaro Uribe. Cortesía JEP.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/hero.jpg)
+![Estos son los primeros comparecientes de los 6402 «falsos positivos» durante el gobierno de Álvaro Uribe. Cortesía JEP.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/hero.jpg)
 *Estos son los primeros comparecientes de los 6402 «falsos positivos» durante el gobierno de Álvaro Uribe. Cortesía JEP.*
 
 El lugar común de los 10 militares que comparecieron en el marco de la primera audiencia del tribunal de Justicia Especial de Paz —JEP— evidenció que los **6402 _«falsos positivos»_** fueron exigencias del alto mando militar y del gobierno del momento. Durante los ocho años de **Álvaro Uribe** se registró el **78%** de los casos. Esta conducta criminal tuvo una motivación que, a su vez, fue generada por la línea de mando que desde arriba pedían lo imposible: cruzar la línea de los delitos de guerra y lesa humanidad. Es decir, que se vieron abocados a presentar resultados de bajas guerrilleras en supuestos combates **presionados por la política de Seguridad Democrática del gobierno**.
@@ -25,7 +25,7 @@ los 6402 «falsos positivos» durante el gobierno de Álvaro Uribe.
 
 ## **_«_**Queremos toda la verdad**_»_**
 
-![Una de las madres de las víctimas, Soraida Muñoz, cuando le exigía al general Paulino Coronado Gómez para que dijera toda la verdad por el caso de los  los 6402 «falsos positivos» durante el gobierno de Álvaro Uribe. Cortesía JEP.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/soraida-munoz-JEP.jpg)
+![Una de las madres de las víctimas, Soraida Muñoz, cuando le exigía al general Paulino Coronado Gómez para que dijera toda la verdad por el caso de los  los 6402 «falsos positivos» durante el gobierno de Álvaro Uribe. Cortesía JEP.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/soraida-munoz-JEP.jpg)
 *Una de las madres de las víctimas, Soraida Muñoz, cuando le exigía al general Paulino Coronado Gómez para que dijera toda la verdad por el caso de los los 6402 «falsos positivos» durante el gobierno de Álvaro Uribe. Cortesía JEP.*
 
 En ese punto, las víctimas que asistieron en la primera audiencia de los 6402 manifestaron su insatisfacción, porque los comparecientes, si bien aceptaron su responsabilidad, no mencionaron «toda la verdad» sobre los responsables superiores.
@@ -44,7 +44,7 @@ Pero Soraida Gómez quería que los comparecientes se comprometieran con la verd
 
 ## **6402 _«falsos positivos»_**
 
-![Ya no quedan casi lagrimas a las madres de los jóvenes que fueron etiquetados como «falsos positivos». Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/el-llanto-JEP.jpg)
+![Ya no quedan casi lagrimas a las madres de los jóvenes que fueron etiquetados como «falsos positivos». Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/el-llanto-JEP.jpg)
 *Ya no quedan casi lagrimas a las madres de los jóvenes que fueron etiquetados como «falsos positivos». Cortesía.*
 
 El número trágico de la guerra que jamás ganó la nación son los **6402 _«falsos positivos»._** En su momento, Uribe Vélez le decía al país que la **Seguridad Democrática** nos había traído la paz y la seguridad en el campo. Eran los tiempos de las macabras **«pescas milagrosas»** agenciadas principalmente por la FARC. **Secuestros express** que marcó el terror para todos aquellos que debían trasladarse por las carreteras del país o visitar sus fincas. 
@@ -55,7 +55,7 @@ El componente principal de esta seguridad fue desmovilizar a las principales fue
 
 ## El dolor de los **6402 _«falsos positivos»_**
 
-![El peso del dolor y de la culpa se refleja en el general Coronado Gómez, uno de los comparecientes de los «falsos positivos». Cortesí](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/el-peso-del-dolorJEP.jpg)
+![El peso del dolor y de la culpa se refleja en el general Coronado Gómez, uno de los comparecientes de los «falsos positivos». Cortesí](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/el-peso-del-dolorJEP.jpg)
 *El peso del dolor y de la culpa se refleja en el general Coronado Gómez, uno de los comparecientes de los «falsos positivos». Cortesía.*
 
 O sea, un mal reemplazado por otro mal. Para el gobierno de Uribe Vélez y su Seguridad Democrática el dolor del secuestro y el no poder ir a sus fincas por temor a ello, era insoportable. Por esta razón, el dolor lo trasladó a otros sectores sociales que lo podrían soportar. Sus circulares de guerra exigían resultados al mando militar, costara lo que costara. 
@@ -64,7 +64,7 @@ Esto trajo consigo los **_«falsos positivos»._** Instrumentalizar a un civil p
 
 ## Los testimonios
 
-![Los protagonistas principales de la audiencia de la JEP: Las victimas, el tribunal de la JEP y a la derecha los victimarios ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/Jep-victimas-y-victimarios.jpg)
+![Los protagonistas principales de la audiencia de la JEP: Las victimas, el tribunal de la JEP y a la derecha los victimarios ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/Jep-victimas-y-victimarios.jpg)
 *Los protagonistas principales de la audiencia de la JEP: Las victimas, el tribunal de la JEP y a la derecha los victimarios. Cortesía.*
 
 Los suboficiales que comparecieron en esta primera audiencia de la JEP fueron: Néstor Guillermo Gutiérrez, **Sandro Mauricio Pérez Contreras** y el sargento (r) Rafael Antonio Urbano Muñoz. También los oficiales (r) Daladier Rivera Jácome, Juan Carlos Chaparro y Rubén Darío Castro Gómez. De igual manera, el teniente coronel (r) Gabriel Rincón Amado; **el brigadier general (r) Paulino Coronado Gámez**; el coronel (r) Santiago Herrera Fajardo; el teniente coronel de la reserva activa Álvaro Tamayo Hoyos. Igualmente compareció el civil que reclutó a las víctimas de secuestro y ejecución extrasumorial, Alexander Carretero Díaz.
@@ -99,7 +99,7 @@ De la intervención que las víctimas estaban más pendientes era la del **gener
 
 ## Los encargados de impartir justicia
 
-![Estos son los magistrados de la Sala de Reconocimiento de Verdad de la JEP. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/el-tribunal-de-la-jep.jpg)
+![Estos son los magistrados de la Sala de Reconocimiento de Verdad de la JEP. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/audiencia-jep-los-6402-falsos-positivos-fueron-una-exigencia-del-alto-mando/el-tribunal-de-la-jep.jpg)
 *Estos son los magistrados de la Sala de Reconocimiento de Verdad de la JEP. Cortesía.*
 
 **El Caso 03** —conocido como el de «falsos positivos»— lo conoce la **Sala de Reconocimiento de Verdad.** Se busca el esclarecimiento y juzgamiento de los crímenes cometidos por los agentes de Estado que presentaron 6.402 colombianos como guerrilleros dados de baja en combate cuando no lo eran. En la primera fase de esta investigación, la JEP priorizó seis zonas del país. 

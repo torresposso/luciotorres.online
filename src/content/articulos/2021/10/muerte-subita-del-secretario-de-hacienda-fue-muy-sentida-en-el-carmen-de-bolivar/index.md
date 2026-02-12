@@ -5,10 +5,10 @@ pubDate: "2021-10-28 00:20:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/muerte-subita-del-secretario-de-hacienda-fue-muy-sentida-en-el-carmen-de-bolivar/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/muerte-subita-del-secretario-de-hacienda-fue-muy-sentida-en-el-carmen-de-bolivar/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/muerte-subita-del-secretario-de-hacienda-fue-muy-sentida-en-el-carmen-de-bolivar/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/muerte-subita-del-secretario-de-hacienda-fue-muy-sentida-en-el-carmen-de-bolivar/hero.jpg)
 *Así recibió la gobernación de Bolívar la muerte de Germán Baños.*
 
 Ver la muerte súbita de  **alguien cercano nos hace pensar que todo lo que poseemos ¡se extinguirá en un solo instante!.** La muerte repentina de **Germán Baños Benavide**s, Secretario de Hacienda de Bolívar, tomó a todo el mundo de sorpresa en El Carmen de Bolívar.  Pero en especial al gobernador de Bolívar, **Vicente Blel Escaff**. También entre la clase dirigente de ese municipio donde nació.  Y muy especial, entre los liberales carmeros liderados por **Lidio García**, senador de la República.       

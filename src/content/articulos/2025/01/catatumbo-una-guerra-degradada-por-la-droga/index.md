@@ -5,10 +5,10 @@ pubDate: "2025-01-28 04:57:52"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/catatumbo-una-guerra-degradada-por-la-droga/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/catatumbo-una-guerra-degradada-por-la-droga/hero.jpg
 ---
 
-![Catatumbo: Una guerra degradada por la droga.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/catatumbo-una-guerra-degradada-por-la-droga/hero.jpg)
+![Catatumbo: Una guerra degradada por la droga.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/catatumbo-una-guerra-degradada-por-la-droga/hero.jpg)
 *Catatumbo: Una guerra degradada por la droga. (Prensa presidencial).*
 
 La masacre de la familia **López Durán**, incluyendo su bebé de 9 meses, **pareció un hecho aislado** el pasado 15 de enero de 2025 en la vía que conduce a Tibú, Norte Santander. Las autoridades no entendieron que lo del Catatumbo es consecuencia de una **guerra degradada por el control del tráfico de la coca**. Guerra, que desde esa masacre de los López, se convirtió en **crisis humanitaria**. Según [OCHA](/articulos/report/colombia/colombia-desplazamiento-y-confinamiento-en-la-subregion-del-catatumbo-norte-de-santander-flash-update-no-1-24012025), ―además de los **95 muertos** de la población civil― produjo hasta ahora **41.236 desplazados y 12.520 confinadas**. Y el contador crece velozmente.
@@ -19,7 +19,7 @@ Esa crisis humanitaria refleja la debilidad e incapacidad histórica del Estado 
 
 ## Una guerra degradada
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/catatumbo-una-guerra-degradada-por-la-droga/Petro_Francia_Catatumbo-1024x544.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/catatumbo-una-guerra-degradada-por-la-droga/Petro_Francia_Catatumbo-1024x544.jpeg)
 *El presidente Gustavo Petro y la Vicepresidente Francia Márquez, lideraron presencia del gobierno en Ocaña donde se anunciaron los decretos de conmoción interior.*
 
 En efecto, la masacre de la familia López Durán, sin duda, estuvo motivada por el tráfico de cocaína. Patentiza el carácter de una guerra degradada que parece no tener fin. Como quedó evidenciado, el carruaje fúnebre fue utilizado para el transporte de alcaloide del ELN. Esta guerrilla, a través de unos de sus voceros, dijo en un video que ese hecho criminal lo dirigió **Leonardo Pérez, alias «Lalo»**, miembro de las milicias del disidente frente 33 de las FARC.
@@ -36,7 +36,7 @@ En el Filo San José, jurisdicción de Teorama, se informó hoy, hubo 13 muertos
 
 ## Hoy, el ELN
 
-![Pablo Beltrán, Nicolás Bautista, Aureliano Carbonell, Consuelo Tapias, Violeta Arango y Bernardo Téllez, entre otros, según resolución del gobierno, se les retiró el reconocimiento como parte de la mesa de Diálogo de Paz con el ELN.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/catatumbo-una-guerra-degradada-por-la-droga/Comandantes_eln.jpg)
+![Pablo Beltrán, Nicolás Bautista, Aureliano Carbonell, Consuelo Tapias, Violeta Arango y Bernardo Téllez, entre otros, según resolución del gobierno, se les retiró el reconocimiento como parte de la mesa de Diálogo de Paz con el ELN.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/catatumbo-una-guerra-degradada-por-la-droga/Comandantes_eln.jpg)
 *Pablo Beltrán, Nicolás Bautista, Aureliano Carbonell, Consuelo Tapias, Violeta Arango y Bernardo Téllez, entre otros, según resolución del gobierno, se les retiró el reconocimiento como parte de la mesa de Diálogo de Paz con el ELN. (Cortesía).*
 
 Se subraya que este conflicto interno enajenó a sus actores y también a una gran parte de la sociedad colombiana. Este fenómeno de **alienación humana** se analizó en mi libro **[¿Adiós a la guerra?](/articulos/cgi-bin/koha/opac-detail.pl?biblionumber=141299)** Un texto indexado por varias universidades de Colombia.
@@ -57,7 +57,7 @@ En ese momento, **La Chinita** era un barrio de invasión popular en Apartadó. 
 
 ## Autoexaminarse
 
-![La guerrilla de toda pelambre debe auto examinarse a partir de su praxis y no de su teoría política. Guerra degradada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/catatumbo-una-guerra-degradada-por-la-droga/Uribe_ELN-1024x1002.jpg)
+![La guerrilla de toda pelambre debe auto examinarse a partir de su praxis y no de su teoría política. Guerra degradada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/catatumbo-una-guerra-degradada-por-la-droga/Uribe_ELN-1024x1002.jpg)
 *La guerrilla de toda pelambre debe auto examinarse a partir de su praxis y no de su teoría política. La práctica de la guerrilla no difiere de las bandas criminales. (Cortesía).*
 
 ¿Cómo se entiende que los jefes históricos de la guerrilla sigan hablando de transformación de la sociedad sin detenerse a autoexaminarse? No lo hacen y jamás lo harán mientras sus mentes sigan alienadas.
@@ -88,7 +88,7 @@ Para ello se debe asegurar las garantías necesarias a la población civil. Por 
 
 ## Una guerra anunciada
 
-![Balance del PMU](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/catatumbo-una-guerra-degradada-por-la-droga/PMU.jpeg)
+![Balance del PMU](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/catatumbo-una-guerra-degradada-por-la-droga/PMU.jpeg)
 
 Desde septiembre de 2023, la población civil expuso al gobierno el peligro de escalarse la confrontación armada. Una guerra anunciada entre los frentes del ELN ―que históricamente ejercen una hegemonía en las profundidades del Catatumbo― y el frente 33 de las disidencias del EMC.
 

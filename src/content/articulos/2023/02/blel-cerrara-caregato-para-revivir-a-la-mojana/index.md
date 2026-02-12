@@ -5,7 +5,7 @@ pubDate: "2023-02-28 15:59:37"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/blel-cerrara-caregato-para-revivir-a-la-mojana/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/blel-cerrara-caregato-para-revivir-a-la-mojana/hero.jpg
 ---
 
 https://youtu.be/7pXzslxRkZY
@@ -18,7 +18,7 @@ El gobernador de **Bolívar Vicente Blel cerrará «Caregato»** (San Jacinto de
 
 Las comunidades organizadas de esta ecorregión vienen cuestionando al gobierno nacional de Duque y de Petro que no pudieron o no quisieron cerrar «Caregato». El primero hizo una inversión de más de **$40 mil millones**. Mientras que el gobierno de Petro suscribió un contrato por **$5.390 millones**. Todo ese dinero se lo llevó el río. Ahora acompañan a sus gobernantes regionales para asumir el compromiso de cerrar **«Caregato»**.
 
-![El gobernador de Bolívar Vicente Blel cerrará «Caregato» para revivir a La Mojana. Le apoyan el gobernador de Sucre, Héctor Olimpo Espinosa y de Córdoba,Orlando Benitez. Aquí en Caregato el 27 de febrero de 2023. (Cortesía Primero Bolívar).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/blel-cerrara-caregato-para-revivir-a-la-mojana/hero.jpg)
+![El gobernador de Bolívar Vicente Blel cerrará «Caregato» para revivir a La Mojana. Le apoyan el gobernador de Sucre, Héctor Olimpo Espinosa y de Córdoba,Orlando Benitez. Aquí en Caregato el 27 de febrero de 2023. (Cortesía Primero Bolívar).](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/blel-cerrara-caregato-para-revivir-a-la-mojana/hero.jpg)
 *El gobernador de Bolívar Vicente Blel cerrará «Caregato» para revivir a La Mojana. Le apoyan el gobernador de Sucre, Héctor Olimpo Espinosa y de Córdoba,Orlando Benitez. Aquí en Caregato el 27 de febrero de 2023. (Cortesía Primero Bolívar).*
 
 ## Blel cerrará «Caregato» antes de las lluvias
@@ -41,7 +41,7 @@ Entender esa realidad a partir del discernimiento de lo cotidiano, de la vida re
 
 ## La vida es una sola
 
-![Álvaro Pérez, habitante de La Sierpe, solo quiere trabajar. Su vida pierde dignidad cuando no tiene para comer y debe hacer una larga fila en "Las ollas comunitarias"](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/blel-cerrara-caregato-para-revivir-a-la-mojana/Alvaro-perez.jpg)
+![Álvaro Pérez, habitante de La Sierpe, solo quiere trabajar. Su vida pierde dignidad cuando no tiene para comer y debe hacer una larga fila en "Las ollas comunitarias"](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/blel-cerrara-caregato-para-revivir-a-la-mojana/Alvaro-perez.jpg)
 *Álvaro Pérez, habitante de La Sierpe, solo quiere trabajar. Su vida pierde dignidad cuando no tiene para comer y debe hacer una larga fila en "Las ollas comunitarias". Foto Lucio.*
 
 Comprender que la vida discurre en un momento determinado —como el caso de La Mojana— es comprender que la acción humana se desarrolla en un espacio y en un tiempo presente y no en otro tiempo. La vida es una sola e irrepetible. (Esta idea se sustenta en mi libro **La proclama del Ser**). Se trata de defender ahora la vida de todos, incluyendo a la naturaleza. Si no lo hacemos, nos exterminamos a sí mismos. Esto no lo entendió, en 1938, el presidente **Alfonso López Pumarejo** con su _Revolución en Marcha_ cuando se negó atender el clamor de los mojaneros que necesitaban las aguas del Cauca. El pueblo debió actuar por sus propios medios y abrió la **«Boca del Cura»** que se tornó con el tiempo en un desastre ecológico y social.
@@ -54,7 +54,7 @@ Remember, el progresismo y la izquierda fracasaron como proyecto político para 
 
 ## Blel cerrará «Caregato» y Pava saldrá
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/02/blel-cerrara-caregato-para-revivir-a-la-mojana/Blel-en-Caregato-punto-critico.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/blel-cerrara-caregato-para-revivir-a-la-mojana/Blel-en-Caregato-punto-critico.jpg)
 *El gobernador Vicente Blel, en ejercicio de sus funciones, hizo presencia en «Caregato» y responsabilizó a José Ricaurte (OAGRD) en el Punto de Mando Unificado (PMU) hasta cuando se cierre el chorro de un kilómetro.*
 
 Sin tanta teoría y parla el gobernador de Bolívar **Gustavo Blel** cerrará «Caregato». Hizo presencia con su equipo de la **Oficina Asesora para la Gestión del Riesgo de Desastres de Bolívar (OAGRD)**  este 27 de febrero de 2023 en el punto crítico. Lo primero que hizo fue solicitarle respetuosamente a **Javier Pava Sánchez** que detenga los trabajos de **"adecuación hidráulica"** que estaban haciendo desde el pasado 8 de febrero. Lo segundo que hizo fue instalar a su equipo de **OAGRD** al mando del arquitecto y experto en la atención de desastres, **José Raimundo Ricaurte Gómez**. Ricaurte la tiene clara sin tantas ideas peregrinas del medio ambiente. Lo expuso en nuestra documental [La Mojana Adentro: Caregato, la cara del Cambio](https://youtu.be/7pXzslxRkZY). (dále clic). Lo tercero, es anunciar un **Plan Integral y Estratégico para revivir a La Mojana** en sintonía con los CONPES existentes.

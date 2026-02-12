@@ -5,10 +5,10 @@ pubDate: "2022-08-11 19:50:24"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/licitacion-canal-del-dique-hasta-el-12-de-septiembre/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/licitacion-canal-del-dique-hasta-el-12-de-septiembre/hero.jpg
 ---
 
-![El ministro de Transporte Guillermo Reyes anunciando el aplazamiento de la licitación Canal del Dique para el 12 de septiembre.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/licitacion-canal-del-dique-hasta-el-12-de-septiembre/hero.jpg)
+![El ministro de Transporte Guillermo Reyes anunciando el aplazamiento de la licitación Canal del Dique para el 12 de septiembre.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/licitacion-canal-del-dique-hasta-el-12-de-septiembre/hero.jpg)
 *El ministro de Transporte Guillermo Reyes anunciando el aplazamiento de la licitación Canal del Dique para el 12 de septiembre.*
 
 El ministro de Transporte, Guillermo Reyes, dijo hoy que la licitación de la megaobra "Restauración de los Ecosistemas Degradados Canal del Dique" se aplaza hasta el 12 de septiembre. En una rueda de prensa realizada en el ministerio, estuvo acompañado del presidente encargado de la ANI, **Carlos García**, quien manifestó haber recibido requerimientos de la Contraloría General dela República, Justicia Especial de Paz (JEP) y de las mismas comunidades.

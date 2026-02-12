@@ -5,10 +5,10 @@ pubDate: "2022-08-04 16:29:14"
 author: "Lucio"
 categories: ["Investigación","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/hero.jpg
 ---
 
-![Nubia Fontalvo, Héctor Consuegra y Gustavo Núñez, los tres contralores ilegales de la historia. La pelotera por la contraloría.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/hero.jpg)
+![Nubia Fontalvo, Héctor Consuegra y Gustavo Núñez, los tres contralores ilegales de la historia. La pelotera por la contraloría.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/hero.jpg)
 *Nubia Fontalvo, Héctor Consuegra y Gustavo Núñez, los tres contralores ilegales de la historia. La pelotera por la contraloría.*
 
 La pelotera por el contralor Distrital ilegal, que tiene connotaciones penales y disciplinarias, refleja la profunda crisis político-administrativa de Cartagena. Al parecer, existió una participación tripartita en el acuerdo para elegir al frustrado contralor Gustavo Núñez. Por un lado el alcalde y sus contratistas con concejales y el candidato. Aunque no hablaron de **«**libros**»**, como en el caso de Nubia Fontalvo, sí hubo posibles transacciones de votos por cargos. Nunca en la historia de la alcaldía Distrital de Cartagena se había presentado una situación de inestabilidad profunda como la que se vive ahora.
@@ -17,7 +17,7 @@ La pelotera por el contralor Distrital ilegal, que tiene connotaciones penales y
 
 ## El móvil de la pelotera por el contralor
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/quintana.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/quintana.jpg)
 *Estos son los concejales presuntamente comprometidos en la elección ilegal de Gustavo Núñez, me dice Jorge Quintana.*
 
 Pero si la Fiscalía quiere dar resultados eficaces con la denuncia presentada por el veedor ciudadano **Jorge Quintana Sosa**, aquí le presento la ruta de posibles delitos con el caso de la elección de Gustavo Núñez. **El 28 de julio**, un grupo de concejales de Cartagena se comportó como una vulgar banda de forajidos de la cosa pública aupados por el alcalde **William Dau Chamat**. Eligieron por tercera vez, en 8 años, a un contralor distrital ilegal. La primera (2016), Nubia Fontalvo, la candidata de J.J. Vásquez García. El segundo (2020), Héctor Consuegra, el candidato de Dau. Al declararse nula la elección, encargaron a **Fredys Quintero**, candidato de Luis Cassiani. El tercero (2022), **Gustavo Núñez Vivero**, contó con la venia de Dau.
@@ -76,7 +76,7 @@ Sin embargo, en la sesión del 3 de agosto, la presidenta del concejo, **Gloria 
 
 > «En este caso concreto, **Gustavo Núñez nunca fue contralor distrital,** pues el sentir de la plenaria y de su supuesta elección nunca se materializó en un acto administrativo de nombramiento en los términos legales establecidos. Igualmente se tiene que no existe un acto administrativo que haya terminado de forma anticipada el encargo de Rafael Castillo. Por ende, su situación jurídica no ha sido modificada ni está extinta, por lo que sigue en el cargo como contralor encargado».
 
-![La pelotera por el contralor. Facsimil del folio 278 del libro de anotaciones y de actas del concejo distrital del 28 de julio. Firmó una junta directiva ad hoc con Luder Ariza, David Caballero y Luis Cassiani. Este documento sí indica que el proceso se produjo. Pero, lo que alega la presidenta del concejo es que fue nulo, porque no se consumó para convertirse en acto administrativo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/Contralor-Facsimil.jpg)
+![La pelotera por el contralor. Facsimil del folio 278 del libro de anotaciones y de actas del concejo distrital del 28 de julio. Firmó una junta directiva ad hoc con Luder Ariza, David Caballero y Luis Cassiani. Este documento sí indica que el proceso se produjo. Pero, lo que alega la presidenta del concejo es que fue nulo, porque no se consumó para convertirse en acto administrativo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/Contralor-Facsimil.jpg)
 *La pelotera por el contralor. Facsimil del folio 278 del libro de anotaciones y de actas del concejo distrital del 28 de julio. Firmó una junta directiva ad hoc con Luder Ariza, David Caballero y Luis Cassiani. Este documento sí indica que el proceso se produjo. Pero, lo que alega la presidenta del concejo es que fue nulo, porque no se consumó para convertirse en acto administrativo.*
 
 ## El acto administrativo
@@ -91,7 +91,7 @@ Ahora bien, ¿la renuncia de Núñez pueden borrar la comisión de los presuntos
 
 ## Antecedentes de la pelotera por el contralor
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/hector-consuegra2.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/hector-consuegra2.jpg)
 *Vergonzosa fue la elección de Héctor Consuegra en julio del 2020. Iba a ser el contralor de bolsillo de Dau. Pelotera por el contralor.*
 
 **El 15 de julio de 2020** publiqué la segunda entrega de la elección ilegal de Héctor Consuegra (el candidato de Dau). Dos años más tarde, pareciera que estuviera describiendo la elección de **Gustavo Núñez Vivero**, quien iba a ser un contralor de bolsillo de William Dau.
@@ -112,7 +112,7 @@ Se recuerda que en 2017 estos fueron los concejales encartados: **Luis Cassiani 
 
 ## La voltereta de Julio Bejarano
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/Javier-Julio-Bejarano.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/por-que-la-pelotera-por-el-contralor-ilegal-i/Javier-Julio-Bejarano.jpg)
 *Javier julio Bejarano dio una espectacular voltereta para salvar a su verdugo William Dau y quitarle el respaldo político al contralor (e) Rafael Castillo. Ahora le dicen «El voltiarepa».*
 
 En el reciente episodio, como ya se dijo, una nueva coalición en el concejo distrital de Cartagena liderada por **Katia Mendoza Saleme y Javier Julio Bejarano**, dieron un golpe de mano el jueves 28 de julio. Usando métodos pocos ortodoxos e ilegales, bajaron al contralor (e) actual, **Rafael Castillo Fortich**, a quien le anticiparon la terminación de su encargo que legalmente estaba hasta el 18 de agosto. De inmediato, en una sesión express realizada ese mismo día por la tarde, eligieron al nuevo contralor Gustavo Nuñez Vivero.

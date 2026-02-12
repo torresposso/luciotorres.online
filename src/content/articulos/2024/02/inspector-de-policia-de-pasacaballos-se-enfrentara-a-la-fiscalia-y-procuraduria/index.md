@@ -5,10 +5,10 @@ pubDate: "2024-02-26 02:14:13"
 author: "Lucio"
 categories: ["Cartagena","Destacadas","Investigación"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/inspector-de-policia-de-pasacaballos-se-enfrentara-a-la-fiscalia-y-procuraduria/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/inspector-de-policia-de-pasacaballos-se-enfrentara-a-la-fiscalia-y-procuraduria/hero.jpg
 ---
 
-![Fernán Pérez Saravia, el inspector de Policía de Pasacaballos Cartagena, vive una vida flamante con ingreso salarial promedio de $35 millones al año.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/inspector-de-policia-de-pasacaballos-se-enfrentara-a-la-fiscalia-y-procuraduria/hero.jpg)
+![Fernán Pérez Saravia, el inspector de Policía de Pasacaballos Cartagena, vive una vida flamante con ingreso salarial promedio de $35 millones al año.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/inspector-de-policia-de-pasacaballos-se-enfrentara-a-la-fiscalia-y-procuraduria/hero.jpg)
 *Fernán Pérez Saravia, el inspector de Policía de Pasacaballos Cartagena, vive una vida flamante con ingreso salarial promedio de $35 millones al año.*
 
 Son varios los casos oscuros o inexplicables, desde el punto de vista jurídico y administrativo, en los cuales se encuentra involucrado el **Inspector de Policía Rural de Pasacaballos** (Cartagena), **Fernán Pérez Saravia**. Uno de ellos es la denuncia penal y disciplinaria interpuesta por nativos de Punta Seca de Playa Blanca en Barú. Los afrodescendientes lo acusan de presuntas irregularidades en el ejercicio de impartir justicia administrativa en las continuas disputas de la posesión de la propiedad en su jurisdicción.
@@ -29,7 +29,7 @@ Sin embargo, lejos de aplacarse esas contradicciones por la propiedad de la tier
 
 ## El caso presente con el inspector de Policía
 
-![El encabezado de la denuncia contra el inspector de Policía de Pasacaballos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/inspector-de-policia-de-pasacaballos-se-enfrentara-a-la-fiscalia-y-procuraduria/la-denuncia.jpg)
+![El encabezado de la denuncia contra el inspector de Policía de Pasacaballos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/inspector-de-policia-de-pasacaballos-se-enfrentara-a-la-fiscalia-y-procuraduria/la-denuncia.jpg)
 *El encabezado de la denuncia contra el inspector de Policía de Pasacaballos.*
 
 Se sindica al inspector Pérez Saravia de actuaciones irregulares que dicen de su mala conducta violatoria del régimen disciplinario y del Código Penal. La denuncia está centrada dentro del proceso de **amparo policivo** promovido por la sociedad **Inmobiliaria Barú Sas** en Liquidación con **Nit. 900695115-5** contra **Vicente Girado Julio, Gustavo Girado Arevalo, Jose Vicente Girado** y otras Personas.

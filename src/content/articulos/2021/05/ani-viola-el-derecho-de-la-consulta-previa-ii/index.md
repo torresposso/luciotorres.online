@@ -5,10 +5,10 @@ pubDate: "2021-05-29 20:27:38"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/ani-viola-el-derecho-de-la-consulta-previa-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/ani-viola-el-derecho-de-la-consulta-previa-ii/hero.jpg
 ---
 
-\[caption id="attachment\_15133" align="aligncenter" width="800"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/ani-viola-el-derecho-de-la-consulta-previa-ii/MANUEL-FELIPE.jpeg) Un grupo de la ANI, liderado por **Manuel Felipe Gutiérrez**. ¿Sabrá que Guizamano recibió los $260 millones de la consulta previa de El Recreo?\[/caption\]
+\[caption id="attachment\_15133" align="aligncenter" width="800"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/ani-viola-el-derecho-de-la-consulta-previa-ii/MANUEL-FELIPE.jpeg) Un grupo de la ANI, liderado por **Manuel Felipe Gutiérrez**. ¿Sabrá que Guizamano recibió los $260 millones de la consulta previa de El Recreo?\[/caption\]
 
 ¿ANI viola el derecho de la consulta previa? Es la pregunta esencial de esta entrega. La investigación señala que **basta con pagarle los «buenos oficios»** a un intermediario entre la comunidad y la empresa para obtener luz verde. Pero no garantiza el ejercicio real y efectivo del derecho fundamental a la consulta previa.  El sujeto de nuestra historia está representado por **Henry Guizamano Vivas.** Es un destacado consultivo nacional para las comunidades negras que actúo como intermediario entre la ANI y los consejos comunitarios de **El Recreo, Lomas de Matunilla, Bocacerrada y Rocha.**
 
@@ -16,7 +16,7 @@ A cada uno de esos consejos comunitarios afros la ANI le giró la suma de $350 m
 
 ## El concierto para delinquir con la consulta previa
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/ani-viola-el-derecho-de-la-consulta-previa-ii/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/ani-viola-el-derecho-de-la-consulta-previa-ii/hero.jpg)
 
 Guizamano anda diciendo que a mi me han echado de las comunidades. No es cierto. Me invitan a que vaya allá a constar las irregularidades, lo cual he hecho. Transmitimos en **Vivo con VoxPopuli** en Pasacaballos, Lomas de Matunilla, y próximamente lo haremos en las demás comunidades que me lo pidan. Pueden ver los enlaces. Estaré en Rocha. Para detenerme, Guizamano presentó una tutela contra mí. Quiere silenciarme. Igualmente otra contra la Corporación Lucha Contra la Corrupción. **Ambas fallaron contra él y sus compinches. No pudieron silenciarnos.**
 
@@ -49,7 +49,7 @@ Debido al gran impacto sobre una amplia población negra y de su entorno ambient
 
 ## El intermediario
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/ani-viola-el-derecho-de-la-consulta-previa-ii/henry-guizamano1.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/ani-viola-el-derecho-de-la-consulta-previa-ii/henry-guizamano1.jpg)
 *Henry Guizamano es Delegado Nacional. Es el intermediario de cuatro comunidades negras. En El Recreo le entregaron $260 millones de los $350 millones girados por la ANI, como lo mostramos en la primera entrega. El resto, o sea $90 millones, Guizamano lo repartió con el Consejo Comunitario.*
 
 **Henry Martín Guizamano Vivas,** conocido de auto, trabajó de la mano de la otrora representante a la Cámara de las negritudes, María del Socorro Bustamante. Guizamano fue uno de los dos testigos afros que usó Bustamante para posesionarse el 8 de enero de 2015 ante la **Notaría Séptima de Cartagena**, cuya titular era **Margarita Rosa Jiménez Nájera**. Desde aquellos momentos contó con el apoyo de la frustrada parlamentaria, ya que no alcanzó a ejercer el cargo. Su curul fue demandada ante el Consejo de Estado.

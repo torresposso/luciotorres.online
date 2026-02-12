@@ -5,10 +5,10 @@ pubDate: "2023-07-23 00:58:29"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/venganza-pasional-de-fanny-batista-aclararia-complot-contra-hector-perez-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/venganza-pasional-de-fanny-batista-aclararia-complot-contra-hector-perez-ii/hero.jpg
 ---
 
-![Venganza pasional de Fanny Batista contra Jhon Villamizar Gómez sacó a flote el caso del plan para asesinar a Héctor Pérez Fernández. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/venganza-pasional-de-fanny-batista-aclararia-complot-contra-hector-perez-ii/hero.jpg)
+![Venganza pasional de Fanny Batista contra Jhon Villamizar Gómez sacó a flote el caso del plan para asesinar a Héctor Pérez Fernández. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/venganza-pasional-de-fanny-batista-aclararia-complot-contra-hector-perez-ii/hero.jpg)
 
 Por una supuesta venganza pasional de **Fanny Batista** contra **Jhon Villamizar Gómez** salió a flote el caso del plan para asesinar al abogado **Héctor Pérez Fernández**. Igualmente se aclara que el también **abogado Adolfo Vergara Martínez** no tuvo ni tiene negocios con el empresario sindicado de proponer ese asesinato. Su mención en esta historia es incidental, puesto que estuvo en ese encuentro por coincidencia en la actividad recreativa del golf en el Club Campestre de Turbaco.
 

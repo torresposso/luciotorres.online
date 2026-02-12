@@ -5,10 +5,10 @@ pubDate: "2025-09-07 22:40:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/un-exalcalde-adicto-al-senado/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/09/un-exalcalde-adicto-al-senado/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/09/un-exalcalde-adicto-al-senado/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/09/un-exalcalde-adicto-al-senado/hero.jpg)
 *El exalcalde corrupto muestra sus partes al periodista Edison Lucio Torres que lo cuestionó durante sus cuatro años de gobierno. Sin duda, Dau terminará preso por corrupto. Ni siquiera puede inscribirse a ningún cargo de elección popular.*
 
 ¿Un exalcalde adicto y corrupto al senado? El peor alcalde de elección popular que ha tenido Cartagena de Indias, adicto a la ira y la vanidad, **William Dau Chamat**, verá frustrada su aspiración al senado de la República porque la Procuraduría lo inhabilitó dos veces, paradójicamente, por actos de corrupción. Uno de estos hechos de corrupción es el pago de huevos y “atún rallado” con sobrecostos de su precio normal en el Programa de Alimentación Escolar (PAE) dirigido a los niños más pobres de Cartagena.

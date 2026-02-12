@@ -5,10 +5,10 @@ pubDate: "2018-10-29 14:30:28"
 author: "Lucio"
 categories: ["Barranquilla"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/hero.jpg)
 *Farid Char amaba tanto a Christian que siempre tenía tiempo para expresarselo. En la postrimería de su vida, Christian cargaba a su padre. La sonrisa de Farid, ¡felicidad pura! Foto Derecho reservado.*
 
 El día en que cremaron el cadáver de **Farid Char Abdala** solo había transcurrido 6 horas de su muerte en la clínica **Porto Azul**. La intriga solo comienza a despejarse transcurrido un año de su inesperada muerte, ya que está apareciendo una madeja de demandas y contrademandas que **pueden dejar al descubierto los secretos oscuros de una de las familias más pudientes e influyentes** de la región Caribe y, en general, del país.
@@ -19,7 +19,7 @@ Luego de la muerte de Farid Char y de la cremación prematura de su cadáver, se
 
 Justamente en los próximos días **los abogados de Liliana Rozo Pinzón** iniciarán una batalla jurídica presentando múltiples demandas y procesos para proteger los derechos fundamentales de los hijos menores de Farid Char Abdala.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/liliana-2.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/liliana-2.jpg)
 *En mayo de 1997, Farid Char sobrio, libre de la adicción, feliz al lado de dos de sus seres amados: Liliana y Christian. Ese día, Christian cumplía 30 días de nacido. Farid no solo lo bautizó sino que lo registró como su legitimo hijo. Archivo Particular.*
 
 Entretanto, la Fiscalía se niega a resolver muchas preguntas que hace más de un año nos hicimos en una investigación periodística, después de observar cómo cremaron el cadáver: **¿Qué querían tapar con esa cremación súper rápida?** ¿Su muerte fue causada por alguna enfermedad desconocida o fue provocada en forma simulada? ¿Por qué impidieron que la familia Char Rozo (**Liliana Rozo y sus hijos Christian y Danielita**) decidieran sobre el destino final del cuerpo de su amado marido y padre? ¿Por qué **Porto Azul** entregó el cadáver a su ex esposa **Gladys Yidi** y no a **Liliana Rozo Pinzón**, su compañera permanente con quien vivía y tenía un vinculo marital desde 1987, el cual fue elevado a escritura pública en el 2008? Un año después, estos interrogantes continúan. Pero hay pistas, que si las seguimos, muchos de esos interrogantes se despejarían, poniendo al descubierto esos secretos oscuros de una familia, cuya fortuna pudo tener orígenes _**non sancto**_.
@@ -34,7 +34,7 @@ Como **Farid Char** estaba locamente enamorado de su **«**Mona**»**, la acept
 
 Cuando cremaron el cadáver no sospechábamos que una de las familias más ricas del país**, en forma perversa y olímpica,** pretende burlarse de la ley y de la sana convivencia familiar para no darle lo que le corresponde a los descendientes menores de **Farid Char.** Perversa, porque lo han hecho conscientemente. Olímpica, porque conocen la ley pero se burlan de ella sin ningún miramiento a sabiendas de que le espera la impunidad.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/liliana-bautizo-cristian-2.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/liliana-bautizo-cristian-2.jpg)
 *Mayo de 1997, bautizo de Christian fue uno de los acontecimientos más felices que Farid Char tuvo en su vida. No solo estaba enamorado de la «Mona» Liliana sino que también amaba a su hijo Christian. Aquí el padre que lo bautizó en la iglesia. Archivo particular.*
 
 **Aún estaban las cenizas calientes del cadáver de Farid,** cuando la firma **Farid Char y Cía S en C** demandó  los derechos herenciales de **Christian Char Rozo**, hijo de Farid con Liliana Rozo. Farid, como lo dijimos, no tuvo ningún reparo y asumió en forma responsable su paternidad con relación a Christian. **Farid, lo hizo conscientemente**, puesto que lo bautizó un mes después de su nacimiento (mayo de 1997) y lo registró como hijo, tal como consta en los documentos que tengo como fuente primaria. Fue el único hijo que asistió al parto para verlo nacer, tal como consta en los registros médicos. Sus dos hijos preferidos eran precisamente Christian y Danielita, a juzgar por los testimonios dados a este periodista por numerosas personas que fueron testigos de la excelente relación que mantuvo con sus hijos menores.
@@ -57,12 +57,12 @@ La muerte sospechosa de **Farid Char Abdala** podría ser uno de los enigmas de 
 
 ¿Extraño? Si, es extraño.  «No tenía aparentemente un síntoma previo» de alguna enfermedad. ¿Qué comió? ¿Donde comió? ¿Quienes estaban con él en la noche anterior? 
 
-*   ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/hero.jpg)
+*   ![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/hero.jpg)
     *Antes Farid cargaba a Cristian; un poco antes de morir, Cristian cargaba a Farid.*
     
-*   ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/familia-char-rozo-2.jpg)
-*   ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/liliana-bautizo-2.jpg)
-*   ![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/farid-beso-3.jpg)
+*   ![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/familia-char-rozo-2.jpg)
+*   ![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/liliana-bautizo-2.jpg)
+*   ![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/10/por-que-cremaron-el-cadaver-de-farid-char-como-a-un-leproso-requiem-ii/farid-beso-3.jpg)
 
 **La negación de la visa** norteamericana se convirtió en un **tema tabú** para los medios de comunicación del país, pero especialmente de Barranquilla. **Los Char dominan todos los medios**, con alguna excepción. El Heraldo, por ejemplo, es uno de los diarios atados por el poder de los Char que gozan de la mayoría de las acciones. Además de tener la cadena Olímpica, cuenta con una red de medios y de periodistas aduladores.
 

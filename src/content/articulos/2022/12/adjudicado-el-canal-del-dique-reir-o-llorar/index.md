@@ -5,10 +5,10 @@ pubDate: "2022-12-08 00:57:59"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/adjudicado-el-canal-del-dique-reir-o-llorar/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/adjudicado-el-canal-del-dique-reir-o-llorar/hero.jpg
 ---
 
-![Momento en que William Camargo Triana, presidente de ANI anunciaba la adjudicación del megraproyecto Canal del Dique. ¿Reir o llorar? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/12/adjudicado-el-canal-del-dique-reir-o-llorar/hero.jpg)
+![Momento en que William Camargo Triana, presidente de ANI anunciaba la adjudicación del megraproyecto Canal del Dique. ¿Reir o llorar? ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/adjudicado-el-canal-del-dique-reir-o-llorar/hero.jpg)
 *Momento en que William Camargo Triana, presidente de ANI anunciaba la adjudicación del megraproyecto Canal del Dique. ¿Reir o llorar? (Captura de pantalla).*
 
 Luego de una audiencia pública celebrada en Bogotá, finalmente fue adjudicado hoy, Día de Velitas, el contrato para la construcción de la hidrovia 5G **«Restauración de los ecosistemas degradados Canal del Dique»**. ¿Reir o llorar? ¿Es una disyuntiva falsa cuando los que ríen son pocos y los que llorarán lágrimas de sangre sería la mayoría? Lo cierto es que las falencias de la estructuración del megaproyecto no fueron superadas, pese a lo dicho por el presidente de ANI, **William Camargo Triana** y el ministro de Transporte, **Guillermo Reyes**.

@@ -5,17 +5,17 @@ pubDate: "2021-09-04 22:18:30"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/hero.jpg)
 *Ana Lucía Julio, alcaldesa de Turbana. ¿Por qué está en secreto el jugoso contrato? Un jugoso negocio.Cortesía.*
 
 Cachenche, será un jugoso negocio que entregaría la alcaldesa de Turbana, Ana Lucía Julio, a terceros para una **central de cargas.** La gobernante, al parecer, proyectó en abril de este año un contrato para estructurar una **Alianza Público Privada** con el **consorcio Luis Suárez—Javier Corrales** con la representación legal de **Luís Suárez.** Pero previamente hizo que el concejo declarar de utilidad pública las tierras de Cachenche.
 
 De manera que al principio en el negocio se presentó como contratista **Pedro Pérez Marrugo**, quien sería el encargado de estructurar la APP y recibiría el 10% de valor total de la inversión del proyecto.  
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/Acuerdo-concejo-de-Turbana.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/Acuerdo-concejo-de-Turbana.jpg)
 *Este es el acuerdo municipal mediante el cual se declaró a Cachenche de utilidad pública y de interés social. Paso inicial del jugoso negocio.*
 
 Previamente, el concejo municipal de Turbana aprobó un proyecto de acuerdo mediante el cual se le autorizaba a la alcaldesa **Ana Lucía Julio declarar de utilidad pública e interés social** el predio con matrícula **No 060—76813** con referencia catastral **No 0001000010063000**. Esto corresponde a la finca Cachenche.
@@ -26,14 +26,14 @@ Previamente, el concejo municipal de Turbana aprobó un proyecto de acuerdo medi
 
 Lo curioso es que este contrato se ha mantenido en secreto. Algunas versiones indican que el proyecto de la APP fue modificado. El contratista que se tenía previsto en abril fue cambiado por causas que hasta ahora no han señalado. 
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/APP-TURBANA.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/APP-TURBANA.jpeg)
 *Pantallazo de la primera página del contrato para la APP que permitirá instalar una Central de Cargas. Jugoso negocio asesorado por varios abogados: Guillermo Quintero e Ismael Espitaleta.*
 
 Lo paradójico es que en el casco urbano de Turbana, al norte de Bolívar, no se encuentra siquiera un pepino cosechado en el municipio. Nada. No lo encontramos. Visitamos varios tenderos y vendedores de frutas y verduras y constatamos que se proveen del mercado de Bazurto de Cartagena.
 
 ## A control político el jugoso negocio
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/Turbana.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/Turbana.jpg)
 *En Turbana el campesinado se ha extinguido. El jugoso negocio de la tierra para la industria beneficia a unos pocos.*
 
 **El senador del Polo, Iván Cepeda, y otros congresistas, solicitaron la intervención de la Procuraduría General de la Nación**, la Agencia nacional de Tierra—ANT y de la Contraloría General sobre el caso de la finca de Cachenche. Anunció que, con base en la información que reciba de los organismos de control, realizaría un debate de control político.
@@ -52,7 +52,7 @@ En ese sentido, que Cachenche tenga un uso industrial en perjuicio de la producc
 
 ## Juez negó incidente de desacato
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/lista.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/cachenche-jugoso-negocio-que-ira-a-control-politico-en-el-congreso/lista.jpg)
 *Esta fue la lista que hizo la abogada Nataly Gaitán. El juez 1 Promiscuo de Turbana consideró que era la caracterización, lo cual no es cierto.*
 
 De acuerdo a informaciones entregadas por los campesinos de Cachenche,  el **Juez 1 Municipal Promiscuo de Turbana**, **negó el incidente de desacato presentada por los campesinos**. Se trata de fallo de tutela condicionado donde el juez había ordenado la caracterización de la población campesina para ser censada por la ANT. 

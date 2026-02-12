@@ -5,10 +5,10 @@ pubDate: "2021-05-14 21:28:01"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/un-paro-nacional-que-ni-el-venon-lo-detiene/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/un-paro-nacional-que-ni-el-venon-lo-detiene/hero.jpg
 ---
 
-\[caption id="attachment\_15016" align="aligncenter" width="680"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/un-paro-nacional-que-ni-el-venon-lo-detiene/hero.jpg) Los jóvenes realizaron barricadas en Bogotá, Cali, Popayán. **Ni el «venon» detiene la protesta.**\[/caption\]
+\[caption id="attachment\_15016" align="aligncenter" width="680"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/un-paro-nacional-que-ni-el-venon-lo-detiene/hero.jpg) Los jóvenes realizaron barricadas en Bogotá, Cali, Popayán. **Ni el «venon» detiene la protesta.**\[/caption\]
 
 El Paro Nacional sigue en pie. **Ni el «venon» disparado por el ESMAD detiene a la muchedumbre en las calles**. Tampoco los 42 muertos (41 civiles y un policía) a corte de la jornada 16. La primavera llegará. Y cuando llegue, pocos lo sabrán.
 

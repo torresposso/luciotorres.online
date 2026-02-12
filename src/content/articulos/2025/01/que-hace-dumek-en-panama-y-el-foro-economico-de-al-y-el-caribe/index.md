@@ -5,10 +5,10 @@ pubDate: "2025-01-30 12:24:56"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/que-hace-dumek-en-panama-y-el-foro-economico-de-al-y-el-caribe/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/que-hace-dumek-en-panama-y-el-foro-economico-de-al-y-el-caribe/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/que-hace-dumek-en-panama-y-el-foro-economico-de-al-y-el-caribe/dumek_panama_foro.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/que-hace-dumek-en-panama-y-el-foro-economico-de-al-y-el-caribe/dumek_panama_foro.jpeg)
 *Dumek con los cancilleres de Panamá, Javier Martínez-Acha, y de Paraguay, Rubén Ramírez. (Cortesía Prensa).*
 
 Mientras el Secretario Ejecutivo de la Comisión Económica para América Latina y el Caribe (CEPAL), **José Manuel Salazar-Xirinachs**, llamó a los gobiernos y a los empresarios de la región a fortalecer las **políticas de desarrollo productivo**, **Dumek Turbay Paz**, alcalde de Cartagena, participó en el foro con el Banco de Desarrollo de América Latina y el Caribe. Dumek en Panamá está buscando apalancar recursos de cooperación y crédito para el desarrollo.
@@ -25,7 +25,7 @@ Recordemos que el cordón umbilical que une a las dos ciudades hermanas data des
 
 ## Apuesta al desarrollo económico
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/que-hace-dumek-en-panama-y-el-foro-economico-de-al-y-el-caribe/foro_america.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/que-hace-dumek-en-panama-y-el-foro-economico-de-al-y-el-caribe/foro_america.jpeg)
 *El panel "Perspectivas económicas de América Latina y el Caribe. A la derecha, José Manuel Salazar-Xirinachs.*
 
 Uno de los llamados realizado por el líder de la CEPAL, señala que se debe apostar y colaborar para el desarrollo de sectores dinamizadores del crecimiento y la transformación  y avanzar hacia un futuro más productivo, inclusivo y sostenible.

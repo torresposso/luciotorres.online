@@ -5,12 +5,12 @@ pubDate: "2021-09-30 22:09:51"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/pinata-para-claro-y-los-corruptos-en-mintic-v/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/pinata-para-claro-y-los-corruptos-en-mintic-v/hero.jpg
 ---
 
 **Karen Abudinen Abuchaibe** convirtió el Ministerio de Tecnologías de la Información y las Comunicaciones (MinTic) en una verdadera piñata —no para niños— sino para los corruptos. Una piñata donde la multinacional Claro recibió el 50% de ese dulce: $1 billón de pesos para construir los Centros Digitales. 
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/pinata-para-claro-y-los-corruptos-en-mintic-v/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/pinata-para-claro-y-los-corruptos-en-mintic-v/hero.jpg)
 *Carlos Zenteno, presidente ejecutivo de Claro en Colombia. Debe responder por el contrato de la zona A de los Centros Digitales. Piñata para Claro.*
 
 Claro recibió $100 mil millones. Y hasta el 24 de septiembre había incumplido con la entrega del 21% de los puntos digitales a los que contractualmente estaba comprometido entregar.  Su compromiso era que el 31 de mayo esos centros digitales estuviesen funcionando. Ni Claro ni Centros Poblados cumplieron. Hasta ahora ha sido un fraude los dos contratos. El de Claro costó $1.06 billones. El Centros Poblados $1.07 billones. Son más de $2 billones invertidos allí. ¿Serán otros Kioskos Digitales que no sirvieron para nada?
@@ -45,7 +45,7 @@ Esa situación está generando **una grave afectación** del derecho fundamenta
 
 ## El 50% sin internet
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/pinata-para-claro-y-los-corruptos-en-mintic-v/Captura-de-pantalla-7.png)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/pinata-para-claro-y-los-corruptos-en-mintic-v/Captura-de-pantalla-7.png)
 *Alexandra Peláez Botero, Secretaria de Educación de Antioquia: "Solo 8 de las instituciones tienen internet".*
 
 Muchas instituciones educativas carecen de una señal sostenida que pueda conectarse con el mundo, como prometió Karen Abudinen. Ella juró y **_requetejuró_** que en mayo ya estarían cerca de 1.700 instituciones educativas con el servicio de Internet. El cronograma de instalación iba de marzo de 2021 hasta julio de 2022.  Ni Claro cumplió mucho menos Centros Poblados. 
@@ -58,7 +58,7 @@ Por su parte la Secretaria de Educación de Antioquia, **Alexandra Peláez Boter
 
 ## El cronograma de la piñata
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/pinata-para-claro-y-los-corruptos-en-mintic-v/cronograma-de-Mintic.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/pinata-para-claro-y-los-corruptos-en-mintic-v/cronograma-de-Mintic.jpg)
 *Hasta el 31 de mayo, Claro debía tener conectadas 1511 instituciones. Apenas en Antioquia lo hizo con 8, de las 448 que debía conectar. Revisen la gráfica que MinTic publicó.*
 
 Según la página web de MinTic, el cronograma de construcción de los Centros Digitales se debía cumplir en las establecidas. Los primeros resultados el 31 de mayo en la zona A ganada por COMCEL S.A. El el 30 de abril en la zona B ganada por Centros Poblados. Precisamente, las irregularidades de esta UT se detectaron por su considerable retraso, el mismo que tuvo COMCEL.

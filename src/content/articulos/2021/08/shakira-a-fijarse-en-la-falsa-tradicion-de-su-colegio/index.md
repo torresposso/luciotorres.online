@@ -5,12 +5,12 @@ pubDate: "2021-08-15 17:22:19"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/shakira-a-fijarse-en-la-falsa-tradicion-de-su-colegio/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/shakira-a-fijarse-en-la-falsa-tradicion-de-su-colegio/hero.jpg
 ---
 
 La famosa cantante de música pop, Shakira, debe fijarse en la **falsa tradición** de su nuevo colegio en Cartagena. Los títulos donde se va a construir el nuevo colegio de **Pies Descalzos** de la artista barranquillera, **podrían estar preñados de ilegalidad**. Lo mismo, como lo habíamos informado, de **Ciudad del Bicentenario**. Todos esos predios se desprenden de la matricula madre **No 060—54391** de la Oficina de Documentos Públicos que pertenecen a los Hernández**.** Esta situación quedó evidenciado en la audiencia ante el **juez Cuarto Penal del Circuito de Cartagena, Luis Fernando Machado**, realizada el pasado 5 de agosto de 2021. 
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/shakira-a-fijarse-en-la-falsa-tradicion-de-su-colegio/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/shakira-a-fijarse-en-la-falsa-tradicion-de-su-colegio/hero.jpg)
 *Shakira debe fijarse en la falsa tradición de los predios donde pensaba construir el megacolegio de Pies Descalzos. Cortesía PD.*
 
 En esa audiencia, **la fundación Santo Domingo y el Distrito de Cartagena fueron incapaces de demostrar su calidad de víctima. Incluso, el pedido no solo fue de la defensa de los Hernández a cargo del abogado Ángel Carrillo, sino también de la Fiscalía.** Tampoco la fundación inscribió en la oficina de Registros de Documentos Públicos los predios que adquirió supuestamente a través de una transferencia de administración fiduciaria.  
@@ -35,7 +35,7 @@ En un artículo publicado en octubre de 2020 señalamos que e**l 7 de agosto de 
 
 ## Hitos de la audiencia
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/shakira-a-fijarse-en-la-falsa-tradicion-de-su-colegio/protesta-de-los-Hernandez.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/shakira-a-fijarse-en-la-falsa-tradicion-de-su-colegio/protesta-de-los-Hernandez.jpg)
 *"No somos invasores, somos víctimas del despojo". La familia protestó frente al periódico local. Cortesía ElUniversal.*
 
 *   La audiencia se instaló a las 2.25  y terminó a las 7:30 pm del 5 de agosto. Sus principales hitos son los siguientes:

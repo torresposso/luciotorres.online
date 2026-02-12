@@ -5,10 +5,10 @@ pubDate: "2023-09-03 03:21:52"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/hero.jpg)
 *Alfonso Macías Vargas, (q. e. p. d.) una captura de pantalla de un video obtenido por VoxPopuli Digital.*
 
 Hoy, murió **Alfonso Macías Vargas**, (84 años), según tuit de su abogado **Rubén Darío Henao Orozco**. Los últimos años de Macías Vargas fueron muy pesados como el cargo de conciencia de decenas, quizás centenas, de muertos que le atribuyeron al paramilitarismo que él mismo dirigió, financió y del cual se enriqueció. De Algeciras (Huila), su tierra natal, trajo a la Costa Caribe el odio y la violencia percibida en su niñez por la guerra liberal**—**conservadora. Era uno de _Los Intocables_ que, sin ningún remordimiento, financiaron y promovieron crímenes de lesa humanidad y hasta crearon fosas comunes en sus propias fincas para enterrar a sus víctimas en **Cesar, Magdalena y Atlántico**.
@@ -49,7 +49,7 @@ En esta ciudad, donde ya había vivido parte de mi infancia, comencé un nuevo d
 
 ## Murió Alfonso Macías, el intocable
 
-![Esta era la cédula de uno de los criminales que dejó la guerra del paramilitarismo contra la población civil. Murió Alfonso Macias.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/image.png)
+![Esta era la cédula de uno de los criminales que dejó la guerra del paramilitarismo contra la población civil. Murió Alfonso Macias.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/image.png)
 *Esta era la cédula de uno de los criminales que dejó la guerra del paramilitarismo contra la población civil. Murió Alfonso Macias.*
 
 Los crímenes cometidos por Macías son imprescriptibles. Pasaron más de 20 años, pero la Fiscalía fue omisiva para investigarlo, procesarlo y extinguirle sus propiedades productos de esos crímenes.
@@ -58,7 +58,7 @@ Entre los años 1998 a 2005, decenas de ganaderos hicieron alianzas con las auto
 
 ## ¿Quien era Macías?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/Alfonso-Macias_condena.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/Alfonso-Macias_condena.jpg)
 *Esta fue la primera condena, pero luego la embolataron en segunda instancia.*
 
 Como se sabe, **Alfonso Macías Vargas**, era ganadero, terrateniente, palmicultor, empresario y propietario de la finca El Potosí, ubicada en la vía a El Copey, Cesar. La misma que fue utilizada como cementerio privado para ocultar sus muertos. Su socio principal de estos crímenes son Rafael y Pacual Matera Lajud. En la segunda entrega de Los Intocables, señalamos:
@@ -71,7 +71,7 @@ Se repite, Murió Alfonso Macías, y con esa muerte gran parte de la verdad de s
 
 ## Murió Alfonso Macías y ¿su fosa común?
 
-![El abogado Henao anunciando la muerte de Alfonso Macías](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/alfonso-macias_muerte.jpg)
+![El abogado Henao anunciando la muerte de Alfonso Macías](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/murio-alfonso-macias-pero-no-la-extincion-de-sus-dominios/alfonso-macias_muerte.jpg)
 *El abogado Rubén Darío Henao anunciando la muerte de Alfonso Macías*
 
 En la segunda entrega de Los Intocables dijimos que cuando **—**en 2019**—** **Alfonso Macías** se enteró de la compulsa de copia de la **Sala de Justicia y Paz** a la Fiscalía, cuyos testimonios apuntaban a los desaparecidos enterrados en ese predio, le metió bulldozer a su finca para **desenterrar 12 cadáveres en una fosa común** de aproximadamente 12 metros cuadrados. Entre los muertos, estaba uno de los administradores de su finca, según testimonios de los mismos paramilitares.

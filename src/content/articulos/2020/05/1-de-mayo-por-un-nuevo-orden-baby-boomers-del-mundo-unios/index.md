@@ -5,10 +5,10 @@ pubDate: "2020-05-02 01:15:33"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/1-de-mayo-por-un-nuevo-orden-baby-boomers-del-mundo-unios/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/05/1-de-mayo-por-un-nuevo-orden-baby-boomers-del-mundo-unios/hero.jpg
 ---
 
-  \[caption id="attachment\_11606" align="aligncenter" width="582"\]![Los del viejo orden](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/05/1-de-mayo-por-un-nuevo-orden-baby-boomers-del-mundo-unios/hero.jpg) Estos son los del viejo orden.\[/caption\] El Nuevo Orden del Mundo -sostenible y humanamente posible- solo será cierto si la generación de los **_Baby Boomers_** del mundo se unen para transformar las industrias en esta globalización con energías sostenibles. La paradoja, esta generación es la principal víctima del virus letal que recorre el mundo como un fantasma. **Es la principal reflexión de este 1° de Mayo con Covid-19.**
+  \[caption id="attachment\_11606" align="aligncenter" width="582"\]![Los del viejo orden](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/05/1-de-mayo-por-un-nuevo-orden-baby-boomers-del-mundo-unios/hero.jpg) Estos son los del viejo orden.\[/caption\] El Nuevo Orden del Mundo -sostenible y humanamente posible- solo será cierto si la generación de los **_Baby Boomers_** del mundo se unen para transformar las industrias en esta globalización con energías sostenibles. La paradoja, esta generación es la principal víctima del virus letal que recorre el mundo como un fantasma. **Es la principal reflexión de este 1° de Mayo con Covid-19.**
 
 ## Los muertos del Covid-19
 

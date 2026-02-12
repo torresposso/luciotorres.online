@@ -5,10 +5,10 @@ pubDate: "2022-09-04 23:46:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/el-caribe-norcontinental-independencia-total-ahora/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/el-caribe-norcontinental-independencia-total-ahora/hero.jpg
 ---
 
-![¿Este Bloque Parlamentario del Caribe puede desarrollar la política de descentralización y desarrollo de las regiones? Independencia total ¡ahora! Cortesía Prensa Gobernación de Bolívar.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/el-caribe-norcontinental-independencia-total-ahora/bloque-parlamentario.jpeg)
+![¿Este Bloque Parlamentario del Caribe puede desarrollar la política de descentralización y desarrollo de las regiones? Independencia total ¡ahora! Cortesía Prensa Gobernación de Bolívar.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/el-caribe-norcontinental-independencia-total-ahora/bloque-parlamentario.jpeg)
 *¿Este Bloque Parlamentario del Caribe, liderado por cachacos, puede desarrollar la política de descentralización y desarrollo de las regiones? Independencia total ¡ahora! Cortesía Prensa Gobernación de Bolívar.*
 
 > «Porque las estirpes condenadas a **cien años de soledad** no tenían una segunda oportunidad sobre la tierra». Entonces, todo Macondo será arrasado y sepultado por un huracán.
@@ -65,7 +65,7 @@ Con Rafael Núñez perdimos la primera oportunidad. Pero el país ganó con un p
 
 ## ¿La segunda oportunidad, Petro presidente?
 
-![El presidente Petro en San Pablo cuando anunció desmembrar más a la Región Caribe con la creación de otro departamento. Independencia total ¡ahora! Cortesía Prensa Gobernación de Bolívar](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/09/el-caribe-norcontinental-independencia-total-ahora/hero.jpg)
+![El presidente Petro en San Pablo cuando anunció desmembrar más a la Región Caribe con la creación de otro departamento. Independencia total ¡ahora! Cortesía Prensa Gobernación de Bolívar](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/el-caribe-norcontinental-independencia-total-ahora/hero.jpg)
 *El presidente Petro en San Pablo cuando anunció desmembrar más a la Región Caribe con la creación de otro departamento. Independencia total ¡ahora! Cortesía Prensa Gobernación de Bolívar*
 
 ¿Pero debemos depender de un individuo? Los costeños teníamos mucha esperanza en Núñez a finales del siglo XIX, como la que tenemos ahora con Petro. Nosotros cumplimos con nuestro compromiso y le delegamos el poder porque lo consideramos como de los nuestros.

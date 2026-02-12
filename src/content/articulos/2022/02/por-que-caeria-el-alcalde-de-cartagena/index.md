@@ -5,10 +5,10 @@ pubDate: "2022-02-05 18:56:36"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/por-que-caeria-el-alcalde-de-cartagena/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/por-que-caeria-el-alcalde-de-cartagena/hero.jpg
 ---
 
-![¿Por qué caería el alcalde de Cartagena?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/por-que-caeria-el-alcalde-de-cartagena/hero.jpg)
+![¿Por qué caería el alcalde de Cartagena?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/por-que-caeria-el-alcalde-de-cartagena/hero.jpg)
 *¿Por qué caería el alcalde de Cartagena? Margarita Cabello tiene la palabra.*
 
 ¿Por qué caería el alcalde de Cartagena? Es la pregunta que marca el análisis de la situación de la administración de Cartagena. No hay que ser pitoniso para presagiar que la caída del alcalde de Cartagena, William Dau Chamat, está más cerca que nunca. Los procesos judiciales y disciplinarios en su contra están avanzados. **Pero su descarada y flagrante participación en política, dejó al desnudo su trasero fuera del toldo.** 
@@ -25,7 +25,7 @@ La investigación disciplinaria, como se dice en el caribe colombiano, está de 
 
 ## ¿Por qué caería Dau?
 
-![¿Por qué caería el alcalde de Cartagena?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/por-que-caeria-el-alcalde-de-cartagena/Ana-Maria-Gonzalez-cooperacion-internacional.jpeg)
+![¿Por qué caería el alcalde de Cartagena?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/por-que-caeria-el-alcalde-de-cartagena/Ana-Maria-Gonzalez-cooperacion-internacional.jpeg)
 *Algunos dicen que Ana María González, asesora para la Cooperación Internacional sabe manejar al alcalde William Dau Chamat. Ella tiene manejo en la Unidad de Contratación.*
 
 Lo que dice en el audio y en las demás declaraciones de defensa de su situación, lo que ha hecho es enredarse cada día más. En el mismo audio del alcalde de Cartagena manifiesta que se reunió con Javier Marrugo, porque se lo había llevado Ana María González, Asesora para la Cooperación Internacional y la mandamás en la Unidad Asesora para la Contratación en el Distrito de Cartagena. Ellas lo presentaron para incluirlo en la lista **Fuera Malandrines.**

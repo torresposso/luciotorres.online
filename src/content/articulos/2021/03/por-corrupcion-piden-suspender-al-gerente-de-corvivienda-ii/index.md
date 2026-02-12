@@ -5,10 +5,10 @@ pubDate: "2021-03-14 01:36:51"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/por-corrupcion-piden-suspender-al-gerente-de-corvivienda-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/por-corrupcion-piden-suspender-al-gerente-de-corvivienda-ii/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/por-corrupcion-piden-suspender-al-gerente-de-corvivienda-ii/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/por-corrupcion-piden-suspender-al-gerente-de-corvivienda-ii/hero.jpg)
 *Piden suspender al gerente de Corvivienda. Recibió una denuncia penal y otra disciplinaria por el contrato con la UdeC por $4.284.818.447.*
 
 Piden suspender al gerente de **Corvivienda Néstor Castro Castañeda** por suscribir contrato con la **Universidad de Cartagena** (UdeC) sin el lleno de requisitos legales. Tal solicitud la hizo el **abogado Jair Caro** Villalba al presentar sendas denuncias ante **la Fiscalía y la Procuraduría** como medida provisional. Se trata de proteger las investigaciones que deben abocar en forma inmediata.
@@ -19,7 +19,7 @@ El objeto del contrato es ejecutar una interventoría técnica, ambiental, admin
 
 ## Piden suspender a Castro
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/por-corrupcion-piden-suspender-al-gerente-de-corvivienda-ii/Jair-cano-2.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/por-corrupcion-piden-suspender-al-gerente-de-corvivienda-ii/Jair-cano-2.jpg)
 *Jair Caro Villalba, el abogado que puso en jaque a William Dau por el ataque verbal que éste le hizo a las directivas de la Universidad de Cartagena. Ahora pide suspender a Néstor Castro en denuncia ante la Procuraduría y la Fiscalía.*
 
 El contrato se pactó por un precio de **$4.284.818.447.** Pero los estudios previos originales tenían un valor diferente. Es decir, **$2.318,699.602**. Como se sabe, los estudios previos hacen parte de la etapa precontractual y constituyen el principio de planeación de la contratación pública.
@@ -32,7 +32,7 @@ Para el abogado Caro Villalba, el gerente de Corvivienda **Castro Castañeda** c
 
 Al producirse ese detrimento patrimonial, Corvivienda dejaría de construir más viviendas para los cartageneros. En el 2020 el Distrito de Cartagena no edificó una sola vivienda, ni un mejoramiento. Tampoco una sola legalización. El primer año de William Dau Chamat lo perdió en esta área muy importante de la gestión administrativa.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/por-corrupcion-piden-suspender-al-gerente-de-corvivienda-ii/gerente-de-corvivienda-y-cynthia.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/por-corrupcion-piden-suspender-al-gerente-de-corvivienda-ii/gerente-de-corvivienda-y-cynthia.jpg)
 *Piden suspender al gerente Néstor Castro. Aquí habla con la también encartada exprimera dama Cynthia Pérez Amador sobre la Ciudadela de la Paz.*
 
 ## Sin vigencia futura

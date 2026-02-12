@@ -5,10 +5,10 @@ pubDate: "2022-06-20 00:04:25"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/el-caribe-le-dio-la-presidencia-de-izquierda-a-gustavo-petro/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/el-caribe-le-dio-la-presidencia-de-izquierda-a-gustavo-petro/hero.jpg
 ---
 
-![Presidencia de izquierda. La fórmula presidencial Gustavo Petro y Francia Márquez](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/el-caribe-le-dio-la-presidencia-de-izquierda-a-gustavo-petro/hero.jpg)
+![Presidencia de izquierda. La fórmula presidencial Gustavo Petro y Francia Márquez](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/el-caribe-le-dio-la-presidencia-de-izquierda-a-gustavo-petro/hero.jpg)
 *Presidencia de izquierda. La fórmula presidencial Gustavo Petro y Francia Márquez.*
 
 El economista **Gustavo Petro Urrego**, 62 años, **recibió el 63% del voto Caribe**. Será la primera presidencia de izquierda. Obtuvo el **50,47%** para un total de 11.277.905 votos frente al **47,28%** (10.565.106 votos). Con esta votación Petro se convirtió en el primer mandatario del siglo XX nacido en la Costa Caribe. En tanto, **Francia Márquez** es la primera vicepresidenta negra del país. Fue una derrota de las maquinarias.

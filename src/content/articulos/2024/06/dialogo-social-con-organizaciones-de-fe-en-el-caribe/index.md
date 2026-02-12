@@ -5,10 +5,10 @@ pubDate: "2024-06-03 02:15:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/dialogo-social-con-organizaciones-de-fe-en-el-caribe/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/dialogo-social-con-organizaciones-de-fe-en-el-caribe/hero.jpg
 ---
 
-![Diálogo Social de Fe con la viceministra para el Diálogo Social, Lilia Solano, próxima directora de la Unidad de Víctimas, en los tiempos de defensora de los derechos humanos, 2018 en Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/dialogo-social-con-organizaciones-de-fe-en-el-caribe/hero.jpg)
+![Diálogo Social de Fe con la viceministra para el Diálogo Social, Lilia Solano, próxima directora de la Unidad de Víctimas, en los tiempos de defensora de los derechos humanos, 2018 en Cartagena.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/dialogo-social-con-organizaciones-de-fe-en-el-caribe/hero.jpg)
 *Diálogo Social de Fe con la viceministra para el Diálogo Social, Lilia Solano, próxima directora de la Unidad de Víctimas, en los tiempos de defensora de los derechos humanos, 2018 en Cartagena.*
 
 El gobierno nacional, a través del viceministerio del Interior para el Diálogo Social, liderado por la defensora de los derechos humanos, Lilia Solano, iniciará con el Caribe colombiano un proceso **Diálogo Social con Perspectiva de Fe**. El evento se realizará este miércoles **5 de junio** desde las 9 de la mañana en el Centro de Convenciones de Cartagena de Getsemaní. Allí participarán todas las personas y organizaciones que a bien gusten inscribirse previamente.
@@ -17,7 +17,7 @@ Hasta el momento no se tiene confirmada la asistencia del presidente Gustavo Pet
 
 ## La política de fe
 
-![Diálogo Social de Fe ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/dialogo-social-con-organizaciones-de-fe-en-el-caribe/Imagen-de-WhatsApp-2024-06-02-a-las-19.19.33_db730a6c-715x1024.jpg)
+![Diálogo Social de Fe ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/dialogo-social-con-organizaciones-de-fe-en-el-caribe/Imagen-de-WhatsApp-2024-06-02-a-las-19.19.33_db730a6c-715x1024.jpg)
 *Diálogo Social de Fe*
 
 Para el gobierno nacional, los constructores de fe constituyen un sector muy importante dentro del proceso de creación de tejido social para la paz y la protección de los sectores más vulnerables del país.

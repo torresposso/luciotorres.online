@@ -5,12 +5,12 @@ pubDate: "2020-02-28 15:42:05"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/los-60-dias-del-retractor-un-alcalde-erratico-en-una-ciudad-caotica-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/02/los-60-dias-del-retractor-un-alcalde-erratico-en-una-ciudad-caotica-i/hero.jpg
 ---
 
 **El Retractor ha saboteado los 60 días de Dau**
 
-\[caption id="attachment\_11203" align="aligncenter" width="563"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/02/los-60-dias-del-retractor-un-alcalde-erratico-en-una-ciudad-caotica-i/hero.jpg) **En la soledad y locura del poder. A William Dau se le ve en el día, incluso, en las noches, deambulando en el baluarte San Ignacio Loyola** donde está el Palacio de la Aduana. Los 60 días del «**Retractor».** Cortesía Germán Teherán.\[/caption\]
+\[caption id="attachment\_11203" align="aligncenter" width="563"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/02/los-60-dias-del-retractor-un-alcalde-erratico-en-una-ciudad-caotica-i/hero.jpg) **En la soledad y locura del poder. A William Dau se le ve en el día, incluso, en las noches, deambulando en el baluarte San Ignacio Loyola** donde está el Palacio de la Aduana. Los 60 días del «**Retractor».** Cortesía Germán Teherán.\[/caption\]
 
 La soledad y locura de **William Dau Chamat,** alcalde de Cartagena, frecuentemente se escapa —como si fuera un zombi— de su despacho al **baluarte San Ignacio de Loyola.** (Ver la fotografía). Lo hace en el día o a altas horas de la noche. No se sabe si a fumar o a pensar o ambas cosas. La mala relación con el concejo, las numerosas reculadas, las fisuras al interior de su deleznable gabinete, lo hacen **un alcalde errático en una ciudad caótica**. Los 60 días de Dau son 60 reculadas, 60 errores de gobierno. **El mismo Retractor es el saboteador de los 60 días de Dau.**
 

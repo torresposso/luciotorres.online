@@ -5,10 +5,10 @@ pubDate: "2023-08-14 23:27:09"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/asi-mataron-a-laura-vanessa-lista-macabra-para-sicariar-v/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/asi-mataron-a-laura-vanessa-lista-macabra-para-sicariar-v/hero.jpg
 ---
 
-![¿Laura Vanessa Molinares Martínez hacía parte de esa lista macabra para sicariar? La Policía y la Fiscalía deben responder.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/asi-mataron-a-laura-vanessa-lista-macabra-para-sicariar-v/hero.jpg)
+![¿Laura Vanessa Molinares Martínez hacía parte de esa lista macabra para sicariar? La Policía y la Fiscalía deben responder.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/asi-mataron-a-laura-vanessa-lista-macabra-para-sicariar-v/hero.jpg)
 *¿Laura Vanessa Molinares Martínez hacía parte de esa lista macabra para sicariar? La Policía y la Fiscalía deben responder. Aquí en el gimnasio.*
 
 ¿El asesinato de **Laura Vanessa Molinares Martínez** puede hacer parte de una **lista macabra** que **sus autores intelectuales ya pagaron**? Una fuente del bajo mundo le reveló a **VoxPopuli Digital** que en esa lista hay empresarios y probablemente un periodista. Este dato no fue confirmado por la **Policía Metropolitana de Cartagena―Mecar**. Pero debe hacer encender las alarmas a las autoridades estatales de Cartagena de Indias, especialmente del Distrito y de la Policía Nacional.
@@ -20,7 +20,7 @@ Te puede interesar: [Dau se fuma a Cartagena: 233 homicidios (IV)](/articulos/da
 
 ## La lista macabra y la Policía
 
-![El comandante de la Mecar, coronel Wharlinton Waldrón Waldrón, debe ordenar investigar si existe la supuesta lista macabra para matar a varias personas.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/asi-mataron-a-laura-vanessa-lista-macabra-para-sicariar-v/Warlington-Padron.jpg)
+![El comandante de la Mecar, coronel Wharlinton Waldrón Waldrón, debe ordenar investigar si existe la supuesta lista macabra para matar a varias personas.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/asi-mataron-a-laura-vanessa-lista-macabra-para-sicariar-v/Warlington-Padron.jpg)
 *El comandante de la Mecar, coronel Wharlinton Waldrón Waldrón, debe ordenar investigar si existe la supuesta lista macabra para matar a varias personas.*
 
 En Cartagena operan diferentes estructuras armadas. La mayoría de los sicariatos se producen como parte de su operatividad. No se tiene identificado de qué sector mafioso viene la orden de matar. La fuente señaló que es muy probable que sea una lista estructurada obedeciendo a diferentes pedidos.
@@ -43,7 +43,7 @@ Te puede interesar: [¿Quién mató al capo  «Kike» Vega en su escondrijo? (I
 
 ## Así mataron a Laura Vanessa
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/08/asi-mataron-a-laura-vanessa-lista-macabra-para-sicariar-v/laura-vanessa-muerte.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/asi-mataron-a-laura-vanessa-lista-macabra-para-sicariar-v/laura-vanessa-muerte.jpg)
 *A la derecha, el sicario hace el primer disparo contra Laura Vanessa que está de espalda.*
 
 El asesinato ocurrió en la carrera 68 con calle 25 del barrio **Blas de Lezo de Cartagena**, después de las 8:20 de la noche del sábado 12 de agosto. En el primer piso del edificio funcionan dos negocios. **"Asado X Kilo"** y una pizzería recientemente entrada en servicio. Al parecer, era un nuevo emprendimiento de la víctima que había comenzado a funcionar esta semana.

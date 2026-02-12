@@ -5,10 +5,10 @@ pubDate: "2025-04-15 00:35:56"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/jesus-o-barrabas-hambre-y-sed-de-justicia/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/jesus-o-barrabas-hambre-y-sed-de-justicia/hero.jpg
 ---
 
-![¿Jesús o Barrabás? Hambre y sed de justicia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/jesus-o-barrabas-hambre-y-sed-de-justicia/hero.jpg)
+![¿Jesús o Barrabás? Hambre y sed de justicia](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/jesus-o-barrabas-hambre-y-sed-de-justicia/hero.jpg)
 *¿Jesús o Barrabás? ¿Uribe o Petro? Colombia tiene hambre y sed de justicia. Reflexión de Semana Santa.*
 
 Colombia tiene **hambre y sed de justicia**. Suceden tantos juicios importantes por corrupción. Y sin embargo la impunidad llega al 94%, según el presidente de la Corte Suprema de Justicia. Juicios que se volvieron parte del paisaje. La prensa dominante los banaliza y los centra en dos personajes. ¿Uribe o Petro? **¿Están ahí representados Jesús o Barrabás?** ¿Se juzga a un Ladrón Bueno o a un Ladrón Malo crucificados junto al Mesías?

@@ -5,10 +5,10 @@ pubDate: "2019-02-24 11:47:22"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/si-los-martires-hablaran-te-preguntarian-por-que-no-eres-libre/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/02/si-los-martires-hablaran-te-preguntarian-por-que-no-eres-libre/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/02/si-los-martires-hablaran-te-preguntarian-por-que-no-eres-libre/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/02/si-los-martires-hablaran-te-preguntarian-por-que-no-eres-libre/hero.jpg)
 *El 24 de febrero, pintura alegórica deLuis Felipe Jaspe Franco.*
 
 En el fuerte de **San Fernando de Bocachica** había movimientos en la madrugada del **5 de diciembre de 1815**. No sospechaban que ese día, **400 de ellos, casi todos, iban a ser decapitados por los españoles**, y no podrían ser llevados al cadalso que las tropas invasoras montaron el **24 de febrero de 1816** frente a la Torre del Reloj, hoy Plaza de la Paz de Cartagena de Indias, para el suplicio de los líderes de la rebelión.

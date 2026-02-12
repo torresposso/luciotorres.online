@@ -5,10 +5,10 @@ pubDate: "2021-08-05 21:30:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/el-prontuario-de-ali-badau-y-sus-40-inspectores-caso-johana/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/el-prontuario-de-ali-badau-y-sus-40-inspectores-caso-johana/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/el-prontuario-de-ali-badau-y-sus-40-inspectores-caso-johana/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/el-prontuario-de-ali-badau-y-sus-40-inspectores-caso-johana/hero.jpg)
 *Caso Johana. La inspectora de Policía de Barú, cartagena. Ali BaDau y sus 40 inspectores.*
 
 Si la Procuraduría General de la Nación no procura. Si las personerías son de bolsillos ¿quiénes sancionan a los inspectores de policía en el ejercicio de sus funciones como administradores de justicia policiva? **El caso Johana Pájaro Suárez, inspectora de policía de Barú**, es un prototipo de conducta que sobrepasa la autoridad del propio Código Nacional de Policía. Aquí iniciamos la revisión de **los prontuarios de "Alí BaDau" y sus 40 inspectores de policía**.
@@ -41,7 +41,7 @@ Es un largo prontuario de denuncias contra la inspectora de Barú. Son denunciad
 
 ## ¿Investigarán el Caso Johana?
 
-![Alí Badau y sus 40 inspectores. Caso Johana.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/el-prontuario-de-ali-badau-y-sus-40-inspectores-caso-johana/ALCALDE-DE-CARTAGENA.jpg)
+![Alí Badau y sus 40 inspectores. Caso Johana.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/el-prontuario-de-ali-badau-y-sus-40-inspectores-caso-johana/ALCALDE-DE-CARTAGENA.jpg)
 *El alcalde que fue elegido como tractor y resultó carretilla. Caso Johana. Ahora es Alí BaDau y sus 40 inspectores.*
 
 A la inspectora la han denunciado en la Fiscalía en varias ocasiones. La última denuncia fue instaurada por la familia Girado, porque instrumentalizó al perito para favorecer **al rico industrial Gabriel Echavarría, quien se pretende quedar con el lote donde que sirve de parqueadero de Playa Blanca, en Barú.**

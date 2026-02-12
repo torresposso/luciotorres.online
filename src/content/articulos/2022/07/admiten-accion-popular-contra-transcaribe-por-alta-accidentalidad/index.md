@@ -5,10 +5,10 @@ pubDate: "2022-07-19 14:39:58"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/admiten-accion-popular-contra-transcaribe-por-alta-accidentalidad/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/admiten-accion-popular-contra-transcaribe-por-alta-accidentalidad/hero.jpg
 ---
 
-![Admiten Acción Popular contra Transcaribe por alta accidentalidad](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/admiten-accion-popular-contra-transcaribe-por-alta-accidentalidad/hero.jpg)
+![Admiten Acción Popular contra Transcaribe por alta accidentalidad](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/admiten-accion-popular-contra-transcaribe-por-alta-accidentalidad/hero.jpg)
 *Admiten Acción Popular contra Transcaribe por alta accidentalidad presentada por Claudia Patricia Rada cabarcas.*
 
 **El Juzgado Administrativo Oral No 07 de Cartagena** admite acción popular para la defensa de los derechos colectivos que presuntamente está violando Transcaribe. Existe un alto grado de accidentalidad en su servicio. La iniciativa fue presentada por la ciudadana **Claudia Rada González**.

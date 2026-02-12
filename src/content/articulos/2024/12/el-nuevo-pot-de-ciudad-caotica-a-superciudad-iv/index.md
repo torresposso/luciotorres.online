@@ -5,10 +5,10 @@ pubDate: "2024-12-10 15:50:10"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-nuevo-pot-de-ciudad-caotica-a-superciudad-iv/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/el-nuevo-pot-de-ciudad-caotica-a-superciudad-iv/hero.jpg
 ---
 
-![El alcalde Dumek y Robinson Rada, experto urbanista. ¿De Ciudad Caótica a Superciudad? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-nuevo-pot-de-ciudad-caotica-a-superciudad-iv/hero.jpg)
+![El alcalde Dumek y Robinson Rada, experto urbanista. ¿De Ciudad Caótica a Superciudad? ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/el-nuevo-pot-de-ciudad-caotica-a-superciudad-iv/hero.jpg)
 *El nuevo POT: ¿De Ciudad Caótica a Superciudad? Dumek Turbay, alcalde de Cartagena, debe democratizar la construcción del reordenamiento territorial.*
 
 ¿Un Plan de Ordenamiento Territorial (POT) para una ciudad caótica a una Superciudad? La actuación del equipo del **nuevo POT** ―liderada por **Camilo Rey Sabogal**― va en contravía de la gran promesa del alcalde de Cartagena, **Dumek Turbay Paz:** perfilar una **«Superciudad»** y un **reordenamiento centrado en el respeto y cumplimiento de los derechos humanos**. Esta hipótesis de **VoxPopuli Digital** fue sometida a una prueba **analítica de 5 horas de diálogo** **edificante** con uno de los urbanistas de mayor prestigio de Colombia: el cartagenero **Robinson Rada González**.
@@ -65,7 +65,7 @@ Esa situación, llevó a [Rada González](./) a renunciar del equipo de asesores
 
 ## El diálogo edificante
 
-![El urbanista y abogado Robinson Rada en diálogo edificante con el periodista Edison Lucio Torres. Acompaña el profesor Manuel Batista Jinete, miembro del Consejo Territorial de Planeación de Turbaco.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-nuevo-pot-de-ciudad-caotica-a-superciudad-iv/POT_dialogo-1024x654.jpg)
+![El urbanista y abogado Robinson Rada en diálogo edificante con el periodista Edison Lucio Torres. Acompaña el profesor Manuel Batista Jinete, miembro del Consejo Territorial de Planeación de Turbaco.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/el-nuevo-pot-de-ciudad-caotica-a-superciudad-iv/POT_dialogo-1024x654.jpg)
 *El urbanista y abogado Robinson Rada en diálogo edificante con el periodista Edison Lucio Torres. Acompaña el profesor Manuel Batista Jinete, miembro del Consejo Territorial de Planeación de Turbaco.*
 
 El interés máximo al que debe aspirar un mandatario y servidor público es el servicio colectivo. Es decir, el interés general prima sobre el individual. Pero la realidad es diferente: **Los líderes políticos son guiados por el interés individual sobre el interés público**. Lo demás viene por añadidura, incluso, su propia prosperidad individual.
@@ -80,7 +80,7 @@ Un POT sin **«_expediente urbano_»**, como lo señala Rada, llevaría al frac
 
 ## Repetir el error
 
-![Camilo Rey Sabogal, secretario de Planeación Distrital, y Juan Correa, director del nuevo POT. Siguen los mismos errores del equipo de William Dau, según Robinson Rada, experto urbanista. La Superciudad está más lejos...](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/12/el-nuevo-pot-de-ciudad-caotica-a-superciudad-iv/POT_portada_Camilo-1024x683.jpeg)
+![Camilo Rey Sabogal, secretario de Planeación Distrital, y Juan Correa, director del nuevo POT. Siguen los mismos errores del equipo de William Dau, según Robinson Rada, experto urbanista. La Superciudad está más lejos...](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/el-nuevo-pot-de-ciudad-caotica-a-superciudad-iv/POT_portada_Camilo-1024x683.jpeg)
 *Camilo Rey Sabogal, secretario de Planeación Distrital, y Juan Correa, director del nuevo POT. Siguen los mismos errores del equipo de William Dau, según Robinson Rada, experto urbanista.*
 
 En otras palabras, Dumek delegó el cambio extremo que requiere la **Superciudad** del futuro en funcionarios que están en otra tónica. Desde ahora y de forma temeraria está repitiendo el **camino torcido de William Dau y su equipo técnico**.

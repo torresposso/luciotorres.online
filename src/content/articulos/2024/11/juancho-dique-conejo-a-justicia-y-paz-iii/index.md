@@ -5,10 +5,10 @@ pubDate: "2024-11-04 13:41:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/hero.jpg
 ---
 
-![«Juancho Dique», ¿«hizo conejo» a Justicia y Paz? Es el mismo esquema presentado por el juicio contra Álvaro Uribe Vélez, quien quiso torcer las declaraciones iniciales de un testigo sobre la creación del frente Metro delas AUC](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/hero.jpg)
+![«Juancho Dique», ¿«hizo conejo» a Justicia y Paz? Es el mismo esquema presentado por el juicio contra Álvaro Uribe Vélez, quien quiso torcer las declaraciones iniciales de un testigo sobre la creación del frente Metro delas AUC](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/hero.jpg)
 *«Juancho Dique», ¿«hizo conejo» a Justicia y Paz? Es el mismo esquema presentado por el juicio contra Álvaro Uribe Vélez, quien quiso torcer las declaraciones iniciales de un testigo sobre la creación del frente Metro delas AUC.*
 
 La condena en primera instancia del **Juzgado 022 Penal Municipal de Bogotá** contra alias **«Juancho Dique»**, confirma que _exparas_ beneficiados con sentencias alternativas, **nunca dejaron de delinquir** y ―lo más grave― **les estarían haciendo «conejo» a Justicia y Paz**. Además, la **inseguridad jurídica de los procesos de paz** no proviene del Estado sino del engaño de los agentes que se sometieron a la justicia alternativa.
@@ -19,7 +19,7 @@ Por tanto, para la sociedad no puede pasar desapercibido dicha condena. En honor
 
 ## La Corte descubrió la estratagema
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/Huber-Enrique-Banquez.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/Huber-Enrique-Banquez.jpeg)
 *Las mentiras de «Juancho Dique» le costarán 10 años de cárcel.*
 
 La pregunta central propuesta en este artículo (¿Los jefes paramilitares le están haciendo «conejo» a Justicia y Paz?) surgió a partir de una lectura jurídica, política y ética de la condena contra **«Juancho Dique»**. Los hechos relatados en esta condena se conocían desde hacía una década. El proceso contra el senador de la época **Javier Cáceres Leal** así lo reveló. La conocíamos en carne propia, ya que como periodista debimos emplearnos a fondo para demostrar la validez de nuestras denuncias.
@@ -32,7 +32,7 @@ En el 2013, la difunta **Daira Galvis** le manifestó a este periodista que sus 
 
 ## La estratagema jurídica
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/sin_piedad-1024x577.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/sin_piedad-1024x577.jpg)
 *En la no aceptación en la JEP de Piedad Zuccardi se mencionaron apartes de estos hechos relacionados en la condena contra «Juancho Dique».*
 
 Empero, las investigadoras de la Corte se encontraron con la sorpresa de que en los procesos contra **Javier Cáceres Leal, Daira Galvis Méndez y Piedad Zuccardi** existía un patrón común de retractación determinado por amenazas y ofertas hechas por **«Juancho Dique»** y su abogada Betty Castro. Ellos fueron los principales instrumentos para sobornar a testigos.
@@ -52,7 +52,7 @@ Duque Gaviria murió en 2019. Pero el Tribunal de Justicia y Paz exhortó a la F
 
 ## ¿«Conejo» a Justicia y Paz?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/Petro_Mancuso.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/juancho-dique-conejo-a-justicia-y-paz-iii/Petro_Mancuso.jpeg)
 *El intercambio de sombreros del presidente Gustavo Petro con Salvatore Mancuso.*
 
 No obstante, la Corte Suprema de Justicia, llamó a declarar al que fuera jefe de los jefes del antiguo frente **«Héroes de los Montes de María**», Salvatore Mancuso Gómez.

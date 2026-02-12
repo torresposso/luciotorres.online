@@ -5,10 +5,10 @@ pubDate: "2025-01-30 21:03:39"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/hero.jpg
 ---
 
-![El alcalde de Magangué, Pedro Alí Alí, felicita a Rosenda Atencio, 90 años, 9 hijos, la bollera madrileña que recibió el homenaje este 19 de enero.  Del Bollo Madrileño a la Virgen de la Candelaria](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/hero.jpg)
+![El alcalde de Magangué, Pedro Alí Alí, felicita a Rosenda Atencio, 90 años, 9 hijos, la bollera madrileña que recibió el homenaje este 19 de enero.  Del Bollo Madrileño a la Virgen de la Candelaria](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/hero.jpg)
 *El alcalde de Magangué, Pedro Alí Alí, felicita a Rosenda Atencio, 90 años, 9 hijos, la bollera madrileña que recibió el homenaje este 19 de enero. Del Bollo Madrileño a la Virgen de la Candelaria.*
 
 La variedad gastronómica, la emoción colectiva y el retorno de los emigrantes, dinamiza la economía de estos pueblos caribeños. Del Bollo Madrileño a la Virgen de la Candelaria son manifestaciones de la riqueza cultural anfibia de la ciudad―región de Magangué. Las fiestas del 2 de febrero fueron precedidas de otras actividades culturales de dos significativos corregimientos, **Madrid y Juan Arias**. Así lo percibimos en el **Festival del Bollo Madrileño** (18 y 19 de enero 2025) que resaltó la riqueza de la cultura local y uno de los productos insignias de la capital de los Tres Ríos.
@@ -25,7 +25,7 @@ https://youtu.be/R\_yhKx5aXvE
 
 ## Rosenda y el Bollo Madrileño
 
-![Del Bollo Madrileño a la Virgen de la Candelaria](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/Rosenda-Atencio.jpg)
+![Del Bollo Madrileño a la Virgen de la Candelaria](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/Rosenda-Atencio.jpg)
 *Rosenda Atencio, 90 años, 9 hijos. Es una de las que hace el Bollo Madrileño más sabroso de la comarca. Ella recibió un homenaje significativo de la alcaldía de Magangué.*
 
 La alcaldía de Magangué homenajeó a la madrileña **Rosenda Atencio**. Una señora que crio a sus 9 hijos con la fabrica y venta de bollos. Su esposo murió y se tuvo que valer del bollo para seguir adelante, según nos cuenta una de sus hijas. Los bollos madrileños son peculiares por su forma, sabor y textura. Estos tienen una forma cilíndrica, muy alargados, hechos con una masa fina de maíz. No se le siente granos ni grumos. Pueden acompañar un bistec de hígado, chicharon, bocachico, queso o suero. O te lo puedes comer solo.
@@ -36,6 +36,6 @@ Todas las mañanas Rosenda salía con sus burros cargados de bollo hasta el merc
 
 ## Todos comieron
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/Pedro_ali-1024x720.jpg)![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/Madrid-Bollera-1024x734.jpg)![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/Madrid_alcalde_danzas.png)![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/Madrid_miguel-aguilera-1024x710.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/Pedro_ali-1024x720.jpg)![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/Madrid-Bollera-1024x734.jpg)![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/Madrid_alcalde_danzas.png)![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/del-bollo-madrileno-a-la-virgen-de-la-candelaria/Madrid_miguel-aguilera-1024x710.jpg)
 
 Todos los que llegaron a Madrid comieron bollo madrileño. Así acompañaron su mojarra o bocachico frito que disfrutaron en los diferentes mesones de las bolleras.

@@ -5,10 +5,10 @@ pubDate: "2022-03-16 00:43:30"
 author: "Lucio"
 categories: ["Cartagena","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/ediles-localidad-2-de-cartagena-aclaran-caso-gloria-estrada/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/ediles-localidad-2-de-cartagena-aclaran-caso-gloria-estrada/hero.jpg
 ---
 
-![Presidente y secretario de Junta administradora Local (JAL 2) sobre el Caso Gloria Estrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/ediles-localidad-2-de-cartagena-aclaran-caso-gloria-estrada/hero.jpg)
+![Presidente y secretario de Junta administradora Local (JAL 2) sobre el Caso Gloria Estrada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/ediles-localidad-2-de-cartagena-aclaran-caso-gloria-estrada/hero.jpg)
 *Presidente y secretario de Junta administradora Local (JAL 2) sobre el Caso Gloria Estrada.*
 
 Presidente y secretario de la [Junta Administradora Local No 2 de Cartagena de Indias](https://alcaldialocal2.cartagena.gov.co/), **Juan Carlos Molina y Carlos Amaranto**, respectivamente, aclararon ante la opinión pública que el conjunto de esa corporación nada tiene que ver con el **Caso Gloria Estrada**, presidenta del concejo Distrital. A la  concejal, se recuerda, fue detenida el pasado 14 de enero. Presuntamente le sembraron un kilo de «pangolito» en la camioneta donde se transportaba.

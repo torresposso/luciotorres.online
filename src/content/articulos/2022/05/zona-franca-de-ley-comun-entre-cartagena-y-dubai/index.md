@@ -5,10 +5,10 @@ pubDate: "2022-05-09 16:37:36"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/zona-franca-de-ley-comun-entre-cartagena-y-dubai/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/zona-franca-de-ley-comun-entre-cartagena-y-dubai/hero.jpg
 ---
 
-![Aspecto de la mesa del foro donde se presentó el proyecto de la Zona Franca de ley común. Asistieron Ahmed Sultan Bin Sulayem Chairman de Dubai Multi Commodities Centre (DMCC) y Jumeirah Lakes Towers;  Xavier Adsera, Chairman UVENTURES y Robert Lavia, Chairman UMUSIC, el presidente del senado Juan Diego Gómez, el viceministro de Justicia Camilo Andrés Rojas y el alcalde de Cartagena, William Dau Chamat. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/zona-franca-de-ley-comun-entre-cartagena-y-dubai/hero.jpg)
+![Aspecto de la mesa del foro donde se presentó el proyecto de la Zona Franca de ley común. Asistieron Ahmed Sultan Bin Sulayem Chairman de Dubai Multi Commodities Centre (DMCC) y Jumeirah Lakes Towers;  Xavier Adsera, Chairman UVENTURES y Robert Lavia, Chairman UMUSIC, el presidente del senado Juan Diego Gómez, el viceministro de Justicia Camilo Andrés Rojas y el alcalde de Cartagena, William Dau Chamat. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/zona-franca-de-ley-comun-entre-cartagena-y-dubai/hero.jpg)
 *Aspecto de la mesa del foro donde se presentó el proyecto de la Zona Franca de ley común. Asistieron Ahmed Sultan Bin Sulayem Chairman de Dubai Multi Commodities Centre (DMCC) y Jumeirah Lakes Towers;  Xavier Adsera, Chairman UVENTURES y Robert Lavia, Chairman UMUSIC, el presidente del senado Juan Diego Gómez, el viceministro de Justicia Camilo Andrés Rojas y el alcalde de Cartagena, William Dau Chamat. Cortesía.*
 
 El pasado 6 de mayo se realizó en el consulado colombiano de Miami el _Foro Territorial Tu Congreso, Tu Región, venimos a escucharte,_ donde se presentó el proyecto de **crear en Cartagena una zona franca de ley común**, donde los extranjeros puedan desarrollar sus negocios de **commodities y criptomonedas**.  Además, como es lógico, generará ingresos principalmente al sistema financiero internacional.
@@ -21,14 +21,14 @@ De hecho, inversionistas de Dubai estuvieron presente en el evento como **Ahmed 
 
 En el evento asistieron dirigentes de Dubai y Colombia. Entre otros, **Ahmed Sultan Bin Sulayem** Chairman de Dubai Multi Commodities Centre (DMCC) y Jumeirah Lakes Towers;  **Xavier Adsera,** Chairman UVENTURES y Robert Lavia, Chairman UMUSIC. El alcalde de Cartagena William Dau, quien estuvo en el evento, dijo que dejará firmado los documentos del proyecto que garantizará ingresos a la ciudad. 
 
-![Juan Diego Gómez Jiménez, presidente del senado, el expositor sobre la zona franca ley común. Presidió el foro territorial 2022. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/zona-franca-de-ley-comun-entre-cartagena-y-dubai/juan-diego-gomez-Jimenez.jpg)
+![Juan Diego Gómez Jiménez, presidente del senado, el expositor sobre la zona franca ley común. Presidió el foro territorial 2022. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/zona-franca-de-ley-comun-entre-cartagena-y-dubai/juan-diego-gomez-Jimenez.jpg)
 *Juan Diego Gómez Jiménez, presidente del senado, el expositor sobre la zona franca ley común. Presidió el foro territorial 2022. Cortesía.*
 
 El presidente del congreso, Juan Diego Gómez Jiménez, destacó la importancia del proyecto. Al respecto dijo;
 
 > “El propósito del día de hoy es destacar este proyecto que es uno de los grandes motores que puede tener nuestro país. La creación de una zona franca de ley común que tiene todo un desarrollo inmobiliario. Todo un desarrollo turístico, y un distrito financiero en su interior. No hay ninguno igual en el continente y que nos podría convertir en una gran oportunidad financiera y turística en el país”.
 
-![Ahmed Sultan Bin Sulayem Chairman de Dubai Multi Commodities Centre (DMCC). Zona Franca ley común.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/zona-franca-de-ley-comun-entre-cartagena-y-dubai/Ahmed-Sultan-Bin-Sulayem-Chairman-de-Dubai-Multi-Commodities-Centre-DMCC.jpg)
+![Ahmed Sultan Bin Sulayem Chairman de Dubai Multi Commodities Centre (DMCC). Zona Franca ley común.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/zona-franca-de-ley-comun-entre-cartagena-y-dubai/Ahmed-Sultan-Bin-Sulayem-Chairman-de-Dubai-Multi-Commodities-Centre-DMCC.jpg)
 *Ahmed Sultan Bin Sulayem Chairman de Dubai Multi Commodities Centre (DMCC)*
 
 Por su parte, Xavier Adserà Gebelli, Ceo del conglomerado financiero U Venture, en el marco de ese foro señaló:

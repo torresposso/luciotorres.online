@@ -5,12 +5,12 @@ pubDate: "2021-07-20 16:15:16"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/la-pandemia-en-colombia-perdimos-3-9-millones-de-empleo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/la-pandemia-en-colombia-perdimos-3-9-millones-de-empleo/hero.jpg
 ---
 
 La pandemia aumentó la brecha laboral y, especialmente, en la diferencia de géneros. Los efectos sociales y económicos en Colombia son catastróficos. **En solo año y medio perdimos 3.9 millones de empleos y el 12.2% de las empresas cerraron definitivamente sus pertas.** La brecha social se incrementó. Y como «**el pelado que llora y la mamá lo pellizca»**, llegó el Paro Nacional del 28 de abril provocando resultados adversos en la economía nacional. 
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/la-pandemia-en-colombia-perdimos-3-9-millones-de-empleo/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/la-pandemia-en-colombia-perdimos-3-9-millones-de-empleo/hero.jpg)
 *Adriana Escobar, analista de CMS. La pandemia aumentó la brecha laboral.*
 
 De acuerdo con los técnicos de la economía, los acontecimientos de orden público derivados de la protesta social  —para el cierre del primer semestre de 2021— agravaron la situación provocando una alta volatilidad en ciertos indicadores de la economía.
@@ -31,7 +31,7 @@ Los sectores de alojamiento y servicios de alimentación, así como aquellos de 
 
 ## Se creció la brecha social
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/07/la-pandemia-en-colombia-perdimos-3-9-millones-de-empleo/IMG_20210418_103439.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/la-pandemia-en-colombia-perdimos-3-9-millones-de-empleo/IMG_20210418_103439.jpg)
 *El trabajo no alcanza para comerse un bocachico. La pandemia nos afectó a todos.*
 
 Según cifras del DANE, la brecha laboral y de empleabilidad entre hombres y mujeres sigue siendo favorable para los primeros. Se tiene en cuenta que, en cuanto a reactivación del empleo, **el 57.3% de los hombres** se ha reactivado de manera dependiente y el **51.2% de las mujere**s de forma independiente. También, se puede encontrar una diferencia significativa entre las contrataciones del sector público y privado. En este sector los hombres llevan la delantera con un 58.4% y las mujeres, en el sector público, arrojan un 54.1%.

@@ -5,10 +5,10 @@ pubDate: "2023-06-24 00:47:50"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-titan-implosion-del-espiritu-sonador/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/el-titan-implosion-del-espiritu-sonador/hero.jpg
 ---
 
-![El Titán: ¿implosión del espíritu soñador? Hamish Harding, Shahzada Dawood y su hijo Suleman Dawood, Paul-Henri Nargeolet,y Stockton Rushy/CNN](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-titan-implosion-del-espiritu-sonador/hero.jpg)
+![El Titán: ¿implosión del espíritu soñador? Hamish Harding, Shahzada Dawood y su hijo Suleman Dawood, Paul-Henri Nargeolet,y Stockton Rushy/CNN](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/el-titan-implosion-del-espiritu-sonador/hero.jpg)
 *El Titán: ¿implosión del espíritu soñador? Hamish Harding, Shahzada Dawood y su hijo Suleman Dawood, Paul-Henri Nargeolet,y Stockton Rushy/CNN*
 
 La mayoría de los ricos empresarios tienen un espíritu soñador como los que murieron en su ley en **la _implosión catastrófica_ del Titán**. Este sumergible siniestrado, de carácter experimental, no alcanzó a llegar en donde están los restos del **Titanic**. Son 3.800 metros de profundidad. Ubicado a unos 1.400 kilómetros al este de Cabo Cod, en el pacífico de los Estados Unidos. Esa zona se convirtió en el campo santo de los ricos **Hamish Harding, Paul-Henri Nargeolet, Shahzada Dawood y su hijo Suleman Dawood, y Stockton Rush**y. Todos murieron.
@@ -19,7 +19,7 @@ Según los entendidos, una **_implosión catastrófica_** es cuando la presión 
 
 ## El espíritu soñador
 
-![Este James Cameron supervisando el sumergible que lo llevó a la panza más profunda del océano, Las Marianas. Su espíritu explorador quedó demostrado al bajar 33 veces donde estaba el Titanic (2011).](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/el-titan-implosion-del-espiritu-sonador/James-Cameron.jpg)
+![Este James Cameron supervisando el sumergible que lo llevó a la panza más profunda del océano, Las Marianas. Su espíritu explorador quedó demostrado al bajar 33 veces donde estaba el Titanic (2011).](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/el-titan-implosion-del-espiritu-sonador/James-Cameron.jpg)
 *Este James Cameron supervisando el sumergible que lo llevó a la panza más profunda del océano, Las Marianas. Su espíritu explorador quedó demostrado al bajar 33 veces donde estaba el Titanic (2011)./National Geogrphic.*
 
 > **«**Era un proyecto nacido de la pasión, (un proyecto) para espíritus soñadores de todo el mundo, convencidos de poder hacer lo imposible**»** .

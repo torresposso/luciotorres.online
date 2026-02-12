@@ -5,10 +5,10 @@ pubDate: "2021-06-09 22:06:31"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/si-tabaco-y-marihuana-detienen-el-covid-19-por-que-el-alcalde-esta-enfermo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/si-tabaco-y-marihuana-detienen-el-covid-19-por-que-el-alcalde-esta-enfermo/hero.jpg
 ---
 
-\[caption id="attachment\_15385" align="alignnone" width="636"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/si-tabaco-y-marihuana-detienen-el-covid-19-por-que-el-alcalde-esta-enfermo/hero.jpg) ¿El tabaco y la marihuana pueden ser la cura para el contagio del Covid-19? El Zambiloco, así le dicen ahora al alcalde, es ejemplo de que el tabaco no bloquea el coronavirus. Y que la vacuna no te cubre el 100%. \[/caption\]
+\[caption id="attachment\_15385" align="alignnone" width="636"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/si-tabaco-y-marihuana-detienen-el-covid-19-por-que-el-alcalde-esta-enfermo/hero.jpg) ¿El tabaco y la marihuana pueden ser la cura para el contagio del Covid-19? El Zambiloco, así le dicen ahora al alcalde, es ejemplo de que el tabaco no bloquea el coronavirus. Y que la vacuna no te cubre el 100%. \[/caption\]
 
 Algunos estudios científicos dicen que **tabaco y marihuana bloquean el covid-19** ¿por qué el alcalde de Cartagena está incapacitado por Covid—19? El burgomaestre es un fumador empedernido. Cada 10 minutos, según sus compañeros de gabinete, se consume un cigarrillo. Y cuando está estresado se desespera y sale a meterse su tabaco. Dos de sus asesoras le hacen la segunda, algunas veces, **Diana Martínez** y **Ana María González**, la de pelo incendiario.
 
@@ -16,7 +16,7 @@ El alcalde cada vez que atiende a algunos de sus funcionarios se quita el tapabo
 
 ## Tabaco y marihuana
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/si-tabaco-y-marihuana-detienen-el-covid-19-por-que-el-alcalde-esta-enfermo/Dau-fumando.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/si-tabaco-y-marihuana-detienen-el-covid-19-por-que-el-alcalde-esta-enfermo/Dau-fumando.jpg)
 *Durante la audiencia de revocatoria se metió tres cajetillas de cigarrillos.*
 
 No deja de ser polémico señalar que estos dos elementos sean los bloqueadores para el virus. El prestigioso portal de la **[Deutsche Welle](/articulos/es/puede-proteger-el-cannabis-contra-el-coronavirus/a-53383938) (www.dw.com**), sobre el caso de la marihuana como antivirus, dice:
@@ -31,7 +31,7 @@ Por otra parte, dice el portal alemán, los investigadores canadienses se han ce
 
 ## El tabaco antivirus
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/si-tabaco-y-marihuana-detienen-el-covid-19-por-que-el-alcalde-esta-enfermo/DAU-EN-PALACIO.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/si-tabaco-y-marihuana-detienen-el-covid-19-por-que-el-alcalde-esta-enfermo/DAU-EN-PALACIO.jpg)
 *A William Dau se le ve en el día, incluso, en las noches, deambulando en el baluarte San Ignacio Loyola donde está el Palacio de la Aduana. Sale a meterse su tabaco.*
 
 Así como existen estudios sobre el bloqueo que ejerce la mariacachafa para que el virus acceda al cuerpo, existen otros sobre el poder de la nicotina.  Otros **estudios** realizados en China, Estados Unidos y Francia revelan **una menor incidencia de la enfermedad por este tipo de coronavirus en fumadores. Señalan como responsable a la** nicotina. 

@@ -5,10 +5,10 @@ pubDate: "2022-05-11 02:03:39"
 author: "Lucio"
 categories: ["Análisis","Opinión","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/sicariato-en-decameron-asesinado-fiscal-antimafia-de-paraguay/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/sicariato-en-decameron-asesinado-fiscal-antimafia-de-paraguay/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/sicariato-en-decameron-asesinado-fiscal-antimafia-de-paraguay/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/sicariato-en-decameron-asesinado-fiscal-antimafia-de-paraguay/hero.jpg)
 *En el centro, Marcelo Pecci con su esposa la periodista Claudia Aguilera. Cuatro días antes del sicariato en Decamerón. Cortesía Instagram.*
 
 Cartagena de Indias lo tiene todo. Tiene playas de diferentes variedades. Islas exóticas donde puedes cumplir tus fantasías, incluso, las eróticas. Una ciudad antigua para encontrarte con la historia y con el amor de tu vida. Aquí está el ensueño que te puede dar la Riviera Maya. Pero cada día se está pareciendo a Acapulco. **Sicariato en Decamerón** —**donde murió el fiscal antimafia de Paraguay Marcelo Pecci— es el último capítulo de esta guerra transnacional contra el narcotráfico.**
@@ -27,7 +27,7 @@ Sin embargo, existen otros interrogantes que hacernos. ¿Por qué el fiscal Pecc
 
 ## Un asesinato transnacional
 
-![Aquí en la Calle de la Sierpe, en el arrabal de Getsemaní, cuatro días antes del sicariato en Decamerón.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/sicariato-en-decameron-asesinado-fiscal-antimafia-de-paraguay/marcelo-pecci1.jpg)
+![Aquí en la Calle de la Sierpe, en el arrabal de Getsemaní, cuatro días antes del sicariato en Decamerón.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/sicariato-en-decameron-asesinado-fiscal-antimafia-de-paraguay/marcelo-pecci1.jpg)
 *Aquí en la Calle de la Sierpe, en el arrabal de Getsemaní, cuatro días antes del sicariato en Decamerón.*
 
 Sin duda, una llamada de la mafia paraguaya a la mafia colombiana pudo activar la operación que terminó con el asesinato del director de la Unidad contra el Crimen Organizado. Como, en efecto, sucedió. Los sicarios pudieron tener el acompañamiento de algunos nativos que "trabajan" con bandas criminales u oficinas de cobro que operan en la ciudad. Es ciertamente conocido que ciertos nativos fueron reclutados ya en su calidad de motoristas, transportistas, bodegueros o sicarios en el tráfico de estupefacientes.
@@ -42,7 +42,7 @@ Efectivamente, los sicarios conocían a la perfección la manera cómo penetrar 
 
 ## Imágenes de un sicario
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/sicariato-en-decameron-asesinado-fiscal-antimafia-de-paraguay/imagen-del-sicario.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/sicariato-en-decameron-asesinado-fiscal-antimafia-de-paraguay/imagen-del-sicario.jpeg)
 *Esta es una de las primeras imágenes de los sicarios que cometieron el sicariato en el Decamerón.*
 
 Por esa razón, es clave la revisión de las cámaras de seguridad del hotel. Seguramente esta revisión producirá resultados positivos para identificar a los perpetradores de este asesinato de alto impacto. Al respecto, el director nacional de la policía, **general Jorge Luis Vargas**, **anunció que ya se tiene pistas de los autores del crimen**. Para ello comenzaron a difundir un volante con la imagen de unos de los sicarios vestido de turista. Tiene un sombrero de paja blanco con una cinta negra. Luce gafas para sol. Un buzo negro mangas largas de playa y sandalias de playa.  

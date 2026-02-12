@@ -5,10 +5,10 @@ pubDate: "2022-11-07 21:20:37"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/victimas-reclaman-finca-las-delicias-despojada-por-los-botero-maya/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/victimas-reclaman-finca-las-delicias-despojada-por-los-botero-maya/hero.jpg
 ---
 
-![Finca despojada por los Botero Maya.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/victimas-reclaman-finca-las-delicias-despojada-por-los-botero-maya/hero.jpg)
+![Finca despojada por los Botero Maya.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/victimas-reclaman-finca-las-delicias-despojada-por-los-botero-maya/hero.jpg)
 *Gonzalo Botero Maya, quien estuvo como víctima de las FARC en la JEP. Su hermano Álvaro Botero Maya fue uno de los cofundadores del paramilitarismo en la depresión momposina.*
 
 Víctimas del desplazamiento y el despojo forzados de la finca **"Las Delicias"** adelantarán acciones penales ante la justicia internacional y alternativa con el fin de conseguir la restitución de su predio. Este está en poder de la **familia Botero Maya, de Magangué**. Al mismo tiempo, propiciarán que los congresistas del Pacto Histórico adelanten un debate político sobre el despojo de esta región.

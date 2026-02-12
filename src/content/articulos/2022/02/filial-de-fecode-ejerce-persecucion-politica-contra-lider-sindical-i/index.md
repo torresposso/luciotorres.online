@@ -5,10 +5,10 @@ pubDate: "2022-02-25 12:04:00"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/filial-de-fecode-ejerce-persecucion-politica-contra-lider-sindical-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/filial-de-fecode-ejerce-persecucion-politica-contra-lider-sindical-i/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/filial-de-fecode-ejerce-persecucion-politica-contra-lider-sindical-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/filial-de-fecode-ejerce-persecucion-politica-contra-lider-sindical-i/hero.jpg)
 *Los presuntos perseguidores Jesús Ávila y Luis Grimaldo, directivos de la ADEA.*
 
 La filial de FECODE en el Atlántico ejerce una **encarnizada persecución política contra uno de sus dirigentes** por el mero hecho de haber cumplido con la ley laboral. En efecto, mediante denuncia penal y llamado en garantía ante jueces, la junta directiva de la **Asociación de Educadores del Atlántico (ADEA)**,  desató  una sistemática persecución contra el expresidente [**Medardo Drago León**](https://twitter.com/Medardodrago). Y todo porque en 2015 normalizó la situación laboral a 6 trabajadores que venían siendo vinculados irregularmente a la entidad sin recibir las prestaciones sociales y otros derechos que debe disfrutar un empleado.
@@ -19,7 +19,7 @@ Con el ánimo de esclarecer la situación, **VoxPopuli Digital** entra a investi
 
 ## Persecución política totalitarista
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/filial-de-fecode-ejerce-persecucion-politica-contra-lider-sindical-i/medardo-drago.png)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/filial-de-fecode-ejerce-persecucion-politica-contra-lider-sindical-i/medardo-drago.png)
 *Medardo Drago León, se siente perseguido por sus propios camaradas.*
 
 De tal manera, porque Medardo cumplió la norma laboral, es perseguido por el sindicato. ¿Qué otra razón pueden argumentar? Una organización que está llamada a cumplir con los derechos laborales de sus empleados así como lo exigen para sus asociados, debe estar guiada por hombres y mujeres íntegros. Un directivo sindical no puede ser un patrón despiadado dentro dentro de la organización y, fuera, un demócrata que le exige al Estado todo tipo de prebendas. ¿Doble moral?
@@ -60,7 +60,7 @@ No conforme con ello, la junta directiva de la ADEA utilizó el recurso excepcio
 
 ## El discurso no refleja la práctica
 
-![persecución política contra líder sindical (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/filial-de-fecode-ejerce-persecucion-politica-contra-lider-sindical-i/William-velandia-puerto2.jpg)
+![persecución política contra líder sindical (I)](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/filial-de-fecode-ejerce-persecucion-politica-contra-lider-sindical-i/William-velandia-puerto2.jpg)
 *William Henry Velandia Puerto, presidente de FECODE.*
 
 ¿Por qué esta pugna interna ha trascendido la autoridad sindical para dejarlo en manos de la justicia ordinaria? ¿No existe la capacidad de la autocrítica con el fin de remover los obstáculos que impiden una verdadera democracia sindical? ¿Por qué para sí piden justicia y se la niegan a los que están bajo su sujeción?

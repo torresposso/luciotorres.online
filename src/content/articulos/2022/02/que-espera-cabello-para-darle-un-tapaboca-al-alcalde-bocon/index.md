@@ -5,7 +5,7 @@ pubDate: "2022-02-08 14:14:17"
 author: "Lucio"
 categories: ["Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/que-espera-cabello-para-darle-un-tapaboca-al-alcalde-bocon/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/que-espera-cabello-para-darle-un-tapaboca-al-alcalde-bocon/hero.jpg
 ---
 
 ¿Qué espera Cabello para darle un tapaboca al alcalde bocón? Es la pregunta que la gente pensante se hace en una Cartagena desvencijada. También es la pregunta que le hacen a uno cuando sale a la calle. La procuradora Margarita Cabello debe sacudirse de ese estigma según el cual ella es alcahuete de William Dau, como lo ha sido del exalcalde de Barranquilla Alejandro Char.

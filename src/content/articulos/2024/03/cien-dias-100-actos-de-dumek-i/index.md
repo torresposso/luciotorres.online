@@ -5,10 +5,10 @@ pubDate: "2024-03-20 02:32:55"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 tags: ["Alcaldía de Cartagena","Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cien-dias-100-actos-de-dumek-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/cien-dias-100-actos-de-dumek-i/hero.jpg
 ---
 
-![son 100 actos de Dumek que hablan por sí solos y que inspiran contar la historia.  ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cien-dias-100-actos-de-dumek-i/hero.jpg)
+![son 100 actos de Dumek que hablan por sí solos y que inspiran contar la historia.  ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/cien-dias-100-actos-de-dumek-i/hero.jpg)
 *Son 100 actos de Dumek que hablan por sí solos y que inspiran contar la historia./Foto Victor López,*
 
 Hoy, se había cumplido 5 años desde que no visitaba el **Palacio de la Aduana**, ubicado en el corazón del Centro Histórico de Cartagena. En ese período, sus gobernantes pasaron penosamente. No inspiró al periodista para escribir un solo renglón positivo de los actos de sus desastrosos huéspedes. El que duró cuatro años, hizo como las moscas, vomitó todo su veneno sobre la ciudad. Pero, los cien días de esta nueva administración de Cartagena, son 100 actos de Dumek Turbay Paz y de su equipo de gobierno que hablan por sí solos y que inspiran contar la historia. Así como fuimos implacables con el anterior administrador, hoy nos toca quitarnos el sombrero con el actual.
@@ -19,7 +19,7 @@ No obstante, hay problemas estructurales que no se resuelven automáticamente, c
 
 ## Los 100 actos de Dumek
 
-![Un diálogo franco con el primer mandatario de los cartageneros./Foto Víctor López-](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/cien-dias-100-actos-de-dumek-i/Dumek_lucio_Portada-800x1024.jpg)
+![Un diálogo franco con el primer mandatario de los cartageneros./Foto Víctor López-](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/cien-dias-100-actos-de-dumek-i/Dumek_lucio_Portada-800x1024.jpg)
 *Un diálogo franco de VoxPopuli Digital con el primer mandatario de los cartageneros, Dumek Turbay Paz./Foto Víctor López-*
 
 Sin embargo, además de no hablar demasiado, un gobernante no llega para calentar el sillón del gobierno y desde allí ordenar para que otros ejecuten. Por eso vemos **los 100 actos de Dumek** hasta en las playas, parques, canchas y plazas reducidas al ostracismo en estos últimos 5 años. Vemos a Dumek resolviendo pequeños y grandes problemas. Así está pagando la deuda social histórica de un Distrito que, en las dos últimas dos décadas, viene de tumbo en tumbo. Una deuda que los cartageneros más débiles esperan que se la paguen.

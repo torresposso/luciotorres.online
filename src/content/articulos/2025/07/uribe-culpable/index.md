@@ -5,10 +5,10 @@ pubDate: "2025-07-28 01:48:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/uribe-culpable/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/uribe-culpable/hero.jpg
 ---
 
-![El presidente Uribe ¿Culpable?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/uribe-culpable/CILPABLE.jpeg)
+![El presidente Uribe ¿Culpable?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/uribe-culpable/CILPABLE.jpeg)
 *El presidente Uribe ¿Culpable?*
 
 Uribe ¿Culpable o inocente? ¿Cuántos colombianos mayores de 30 años sienten que el expresidente **Álvaro Uribe Vélez** debe ser declarado culpable y otros abogan por su absolución? ¿Terminará su vida a lo **Alberto Fujimori**? Debido a que renunció a su inmunidad de senador, el destino inmediato del exmandatario está en manos de una humilde administradora de justicia, **Sandra Heredia, Juez 44 Penal del Circuito de Bogotá.** Hoy, ella fue expuesta innecesariamente por los mismos medios que exigen la lucha contra la impunidad.

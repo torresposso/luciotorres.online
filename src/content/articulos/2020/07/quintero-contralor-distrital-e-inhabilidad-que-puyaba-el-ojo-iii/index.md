@@ -5,16 +5,16 @@ pubDate: "2020-07-18 19:47:28"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/quintero-contralor-distrital-e-inhabilidad-que-puyaba-el-ojo-iii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/quintero-contralor-distrital-e-inhabilidad-que-puyaba-el-ojo-iii/hero.jpg
 ---
 
-\[caption id="attachment\_12110" align="aligncenter" width="703"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/quintero-contralor-distrital-e-inhabilidad-que-puyaba-el-ojo-iii/hero.jpg) **Fredys Quintero** Contralor Distrital (e) **también estaba inhabilitado**. Los 7 concejales ¡al patíbulo! Se unirán a la «Banda de los 8» de **Dau y Consuegra**. Collage, Melissa Villarreal de www.voxpopuli.digital.\[/caption\]
+\[caption id="attachment\_12110" align="aligncenter" width="703"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/quintero-contralor-distrital-e-inhabilidad-que-puyaba-el-ojo-iii/hero.jpg) **Fredys Quintero** Contralor Distrital (e) **también estaba inhabilitado**. Los 7 concejales ¡al patíbulo! Se unirán a la «Banda de los 8» de **Dau y Consuegra**. Collage, Melissa Villarreal de www.voxpopuli.digital.\[/caption\]
 
  El contralor Distrital (e), **Fredys Quintero**, **evidentemente tenía inhabilidad que «puyaba el ojo»** —igual que **Héctor Consuegra**— para ser titular de esa entidad en el **período 2020—21**. Los 7 concejales que votaron por él, violaron el régimen de inhabilidades e incompatibilidades. Esto es, el artículo 272 (C.N.), las leyes 136/94, 134/94, 142 de 1993 y 617 de 2000 y la resolución No. 303 del 24 de diciembre de 2019 del mismo Concejo Distrital.
 
 En una situación similar, el **Tribunal Administrativo de Sucre**, Sala Tercera de Decisión,  acaba de suspender cautelarmente a la Contralora Municipal de Sincelejo, **Vivian Montaño González**, elegida el 10 de enero de 2020 siendo contralora encargada. Se violentó el numeral 8 del artículo 272 de la Constitución Nacional. (Aquí puedes leer la admisión de esta demanda contra la contralora de Sincelejo similar a la situación del contralor Quintero y a la del jefe de Control Interno de Edurbe, **los cuales son cargos a nivel ejecutivo)**.
 
-\[caption id="attachment\_12112" align="aligncenter" width="527"\]![Vivían María Montaño](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/quintero-contralor-distrital-e-inhabilidad-que-puyaba-el-ojo-iii/vivian-gonzalez.png) **Vivian Montaño González**, contralora Municipal de Sincelejo, acaba de ser suspendida por el Tribunal Administrativo de Sincelejo por la misma causal de Quintero. Cortesía\[/caption\]
+\[caption id="attachment\_12112" align="aligncenter" width="527"\]![Vivían María Montaño](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/quintero-contralor-distrital-e-inhabilidad-que-puyaba-el-ojo-iii/vivian-gonzalez.png) **Vivian Montaño González**, contralora Municipal de Sincelejo, acaba de ser suspendida por el Tribunal Administrativo de Sincelejo por la misma causal de Quintero. Cortesía\[/caption\]
 
 ## **Contralor Distrital y sus 7 electores**
 

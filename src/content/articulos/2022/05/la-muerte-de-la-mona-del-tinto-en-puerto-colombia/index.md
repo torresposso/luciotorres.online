@@ -5,10 +5,10 @@ pubDate: "2022-05-06 14:41:33"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-muerte-de-la-mona-del-tinto-en-puerto-colombia/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/la-muerte-de-la-mona-del-tinto-en-puerto-colombia/hero.jpg
 ---
 
-![La «Mona» del tinto, Ruth Mary Carroz, asesinada por sicarios en Puerto Colombia. La «Mona» del tinto, Ruth Mary Carroz](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-muerte-de-la-mona-del-tinto-en-puerto-colombia/hero.jpg)
+![La «Mona» del tinto, Ruth Mary Carroz, asesinada por sicarios en Puerto Colombia. La «Mona» del tinto, Ruth Mary Carroz](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/la-muerte-de-la-mona-del-tinto-en-puerto-colombia/hero.jpg)
 *La «Mona» del tinto, Ruth Mary Carroz, asesinada por sicarios en Puerto Colombia.*
 
 La «Mona» del tinto salía muy tempranito todos los días a vender café caliente en la plaza de Puerto Colombia. El miércoles, —promediando las 6:30 de la mañana— del pasado 4 de mayo, un disparo en la cabeza hecho por un sicario, la dejó tendida en el suelo. Murió al instante. Y esto sucedió a menos de 50 metros de la estación de policía. No hubo captura. La policía no reaccionó oportunamente.  
@@ -21,7 +21,7 @@ El asesinato de **Ruth Mary Carroz**, la popular **«Mona de los tintos»**, pon
 
 ## La «Mona de los tintos» y sin vigilancia policiva
 
-![En las playas de Puerto Colombia la CRA realiza su campaña de prevención. Pero el municipio no hace presencia para la protección de los turistas. Foto VoxPopuli.Digital.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-muerte-de-la-mona-del-tinto-en-puerto-colombia/placeholder.jpg)
+![En las playas de Puerto Colombia la CRA realiza su campaña de prevención. Pero el municipio no hace presencia para la protección de los turistas. Foto VoxPopuli.Digital.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/la-muerte-de-la-mona-del-tinto-en-puerto-colombia/placeholder.jpg)
 *En las playas de Puerto Colombia la CRA realiza su campaña de prevención. Pero el municipio no hace presencia para la protección de los turistas. Foto VoxPopuli.Digital.*
 
 Como ejemplo de demostrar la falta de vigilancia y operatividad de la policía, señalamos que el domingo 1 de mayo nos dimos a la tarea de recorrer la playa y la plaza de Puerto Colombia y no encontramos un solo policía. Mientras tanto, esos sitios estaban llenos de turistas y visitantes. ¿Qué se hicieron los policías? Fue entonces cuando nos trasladamos a la estación de Policía de Puerto Colombia ubicada en la misma plaza. Aparentemente, todos estaban allí, amontonados. 
@@ -30,7 +30,7 @@ Para dejar constancia de la falta de vigilancia, se presentó una queja a la com
 
 ## Los turistas sin protección
 
-![El alcalde Wilman Vargas pareciera que solo le interesa las obras de estructura., pero no la gente, como a la «Mona» del tinto. Aquí en un evento con la CRA. Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/la-muerte-de-la-mona-del-tinto-en-puerto-colombia/alcalde-wilman-vargas-y-cra.jpg)
+![El alcalde Wilman Vargas pareciera que solo le interesa las obras de estructura., pero no la gente, como a la «Mona» del tinto. Aquí en un evento con la CRA. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/la-muerte-de-la-mona-del-tinto-en-puerto-colombia/alcalde-wilman-vargas-y-cra.jpg)
 *El alcalde Wilman Vargas pareciera que solo le interesa las obras de estructura pero no la gente. Aquí en un evento con la CRA. Cortesía.*
 
 De la misma manera, se denunció falta de protección a los turistas que sufren de abuso por parte de caseteros, hoteleros y vendedores de playa, que no solo cobran precios exorbitantes por su productos y servicios, sino que también agreden a los que se atreven a reclamar.

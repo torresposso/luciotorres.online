@@ -5,10 +5,10 @@ pubDate: "2024-03-18 02:25:51"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/petro-radicaliza-el-clima-politico-al-pensar-en-la-constituyente/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/petro-radicaliza-el-clima-politico-al-pensar-en-la-constituyente/hero.jpg
 ---
 
-![¿Petro radicaliza el clima político al pensar en la Constituyente?/Presidencia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/petro-radicaliza-el-clima-politico-al-pensar-en-la-constituyente/Petro_minga_miniatura-1024x532.jpeg)
+![¿Petro radicaliza el clima político al pensar en la Constituyente?/Presidencia.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/petro-radicaliza-el-clima-politico-al-pensar-en-la-constituyente/Petro_minga_miniatura-1024x532.jpeg)
 *¿Petro radicaliza el clima político al pensar en la Constituyente?*
 
 **¿Petro radicaliza el clima político?** Sin duda la propuesta de una **Constituyente es un cañar** del presidente Gustavo Petro. Esto exacerba el miedo, radicaliza las variantes de la derecha oligárquica colombiana y pone el foco de la discusión en cuestiones abstractas lejos del bienestar de la ciudadanía. De hecho, el primer mandatario **crearía un caos mental** en sus seguidores y en la oposición. Tiene la capacidad para _meterle leña_ a la controversia y distraer a la opinión pública de su gestión administrativa.
@@ -39,7 +39,7 @@ Si bien es cierto que Gustavo Petro juró respetar la Constitución de 1991, el 
 
 ## ¿Quién "fractura la democracia"?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/03/petro-radicaliza-el-clima-politico-al-pensar-en-la-constituyente/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/petro-radicaliza-el-clima-politico-al-pensar-en-la-constituyente/hero.jpg)
 
 Una vez más nos preguntamos: ¿Petro radicaliza el clima político? El hecho de que el Presidente piense en una Constituyente no se puede calificar como "una fractura de la democracia", tal como lo dicen los diferentes sectores de la derecha colombiana. El mismo Álvaro Uribe lo hizo en 2004 cuando reformó la Constitución con **"el articulito 197"**. En 2009 se develó su ansia de poder al querer aspirar por tercera vez a la presidencia reformando ese mismo articulito que la Corte Constitucional tumbó. Luego, en 2012, cuando, siendo jefe del partido de la U, se declaró opositor al gobierno de **Juan Manuel Santos** apeló a la idea de la Constituyente para hacer del congreso una **corporación unicameral**.
 

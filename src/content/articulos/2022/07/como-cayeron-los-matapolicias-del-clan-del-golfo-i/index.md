@@ -5,10 +5,10 @@ pubDate: "2022-07-26 00:43:18"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/hero.jpg
 ---
 
-![La policía mató a los matapolicías .](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/hero.jpg)
+![La policía mató a los matapolicías .](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/hero.jpg)
 *La policía mató a los matapolicías .*
 
 La policía mató a "los matapolicías". En la prima mañana del domingo 24 de julio, los moradores del conjunto residencial Parque Heredia se despertaron en medio de un tiroteo. Era un allanamiento de la policía metropolitana de Cartagena-MECAR a uno de esos apartamentos ocupados por **"los matapolicías"** **del Clan del Golfo**. Lo que la gente no sabe es que uno de los dos, cuyos cuerpos salieron en sendas bolsas blancas de polietileno, **era un temible cerebro del crimen organizado para el sicariato.**
@@ -23,7 +23,7 @@ El hecho de que muchas de las víctimas de "alias Niñoco" estaban armadas, como
 
 ## "Los matapolicías" cayeron muertos
 
-![Los matapolicías salieron muertos en sendas bolsas blancas de polietileno. Cortesía](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/Policia-mata-bolsa.jpg)
+![Los matapolicías salieron muertos en sendas bolsas blancas de polietileno. Cortesía](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/Policia-mata-bolsa.jpg)
 *Los matapolicías salieron muertos en sendas bolsas blancas de polietileno. Cortesía*
 
 **La policía sabía de antemano que el operativo era a muerte.** Según el informe de inteligencia, los que se encontraban en uno de los apartamentos del Parque Heredia eran los determinadores de los últimos sicariatos en Cartagena y los "matapolicías" destinados por el Clan del Golfo para castigar a la institución por los últimos golpes a las diferentes estructuras de esa organización criminal.
@@ -38,7 +38,7 @@ Desde el escenario de los acontecimientos, el comandante de la MECAR, G.B. **Nic
 
 ## El prontuario de "los matapolicías": 23 sicariatos este año
 
-![Efectivos del Gaula observan el apartamento desde donde operaban "los matapolicías".](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/policia-gaula.jpeg)
+![Efectivos del Gaula observan el apartamento desde donde operaban "los matapolicías".](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/policia-gaula.jpeg)
 *Efectivos del Gaula observan el apartamento desde donde operaban "los matapolicías".*
 
 Según el parte policivo, **Nicolás Antonio Urango Reyes,** alias **"Niño"** o **"Niñoco"**, era un temible sicario de la subestructura Heroes del Caribe del Clan del Golfo. Su trayectoria criminal viene de haber constituido el frente Córdoba de las Autodefensas Unidas Campesinas (AUC). Luego militó en la banda de Los Urabeños y últimamente se vinculó con el Clan del Golfo. Entre pecho y espalda le cabía un mundo de homicidios. Para la policía, es el determinador de 23 asesinatos en Cartagena en la modalidad de sicariato durante este año. La inteligencia lo tenía localizado a partir del asesinato del patrullero Palacios.
@@ -59,7 +59,7 @@ Esta operación fue posible al desarrollo de la Campaña Militar y Policial Cón
 
 ## ¿Se esclarecieron los sicariatos de los matapolicías?
 
-![En el teatro de guerra donde cayeron "los matapolicías", el BG Nicolás Zapata verificando las bajas y los decomisos.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/Policia-BG-Zapata-operativo.jpg)
+![En el teatro de guerra donde cayeron "los matapolicías", el BG Nicolás Zapata verificando las bajas y los decomisos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/como-cayeron-los-matapolicias-del-clan-del-golfo-i/Policia-BG-Zapata-operativo.jpg)
 *En el teatro de guerra donde cayeron "los matapolicías", el BG Nicolás Zapata verificando las bajas y los decomisos. Cortesía.*
 
 Aún cuando la policía diga que se esclarecieron los crímenes de cerca de 23 homicidios por encargo, la verdad es que ahora se oscurecen más. Si ellos fueron los determinadores de esos crímenes ¿por qué no estaban en la cárcel si estaban tan claros sobre la autoría intelectual y material?

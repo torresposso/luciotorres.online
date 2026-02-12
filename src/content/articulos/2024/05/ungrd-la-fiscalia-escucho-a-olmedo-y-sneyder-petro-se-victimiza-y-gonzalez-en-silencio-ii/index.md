@@ -5,10 +5,10 @@ pubDate: "2024-05-08 03:12:33"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/ungrd-la-fiscalia-escucho-a-olmedo-y-sneyder-petro-se-victimiza-y-gonzalez-en-silencio-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/ungrd-la-fiscalia-escucho-a-olmedo-y-sneyder-petro-se-victimiza-y-gonzalez-en-silencio-ii/hero.jpg
 ---
 
-![La Fiscalía escuchó a Olmedo y Sneyder, Petro se victimiza y González en silencio. Aquí cuando Olmedo López tomó posesión ante el presidente y Carlos Ramón González./Presidencia](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/ungrd-la-fiscalia-escucho-a-olmedo-y-sneyder-petro-se-victimiza-y-gonzalez-en-silencio-ii/Carlos_ramon_gonzalez.jpeg)
+![La Fiscalía escuchó a Olmedo y Sneyder, Petro se victimiza y González en silencio. Aquí cuando Olmedo López tomó posesión ante el presidente y Carlos Ramón González./Presidencia](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/ungrd-la-fiscalia-escucho-a-olmedo-y-sneyder-petro-se-victimiza-y-gonzalez-en-silencio-ii/Carlos_ramon_gonzalez.jpeg)
 *La Fiscalía escuchó a Olmedo y Sneyder sobre la UNGRD. Petro se victimiza y González en silencio. Aquí cuando Olmedo López tomó posesión ante el presidente y Carlos Ramón González./Presidencia*
 
 La bola de nieve de la Unidad Nacional para la Gestión del Riesgo y de Desastre**―**UNGRD, sigue creciendo y amenaza otra catástrofe moral para el gobierno nacional compartido. Hoy, la Fiscalía escuchó a **Olmedo López y Sneyder Pinilla**, exdirector y exsubdirector de esa unidad, respectivamente. Mientras, por la noche, el presidente Petro en su alocución, lamentó el hecho. Se victimizó y pidió a la Fiscalía que investigue los últimos 8 años de gestión de la UNGRD. Lo cual, sin duda, es una bola inmensa de humo que distrae lo esencial que sucede ahora con la corrupción de su gobierno. En tanto su principal presunto implicado, Carlos Ramón González, se mantiene en silencio.
@@ -21,7 +21,7 @@ En consecuencia, si no hay autocrítica, jamás habrá cambio de rumbo. En vez d
 
 ## La pregunta fundamental sobre la UNGRD
 
-![Gustavo Petro y Carlos Ramón González, una llavería de vieja data. Ahora los une el dolor con la UNGRD./X](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/05/ungrd-la-fiscalia-escucho-a-olmedo-y-sneyder-petro-se-victimiza-y-gonzalez-en-silencio-ii/Carlos_ramon_-1024x512.jpeg)
+![Gustavo Petro y Carlos Ramón González, una llavería de vieja data. Ahora los une el dolor con la UNGRD./X](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/ungrd-la-fiscalia-escucho-a-olmedo-y-sneyder-petro-se-victimiza-y-gonzalez-en-silencio-ii/Carlos_ramon_-1024x512.jpeg)
 *Gustavo Petro y Carlos Ramón González, una llavería de vieja data. Ahora los une el dolor con la UNGRD./X*
 
 No obstante, llegará al final de su mandato, porque a los mismos grupos dominantes no le conviene su prematura caída. Además, tendrían siempre una amenaza con la marca Petro, quien sabe victimizarse muy bien como lo hizo cuando la **Procuraduría de Alejandro Ordoñez** lo tumbó injustamente de la alcaldía de Bogotá. Esta lección la conocen perfectamente las elites hegemónicas. Ellas no estarían dispuestas a soportar el eterno discurso de Petro de que "no lo dejaron gobernar". Si lo tumban, lo victimizarían y mantendrían su caudal de seguidores que siguen su relato. Es decir, que la victimización sería el arma defensiva del presidente Petro.

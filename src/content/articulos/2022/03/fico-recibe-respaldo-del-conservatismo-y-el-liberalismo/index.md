@@ -5,10 +5,10 @@ pubDate: "2022-03-31 02:16:08"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/fico-recibe-respaldo-del-conservatismo-y-el-liberalismo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/fico-recibe-respaldo-del-conservatismo-y-el-liberalismo/hero.jpg
 ---
 
-![La bancada conservadora comandada por los Blel con «Fico».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/fico-recibe-respaldo-del-conservatismo-y-el-liberalismo/hero.jpg)
+![La bancada conservadora comandada por los Blel con «Fico».](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/fico-recibe-respaldo-del-conservatismo-y-el-liberalismo/hero.jpg)
 *Federico «Fico» Gutiérrez con la senadora que obtuvo la primera votación del partido Conservador, Nadia Blel, hermana del gobernador de Bolívar, Vicente Blel.*
 
 Con el apoyo del conservatismo en pleno y la reunión de acuerdo programático con el expresidente liberal **César Gaviría**, en el día de hoy se dio un paso fundamental para las aspiraciones  de la candidatura presidencial de la pareja **Federico «Fico» Gutiérrez y Rodrigo Lara sánchez**.
@@ -29,14 +29,14 @@ Todas las fuerzas del partido conservador cerraron fila en torno a Fico Gutiérr
 
 ## Los Blel con «Fico»
 
-![La bancada conservadora comandada por los Blel con «Fico».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/fico-recibe-respaldo-del-conservatismo-y-el-liberalismo/Fico-y-los-blel.jpg)
+![La bancada conservadora comandada por los Blel con «Fico».](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/fico-recibe-respaldo-del-conservatismo-y-el-liberalismo/Fico-y-los-blel.jpg)
 *La bancada conservadora comandada por los Blel con «Fico».*
 
 En el caso de la bancada conservadora de Bolívar, tuvo un momento para encontrarse con el candidato  Federico Gutiérrez. De hecho, en la fotografía aparecen la senadora conservadora **Nadia Blel** y los cuatro representantes a la cámara: **Yamilito Arana Padauí (reelegido con la primera votación), Juliana Aray, Andrés Montes y Fernando Niño**. Los dos primeros de la casa. Los otros dos pertenecen a la Casa Montes.
 
 ## Liberalismo, ¿«Fico» o Petro?
 
-![El liberalismo ¿«Fico» o Petro?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/fico-recibe-respaldo-del-conservatismo-y-el-liberalismo/IMG_20220315_145002.jpg)
+![El liberalismo ¿«Fico» o Petro?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/fico-recibe-respaldo-del-conservatismo-y-el-liberalismo/IMG_20220315_145002.jpg)
 *El liberalismo ¿«Fico» o Petro?*
 
 La campaña de Fico Gutiérrez espera el respaldo del partido Liberal y de toda su bancada como lo hizo el conservatismo. La reunión entre el candidato Fico Gutiérrez y el expresidente César Gaviria, del liberalismo, despertó gran expectativa en el país político. El partido liberal fue arrojado a un dilema, luego de que se truncó el diálogo político con el **Pacto Histórico** y de su líder el candidato a la presidencia **Gustavo Petro.**  

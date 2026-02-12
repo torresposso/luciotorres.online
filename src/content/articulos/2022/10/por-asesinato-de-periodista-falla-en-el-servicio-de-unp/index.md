@@ -5,10 +5,10 @@ pubDate: "2022-10-19 00:40:13"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/por-asesinato-de-periodista-falla-en-el-servicio-de-unp/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/por-asesinato-de-periodista-falla-en-el-servicio-de-unp/hero.jpg
 ---
 
-![El director de la UNP, Augusto Rodríguez Ballesteros, en reunión con Misión de Apoyo al Proceso de Paz en Colombia,MAPP. Por asesinato de periodista ¿falla en el servicio de UNP?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/10/por-asesinato-de-periodista-falla-en-el-servicio-de-unp/hero.jpg)
+![El director de la UNP, Augusto Rodríguez Ballesteros, en reunión con Misión de Apoyo al Proceso de Paz en Colombia,MAPP. Por asesinato de periodista ¿falla en el servicio de UNP?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/por-asesinato-de-periodista-falla-en-el-servicio-de-unp/hero.jpg)
 *El director de la UNP, Augusto Rodríguez Ballesteros, en reunión con Misión de Apoyo al Proceso de Paz en Colombia,MAPP. Por asesinato de periodista ¿falla en el servicio de UNP? Cortesía.*
 
 Por el asesinato del periodista **Rafael Moreno Garavito** podríamos estar en presencia de una falla en el servicio de la Unidad Nacional de Protección-UNP. **Una unidad que se gasta $2,6 miles de millones diarios y, sin embargo, tiene múltiples fallas**. Este hecho viene a demostrar que realmente no cumple a cabalidad con su papel misional. **Pareciera que los esquemas de seguridad se asignan por palanca** política.

@@ -5,10 +5,10 @@ pubDate: "2021-09-09 21:01:30"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/senor-valbuena-usted-no-es-rey-senadora-avella-en-cachenche/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/senor-valbuena-usted-no-es-rey-senadora-avella-en-cachenche/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/senor-valbuena-usted-no-es-rey-senadora-avella-en-cachenche/2.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/senor-valbuena-usted-no-es-rey-senadora-avella-en-cachenche/2.jpeg)
 *Aida Avella con los campesinos de Cachenche. «Señor Valbuena, usted no es rey ni nosotros somos súbditos»*
 
 **«Señor Valbuena, usted no es rey ni nosotros somos súbditos»** En el marco de una intempestiva visita a la finca Cachenche, la senadora de la Unión Patriótica y Colombia Humana, **Aida Avella Esquivel, prometió un fuerte** **control político** contra la actuación inapropiada de la Sociedad de Activos Especiales—SAE. Al mismo tiempo, se solidarizó con los campesinos que vienen librando una lucha para que esas tierras productivas sirvan a la seguridad alimentaria de esa subzona rural.
@@ -30,7 +30,7 @@ Este 9 de septiembre la senadora Aida Avella estuvo recorriendo los cultivos de 
 
 ## Caracterización de Cachenche
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/09/senor-valbuena-usted-no-es-rey-senadora-avella-en-cachenche/aida-avella.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/senor-valbuena-usted-no-es-rey-senadora-avella-en-cachenche/aida-avella.jpeg)
 *"Mira, qué bonita mazorca", diria la senadora Aida Avella a los campesinos de Cachenche en la visita realizada este 9 de septiembre.*
 
 Son 220 familias campesinas parceleras poseyendo más de 220 hectáreas en forma pacífica como señores y dueños y que la han puesto a producir. La finca estuvo abandonada y enmontada por muchos años. Sirvió de cueva de ladarones. El predio está atravesado y dividido en dos por una carretera terciaria que conduce al casco urbano del municipio de Turbana – Bolívar. 

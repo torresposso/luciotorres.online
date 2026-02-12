@@ -5,10 +5,10 @@ pubDate: "2018-12-21 11:20:42"
 author: "Lucio"
 categories: ["Cartagena","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/edurbe-se-reivindica-de-las-21-vias-cuestionadas-20-entregadas/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/12/edurbe-se-reivindica-de-las-21-vias-cuestionadas-20-entregadas/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/12/edurbe-se-reivindica-de-las-21-vias-cuestionadas-20-entregadas/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/12/edurbe-se-reivindica-de-las-21-vias-cuestionadas-20-entregadas/hero.jpg)
 
 Edurbe se reivindica con la entrega de 20 de las 21 vías que debía entregar a más tardar el 21 de diciembre de 2018. Estas obras, cuyo costo es de **$21 mil millones**, fueron adjudicadas por el Distrito de Cartagena mediante un **convenio interadministrativo** con Edurbe.
 

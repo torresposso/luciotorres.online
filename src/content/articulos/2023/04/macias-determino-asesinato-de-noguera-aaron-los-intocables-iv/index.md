@@ -5,10 +5,10 @@ pubDate: "2023-04-08 23:55:58"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Santa Marta"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/hero.jpg
 ---
 
-![Hasta hoy esta condena estaba refundida en las calendas de los Archivos judiciales de Santa Marta. ¿Qué dice el Tribunal Superior de Santa Marta y la Corte Suprema de Justicia? ¿Qué dice el fiscal Francisco Barbosa?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/hero.jpg)
+![Hasta hoy esta condena estaba refundida en las calendas de los Archivos judiciales de Santa Marta. ¿Qué dice el Tribunal Superior de Santa Marta y la Corte Suprema de Justicia? ¿Qué dice el fiscal Francisco Barbosa?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/hero.jpg)
 *Hasta hoy esta condena estaba refundida en las calendas de los Archivos judiciales de Santa Marta. ¿Qué dice el Tribunal Superior de Santa Marta y la Corte Suprema de Justicia? ¿Qué dice el fiscal Francisco Barbosa?*
 
 El expediente perdido de la única condena (2003) contra **Alfonso Macías** ¡lo hallamos refundido en los archivos judiciales de Santa Marta! Con esta prueba judicial, pueden mandar a la cárcel a uno de **«Los intocables»** que pudo determinar dos hechos donde murieron cinco personas, entre ellas, los hermanos **Juan y Enrique Camilo Noguera Aarón**. Este último fue presidente del **Consejo de la Judicatura del Magdalena** y de la Sala Civil del **Tribunal Superior de Santa Marta**. Tomando en cuenta este hecho, surge la pregunta problemática: **¿El empresario Alfonso Macías determinó el asesinato de Noguera Aarón y dos de sus guardaespaldas?** En esta oportunidad presentaremos las evidencias de este homicidio ocurrido el 27 de octubre de 1998.
@@ -19,7 +19,7 @@ Llama la atención que **dos meses después** de que Alfonso Macías fuera conde
 
 ## Desempolvando la **«**Caja de Pandora**»** del horror
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/Rafael-Matera_Fiscal-quinto-Especializado.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/Rafael-Matera_Fiscal-quinto-Especializado.jpg)
 
 Esta es la cuarta entrega del oscuro pasado de **«Los intocables»**. Abrimos este seriado con **Rafael Matera Lajud**, a quien el fiscal Quinto Especializado ante el **Juzgado Único Penal Especializado** de Valledupar, **Juan Carlos Linero Mora**, se abstuvo de adoptar medida alguna en resolución del **23 de febrero de 2006**. Matera Lajud tenía **órdenes de captura por los delitos de concierto para delinquir agravado, homicidio agravado en concurso homogéneo**. Afortunadamente el fiscal Barbosa ordenó reabrir el proceso en marzo de 2023, como se indicó en esa entrega.
 
@@ -51,7 +51,7 @@ Como el criminal quiere eliminar cualquier obstáculo que amenace su impunidad, 
 
 ## La impunidad y la CPI
 
-![¿Macías determinó asesinato de Noguera Aarón?  Fueron 21 jefes paramilitares que regresaron a la vida civil ¿qué seguimiento se les ha hecho?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/Reintegrados_Tayrona.jpg)
+![¿Macías determinó asesinato de Noguera Aarón?  Fueron 21 jefes paramilitares que regresaron a la vida civil ¿qué seguimiento se les ha hecho?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/Reintegrados_Tayrona.jpg)
 *Fueron 21 jefes paramilitares que regresaron a la vida civil. Muchos de ellos confesaron sus crímenes que comprometieron a empresarios y ganaderos. ¿qué seguimiento se les ha hecho? (Tomado de Verdad Caribe).*
 
 ¿De qué sirve que algunos jefes paramilitares sindiquen a financiadores y determinadores de los crímenes de lesa humanidad si la justicia no hace nada contra ellos? Muchos paramilitares pagaron la pena alternativa. ¿Cambiaron las circunstancias para las víctimas? No. De esta forma el conflicto armado se degrada y se recicla constantemente, tal como se demuestra en mi libro (déle clic) **[¿Adiós a la Guerra?](https://www.facebook.com/adiosalaguerra)**
@@ -86,7 +86,7 @@ Todos esos empresarios, **tienen compulsas de copias del Tribunal de Justicia y 
 
 ## Pascual Matera Lajud
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/Rafael-Matera-Lajud_imagen.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/Rafael-Matera-Lajud_imagen.jpg)
 *El hermano de Rafael Matera Lajud es Pascual Matera Lajud y no Regulo Matera García, qquien es primo. Cortesía.*
 
 Hay un hecho que vamos a ampliar en próximas entregas. Se trata de una confusión que se ha presentado de parte de los investigadores en los diferentes procesos de Justicia y Paz y en la justicia ordinaria. Por ejemplo, cuando se refieren a los **hermanos Matera Lajud** que hacen parte de **«Los intocables»**, citan a **Rafael y Régulo Matera Lajud**. Pero hay una crasa equivocación. Esto llevaría a que la acusación no se dirija contra la persona indicada. En este caso observamos que el hermano de **Rafael Matera Lajud**, quien, al parecer, es testaferro de **«Jorge 40»**, es **Pascual Matera Lajud** y no **Régulo Matera García**. Éste no tiene nada que ver con los crímenes atribuidos a **Pascual Matera Lajud**, **representante legal de matadero Camagüey**, tal como señala el certificado de la Cámara de de Comercio de Barranquilla.
@@ -117,7 +117,7 @@ En cuanto a Macías, el Fiscal resolvió precluir el delito por el múltiple hom
 
 ## La única condena: ¿Macías determinó asesinato de Noguera?
 
-![«Los intocables»: ¿Macías determinó asesinato de Noguera Aarón?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/Alfonso-Macias_condena-1.jpg)
+![«Los intocables»: ¿Macías determinó asesinato de Noguera Aarón?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/macias-determino-asesinato-de-noguera-aaron-los-intocables-iv/Alfonso-Macias_condena-1.jpg)
 *«Los intocables»: ¿Macías determinó asesinato de Noguera Aarón?*
 
 La pregunta clave que nos propusimos despejar desde el principio: ¿Macías determinó asesinato de Noguera? Como se puede apreciar en esa sentencia con **Ref: 20020047 de 2003** proferida por el **Juzgado Penal del Circuito Especializado de Santa Marta**, todo estaba dado para que fuese juzgado por **determinador del triple crimen**. En el proceso se demostró que participó como ordenador del asesinato. Así lo señalaron cuatro testigos. Todos ellos coincidieron en la frase que uno de los jefes de la escuadra dijo cuando reportó que **"el hecho estaba listo"**.

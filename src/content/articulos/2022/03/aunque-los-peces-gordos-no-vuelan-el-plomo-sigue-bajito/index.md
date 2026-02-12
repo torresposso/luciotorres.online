@@ -5,10 +5,10 @@ pubDate: "2022-03-29 01:43:53"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/aunque-los-peces-gordos-no-vuelan-el-plomo-sigue-bajito/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/aunque-los-peces-gordos-no-vuelan-el-plomo-sigue-bajito/hero.jpg
 ---
 
-![Pese a los operativos y a las Megatomas de la MECAR, el plomo sigue bajito en Cartagena. Cortesía Mecar.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/aunque-los-peces-gordos-no-vuelan-el-plomo-sigue-bajito/hero.jpg)
+![Pese a los operativos y a las Megatomas de la MECAR, el plomo sigue bajito en Cartagena. Cortesía Mecar.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/aunque-los-peces-gordos-no-vuelan-el-plomo-sigue-bajito/hero.jpg)
 *Pese a los operativos y a las Megatomas de la MECAR, el plomo sigue bajito en Cartagena. Cortesía Mecar.*
 
 Sigue el plomo bajito en Cartagena por cuenta de la guerra de los «peces gordos». En tanto que las autoridades policivas desatan una eficaz persecución contra las bandas criminales del país y, particularmente, en Cartagena, ****en el bajo mundo se desarrolla otra guerra mucho más sangrienta.**** ¡Cartagena está bajo el imperio del terror! Después del sábado sangriento, hoy se produjeron tres homicidios. 
@@ -33,7 +33,7 @@ Según la investigación de la Policía, Alexander Simanca tenía 250 delincuent
 
 ## El plomo bajito
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/03/aunque-los-peces-gordos-no-vuelan-el-plomo-sigue-bajito/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/aunque-los-peces-gordos-no-vuelan-el-plomo-sigue-bajito/hero.jpg)
 *Megatomas de la MECAR, pero sigue el plomo bajito.*
 
 Entre tanto, en los barrios extramuros de Cartagena el plomo sigue bajito. El homicidio más frecuente es el de por encargo, el cual se popularizó con la palabra de **sicariato**.

@@ -5,10 +5,10 @@ pubDate: "2024-02-01 11:23:48"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Política"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/la-candelaria-de-magangue-yamilito-descongelo-su-tiempo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/la-candelaria-de-magangue-yamilito-descongelo-su-tiempo/hero.jpg
 ---
 
-![Yamilito descongeló el tiempo en La Candelaria de Magangué](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/la-candelaria-de-magangue-yamilito-descongelo-su-tiempo/hero.jpg)
+![Yamilito descongeló el tiempo en La Candelaria de Magangué](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/la-candelaria-de-magangue-yamilito-descongelo-su-tiempo/hero.jpg)
 *Yamilito descongeló el tiempo en La Candelaria de Magangué.*
 
 El fervor por la Virgen de la Candelaria de Magangué se sintió en este novenario que finalizó anoche. La nota diferente: Yamilito descongeló el tiempo en La Candelaria de Magangué. El gobernador de Bolívar recuperó íntegramente los relojes de la catedral detenidos por más de 40 años. Se detuvieron en 1983. Así, también, se detuvo el desarrollo de nuestra querida ciudad.
@@ -41,7 +41,7 @@ Lo paradójico, 40 años después, Yamilito Arana Padauí, gobernador de Bolíva
 
 El tañido templado de esas campanas volvió a sonar. Las torres comenzaron a tomar vida cada segundo, minuto y hora.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/la-candelaria-de-magangue-yamilito-descongelo-su-tiempo/yamil-arana_2-1024x683.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/la-candelaria-de-magangue-yamilito-descongelo-su-tiempo/yamil-arana_2-1024x683.jpg)
 *Una delas primeras órdenes: recuperar el tiempo.*
 
 La Gobernación de Bolívar, en colaboración con el Instituto de Cultura y Turismo (ICULTUR), la Alcaldía de Magangué y la Diócesis local, se unieron en estas festividades para mantener y rescatar las tradiciones religiosas en el municipio.

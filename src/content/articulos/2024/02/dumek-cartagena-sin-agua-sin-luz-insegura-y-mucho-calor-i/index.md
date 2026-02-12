@@ -5,10 +5,10 @@ pubDate: "2024-02-18 18:37:45"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/hero.jpg
 ---
 
-![Dumek, Cartagena sin agua, sin luz, insegura, y ¡mucho calor!/Aguas de Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/hero.jpg)
+![Dumek, Cartagena sin agua, sin luz, insegura, y ¡mucho calor!/Aguas de Cartagena.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/hero.jpg)
 *Dumek, Cartagena sin agua, sin luz, insegura, y ¡mucho calor!. Aquí, inspeccionando las obras. /Aguas de Cartagena.*
 
 Cartagena sin agua es la nota del momento. En los últimos años la paciencia de _La Heroica_ es como la de Job, quien soportó las pruebas de Dios:  **«¿O por qué tu ropa te acalora cuando Dios detiene el cálido viento del sur?»** Pero, con la nueva administración de **Dumek Turbay**, 50 días después, el panorama de **bienestar sigue siendo preocupante**. Cartagena está sin agua, sin luz, insegura, y ¡mucho calor! Supuestamente durante el contrato de concesión de Aguas de Cartagena se invirtió $1 billón y el principal tubo madre que abastece de agua cruda a la ciudad está inservible.
@@ -25,7 +25,7 @@ Hoy, el alcalde **Dumek Turbay Paz** le pidió ayuda al gobernador de Bolívar, 
 
 ## ¿Nos merecemos esta Cartagena?
 
-![William Dau, el archienemigo de Dumek, fue más ladrón de todos los ladrones.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/WilliamDau_Dume_1.jpg)
+![William Dau, el archienemigo de Dumek, fue más ladrón de todos los ladrones.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/WilliamDau_Dume_1.jpg)
 *William Dau, el archienemigo de Dumek, fue más ladrón de todos los ladrones. El primer accionista de Aguas de Cartagena en ser elegido alcalde. ¿Cómo la ve? El que mucho habla, poco hace.*
 
 ¿Quién nos puede ayudar a cargar esta cruz resultado de nuestros errores? ¿Los cartageneros nos merecemos este panorama oscuro cuando la vida se hace cada día más insoportable en los barrios populares de la ciudad? La respuesta tiene implícita otra pregunta: ¿Quiénes eligen a sus gobernantes?
@@ -39,7 +39,7 @@ Cuatro años después, en muchos barrios impera la ley del hampa, la ley de los 
 ## ¿Por qué Cartagena está sin agua?
 
 ![Dionisio Vélez
-En la alcaldía de Dionisio Vélez pidió anticipadamente la prórroga del contrato de concesión con Aguas de Cartagena. Estuvo involucrado en el escándalo de los Papeles de Panamá.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/Dionisio-Velez.jpeg)
+En la alcaldía de Dionisio Vélez pidió anticipadamente la prórroga del contrato de concesión con Aguas de Cartagena. Estuvo involucrado en el escándalo de los Papeles de Panamá.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/Dionisio-Velez.jpeg)
 *En la alcaldía de Dionisio Vélez pidió anticipadamente la prórroga del contrato de concesión con Aguas de Cartagena. Estuvo involucrado en el escándalo de los Papeles de Panamá.*
 
 Debemos profundizar la causa de la crisis del suministro del agua en Cartagena. Más allá de la rotura del tubo madre, a la altura del barrio Ceballos, que tiene a más de la mitad de la ciudad sin agua, el problema es de corrupción público-privada.
@@ -54,7 +54,7 @@ Hasta ahora se han invertido más de **$253.494 mil millones** de esos recursos 
 
 ## Viaje a Barcelona y Cartagena sin agua
 
-![Gabriel García Romero, primo hermano de Juancho García, fue el primer alcalde en viajar a Barcelona para cuadrar el negociado de Aguas de Cartagena. Sigue recibiendo dinero de las acciones por terceras persoas. ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/Gabriel-Garcia-Romero.jpg)
+![Gabriel García Romero, primo hermano de Juancho García, fue el primer alcalde en viajar a Barcelona para cuadrar el negociado de Aguas de Cartagena. Sigue recibiendo dinero de las acciones por terceras persoas. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/dumek-cartagena-sin-agua-sin-luz-insegura-y-mucho-calor-i/Gabriel-Garcia-Romero.jpg)
 *Gabriel García Romero, primo hermano de Juancho García, fue el primer alcalde en viajar a Barcelona para cuadrar el negociado de Aguas de Cartagena. Sigue recibiendo dinero de las acciones por terceras personas.*
 
 Dato curioso. Todos los alcaldes de Cartagena desde **Gabriel García Romero** hasta el demente de **William Dau**, debieron llegar a Barcelona, una vez se posesionaron o ganaron las elecciones. ¿Ya lo hizo Dumek?

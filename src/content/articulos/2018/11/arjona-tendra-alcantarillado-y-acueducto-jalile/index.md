@@ -5,10 +5,10 @@ pubDate: "2018-11-16 14:31:47"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/arjona-tendra-alcantarillado-y-acueducto-jalile/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/arjona-tendra-alcantarillado-y-acueducto-jalile/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/arjona-tendra-alcantarillado-y-acueducto-jalile/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/arjona-tendra-alcantarillado-y-acueducto-jalile/hero.jpg)
 
 A **Esther María Jalilie García** solo le falta un poco más de un año para que finalice sin ningún problema su período como alcaldesa de **Arjona, Bolívar**. Y una de sus obras que desearía culminar, con todo su corazón, es el alcantarillado municipal, puesto que el **acueducto Arjona-Turbaco** ya está avanzado en un 90%. **Jalilie no lo duda, Arjona tendrá alcantarillado**.
 
@@ -20,7 +20,7 @@ Eso es tan cierto que cuando habla sobre el tema, sus ojos se iluminan:
 > 
 > **Esther maría Jalilie García,** alcaldesa de Arjona.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/arjona-tendra-alcantarillado-y-acueducto-jalile/3ea405b9-1738-434c-8b2f-b1e1b1600ac2)![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2018/11/arjona-tendra-alcantarillado-y-acueducto-jalile/esther-maria-jalile-posesion.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/arjona-tendra-alcantarillado-y-acueducto-jalile/3ea405b9-1738-434c-8b2f-b1e1b1600ac2)![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/arjona-tendra-alcantarillado-y-acueducto-jalile/esther-maria-jalile-posesion.jpg)
 *La posesión de Esther María Jalilie como alcaldesa.*
 
 Con los $8 mil millones se asegurará la **construcción del 50% de la laguna de oxidación** y un **25% de las redes del alcantarillado**. Se espera gestionar más recursos con el gobernador de Bolívar, **Dumek Turbay Paz**, o con el gobierno nacional para ampliar a un 50% las redes con el fin de que gran parte de la población goce de saneamiento básico.

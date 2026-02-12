@@ -5,12 +5,12 @@ pubDate: "2021-05-14 22:50:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-las-jornadas-de-abril-mayo-anuncian-la-primavera-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/en-colombia-las-jornadas-de-abril-mayo-anuncian-la-primavera-ii/hero.jpg
 ---
 
 «**La primavera ha venido, nadie sabe cómo ha sido» (Antonio Machado).**
 
-\[caption id="attachment\_15024" align="aligncenter" width="810"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-las-jornadas-de-abril-mayo-anuncian-la-primavera-ii/hero.jpg) Así ataca el ESMAD a los jóvenes en esta la primavera colombiaLa.\[/caption\]
+\[caption id="attachment\_15024" align="aligncenter" width="810"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/en-colombia-las-jornadas-de-abril-mayo-anuncian-la-primavera-ii/hero.jpg) Así ataca el ESMAD a los jóvenes en esta la primavera colombiaLa.\[/caption\]
 
 Van 16 días de constante acción social.  Y siguen los crímenes de Estado. **La muerte de Marcelo Agredo Inchima, Cristian Moncayo, Stiven Sevillano Perea, Charlie Parra Banguera por la Policía Nacional en Cali.​** El estudiante Juan Diego Perdomo Monroy, en Neiva y 35 muertos más en todo el país, son flores que arrancaron en las jornadas de abril y mayo del 2021.
 
@@ -22,7 +22,7 @@ La reforma pretendía descargar el peso de la crisis económica sobre la clase m
 
 ## Golpe al modelo neoliberal
 
-\[caption id="attachment\_15025" align="alignnone" width="691"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/05/en-colombia-las-jornadas-de-abril-mayo-anuncian-la-primavera-ii/paro-nacional-1.jpeg) Las marchas continúa en la primavera de abril-mayo.\[/caption\]
+\[caption id="attachment\_15025" align="alignnone" width="691"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/en-colombia-las-jornadas-de-abril-mayo-anuncian-la-primavera-ii/paro-nacional-1.jpeg) Las marchas continúa en la primavera de abril-mayo.\[/caption\]
 
 **Retirar la reforma fue la mayor derrota al modelo neoliberal de que se tenga noticia.** Dos días antes, el 30 de abril, el FMI felicitaba a Duque y a Carrasquilla por la Reforma.  Esa celebración se le convirtió en una mueca cuando el pueblo la derrotaría en las calles. El presidente Duque tambaleó y retrocedió. El movimiento empezaba a engullirse al régimen. En la medida que se hacía más débil, reprimía con más brutalidad a los jóvenes. Entre tanto **Álvaro Uribe Vélez** llamaba desde su tuiter a desatar más violencia contra el pueblo. (Entra con escenas de violencia).
 

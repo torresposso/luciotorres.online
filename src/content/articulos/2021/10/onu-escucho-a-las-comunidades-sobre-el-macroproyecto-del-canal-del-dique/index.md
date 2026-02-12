@@ -5,10 +5,10 @@ pubDate: "2021-10-02 00:13:54"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/onu-escucho-a-las-comunidades-sobre-el-macroproyecto-del-canal-del-dique/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/onu-escucho-a-las-comunidades-sobre-el-macroproyecto-del-canal-del-dique/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/onu-escucho-a-las-comunidades-sobre-el-macroproyecto-del-canal-del-dique/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/onu-escucho-a-las-comunidades-sobre-el-macroproyecto-del-canal-del-dique/hero.jpg)
 *La Onu escuchó a la gente. La Alianza para el Desarrollo y Defensa del Territorio Canal del Dique con las funcionarias de la ONU en la sede de VoxPopuli Corporación. Foto Camilo Torres.*
 
 La Organización de Naciones Unidas—ONU escuchó hoy a las comunidades sobre el impacto del macropoyecto del Canal del Dique. Fue bautizada por la ANI como **«Restauración de los Ecosistemas Degrados del Canal del Dique».** Esta megaobra afectará directamente a más de 150 mil personas, en su mayoría, comunidades afros que habitan en sus alrededores.
@@ -29,7 +29,7 @@ Es así que la reunión se efectuó en la sede de la Escuela de Liderazgo y Empr
 
 ## La ONU escuchó a las comunidades del Canal del Dique
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/onu-escucho-a-las-comunidades-sobre-el-macroproyecto-del-canal-del-dique/Funcionarias-de-la-ONU.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/onu-escucho-a-las-comunidades-sobre-el-macroproyecto-del-canal-del-dique/Funcionarias-de-la-ONU.jpg)
 *Las tres funcionarias de la ONU que estuvieron en la reunión con la Alianza Canal del Dique.*
 
 Las funcionarias de la ONU escucharon y preguntaron activamente durante las cinco horas en la que duró el encuentro. Fue una reunión productiva y rica en evidencias. Por lo cual se programó un nuevo encuentro con la ONU y otros organismos internacionales de derechos humanos. Ese nuevo encuentro se debe efectuar en el mes de noviembre con la asistencia de expertos ambientales de la ONU.
@@ -48,7 +48,7 @@ Amaranto del consejo comunitario de Boca Cerrada, corregimiento de San Onofre Su
 
 En tanto que los líderes de las asambleas de los consejos comunitarios de Lomas de Matunilla, Puerto Badel, Rocha, El Recreo, Leticia, Boca Cerrada, San Pablo, Pasacaballos, coincidieron en solicitarles a las funcionarias de la ONU su intervención. Le pidieron a ese organismo internacional para que haga un acompañamiento al tema de las consultas previas. Consideran que estas consultas efectivamente no se han hecho. Consideran que fue un simulacro, al tiempo que corrompiieron a algunos líderes de juntas directivas de consejos comunitarios. 
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/onu-escucho-a-las-comunidades-sobre-el-macroproyecto-del-canal-del-dique/MANUEL-FELIPE-GUTIERREZ.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/onu-escucho-a-las-comunidades-sobre-el-macroproyecto-del-canal-del-dique/MANUEL-FELIPE-GUTIERREZ.jpg)
 *Manuel Felipe Gutiérrez, presidente de ANI. Pero la ONU escuchó a la comunidad afro que será afectada por el macroproyecto del Canal del Dique.*
 
 De igual manera denunciaron ante la ONU que la ANI y el ministerio del Interior vienen violando el derecho a la autodeterminación de los pueblos afros. Expresaron que el Ministerio Público no se ha hecho presente para escuchar sus denuncias. Solo se han visto a sus funcionarios para legalizar y legitimar las consultas en los protocolas de finalización de las mismas. Pero no les hicieron acompañamientos durante su presunta realización de dichas consultas. Muchas de las cuales las hicieron en los patios de casas particulares para no dejar participar a otros líderes que denunciaron una manguala con la ANI.
@@ -59,7 +59,7 @@ Fredy Martinez de la asamblea del consejo comunitario de Puertio Badel, Arjona B
 
 ## Denunciaron a alcaldes cómplices
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/onu-escucho-a-las-comunidades-sobre-el-macroproyecto-del-canal-del-dique/Jesus-Julio-alcalde-de-San-Onofre.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/onu-escucho-a-las-comunidades-sobre-el-macroproyecto-del-canal-del-dique/Jesus-Julio-alcalde-de-San-Onofre.jpg)
 *Jesús Hernando Julio Teherán, a pesar de ser afro, es uno de los cómplices de la manguala de la ANI, denuncia la comunidad de Boca Cerrada.*
 
 La maniobra que han adoptado también tiene la complicidad de los entes territoriales como las alcaldías de **Arjona, Turbana y San Onofre (sucre)**. Por ejemplo, a la junta directiva de Boca Cerrada, corregimiento de San Onofre, el nuevo alcalde, Jesús Hernando Julio Teherán de la Alianza Democrática Afrocolombiana, le revocó su mandato faltándole un año para el vencimiento de su período. En su lugar instalaron una junta directiva de bolsillo para darle paso a la consulta de la ANI. Lo mismo sucedió con el municipio de Arjona que invalidó las elecciones de las asambleas de los consejos comunitarios de Puerto Badel y de Rocha. ¿Por qué? Porque sus nuevos directivos habían rechazado las consecuencias nefastas que el macroporyecto traería para las comunidades.

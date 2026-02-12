@@ -5,12 +5,12 @@ pubDate: "2022-06-28 19:32:31"
 author: "Lucio"
 categories: ["Investigación","Podcast"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/redisenar-el-proyecto-del-pot-y-censurar-al-secretario-de-planeacion-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/redisenar-el-proyecto-del-pot-y-censurar-al-secretario-de-planeacion-i/hero.jpg
 ---
 
 Proponer el rediseño del proyecto del POT e iniciar un proceso de moción de censura se podría emprender en el concejo de Cartagena. Aparentemente existe una incompetencia del secretario de Planeación, el economista **Franklin Amador Hawkins**, de formular un proyecto integral de alta factura. La secretaría de Planeación es tan clave como la de Hacienda, cuyos indicadores de resultados son deficitarios y deben ser controlados por el concejo Distrital.
 
-![¿El concejo puede candidatizar al secretario de planeación de Cartagena para una moción de censura? ¿Es necesario rediseñar el proyecto del POT.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/redisenar-el-proyecto-del-pot-y-censurar-al-secretario-de-planeacion-i/hero.jpg)
+![¿El concejo puede candidatizar al secretario de planeación de Cartagena para una moción de censura? ¿Es necesario rediseñar el proyecto del POT.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/redisenar-el-proyecto-del-pot-y-censurar-al-secretario-de-planeacion-i/hero.jpg)
 *¿El concejo puede candidatizar al secretario de planeación de Cartagena para una moción de censura? ¿Es necesario rediseñar el proyecto del POT.*
 
 Todo indica que la secretaría de Planeación de Cartagena se suma a la mayoría de las dependencias del Distrito por su ineptitud y falta de gestión. Algunas voces indican que el proyecto debe ser reformulado para ponerlo a tono con las reales necesidades urbanísticas de la ciudad. También se pide al concejo distrital que contemple la idea de iniciar un proceso de moción de censura contra el secretario de Planeación. Su incapacidad institucional para sacar adelante procesos claves para el desarrollo de las comunidades, es diciente.
@@ -41,7 +41,7 @@ De acuerdo con la información del Distrito, en el foro se abordarán tres líne
 
 El concejal de la U, César Pión, en uno de los debates del concejo manifestó que el proyecto del POT se debe rediseñar. El actual proyecto no sirve para los propósitos de desarrollo urbano y rural del Distrito de Cartagena. No se garantiza el equilibrio ambiental y tampoco garantiza la detención del franco deterioro del sistema lagunar y los cuerpos de agua.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/redisenar-el-proyecto-del-pot-y-censurar-al-secretario-de-planeacion-i/CESAR-AUGUSTO-PION-GONZALEZ-200x300-1.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/redisenar-el-proyecto-del-pot-y-censurar-al-secretario-de-planeacion-i/CESAR-AUGUSTO-PION-GONZALEZ-200x300-1.jpg)
 
 > "Se deben retomar las mesas de trabajo, incluyendo al Concejo y expertos en la materia para revisar el Plan de Ordenamiento que se trabaja en la actualidad debido a que no se están tomando los factores de riesgo que permitirán delimitar y definir el uso de cada área de la ciudad”
 > 
@@ -49,7 +49,7 @@ El concejal de la U, César Pión, en uno de los debates del concejo manifestó 
 
 ## Sin enfoque de DDHH
 
-![Memorando de entendimiento firmado el 4 de marzo de 2022 con representantes del Centro Regional de Empresas y Emprendimientos Responsables (CREER). Una iniciativa que no se ve reflejada en el proyecto del POT.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/redisenar-el-proyecto-del-pot-y-censurar-al-secretario-de-planeacion-i/POT-ENFOQUE.jpeg)
+![Memorando de entendimiento firmado el 4 de marzo de 2022 con representantes del Centro Regional de Empresas y Emprendimientos Responsables (CREER). Una iniciativa que no se ve reflejada en el proyecto del POT.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/redisenar-el-proyecto-del-pot-y-censurar-al-secretario-de-planeacion-i/POT-ENFOQUE.jpeg)
 *Memorando de entendimiento firmado el 4 de marzo de 2022 con representantes del Centro Regional de Empresas y Emprendimientos Responsables (CREER). Una iniciativa que no se ve reflejada en el proyecto del POT.*
 
 Otras de las críticas que se proponen es que el enfoque de derechos humanos no es claro en el proyecto del POT. Este hecho desdice del memorando de entendimiento firmado con representantes del Centro Regional de Empresas y Emprendimientos Responsables (CREER). Esta es filial latinoamericana del Institute of **Human Rights and Business** (IHRB), con el propósito de lograr colaboración conjunta en la incorporación de un enfoque de derechos humanos al Plan de Ordenamiento Territorial (POT).

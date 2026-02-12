@@ -5,7 +5,7 @@ pubDate: "2022-04-07 00:53:51"
 author: "Lucio"
 categories: ["Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/mira-la-teoria-del-hombre-de-atras-en-el-complot-contra-gloria-estrada/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/mira-la-teoria-del-hombre-de-atras-en-el-complot-contra-gloria-estrada/hero.jpg
 ---
 
 Mira este video donde **VoxPopuli Digital** expone la importancia de la teoría del «hombre de atrás» en el Caso de **Gloria Estrada.**

@@ -5,7 +5,7 @@ pubDate: "2020-11-03 01:04:48"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/se-acabo-el-embrujo-del-alcalde-malandro-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/11/se-acabo-el-embrujo-del-alcalde-malandro-i/hero.jpg
 ---
 
 ¿Se acabó el embrujo del alcalde malandro? Diferentes voces disidentes de «Salvemos a Cartagena» se están escuchando desde su interior. Y apenas se cumplió un año del triunfo del hoy alcalde malandro, William Dau Chamat. La desilusión no se hizo esperar entre la gente que honestamente le acompañó. **Pero estos hechos confirman lo informado, analizado e investigado por Vox Populi Digital: William Dau es un malandro** **disfrazado** **de anticorrupción**. Los cuestionamientos no vienen desde los denominados «malandrines». Por el contrario, son varios sectores que están denunciando sus actos de corrupción. También por haberse amangualado con dos sectores de la mafia política local: los Aráujo y los Char. Son críticas que marcan la decadencia de un efímero movimiento que tiene en su cabeza a un malandro disfrazado de alcalde.
@@ -32,7 +32,7 @@ Y siguió su arremetida.
 
 ## El Escribidor: «Pa' gaznatearlo»
 
-\[caption id="attachment\_13106" align="aligncenter" width="702"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/se-acabo-el-embrujo-del-alcalde-malandro-i/hero.jpg) El embrujo del alcalde. El Escribidor no resistió. ¿Qué lo hizo desembrujar? El maquillaje descorrido del malandro disfrazado de alcalde.\[/caption\] Como siempre, Dau respondió que él no gobierna con malandrines, ni con los Char. Ante ello, El Escribidor le mandó un dardo en la yugular:
+\[caption id="attachment\_13106" align="aligncenter" width="702"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/11/se-acabo-el-embrujo-del-alcalde-malandro-i/hero.jpg) El embrujo del alcalde. El Escribidor no resistió. ¿Qué lo hizo desembrujar? El maquillaje descorrido del malandro disfrazado de alcalde.\[/caption\] Como siempre, Dau respondió que él no gobierna con malandrines, ni con los Char. Ante ello, El Escribidor le mandó un dardo en la yugular:
 
 > _«El Alcalde afirma que el no gobierna con nadie (sin partidos políticos) pero a mi me gusta debatir con pruebas y sin pasiones, relación Dau-Char, los funcionarios **Sindry Camargo** actual **Gerente de Transcaribe** (Trabajó en la Alcaldia de Barranquilla periodo Char- Transmetro), **Janer Galvan** actual Director del DATT (Trabajó en la Alcaldia Char en Movilidad), **Luis Villadiego actual Secretario de Infraestructura** (Trabajó como contratista de la Alcaldia Char con la empresa Lugsos la cual gerenciaba). Muchos de ellos han traído sus equipos de Barranquilla. (...) Si con pruebas me refutan esto yo borro mis publicaciones y pido disculpas. **Posdata**: Si estoy mintiendo y/o injuriando, pueden denunciarme»._
 
@@ -42,7 +42,7 @@ Y El Escribidor, le dio otro latigazo al alcalde malandro.
 
 Chulián Quiñones y el embrujo del alcalde
 
-\[caption id="attachment\_13107" align="aligncenter" width="702"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/11/se-acabo-el-embrujo-del-alcalde-malandro-i/Jackichul2-1024x668.jpg) Se terminó el embrujo del alcalde. Este es Chulián Quiñones, activista anticorrupción.\[/caption\] Es el ideólogo de un importante sector de **«Salvemos a Cartagena».** Fue pionero desde 2014 que crearon esa página. En 2004 propusimos Salvemos a Cartagena. Sugirió el nombre de **David Múnera** para la Secretaría del Interior. Dau se la había ofrecido a **Chulián Quiñones**, según fuentes muy cercanas. Por tanto, si Múnera tiene dignidad, deberá entregar su carta de renuncia esta semana.
+\[caption id="attachment\_13107" align="aligncenter" width="702"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/11/se-acabo-el-embrujo-del-alcalde-malandro-i/Jackichul2-1024x668.jpg) Se terminó el embrujo del alcalde. Este es Chulián Quiñones, activista anticorrupción.\[/caption\] Es el ideólogo de un importante sector de **«Salvemos a Cartagena».** Fue pionero desde 2014 que crearon esa página. En 2004 propusimos Salvemos a Cartagena. Sugirió el nombre de **David Múnera** para la Secretaría del Interior. Dau se la había ofrecido a **Chulián Quiñones**, según fuentes muy cercanas. Por tanto, si Múnera tiene dignidad, deberá entregar su carta de renuncia esta semana.
 
 _«Yo hablo públicamente a nombre de nuestro movimiento social "CARTAGENA ES PRIMERO" y muchos otros pero me desmarco del que representa a Dau y con esto me desvinculo completamente de él. (...) No estoy de acuerdo con la cuna de malandrines que hay en la actual administración y a la que no represento. Ojalá el alcalde rectifique y sea consecuente con su discurso anticorrupción que prometió en campaña y no con lo que estamos viendo actualmente en el Palacio de la Aduana . (...) **El pueblo está siendo traicionado y yo no quiero hacer parte de esa traición** y por tal motivo dejo claro que no tengo nada que ver con Dau **y que solamente nos unía la lucha anticorrupción que yo pensaba que era igual a la mía... pero no!**»._
 

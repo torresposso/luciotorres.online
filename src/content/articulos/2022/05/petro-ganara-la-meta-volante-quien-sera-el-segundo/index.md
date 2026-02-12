@@ -5,10 +5,10 @@ pubDate: "2022-05-23 03:27:07"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-ganara-la-meta-volante-quien-sera-el-segundo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/petro-ganara-la-meta-volante-quien-sera-el-segundo/hero.jpg
 ---
 
-![¿Quién será el segundo en esta primera vuelta? ¿Fico o Rodolfo? ¿Petro ganará en primera vuelta?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-ganara-la-meta-volante-quien-sera-el-segundo/hero.jpg)
+![¿Quién será el segundo en esta primera vuelta? ¿Fico o Rodolfo? ¿Petro ganará en primera vuelta?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/petro-ganara-la-meta-volante-quien-sera-el-segundo/hero.jpg)
 *¿Quién será el segundo en esta primera vuelta? ¿Fico o Rodolfo? ¿Petro ganará en primera vuelta?*
 
 En las elecciones presidenciales **Petro ganará**, sin lugar a equívocos, en la meta volante del 29 de mayo. Pero ¿quién será el segundo que pasará para las elecciones definitivas del 19 de junio? Las diferentes encuestas que a esta hora se han realizado indican, sin duda,  que habrá segunda vuelta y que **Federico «Fico» Gutiérrez** sería el segundo. Pero, en una de las encuestas conocidas esta semana, expresa que **Rodolfo Hernández** prácticamente tiene alcanzado al candidato del Equipo  por Colombia. Sergio Fajardo es el principal damnificado, pues, aparece eliminado de cualquier posibilidad de entrar a segunda vuelta. Pero sería la llave para abrir la puerta presidencial de Rodolfo Hernández.
@@ -29,7 +29,7 @@ Si esta semana Gustavo Petro disminuye el miedo a una eventual presidencia suya,
 
 ## Hernández y Fajardo a un Golpe de opinión
 
-![Petro ganará ¿Se unirá Fajardo a Rodolfo? ¿Fajardo tiene la llave para que Rodolfo llegue a segunda vuelta? ](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/05/petro-ganara-la-meta-volante-quien-sera-el-segundo/Fajardo_Hernandez.jpg)
+![Petro ganará ¿Se unirá Fajardo a Rodolfo? ¿Fajardo tiene la llave para que Rodolfo llegue a segunda vuelta? ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/petro-ganara-la-meta-volante-quien-sera-el-segundo/Fajardo_Hernandez.jpg)
 *¿Se unirá Fajardo a Rodolfo? ¿Fajardo tiene la llave para que Rodolfo llegue a segunda vuelta?*
 
 Ahora bien, si **Rodolfo Hernández** le pone un poco más de organización y de recursos a su campaña y si tiene el apoyo de Fajardo, junto con **Ingrid Betancourt**, podría dar la sorpresa política del momento. La unión de Fajardo e Ingrid Betancourt al ingeniero **sería el golpe de opinión que catapultaría su candidatura para la segunda vuelta**. ¿Entiende esto su primer anillo político residente en Bucaramanga? 

@@ -5,7 +5,7 @@ pubDate: "2020-04-01 16:16:45"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/defender-derechos-humanos-se-hace-mas-costoso-en-venezuela/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/04/defender-derechos-humanos-se-hace-mas-costoso-en-venezuela/hero.jpg
 ---
 
 ## ESCUCHE LA ENTREVISTA CON GERARDO GUERRA
@@ -14,7 +14,7 @@ https://youtu.be/yAjJE2ZUnkc La sola lectura de un expediente de un procesado en
 
 ## ¿Derechos Humanos?
 
-Por esa razón, **las cárceles venezolanas se han convertido en centros donde los internos no tienen la posibilidad de reformarse** y salen, en su mayoría, más descompuestos. Cada día se vuelve más crítica la situación de los derechos humanos, aseguró uno de los líderes de derechos humanos de Venezuela. \[caption id="attachment\_11354" align="aligncenter" width="593"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/defender-derechos-humanos-se-hace-mas-costoso-en-venezuela/hero.jpg) Cada día se hace más difícil la defensa de los derechos humanos en Venezuela, dice Gerardo Guerra, defensor de los derechos humanos. Cortesía.\[/caption\] **Gerardo Guerra le hace un llamado al fiscal Tarek William Saab** para que averigue, **por qué se está violentando el artículo 21 de la constitución**, ya que la justicia es un negocio en la realidad. El artículo 21 dice:
+Por esa razón, **las cárceles venezolanas se han convertido en centros donde los internos no tienen la posibilidad de reformarse** y salen, en su mayoría, más descompuestos. Cada día se vuelve más crítica la situación de los derechos humanos, aseguró uno de los líderes de derechos humanos de Venezuela. \[caption id="attachment\_11354" align="aligncenter" width="593"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/04/defender-derechos-humanos-se-hace-mas-costoso-en-venezuela/hero.jpg) Cada día se hace más difícil la defensa de los derechos humanos en Venezuela, dice Gerardo Guerra, defensor de los derechos humanos. Cortesía.\[/caption\] **Gerardo Guerra le hace un llamado al fiscal Tarek William Saab** para que averigue, **por qué se está violentando el artículo 21 de la constitución**, ya que la justicia es un negocio en la realidad. El artículo 21 dice:
 
 > _No se permitirán discriminaciones fundadas en la raza, el sexo, el credo, la condición social o aquellas que, en general, tengan por objeto o por resultado anular o menoscabar el reconocimiento, **goce o ejercicio en condiciones de igualdad, de los derechos y libertades de toda persona**._
 

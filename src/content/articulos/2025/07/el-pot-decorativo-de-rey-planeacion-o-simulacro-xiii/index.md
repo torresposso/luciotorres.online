@@ -5,10 +5,10 @@ pubDate: "2025-07-31 03:40:15"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pot-decorativo-de-rey-planeacion-o-simulacro-xiii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-decorativo-de-rey-planeacion-o-simulacro-xiii/hero.jpg
 ---
 
-![El POT decorativo de Rey: ¿Planeación o simulacro?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/el-pot-decorativo-de-rey-planeacion-o-simulacro-xiii/hero.jpg)
+![El POT decorativo de Rey: ¿Planeación o simulacro?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-decorativo-de-rey-planeacion-o-simulacro-xiii/hero.jpg)
 *El POT decorativo de Rey: ¿Planeación o simulacro?*
 
 Cartagena no necesita un POT decorativo. Necesita un instrumento técnico, ético y territorial que responda a las realidades de su gente y a los desafíos de su suelo. **Pero lo que tenemos hasta hoy es un simulacro.** Y el responsable directo de esta ficción institucional es el Secretario de Planeación Distrital, **Camilo Rey Sabogal**, quien no superó el examen de **las 150 preguntas** formuladas con rigor técnico y jurídico. ¿Resultado? **Un déficit de conocimiento que raya en la irresponsabilidad funcional**.

@@ -5,10 +5,10 @@ pubDate: "2024-06-27 12:29:00"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-entre-el-progresismo-y-el-regresismo-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/petro-entre-el-progresismo-y-el-regresismo-i/hero.jpg
 ---
 
-![¿Entre el progresismo y el «regresismo»? El nuevo escándalo que rodea al gobierno progresista de Petro. A la izquierda, el presidente con Jaime Ramírez Carbó (29 de mayo de 2022), hoy su enlace con el congreso. A la derecha, Laura Sarabia Torres y su séquito (29 de agosto? ¿Pueden observar a Marelbis Meza?/Suministrada.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-entre-el-progresismo-y-el-regresismo-i/Petro_laura_Ramirez.jpeg)
+![¿Entre el progresismo y el «regresismo»? El nuevo escándalo que rodea al gobierno progresista de Petro. A la izquierda, el presidente con Jaime Ramírez Carbó (29 de mayo de 2022), hoy su enlace con el congreso. A la derecha, Laura Sarabia Torres y su séquito (29 de agosto? ¿Pueden observar a Marelbis Meza?/Suministrada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/petro-entre-el-progresismo-y-el-regresismo-i/Petro_laura_Ramirez.jpeg)
 *¿Entre el progresismo y el «regresismo»? El nuevo escándalo que rodea al gobierno progresista de Petro. A la izquierda, el presidente con Jaime Ramírez Carbó (29 de mayo de 2022), hoy su enlace con el congreso. A la derecha, Laura Sarabia Torres y su séquito (29 de agosto? ¿Pueden observar a Marelbis Meza?/Suministrada.*
 
 La relación conflictiva y no armónica del gobierno de Gustavo Petro con los demás poderes políticos del Estado colombiano no es pacífica. La hostilidad de los poderes públicos nos propone una pregunta imperativa: **¿salto o asalto del progresismo?** O esta: ¿Salto cuantitativo y cualitativo de la justicia social o asalto de los ideales progresistas? Estas preguntas nos llevan a otra relevante: ¿**_Progresismo_** o **_regresismo_**?
@@ -53,7 +53,7 @@ En esta entrega, analizamos tres del **top 10** que propone la pregunta ¿**_pro
 
 ## 1\. La fractura interna: **«**fuego amigo**»**
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-entre-el-progresismo-y-el-regresismo-i/Veronica_alcocer.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/petro-entre-el-progresismo-y-el-regresismo-i/Veronica_alcocer.jpeg)
 *Veronica Alcocer: progresismo o regresismo./Cortesía.*
 
 El **«**fuego amigo**»** que ahora amenaza la tranquilidad de **Verónica Alcocer** y, por supuesto de su esposo, el **presidente Gustavo Petro**, indicaría que la **crisis moral** del círculo de poder familiar y del **Pacto Histórico** se está agrietando. Este hecho, sin equívocos, debilitará aún más al gobierno nacional que estará a merced de los grupos de poder. El problema no solo son los chats de un grupo de WhatsApp de personas vinculadas al gobierno donde se denuncia el tráfico de influencia, sino el volcán que se encuentra activado desde su interior.
@@ -62,7 +62,7 @@ En tanto que la idea de Petro ―según algunos de sus allegados políticos― d
 
 ## 2\. La rebelión de Colombia Humana
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/06/petro-entre-el-progresismo-y-el-regresismo-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/petro-entre-el-progresismo-y-el-regresismo-i/hero.jpg)
 *Carmen Anachury (der.) no quiere convocar la Asamblea Nacional de la Colombia Humana. Petro fue el primer Secretario General, le sucedió Susana Muhamad.*
 
 Según voceros de los convocantes de esa asamblea extraordinaria, la dirección provisional de la Colombia Humana encabezada por la cartagenera **Carmen Anachury**, ha aplazado ¡seis (6) veces! la asamblea nacional. Algunos la cuestionan porque funge de orácula del presidente Petro en CH. De manera, que la máxima autoridad del partido de gobierno no sesiona desde hace dos años y medio.

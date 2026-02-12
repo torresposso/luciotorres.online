@@ -5,10 +5,10 @@ pubDate: "2022-06-23 01:08:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/magistrado-simancas-torres-vuela-al-cielo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/magistrado-simancas-torres-vuela-al-cielo/hero.jpg
 ---
 
-!["El magistrado" Simancas Torres al lado de su amada hija, Janeth Simancas Guardo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/06/magistrado-simancas-torres-vuela-al-cielo/hero.jpg)
+!["El magistrado" Simancas Torres al lado de su amada hija, Janeth Simancas Guardo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/magistrado-simancas-torres-vuela-al-cielo/hero.jpg)
 *"El magistrado Libardo Simancas Torres al lado de su amada hija, Janeth Simancas Guardo.*
 
 En la tarde de hoy, miércoles, se cumplieron en Arjona Bolívar las exequias del exgobernador y exdiputado Libardo Simancas Torres. Lo veía como "el magistrado" Simancas. Y no un político. No fue gratuito que recibiera un homenaje póstumo en la Universidad de Cartagena donde se desempeñó como profesor. Era un abogado constitucionalista y penalista. El día anterior le sobrevino un infarto fulminante que terminó con sus 71 años de vida.

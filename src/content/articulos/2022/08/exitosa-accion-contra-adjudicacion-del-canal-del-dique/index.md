@@ -5,10 +5,10 @@ pubDate: "2022-08-02 16:17:36"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/exitosa-accion-contra-adjudicacion-del-canal-del-dique/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/exitosa-accion-contra-adjudicacion-del-canal-del-dique/hero.jpg
 ---
 
-![Así titulamos cuando se abrió la licitación el 22 de enero. La adjudicación del Canal del Dique será un hecho este 4 de agosto a manos que una acción judicial lo detenga. La Alianza para la Defensa Canal del Dique le apunta a eso.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/exitosa-accion-contra-adjudicacion-del-canal-del-dique/hero.jpg)
+![Así titulamos cuando se abrió la licitación el 22 de enero. La adjudicación del Canal del Dique será un hecho este 4 de agosto a manos que una acción judicial lo detenga. La Alianza para la Defensa Canal del Dique le apunta a eso.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/exitosa-accion-contra-adjudicacion-del-canal-del-dique/hero.jpg)
 *Así titulamos cuando se abrió la licitación el 22 de enero. La adjudicación del Canal del Dique será un hecho este 4 de agosto a manos que una acción judicial lo detenga. La Alianza para la Defensa Canal del Dique le apunta a eso.*
 
 Mediante acción directa, las comunidades de pescadores y campesinos rechazaron la **adjudicación del Canal del Dique** a la única oferente de la licitación que se tiene prevista para el próximo jueves 4 de agosto. Esta acción se hizo con las **"marchas de las canoas"** y la toma directa de los puentes de Gambote, Calamar y Soplaviento.
@@ -33,7 +33,7 @@ En esa obra el Fondo de Adaptación debió pagar adicionalmente $24 mil millones
 
 ## Un proyecto económico
 
-![Duque se quiere despedir con la adjudicación del Canal del Dique a la firma española Sacyr. Es un atentado al medio ambiente y a la seguridad alimentaria.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/exitosa-accion-contra-adjudicacion-del-canal-del-dique/canal-del-dique-yuca.jpeg)
+![Duque se quiere despedir con la adjudicación del Canal del Dique a la firma española Sacyr. Es un atentado al medio ambiente y a la seguridad alimentaria.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/exitosa-accion-contra-adjudicacion-del-canal-del-dique/canal-del-dique-yuca.jpeg)
 *Duque se quiere despedir con la adjudicación del Canal del Dique a la firma española Sacyr. Es un atentado al medio ambiente y a la seguridad alimentaria.*
 
 El macroproyecto "Restauración de los Ecosistemas Degradados del Canal del Dique" fue concebido para atender los embates del cambio climático. Ha sido vendido por el gobierno de Duque como la apuesta más importante en este sector. Pero, en realidad, es un proyecto netamente económico. Si uno observa el pliego, el aspecto social es una añadidura, lo cual debe ser lo contrario.

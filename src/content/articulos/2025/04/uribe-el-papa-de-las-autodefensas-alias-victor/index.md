@@ -5,10 +5,10 @@ pubDate: "2025-04-08 17:56:01"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/uribe-el-papa-de-las-autodefensas-alias-victor/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/uribe-el-papa-de-las-autodefensas-alias-victor/hero.jpg
 ---
 
-![«Uribe, el papá de las Autodefensas»: alias «Víctor»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/uribe-el-papa-de-las-autodefensas-alias-victor/URIBE-EN-LA-PICOTA-1024x565.jpeg)
+![«Uribe, el papá de las Autodefensas»: alias «Víctor»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/uribe-el-papa-de-las-autodefensas-alias-victor/URIBE-EN-LA-PICOTA-1024x565.jpeg)
 *«Uribe, el papá de las Autodefensas»: alias «Víctor»*
 
 En las sabanas del Bolívar Grande se decía que los burros se juntan para rascarse. Asimismo hacen los bandidos que se juntan para cometer sus fechorías. **Carlos Enrique Vélez, alias «Víctor»**, fue **condenado por la masacre de La Herradura**, ocurrida el 8 de junio de 2003 en Riosucio (Caldas). Con su declaración en el juicio, la Fiscalía puso contra la pared al expresidente **Álvaro Uribe.** Aunque la defensa en el contrainterrogatorio intentó desacreditar su intervención para tratar de confundirlo, no lo consiguió. Se mantuvo en confirmar que su abogado **Diego Cadena** lo sobornó para cambiar el sentido de su testimonio.
@@ -45,7 +45,7 @@ La defensa, en el contrainterrogatorio del 8 de abril, quiso hacer caer en contr
 
 ## El perfil de alias «Víctor»
 
-![Alias «Víctor» frente al abogado Jaime Granados en el contrainterrogatorio del 8 de abril.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/uribe-el-papa-de-las-autodefensas-alias-victor/alias-victor_solo-1024x718.jpeg)
+![Alias «Víctor» frente al abogado Jaime Granados en el contrainterrogatorio del 8 de abril.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/uribe-el-papa-de-las-autodefensas-alias-victor/alias-victor_solo-1024x718.jpeg)
 *Alias «Víctor» frente al abogado Jaime Granados en el contrainterrogatorio del 8 de abril.*
 
 Según su propio testimonio y registros judiciales, este es el perfil de alias «Víctor»:
@@ -62,7 +62,7 @@ Como se dijo, Carlos Enrique Vélez fue **condenado por la masacre de La Herrad
 
 ## Un testigo clave contra Uribe
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/04/uribe-el-papa-de-las-autodefensas-alias-victor/Alias-Victor.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/uribe-el-papa-de-las-autodefensas-alias-victor/Alias-Victor.jpeg)
 *La declaración de alias «Víctor» fue contundente: «Uribe, el papá de las Autodefensas»*
 
 Se debe indicar que alias «Víctor» corroboró el testimonio del testigo estrella de la Fiscalía contra Uribe, **Juan Guillermo Monsalve**. Por ende, su testimonio es fundamental para descifrar las clave del juicio junto al contexto de las **retractaciones masivas** que puso al descubierto la Corte Suprema de Justicia en diferentes procesos. Vale decir, los casos de las exsenadoras **Piedad Zuccardi y Dayra Galvis**. Esta última fallecida.

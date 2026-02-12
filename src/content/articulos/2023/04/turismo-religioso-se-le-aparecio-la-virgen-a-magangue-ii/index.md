@@ -5,10 +5,10 @@ pubDate: "2023-04-03 03:02:37"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/hero.jpg
 ---
 
-![Turismo religioso: Se le apareció la Virgen a Magangué. Aspecto de la procesión de la Virgen de la Candelaria en Magangué febrero 2023.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/hero.jpg)
+![Turismo religioso: Se le apareció la Virgen a Magangué. Aspecto de la procesión de la Virgen de la Candelaria en Magangué febrero 2023.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/hero.jpg)
 *Turismo religioso: Se le apareció la Virgen a Magangué. Aspecto de la procesión de la Virgen de la Candelaria en Magangué febrero 2023.*
 
 Comienza la Semana Santa y se reactiva el turismo religioso, especialmente en 21 sitios de Colombia. Los centros de atracción de categoría nacional son Mompox y Cartagena en Bolívar. En cuanto a alcanzar una verdadera experiencia religiosa, **a Magangué se le apareció la virgen**. Ahora, la **_Ciudad de los tres ríos_**, ineludiblemente, podría ser incluida entre los 21 sitios de la «Ruta de la Fe». La «Ley Yamilito» facilita el camino para que ello sea una realidad y vendría la reactivación de la economía, el turismo y de la vida social y cultural de Magangué.
@@ -27,7 +27,7 @@ En tanto que en Magangué este año fue la primera vez que se celebraron las fie
 
 ## Turismo religioso: balance positivo
 
-![El gobernador de Bolívar, Vicente Blel Scaff, es uno de los impulsores de las festividades de la Candelaria. Aquí en la salida de la virgen hacia la catedral de Magangué.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/Vicente-Blel.jpg)
+![El gobernador de Bolívar, Vicente Blel Scaff, es uno de los impulsores de las festividades de la Candelaria. Aquí en la salida de la virgen hacia la catedral de Magangué.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/Vicente-Blel.jpg)
 *El gobernador de Bolívar, Vicente Blel Scaff, es uno de los impulsores de las festividades de la Candelaria. Aquí en 2023 a la salida de la virgen hacia la catedral de Magangué.*
 
 Si bien es cierto que en los tiempos de pandemia, la asistencia presencial de los eventos quedó restringida, en este año 2023 los eventos centrales contaron con una asistencia masiva no solo de los nativos sino también de zonas aledañas y también lejanas. Este año se abrió un mundo de posibilidades religiosas, turísticas y económicas a «La Ciudad Cosmopolita**»**.
@@ -38,7 +38,7 @@ La **ley 2230 de julio 2022** -que declara patrimonio inmaterial de la humanida
 
 ## Reactivación económica
 
-![Carlos Cabrales, alcalde de Magangué, estuvo entre los que impulsó la versión 2023 de la Virgen de la Candelaria.. Turismo religioso.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/Carlos-cabrales.jpg)
+![Carlos Cabrales, alcalde de Magangué, estuvo entre los que impulsó la versión 2023 de la Virgen de la Candelaria.. Turismo religioso.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/Carlos-cabrales.jpg)
 *Carlos Cabrales, alcalde de Magangué, estuvo entre los que impulsó la versión 2023 de la Virgen de la Candelaria.*
 
 Desde el punto de vista económico los hoteles tuvieron una ocupación casi del 100 por ciento. Los restaurantes estaban llenos y los centros comerciales vivieron una actividad febril. Por primera vez **Iván Sanes**, director de ICULTUR -que dirige las políticas culturales de Bolívar- se metió de lleno en las fiestas. De igual manera, la alcaldía municipal asumió compromisos propios con acciones dirigidas por la primera dama y gestora social, **Jhovanna Barrientos González**.
@@ -49,7 +49,7 @@ En la región Caribe solo hay dos sitios incluidos en la **«Ruta de la Fe»**: 
 
 ## Las potencialidades del turismo religioso
 
-![Iván Sanes, director de ICULTUR. Turismo religioso](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/Ivan-sanes_icultur.jpg)
+![Iván Sanes, director de ICULTUR. Turismo religioso](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/Ivan-sanes_icultur.jpg)
 *Iván Sanes, director de ICULTUR*
 
 El turismo religioso mueve anualmente 18 mil millones de dólares americanos. Son 330 millones de turistas que realizan 600 millones de viajes anuales a los diferentes sitios religiosos del mundo. De acuerdo con **World Religious Travel Association**, estas personas van por el mundo buscando santuarios, monumentos y celebraciones religiosas.
@@ -66,7 +66,7 @@ Se debe ofrecer **«**una experiencia religiosa o de Dios**»** única y sosteni
 
 ## El desafío de la declaratoria de lo inmaterial
 
-![Yamilito Arana, autor de la ley de Patrimonio Cultural de la Nación.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/Yamilito-Arana-fiesta.jpg)
+![Yamilito Arana, autor de la ley de Patrimonio Cultural de la Nación.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/turismo-religioso-se-le-aparecio-la-virgen-a-magangue-ii/Yamilito-Arana-fiesta.jpg)
 *Yamilito Arana, autor de la ley de Patrimonio Cultural de la Nación.*
 
 Se concluye que el turismo religioso es un fenómeno que tiene su antecedente en el peregrinaje a centros religiosos. El desafío es ofrecer una experiencia religiosa enmarcada en "la antropología cultural mediante los símbolos, el concepto y una experiencia que trascienda lo material para anidar los pensamientos de lo inmaterial". Magangué debe ofrecer un escenario para una experiencia religiosa, sus motivaciones, los recuerdos religiosos, los sacrificios para obtener un beneficio divino o expiar los pecados. Los centros culturales de Magangué y de la Universidad de Cartagena, por ejemplo, deben impulsar los estudios culturales vinculados a la religiosidad, especialmente a las festividades de la Virgen de la Candelaria y de Semana Santa.

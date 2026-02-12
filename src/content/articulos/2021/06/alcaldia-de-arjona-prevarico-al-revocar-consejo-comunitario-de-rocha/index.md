@@ -5,10 +5,10 @@ pubDate: "2021-06-11 22:24:06"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/alcaldia-de-arjona-prevarico-al-revocar-consejo-comunitario-de-rocha/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/alcaldia-de-arjona-prevarico-al-revocar-consejo-comunitario-de-rocha/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/alcaldia-de-arjona-prevarico-al-revocar-consejo-comunitario-de-rocha/ARJONA-DIHLY.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/alcaldia-de-arjona-prevarico-al-revocar-consejo-comunitario-de-rocha/ARJONA-DIHLY.jpeg)
 *En el fondo, Dihly Romero Herrera, Secretaria General y de Gobierno de Arjona. En un consejo de seguridad presidido por el alcalde, Isaías Simancas. ¿La Alcaldía de Arjona prevaricó?*
 
 La alcaldía de Arjona prevaricó al revocar sin ningún sustento legal y fáctico la junta directiva del consejo comunitario de Rocha. Esa podría se la conclusión al no seguir el procedimiento administrativo en los términos del **inciso segundo del artículo 95 de la ley 1437 de 2011 para resolver primero las impugnaciones del acto de elección**. Esta ley se conoce como Código de procedimiento Administrativo y de lo contencioso Administrativo. Su sigla conocida, CPACA. **Tal conducta es un atentado a la autonomía de las poblaciones afros que deben tomar sus decisiones libremente sin interferencias del Estado o de entidades privadas.**
@@ -25,7 +25,7 @@ Son dos juntas directivas para el **período 2020-2023 invalidadas**. La primera
 
 ## ¿Alcaldía de Arjona prevaricó?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/alcaldia-de-arjona-prevarico-al-revocar-consejo-comunitario-de-rocha/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/alcaldia-de-arjona-prevarico-al-revocar-consejo-comunitario-de-rocha/hero.jpg)
 *El alcalde de Arjona, Isaías Simancas delegó en la secretaria General y de Gobierno atender la primera instancia de las decisiones de los consejos comunitarios. ¿La alcaldía de Arjona prevaricó? Cortesía.*
 
 Para saber si la alcaldía de Arjona prevaricó al revocar su propia **resolución No 2021032902 del 29 de marzo de 2021,** lo primero que debemos analizar es en qué contexto se produjo el hecho revocado. Es decir, el acto administrativo que la misma **Secretaria General y de Gobierno, Dihly Romero Vergara**, adoptó para reconocer la decisión de la asamblea del Consejo Comunitario, que es la máxima autoridad a la luz del Decreto 1745/95. La asamblea es integrada por todos aquellas que estén en el «**censo interno»** que se hayan anotado en un libro. Éste debe estar **abierto 30 días hábiles** antes de que se realice la asamblea.El Decreto 1745/95, en concordancia con el Decreto Único 1066 de 2015, señala:
@@ -60,7 +60,7 @@ Romero Herrera es consciente de que el acto de revocatoria directa que profirió
 
 ## Maza sí está en el censo, la alcaldía de Arjona prevaricó
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/06/alcaldia-de-arjona-prevarico-al-revocar-consejo-comunitario-de-rocha/edinson-maza-miranda1.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/alcaldia-de-arjona-prevarico-al-revocar-consejo-comunitario-de-rocha/edinson-maza-miranda1.jpg)
 *Edinson Maza Miranda, el representante legal del Consejo Comunitario revocado en forma irregular. ¿La alcaldía de Arjona prevaricó?*
 
 La asamblea que eligió a **Edison Maza** llenó los requisitos de ley. La primera resolución de la Secretaría General y de Gobierno, delegada por el alcalde de Arjona **Isaías Simancas** para conocer la primera instancia, lo reconoció como representante legal. Certificó que todos los documentos anexados correspondían al procedimiento definido por el decreto y la circular citados. **Pero después Dihly reculó y cometió el error de revocar su propia resolución.**

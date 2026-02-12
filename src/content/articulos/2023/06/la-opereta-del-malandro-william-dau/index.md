@@ -5,10 +5,10 @@ pubDate: "2023-06-28 22:59:13"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/la-opereta-del-malandro-william-dau/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/la-opereta-del-malandro-william-dau/hero.jpg
 ---
 
-![Maríamulata iba a ser la Gerente de Cartagena. Pero debido a su problema judicial, Dau nombró a Claudia Fadul. La opereta del malandro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/la-opereta-del-malandro-william-dau/hero.jpg)
+![Maríamulata iba a ser la Gerente de Cartagena. Pero debido a su problema judicial, Dau nombró a Claudia Fadul. La opereta del malandro.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/la-opereta-del-malandro-william-dau/hero.jpg)
 *Maríamulata iba a ser la Gerente de Cartagena. Pero debido a su problema judicial, Dau nombró a Claudia Fadul.*
 
 La ciudades se merecen a sus alcaldes como los países sus presidentes. Son tres años y seis meses que Cartagena se está mereciendo **la opereta del malandro William Dau Chamat**. Si, es una opereta donde el malandro supo engañar al 85% de la ciudad, según la encuesta (octubre 2020) del Centro Nacional de Consultoría (CNE). Hoy, está alineando su gobierno para seguir reinando con la precandidata **Judith del Carmen Pinedo Flórez**, la popular Mariamulata, como él mismo lo admitió publicamente. Ella iba a ser la Gerente de Cartagena en enero de 2020. Pero, debido a sus problemas jurídicos, en su lugar, nombró a **Claudia Fadul**, que en ese momento era presidente ejecutiva de Fenalco.
@@ -29,7 +29,7 @@ Ya en la alcaldía, Dau se popularizó con su discurso **antimalandrín**, **«*
 
 ## La opereta del malandro que maquillaron
 
-![Aquí retocado y maquillado. La opereta del malandro.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/la-opereta-del-malandro-william-dau/William-Jorge-Dau-Chamatt.jpeg)
+![Aquí retocado y maquillado. La opereta del malandro.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/la-opereta-del-malandro-william-dau/William-Jorge-Dau-Chamatt.jpeg)
 *Un poco antes de posesionarse, William Dau se hizo un diseño de sonrisa. Sus fotos fueron retocadas para disimular su dentadura desgatada y manchada por la fumata, como se puede observar en la foto de noviembre de 2019 cuando posó al lado de Marimulata. Era parte del maquillaje. Después vino un asesor de imagen y le puso el disfraz: la gorra que dice «Alcalde».*
 
 No fue una tarea fácil. La manipulación era tan grande que uno aparecía como el villano. El héroe era él. Mientras todo un pueblo estaba encerrado, el malandro hacía de las suyas en 2020. El mundo era virtual, por lo que la manipulación de la opinión pública se facilitó. En esa época, este periodista recibió testimonios de varios empresarios y dirigentes sociales de que el alcalde se _encaletaba_ en un apartamento de estrato 6 a fumar marihuana revuelta con basuco y tabaco.

@@ -5,10 +5,10 @@ pubDate: "2021-10-23 14:15:17"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/absuelto-joaco-berrio-corte-suprema-dijo-que-es-inocente/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/absuelto-joaco-berrio-corte-suprema-dijo-que-es-inocente/hero.jpg
 ---
 
-![¡Absuelto Joaco Berrío!](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/absuelto-joaco-berrio-corte-suprema-dijo-que-es-inocente/hero.jpg)
+![¡Absuelto Joaco Berrío!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/absuelto-joaco-berrio-corte-suprema-dijo-que-es-inocente/hero.jpg)
 *¡Absuelto Joaco Berrío!*
 
 ¡Absuelto Joaco Berrío! El exgobernador de Bolívar, **Joaco Hernando Berrío Villarrea**l, fue absuelto por la Corte Suprema de Justicia por el delito de **prevaricato por omisión**. De esta manera le puso fin a un prolongado y sonado caso que terminó con el desperdicio de 14 mil mercaditos que inicialmente estaban dirigidos a los damnificados de la ola invernal de 2006. El contrato fue suscrito por $4 mil millones.
@@ -29,7 +29,7 @@ Así fue la absolución: «Absolver a Joaco Hernando Berrío Villarreal, de la a
 
 ## Un dilatado caso
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/10/absuelto-joaco-berrio-corte-suprema-dijo-que-es-inocente/antonio-bernal.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/absuelto-joaco-berrio-corte-suprema-dijo-que-es-inocente/antonio-bernal.jpg)
 *Alberto Bernal y Jorge Mendoza Diago, exgobernadores, también se abstuvieron de pagar los mercaditos.*
 
 El proceso de los mercaditos se prolongó por 13 años hasta cuando la Corte Suprema de Justicia, organismo de cierre, tomó esta decisión. El único recurso que queda es el de casación.

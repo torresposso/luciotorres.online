@@ -5,10 +5,10 @@ pubDate: "2022-02-02 17:11:49"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-incorruptible-pacto-secreto-de-los-alternativos-con-william-dau/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/el-incorruptible-pacto-secreto-de-los-alternativos-con-william-dau/hero.jpg
 ---
 
-![El «incorruptible Pacto Secreto»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-incorruptible-pacto-secreto-de-los-alternativos-con-william-dau/hero.jpg)
+![El «incorruptible Pacto Secreto»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/el-incorruptible-pacto-secreto-de-los-alternativos-con-william-dau/hero.jpg)
 *El «incorruptible Pacto Secreto» de William Dau. ¿Cuál fue el papel del senador Gustavo Bolívar y el precandidato Camilo Romero?*
 
 El «incorruptible **Pacto Secreto»** del alcalde de Cartagena, **William Dau Chamat**, y del grueso de la izquierda cartagenera, deja mal parado a ambos estamentos. Pero también, convoca al senador **Gustavo Bolívar** y al precandidato presidencial, **Camilo Romero**, a dar explicaciones ciertas sobre ese pacto con el burgomaestre cartagenero. Además, este hecho demuestra el proceso de degradación de una administración que se ha convertido en el palacio del chisme y del sicariato moral contra sus aliados y críticos. 
@@ -31,7 +31,7 @@ La personalidad de William Dau Chamat refleja que, probablemente, **presenta un 
 
 ## Dau y sus pactos
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-incorruptible-pacto-secreto-de-los-alternativos-con-william-dau/Dau-contemplando-su-propia-basura.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/el-incorruptible-pacto-secreto-de-los-alternativos-con-william-dau/Dau-contemplando-su-propia-basura.jpg)
 *William Dau no ha hecho nada por Cartagena. Su única arma es su lengua de víbora. El inconrruptible Pacto Secreto de Dau.*
 
 Una cosa es que lo que William Dau dice sobre la corrupción y otra es lo que hace como jefe del gobierno distrital. La alcaldía se la ha feriado mediante acuerdos políticos que le garantizan impunidad política, justicia y disciplinaria. Todo indica que su pilar es la familia Araújo y el Centro Democrático. Hay evidencias que pudo haber hecho alianzas con los gremios económicos, altos funcionarios de los organismos de control y del alto gobierno. 
@@ -56,7 +56,7 @@ De hecho, el audio de Dau demuestra que hubo un pacto secreto con sectores del P
 
 ## Gustavo Bolívar y Camilo Romero
 
-![El incorruptible pacto secreto](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/02/el-incorruptible-pacto-secreto-de-los-alternativos-con-william-dau/GUSTAVO-BOLIVAR-2.jpg)
+![El incorruptible pacto secreto](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/el-incorruptible-pacto-secreto-de-los-alternativos-con-william-dau/GUSTAVO-BOLIVAR-2.jpg)
 *El senador Gustavo Bolívar reunido con el grupo de Lidy Ramírez. Muchos de ellos viven de las ops (dádivas) de Dau.*
 
 El anterior enunciado se comprueba con la venida a Cartagena de Gustavo Bolívar, quien se reunió el domingo 30 de enero con el grupo de Lidy Ramírez, como se puede apreciar en la foto que publicamos. Allí aparece la frustrada zar anticorrupción y la fallida candidata abrazada con el senador Bolívar.

@@ -5,10 +5,10 @@ pubDate: "2021-03-16 04:19:19"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/alcalde-proscribio-a-vivian-eljaiek-de-la-andi/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/alcalde-proscribio-a-vivian-eljaiek-de-la-andi/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/alcalde-proscribio-a-vivian-eljaiek-de-la-andi/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/alcalde-proscribio-a-vivian-eljaiek-de-la-andi/hero.jpg)
 *A lo Torquemada, alcalde proscribe a una mujer por este post. Tomado del tuiter de Vivian Eljaiek.*
 
 El alcalde proscribe a **Vivian Eljaiek directora ejecutiva de la Andi** Bolívar haciendo uso de su poder público y promoviendo violencia de género. **William Dau Chamat esta vez se fue contra una mujer que representa el poder real de esta capital**. Como es su costumbre, usó las redes sociales para declararla **«persona no grata»** de su administración. Incluso, dio orden perentoria para que nadie tuviese un acercamiento contra la lideresa gremial.
@@ -25,7 +25,7 @@ No obstante, **«declarar persona no grata»** a la directora de la Andi Bolíva
 
 ## Alcalde proscribe a Eljaiek
 
-![Alcalde prescribe a Vivian Eljaiek.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/03/alcalde-proscribio-a-vivian-eljaiek-de-la-andi/vivian-eljaiek.jpg)
+![Alcalde prescribe a Vivian Eljaiek.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/alcalde-proscribio-a-vivian-eljaiek-de-la-andi/vivian-eljaiek.jpg)
 *Alcalde proscribe a Vivian Eljaiek. Es una lideresa respetada por tirios y troyanos. Somos libres y nuestras palabras son como saetas que abren el viento y las mentes.*
 
 ¿Un gobernante puede «declarar persona no grata» a un ciudadano o representante de una organización de la sociedad civil que lo critique? En un país totalitario el gobernante lo hace con frecuencia. Proscriben, condenan y encarcelan a ciudadanos críticos que son incómodos al dictadorzuelo. Y cuando legalmente no lo pueden hacer, **impulsan políticas de exterminio, como sucede en Colombia**. **El pensamiento crítico está proscrito.** Y si es de la mujer, más.

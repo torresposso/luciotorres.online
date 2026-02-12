@@ -5,10 +5,10 @@ pubDate: "2025-07-28 23:32:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/uribe-condenado-la-juez-no-se-arrodillo/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/uribe-condenado-la-juez-no-se-arrodillo/hero.jpg
 ---
 
-![¡Uribe, condenado! La juez no se arrodilló](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/uribe-condenado-la-juez-no-se-arrodillo/hero.jpg)
+![¡Uribe, condenado! La juez no se arrodilló](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/uribe-condenado-la-juez-no-se-arrodillo/hero.jpg)
 *¡Uribe, condenado! La juez no se arrodilló*
 
 **El Juicio del Siglo habló: ¡Uribe, condenado!** ¿Será el fin de Los intocables? La juez 44 Penal del Circuito de Bogotá, **Sandra Heredia**, no se arrodilló. Por el contrario, **dignificó la justicia** al dictar sentencia condenatoria contra el _todopoderoso_ expresidente **Álvaro Uribe Vélez**. Validó el material probatorio allegado al juicio, especialmente la grabación que registró el momento en que el abogado **Diego Cadena** trató de sobornar a **Juan Guillermo Monsalve**, recluido en La Picota. En este caso, sí se cometió el delito de soborno en actuación penal y fraude procesal en una investigación por manipulación de testigos.
@@ -19,7 +19,7 @@ La juez, la heroína. El condenado, el padre de las autodefensas. El país, expe
 
 ## Uribe **¿Ángel o demonio?**
 
-![En el proceso uno de los testigos indicó que Uribe es el papá de las Autodefensas.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/07/uribe-condenado-la-juez-no-se-arrodillo/MINIATURA-URIBE-AUC-1024x576.jpg)
+![En el proceso uno de los testigos indicó que Uribe es el papá de las Autodefensas.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/uribe-condenado-la-juez-no-se-arrodillo/MINIATURA-URIBE-AUC-1024x576.jpg)
 *En el proceso uno de los testigos indicó que Uribe es el papá de las Autodefensas.*
 
 La figura de Uribe divide a Colombia. La polariza. La radicaliza. Igual que el presidente Gustavo Petro. Para unos, Uribe es el salvador de la patria. Para otros, el arquitecto de una maquinaria de impunidad que todavía sangra el país.

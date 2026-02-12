@@ -5,10 +5,10 @@ pubDate: "2023-10-20 23:26:12"
 author: "Lucio"
 categories: ["Análisis","Barranquilla"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/veronica-un-golpe-electoral-al-daescharismo-en-el-atlantico/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/veronica-un-golpe-electoral-al-daescharismo-en-el-atlantico/hero.jpg
 ---
 
-![La esperanza de Claudia Verónica Patiño podría ser un golpe electoral al Daescharismo.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/10/veronica-un-golpe-electoral-al-daescharismo-en-el-atlantico/hero.jpg)
+![La esperanza de Claudia Verónica Patiño podría ser un golpe electoral al Daescharismo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/veronica-un-golpe-electoral-al-daescharismo-en-el-atlantico/hero.jpg)
 *La esperanza de Claudia Verónica Patiño podría ser un golpe electoral al Daescharismo.*
 
 La campaña por la gobernación del Atlántico, Claudia Verónica Patiño demostró que podría ser un golpe electoral al Daescharismo, si la misma gente lo quiere. Sería una ruptura con ese dominio monopólico que mantiene en el marasmo social a un departamento que se había caracterizado por su desarrollo económico y cultural. El empobrecimiento y el deterioro de la infraestructura social son las notas sobresalientes del modelo de desarrollo imperante en el departamento desde hace más de 30 años.

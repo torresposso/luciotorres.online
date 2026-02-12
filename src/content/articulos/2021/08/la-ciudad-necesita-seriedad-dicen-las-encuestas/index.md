@@ -5,10 +5,10 @@ pubDate: "2021-08-23 23:50:47"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/la-ciudad-necesita-seriedad-dicen-las-encuestas/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/la-ciudad-necesita-seriedad-dicen-las-encuestas/hero.jpg
 ---
 
-![Descalabro de su imagen artificial. La revocatoria le respira en el oído.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/la-ciudad-necesita-seriedad-dicen-las-encuestas/hero.jpg)
+![Descalabro de su imagen artificial. La revocatoria le respira en el oído.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/la-ciudad-necesita-seriedad-dicen-las-encuestas/hero.jpg)
 *Descalabro de su imagen artificial. La revocatoria le respira en el oído.*
 
 La ciudad necesita seriedad. Queremos a un gobernante no a un payaso. Una buena persona (estar en la conciencia) puede hacer el bien como gobernante. Una mala persona jamás será un buen gobernante muy a pesar de ser un experto administrador. ¿Por qué? Es un mal árbol. _«**Todo árbol que no da buen fruto, es cortado y echado en el fuego. Así que, por sus frutos los conoceréis**»._ (Mateo 7:15).
@@ -39,7 +39,7 @@ Un ejemplo evidente de lo que se narra, es el caso del inicio del reparcheo de l
 
 ## Alienados por el poder
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/08/la-ciudad-necesita-seriedad-dicen-las-encuestas/WILLIAM-DAU-EN-CAIDA.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/la-ciudad-necesita-seriedad-dicen-las-encuestas/WILLIAM-DAU-EN-CAIDA.jpeg)
 *Esta fue la primera caída que sufrió en su imagen. General Juan Carlos Hernández, la ciudad necesita seriedad.*
 
 Mi abuela **Ana Luisa** me decía que la persona que **«nunca ha tenido gallina, la mierda le parece huevo»**. Y eso es lo que Dau habla por los medios de comunicación locales y redes sociales. ¿«Arrancamos»? Quiere mostrarse ante la opinión pública para hacer un populismo barato. Populismo charlatán. Populismo sin obras, sin frutos buenos. Populismo oportunista. Se aprovecha de cualquier cosa para crear falacias que ya nadie le cree, excepto aquellas personas que viven alienadas por el poder. O que viven del erario distrital. O porque están esperanzados que el alcalde le lance un huesito.

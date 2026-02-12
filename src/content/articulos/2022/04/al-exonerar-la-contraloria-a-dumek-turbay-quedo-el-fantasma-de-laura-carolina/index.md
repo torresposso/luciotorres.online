@@ -5,10 +5,10 @@ pubDate: "2022-04-21 01:27:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/al-exonerar-la-contraloria-a-dumek-turbay-quedo-el-fantasma-de-laura-carolina/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/al-exonerar-la-contraloria-a-dumek-turbay-quedo-el-fantasma-de-laura-carolina/hero.jpg
 ---
 
-![El fantasma de«Madre Laura»](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/04/al-exonerar-la-contraloria-a-dumek-turbay-quedo-el-fantasma-de-laura-carolina/hero.jpg)
+![El fantasma de«Madre Laura»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/al-exonerar-la-contraloria-a-dumek-turbay-quedo-el-fantasma-de-laura-carolina/hero.jpg)
 *El fantasma de «Madre Laura»*
 
 Un fantasma ronda en la gobernación de Bolívar. Es el fantasma de la **«Madre Laura»** que le puede costar a la gobernación la suma de **$45 mil millones**. Mientras la Contraloría General de la República desestimó las denuncias del veedor **Jorge Quintana Sosa** para exonerar de responsabilidad fiscal al exgobernador de Bolívar, **Dumek Turbay Paz**, la gobernación de Bolívar debería pagar **$45 mil millones** por concepto de intereses e incumplimiento de la demanda de pago de lo pactado en la conciliación con la clínica **«Laura Carolina LTDA», hoy clínica Madre Laura S.A.S**.  

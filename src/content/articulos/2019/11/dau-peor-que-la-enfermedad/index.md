@@ -5,10 +5,10 @@ pubDate: "2019-11-03 13:36:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/dau-peor-que-la-enfermedad/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/dau-peor-que-la-enfermedad/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2019/11/dau-peor-que-la-enfermedad/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/dau-peor-que-la-enfermedad/hero.jpg)
 *Embriagados de triunfo. No paran de celebrar. Aquí el alcalde electo, William Dau, acompañado de uno de sus combos. Cortesía.*
 
 **¿Peor el remedio que la enfermedad?** William Dau Chamat, mientras destrozaba un _**baby beef,**_ en una cena a la que me había invitado, me propuso su apoyo para que yo fuera elegido gobernador de Bolívar. En cambio me pidió que **lo apoyara para la alcaldía de Cartagena**. ¿Que nos unía? La lucha contra la corrupción.

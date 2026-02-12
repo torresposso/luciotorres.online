@@ -5,10 +5,10 @@ pubDate: "2022-08-26 00:42:04"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/la-no-tan-misteriosa-muerte-de-turistas-holandeses/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/la-no-tan-misteriosa-muerte-de-turistas-holandeses/hero.jpg
 ---
 
-![Aquí el alcalde haciéndole publicidad al Arsenal The Rum Box . Negocio de familia. La muerte de los turistas holandeses ha manchado la reputación de este negocio.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/la-no-tan-misteriosa-muerte-de-turistas-holandeses/hero.jpg)
+![Aquí el alcalde haciéndole publicidad al Arsenal The Rum Box . Negocio de familia. La muerte de los turistas holandeses ha manchado la reputación de este negocio.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/la-no-tan-misteriosa-muerte-de-turistas-holandeses/hero.jpg)
 *Aquí el alcalde haciéndole publicidad al Arsenal The Rum Box . Negocio de familia. La muerte de los turistas holandeses ha manchado la reputación de este negocio.*
 
 Con la no tan misteriosa muerte de los turistas holandeses surge una nueva hipótesis que tiene pensando a los investigadores del CTI. El último sitio que la pareja visitó en la noche del domingo 21 de agosto (8 a 11 p.m.) fue el Arsenal **The Rum Box** ubicado en el edificio del Centro de Convenciones. De las dos víctimas, solo **Robert Gerrit Kootte,** 31 años, consumió pescado. ¿Por qué los dos experimentaron los mismos síntomas que terminó con sus vidas en la clínica **Medi Help** de Bocagrande? ¿Acaso fue un cóctel de drogas recreativas la causa de esas muertes? ¿La consumieron en el mismo sitio?
@@ -17,7 +17,7 @@ De acuerdo con el baucher que está en poder de la Fiscalía, el último lugar p
 
 ## La versión de Dau sobre la no tan misteriosa muerte de los turistas holandeses
 
-![La no tan misteriosa muerte de turistas holandeses](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/la-no-tan-misteriosa-muerte-de-turistas-holandeses/holandeses.jpg)
+![La no tan misteriosa muerte de turistas holandeses](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/la-no-tan-misteriosa-muerte-de-turistas-holandeses/holandeses.jpg)
 *La no tan misteriosa muerte de turistas holandeses. Aquí cuando llegaron al restaurante Bar Arsenal The Rum Box. Cortesía.*
 
 Al alcalde de Cartagena, **William Dau Chamat**, se le suele ver tomando y fumando a cualquier hora en el negocio de su hijo. Tanto que en una oportunidad la activista y líder política, **Jacqueline Perea**, lo sorprendió sentado fumando en horas hábiles de trabajo en el restaurante de su hijo, porque "tu papá te quiere". Allí, a veces se cita con personajes para charlar, fumar y hablar de la administración. Se trata de hacerle publicidad gratuita al negocio de la familia que tiene una proyección al turismo extranjero.
@@ -38,7 +38,7 @@ Pero, Abraham Dau quiso desviar los focos de las cámara de los periodistas para
 
 ## El turismo de drogas y la no tan misteriosa muerte de los turistas holandeses
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/08/la-no-tan-misteriosa-muerte-de-turistas-holandeses/Abraham-rba0-El-Arsenal-The-Rum-Box-bar-counter-2021-08.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/la-no-tan-misteriosa-muerte-de-turistas-holandeses/Abraham-rba0-El-Arsenal-The-Rum-Box-bar-counter-2021-08.jpg)
 *Así hace la publicidad Abaham Dau.*
 
 Si no fue el pescado y el licor que consumieron en el Arsenal **The Rum Box**, ¿cuál fue la causa de la intoxicación? ¿Veneno? ¿Arsénico? ¿Cóctel de drogas recreativa? La necropsia podría dar las pistas sobre la intoxicación sufrida por **Nienke Bawa** (murió el lunes) y **Robert Gerrit Kootte**, murió al día siguiente.

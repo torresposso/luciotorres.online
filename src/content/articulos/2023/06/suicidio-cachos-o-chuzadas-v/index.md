@@ -5,10 +5,10 @@ pubDate: "2023-06-11 01:35:20"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/suicidio-cachos-o-chuzadas-v/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/suicidio-cachos-o-chuzadas-v/hero.jpg
 ---
 
-![El presidente Gustavo Petro aclaró que se trató de un suicidio.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/suicidio-cachos-o-chuzadas-v/hero.jpg)
+![El presidente Gustavo Petro aclaró que se trató de un suicidio.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/suicidio-cachos-o-chuzadas-v/hero.jpg)
 *El presidente Gustavo Petro aclaró que se trató de un suicidio.*
 
 ¿Suicidio? ¿Homicidio? ¿Cachos? Tales son las preguntas que surgen a raíz de la **enigmática muerte** del principal sospechoso de haber ordenado las chuzadas presidenciales, **teniente coronel Oscar Darío Dávila Torres.** Una fuente de entero crédito allegada a las autoridades, le acaba de confirmar a **VoxPopuli Digital** que fue un suicidio con su arma de dotación oficial. Además de intrigas palaciegas, el truculento caso ahora tiene una pizca de pasión. La fuente agrega que el detonante **directo de este cruento hecho fue pasional** (¿cachos?). En este punto confuso, eleva a otro nivel esta compleja investigación surgida a raíz de un supuesto robo doméstico a la **otrora todopoderosa Jefa de Gabinete del presidente Petro**.
@@ -29,7 +29,7 @@ En consecuencia, dos horas después (6:30 p.m.), Dávila extrañamente mandó a 
 
 ## ¿El suicidio cambiará el curso de la investigación?
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/suicidio-cachos-o-chuzadas-v/Teniente-coronel_carta_fiscalia.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/suicidio-cachos-o-chuzadas-v/Teniente-coronel_carta_fiscalia.jpg)
 *Si leen con atención, el teniente coronel Oscar Dávila no se sentía acosado por la Fiscalía. Por el contrario, estaba dispuesto a declarar si lo tenían como indiciado.*
 
 Una vez se conoció la noticia del supuesto suicidio del Jefe de Operaciones Preventivas asignado a la Casa de Nariño, se tejió una serie de versiones que hicieron crecer el enigma no solo de su muerte sino también del caso de las chuzadas. Las víctimas de esta conducta criminal son **Marelby Meza y Fabiola Perea**, dos humildes trabajadoras del servicio doméstico de **Laura Sarabia Torres**, quien era el único contacto político y de gobierno del presidente Petro con el mundo exterior.
@@ -38,7 +38,7 @@ Para chuzar a las supuestas sospechosas del robo, los jefes que ordenaron esa ac
 
 ## Las contradicciones del suicidio
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/suicidio-cachos-o-chuzadas-v/camioneta2.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/suicidio-cachos-o-chuzadas-v/camioneta2.jpg)
 *La camioneta Nissan Frontier, FWX914 . Pantallazo de video del CTI.*
 
 Empecemos por desmenuzar la versión del presidente que no explicó de qué fuente extrajo esa información. A primera vista presenta varias contradicciones y defectos fácticos con relación a al informe del CTI.
@@ -79,7 +79,7 @@ La versión de Del Río no es objetiva. Se cae por su propio peso, y quiere redu
 
 ## Muerto Dávila ¿quién responderá por las chuzadas?
 
-![oronel Carlos Alberto Feria Buitrago, jefe de seguridad de la Casa de Nariño y quien le guarda la espalda a Gustavo Petro desde 10 años. ¿Suicidio?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/06/suicidio-cachos-o-chuzadas-v/Coronel-Carlos-Feria-Buitrago.jpg)
+![oronel Carlos Alberto Feria Buitrago, jefe de seguridad de la Casa de Nariño y quien le guarda la espalda a Gustavo Petro desde 10 años. ¿Suicidio?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/suicidio-cachos-o-chuzadas-v/Coronel-Carlos-Feria-Buitrago.jpg)
 *Coronel Carlos Alberto Feria Buitrago, jefe de seguridad de la Casa de Nariño y quien le guarda la espalda a Gustavo Petro desde hace10 años.*
 
 Sin duda, el jefe de Dávila era el también **coronel Carlos Feria Buitrago**. **¿Deberá responder por las interceptaciones ilegales siendo el jefe de seguridad de Palacio?** Su jefa en la Casa de Nariño era **Laura Sarabia Torres**, quien trabajaba de la mano con Feria Buitrago, un integrante de la Policía Nacional que viene protegiendo al presidente Petro desde que fue alcalde de Bogotá.

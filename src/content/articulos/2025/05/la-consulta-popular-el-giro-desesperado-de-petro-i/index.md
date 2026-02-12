@@ -5,10 +5,10 @@ pubDate: "2025-05-24 03:56:59"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-consulta-popular-el-giro-desesperado-de-petro-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/la-consulta-popular-el-giro-desesperado-de-petro-i/hero.jpg
 ---
 
-![La Consulta popular, el giro desesperado de Petro (I)](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-consulta-popular-el-giro-desesperado-de-petro-i/hero.jpg)
+![La Consulta popular, el giro desesperado de Petro (I)](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/la-consulta-popular-el-giro-desesperado-de-petro-i/hero.jpg)
 *La consulta popular un camino a la derrota del presidente Gustavo Petro. embriagado por el poder./Captura de pantalla.*
 
 De la consulta popular a la huelga general, fue un **giro desesperado de Gustavo Petro** y de su principal ariete, **Armando Benedetti** que denota improvisación. Porque el tiempo presidencial se les agota inexorablemente y no han hecho nada esencial.

@@ -5,10 +5,10 @@ pubDate: "2025-05-29 10:36:22"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/hero.jpg
 ---
 
-![Narly Patiño Pascuas y el abogado de la mafia Luis Alfredo Berrío. ¿Fiscal infiel con la justicia?](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/hero.jpg)
+![Narly Patiño Pascuas y el abogado de la mafia Luis Alfredo Berrío. ¿Fiscal infiel con la justicia?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/hero.jpg)
 *Narly Patiño Pascuas y el abogado de la mafia Luis Alfredo Berrío. ¿Fiscal infiel con la justicia?*
 
 **Narly Tatiana Patiño Pascuas**, es la temida Fiscal 15 Especializada de Cartagena. Temida porque se ensaña con el inocente y con el mafioso es indulgente. **Es infiel con la justicia**, a juzgar por dos historias que **VoxPopuli Digital** tiene bien documentadas. Entre el 2018 y 2022, teniendo marido, vivió un idilio pasional intenso con su amante, el abogado de la mafia, **Luis Alfredo Berrío Martínez**. Hasta aquí no hay nada raro, porque hace parte de la intimidad de la casada infiel y de su engañado marido.
@@ -39,7 +39,7 @@ https://youtu.be/ntoSHNms\_Qo
 
 ## La casada infiel y el abogado de la mafia
 
-![La fiscal infiel y el abogado de la mafia. Narly Patiño Pascuas con su "amante bandido" (canción de Miguel Bosé), Luis Alfredo Berrío, el abogado de alias Ramón Mojana. En una de sus tantas salidas por Sincelejo, San Antero, Santa Marta, financiado con dineros del mafioso en el 2019. Y su marido la esperaba en Cartagena.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/Narly_fiscal_-1024x610.jpeg)
+![La fiscal infiel y el abogado de la mafia. Narly Patiño Pascuas con su "amante bandido" (canción de Miguel Bosé), Luis Alfredo Berrío, el abogado de alias Ramón Mojana. En una de sus tantas salidas por Sincelejo, San Antero, Santa Marta, financiado con dineros del mafioso en el 2019. Y su marido la esperaba en Cartagena.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/Narly_fiscal_-1024x610.jpeg)
 *La fiscal infiel y el abogado de la mafia. Narly Patiño Pascuas con su "amante bandido" (canción de Miguel Bosé), Luis Alfredo Berrío, el abogado de alias ´Ramón Mojana´. En una de sus tantas salidas a Sincelejo, San Antero, Santa Marta, financiado con dineros del mafioso, en el 2019.*
 
 ¿Puede una persona con precaria integridad personal ser una buena administradora de justicia? La praxis de la fiscal Narly Patiño indica que no. ¿Está mentalmente preparada para continuar impartiendo justicia? Por supuesto que no. ¿Y por qué no ha salido de su cargo? Sus cómplices se cuentan a montón: jueces, colegas y quienes la disciplinan. Refleja hasta dónde llega la corrupción judicial.
@@ -62,7 +62,7 @@ Sin embargo, ¿por qué esta infidelidad trasciende el ámbito privado de la int
 
 ## Preguntas metodológicas
 
-![Para que no haya duda de la actuación indecorosa de la fiscal. El oficial mayor certifica que Luis Alfredo Berrío Martínez sustituye a Juan Fernando Jaramillo Lozada, también abogado de "Mojana", que se bajaba /alojaba) en el apartamento de la fiscal, según información privada que posee VoxPopuli Digital. Esto dentro del proceso de contrabando de hidrocarburo de la EDS El Viso, Mahates perteneciente al mafioso.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/Irtlanda-670x1024.jpg)
+![Para que no haya duda de la actuación indecorosa de la fiscal. El oficial mayor certifica que Luis Alfredo Berrío Martínez sustituye a Juan Fernando Jaramillo Lozada, también abogado de "Mojana", que se bajaba /alojaba) en el apartamento de la fiscal, según información privada que posee VoxPopuli Digital. Esto dentro del proceso de contrabando de hidrocarburo de la EDS El Viso, Mahates perteneciente al mafioso.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/Irtlanda-670x1024.jpg)
 *Para que no haya duda de la actuación indecorosa de la fiscal. El oficial mayor certifica del caso No 13001600-0000-2018-00077 que Luis Alfredo Berrío Martínez sustituye a Juan Fernando Jaramillo Lozada, también abogado de "Mojana", que se bajaba /alojaba en el apartamento de la fiscal, según información privada que posee VoxPopuli Digital. Esto dentro del proceso de contrabando de hidrocarburo de la EDS El Viso, Mahates perteneciente al mafioso.*
 
 Entonces, en este punto, surgen tres preguntas metodológicas: Si la bomba de gasolina materialmente pertenecía al mafioso Eder Pedraza Peña, **¿por qué Narly Patiño, la fiscal no se apartó del caso?** Si el abogado de la mafia, su contraparte, enamoró a la fiscal y esta cayó en sus brazos, **¿por qué incidió e influyó en la funcionaria para conseguir resultados favorables a sus poderdantes?**
@@ -104,7 +104,7 @@ Se debe advertir que quien fuera pareja sentimental de la fiscal es investigador
 
 ## **Un perro buldog** y el abogado de la mafia
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/Narly_fiscal_perrito.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/la-fiscal-infiel-y-el-abogado-de-la-mafia-i/Narly_fiscal_perrito.jpg)
 *El regalo que el abogado de la mafia, Luis Alfredo Berrío, le hizo a la fiscal, un perro buldog.*
 
 Los elementos probatorios materiales que posee **VoxPopuli Digital** (chats, audios, videos, facturas, fotos, documentos judiciales) indican que el furtivo amor de la fiscal quedó al descubierto por **un perro buldog**. La mascota fue un regalo, prueba de amor de su **«**amante bandido**»**. El animal lo adoptó el marido de la fiscal ―él no sabía del engaño de su mujer― como si fuera un hijo.

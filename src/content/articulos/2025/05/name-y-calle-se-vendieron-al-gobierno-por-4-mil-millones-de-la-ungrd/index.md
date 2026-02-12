@@ -5,10 +5,10 @@ pubDate: "2025-05-09 10:53:33"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/name-y-calle-se-vendieron-al-gobierno-por-4-mil-millones-de-la-ungrd/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/name-y-calle-se-vendieron-al-gobierno-por-4-mil-millones-de-la-ungrd/hero.jpg
 ---
 
-![Ahora Iván Name y Andrés Calle amanecieron tras las rejas./Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/05/name-y-calle-se-vendieron-al-gobierno-por-4-mil-millones-de-la-ungrd/hero.jpg)
+![Ahora Iván Name y Andrés Calle amanecieron tras las rejas./Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/name-y-calle-se-vendieron-al-gobierno-por-4-mil-millones-de-la-ungrd/hero.jpg)
 *Ahora Iván Name y Andrés Calle amanecieron tras las rejas./Cortesía.*
 
 **Name y Calle** amanecieron tras las rejas. Recibieron en forma ilegal **$4 mil millones**. **[Olmedo López](/articulos/post/qui%C3%A9n-est%C3%A1-detr%C3%A1s-del-misterioso-olmedo-l%C3%B3pez)**, y **Sneyder Pinilla**, director y subdirector, respectivamente de la **UNGRD** para la época de los hechos pagaron las coimas. Con esta conducta **Iván Name y Andrés Calle**, expresidente del senado y de la cámara, correlativamente, incurrieron en un posible **delito de cohecho propio y enriquecimiento ilícito**. La pregunta clave: **¿Qué compró el gobierno nacional con ese dinero?**

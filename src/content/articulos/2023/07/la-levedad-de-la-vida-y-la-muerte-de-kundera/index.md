@@ -5,10 +5,10 @@ pubDate: "2023-07-16 14:41:40"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/la-levedad-de-la-vida-y-la-muerte-de-kundera/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/la-levedad-de-la-vida-y-la-muerte-de-kundera/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2023/07/la-levedad-de-la-vida-y-la-muerte-de-kundera/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/la-levedad-de-la-vida-y-la-muerte-de-kundera/hero.jpg)
 *La insoportable levedad del ser*
 
 El escritor checo, Milán Kundera, murió en París a los 94 años el 11 de julio de 2023. El escritor y filósofo caribeño, **Bruno Elías Maduro**, residente en Cartagena, nos presenta en este podcast la primera entrega de un análisis sobre el pensamiento de uno de los escritores más importantes de la extinta _cortina de hierro_, Milán Kundera. Su obra más conocida _La insoportable levedad del ser_ nos puso a pensar el **tema del poder** y de la alienación de los seres humanos en nuestra vida cotidiana.

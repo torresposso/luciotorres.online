@@ -5,10 +5,10 @@ pubDate: "2025-11-11 00:02:43"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/trump-quiere-a-gustavo-petro-preso-o-muerto/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/trump-quiere-a-gustavo-petro-preso-o-muerto/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/trump-quiere-a-gustavo-petro-preso-o-muerto/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/trump-quiere-a-gustavo-petro-preso-o-muerto/hero.jpg)
 
 El mar Caribe vuelve a convertirse en escenario de una batalla silenciosa. ¿Trump quiere a Gustavo Petro «preso o muerto»? Mientras existen fuertes rumores sobre la existencia de una orden de captura contra el presidente colombiano, bajo el pretexto de operaciones antidrogas, la Armada de Estados Unidos reporta ataques contra supuestas embarcaciones cerca de los puertos de Colombia y Venezuela. Entre tanto, el portaaviones **USS Gerald R. Ford**, símbolo del poder naval estadounidense, se posiciona estratégicamente frente al litoral surcontinental caribeño.
 
@@ -61,7 +61,7 @@ Aparentemente el objetivo no es invadir, sino **asfixiar política, económica 
 
 ### **El llamado de la historia**
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2025/11/trump-quiere-a-gustavo-petro-preso-o-muerto/Daniel_garcia_pena.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/trump-quiere-a-gustavo-petro-preso-o-muerto/Daniel_garcia_pena.jpg)
 
 Ante la escalada, Petro respondió desde la diplomacia. Llamó a consultas a su embajador en Washington, **Daniel García-Peña**. Denunció públicamente las injerencias y elevó su discurso en defensa del **Sur global**. Su postura encarna un principio esencial del derecho internacional: el **respeto a la soberanía nacional**.
 

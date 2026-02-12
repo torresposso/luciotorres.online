@@ -5,12 +5,12 @@ pubDate: "2022-07-06 14:57:30"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Podcast","Videos"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/poder-comunal-sin-interferencia-partidista/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/poder-comunal-sin-interferencia-partidista/hero.jpg
 ---
 
 ¿Se podrá consolidar un **poder comunal** sin interferencia partidista? Esa es la aspiración de líderes y lideresas comunales que se han resistido a los mismos **vicios electorales** con la compra y venta del voto. Este fenómeno se observa más en la elección de directivos de niveles superiores. Con motivo de la nueva **ley 2166 de 2021** que rige la nueva vida de los **Organismos de Acción Comunal (OAC)**, en Colombia se renovarán los directivos y dignatarios de segundo, tercero y cuarto grado.
 
-![Geverson Ortiz Soto es el presidente de la Asociación de Juntas de Acción Comunal de la localidad 3 de Cartagena de Indias, aboga por el poder comunal.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/07/poder-comunal-sin-interferencia-partidista/hero.jpg)
+![Geverson Ortiz Soto es el presidente de la Asociación de Juntas de Acción Comunal de la localidad 3 de Cartagena de Indias, aboga por el poder comunal.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/poder-comunal-sin-interferencia-partidista/hero.jpg)
 *Geverson Ortiz Soto es el presidente de la Asociación de Juntas de Acción Comunal de la localidad 3 de Cartagena de Indias, aboga por el poder comunal.*
 
 ¿Puede una ley cambiar el curso de la actual crisis de la organización comunal? Sin duda, no. Si los líderes no están formado en una ética férrea y en un concepto internalizado sobre la moralidad pública, seguirá la misma crisis de las acciones comunales. La formación debe ir en dos sentidos integrados. La formación integral del individuo comunal y en el conocimiento de los principios comunales.

@@ -5,10 +5,10 @@ pubDate: "2026-01-22 23:19:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/hero.jpg
 ---
 
-![Pedro Aponte, el más comprometido del complot contra Gloria Estrada](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/hero.jpg)
+![Pedro Aponte, el más comprometido del complot contra Gloria Estrada](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/hero.jpg)
 
 En toda novela de Agatha Christie hay un momento en que el lector deja de preguntarse _qué pasó_ y empieza a interrogarse _quién tenía el poder para que pasara_. En el complot contra **Gloria Estrada**, ese momento llega cuando aparece un nombre que se repite como un eco en las sombras: el hoy concejal **Pedro Aponte**, compañero de recinto de su presunta víctima en el concejo de Cartagena de Indias.
 
@@ -20,7 +20,7 @@ Mientras tanto, este 23 de enero se tiene prevista la audiencia de preclusión d
 
 ## **El móvil**
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/FredysQuintero_Cassiani_pedro-aponte-1024x622.jpeg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/FredysQuintero_Cassiani_pedro-aponte-1024x622.jpeg)
 *¿Está aquí el hombre de atrás? Al fondo, Pedro Aponte y el exconcejal de Cambio Luis Cassiani.*
 
 En el artículo «El camino de un falso positivo», consolidamos la hipótesis del complot:
@@ -37,14 +37,14 @@ La actuación de la concejal **amenazó una estructura de poder local, contratac
 
 ## «El judas» Martínez de la Puente
 
-![Pedro Aponte compartiendo con Mauro Martinez de la Puente, el «Judas».](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/gloria-aponte-y-mauro-1024x576.jpeg)
+![Pedro Aponte compartiendo con Mauro Martinez de la Puente, el «Judas».](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/gloria-aponte-y-mauro-1024x576.jpeg)
 *Pedro Aponte compartiendo con Mauro Martínez de la Puente, el «Judas».*
 
 Un personaje clave en esta patraña, presuntamente _craneada_ por **Pedro Aponte**, es **Mauro Martínez de la Puente**. Aprovechando su cercanía y amistad con Martín Barreto, ese 14 de enero no se le despegó, excepto para ir al baño. Todo indica que los determinadores del crimen le asignaron el rol de campanero o mosca para la consumación del complot.
 
 Una vez las autoridades comenzaron a llamar a los sospechosos, Mauro Martínez de la Puente se fue a Estados Unidos. Regresó cuando ya se habían enfriado las cosas. Por medio de **Fejed Alí**, según fuentes de entero crédito, se encuentra vinculado a la gobernación de Bolívar. Esto tiene su explicación. Fejed es muy amigo de **Pedro Aponte** y los dos protegen a Mauro Martínez de la Puente. Recordemos que durante la administración de Dumek Turbay en la gobernación, Martínez de la Puente fue alcalde encargado del municipio **Barranco de Loba**.
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/mauro_delapuente.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/mauro_delapuente.jpg)
 
 El 19 de febrero, un mes después de los hechos, las evidencias fueron dándole forma a la hipótesis que lanzamos en **VoxPopuli.Digital**. Así lo anunciamos:
 
@@ -56,7 +56,7 @@ Al principio, tanto Estrada como Barreto no podían creer que Martínez de la Pu
 
 ## El hombre bisagra entre política y policía
 
-![ayor Gustavo Bueno es una de las fichas del complot más comprometidas, incluso, que el agente Alexander Salas. La Fiscalía tiene suficiente material probatorio para llamarlo a juicio.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/mayor-bueno-retrato.jpg)
+![ayor Gustavo Bueno es una de las fichas del complot más comprometidas, incluso, que el agente Alexander Salas. La Fiscalía tiene suficiente material probatorio para llamarlo a juicio.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2026/01/el-hombre-de-atras-todo-conduce-a-pedro-aponte/mayor-bueno-retrato.jpg)
 *Mayor Gustavo Bueno es una de las fichas del complot más comprometidas, incluso, que el agente Alexander Salas. Su relación con el presunto determinador es muy estrecha. La Fiscalía tiene suficiente material probatorio para llamarlo a juicio, según lo constató VoxPopuli.Digital.*
 
 Si el hombre de atrás apunta al exedil de la Localidad 2, Pedro Aponte, actual concejal de Cambio Radical, en su ejecución debe aparecer un **operador técnico**. Las pistas y las evidencias apuntan al mayor **Gustavo Adolfo Bueno Aguilar**.

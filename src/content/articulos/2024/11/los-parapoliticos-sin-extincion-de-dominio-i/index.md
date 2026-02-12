@@ -5,10 +5,10 @@ pubDate: "2024-11-01 11:43:20"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/hero.jpg
 ---
 
-![En los tiempos que estalló el escándalo de la parapolitica](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/hero.jpg)
+![En los tiempos que estalló el escándalo de la parapolitica](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/hero.jpg)
 *En los tiempos que estalló el escándalo de la parapolitica, el presidente era Álvaro Uribe y su alter ego, Juan Manuel Santos, su ministro de Defensa. /AFP*
 
 Ninguno de los excongresistas conocidos como **«parapolíticos»** ―con excepción de **Álvaro García Romero**― fue procesado por los crímenes de lesa humanidad cometidos por los excomandantes del paramilitarismo, como **Salvatore Mancuso**. Se colige que el 30% de los **votos _paras_** que eligió ese congreso fue el mismo que eligió en 2002 al presidente **Álvaro Uribe Vélez**, quien gobernó por dos períodos y entregó la posta a **Juan Manuel Santos** con 8 años más de régimen **_Neobonapartista_** de derecha. Llama la atención que la justicia no persiguió los bienes de los condenados ni tampoco de los procesados con la extinción de dominio. Ni tampoco sus finanzas.
@@ -21,12 +21,12 @@ Así como los **«parapolíticos»**, están los grandes empresarios denominados
 
 ## Los «parapolíticos»
 
-![Dieb Maloof, sin extinción de dominio. Ahora empresario y gran amigo del gobernador del Atlántico Eduardo Verano de la Rosa./Captura de pantalla](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/Dieb_Maloof.jpeg)
+![Dieb Maloof, sin extinción de dominio. Ahora empresario y gran amigo del gobernador del Atlántico Eduardo Verano de la Rosa./Captura de pantalla](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/Dieb_Maloof.jpeg)
 *Dieb Maloof, sin extinción de dominio. Ahora un gran empresario de la salud y amigo del gobernador del Atlántico Eduardo Verano de la Rosa./Captura de pantalla.*
 
 Cuando el 14 de mayo de 2007 **Reginaldo Montes** **Álvarez** era Senador de la República fue detenido por ser uno de los firmantes del llamado [Pacto de Ralito](https://luciotorres.local/wiki/Pacto_de_Ralito). Un año después (2008) fue condenado a 6 años de prisión. Y después vino una chorrera de condenas y procesados que fácilmente superó el escándalo del **«Proceso 8000»**. Esto ocasionó que el **30%** del congreso comenzara a tambalear. Este era el porcentaje de los parlamentarios que hicieron acuerdo políticos con ellos.
 
-![Exsenador Mario Uribe, descaradamente vive en un apartamento destinado a las víctimas de Don Berna./Cortesía.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/Mario_uribe-1024x591.jpeg)
+![Exsenador Mario Uribe, descaradamente vive en un apartamento destinado a las víctimas de Don Berna./Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/Mario_uribe-1024x591.jpeg)
 *Exsenador Mario Uribe, descaradamente vive en un apartamento destinado a las víctimas de Don Berna./Cortesía.*
 
 En 2013 los nuevos partidos "**_paras_**" quedaron sin parlamentarios. Colombia Democrática del senador **Mario Uribe**, el primo del presidente Álvaro Uribe, desapareció. Lo mismo que **Colombia Viva**. Uno de sus senadores, **Dieb Maloof**, fue condenado y vinculado al homicidio del alcalde de Santo Tomás (Atlántico), **Nelson Mejía Sarmiento**. Hoy es un poderoso empresario de la salud y se señala de ser testaferro de **_Los Intocables_**.
@@ -50,7 +50,7 @@ En Colombia, las causales de extinción de dominio se basan en el **artículo 34
 *   Suspensión del poder dispositivo
 *   Embargo
 *   Secuestro
-*   Toma de posesión de bienes, haberes y negocios.![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/86ade1a5-2983-4a5e-849c-5d93a023620b)
+*   Toma de posesión de bienes, haberes y negocios.![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/los-parapoliticos-sin-extincion-de-dominio-i/86ade1a5-2983-4a5e-849c-5d93a023620b)
 
 ## La ley bien, pero...
 

@@ -5,10 +5,10 @@ pubDate: "2024-08-27 12:44:20"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/donde-esta-la-plata-de-la-paz-actuacion-especial-de-fiscalizacion-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/donde-esta-la-plata-de-la-paz-actuacion-especial-de-fiscalizacion-i/hero.jpg
 ---
 
-![Los informes de las Contraloría para hablar de la plata de la paz se quedan solo en eso, informes, no en acción fiscal con resultados.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/donde-esta-la-plata-de-la-paz-actuacion-especial-de-fiscalizacion-i/Contraloria_carlos-rodriguez-1024x413.jpeg)
+![Los informes de las Contraloría para hablar de la plata de la paz se quedan solo en eso, informes, no en acción fiscal con resultados.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/donde-esta-la-plata-de-la-paz-actuacion-especial-de-fiscalizacion-i/Contraloria_carlos-rodriguez-1024x413.jpeg)
 *Los informes de las Contraloría para hablar de la plata de la paz se quedan solo en eso, informes, no en acción fiscal con resultados.*
 
 ¿Dónde está la plata de la paz? En algo tenemos que sobresalir. El Caribe colombiano tiene kilómetros de ventaja sobre las demás regiones en los **hallazgos fiscales** del 2023 cercanos a **$ 599.371 millones**. La costa tiene la mayor participación de estos hallazgos: **$235.821 millones.** ¡El 40%! La costa Atlántica tiene 4 regiones de paz: Montes de María, Sierra Nevada, Sur de Bolívar y Sur de Córdoba. De las cuales, el departamento de Bolívar tiene dos. En el 2022 La **Agencia de Renovación del Territorio**, ART, destinó [para la región $3 billones para estas poblaciones](/articulos/noticias/destinan-mas-de-3-billones-para-proyectos-pdet-en-el-caribe/).
@@ -37,7 +37,7 @@ Algunos veedores, como **Héctor Pérez, Jorge Quintana o Pablo Bustos**, le man
 
 ## La galería oscura de cuidadores del presupuesto
 
-![David Turbay, excontralor de la República que fue apresado en el proceso 8.000.. La plata de la paz.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2024/08/donde-esta-la-plata-de-la-paz-actuacion-especial-de-fiscalizacion-i/hero.jpg)
+![David Turbay, excontralor de la República que fue apresado en el proceso 8.000.. La plata de la paz.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/donde-esta-la-plata-de-la-paz-actuacion-especial-de-fiscalizacion-i/hero.jpg)
 *David Turbay, excontralor de la República, que fue condenado en el proceso 8.000, perdió la batalla jurídica ante la Corte Suprema de Justicia que consideró su proceso como caso cerrado.*
 
 ¿Tienen razón esos veedores citados? Existen muchos elementos para creer esa percepción. Muchos contralores generales fueron duramente cuestionados y hasta pagaron cárcel. La galería de este cartel la integran, por ejemplo, **Manuel Francisco Becerra Barney, (1990-1994); David Turbay Turbay, (1994-1998); Rodolfo González García, (1982-1990); Aníbal Martínez Zuleta, (1975-1982); y Julio Enrique Escallón Ordóñez, (1971-1975)**. 

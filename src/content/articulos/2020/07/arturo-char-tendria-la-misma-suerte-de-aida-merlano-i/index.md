@@ -5,10 +5,10 @@ pubDate: "2020-07-22 01:34:09"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/arturo-char-tendria-la-misma-suerte-de-aida-merlano-i/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/arturo-char-tendria-la-misma-suerte-de-aida-merlano-i/hero.jpg
 ---
 
-![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/07/arturo-char-tendria-la-misma-suerte-de-aida-merlano-i/hero.jpg)
+![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/arturo-char-tendria-la-misma-suerte-de-aida-merlano-i/hero.jpg)
 *Un escándalo judicial sacaría de juego a Arturo Char que podría convertir el Capitolio en una supertienda de la democracia para la compra-venta del voto.*
 
 **¿Arturo Char tendría la misma suerte de Aída Merlano?** Un nuevo escándalo estaría _ad portas_ de estallar en el poder legislativo. La Costa Caribe, por tanto, no podría sentirse orgullosa de tener un nuevo Presidente del Senado con **Arturo Char Chaljub** (Cambio Radical). La Corte Suprema de Justicia (CSJ) seguramente dirigirá sus reflectores sobre su última elección donde recibió 126 mil votos presuntamente comprados a un electorado empobrecido y necesitado. ¿Por qué? **Su elección tuvo el mismo modus operandi de Aida Merlano**, pero con recursos económicos ilimitados.

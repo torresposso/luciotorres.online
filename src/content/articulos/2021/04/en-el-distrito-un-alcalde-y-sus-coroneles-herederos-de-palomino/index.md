@@ -5,10 +5,10 @@ pubDate: "2021-04-24 00:45:28"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/hero.jpg
 ---
 
-\[caption id="attachment\_14653" align="aligncenter" width="1280"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/hero.jpg) ¿Los herederos de Palomino? Dau está feliz con sus nuevos colaboradores.\[/caption\]
+\[caption id="attachment\_14653" align="aligncenter" width="1280"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/hero.jpg) ¿Los herederos de Palomino? Dau está feliz con sus nuevos colaboradores.\[/caption\]
 
 **El alcalde y sus coroneles**, se convirtieron en un  **«verdadero gol»** contra los cartageneros. Se aspiraba tener una administración liderada por un alcalde incorruptible. Pero con la posesión del nuevo Secretario General, coronel (r) **Luis Enrique Roa Merchán**, se quitó la careta. Contra viento y marea lo habíamos pronosticado. ¿Puede **un buitre salvar a un moribundo?**
 
@@ -18,7 +18,7 @@ En tanto que en Distriseguridad hubo relevo de coronel a coronel. Fue ascendido 
 
 ## ¿Serán los herederos de Palomino?
 
-\[caption id="attachment\_14655" align="alignleft" width="291"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/luis-roy-merchan-1.jpg) Una de las últimas apariciones del coronel Roa Merchán.\[/caption\]
+\[caption id="attachment\_14655" align="alignleft" width="291"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/luis-roy-merchan-1.jpg) Una de las últimas apariciones del coronel Roa Merchán.\[/caption\]
 
 El hecho de que haya algo en común no quiere decir que los coroneles sean de por sí los herederos del general Palomino. No obstante, si su conducta en la administración pública raya en lo que rayó Palomino, inevitablemente, la respuesta será afirmativa. 
 
@@ -38,7 +38,7 @@ Como detective, Castro Castañeda también sabe lo que es perseguir a periodista
 
 ## Un detective en Corvivienda
 
-\[caption id="attachment\_14138" align="aligncenter" width="922"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/nestor-corvivienda.jpg) Néstor Castro con sus asesores. Una es del partido de la U y el otro conservador.\[/caption\]
+\[caption id="attachment\_14138" align="aligncenter" width="922"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/nestor-corvivienda.jpg) Néstor Castro con sus asesores. Una es del partido de la U y el otro conservador.\[/caption\]
 
 Esta administración tiene una clara inclinación al poder militar. Pareciera que William Dau, **un síndrome de magalomanía  padeciera**. (Parecer y padecer parecieran que fueran iguales). De manera que puede mentir, manipular, acosar, quitar y poner. Quiere que le obedezcan al pie de la letra. Esto refleja también sus ínfulas de militar frustrado. Pero él sabe para dónde va con su aparente locura.
 
@@ -64,7 +64,7 @@ El exdetective del DAS, **Néstor Castro Castañeda, debido a su evidente amor p
 
 ## Los herederos de Palomino
 
-\[caption id="attachment\_14656" align="aligncenter" width="600"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/coronel-roa-merchan.jpg) El coronel Roa Merchán con el diseño de la gorra que ahora usa el alcalde.\[/caption\]
+\[caption id="attachment\_14656" align="aligncenter" width="600"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-el-distrito-un-alcalde-y-sus-coroneles-herederos-de-palomino/coronel-roa-merchan.jpg) El coronel Roa Merchán con el diseño de la gorra que ahora usa el alcalde.\[/caption\]
 
 Una de las características del que fuera director de la Policía Nacional, **general Rodolfo Palomino López**, es el acoso laboral. Algunas víctimas de la administración distrital manifiestan que en el gobierno de Dau existen muchos acosadores.
 

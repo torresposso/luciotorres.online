@@ -5,10 +5,10 @@ pubDate: "2022-11-30 03:13:32"
 author: "Lucio"
 categories: ["Análisis","Post Conflicto"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/la-paradoja-de-la-justicia-una-madre-esposada-y-un-criminal-endiosado/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/la-paradoja-de-la-justicia-una-madre-esposada-y-un-criminal-endiosado/hero.jpg
 ---
 
-![Alberto Laino Scopetta habría sido uno de los fundadores del frente Pablo Díaz. Autor de una cadena de asesinatos. La paradoja de la justicia.](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2022/11/la-paradoja-de-la-justicia-una-madre-esposada-y-un-criminal-endiosado/hero.jpg)
+![Alberto Laino Scopetta habría sido uno de los fundadores del frente Pablo Díaz. Autor de una cadena de asesinatos. La paradoja de la justicia.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/la-paradoja-de-la-justicia-una-madre-esposada-y-un-criminal-endiosado/hero.jpg)
 *Alberto Laino Scopetta habría sido uno de los fundadores del frente Pablo Díaz. Autor de una cadena de asesinatos. La paradoja de la justicia.*
 
 Mientras en Cartagena la policía llevaba a **Norelis Álvarez** a rastra y esposada con su bebé en brazos, en Barranquilla, un criminal que posaba de empresario, alias **«Ojitos Azules»**, la [Fiscalía](/articulos/colombia/noticias/cae-alias-ojitos-azules-uno-de-los-exjefes-del-bloque-norte-de-las-extintas-auc-investigado-por-crimenes-contra-sindicalistas/#:~:text=Recientemente%20fue%20condenado%20a%2032,docente%20en%20Barranquilla%20\(Atl%C3%A1ntico\).) lo conducía como si le hiciera calle de honor. **¡La paradoja de la justicia!** Ella, trabajadora de una distinguida cadena de almacenes que reclamaba su liquidación laboral. Él, destacado empresario del blindaje y reconocido palmicultor. Pero, en su pasado no remoto, fue el segundo al mando de una organización criminal que asesinó a miles de personas en la región Caribe. ¡Allí está la diferencia!

@@ -5,10 +5,10 @@ pubDate: "2020-04-25 23:57:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/historia-de-un-alcalde-fumador-de-bazuco/hero.jpg
+heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/04/historia-de-un-alcalde-fumador-de-bazuco/hero.jpg
 ---
 
-\[caption id="attachment\_11564" align="aligncenter" width="549"\]![](https://bundled-saddlebag-tnqki7w.t3.storageapi.dev/2020/04/historia-de-un-alcalde-fumador-de-bazuco/hero.jpg) Marion Barry alcalde popular que cayó por bazuco. Cortesía Wikipedia.\[/caption\] **Marion Barry, alcalde de Washington (1990),** era un afrodescendiente que había sido reelegido por cuarta vez en la capital del imperio. Muchos de sus seguidores lo admiraban. Los suburbios habitados por afrodescendientes lo amaban. Pero tenía un problema que algún periodista se atrevió a sacar a la luz pública: **se daba por la torre.** Y con bazuco, que no es lo mismo.
+\[caption id="attachment\_11564" align="aligncenter" width="549"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/04/historia-de-un-alcalde-fumador-de-bazuco/hero.jpg) Marion Barry alcalde popular que cayó por bazuco. Cortesía Wikipedia.\[/caption\] **Marion Barry, alcalde de Washington (1990),** era un afrodescendiente que había sido reelegido por cuarta vez en la capital del imperio. Muchos de sus seguidores lo admiraban. Los suburbios habitados por afrodescendientes lo amaban. Pero tenía un problema que algún periodista se atrevió a sacar a la luz pública: **se daba por la torre.** Y con bazuco, que no es lo mismo.
 
 ## En defensa de Dau
 
