@@ -1,0 +1,1 @@
+ts=2026-02-12T02:29:35.530Z type=decision scope=deployment content="Railway deployment failing due to npx command not found in bun image. Fixed by changing CMD from 'npx' to 'bun x' in both Dockerfile and railway.json. Also migrated all 4,601 images to Railway Storage Bucket and updated markdown files to use CDN URLs." tags=railway,docker,deployment,bucket,images

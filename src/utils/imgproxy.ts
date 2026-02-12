@@ -33,7 +33,6 @@ export const getImgproxyUrl = (src: any, width?: number, height?: number, format
     const cleanFullSrc = imageSrc.split("?")[0].split("#")[0];
 
     if (!IMGPROXY_URL || !IMGPROXY_KEY || !IMGPROXY_SALT) {
-        console.log(`[Imgproxy Fallback] ${cleanFullSrc}`);
         return cleanFullSrc;
     }
 
@@ -43,8 +42,6 @@ export const getImgproxyUrl = (src: any, width?: number, height?: number, format
 
     const signature = sign(IMGPROXY_SALT, pathForSign, IMGPROXY_KEY);
     const finalUrl = `${IMGPROXY_URL}/${signature}${pathForSign}`;
-
-    console.log(`[Imgproxy Active] ${cleanFullSrc} -> ${finalUrl}`);
 
     return finalUrl;
 };

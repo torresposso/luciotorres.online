@@ -66,17 +66,6 @@ function getPageNumbers(windowSize = 5): (number | "...")[] {
 
 const pageNumbers = getPageNumbers();
 
-console.log("[Pagination Debug] page.currentPage:", page?.currentPage);
-console.log("[Pagination Debug] page.lastPage:", page?.lastPage);
-console.log("[Pagination Debug] page.url.prev:", page?.url?.prev);
-console.log("[Pagination Debug] page.url.next:", page?.url?.next);
-console.log("[Pagination Debug] pageNumbers:", pageNumbers);
-
-// Fallback: if pageNumbers is empty or page is undefined, show a simple pagination
-if (!pageNumbers || pageNumbers.length === 0) {
-  console.warn("[Pagination] pageNumbers is empty, page might be undefined");
-}
-
 ---
 <style>
   .pagination {
