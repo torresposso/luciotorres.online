@@ -1,0 +1,56 @@
+# Git
+.git/
+.gitignore
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+.astro/
+cache/
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Content images (will be fetched from existing site or CDN)
+src/content/articulos/**/hero.jpg
+src/content/articulos/**/*.jpg
+src/content/articulos/**/*.jpeg
+src/content/articulos/**/*.png
+src/content/articulos/**/*.webp
+src/content/articulos/**/*.gif
+!src/content/articulos/**/placeholder.jpg
+
+# Scripts not needed in production
+scripts/
+
+# Documentation
+README.md
+
+# Package locks
+package-lock.json
+yarn.lock
+bun.lock
+
+# Tests
+*.test.js
+*.test.ts
+*.spec.js
+*.spec.ts

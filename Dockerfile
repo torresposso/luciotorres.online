@@ -26,4 +26,4 @@ COPY --from=builder /app/node_modules /app/node_modules
 
 EXPOSE 8080
 
-CMD ["x", "serve", "dist", "-p", "8080"]
+CMD ["npx", "serve", "dist", "-p", "8080"]
