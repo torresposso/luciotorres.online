@@ -22,8 +22,11 @@ WORKDIR /app
 ENV NODE_ENV=production
 
 COPY --from=builder /app/dist /app/dist
-COPY --from=builder /app/node_modules /app/node_modules
+COPY --from=builder /app/package.json /app/package.json
+
+# Install serve globally with bun
+RUN bun add -g serve
 
 EXPOSE 8080
 
-CMD ["npx", "serve", "dist", "-p", "8080"]
+CMD ["bun", "x", "serve", "dist", "-p", "8080"]
