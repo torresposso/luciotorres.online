@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@400;500;600;700;800&family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Newsreader:wght@400;500;600;700;800&family=Roboto:wght@300;400;500;700;900&display=swap");
 
 @import "tailwindcss";
 @plugin "daisyui";
 @plugin "@tailwindcss/typography";
 
-/* 
+/*
   LUCIOTORRES.ONLINE - RESET DESIGN SYSTEM (COLOMBIA THEME)
   Based on "UI-UX-PRO-MAX" Skill Brainstorming
   Palette: Flag of Colombia (Yellow, Blue, Red)
@@ -12,30 +12,29 @@
 */
 
 @theme {
-  --font-editorial: "Newsreader", serif;
-  --font-sans: "Roboto", sans-serif;
+    --font-editorial: "Newsreader", serif;
+    --font-sans: "Roboto", sans-serif;
 
-  --animate-float: float 4s ease-in-out infinite;
+    --animate-float: float 4s ease-in-out infinite;
 
-  @keyframes float {
+    @keyframes float {
+        0%,
+        100% {
+            transform: translateY(0);
+        }
 
-    0%,
-    100% {
-      transform: translateY(0);
+        50% {
+            transform: translateY(-8px);
+        }
     }
-
-    50% {
-      transform: translateY(-8px);
-    }
-  }
 }
 
-/* 
+/*
   DAISYUI 5 THEME: colombia
   Yellow: #FCD116 (Standard Flag Yellow)
   Blue: #003893 (Deep Navy Blue)
   Red: #CE1126 (Strong Red)
-  
+
   Structure:
   - Base: White/Slate-50 for clean look
   - Primary: Yellow (Optimism/Wealth) -> Blue Text
@@ -44,117 +43,124 @@
 */
 
 @layer base {
+    /* Manual override for 'colombia' theme - Highest Specificity */
+    html[data-theme="colombia"] {
+        color-scheme: light;
 
-  /* Manual override for 'colombia' theme - Highest Specificity */
-  html[data-theme="colombia"] {
-    color-scheme: light;
+        /* Base Colors */
+        --color-base-100: #ffffff;
+        --color-base-200: #f8fafc;
+        /* Slate 50 */
+        --color-base-300: #e2e8f0;
+        /* Slate 200 */
+        --color-base-content: #0f172a;
+        /* Slate 900 */
 
-    /* Base Colors */
-    --color-base-100: #FFFFFF;
-    --color-base-200: #F8FAFC;
-    /* Slate 50 */
-    --color-base-300: #E2E8F0;
-    /* Slate 200 */
-    --color-base-content: #0F172A;
-    /* Slate 900 */
+        /* Brand Colors */
+        --color-primary: #fce346;
+        --color-primary-content: #0f172a; /* Using base-content for better contrast */
 
-    /* Brand Colors */
-    --color-primary: #FCD116;
-    --color-primary-content: #003893;
+        --color-secondary: #002b7f; /* Deeper blue */
+        --color-secondary-content: #ffffff;
 
-    --color-secondary: #003893;
-    --color-secondary-content: #FFFFFF;
+        --color-accent: #c7002c; /* Slightly darker red */
+        --color-accent-content: #ffffff;
 
-    --color-accent: #CE1126;
-    --color-accent-content: #FFFFFF;
+        --color-neutral: #1e293b;
+        --color-neutral-content: #f8fafc;
 
-    --color-neutral: #1E293B;
-    --color-neutral-content: #F8FAFC;
+        /* Semantic Colors */
+        --color-info: #3b82f6;
+        --color-info-content: #ffffff;
 
-    /* Semantic Colors */
-    --color-info: #3B82F6;
-    --color-info-content: #FFFFFF;
+        --color-success: #10b981;
+        --color-success-content: #ffffff;
 
-    --color-success: #10B981;
-    --color-success-content: #FFFFFF;
+        --color-warning: #f59e0b;
+        --color-warning-content: #ffffff;
 
-    --color-warning: #F59E0B;
-    --color-warning-content: #FFFFFF;
+        --color-error: #ef4444;
+        --color-error-content: #ffffff;
 
-    --color-error: #EF4444;
-    --color-error-content: #FFFFFF;
+        /* Shape / Radii - Modern vs Traditional Balance */
+        --radius-selector: 1rem;
+        --radius-field: 1rem;
+        --radius-box: 1rem;
+        --radius-btn: 0.75rem; /* More discreet modern button */
+        --radius-badge: 9999px;
+    }
 
-    /* Shape / Radii - Modern vs Traditional Balance */
-    --radius-selector: 1rem;
-    --radius-field: 1rem;
-    --radius-box: 1rem;
-    --radius-btn: 9999px;
-    /* Pill buttons strictly for primary actions */
-    --radius-badge: 9999px;
-  }
+    body {
+        font-family: var(--font-sans);
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
+    }
 
-  body {
-    font-family: var(--font-sans);
-    line-height: 1.6;
-    -webkit-font-smoothing: antialiased;
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: var(--font-editorial);
-    font-weight: 800;
-    /* Bolder headers */
-    letter-spacing: -0.02em;
-  }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: var(--font-editorial);
+        font-weight: 800;
+        /* Bolder headers */
+        line-height: 1.1; /* Improved legibility for headlines */
+        letter-spacing: -0.03em; /* Slightly tighter for a modern look */
+    }
 }
 
 @layer components {
-  /* 
+    /*
     Patriotic Gradients & Utilities
   */
 
-  .bg-gradient-flag {
-    background: linear-gradient(135deg, #FCD116 0%, #FCD116 40%, #003893 40%, #003893 70%, #CE1126 70%, #CE1126 100%);
-  }
+    .bg-gradient-flag {
+        background: linear-gradient(
+            135deg,
+            #fcd116 0%,
+            #fcd116 40%,
+            #003893 40%,
+            #003893 70%,
+            #ce1126 70%,
+            #ce1126 100%
+        );
+    }
 
-  .text-gradient-flag {
-    background: linear-gradient(to right, #FCD116, #003893, #CE1126);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
+    .text-gradient-flag {
+        background: linear-gradient(to right, #fcd116, #003893, #ce1126);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
 
-  /* Glassmorphism Panel */
-  .glass-panel {
-    @apply bg-white/80 backdrop-blur-md border border-white/50 shadow-lg;
-  }
+    /* Glassmorphism Panel */
+    .glass-panel {
+        @apply bg-white/80 backdrop-blur-md border border-white/50 shadow-lg;
+    }
 
-  /* Flag Stripe Separator (The "Línea Republicana" evolved) */
-  .flag-separator {
-    @apply flex w-full h-2;
-  }
+    /* Flag Stripe Separator (The "Línea Republicana" evolved) */
+    .flag-separator {
+        @apply flex w-full h-2;
+    }
 
-  .flag-separator .y {
-    @apply w-1/2 bg-primary;
-  }
+    .flag-separator .y {
+        @apply w-1/2 bg-primary;
+    }
 
-  .flag-separator .b {
-    @apply w-1/4 bg-secondary;
-  }
+    .flag-separator .b {
+        @apply w-1/4 bg-secondary;
+    }
 
-  .flag-separator .r {
-    @apply w-1/4 bg-accent;
-  }
+    .flag-separator .r {
+        @apply w-1/4 bg-accent;
+    }
 
-  /* Hero Button Styling */
-  .btn-hero-primary {
-    @apply btn btn-primary px-8 py-3 text-lg font-black uppercase tracking-widest shadow-xl shadow-primary/30 hover:shadow-2xl hover:-translate-y-1 transition-all duration-300;
-  }
+    /* Hero Button Styling */
+    .btn-hero-primary {
+        @apply btn btn-primary px-8 py-3 text-lg font-black uppercase tracking-widest shadow-xl shadow-primary/30 hover:shadow-2xl hover:-translate-y-1 transition-all duration-300;
+    }
 
-  .btn-hero-secondary {
-    @apply btn btn-outline btn-secondary px-8 py-3 text-lg font-black uppercase tracking-widest hover:bg-secondary hover:text-white transition-all duration-300;
-  }
+    .btn-hero-secondary {
+        @apply btn btn-outline btn-secondary px-8 py-3 text-lg font-black uppercase tracking-widest hover:bg-secondary hover:text-white transition-all duration-300;
+    }
 }
