@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucio Torres 2026 - Opción B</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,700;0,6..72,800&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #ffffff; color: #1A1A1A; }
+        h1, h2, h3 { font-family: 'Newsreader', serif; }
+        .bento-card { border: 1px solid #e2e8f0; padding: 2rem; transition: all 0.3s ease; }
+        .bento-card:hover { border-color: #003893; box-shadow: 0 10px 30px -10px rgba(0,56,147,0.1); }
+    </style>
+</head>
+<body class="antialiased">
+    <!-- Header: Editorial Style -->
+    <header class="border-y-4 border-black py-8 mx-8 md:mx-16 mt-8">
+        <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+            <div class="text-sm font-bold uppercase tracking-widest">Edición Especial 2026</div>
+            <div class="text-5xl md:text-7xl font-black tracking-tighter text-center">LUCIO TORRES</div>
+            <div class="text-sm font-bold uppercase tracking-widest text-[#CE1126]">Voto Consciente</div>
+        </div>
+    </header>
+
+    <nav class="flex justify-center gap-10 py-6 text-[10px] font-bold uppercase tracking-[0.3em] border-b border-slate-100 mb-16">
+        <a href="#" class="hover:text-[#003893]">Manifiesto</a>
+        <a href="#" class="hover:text-[#003893]">Economía</a>
+        <a href="#" class="hover:text-[#003893]">Seguridad</a>
+        <a href="#" class="hover:text-[#003893]">Cultura</a>
+    </nav>
+
+    <main class="max-w-screen-xl mx-auto px-8 md:px-16 pb-32">
+        <!-- Main Article Layout -->
+        <div class="grid md:grid-cols-12 gap-8">
+            <!-- Featured Column -->
+            <div class="md:col-span-8">
+                <div class="aspect-video bg-slate-100 mb-10 overflow-hidden relative">
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+                    <div class="absolute bottom-10 left-10 right-10">
+                        <span class="bg-[#FCD116] text-black text-[10px] font-bold px-3 py-1 uppercase tracking-widest mb-4 inline-block">Principal</span>
+                        <h2 class="text-white text-4xl md:text-6xl font-bold leading-tight">La Gran Colombia: Un Sueño Posible.</h2>
+                    </div>
+                </div>
+                <p class="text-2xl font-serif italic text-slate-600 mb-8 leading-relaxed border-l-4 border-[#003893] pl-8">
+                    "Hemos caminado cada rincón del país denunciando el robo de lo público. Hoy, esa misma voz convoca a la reconstrucción ética de la nación."
+                </p>
+                <div class="prose prose-lg text-slate-700 max-w-none">
+                    <p>El proyecto político de Lucio Torres no nace de una ambición personal, sino de una necesidad histórica. Tras 45 años de periodismo de investigación, la evidencia es clara: la corrupción no es un problema de manzanas podridas, sino de un sistema diseñado para el privilegio...</p>
+                </div>
+            </div>
+
+            <!-- Side Bento Sidebar -->
+            <div class="md:col-span-4 space-y-6">
+                <div class="bento-card bg-[#FDFCF8]">
+                    <h3 class="text-2xl font-bold mb-4">Pan con Paz</h3>
+                    <p class="text-sm text-slate-500 mb-6">Nuestro pilar económico: Seguridad alimentaria y estabilidad social desde el campo.</p>
+                    <button class="w-full bg-[#003893] text-white py-3 text-xs font-bold uppercase tracking-widest">Leer Plan</button>
+                </div>
+                <div class="bento-card border-[#FCD116] bg-[#FCD116]/5">
+                    <h3 class="text-2xl font-bold mb-4">Investigaciones</h3>
+                    <ul class="space-y-4">
+                        <li class="text-sm flex gap-4">
+                            <span class="text-[#003893] font-bold">01.</span>
+                            <span>El cartel de la salud en la Costa.</span>
+                        </li>
+                        <li class="text-sm flex gap-4">
+                            <span class="text-[#003893] font-bold">02.</span>
+                            <span>Regalías: El botín olvidado.</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="bg-[#CE1126] p-8 text-white text-center">
+                    <h3 class="text-3xl font-bold mb-4 tracking-tight">¡Súmate hoy!</h3>
+                    <p class="text-xs font-bold uppercase tracking-widest opacity-80 mb-6">Voluntariado Nacional</p>
+                    <input type="email" placeholder="Tu correo" class="w-full bg-white/10 border border-white/20 p-3 text-sm mb-4 placeholder:text-white/40 outline-none">
+                    <button class="w-full bg-white text-[#CE1126] py-3 text-xs font-bold uppercase tracking-widest hover:bg-slate-100 transition-colors">Enviar</button>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

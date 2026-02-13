@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucio Torres 2026 - Opción C</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,800&family=Inter:wght@400;800&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #0c0c0c; color: #ffffff; }
+        h1, h2, h3 { font-family: 'Newsreader', serif; }
+        .patriotic-gradient { background: linear-gradient(to right, #FCD116, #003893, #CE1126); }
+        .glass { background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.05); }
+    </style>
+</head>
+<body class="antialiased">
+    <!-- Dynamic Progress Bar -->
+    <div class="fixed top-0 left-0 w-full h-1 patriotic-gradient z-50"></div>
+
+    <main class="min-h-screen flex flex-col items-center justify-center relative px-8 overflow-hidden">
+        <!-- Abstract Shapes -->
+        <div class="absolute top-[-10%] right-[-10%] w-[500px] h-[500px] bg-[#003893] rounded-full blur-[150px] opacity-20"></div>
+        <div class="absolute bottom-[-10%] left-[-10%] w-[500px] h-[500px] bg-[#CE1126] rounded-full blur-[150px] opacity-20"></div>
+
+        <div class="z-10 text-center max-w-4xl">
+            <div class="inline-flex items-center gap-3 glass px-6 py-2 rounded-full mb-12">
+                <span class="w-2 h-2 rounded-full bg-[#FCD116] animate-pulse"></span>
+                <span class="text-[10px] font-bold uppercase tracking-[0.3em] opacity-60">Ruta Presidencial 2026</span>
+            </div>
+            
+            <h1 class="text-6xl md:text-9xl font-extrabold tracking-tighter mb-12 leading-[0.9]">
+                LUCIO <br>
+                <span class="text-transparent bg-clip-text patriotic-gradient italic">TORRES.</span>
+            </h1>
+
+            <p class="text-xl md:text-2xl font-light text-slate-400 mb-16 max-w-2xl mx-auto leading-relaxed">
+                Periodismo con <span class="text-white font-medium">coraje</span>, política con <span class="text-white font-medium">evidencia</span>. Una nueva era para Colombia comienza aquí.
+            </p>
+
+            <div class="flex flex-wrap justify-center gap-6">
+                <button class="bg-white text-black px-12 py-5 text-xs font-bold uppercase tracking-widest hover:bg-[#FCD116] hover:text-black transition-all">
+                    Entrar a la Ruta
+                </button>
+                <button class="glass px-12 py-5 text-xs font-bold uppercase tracking-widest hover:bg-white/10 transition-all">
+                    Ver Manifiesto
+                </button>
+            </div>
+        </div>
+
+        <!-- Stats Floating -->
+        <div class="absolute bottom-20 left-1/2 -translate-x-1/2 flex gap-12 md:gap-24 opacity-40">
+            <div class="text-center">
+                <div class="text-2xl font-bold">100%</div>
+                <div class="text-[8px] font-bold uppercase tracking-widest">Independiente</div>
+            </div>
+            <div class="text-center border-x border-white/10 px-12 md:px-24">
+                <div class="text-2xl font-bold">0</div>
+                <div class="text-[8px] font-bold uppercase tracking-widest">Maquinarias</div>
+            </div>
+            <div class="text-center">
+                <div class="text-2xl font-bold">∞</div>
+                <div class="text-[8px] font-bold uppercase tracking-widest">Compromiso</div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
