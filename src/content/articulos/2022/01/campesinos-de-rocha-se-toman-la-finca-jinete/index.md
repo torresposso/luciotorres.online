@@ -5,10 +5,10 @@ pubDate: "2022-01-28 21:33:42"
 author: "Lucio"
 categories: ["Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/campesinos-de-rocha-se-toman-la-finca-jinete/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/01/campesinos-de-rocha-se-toman-la-finca-jinete/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/campesinos-de-rocha-se-toman-la-finca-jinete/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/01/campesinos-de-rocha-se-toman-la-finca-jinete/hero.jpg)
 *Finca Jinete*
 
 En el día de hoy un grupo de campesinos se tomaron la Finca Jinete en la jurisdicción de Rocha, corregimiento del municipio de Arjona, Bolívar.

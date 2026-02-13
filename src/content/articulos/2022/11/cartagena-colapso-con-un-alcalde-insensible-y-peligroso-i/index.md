@@ -5,10 +5,10 @@ pubDate: "2022-11-09 21:08:15"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/cartagena-colapso-con-un-alcalde-insensible-y-peligroso-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/11/cartagena-colapso-con-un-alcalde-insensible-y-peligroso-i/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/cartagena-colapso-con-un-alcalde-insensible-y-peligroso-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/11/cartagena-colapso-con-un-alcalde-insensible-y-peligroso-i/hero.jpg)
 *Fueron más de tres mil mototrabajadores que protestaron contra el alcalde William Dau Chamat. Esta composición fotográfica resume la calidad de alcalde que tenemos. La protesta exige derogar el decreto 1542 del 4 de noviembre que prohíbe el parrillero. A pesar de esta medida se produjeron dos actos sicariales con un muerto y un herido. La fiebre no está en la sábana.*
 
 Bastaron 24 horas de lluvia en forma intermitente, de una protesta social de los mototrabajadores y de que los sicarios asesinaran a niños inocentes, para que los cartageneros comenzaran a darse cuenta en qué ciudad viven. Ahora, **se hace más evidente el caos social, político y urbanístico de una Cartagena de Indias** que vive su propia pesadilla. Una pesadilla creada por su mala cabeza de elegir alcaldes incompetentes, insensibles, corruptos y peligrosos. **¡Cartagena colapsó!**
@@ -39,7 +39,7 @@ En 2020 le hice una pregunta que se la repetí el 2 de febrero de 2021. ¿Que le
 
 ## Un alcalde impune y sin vergüenza
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/cartagena-colapso-con-un-alcalde-insensible-y-peligroso-i/Ibet-Cecilia-Hernandez-Sampayo.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/11/cartagena-colapso-con-un-alcalde-insensible-y-peligroso-i/Ibet-Cecilia-Hernandez-Sampayo.jpg)
 *Ibet Cecilia Hernández Sampayo, puede hacer desempolvar los expedientes contra William Dau y no lo hace. ¿Qué está ocurriendo en la Fiscalía? A Manolo Duque lo procesaron por mucho menos, y parece que Dau tuviese complicidad del mismo sistema de justicia.*
 
 El 8 de febrero presenté una denuncia penal contra el alcalde William Dau por las amenazas contra este periodista que él mismo y su cuadrilla digital de la época lanzaron contra los que abogamos por la revocatoria de su mandato el 2 de febrero de 2021. Si la Registraduría no se hubiese torcido al invalidar las 70 mil firmas que recolectamos, Cartagena se hubiese evitado tanto dolor del que hemos vivido en los dos últimos años. La teoría que teníamos con la revocatoria es que el pueblo mismo podía enderezar su propia equivocación. Pero el sistema corrupto apoyó a Dau. (¡Exijo una explicación!)
@@ -62,7 +62,7 @@ Lo grave de esta conducta privada del alcalde es que —según testimonios y que
 
 ## **«**La **lloradera»**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/cartagena-colapso-con-un-alcalde-insensible-y-peligroso-i/alcalde-rueda-de-prensa.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/11/cartagena-colapso-con-un-alcalde-insensible-y-peligroso-i/alcalde-rueda-de-prensa.jpg)
 *En esta rueda de prensa del 4 de noviembre de 2022, William Dau reflejó su verdadera esencia al señalar despectivamente el concepto de "lloradera". Cortesía prensa alcaldía.*
 
 La mente de **William Dau Chamat** no esta bien. Calificó de **«lloradera»** el duelo profundo de una familia víctima de un atentado sicarial. Allí donde murió el padre y su infante hija. La siguiente fue la reacción meditada y pensada del alcalde en la rueda de prensa del 4 de noviembre acompañado del comandante de la Policía Metropolitana de Cartagena, b.g. Nicolás Zapata:

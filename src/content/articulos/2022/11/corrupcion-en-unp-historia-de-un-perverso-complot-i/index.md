@@ -5,10 +5,10 @@ pubDate: "2022-11-23 20:25:24"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/hero.jpg)
 *Corrupción en UNP. La historia de un complot.*
 
 Después de una semana de la audiencia de fallo de absolución del exsecretario general de la Unidad Nacional de Protección—UNP, **Julián Marulanda Calero**, la Gran Prensa Nacional quedó en silencio profundo respecto a este sonado caso de hace 8 años que pasará a la historia como uno de los hechos más infame del periodismo nacional. Tanto es así, que un prestigioso medio radial y su periodista estrella ganaron el también prestigioso **Premio Simón Bolívar** siendo parte de **un complot del poder político y económico dominante.** Hay varios hechos que hacen atractiva esta historia: la muerte misteriosa con cianuro del iniciador de este complot y la desgracia judicial de de los investigadores iniciales del proceso.
@@ -29,7 +29,7 @@ Es importante saber que la UNP ocupa uno de los primeros lugares en el gasto pú
 
 ## Santos quería salir de Villamizar
 
-![Corrupción en UNP: Historia de un perverso complot. Andrés Villamizar, Camila Zuluaga y Rafael Merchán (Q.E.P.D), instrumentos de una encarnizada persecución política contra Julián Marulanda Calero. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/Marulanda_complot1.jpg)
+![Corrupción en UNP: Historia de un perverso complot. Andrés Villamizar, Camila Zuluaga y Rafael Merchán (Q.E.P.D), instrumentos de una encarnizada persecución política contra Julián Marulanda Calero. ](s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/Marulanda_complot1.jpg)
 *Corrupción en UNP: Historia de un perverso complot. Andrés Villamizar, Camila Zuluaga y Rafael Merchán (Q.E.P.D), instrumentos de una encarnizada persecución política contra Julián Marulanda Calero.*
 
 El 25 de agosto de 2014 el presidente **Juan Manuel Santos** tenía previsto salir de su director general, **Andrés Villamizar** **Pachón**. Estaba incómodo por los hechos de corrupción del cual tenía conocimiento. Las denuncias indicaban que su administración se torcía cada día más. Pero Villamizar tenía buena prensa y el apoyo político de uno de los clanes políticos con más poder, **los Galán Pachón**. Un poder logrado con la memoria de su padre asesinado **Luis Carlos Galán**, bajo la tutela de la periodista **Gloria Pachón**, a la postre, su viuda.
@@ -52,7 +52,7 @@ En el fallo de absolución de **la juez 42 Penal del Circuito de Bogotá**, cuya
 
 ## La corrupción en UNP y la **«cabeza de turco»**
 
-![Andrés Villamizar Pachón, deberá responder por los hechos de corrupción ocurrida en su gestión ante la UNP. Foto cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/Andres-Villamizar-Pachon.jpg)
+![Andrés Villamizar Pachón, deberá responder por los hechos de corrupción ocurrida en su gestión ante la UNP. Foto cortesía.](s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/Andres-Villamizar-Pachon.jpg)
 *Andrés Villamizar Pachón, deberá responder por los hechos de corrupción ocurrida en su gestión ante la UNP. Foto cortesía.*
 
 El mismo día del abortado decreto y del estallido del escándalo, Marulanda compró los tiquetes de ida, sin retorno, a Miami. **Se había enterado de que no solo lo iban a detener sino que lo pretendían matar** en la propia cárcel, diría recientemente.
@@ -63,7 +63,7 @@ El mismo día del abortado decreto y del estallido del escándalo, Marulanda com
 
 ## Corrupción UNP y honorabilidad de Marulanda
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/julian_Marulanda.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/julian_Marulanda.jpeg)
 *Julián Marulanda Calero, víctima de un entramado de corrupción en UNP. Aquí luce sonriente con una de sus condecoraciones. Foto cortesía familiar.*
 
 Para que no quedara duda de la honorabilidad de Marulanda Calero, la juez no se conformó con absolver a Marulanda sino también que compulsó copias disciplinarias y penales para establecer las responsabilidades que pudieron tener fiscales, investigadores y demás funcionarios que participaron en la etapa de indagación. **Además deberán responder el director de la UNP de la época, Andrés Villamizar y el Secretario de Transparencia de Presidencia, Rafael Merchán (que Dios le perdono todos sus pecados), como algunos periodistas que se prestaron para esta trama.**
@@ -90,7 +90,7 @@ Si el decano de la honorabilidad periodística, como lo es El Espectador, solo s
 
 ## Ocho años de tortura moral y las **«vacas sagradas»**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/camila_zuluaga.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/11/corrupcion-en-unp-historia-de-un-perverso-complot-i/camila_zuluaga.jpg)
 *Con un espurio trabajo de investigación sobre Corrupción en UNP y Julián Marulanda, Camila Zuluaga ganó el prestigioso premio nacional de periodismo Simón Bolívar en 2015. Foto tuiter personal de Camila.*
 
 En efecto, fueron 8 años de persecución política que sufrió Marulanda Calero. Ocho 8 años de estar en la picota pública de los medios de comunicación nacionales. Incluso, **Camila Zuluaga**, una exactriz venida a periodista, subalterna de **Julio Sánchez Cristo de la WR** (los une sus orígenes de farándula), obtuvo el **premio nacional de periodismo Simón Bolívar** con esta investigación espuria, falsaria e infame. Un premio no merecido porque no cuadraba con los estándares de lo que debe ser la investigación periodística. Seguramente el jurado carecía de la experticia y el conocimiento de lo que es un periodismo de investigación. Por esa razón se obnubiló más por la figura del periodista que de su investigación. Por lo menos, eso fue lo que hemos aprendido en la experiencia y en la academia con maestros del periodismo de investigación.

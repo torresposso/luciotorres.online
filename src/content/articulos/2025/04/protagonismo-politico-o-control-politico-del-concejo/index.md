@@ -5,10 +5,10 @@ pubDate: "2025-04-26 02:46:44"
 author: "Lucio"
 categories: ["Cartagena","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/hero.jpg
 ---
 
-![¿Protagonismo político o control político del concejo? El concejal Javier Julio se silenció en las decisiones más importantes. Hoy se lanzó contra una lideresa del barrio Olaya Herrera.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/hero.jpg)
+![¿Protagonismo político o control político del concejo? El concejal Javier Julio se silenció en las decisiones más importantes. Hoy se lanzó contra una lideresa del barrio Olaya Herrera.](s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/hero.jpg)
 *¿Protagonismo político o control político del concejo? El concejal Javier Julio se silenció en las decisiones más importantes del 2024. Hoy, se lanzó contra una lideresa del barrio Olaya Herrera./Cortesía.*
 
 ¿Protagonismo político o control político del concejo? Tal es la pregunta que un analista político debe hacerse sobre el contrapeso de los órganos colectivos y, en especial, de la práctica nociva de los concejos que son cooptados por el alcalde de turno. El concejal que estaba llamado a ser el jefe de la oposición, durante 2024 se durmió en los brazos de Morfeo, al parecer, **con 90 órdenes de prestación de servicios (OPS) que determinaron su silencio**.
@@ -45,7 +45,7 @@ El concejal Bejarano sin ninguna prueba en la mano, se apresuró y cuestionó un
 
 ## Silencio y ruido
 
-![El Estado Mayor dauista con el concejal Javier Julio Bejarano esperando la próxima bacanal. La izquierda en el poder resultó más hipócrita y perversa que la derecha.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/Javier_julio_conclave-1024x768.jpg)
+![El Estado Mayor dauista con el concejal Javier Julio Bejarano esperando la próxima bacanal. La izquierda en el poder resultó más hipócrita y perversa que la derecha.](s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/Javier_julio_conclave-1024x768.jpg)
 *El Estado Mayor Dauista con el concejal Javier Julio Bejarano esperando la próxima bacanal. La mayoría fue dependiente del alcalde William Dau. La izquierda en el poder resultó más hipócrita y perversa que la derecha. Algunos de ellos tienen OPS en el Distrito, la gobernación y en el gobierno nacional. El problema es el ego y no el Ser.*
 
 El concejal Bejarano ―que estaba obligado a ser el vocero de la oposición por haber ocupado el segundo lugar en la elección a la alcaldía**―** mantuvo un prolongado silencio y una inactividad en esa corporación durante el año anterior. Hoy, está desbocado y ruidoso. ¿Por qué?
@@ -72,7 +72,7 @@ El concejo le aprobó sin mayor debate todo al alcalde: plan de desarrollo, pres
 
 ## Cambio repentino
 
-![Cuando Javier Julio Bejarano cargaba sobre sus hombres a William Dau, el peor alcalde que haya tenido Cartagena en toda su historia. ¡Protagonismo político?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/C2FPEJID4FCH5MEI2I6BTCEF6Y-1024x576.jpg)
+![Cuando Javier Julio Bejarano cargaba sobre sus hombres a William Dau, el peor alcalde que haya tenido Cartagena en toda su historia. ¡Protagonismo político?](s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/C2FPEJID4FCH5MEI2I6BTCEF6Y-1024x576.jpg)
 *Cuando Javier Julio Bejarano cargaba sobre sus hombres a William Dau, el peor alcalde que haya tenido Cartagena en toda su historia. ¿Protagonismo político?*
 
 Algunos señalan que su cambio repentino de silencioso a desbocado se debe a que el alcalde **Dumek Turbay Paz** no lo atendió este año. El año pasado lo arrullaba Morfeo con sus ops. ¿Algo personal o político? Al parecer, hoy lo tienen desprendido del _tubo madre_ de la administración. Otros señalan que _partió palitos_, porque el alcalde no lo tenía en cuenta. Todo indica que ahora él tampoco quiere ser atendido por el alcalde.
@@ -85,7 +85,7 @@ De ese exiguo presupuesto que se va en burocracia, **el IPCC solo le asignó $20
 
 ## La acusación del concejal
 
-![Protagonismo político. No había radicado el derecho de petición cuando ya había acusado a Jessica de la Barrera de una presunta defraudación contra el Distrito.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/Bejarano_-1024x426.jpg)
+![Protagonismo político. No había radicado el derecho de petición cuando ya había acusado a Jessica de la Barrera de una presunta defraudación contra el Distrito.](s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/Bejarano_-1024x426.jpg)
 *El protagonismo político. El concejal Julio Bejarano no había radicado el derecho de petición cuando ya acusaba a Jessica de la Barrera de una presunta defraudación contra el Distrito.*
 
 En términos concreto, el concejal acusó a la trabajadora social y lideresa social, **Jessica de la Barrera Cabeza**, **de haber infringido los reglamentos del concurso del IPCC** y de la ley, al participar y ganar el concurso de cine y producción audiovisual.
@@ -106,7 +106,7 @@ Los requisitos señalan que **las personas naturales participantes** no pueden s
 
 ## El caso de Jessica
 
-![Jessica de la Barrera Cabeza, lideresa del barrio Olaya Herrera.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/jessica_de_la_barrera-1024x1017.jpg)
+![Jessica de la Barrera Cabeza, lideresa del barrio Olaya Herrera.](s3://bundled-saddlebag-tnqki7w/2025/04/protagonismo-politico-o-control-politico-del-concejo/jessica_de_la_barrera-1024x1017.jpg)
 *Jessica de la Barrera Cabeza, lideresa del barrio Olaya Herrera.*
 
 Existen varios elementos concretos que por sí solo constituyen un cuerpo probatorio de que **Jessica de la Barrera Cabeza**, caracterizada por su servicio con los más necesitados del popular barrio Olaya, no violó los requisitos exigidos por el concurso de estímulos.

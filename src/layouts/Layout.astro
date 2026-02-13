@@ -1,0 +1,71 @@
+---
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import BaseHead from "../components/BaseHead.astro";
+import "../styles/global.css";
+import type { ImageMetadata } from "astro";
+
+interface Props {
+    title: string;
+    description?: string;
+    image?: ImageMetadata;
+    schema?: Record<string, unknown>;
+}
+
+const {
+    title,
+    description = "Candidato a la Presidencia de Colombia 2026. Periodismo de investigación, voz del Caribe, Gobierno de Reconciliación Nacional.",
+    image,
+    schema,
+} = Astro.props;
+
+const fullTitle = title.includes("Lucio Torres")
+    ? title
+    : `${title} | Edison Lucio Torres - Pan con Paz 2026`;
+---
+
+<!doctype html>
+<html lang="es" data-theme="colombia" class="scroll-smooth">
+    <head>
+        <BaseHead
+            title={fullTitle}
+            description={description}
+            image={image}
+            schema={schema}
+        />
+    </head>
+    <body
+        x-data="{ 
+			scrolled: false,
+			reducedMotion: window.matchMedia('(prefers-reduced-motion: reduce)').matches 
+		}"
+        @scroll.window="scrolled = (window.pageYOffset > 20)"
+    >
+        <a
+            href="#main-content"
+            class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:p-4 focus:bg-white focus:text-black"
+        >
+            Saltar al contenido principal
+        </a>
+
+        <Header />
+
+        <main id="main-content">
+            <slot />
+        </main>
+
+        <Footer />
+    </body>
+</html>
+
+<style is:global>
+    @media (prefers-reduced-motion: reduce) {
+        [x-cloak] {
+            display: none !important;
+        }
+        * {
+            animation-duration: 0.01ms !important;
+            transition-duration: 0.01ms !important;
+        }
+    }
+</style>

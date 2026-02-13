@@ -5,10 +5,10 @@ pubDate: "2025-06-08 01:48:32"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/gracias-teresa-por-parirme-macho/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/06/gracias-teresa-por-parirme-macho/hero.jpg
 ---
 
-![ Teresa Moreno Martínez (izquierda) en compañía de su nieta Ingeborg Barros.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/gracias-teresa-por-parirme-macho/hero.jpg)
+![ Teresa Moreno Martínez (izquierda) en compañía de su nieta Ingeborg Barros.](s3://bundled-saddlebag-tnqki7w/2025/06/gracias-teresa-por-parirme-macho/hero.jpg)
 *Teresa Moreno Martínez (izquierda) en compañía de su nieta Ingeborg Barros.*
 
 Hoy, 7 de junio, lo recuerdo más que el 30 de marzo. En realidad, no es que lo recuerde más sino que en el fondo me gusta más, porque fue el nacimiento de mi madre, **Teresa Moreno Martínez**. El 30 de marzo de 2010, cuando había cumplido 87 años, partió de este mundo después de criar a 10 hijos. Hoy, que se cumplen 102 años de su nacimiento, le digo a mi madre **Teresa: ¡Gracias, mamá! por parirme y criarme macho**.

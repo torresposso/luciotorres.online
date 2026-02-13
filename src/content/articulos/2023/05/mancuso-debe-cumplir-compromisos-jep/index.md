@@ -5,10 +5,10 @@ pubDate: "2023-05-18 11:46:11"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/mancuso-debe-cumplir-compromisos-jep/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/05/mancuso-debe-cumplir-compromisos-jep/hero.jpg
 ---
 
-![El último día de audiencia de Salvatore Mancuso. En tres meses la JEP definirá su admisión.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/mancuso-debe-cumplir-compromisos-jep/hero.jpg)
+![El último día de audiencia de Salvatore Mancuso. En tres meses la JEP definirá su admisión.](s3://bundled-saddlebag-tnqki7w/2023/05/mancuso-debe-cumplir-compromisos-jep/hero.jpg)
 *El último día de audiencia de Salvatore Mancuso. En tres meses la JEP definirá su admisión.*
 
 El exjefe paramilitar **Salvatore Mancuso** tiene 30 dias para **cumplir compromisos adquiridos** ante la JEP. Fueron cuatro días de Audiencia Única de Aporte a la Verdad donde se comprometió entregar toda la información y evidencias que demuestran su _papel de bisagra_ o conexion con el Estado para cometer los delitos de lesa humanidad y crímenes de guerra. La audiencia se cumplió en la que fuera capital de las Autodefensas Unidas de Colombia (AUC) al mando de **Carlos Castaño**: Montería.
@@ -31,7 +31,7 @@ La información que debe suministrar Mancuso Gómez se refiere a varios ejes tem
 
 ## Fuerza pública y las Cooperativas Convivir
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/mancuso-debe-cumplir-compromisos-jep/Screenshot_20230511_163945_YouTube.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/05/mancuso-debe-cumplir-compromisos-jep/Screenshot_20230511_163945_YouTube.jpg)
 *Aspecto de una de las escenas de la presentación de Mancuso ante la JEP.*
 
 Sobre este tema, la JEP invitó a Mancuso para que precise y amplíe:

@@ -5,10 +5,10 @@ pubDate: "2023-02-27 02:50:11"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-las-pavoneadas-de-pava-iii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/02/caregato-las-pavoneadas-de-pava-iii/hero.jpg
 ---
 
-![Las pavoneadas de Pava. #BuenVivir. Para los mojaneros es el #MalVivir.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-las-pavoneadas-de-pava-iii/hero.jpg)
+![Las pavoneadas de Pava. #BuenVivir. Para los mojaneros es el #MalVivir.](s3://bundled-saddlebag-tnqki7w/2023/02/caregato-las-pavoneadas-de-pava-iii/hero.jpg)
 *Las pavoneadas de Pava. #BuenVivir. Para los mojaneros es el #MalVivir.*
 
 Recorrer La Mojana con **«Caregato»** abierto es encontrarse a un pueblo que soporta el desastre ambiental por causa antrópica y de las **_pavoneadas_** de Pava, representante del gobierno nacional. Es la expresión de la vanidad causada por posturas intelectuales de funcionarios del Estado que pueden darle salida a los anhelos populares y no lo hacen. Tienen los recursos y la capacidad. **Pero su mente —cegada por el poder— no les permiten actuar conforme a la realidad sino a sus ideas preconcebidas.**
@@ -39,7 +39,7 @@ Ante este evidente hecho, en plena época de verano, es inaudito que las autorid
 
 ## Las comunidades
 
-![Habitantes de La Sierpe, en el corazón de La Mojana, solo quieren trabajar. «Caregato» no se los permite,](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-las-pavoneadas-de-pava-iii/Ellos-solo-quieren-trabajar.jpg)
+![Habitantes de La Sierpe, en el corazón de La Mojana, solo quieren trabajar. «Caregato» no se los permite,](s3://bundled-saddlebag-tnqki7w/2023/02/caregato-las-pavoneadas-de-pava-iii/Ellos-solo-quieren-trabajar.jpg)
 *Habitantes de La Sierpe, en el corazón de La Mojana, solo quieren trabajar. «Caregato» no se los permite,*
 
 En estos momentos, las comunidades organizadas se aprestan a cerrar el kilómetro de ancho que alcanzó la rotura del río cauca denominado **«Caregato»**. Pero el cierre solo es un paso. Se necesita una infraestructura hidraúlica y una intervención integral de los ríos Cauca, San Jorge, Magdalena y del sistema de ciénagas y caños de la depresión Momposina para garantizar cierta estabilidad ambiental a La Mojana. La mayor parte de esta tierra tiene un desnivel de dos metros, de acuerdo con los estudios realizados.
@@ -50,7 +50,7 @@ Es decir, una vez cerrado **«Caregato»**, se debe iniciar un conjunto de obras
 
 ## La visión de gobierno y las pavoneadas de Pava
 
-![Las pavoneadas de Pava y del gobierno de Petro.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-las-pavoneadas-de-pava-iii/Javier-Pava_Susana.jpg)
+![Las pavoneadas de Pava y del gobierno de Petro.](s3://bundled-saddlebag-tnqki7w/2023/02/caregato-las-pavoneadas-de-pava-iii/Javier-Pava_Susana.jpg)
 *Las pavoneadas del gobierno de Petro.*
 
 Lo cierto es que el gobierno central a través de la **UNGR**, el Fondo de Adaptación (**Javier Pava Sánchez**) y los ministerios de Medio Ambiente (**Susana Muhamad**) y del Interior (**Alfonso Prada**) asumieron una posición contraria a la voluntad popular que exige el cierre del chorro. Los representantes del gobierno atrincherados en una concepción que desconoce la realidad ambiental de La Mojana, **convirtieron el Diálogo Social en un instrumento demagógico para aplacar y desmovilizar la acción de las poblaciones afectadas.**
@@ -59,7 +59,7 @@ La teoría ambientalista del gobierno es que los ríos no pueden ser confinados 
 
 ## La gobernación de Bolívar al rescate
 
-![Las pavoneadas de Pava no les permiten ver la realidad de La Mojana. En cambio José Ricaurte lidera el cierre de «Caregato». ¿Lo lograrán?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/caregato-las-pavoneadas-de-pava-iii/Bolivar-al-rescate-de-La-Mojana.jpg)
+![Las pavoneadas de Pava no les permiten ver la realidad de La Mojana. En cambio José Ricaurte lidera el cierre de «Caregato». ¿Lo lograrán?](s3://bundled-saddlebag-tnqki7w/2023/02/caregato-las-pavoneadas-de-pava-iii/Bolivar-al-rescate-de-La-Mojana.jpg)
 *Las pavoneadas de Pava no les permiten ver la realidad de La Mojana. En cambio José Ricaurte lidera el cierre de «Caregato». ¿Lo lograrán?*
 
 Ante la infructuosa gestión del gobierno para cerrar el chorro, este lunes 27 de febrero se realizará un Puesto de Mando Unificado (PMU) interdepartamental. Desde las 10:00 de la mañana concurrirán los tres departamentos más afectados: **Bolívar, Sucre y Córdoba**.

@@ -5,10 +5,10 @@ pubDate: "2022-04-25 01:07:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/gano-macron-y-ahora-que-viene-para-francia/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/04/gano-macron-y-ahora-que-viene-para-francia/hero.jpg
 ---
 
-![Enmanuel Macrón, reelecto presidente. ¿y ahora qué viene para Francia?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/gano-macron-y-ahora-que-viene-para-francia/hero.jpg)
+![Enmanuel Macrón, reelecto presidente. ¿y ahora qué viene para Francia?](s3://bundled-saddlebag-tnqki7w/2022/04/gano-macron-y-ahora-que-viene-para-francia/hero.jpg)
 *Enmanuel Macrón, reelecto presidente. ¿Y ahora qué viene para Francia?*
 
 **¿Y ahora qué viene para Francia?** En su discurso de la victoria electoral, el presidente reelecto de Francia **Emmanuel Macron** hizo hoy un llamado a la unidad y a la necesidad de reinventarse en los próximos cinco años de gobierno. Agradeció a sus electores. No solo a sus seguidores de **¡En Marcha**! sino también a aquellos que quisieron atajar las ideas de ultraderecha. Pero advirtió que no se trata de chiflar a su oponente **Marin Le Pen**.

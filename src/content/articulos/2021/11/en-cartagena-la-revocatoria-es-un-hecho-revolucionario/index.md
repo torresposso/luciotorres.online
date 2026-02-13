@@ -5,12 +5,12 @@ pubDate: "2021-11-10 03:08:05"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/en-cartagena-la-revocatoria-es-un-hecho-revolucionario/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/11/en-cartagena-la-revocatoria-es-un-hecho-revolucionario/hero.jpg
 ---
 
 Querida Cartagena:
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/en-cartagena-la-revocatoria-es-un-hecho-revolucionario/firma-revision-2.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/11/en-cartagena-la-revocatoria-es-un-hecho-revolucionario/firma-revision-2.jpeg)
 *Cerca de 70 mil firmas entregadas.*
 
 > Hombre perdido, ¿quién se arriesgará?
@@ -37,7 +37,7 @@ Son 70 mil personas que desean cambiar el panorama de la **Cartagena La Heroica.
 
 ## Cartagena Revoca
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/en-cartagena-la-revocatoria-es-un-hecho-revolucionario/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/11/en-cartagena-la-revocatoria-es-un-hecho-revolucionario/hero.jpg)
 *Aquí vive Miryurys Espitaleta, una de las integrantes del Comité Cartagena Revoca. Cortesía.*
 
 Como ustedes saben, este periodista es el vocero del Comité Cartagena Revoca integrado por varias mujeres: **Miyurys Espitaleta, Marelbis Sheck, Luisa Diaz y Yina Paola Castillo**. Todas ellas están dedicadas  a sus actividades cotidianas como mujeres. No son militantes de nada. Unas adultas y otras muy jóvenes. Son mujeres comunes y corrientes que trabajan o estudian. **Pero tienen un lugar común: están cansadas de sufrir los problemas públicos que padece la ciudad donde viven.**
@@ -64,7 +64,7 @@ Si en Cartagena y Colombia los periodistas y medios de comunicación seguimos at
 
 ## «Salvemos a Cartagena» o **¡matar a Cartagena!** 
 
-![La revocatoria es un hecho.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/en-cartagena-la-revocatoria-es-un-hecho-revolucionario/firma-registrador-2.jpeg)
+![La revocatoria es un hecho.](s3://bundled-saddlebag-tnqki7w/2021/11/en-cartagena-la-revocatoria-es-un-hecho-revolucionario/firma-registrador-2.jpeg)
 *Viendo a Dairo Bustillo firmando el acta de entrega de casi 70 mil firmas.*
 
 Por esa razón nos metimos en el proceso de revocatoria y constituimos el **Comité Cartagena Revoca.** Queremos sacar de la ciudad a un alcalde carroñero, digno del fondo buitre (_Black Stone_) al que está matriculado. En octubre de 2019 dijimos que en Cartagena se vino a posar «un buitre que espera que el moribundo se muera para caerle a picotazo». En octubre estuvo en Nueva York vendiéndole la ciudad a Black Stone, mientras Cartagena era víctima del dengue y la inseguridad. Hace más de dos años regresó con el sofisticado nombre de «Salvemos a Cartagena» para disfrazar su verdadera intención: **¡matar a Cartagena!** 

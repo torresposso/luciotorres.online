@@ -5,10 +5,10 @@ pubDate: "2025-05-17 13:11:50"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/juancho-dique-a-la-carcel-perdera-sus-beneficios-iv/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/05/juancho-dique-a-la-carcel-perdera-sus-beneficios-iv/hero.jpg
 ---
 
-![«Juancho Dique», retornará a la cárcel y perderá sus beneficios. Aquí con Diego Vecino](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/juancho-dique-a-la-carcel-perdera-sus-beneficios-iv/hero.jpg)
+![«Juancho Dique», retornará a la cárcel y perderá sus beneficios. Aquí con Diego Vecino](s3://bundled-saddlebag-tnqki7w/2025/05/juancho-dique-a-la-carcel-perdera-sus-beneficios-iv/hero.jpg)
 *«Juancho Dique», retornará a la cárcel y perderá sus beneficios. Aquí con Diego Vecino, quien también mintió.*
 
 «Juancho Dique» ¡a la cárcel! En las próximas horas, por decisión de la Corte Suprema de Justicia, capturarán a **Uber Enrique Banquez**. El tristemente célebre criminal de guerra comprometido con centenares de asesinatos en Sucre y Bolívar. Igualmente, perderá sus beneficios jurídicos y pone al descubierto el **fracaso de Justicia y Paz** denunciado en su oportunidad por las organizaciones de derechos humanos.
@@ -41,7 +41,7 @@ El caso subió a la Sala de Casación Penal para determinar si debía ir a la c�
 
 ## Los que mintieron
 
-![Eugenio José Reyes Regino, (alias «Geño») ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/juancho-dique-a-la-carcel-perdera-sus-beneficios-iv/Regino_geno-1024x768.jpg)
+![Eugenio José Reyes Regino, (alias «Geño») ](s3://bundled-saddlebag-tnqki7w/2025/05/juancho-dique-a-la-carcel-perdera-sus-beneficios-iv/Regino_geno-1024x768.jpg)
 *Según la Corte, estos exjefespara mintieron: Eugenio José Reyes Regino, (alias «Geño»), Edwar Cobo Téllez (alias «Diego Vecino»), Manuel Antonio Castellanos Morales (alias «El Chino») Aleider García Soto (alias «El Primo»), Gabino José Mora Fernández, Oscar David Villadiego Tordecillas (alias «Never»).*
 
 La retractación fue instrumentalizada como una estratagema jurídica que descubrió la Corte Suprema de Justicia en los procesos de Javier Cáceres Leal, Piedad Zuccardi y Daira Galvis, que en paz descanse. También el expresidente **Álvaro Uribe Vélez**. La Corte en 2018 abrió formalmente una investigación en su contra a raíz de una denuncia del senador **Iván Cepeda Castro**.
@@ -54,7 +54,7 @@ Los principales _exparas_ que correrían la misma suerte de **«Juancho Dique
 
 ## El abrazo de la muerte
 
-![«Juancho Dique» y su abrazo de la muerte. Mintió descaradamente y se burló de lJusticia y Paz](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/juancho-dique-a-la-carcel-perdera-sus-beneficios-iv/Juancho_dique_abrazo-1024x576.jpeg)
+![«Juancho Dique» y su abrazo de la muerte. Mintió descaradamente y se burló de lJusticia y Paz](s3://bundled-saddlebag-tnqki7w/2025/05/juancho-dique-a-la-carcel-perdera-sus-beneficios-iv/Juancho_dique_abrazo-1024x576.jpeg)
 *«Juancho Dique» y su abrazo de la muerte. La hipocresía de un criminal incorregible. Mintió descaradamente y se burló de Justicia y Paz. Cortesía.*
 
 Pero, **Banquez** no solo le mintió a la **Corte Suprema de Justicia** en el proceso contra el senador de Cambio Radical, **Javier Cáceres Leal**, sino también en los procesos contra las senadoras Piedad Zuccardi, la difunta Daira Galvis Mendez y de varios empresarios que les financiaron. Ellos ordenaron crímenes en Cartagena y Bolívar, Sincelejo y Sucre

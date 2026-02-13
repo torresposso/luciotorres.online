@@ -5,10 +5,10 @@ pubDate: "2023-12-28 05:32:51"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/a-quemar-al-alcalde-su-maldicion-y-el-ano-viejo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/12/a-quemar-al-alcalde-su-maldicion-y-el-ano-viejo/hero.jpg
 ---
 
-![Cartagena Revoca](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/a-quemar-al-alcalde-su-maldicion-y-el-ano-viejo/hero.jpg)
+![Cartagena Revoca](s3://bundled-saddlebag-tnqki7w/2023/12/a-quemar-al-alcalde-su-maldicion-y-el-ano-viejo/hero.jpg)
 *Cartagena Revoca*
 
 Si Dau se fumó el presupuesto de los más pobres, ahora los pobres tienen la oportunidad de quemarlo. Por tanto, «_Todos a quemar al alcalde_ y su maldición» es la consigna del momento. En Cartagena —como en Bogotá, Barranquilla, Cali o Medellín— si la justicia no funciona, quemar el **Año Viejo** como acto simbólico, es una sanción social contra su respectivo alcalde. ¡Si! Los cartageneros tienen motivo fundamental para quemar ese **Año Viejo Trabado** que los empobreció sin misericordia. **William Dau Chamat** demostró su incapacidad de gobernar en sus 4 años sin autoridad alguna.
@@ -83,11 +83,11 @@ Te puede interesar: [Dau y Ana María desangran al Distrito con nómina paralela
 
 De acuerdo a un estudio (2023) el consumo de sustancias ilícitas entre la población escolar se disparó en el país. Si bien en Bolívar su incidencia es inferior que en Vaupés, Putumayo o Bogotá, lo cierto es que su consumo se incrementó en el departamento. La situación del país la describe el mismo estudio.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/a-quemar-al-alcalde-su-maldicion-y-el-ano-viejo/Consumo_drogas.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/12/a-quemar-al-alcalde-su-maldicion-y-el-ano-viejo/Consumo_drogas.jpg)
 
 > «El 9,5% de los escolares refirieron haber consumido alguna sustancia ilícita al menos una vez en su vida, lo que representa cerca de 330 mil escolares. Por otra parte, la incidencia de último año es del 5,3%, lo que indica que usaron alguna sustancia ilícita por primera vez en el último año, esta cifra es mayor en las mujeres con un 5,6% en comparación con los hombres, que presentan un 4,9%[»](https://youtu.be/rnSt6Ivgp9w?feature=shared).
 
-![A quemar a Dau consumo de drogas](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/a-quemar-al-alcalde-su-maldicion-y-el-ano-viejo/Consumo_sustancias.jpg)
+![A quemar a Dau consumo de drogas](s3://bundled-saddlebag-tnqki7w/2023/12/a-quemar-al-alcalde-su-maldicion-y-el-ano-viejo/Consumo_sustancias.jpg)
 
 Es necesario decir que la proporción de personas con consumo de riesgo y perjudicial en Cartagena tanto para hombres y mujeres entre 12 y 65 años de edad, tiende a estar por encima de la proporción nacional. En el caso de los hombres con 1 punto porcentual de diferencia (20,5%). Comparando el consumo de hombres con el de mujeres en Cartagena, los primeros se encuentran por encima con 14,4 puntos porcentuales.
 

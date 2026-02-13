@@ -5,10 +5,10 @@ pubDate: "2024-04-01 02:53:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Yamil Arana"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/bolivar-mejor-en-los-100-dias/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/03/bolivar-mejor-en-los-100-dias/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/bolivar-mejor-en-los-100-dias/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/03/bolivar-mejor-en-los-100-dias/hero.jpg)
 *Yamil Arana demostró con Bolívar Mejor en los 100 días ser activo, propositivo, proactivo y simpático./VoxPopuli.Digital*
 
 **Bolívar Mejor** **en los 100 días** ―que se cumplirán el 11 de abril de 2024. Además, se respira aire fresco. Incluso, en la misma sede de la gobernación ondea con alegría las banderas de Colombia y Bolívar. Están limpias y relucientes. Aunque **Yamil Hernando Arana Padauí** no calienta la silla de gobernador y aunque todavía no está todo su personal contratado, hay un nuevo ambiente. Un joven que, desde el 1 de enero de 2024, se esmera por cumplir con los 5 objetivos de su programa de gobierno.
@@ -21,7 +21,7 @@ Quienes han tratado a Yamilito constatan que es un muchacho activo, propositivo,
 
 ## Bolívar Mejor en los 100 días
 
-![En los 30 días ocupó el primer lugar de todos los gobernadores de la región Caribe. Bolívar Mejor en los 100 días ratificará su primer lugar./Mediciones Estratégicas.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/bolivar-mejor-en-los-100-dias/Yamil_encuesta_30_dias-1024x573.png)
+![En los 30 días ocupó el primer lugar de todos los gobernadores de la región Caribe. Bolívar Mejor en los 100 días ratificará su primer lugar./Mediciones Estratégicas.](s3://bundled-saddlebag-tnqki7w/2024/03/bolivar-mejor-en-los-100-dias/Yamil_encuesta_30_dias-1024x573.png)
 *En los 30 días ocupó el primer lugar de todos los gobernadores de la región Caribe. Bolívar Mejor en los 100 días ratificará su primer lugar./Mediciones Estratégicas.*
 
 En los primeros 30 días, la percepción de los cartageneros fue positiva para Yamilito. Según **Mediciones Estratégicas**, fue el gobernador mejor posicionado en la capital del departamento con el **73,46%** de imagen positiva. Es más, casi quedó empatado con el mismo alcalde **Dumek Turbay Paz**. quien alcanzó **74,21%**. Es muy probable que **Bolívar Mejor en los 100 días** siga siendo la gestión más aceptada de los 8 gobernadores. Sobre todo, porque en la próxima encuesta se tendrá en cuenta los municipios de Magangué, El Carmen, Arjona, Turbaco y María la Baja.

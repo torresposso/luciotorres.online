@@ -5,10 +5,10 @@ pubDate: "2022-02-09 00:31:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/por-mal-trago-petro-quedo-zambiloco-en-girardot/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/02/por-mal-trago-petro-quedo-zambiloco-en-girardot/hero.jpg
 ---
 
-![Por mal trago, Petro pronunció un discurso incoherente,](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/por-mal-trago-petro-quedo-zambiloco-en-girardot/hero.jpg)
+![Por mal trago, Petro pronunció un discurso incoherente,](s3://bundled-saddlebag-tnqki7w/2022/02/por-mal-trago-petro-quedo-zambiloco-en-girardot/hero.jpg)
 *Gustavo Petro, favorito en las encuestas, dijo que tuvo un mal trago.*
 
 Por mal trago, Gustavo Petro quedó zambiloco en Girardot. Luego de la controversia en las redes sociales y en los medios de comunicación, el precandidato presidencial Gustavo Petro, Pacto Histórico, pidió excusa a los asistentes a la manifestación. Reconoció, en su cuenta de tuiter, que se debió a un mal trago que se tomó luego de un largo viaje por Europa. 

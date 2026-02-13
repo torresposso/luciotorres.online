@@ -5,10 +5,10 @@ pubDate: "2021-10-21 00:09:00"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/el-hombre-fuerte-de-venezuela-confirma-que-petro-recibio-financiacion-ilegal/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/10/el-hombre-fuerte-de-venezuela-confirma-que-petro-recibio-financiacion-ilegal/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/el-hombre-fuerte-de-venezuela-confirma-que-petro-recibio-financiacion-ilegal/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/el-hombre-fuerte-de-venezuela-confirma-que-petro-recibio-financiacion-ilegal/hero.jpg)
 *La noticia viene de España. No es parte de ninguna campaña de denigración contra Petro. Es un testimonio de un alto jefe de la Seguridad de Venezuela extraditado de España a Estados Unidos. Los petristas y uribistas deben quitarse el velo para ver con claridad este hecho.*
 
 Dos hombres fuertes del régimen político chavista, Diosdado Cabello y Hugo el «Pollo Carvajal» coincidieron, en diferentes escenarios y tiempos, que Gustavo Petro recibió apoyo de la Revolución Bolivariana para su campaña electoral. El precandidato presidencial argumentó que: «Y no se cansan de intentarlo una y otra vez». Pero para la ética política —que será crucial para las próximas elecciones— pondría contra las cuerdas a Petro. 
@@ -17,7 +17,7 @@ Según el exjefe de Seguridad del Régimen Chavista, en los mejores momentos de�
 
 ## El confidencial que tiene en la encrucijada a Petro
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/el-hombre-fuerte-de-venezuela-confirma-que-petro-recibio-financiacion-ilegal/polloi-carvajal.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/el-hombre-fuerte-de-venezuela-confirma-que-petro-recibio-financiacion-ilegal/polloi-carvajal.jpeg)
 *Esta es una de las piezas judiciales que podría comprometer seriamente a Gustavo Petro. Es un problema de ética política en un país donde impera la corrupción.*
 
 Gracias al diario OkDiario, te presentamos  parte de las declaraciones de Carvajal ante el juez de la Audiencia nacional Española. El exjefe de Seguridad de Venezuela vivía en España a donde llegó con la enfermera personal de Hugo Chávez.
@@ -42,7 +42,7 @@ Por su parte, Diosdado Cabello, el hombre de mayor ascendencia en las fuerzas mi
 
 ## El estigma de Petro
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/el-hombre-fuerte-de-venezuela-confirma-que-petro-recibio-financiacion-ilegal/CHAVEZ-EN-EL-PUENTE-DE-BOYACA.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/el-hombre-fuerte-de-venezuela-confirma-que-petro-recibio-financiacion-ilegal/CHAVEZ-EN-EL-PUENTE-DE-BOYACA.jpg)
 *Hugo Chávez, Gustavo Petro, José Cuesta y líderes de la Ad-M19. en 1994.*
 
 Es un estigma que tiene Gustavo Petro en su vida política desde aquel día de 1994 que había jurado conjuntamente con el coronel (r) Hugo Chavez en el pedestal del monumento a Simón Bolívar en el Puente de Boyacá de liberar a América Latina de la opresión oligárquica.

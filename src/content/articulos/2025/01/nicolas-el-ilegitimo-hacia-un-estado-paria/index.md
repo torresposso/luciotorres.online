@@ -5,10 +5,10 @@ pubDate: "2025-01-10 00:34:30"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/nicolas-el-ilegitimo-hacia-un-estado-paria/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/01/nicolas-el-ilegitimo-hacia-un-estado-paria/hero.jpg
 ---
 
-![Posesión ilegítima de Maduro. ¿Hacia un Estado paria?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/nicolas-el-ilegitimo-hacia-un-estado-paria/hero.jpg)
+![Posesión ilegítima de Maduro. ¿Hacia un Estado paria?](s3://bundled-saddlebag-tnqki7w/2025/01/nicolas-el-ilegitimo-hacia-un-estado-paria/hero.jpg)
 *Nicolás, El Ilegítimo. Posesión ilegítima de Maduro. ¿Hacia un Estado paria?*
 
 Todo indica que **Nicolás Maduro Moro**, actual presidente de la República Bolivariana de Venezuela, jurará por tercera vez el **10 de enero del 2025** en medio de un océano de dudas de su elección. Mientras la tensión nacional e internacional crece como las protestas ciudadanas en Caracas. En tanto, **Corina Machado** cumple lo que prometió: estar en las calles con la gente contra esta **dictadura burocrática** que se debilita más con esta **posesión ilegítima**. Podría ser el camino hacia un **Estado paria**, sin ninguna legitimidad internacional, **sin discurso antibloqueo** y un presidente ilegítimo.
@@ -21,7 +21,7 @@ Por esa razón, los progresistas de izquierda no pueden desdeñar y justificar l
 
 ## La dictadura se debilita en la diplomacia
 
-![Posesión ilegítima de Nicolás Maduro Moro](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/nicolas-el-ilegitimo-hacia-un-estado-paria/Maduro_portada-1024x824.jpeg)
+![Posesión ilegítima de Nicolás Maduro Moro](s3://bundled-saddlebag-tnqki7w/2025/01/nicolas-el-ilegitimo-hacia-un-estado-paria/Maduro_portada-1024x824.jpeg)
 *Posesión ilegítima de Nicolás*
 
 Por tanto, a **Nicolás Maduro Moro**, se le considera el **usurpador de la Pequeña Venecia**. El Ilegítimo, porque las evidencias hablan por sí solas. Las elecciones presidenciales del pasado 28 de julio de 2024 se las ganó **Edmundo González** con el **67,08%** de los votos emitidos, frente al **30,46% de Maduro**. Maduro no fue capaz de publicar las actas electorales antes del 10 de enero.
@@ -32,7 +32,7 @@ En ese sentido, la oposición liberal se reafirmó en que había ganado las elec
 
 ## Petro no irá
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/nicolas-el-ilegitimo-hacia-un-estado-paria/Petro_Maduro_en_Miraflores-1024x512.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/01/nicolas-el-ilegitimo-hacia-un-estado-paria/Petro_Maduro_en_Miraflores-1024x512.jpg)
 *Petro: "Es antinatural que Colombia y Venezuela se separen"*
 
 Los países citados cercanos al chavismo, guardaron prudencia, a excepción de Chile que fue más radical. Pero estarán presentes en la posesión ilegítima a través de representantes diplomáticos. ¿Es un contrasentido? Sin duda, no lo es.

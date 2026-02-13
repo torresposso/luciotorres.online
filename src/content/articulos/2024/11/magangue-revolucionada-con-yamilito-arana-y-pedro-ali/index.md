@@ -5,10 +5,10 @@ pubDate: "2024-11-05 00:30:37"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/hero.jpg
 ---
 
-![Magangué revolucionado con Yamilito Arana y Pedro Alí](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/hero.jpg)
+![Magangué revolucionado con Yamilito Arana y Pedro Alí](s3://bundled-saddlebag-tnqki7w/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/hero.jpg)
 *Magangué revolucionada con Yamilito Arana y Pedro Alí. Aquí en la Punta del Padre del barrio Versalles el periodista abrazado con el gobernador de Bolívar.*
 
 Cuando se supo que el gobernador de Bolívar despacharía 10 días desde Magangué, cambiamos la agenda para estar allí y cubrir un hecho trascendental para los sectores más populares de la ciudad de **Los Tres Ríos**. Francamente nos dimos cuenta que por estos días, los Arana y los Alí ―dos familias emprendedoras y políticas de la ciudad― **tienen a Magangué** **revolucionada**.
@@ -19,7 +19,7 @@ Mientras observábamos las obras de pavimentación de una de las calles de la Pu
 
 ## La mezcla de cultura
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/Pedro_Ali_Napoles-1024x732.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/Pedro_Ali_Napoles-1024x732.jpeg)
 *Magangué revolucionada. El alcalde Pedro Alí ejecutando su programa de gobierno. Aquí supervisando la pavimentación de la calle Punta del Padre de Versalles.*
 
 Los Arana y los Alí, unas veces están unidos y otras veces en desencuentro. Pero, ahora, están tan integrados que existe una articulación de las acciones públicas del orden departamental y municipal. Jalan para el mismo sentido. Esto es muy importante porque el alcalde solo debe gestionar para bajar los recursos de las obras procedentes del orden nacional y departamental.
@@ -32,7 +32,7 @@ En la hibridación no sólo se mezcla lo religioso con lo étnico **sino que se 
 
 ## **Magangué** **revolucionada** con alegría
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/Pedro_Ali_Napoles-1-1024x732.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/Pedro_Ali_Napoles-1-1024x732.jpeg)
 *¿Quieres un poco de sancocho? Pareciera decir el gobernador Yamilito*
 
 Realmente **Magangué** **revolucionada**. El gobernador Arana y el alcalde Alí movieron el palote de la olla comunitaria (¡literal!) en la cancha del estadero Nápoles de la Punta del Padre. Ayudaron a repartir el sancocho a cerca de 200 niños versalleros. Los niños cantaron, bailaron y comieron al son del **«**Tintililillo**»** o de **«Ángeles somos»**. Luego, el gobernador se fue al barrio Buenos Aires.
@@ -43,7 +43,7 @@ El gobernador Arana resaltó esta jornada de alegría infantil.
 
 > _**«**Esto es algo que no tiene precio. La felicidad de los niños y niñas es lo que nos motiva a trabajar y hace que todo valga la pena. Venimos a disfrutar con ustedes, con dulces, regalos y premios**»**_.
 
-![Yamilito Arana con los damnificados de Cartagena](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/gOBERNADOR_DAMNIFICADOS-1024x683.jpg)
+![Yamilito Arana con los damnificados de Cartagena](s3://bundled-saddlebag-tnqki7w/2024/11/magangue-revolucionada-con-yamilito-arana-y-pedro-ali/gOBERNADOR_DAMNIFICADOS-1024x683.jpg)
 *Yamilito Arana con los damnificados de Cartagena*
 
 El gobernador Yamilito Arana debió regresarse este 4 de noviembre a Cartagena para ayudar a los damnificado de los tres días de aguacero que azotó a la ciudad. Llegó moviendo el palote de la olla y la entrega de ollas comunitarias para la comunidad afectada.

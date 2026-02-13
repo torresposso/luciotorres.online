@@ -5,10 +5,10 @@ pubDate: "2025-01-22 17:20:00"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/por-que-se-construye-un-pot-nulo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/01/por-que-se-construye-un-pot-nulo/hero.jpg
 ---
 
-![¿Por qué se construye un POT nulo?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/por-que-se-construye-un-pot-nulo/hero.jpg)
+![¿Por qué se construye un POT nulo?](s3://bundled-saddlebag-tnqki7w/2025/01/por-que-se-construye-un-pot-nulo/hero.jpg)
 *¿Por qué se construye un POT nulo? Dumek Turbay debe hacer una alta cirugía al equipo POT. (Prensa alcaldía).*
 
 ¿Un POT nulo hundirá la Superciudad? La Secretaría de Planeación Distrital y su equipo POT de Cartagena de Indias ―a juzgar por la información recopilada― demuestra una ****evidente**** **negligencia** en la revisión y ajuste del Plan de Ordenamiento Territorial―POT. **El alcalde Dumek Turbay Paz debe entender que esta falencia fundamental está pariendo un POT nulo**. Si este es el destino del reordenamiento urbano, la naturaleza se encargará de hundir a La Heroica, ya que el nivel del [mar crece **7,02 milímetros, anualmente**](/articulos/news/cartagena-se-esta-hundiendo.html)**.**
@@ -19,7 +19,7 @@ A través de las entregas de **VoxPopuli Digital** sobre el citado tema, se lanz
 
 ## ¿Comité de aplauso o análisis objetivo?
 
-![Robinson Rada González, miembro del Consejo Consultivo, fue el diseñador del proyecto de Decreto del POT que el distrito engavetó.  POT nulo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/por-que-se-construye-un-pot-nulo/robinson_rada_pot-687x1024.jpg)
+![Robinson Rada González, miembro del Consejo Consultivo, fue el diseñador del proyecto de Decreto del POT que el distrito engavetó.  POT nulo.](s3://bundled-saddlebag-tnqki7w/2025/01/por-que-se-construye-un-pot-nulo/robinson_rada_pot-687x1024.jpg)
 *Robinson Rada González, miembro del Consejo Consultivo, fue el diseñador del proyecto de Decreto del POT que el distrito engavetó.*
 
 Este análisis se basa, en lo fundamental, en el **proyecto de decreto diseñado** para corregir las omisiones de la anterior administración y que la actual se comprometió a implementar. El decreto fue preparado y entregado por **Robinson Rada González**, miembro del Consejo Consultivo del POT. Un proyecto que la Secretaría de Planeación Distrital engavetó sin ninguna explicación y justificación.
@@ -36,7 +36,7 @@ Cartagena ―La Heroica― debe aprender de su convulsionada historia política�
 
 ## ¿Omisión que hace un POT nulo?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/por-que-se-construye-un-pot-nulo/POT-1024x263.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/01/por-que-se-construye-un-pot-nulo/POT-1024x263.jpg)
 *La administración de William Dau fracasó con tener un POT. Dumek Turbay perdió el primer año. ¿Perderá los 3 años restantes con un POT nulo?*
 
 Hay evidencias de que existe una negligencia administrativa en la revisión del reordenamiento territorial que puede dar lugar a responsabilidades civiles, penales, disciplinarias o administrativas. Y lo más grave: **Se construye un POT** **nulo**.

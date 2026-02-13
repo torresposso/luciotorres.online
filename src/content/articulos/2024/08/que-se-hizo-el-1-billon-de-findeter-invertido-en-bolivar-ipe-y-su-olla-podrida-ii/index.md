@@ -5,11 +5,11 @@ pubDate: "2024-08-11 04:11:39"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/hero.jpg
 ---
 
 ![«Ipe» y su «olla podrida»
-Cuando el otrora presidente de Findeter, Ricardo Bonilla, (hoy el cuestionado ministro de Hacienda) se reunió con el alcalde William Dau para condicionar la financiación de varias obras. /Cortesía Minhacienda.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/Bonilla_.jpg)
+Cuando el otrora presidente de Findeter, Ricardo Bonilla, (hoy el cuestionado ministro de Hacienda) se reunió con el alcalde William Dau para condicionar la financiación de varias obras. /Cortesía Minhacienda.](s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/Bonilla_.jpg)
 *Cuando el otrora presidente de Findeter, Ricardo Bonilla, (hoy el cuestionado ministro de Hacienda) se reunió con el alcalde William Dau para condicionar la financiación de varias obras. En tanto «Ipe» y su «olla podrida» se reactivan./Cortesía Minhacienda.*
 
 La nueva veeduría de **Observa Público** viene preparando la artillería legal para una **auditoría forense**. Tiene como finalidad establecer la trazabilidad y el destino de más de un **$1 billón** con que **Findeter** y la nación **financiaron 126 proyectos** de infraestructura social ―algunos inconclusos― en **21 municipios de Bolívar** en los **últimos 5 años**. Pero, dicha inversión, no se tradujo en desarrollo, porque la gente sigue pisando _boñiga de vaca_.
@@ -28,7 +28,7 @@ Siguiendo con la investigación de **VoxPopuli Digital**, en esta segunda entreg
 
 ## Aguas de Bolívar, la vista gorda
 
-![Aguas de Bolívar se hace la vista gorda.  «Ipe» y su «olla podrida». Eliana Romero Valiente.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/Eliana_.jpeg)
+![Aguas de Bolívar se hace la vista gorda.  «Ipe» y su «olla podrida». Eliana Romero Valiente.](s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/Eliana_.jpeg)
 *Eliana Romero Valiente, gerente de Aguas de Bolívar ESP, se hace la vista gorda.*
 
 Los municipios vienen invirtiendo los recursos con la supuesta coordinación de Aguas de Bolívar ESP. Pero, en este caso específico de Villanueva, el estudio no fue actualizado por esta empresa ni tampoco participó como falsamente lo expone el espurio informe de ASODIQUE sobre un supuesto estudio que tendría el aval de la empresa bolivarense.
@@ -63,7 +63,7 @@ De la misma manera, se incluyó la ampliación de redes del sistema de alcantari
 
 ## «Ipe» y su «olla podrida»
 
-![«Ipe» y su «olla podrida», regresó para rasparla. Aquí en uno de sus primeros consejos de gobierno de Villanueva.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/hero.jpg)
+![«Ipe» y su «olla podrida», regresó para rasparla. Aquí en uno de sus primeros consejos de gobierno de Villanueva.](s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/hero.jpg)
 *«Ipe» y su «olla podrida», regresó para rasparla. Aquí en uno de sus primeros consejos de gobierno de Villanueva.*
 
 La población no se cansa de elegir a los mismos con la misma práctica poco transparente. Una de las _tetas que chupan_ los alcaldes de esta subregión como si fueran terneros huérfanos, son los dineros destinados para el **saneamiento ambiental, acueducto y alcantarillado.** **Gilberto «Hipo» Amaya Vázquez** fue suspendido en 2015 por estar inhabilitado. Lo sucedió **Eurípides Velasco Mendoza** ―el popular **«Ipe»**― donde demostró su real aspiración, la cual es contraria a los intereses generales de la población.
@@ -74,7 +74,7 @@ Uno de los hechos oscuros que unen a **«Ipe»** con el anterior alcalde es la c
 
 ## Estudios falsos, obra fantasma
 
-![El patrón criminal de los alcaldes de Villanueva (Bolívar), el saliente (Edwin Puerta Orozco, izq.) y el entrante, el famoso «Ipe» que regresa por la olla podrida.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/Los-alcaldes_Villanueva.jpg)
+![El patrón criminal de los alcaldes de Villanueva (Bolívar), el saliente (Edwin Puerta Orozco, izq.) y el entrante, el famoso «Ipe» que regresa por la olla podrida.](s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/Los-alcaldes_Villanueva.jpg)
 *El patrón criminal de los alcaldes de Villanueva (Bolívar), el saliente (Edwin Puerta Orozco, izq.) y el entrante, el famoso «Ipe» que regresa por la olla podrida.*
 
 La hipótesis de la falsedad de dichos estudios, se planteó en la primera entrega de este trabajo de investigación y análisis. La denuncia está en la Fiscalía y la Procuraduría. Se presentaron evidencias de esa falsedad.
@@ -105,7 +105,7 @@ Lo anterior significa que construyen una completa empanada causando un presunto 
 
 ## ¿«Ipe» hizo desembolsos?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/acta_villanueva-1-937x1024.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/08/que-se-hizo-el-1-billon-de-findeter-invertido-en-bolivar-ipe-y-su-olla-podrida-ii/acta_villanueva-1-937x1024.jpg)
 *¿«Ipe» y su «olla podrida»? Aquí está una de las actas de avance de obras para cobrar los desembolsos.*
 
 Sin embargo, según fuentes de entero crédito, ¿**«Ipe» y su «olla podrida»** la raspará con los **«**adicionales**»** de la obra? Ya se reunió con los dueños del contrato. **El primer acuerdo** es que sacan del paseo al anterior alcalde **Edwin Puertas**. **El segundo**, se refiere a que cualquier tipo de «arreglo» debe hacerse con el actual alcalde. **Tercero**, Acordar unos adicionales. **Cuarto**. Planeación autoriza los desembolsos previa acta de avance de obras que debe firmar el contratista y el supervisor del contrato.

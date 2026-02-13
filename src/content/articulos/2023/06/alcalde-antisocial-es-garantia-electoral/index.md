@@ -5,10 +5,10 @@ pubDate: "2023-06-27 02:40:14"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/alcalde-antisocial-es-garantia-electoral/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/06/alcalde-antisocial-es-garantia-electoral/hero.jpg
 ---
 
-![El clientelismo electoral de William Dau y Prosperidad Social  ponen en cuestión la garantía electoral de 2023.  Aquí haciendo sus payasadas al lado de la directora nacional Directora Nacional del Departamento de Prosperidad Social ―DPS, Cielo Rusinque. Juegan con el hambre del pueblo/Prensa alcaldía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/alcalde-antisocial-es-garantia-electoral/Dau_Ollas-comunitarias.jpeg)
+![El clientelismo electoral de William Dau y Prosperidad Social  ponen en cuestión la garantía electoral de 2023.  Aquí haciendo sus payasadas al lado de la directora nacional Directora Nacional del Departamento de Prosperidad Social ―DPS, Cielo Rusinque. Juegan con el hambre del pueblo/Prensa alcaldía.](s3://bundled-saddlebag-tnqki7w/2023/06/alcalde-antisocial-es-garantia-electoral/Dau_Ollas-comunitarias.jpeg)
 *El clientelismo electoral de William Dau y Prosperidad Social ponen en cuestión la garantía electoral de 2023. Aquí haciendo sus payasadas al lado de la directora nacional del Departamento de Prosperidad Social ―DPS, Cielo Rusinque para manipular al pueblo hambriento de Cartagena./Prensa alcaldía.*
 
 ¿Un alcalde de conducta antisocial puede ser garantía electoral? Es una pregunta que ―en particular― la sociedad cartagenera se hace luego de tres años de desgobierno y vandalismo oficial, en la medida que se acerca el 29 de junio de 2023. En esta fecha se iniciará el período de inscripciones de las próximas elecciones locales y regionales. Existen pruebas fácticas que infieren que el alcalde **William Dau Chamat** ya comenzó a mover su fichas con el fin de influir descaradamente en la elección del próximo alcalde y de concejales de esta martirizada ciudad.
@@ -33,7 +33,7 @@ Te propongo que hagas un ejercicio y respondas la pregunta. ¿Esas característi
 
 ## Dau y Maríamulata
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/alcalde-antisocial-es-garantia-electoral/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/06/alcalde-antisocial-es-garantia-electoral/hero.jpg)
 *El día que pusieron libre a Mariamulata. El abrazo del alcalde antisocial.*
 
 Al principio se pensaba que el alcalde Dau favorecería a **José Osorio**, exsecretario de Educación de **Daniel Quintero**, alcalde de Medellín. Pero con la salida al ruedo de **Judith del Carmen Pinedo Flórez (Mariamulata)** y al fortalecimiento de la red de antiguos _mariamulatos_ en la administración distrital, hace presagiar que será la candidata del alcalde. No solamente se trata del abrazo que se dieron en el batallón de Infantería de la Armada Nacional situado en Bocagrande cuando la exalcaldesa fue liberada, sino de las fichas que está alineando para, presuntamente, favorecer esa candidatura.
@@ -54,7 +54,7 @@ En ese sentido verificaremos en la próxima entrega evidencias de corrupción co
 
 ## Un alcalde antisocial no es garantía electoral
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/alcalde-antisocial-es-garantia-electoral/Dorina-y-maria-alejandra.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2023/06/alcalde-antisocial-es-garantia-electoral/Dorina-y-maria-alejandra.jpeg)
 *Aquí aparecen los candidatos a la cámara del Pacto Histórico: Dorina Hernandez (elegida), María Alejandra Benites, Edén Elles Vergara, Carlos Vargas Mestre y Rosana Lombana.*
 
 En las elecciones parlamentarias de marzo de 2022, el alcalde William Dau Chamat, públicamente tomó partido por candidatas a la cámara de representantes. En el 20221, a través de su hijo Abraham Dau, formaron una espuria colectividad que llamaron Antimalandrín. Fracasaron para recoger firmas. Luego Dau se reunió con un senador del Pacto Histórico y acordaron incluir a dos candidatas en la lista de esa coalición. Esto quedó evidenciado en un audio que causó estupor en la opinión pública por considerar una deliberada y descarada participación política. En este audio dirigido al que entonces era el cabeza de lista de la cámara del Pacto Histórico, **Javier Marrugo**:

@@ -5,10 +5,10 @@ pubDate: "2025-03-16 13:09:47"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/el-escudero-de-petro-augusto-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/03/el-escudero-de-petro-augusto-i/hero.jpg
 ---
 
-![Augusto, el escudero de Petro contra los molinos de la corrupción](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/el-escudero-de-petro-augusto-i/hero.jpg)
+![Augusto, el escudero de Petro contra los molinos de la corrupción](s3://bundled-saddlebag-tnqki7w/2025/03/el-escudero-de-petro-augusto-i/hero.jpg)
 *Augusto, el escudero de Petro contra los molinos de la corrupción.*
 
 La batalla más importante del gobierno actual no es la Consulta Popular ni las reformas sociales. ¡No! La batalla decisiva es contra los molinos de vientos de la corrupción que soplan desde su interior. En medio de este caos, surge _Augusto, el escudero de Petro_. Si bien es uno de los relatos fantásticos de la mitología política criolla, cualquier parecido con el _realismo mágico_, es pura coincidencia.
@@ -49,7 +49,7 @@ Empero, aunque la gente no lo sepa, ese delirio quijotesco por los desvalidos ap
 
 ## Augusto, el investigador
 
-![Pocas veces ven a Augusto, el escudero de Petro, expresar una carcajada. La entrevista fue tan divertida que se explayó en sus conceptos y en sus carcajadas](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/el-escudero-de-petro-augusto-i/FOTO-RIENDO-1024x576.jpg)
+![Pocas veces ven a Augusto, el escudero de Petro, expresar una carcajada. La entrevista fue tan divertida que se explayó en sus conceptos y en sus carcajadas](s3://bundled-saddlebag-tnqki7w/2025/03/el-escudero-de-petro-augusto-i/FOTO-RIENDO-1024x576.jpg)
 *Pocas veces ven a Augusto, el escudero de Petro, expresar una carcajada. La entrevista fue tan divertida que se explayó en sus conceptos y en sus carcajadas.*
 
 Ese delirio quijotesco, que llevó a Petro a enfrentarse en el congreso de la República a gigantes de la corrupción que parecían molinos de vientos, ahora están de regreso. Hoy, esos gigantes ―representados por Benedetti― en un **eterno retorno**, están en la Casa de Nariño para devorar sus ideales políticos que construyeron cerca de 30 años de lucha parlamentaria.

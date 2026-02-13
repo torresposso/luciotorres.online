@@ -5,10 +5,10 @@ pubDate: "2020-03-26 18:27:30"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/03/rosalia-poso-como-eva-en-el-paraiso-de-algo-sirve-el-coronavirus/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2020/03/rosalia-poso-como-eva-en-el-paraiso-de-algo-sirve-el-coronavirus/hero.jpg
 ---
 
-\[caption id="attachment\_11329" align="aligncenter" width="523"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/03/rosalia-poso-como-eva-en-el-paraiso-de-algo-sirve-el-coronavirus/hero.jpg) La sensual Rosalía\[/caption\] Sus labios carnosos, de rojo carmesí, humedecidos por la lascivia, resaltan la desnudez de su aterciopelado torso. Así esta Rosalía, mi Rosalía, la cantante de flamenco y la del éxito Con altura, al lado J. Balvin. Posó como Eva en el paraíso. Las curvaturas de sus protuberantes nalgas rompen la serenidad de los sentidos masculinos y femeninos. Apenas son cubiertas por esa sábana blanca que roza su piel canelosa, brillante y deseosa. Si, esa sábana blanca no se si quitarla o dejarla para que mi imaginación vuele o quede atrapada en el relieve de su trasero. Esa es mi Rosalía, quien me cautivó cuando la escuché por primera vez con la poesía hecha canción del poeta catalán **José Agustín Goytisolo**, Palabras para Julia. Canción que escuché en la versión de Paco Ibañez.
+\[caption id="attachment\_11329" align="aligncenter" width="523"\]![](s3://bundled-saddlebag-tnqki7w/2020/03/rosalia-poso-como-eva-en-el-paraiso-de-algo-sirve-el-coronavirus/hero.jpg) La sensual Rosalía\[/caption\] Sus labios carnosos, de rojo carmesí, humedecidos por la lascivia, resaltan la desnudez de su aterciopelado torso. Así esta Rosalía, mi Rosalía, la cantante de flamenco y la del éxito Con altura, al lado J. Balvin. Posó como Eva en el paraíso. Las curvaturas de sus protuberantes nalgas rompen la serenidad de los sentidos masculinos y femeninos. Apenas son cubiertas por esa sábana blanca que roza su piel canelosa, brillante y deseosa. Si, esa sábana blanca no se si quitarla o dejarla para que mi imaginación vuele o quede atrapada en el relieve de su trasero. Esa es mi Rosalía, quien me cautivó cuando la escuché por primera vez con la poesía hecha canción del poeta catalán **José Agustín Goytisolo**, Palabras para Julia. Canción que escuché en la versión de Paco Ibañez.
 
 ## Rosalía en su desnudez
 

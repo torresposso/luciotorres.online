@@ -5,10 +5,10 @@ pubDate: "2024-02-23 03:32:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/hero.jpg
 ---
 
-![la «cogida de moña» de Petro](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/hero.jpg)
+![la «cogida de moña» de Petro](s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/hero.jpg)
 *Esta es la sesión del 22 de febrero de 2024 donde no se eligió fiscal.Sigue la «cogida de moña» de Petro/Corte Suprema de Justicia.*
 
 Comienza a destrabarse la elección de la Fiscal. **Amelia Pérez**, una de las ternadas, alcanzó **13 votos derrotando el voto en blanco**, por primera vez, que recibió 8. Sin embargo, necesitaba 3 adicionales para ser la elegida. En tanto que la «cogida de moña» de Petro con la Corte Suprema de Justicia (CSJ) tiene razones objetivas que los mismos acontecimientos nos muestran. El problema de profundidad es controlar **la entidad más poderosa del Estado colombiano**: La Fiscalía General de la Nación.
@@ -17,7 +17,7 @@ El presidente Petro, como los demás mandatarios, quiere tener **una fiscal de b
 
 ## Nuevos magistrados
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/Marirraquel-Rodelo-Navarro.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/Marirraquel-Rodelo-Navarro.jpg)
 */Corte Suprema de Justicia*
 
 Empero, no está claro que la elección se pueda hacer en la sesión del próximo **7 de marzo** ni tampoco que la «cogida de moña» de Petro se termine. Si no lo hacen, es muy probable que su elección se haga después de **Semana Santa**. Pero, en abril deben ser elegidos 5 nuevos magistrados. Hoy fue elegida **Marirraquel Rodelo Navarro,** abogada de la Universidad de Cartagena**,** como magistrada de la **[Sala de Descongestión](/articulos/sala-laboral-sala-de-descongestion/)** de la Sala de Casación Laboral.  O sea, que la cosa no está clara para tener nueva fiscal.
@@ -36,7 +36,7 @@ Así como el expresidente **Álvaro Uribe Vélez** tuvo sus significativos enfre
 
 ## La «cogida de moña» de Petro con la Corte
 
-![La «cogida de moña» de Petro. Una foto que no se tradujo en armonía institucional/Presidencia.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/Petro_y_corte.jpg)
+![La «cogida de moña» de Petro. Una foto que no se tradujo en armonía institucional/Presidencia.](s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/Petro_y_corte.jpg)
 *La «cogida de moña» de Petro. Una foto que no se tradujo en armonía institucional/Presidencia.*
 
 Veamos por qué la «cogida de moña» de Petro con la Corte. En la Constitución Nacional, la **Fiscalía** **General de la Nación** garantiza el derecho al acceso a la justicia de los habitantes del territorio nacional. Tiene tres funciones especiales que fueron promesas vanas desde el rosarista **Gustavo de Greiff Restrepo** hasta Francisco Barbosa: **1.** Ejercer la acción penal de extinción de dominio en el marco del derecho constitucional al debido proceso. **2**. Participar en el diseño y la ejecución de la política criminal del Estado. **3**. Garantizar el acceso efectivo a la justicia, la verdad y la reparación de las víctimas de los delitos.
@@ -57,7 +57,7 @@ Cuando el 22 de enero del 2024 allanaron la sede de la federación de educadores
 
 ## El extesorero de Fecode
 
-![Nelson Alarcón, expresidente y extesorero de Fecode, recibió la misión de entregar el cheque de $500 millones a la campaña presidencial de Petro./Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/Nelson-alarcon.jpg)
+![Nelson Alarcón, expresidente y extesorero de Fecode, recibió la misión de entregar el cheque de $500 millones a la campaña presidencial de Petro./Cortesía.](s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/Nelson-alarcon.jpg)
 *Nelson Alarcón, expresidente y extesorero de Fecode, recibió la misión de entregar el cheque de $500 millones a la campaña presidencial de Petro./Cortesía.*
 
 Además de lo anterior, tienen la declaración de **Nelson Alarcón**, tesorero de la época de Fecode, de que él fue comisionado para entregar el cheque a la campaña presidencial. Un cheque se debió hacer y deshacer en varias oportunidades, debido a la complejidad del movimiento. Probablemente, le advirtieron que el giro del cheque no debía hacerse directamente a la campaña sino a través de una triangulación. Como se sabe, es ilegal que una organización como Fecode apoye una campaña electoral.
@@ -88,7 +88,7 @@ No obstante, todos esos procesos apuntan a demostrar que el presidente Petro se 
 
 ## La «cogida de moña» de Petro
 
-![El presidente Petro lo que más le teme es a un golpe blando.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/ONU-1024x514.jpg)
+![El presidente Petro lo que más le teme es a un golpe blando.](s3://bundled-saddlebag-tnqki7w/2024/02/que-hay-detras-de-la-cogida-de-mona-de-petro-con-la-corte-por-la-fiscalia-ii/ONU-1024x514.jpg)
 *El presidente Petro lo que más le teme es a un golpe blando.*
 
 La contradicción entre la declaración de **Nelson Alarcón**, tesorero de Fecode en el momento del aporte de los **$500 millones**, y la del gerente de Ecopetrol, Ricardo Roa, pondría la situación crítica para el presidente Petro y sus allegados de campaña.

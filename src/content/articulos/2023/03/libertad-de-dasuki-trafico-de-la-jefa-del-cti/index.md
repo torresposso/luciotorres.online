@@ -5,10 +5,10 @@ pubDate: "2023-03-24 03:47:10"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/libertad-de-dasuki-trafico-de-la-jefa-del-cti/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/03/libertad-de-dasuki-trafico-de-la-jefa-del-cti/hero.jpg
 ---
 
-![Libertad de Dasuki, ¿tráfico de la jefa del CTI?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/libertad-de-dasuki-trafico-de-la-jefa-del-cti/hero.jpg)
+![Libertad de Dasuki, ¿tráfico de la jefa del CTI?](s3://bundled-saddlebag-tnqki7w/2023/03/libertad-de-dasuki-trafico-de-la-jefa-del-cti/hero.jpg)
 *Ana Mejía Córdoba, directora del CTI La Guajira, utilizó esta camioneta para transportar colchones y otros enseres con el fin de organizarle una suite en la oficina de la directora de Fiscalía al alcalde de Maicao Mohamad Dasuki y al exalcalde José Molina Becerra.*
 
 La libertad de Dasuki, alcalde de Maicao y del exalcalde Molina Becerra por el contrato de cerca de **$3 mil millones** para una pavimentación de dos calles de esa ciudad, al parecer, puso al descubierto dos actos de flagrante corrupción. Un descarado tráfico de influencia de altos funcionarios de la Fiscalía de La Guajira. Pero también, una amañada y débil acusación del fiscal **Jesús Pertuz** que sirvió para que los abogados de los capturados pudieran pedir la libertad de los sindicados y armar un show mediático donde se victimizaron.
@@ -19,7 +19,7 @@ El alcalde de Maicao, **Mohamad Jaafar Dasuki Hajj**, y el exalcalde de ese mism
 
 ## La suite y la libertad de Dasuki Molina en la Fiscalía
 
-![A la izquierda se ve al alcalde Dasuki. A la izquierda a Oneida Pinto, exgobernadora de La Guajira, quien había sido destituida por corrupción. Ahora busca la alcaldía de Albania, de donde cumple las funciones la juez promiscua que puso en libertad a Dasuki y José Molina Becerra, de su cuerda política de Cambio Radical, la misma que es de la directora del CTI. La libertad de Dasuki.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/libertad-de-dasuki-trafico-de-la-jefa-del-cti/Dasuki_misa.jpg)
+![A la izquierda se ve al alcalde Dasuki. A la izquierda a Oneida Pinto, exgobernadora de La Guajira, quien había sido destituida por corrupción. Ahora busca la alcaldía de Albania, de donde cumple las funciones la juez promiscua que puso en libertad a Dasuki y José Molina Becerra, de su cuerda política de Cambio Radical, la misma que es de la directora del CTI. La libertad de Dasuki.](s3://bundled-saddlebag-tnqki7w/2023/03/libertad-de-dasuki-trafico-de-la-jefa-del-cti/Dasuki_misa.jpg)
 *A la izquierda se ve al alcalde Dasuki. A la izquierda a Oneida Pinto, exgobernadora de La Guajira, destituida por corrupción. Ahora busca la alcaldía de Albania, de donde cumple las funciones la juez promiscua que puso en libertad a Dasuki y José Molina Becerra, de su cuerda política de Cambio Radical, la misma que es de la directora del CTI.*
 
 Es así que se pudo establecer que **Ana Mejía Córdoba** ordenó al chofer de la camioneta **Nissan blanca No 184** transportar los enseres al búnker de la fiscalía. Ella realizó turnos con algunos de sus servidores para cuidar a los capturados. Como es lógico, esto llevó a descuidar y desatender los deberes misionales de esos funcionarios que se pusieron al servicio de los procesados. De acuerdo con la información que **VoxPopuli Digital** posee, el Fiscal General puede revisar los videos captados por las cámaras del búnker para comprobar este posible tráfico de influencia de **la actual directora del CTI, Ana Mejía Córdoba.**
@@ -36,7 +36,7 @@ En el mes de septiembre de 2020, por ejemplo, **Euripide Pulido y José Carlos M
 
 ## La libertad de Dasuki ¿acto de corrupción?
 
-![El alcalde Mohamad Dasuki y el exalcalde José Molina.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/libertad-de-dasuki-trafico-de-la-jefa-del-cti/Detienen-a-alcalde-y-exalcalde-de-Maicao.jpg)
+![El alcalde Mohamad Dasuki y el exalcalde José Molina.](s3://bundled-saddlebag-tnqki7w/2023/03/libertad-de-dasuki-trafico-de-la-jefa-del-cti/Detienen-a-alcalde-y-exalcalde-de-Maicao.jpg)
 *El alcalde Mohamad Dasuki y el exalcalde José Molina.*
 
 La detención se produjo el viernes **17 de marzo de 2023**. La libertad de Dasuki se decretó al día siguiente. Luego de que la juez de garantías —muy probablemente de sus entrañas— escuchara a los capturados el sábado 18 de marzo, no impuso medida de aseguramiento a los sindicados. Esta decisión fue duramente cuestionada. La libertad de Dasuki lo puede llevar a obstruir la investigación sobre el caso del contrato por **$2.947 millones** suscrito en abril del 2018 para recuperar y pavimentar **las calle 14 y 15** de esa ciudad fronteriza con el Estado de Zulia, Venezuela.

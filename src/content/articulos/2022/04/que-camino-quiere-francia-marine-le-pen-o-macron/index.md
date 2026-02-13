@@ -5,10 +5,10 @@ pubDate: "2022-04-12 00:31:05"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/que-camino-quiere-francia-marine-le-pen-o-macron/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/04/que-camino-quiere-francia-marine-le-pen-o-macron/hero.jpg
 ---
 
-![¿Qué camino quiere Francia? Marine Le Pen se asoma al palacio de Elíseo.  Cortesía EPE.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/que-camino-quiere-francia-marine-le-pen-o-macron/hero.jpg)
+![¿Qué camino quiere Francia? Marine Le Pen se asoma al palacio de Elíseo.  Cortesía EPE.](s3://bundled-saddlebag-tnqki7w/2022/04/que-camino-quiere-francia-marine-le-pen-o-macron/hero.jpg)
 *¿Qué camino quiere Francia? Marine Le Pen se asoma al palacio de Elíseo. Cortesía EPE.*
 
 ¿Qué camino quiere Francia? No hay posibilidades que el principal país galo regrese a las mejores épocas de la socialdemocracia, al menos en los próximos 5 años. Tampoco a la cohabitación entre la izquierda y la derecha como en las épocas idas. El estado de bienestar se va desvaneciendo con las políticas de **recorte fiscal de Emmanuel Macron**. Y si el 24 de abril llegare a triunfar **Marin Le Pen**, se confirmaría una gravitación que iría de centro derecha a una derecha—derecha. 

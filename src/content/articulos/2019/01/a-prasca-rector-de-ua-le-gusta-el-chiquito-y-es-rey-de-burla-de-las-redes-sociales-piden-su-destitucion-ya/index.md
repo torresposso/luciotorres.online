@@ -5,10 +5,10 @@ pubDate: "2019-02-01 03:29:29"
 author: "Lucio"
 categories: ["Análisis","Barranquilla"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/01/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/01/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/01/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/01/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/hero.jpg)
 
 ¿A quién le gusta el sexo? Dicen los expertos que a todos, porque es un instinto animal. ¿A quien le gusta el sexo anal? Casi a todos. Pero parece que a **Carlos Prasca**, el benemérito rector de la **Universidad del Atlántico (UA)**, le obsesiona acosar y poseer a jóvenes estudiantes por el _chiquito_. Es un comportamiento machista, ya que hace alarde de su virilidad para penetrar caminos minados y socialmente vedados.
 
@@ -16,7 +16,7 @@ heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tn
 
 ## Un Don Juan
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/01/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/firma_de_prasca_de_posesion_opt.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/01/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/firma_de_prasca_de_posesion_opt.jpg)
 *Aquí el charista Carlos Prasca firmando la posesión como rector de la UA ante el gobernador del Atlántico, Eduardo Verano de la Rosa. Cortesía UA.*
 
 **Carlos Prasca Muñoz**, exrector del ISA y donde se granjeó la fama de Don Juan, está en el _tibiritabara._ Se encuentra en el banquillo, no porque le guste _el chiquito_ , sino porque está acusado de ser acosador sexual y de abusar de su autoridad y utilizar el despacho de la rectoría para sus relaciones furtivas y de sodomía. Una fuente dijo a **www.voxpopuli.digital** que el gobernador **Eduardo Verano de la Rosa,** apenado con el asunto**,** le pidió la renuncia.

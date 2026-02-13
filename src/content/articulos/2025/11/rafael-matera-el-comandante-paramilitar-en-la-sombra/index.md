@@ -5,10 +5,10 @@ pubDate: "2025-11-05 11:07:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/rafael-matera-el-comandante-paramilitar-en-la-sombra/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/11/rafael-matera-el-comandante-paramilitar-en-la-sombra/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/rafael-matera-el-comandante-paramilitar-en-la-sombra/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/11/rafael-matera-el-comandante-paramilitar-en-la-sombra/hero.jpg)
 *Rafael Matera: el comandante paramilitar en la sombra que sigue amenazando.*
 
 En las páginas más oscuras del conflicto colombiano, siempre hubo un hilo invisible que unió la violencia con el dinero, el crimen con el negocio, la política con la impunidad. Ese hilo lleva nombres propios: empresarios, ganaderos, contratistas, abogados y políticos que financiaron el terror con la misma frialdad con que firmaban cheques o escrituras. Uno de esos nombres es **Rafael Matera Lajud**, dueño del matadero _Camagüey_ . Todo esto lo acaba de ratificar uno de estos políticos que auspiciaron el crimen paramilitar: el exsenador **Álvaro Asthon**.
@@ -19,7 +19,7 @@ Efectivamente, uno de sus socios políticos es Matera, quien fuera uno de los ac
 
 ## Asthon y Rafael Matera
 
-![El exsenador Álvaro Asthon ratificó que contiguo al matadero Camaguey de Rafael Matera Lajud, había un lote donde entrenaban los paramilitares del Atlántico y Barranquilla.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/rafael-matera-el-comandante-paramilitar-en-la-sombra/JEP_ASTHON-CAMAGUEY-1024x817.jpg)
+![El exsenador Álvaro Asthon ratificó que contiguo al matadero Camaguey de Rafael Matera Lajud, había un lote donde entrenaban los paramilitares del Atlántico y Barranquilla.](s3://bundled-saddlebag-tnqki7w/2025/11/rafael-matera-el-comandante-paramilitar-en-la-sombra/JEP_ASTHON-CAMAGUEY-1024x817.jpg)
 *El exsenador Álvaro Asthon ratificó que contiguo al matadero Camaguey de Rafael Matera Lajud, había un lote donde entrenaban los paramilitares del Atlántico y Barranquilla.*
 
 En el acápite 116 de la declaración de **Álvaro Asthon** ante la JEP, se lee taxativamente:
@@ -75,7 +75,7 @@ Uribe es, en muchos sentidos, **el espejo de Matera Lajud**: figuras que concen
 
 ### Las promesas de la Fiscalía
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/rafael-matera-el-comandante-paramilitar-en-la-sombra/Solicitud-de-informacion-fiscalia.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/11/rafael-matera-el-comandante-paramilitar-en-la-sombra/Solicitud-de-informacion-fiscalia.jpg)
 
 En 2024, la fiscal **Luz Adriana Camargo Garzón** anunció una estrategia para perseguir a los terceros financiadores del paramilitarismo:
 

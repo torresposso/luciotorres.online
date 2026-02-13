@@ -5,10 +5,10 @@ pubDate: "2024-04-18 03:32:44"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/revolcon-o-farsa-el-nuevo-fiscal-del-atlantico-un-mercenario-de-la-justicia/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/04/revolcon-o-farsa-el-nuevo-fiscal-del-atlantico-un-mercenario-de-la-justicia/hero.jpg
 ---
 
-![¿Revolcón o farsa? La atractiva fiscal Luz Adriana Camargo debe hacer valer su discurso para que no se convierta en una mitología./Prensa Fiscalía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/revolcon-o-farsa-el-nuevo-fiscal-del-atlantico-un-mercenario-de-la-justicia/Luz-Adriana_camargo_fiscal.jpeg)
+![¿Revolcón o farsa? La atractiva fiscal Luz Adriana Camargo debe hacer valer su discurso para que no se convierta en una mitología./Prensa Fiscalía.](s3://bundled-saddlebag-tnqki7w/2024/04/revolcon-o-farsa-el-nuevo-fiscal-del-atlantico-un-mercenario-de-la-justicia/Luz-Adriana_camargo_fiscal.jpeg)
 *¿Revolcón o farsa? La atractiva fiscal Luz Adriana Camargo debe hacer valer su discurso para que no se convierta en una mitología./Prensa Fiscalía.*
 
 En Barranquilla y Cartagena, las dos ciudades más importantes de la Costa Caribe, está arraigada una **corrupción de alta gama** desde 1998, época en que el paramilitarismo se tomó los cargos directivos en la Fiscalía y penetró todo el poder judicial. La pregunta para la fiscal **Luz Adriana Camargo** **Garzón**: ¿Revolcón o farsa en el nombramiento de los nuevos fiscales para Atlántico y Bolívar? La respuesta, si bien no es concluyente, **permite sospechar que en el Atlántico, con el nombramiento de un funcionario cuestionado, por lo menos, es una promesa incumplida o error por desconocimiento.**
@@ -25,7 +25,7 @@ Según informa, tiene experiencia en desarrollar planes encaminados a ejercer co
 
 ## Orlando Jaiquel: ¿Revolcón o farsa?
 
-![¿Revolcón o farsa? Fernando Orlando Jaiquel, designado director de Fiscalía del Atlántico](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/revolcon-o-farsa-el-nuevo-fiscal-del-atlantico-un-mercenario-de-la-justicia/fernando_orlando_Jaiquel.jpeg)
+![¿Revolcón o farsa? Fernando Orlando Jaiquel, designado director de Fiscalía del Atlántico](s3://bundled-saddlebag-tnqki7w/2024/04/revolcon-o-farsa-el-nuevo-fiscal-del-atlantico-un-mercenario-de-la-justicia/fernando_orlando_Jaiquel.jpeg)
 *¿Revolcón o farsa? Fernando Orlando Jaiquel, designado director de Fiscalía del Atlántico.*
 
 Señora Fiscal, la sociedad civil tiene el deber y el derecho de hacer control social a cada una de las actividades públicas. ¿Qué se puede pedir de fiscales y jueces sino probidad? ¿Podría escuchar a la prensa?

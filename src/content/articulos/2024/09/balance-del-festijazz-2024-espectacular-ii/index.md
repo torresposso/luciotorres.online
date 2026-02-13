@@ -5,10 +5,10 @@ pubDate: "2024-09-19 03:23:40"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/balance-del-festijazz-2024-espectacular-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/09/balance-del-festijazz-2024-espectacular-ii/hero.jpg
 ---
 
-![Balance del Festijazz 2024: ¡¡Espectacular!!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/balance-del-festijazz-2024-espectacular-ii/hero.jpg)
+![Balance del Festijazz 2024: ¡¡Espectacular!!](s3://bundled-saddlebag-tnqki7w/2024/09/balance-del-festijazz-2024-espectacular-ii/hero.jpg)
 *Balance del Festijazz 2024: ¡¡Espectacular!!*
 
 El Festijazz 2024 fue una verdadera apuesta al **turismo cultural** de la gobernación de Bolívar liderada por el jovial **Yamil Arana Padauí**. La _depresión momposina_ gozó de una febril semana del **10 al 14 de septiembre**. Visitantes nacionales e internacionales se deleitaron con la música. Ellos percibieron la magia macondiana que **engrandece este** **ecosistema cultural**. En síntesis: se hizo realidad lo pronosticado en VoxPopuli Digital:
@@ -33,21 +33,21 @@ Algunos seguidores de artistas urbanos quieren estar más cerca para _pantallar_
 
 ## ¡Espectacular!
 
-![Carlos Vives y el Festijazz 2024: ¡Espectacular!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/balance-del-festijazz-2024-espectacular-ii/Carlos_vives_en_concierto-1024x539.jpeg)
+![Carlos Vives y el Festijazz 2024: ¡Espectacular!](s3://bundled-saddlebag-tnqki7w/2024/09/balance-del-festijazz-2024-espectacular-ii/Carlos_vives_en_concierto-1024x539.jpeg)
 *Carlos Vives y el Festijazz 2024: ¡Espectacular!*
 
 El concierto de **Carlos Vives** y su grupo fue pensado. Sus canciones bien escogidas. _Su rock para el pueblo_ es la fusión perfecta de la personalidad artística del samario. Sus videoclips. Su fusión. Todo lo pensaron para hacer un _ensamble musical_ propicio de la **cultura anfibia de la depresión momposina**. El mismo Vives reconoció que esta **ecoregión cultural** ―impactada por el río Magdalena donde desembocan los ríos Cesar, Cauca y San Jorge― produjo los juglares que aportaron significativamente a la cultura regional y nacional.
 
 De igual manera, fue impactada la gente de estos departamentos que beben de la **cultura anfibia**: Bolívar, Sucre, Magdalena, Cesar, Atlántico, Córdoba y Santander. La música de Vives en este concierto expresó esa diversidad cultural, tal como él mismo lo expresó en tarima.
 
-![Angélica Salas Salas acompaña a Carlos Vives en Matié. Festijazz 2024](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/balance-del-festijazz-2024-espectacular-ii/Carlos_vive_salas-1024x683.jpg)
+![Angélica Salas Salas acompaña a Carlos Vives en Matié. Festijazz 2024](s3://bundled-saddlebag-tnqki7w/2024/09/balance-del-festijazz-2024-espectacular-ii/Carlos_vive_salas-1024x683.jpg)
 *Angélica Salas Salas acompaña a Carlos Vives en Matié.*
 
 En la mañana del día de su exitosa presentación, Carlos Vives acompañó a la Primera Gestora Social, **Angélica Salas Salas**, en la instalación de _Matié_ (Madre Tierra). Esto es uno de sus programas sociales que beneficia a 720 mujeres. El encuentro reunió comensales nacionales, extranjeros e invitados especiales que disfrutaron un **menú autóctono** de los chefs **Jaime y Jonathan Galindo** preparado con productos cultivados por estas mujeres: cúrcuma, miel de abeja, flor de Jamaica, cacao, flores comestibles.
 
 ## Martín Madera: _¡El resucitado!_
 
-![Martín Madera: ¡el resucitado!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/balance-del-festijazz-2024-espectacular-ii/carlos_vives_madera-1024x592.jpeg)
+![Martín Madera: ¡el resucitado!](s3://bundled-saddlebag-tnqki7w/2024/09/balance-del-festijazz-2024-espectacular-ii/carlos_vives_madera-1024x592.jpeg)
 *Martín Madera: ¡el resucitado!*
 
 Antes del concierto ¡espectacular! de **Carlos Vives** y su grupo, el gobernador **Yamil Arana Padauí** acertó con el gran homenaje a **Martín Madera, ¡El resucitado!** Premio Grammy (2002). El gobernador reconoció a un artista universal que siguió la vena musical de la _Ciudad de los Tres Ríos_, donde brillaron y brillan músicos e intérpretes como **_Chico_ Cervantes** y su agrupación, **Jesús M. Leal**, **Rodolfo Aicardi**, **Willy Calderon**, **Ray Calderón**, Zalo y muchos de la música tropical que triunfaron internacionalmente.

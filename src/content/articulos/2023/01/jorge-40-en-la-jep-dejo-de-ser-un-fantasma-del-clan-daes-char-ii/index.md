@@ -5,10 +5,10 @@ pubDate: "2023-01-29 20:11:58"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/jorge-40-en-la-jep-dejo-de-ser-un-fantasma-del-clan-daes-char-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/01/jorge-40-en-la-jep-dejo-de-ser-un-fantasma-del-clan-daes-char-ii/hero.jpg
 ---
 
-![«Jorge 40» en la JEP dejó de ser un fantasma del Clan Daes—Char para convertirse en la farsa de la gestión de paz del alto gobierno](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/jorge-40-en-la-jep-dejo-de-ser-un-fantasma-del-clan-daes-char-ii/hero.jpg)
+![«Jorge 40» en la JEP dejó de ser un fantasma del Clan Daes—Char para convertirse en la farsa de la gestión de paz del alto gobierno](s3://bundled-saddlebag-tnqki7w/2023/01/jorge-40-en-la-jep-dejo-de-ser-un-fantasma-del-clan-daes-char-ii/hero.jpg)
 *«Jorge 40» en la JEP dejó de ser un fantasma del Clan Daes—Char para convertirse en la farsa de la gestión de paz del alto gobierno.*
 
 Por ahora, la comparecencia de «Jorge 40» en la JEP dejó de ser un fantasma para el **Clan Daes—Char** para convertirse en la farsa de la gestión de paz del alto gobierno. La cita judicial fue una burla a la justicia restaurativa y a las víctimas que buscan la verdad. En realidad fue un sainete que pretende instrumentalizar la justicia restaurativa. Uno de los posibles libretista sería el **Comisionado Nacional de Paz, Danilo Rueda Rodriguez**.
@@ -41,7 +41,7 @@ Esta entrega es posible con el apoyo de la periodista **Amalfy Rosales**, direct
 
 ## Marenco chupando Rueda al comisionado
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/jorge-40-en-la-jep-dejo-de-ser-un-fantasma-del-clan-daes-char-ii/rueda.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/01/jorge-40-en-la-jep-dejo-de-ser-un-fantasma-del-clan-daes-char-ii/rueda.jpg)
 *Danilo Rueda es el Comisionado de Paz que pudo firmar el Pacto de La Picota. Está cumpliendo con lo prometido a los jefes del paramilitarismo colombiano. Llevar a «Jorge 40» en la JEP, Cortesía.*
 
 El que fuera designado vocero político por el mismo **«Jorge 40»** o **«Papa»**, cuando traficaban con droga y asesinaban sindicalistas docentes y estudiantes, **Mario Marenco**, alias **«el Gordo»**, dinamizó la campaña presidencial de Gustavo Petro en el Atlántico. Una vez posesionado como presidente y nombrado Danilo Rueda Comisionado de Paz, Marenco se convirtió en gestor de paz. Su desmovilización se produjo en 2006 y jugó un papel muy importante para el éxito de los **procesos de la parapolitica**. Desde esos momentos entabló una excelente relación con el hoy ministro de la Defensa y el Comisionado de Paz en su papel de defensor de los derechos humanos y presidente de la Comunidades Eclesiales de Base.
@@ -74,7 +74,7 @@ Por ejemplo, el _nido de ratas_ en que se convirtió la ya extinta Dirección Na
 
 ## «Jorge 40» en la JEP, _una santa paloma_
 
-![La magistrada Sandra Ospino Castro debió interrumpir en varias ocasiones al declarante «Jorge 40» en la JEP para solicitarle que precisara sus declaraciones que no dijo nada nuevo en los dos días de la audiencia. .](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/jorge-40-en-la-jep-dejo-de-ser-un-fantasma-del-clan-daes-char-ii/Jorge-40_magistrada.jpg)
+![La magistrada Sandra Ospino Castro debió interrumpir en varias ocasiones al declarante «Jorge 40» en la JEP para solicitarle que precisara sus declaraciones que no dijo nada nuevo en los dos días de la audiencia. .](s3://bundled-saddlebag-tnqki7w/2023/01/jorge-40-en-la-jep-dejo-de-ser-un-fantasma-del-clan-daes-char-ii/Jorge-40_magistrada.jpg)
 *La magistrada Sandra Ospino Castro debió interrumpir en varias ocasiones al declarante «Jorge 40» en la JEP para solicitarle que precisara sus declaraciones que no dijo nada nuevo en los dos días de la audiencia. (Captura de pantalla).*
 
 De manera que este criminal ahora aparece como una _santa paloma_ víctima del **«**desplazamiento**»** de docentes del **Liceo Loperena** (Valledupar) que adoctrinaron a sus estudiantes con ideas de lucha de clases. Él no se acordó que en los años 50 y 60 los terratenientes de valledupar expandieron sus propiedades más allá de la **«**línea negra**»** que le pertenecía a las comunidades indígenas arhuacas, kogis, arzarios, kankuamos. Estas comunidades debieron remontarse en la Sierra Nevada arrinconados por las presiones de los pájaros financiados por los terratenientes de Valledupar.

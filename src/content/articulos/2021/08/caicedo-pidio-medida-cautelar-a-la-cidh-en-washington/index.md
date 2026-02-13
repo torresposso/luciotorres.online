@@ -5,10 +5,10 @@ pubDate: "2021-08-26 00:16:52"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/caicedo-pidio-medida-cautelar-a-la-cidh-en-washington/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/08/caicedo-pidio-medida-cautelar-a-la-cidh-en-washington/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/caicedo-pidio-medida-cautelar-a-la-cidh-en-washington/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/08/caicedo-pidio-medida-cautelar-a-la-cidh-en-washington/hero.jpg)
 *Javier Galindo de la CCJ y Rafael Martínez, líder de Fuerza Ciudadana en Washington. Piden medida cautelar.*
 
 Caicedo pidió medida cautelar a la CIDH en Washington. En efecto, el gobernador del Magdalena, **Carlos Eduardo Caicedo Omar**, salió intempestivamente del país el pasado 19 de agosto. No indicaron en que país se encuentra. Pero una delegación de la **Comisión Colombiana de Juristas (CCJ)** se encuentra en la sede de la **Comisión Interamericana de Derechos Humanos (CIDH**). El líder de Fuerza Ciudadana, movimiento de izquierda que sostiene al mandatario, **Rafael Martínez**, confirmó la información en un video que grabó en la sede de la CIDH.

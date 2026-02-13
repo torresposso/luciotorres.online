@@ -5,10 +5,10 @@ pubDate: "2024-12-23 16:56:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/coosalud-el-hombre-bisagra-que-unio-las-dos-redes-criminales/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/12/coosalud-el-hombre-bisagra-que-unio-las-dos-redes-criminales/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/coosalud-el-hombre-bisagra-que-unio-las-dos-redes-criminales/Coosalud_junta-directiva-1024x525.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/12/coosalud-el-hombre-bisagra-que-unio-las-dos-redes-criminales/Coosalud_junta-directiva-1024x525.jpeg)
 *El presidente Petro tiene razón: Familiares de dos expresidentes hacían parte de la junta directiva de Coosalud cuando fue intervenida. (Adivinen sus nombres). La estructura criminal de Jaime González . (Informe Corporativa, 2019).*
 
 **Hortensia Morales Castilla** ―cartagenera de 80 años― sufrió una fisura a raíz de un accidente. Le contó su historia a **VoxPopuli Digital**. Pero ella desconocía que los tres meses de dolor que padece, **sin que la atiendan en Coosalud**, es producto de la estructura criminal de esa organización. Allí tienen **embolatados $433 mil millones** de la Unidad de Pago por Capitación (UPC), cuyo cerebro es **Jaime González Montaño** **y su clan familiar**. Ellos suelen pasar como exitosos empresarios. Las pruebas existentes, dicen todo lo contrario: **unos esquilmadores del erario**.
@@ -49,7 +49,7 @@ Como era de esperarse, muy pronto sus decisiones eran órdenes. No había ningun
 
 ## González, 5.0 Palacino
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/coosalud-el-hombre-bisagra-que-unio-las-dos-redes-criminales/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/12/coosalud-el-hombre-bisagra-que-unio-las-dos-redes-criminales/hero.jpg)
 *La directora de Supersolidaria, María José Navarro Muñoz, cuando fue posesionada por el entonces ministro de Hacienda y Crédito Público, hoy caído en desgracia. La Supersolidaria tomó posesión de Coosalud.*
 
 El esquema de gobierno corporativo de **Coosalud EPS** no tiene nada que envidiarle a SaludCoop EPS. Es la versión 5.0 de Palacino. Según fuentes financieras, se presume que a lo largo de los 30 años de existencia de la cooperativa, **logró amasar la suma de $2 billones** producto de sus fechorías con los dineros de la salud de los más pobres. El valor de la Unidad de Pago por Capitación (UPC) para el año 2024 es de $1.444.086 para el Régimen Contributivo y de $1.256 para el Régimen Subsidiado. Según, el Informe Corporativo de 2024 (documento no disponible), **Coosalud recibió en el 2023 la suma de $4,67 billones**. ¿Cuántos se fueron para las arcas particulares del Palacino 5.0? Eso es incalculable.
@@ -66,7 +66,7 @@ Claro, uno de los negocios clave era ser EPS, puesto que a través de esta figur
 
 ¿Qué dice la lógica de seres humanos como González? Que entre más muertes intrahospitalaria exista, más ganan ellos. ¿Perversidad? Si, mucha perversidad que es la determinante del **«**fallo del mercado**»**, como dicen los expertos economistas. Esta es la esencia del problema de la salud y del servicio público y de la propiedad privada.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/coosalud-el-hombre-bisagra-que-unio-las-dos-redes-criminales/Captura-de-pantalla-2024-12-22-205321-1024x334.png)
+![](s3://bundled-saddlebag-tnqki7w/2024/12/coosalud-el-hombre-bisagra-que-unio-las-dos-redes-criminales/Captura-de-pantalla-2024-12-22-205321-1024x334.png)
 *Detrás de esta fachada, había una verdadera estructura criminal que empobreció más a los pobres, se tradujo en muerte por la falta de atención real en la salud.*
 
 El 90% de Coosalud EPS S.A. pertenece a Coosalud Cooperativa Multiactiva, de este porcentaje, 49% se pone a disposición de potenciales inversores.  

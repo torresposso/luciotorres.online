@@ -5,10 +5,10 @@ pubDate: "2024-02-28 01:39:51"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/mancuso-y-el-eterno-retorno-de-la-verdad/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/02/mancuso-y-el-eterno-retorno-de-la-verdad/hero.jpg
 ---
 
-![El eterno retorno de Mancuso](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/mancuso-y-el-eterno-retorno-de-la-verdad/Mancuso_llegando-1024x768.jpeg)
+![El eterno retorno de Mancuso](s3://bundled-saddlebag-tnqki7w/2024/02/mancuso-y-el-eterno-retorno-de-la-verdad/Mancuso_llegando-1024x768.jpeg)
 *El eterno retorno de Mancuso*
 
 El eterno retorno de la verdad sobre el conflicto armado, hoy cobra un día histórico con el regreso de Salvatore Mancuso Gómez, el principal dirigente vivo de esos escuadrones de la muerte. ¿Será cierto esto? ¿Tendrá la capacidad de enfrentarse a tantas presiones y a sus propios intereses para narrar a la sociedad colombiana la real verdad de los crimenes contra la humanidad?
@@ -27,7 +27,7 @@ Después de las 2 de la tarde de hoy 27 de febrero de 2024, llegó el esperado v
 
 ## El eterno retorno esperado
 
-![Aquí Salvatore Mancuso con un funcionario de Migración Colombia. Eleterno retorno.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/mancuso-y-el-eterno-retorno-de-la-verdad/Salvatore-Mancuso_migracion-768x1024.jpeg)
+![Aquí Salvatore Mancuso con un funcionario de Migración Colombia. Eleterno retorno.](s3://bundled-saddlebag-tnqki7w/2024/02/mancuso-y-el-eterno-retorno-de-la-verdad/Salvatore-Mancuso_migracion-768x1024.jpeg)
 *Aquí con un funcionario de Migración Colombia.*
 
 Así como cuando las AUC se desmovilizaron, el eterno retorno de Mancuso se produjo en medio de la expectativa que ello significa para conseguir la verdad de los hechos de esta guerra fratricida que se exacerbó en la década del 90 bajo la dirección militar de los hermanos **Fidel, Carlos y Vicente Castaño, y Salvatore Mancuso**. Contaron con la conducción política de muchísimos empresarios, políticos y agentes del Estado. Esa expectativa es la misma sensación que produjo cuando ellos llegaron por primera vez en el congreso para tomar la palabra en el recinto democrático del país y contar la verdad de ellos. La verdad del triunfador de una guerra contra la sociedad desarmada. Ese mismo recinto que fue testigo cuando dijo que el 30% de la corporación representaba los intereses de los paramilitares. El mismo congreso que los aplaudió en aquel año cuando las heridas estaban abiertas y sangrantes.
@@ -44,7 +44,7 @@ Hoy, su tono es humilde, lejos de la arrogancia de los tiempos aquellos cuando f
 
 ## ¿Y las víctimas?
 
-![Las víctimas del conflicto están como estos árboles, destrozadas. El eterno retorno a la verdad.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/mancuso-y-el-eterno-retorno-de-la-verdad/hero.jpg)
+![Las víctimas del conflicto están como estos árboles, destrozadas. El eterno retorno a la verdad.](s3://bundled-saddlebag-tnqki7w/2024/02/mancuso-y-el-eterno-retorno-de-la-verdad/hero.jpg)
 *Las víctimas del conflicto están como estos árboles, destrozadas. El eterno retorno a la verdad.*
 
 Como se puede apreciar, ese tono de renacimiento ¿podría ser un sincero arrepentimiento? ¿Y los crímenes cometidos contra personas humildes e inocentes en estado de indefensión? La realidad de sus días en Colombia debe reafirmar esa promesa. Pero, son millones de hombres y mujeres, adultos y niños que sufrieron y siguen sufriendo esta guerra irresoluta.

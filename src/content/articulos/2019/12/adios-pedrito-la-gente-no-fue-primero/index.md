@@ -5,10 +5,10 @@ pubDate: "2019-12-28 15:03:04"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/12/adios-pedrito-la-gente-no-fue-primero/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/12/adios-pedrito-la-gente-no-fue-primero/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/12/adios-pedrito-la-gente-no-fue-primero/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/12/adios-pedrito-la-gente-no-fue-primero/hero.jpg)
 *¡Adiós, Pedrito! Ahora que deje el gobierno ¿dejarán caer a Pedrito mPereira?*
 
 ¡Adios, Pedrito! Se va **Pedrito Pereira Caballero**, alcalde encargado de Cartagena de Indias. Se despide con dos discutidos negocios: l**a 5a Avenida y el alumbrado público.** Su sonrisa y su forma amable de tratar **no se reflejó en las realizaciones gubernamentales** como superación de la pobreza, combatir la corrupción, disminuir la desigualdad y fortalecer la institucionalidad. 

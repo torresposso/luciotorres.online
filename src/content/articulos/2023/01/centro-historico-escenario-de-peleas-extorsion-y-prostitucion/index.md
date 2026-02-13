@@ -5,10 +5,10 @@ pubDate: "2023-01-16 19:47:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/centro-historico-escenario-de-peleas-extorsion-y-prostitucion/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/01/centro-historico-escenario-de-peleas-extorsion-y-prostitucion/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/centro-historico-escenario-de-peleas-extorsion-y-prostitucion/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/01/centro-historico-escenario-de-peleas-extorsion-y-prostitucion/hero.jpg)
 *Maura llega, una de las trans que protagonizó una de las grandes peleas y denunció la existencia de una banda de extorsionista.*
 
 El deterioro moral y material del Centro Histórico de Cartagena, en los tres años de gobierno del alcalde William Dau Chamat, es tan evidente que cualquier turista desprevenido se tropieza con una alcantarilla destapada, un anden destruido o un hueco en el piso. Pero, así como sucede en lo físico, en el aspecto social es más deplorable: **prostitución a cielo abierto, drogadicción, riñas, atracos, extorsión a turistas, uso de escopolamina, entre otros**.

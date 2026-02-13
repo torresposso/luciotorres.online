@@ -5,7 +5,7 @@ pubDate: "2021-04-13 22:00:29"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/mariamulata-y-panizza-alcaldes-condenados-de-la-casa-araujo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/04/mariamulata-y-panizza-alcaldes-condenados-de-la-casa-araujo/hero.jpg
 ---
 
 \[caption id="attachment\_14551" align="aligncenter" width="1200"\](imagen no disponible) Guillermo Paniza y Judith Pinedo, **el club de alcaldes condenados Casa Araújo**.\[/caption\]
@@ -16,7 +16,7 @@ Es una élite de **«Papi y Mami»** asociadas a familias de abolengo de la ciud
 
 ## **«Papi y Mami»**
 
-\[caption id="attachment\_14552" align="aligncenter" width="712"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/mariamulata-y-panizza-alcaldes-condenados-de-la-casa-araujo/hero.jpg) William Dau, candidato a ser parte del **club de alcaldes condenados**. En un año ha hecho hasta para vender.\[/caption\]
+\[caption id="attachment\_14552" align="aligncenter" width="712"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/mariamulata-y-panizza-alcaldes-condenados-de-la-casa-araujo/hero.jpg) William Dau, candidato a ser parte del **club de alcaldes condenados**. En un año ha hecho hasta para vender.\[/caption\]
 
 La élite de **«Papi y Mami»** y en particular, la Casa Araújo, —que está en el gobierno con William Dau— tiene una constante lucha por el poder político. Es una competencia electoral contra la élite política que vino de la provincia mayormente desplazada por la violencia guerrillera. A este sector político le hemos denominado **«Élite de Provincia»**.
 

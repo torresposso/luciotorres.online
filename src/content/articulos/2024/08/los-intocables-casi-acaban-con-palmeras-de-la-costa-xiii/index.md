@@ -5,10 +5,10 @@ pubDate: "2024-08-06 03:24:40"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/los-intocables-casi-acaban-con-palmeras-de-la-costa-xiii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/08/los-intocables-casi-acaban-con-palmeras-de-la-costa-xiii/hero.jpg
 ---
 
-![Palmeras de la Costa hace esfuerzo por superar las consecuencias de haber sufrido la infiltración del paramilitarismo. Aquí se comprometen por el trabajo decente a través de un pacto con los trabajadores.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/los-intocables-casi-acaban-con-palmeras-de-la-costa-xiii/hero.jpg)
+![Palmeras de la Costa hace esfuerzo por superar las consecuencias de haber sufrido la infiltración del paramilitarismo. Aquí se comprometen por el trabajo decente a través de un pacto con los trabajadores.](s3://bundled-saddlebag-tnqki7w/2024/08/los-intocables-casi-acaban-con-palmeras-de-la-costa-xiii/hero.jpg)
 *Palmeras de la Costa hace esfuerzo por superar las consecuencias de haber sufrido la infiltración del paramilitarismo. Aquí se comprometen por el trabajo decente a través de un pacto con los trabajadores.*
 
 Cuando retornó al país el legendario **«Jorge 40»** de pagar su pena por narcotráfico, el presidente de la época de **Palmeras de la Costa S.A,** era **Alfonso Macías Azuero** (hijo de **Alfonso Macías Vargas**), sindicado de paramilitarismo. Para esa época, sospechosamente desapareció más de **$30 mil millones** en un robo continuado sufrido por la empresa. Lo cierto de esta trama, es que los sindicados de delitos de lesa humanidad aún conservan el **10% de esas acciones** dentro de dicha compañía sin que la Fiscalía actúe.
@@ -19,7 +19,7 @@ Ahora bien, este concierto lo encabeza **Alfonso Macías Azuero** y sus empresas
 
 ## Las pruebas
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/los-intocables-casi-acaban-con-palmeras-de-la-costa-xiii/Palmeras_de_la_costa_compulsa.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/08/los-intocables-casi-acaban-con-palmeras-de-la-costa-xiii/Palmeras_de_la_costa_compulsa.jpg)
 *Informe de la Fiscalía al Tribunal de Justicia y Paz de Barranquilla sobre la conducta paramilitar de los empresarios Alfonso Macías, Darío Laino Escopetta, Leonidas Duque Hurtado, Darío Luis Macías, Capitán Azuero, socios de Jorge 40 en su empresa criminal. Se incrustaron en Palmeras de la Costa*
 
 Una de las propiedades insignias del paramilitarismo fue la **finca Potosí** y aún no tiene la orden de extinción. Sus predios lo utilizaron como campo de entrenamiento, escondite de secuestrados y cementerio privado paramilitar. La toma ilegal del mencionado 10% de su participación accionaria en **Palmeras de la Costa SA**, casi la arruina.
@@ -34,7 +34,7 @@ Por tanto, para responder a esa pregunta, en nuestro análisis de investigación
 
 ## Suficiente material probatorio
 
-![Palmeras de la Costa](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/los-intocables-casi-acaban-con-palmeras-de-la-costa-xiii/Imagen-de-WhatsApp-2024-07-27-a-las-21.06.55_84739889-757x1024.jpg)
+![Palmeras de la Costa](s3://bundled-saddlebag-tnqki7w/2024/08/los-intocables-casi-acaban-con-palmeras-de-la-costa-xiii/Imagen-de-WhatsApp-2024-07-27-a-las-21.06.55_84739889-757x1024.jpg)
 *Esta es la prueba reina de la compulsa de copia del Fiscal 5 Especializado de Barranquilla a la directora de Extinción del Derecho de Dominio, Liliana Patricia Donado Sierra con fecha septiembre 6 de 2022. ¿Prevaricó por omisión?*
 
 En el caso específico de **«Los Intocables»**, existe todo el material probatorio de Justicia y Paz, testimonios de los postulados y excomandantes de las **Autodefensas Unidas de Colombia (AUC)**. Asimismo, compulsas de copia ―como la del pantallazo que se publica― a la justicia ordinaria y a la Corte Suprema de Justicia. Entonces nos preguntamos: ¿Por qué no existe extinción de dominio en contra de todos los bienes y empresas de **Rafael Antonio Matera Lajud y Alfonso Macías**, si está plenamente demostrado que fueron financiadores y auspiciadores de la organización criminal AUC, como así lo reiteró categóricamente su máximo comandante Salvatore Mancuso?

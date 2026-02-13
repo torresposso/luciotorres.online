@@ -5,10 +5,10 @@ pubDate: "2024-04-25 03:05:00"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/el-inspector-de-pasacaballos-y-su-extrana-actuacion-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/04/el-inspector-de-pasacaballos-y-su-extrana-actuacion-ii/hero.jpg
 ---
 
-![El inspector de Pasacaballos y su extraña actuación](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/el-inspector-de-pasacaballos-y-su-extrana-actuacion-ii/hero.jpg)
+![El inspector de Pasacaballos y su extraña actuación](s3://bundled-saddlebag-tnqki7w/2024/04/el-inspector-de-pasacaballos-y-su-extrana-actuacion-ii/hero.jpg)
 *El inspector de Pasacaballos y su extraña actuación./RS.*
 
 El inspector de Pasacaballos, corregimiento de Cartagena, **Fernán Pérez Saravia**, insiste y persiste en una extraña actuación de mantener un **amparo policivo** a favor de **Inser Sas** (Inser Equipos Sas) contra el propietario legítimo de _Astilleros Escamilla_, **Orlando Escamilla Coronado**. Un hombre de 85 años, cuya vida dedicó a levantar el patrimonio que el mentado inspector ahora pone en peligro de perder mediante una conducta absurda y poco sustentable desde el punto de vista administrativo.
@@ -37,7 +37,7 @@ Lo que la gente no se explica por qué razón una empresa de construcción de em
 
 ## Los hechos
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/el-inspector-de-pasacaballos-y-su-extrana-actuacion-ii/Walter_amaya_Luna.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/04/el-inspector-de-pasacaballos-y-su-extrana-actuacion-ii/Walter_amaya_Luna.jpeg)
 
 En enero del 2013 Escamilla Coronado había llegado a un acuerdo de negocios con **Inser Sas**. Como él tenía el _Astillero Escamilla_ que había construido el ferry para cruzar el **Canal del Dique** de Pasacaballos a Barú, la idea era proyectarse a un negocio mucho más grande. Era la promesa de los supuestos empresarios. Es un sitio estratégico en la Bahía de Cartagena que puede ser usado para todo tipo de exportación legal e ilegal.
 

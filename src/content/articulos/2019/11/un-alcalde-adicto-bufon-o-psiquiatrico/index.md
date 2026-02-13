@@ -5,17 +5,17 @@ pubDate: "2019-11-17 16:56:46"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/un-alcalde-adicto-bufon-o-psiquiatrico/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/11/un-alcalde-adicto-bufon-o-psiquiatrico/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/un-alcalde-adicto-bufon-o-psiquiatrico/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/11/un-alcalde-adicto-bufon-o-psiquiatrico/hero.jpg)
 *William Dau dio la banda en el bando. Sus movimientos eran como los de una persona drogada y con trastornos mentales. Cortesía Facebook.*
 
 ¿Un alcalde adicto? ¿Bufón? ¿Psiquiátrico? William Dau Chamat, está metido en un berenjenal. Su conducta pública es errática. Imprecisa. Sus movimientos físicos son como los de un enajenado mental. **En el bando de la independencia de Cartagena fue el hazme reír, un bufón**. Pero la ciudad no sabe que sus antiguos amigos de Castillogrande lo consideran un adicto a las drogas... y de los duros. Podría presentar un cuadro clínico psiquiátrico. ¿Cuál será su patología?
 
 ## ¿Un alcalde adicto?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/un-alcalde-adicto-bufon-o-psiquiatrico/dau-y-mariamulata.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/11/un-alcalde-adicto-bufon-o-psiquiatrico/dau-y-mariamulata.jpg)
 *Mariamulata, exalcaldesa, es vale de Dau. Ella iba a ser la gerente de Cartagena. Cortesía.*
 
 Así como le sucede a algunos adictos que deben meterse un pase de **_perico_** o de _**mariacachafa**_ antes de tener relaciones sexuales, **¿Dau Chamat tendrá que drogarse para comenzar a despachar en el palacio de la Aduana?** ¿Como será su comportamiento cuando sea sometido por situaciones estresantes que todo gobernante debe pasar? **¿Le dará todo el poder a Mónica Fadul?** ¿Como enfrentará su mitomanía, sus mentiras que cree él y se las hace creer a los demás?
@@ -75,7 +75,7 @@ Existen otros testimonios sobre la adicción de William Dau y de su incapacidad 
 
 ## ¿Psiquiátrico?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/un-alcalde-adicto-bufon-o-psiquiatrico/maniaco-depresiva.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/11/un-alcalde-adicto-bufon-o-psiquiatrico/maniaco-depresiva.jpg)
 *Algunos médicos de la ciudad se han cruzado chaps sobre la presunta enfermedad psiquiátrica de Dau.*
 
 **¿Un enfermo psiquiátrico puede trabajar o ser un gran empresario?** Algunos pueden trabajar y ser un gran empresario con la tutela de personas cabales. Pero también hay enfermos psiquiátricos que se han fumado las empresas de sus padres. En la historia de las empresas de Cartagena o de Medellín nos podríamos dar cuenta de ello cuando en la segunda o tercera generación de la familia hubo **alguien psiquiátrico que se fumó todo el patrimonio familiar**. En Magangué conozco el caso de una familia, cuya herencia quedó en manos de la única hija, psiquiátrica y viciosa, y se fumó todo lo que sus padres le dejaron.

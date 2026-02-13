@@ -5,10 +5,10 @@ pubDate: "2022-09-10 17:06:24"
 author: "Lucio"
 categories: ["Análisis","Investigación","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/la-ultima-cena-en-el-gastrobar-de-los-dau-y-la-necropsia-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/09/la-ultima-cena-en-el-gastrobar-de-los-dau-y-la-necropsia-ii/hero.jpg
 ---
 
-![La última cena en el gastrobar de los Dau](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/la-ultima-cena-en-el-gastrobar-de-los-dau-y-la-necropsia-ii/hero.jpg)
+![La última cena en el gastrobar de los Dau](s3://bundled-saddlebag-tnqki7w/2022/09/la-ultima-cena-en-el-gastrobar-de-los-dau-y-la-necropsia-ii/hero.jpg)
 *La última cena en el gastrobar de los Dau. ¿Mixología molecular que excita el sistema nervioso central?*
 
 La última cena en el gastrobar de los Dau **selló la muerte de los holandeses Robert y Nienke** (31 y 29 años, respectivamente). Hoy se cumplen 21 días de esa tragedia, cuya causa no ha sido divulgada oficialmente. El informe de la necropsia de sus cuerpos se confrontará con otros estudios que realizarán en Amsterdam. ¿Pudieron morir por una simple intoxicación alimentaria? ¿O por una mixología molecular que excita el sistema nervioso central? ¿Se pasaron de dosis en los ingredientes? Los cadáveres hablan. Todo apunta a que hay algo más complejo en la causa de ese fatídico desenlace.
@@ -25,7 +25,7 @@ Se debe citar un hecho que llama la atención. Un comensal que llegó al gastrob
 
 ## La última cena en el gastrobar de los Dau
 
-![Aquí en el Centro de Convenciones de Cartagena de Indias, siguen taladrando las preguntas sobre la causa de la muerte de los turistas holandeses que comieron la última cena en el gastrobar de los Dau.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/la-ultima-cena-en-el-gastrobar-de-los-dau-y-la-necropsia-ii/arsenal-the-rum-box1.jpg)
+![Aquí en el Centro de Convenciones de Cartagena de Indias, siguen taladrando las preguntas sobre la causa de la muerte de los turistas holandeses que comieron la última cena en el gastrobar de los Dau.](s3://bundled-saddlebag-tnqki7w/2022/09/la-ultima-cena-en-el-gastrobar-de-los-dau-y-la-necropsia-ii/arsenal-the-rum-box1.jpg)
 *Aquí en el Centro de Convenciones de Cartagena de Indias, siguen taladrando las preguntas sobre la causa de la muerte de los turistas holandeses que comieron la última cena en el gastrobar de los Dau.*
 
 Luego de ir al hotel Casa del Coliseo a descansar, asearse y cambiarse, **Robert y Nienke** llegaron a las 8:30 de la noche, como el mismo **Abraham Dau** lo reconoció ante algunos periodistas. Ellos querían sentir, vivir y gozar otro placer para cerrar un domingo experiencial luego de haber disfrutado, al mediodía, las comidas de Bazurto. Si hubiesen tenido problemas estomacales, seguro que no hubiesen salido por la noche. Esperaban una experiencia sin igual que prometía la publicidad del gastrobar de los Dau. ¡Placer! ¡Dopamina!

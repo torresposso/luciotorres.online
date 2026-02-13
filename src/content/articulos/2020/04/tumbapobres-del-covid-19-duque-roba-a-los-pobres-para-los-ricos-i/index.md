@@ -5,14 +5,14 @@ pubDate: "2020-04-19 16:03:21"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/04/tumbapobres-del-covid-19-duque-roba-a-los-pobres-para-los-ricos-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2020/04/tumbapobres-del-covid-19-duque-roba-a-los-pobres-para-los-ricos-i/hero.jpg
 ---
 
 Para entender a **los tumbapobres del Covid—19,** nos remontamos al antiguo testamento cuando el profeta Malaquíes vio que ricos mercaderes no daban el diezmo pactado entre el pueblo judío y Dios. En nombre de éste, les dijo:
 
 > _**«¡Ustedes me están robando!»**_
 
-Duque y los mandatarios regionales y locales que compran con _**sobrecostos**_ ¿les están robando al pueblo así como  los ricos mercaderes entregaban ovejas enfermas para el sacrificio y lavar sus pecados capitales ante Dios? \[caption id="attachment\_11522" align="aligncenter" width="559"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/04/tumbapobres-del-covid-19-duque-roba-a-los-pobres-para-los-ricos-i/hero.jpg) No se sabe quién es más esclavo ¿el esclavista o el esclavo? ¿Duque roba para Sarmiento? Tumbapobres del Covid-19.\[/caption\]
+Duque y los mandatarios regionales y locales que compran con _**sobrecostos**_ ¿les están robando al pueblo así como  los ricos mercaderes entregaban ovejas enfermas para el sacrificio y lavar sus pecados capitales ante Dios? \[caption id="attachment\_11522" align="aligncenter" width="559"\]![](s3://bundled-saddlebag-tnqki7w/2020/04/tumbapobres-del-covid-19-duque-roba-a-los-pobres-para-los-ricos-i/hero.jpg) No se sabe quién es más esclavo ¿el esclavista o el esclavo? ¿Duque roba para Sarmiento? Tumbapobres del Covid-19.\[/caption\]
 
 ## Oportunidad de negocios
 

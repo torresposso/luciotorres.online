@@ -5,10 +5,10 @@ pubDate: "2022-02-10 21:35:18"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/lista-del-pacto-historico-sigue-vigente-pese-a-punalada-trapera-de-racero/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/02/lista-del-pacto-historico-sigue-vigente-pese-a-punalada-trapera-de-racero/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/lista-del-pacto-historico-sigue-vigente-pese-a-punalada-trapera-de-racero/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/02/lista-del-pacto-historico-sigue-vigente-pese-a-punalada-trapera-de-racero/hero.jpg)
 *La foto de la hipocresía. En el centro Sandra Villadiego. En los extremos, María José Pizarro y David Racero. Pero luego éste le dio la puñalada trapera a la exparlamentaria.*
 
 La lista del Pacto Histórico sigue vigente pese a la emboscada y puñalada trapera que vino del mismo seno de la Colombia Humana. David Racero, el fogoso parlamentario de la Colombia Humana, luego de que se abrazó y celebró con Sandra Villadiego, la crucificó públicamente. Probablemente quiso congraciarse con Gustavo Petro, quien había manifestado a los medios que desconocía ese proceso. Pero no era cierto.

@@ -5,10 +5,10 @@ pubDate: "2024-03-23 02:51:56"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/la-impagable-deuda-de-la-udec-a-ecopetrol-petro-y-yamilito-piden-que-la-condonen/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/03/la-impagable-deuda-de-la-udec-a-ecopetrol-petro-y-yamilito-piden-que-la-condonen/hero.jpg
 ---
 
-![la impagable deuda de la UdeC a Ecopetrol: Petro y Yamilito piden que la condonen ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/la-impagable-deuda-de-la-udec-a-ecopetrol-petro-y-yamilito-piden-que-la-condonen/Petro_yamilito-1024x698.jpeg)
+![la impagable deuda de la UdeC a Ecopetrol: Petro y Yamilito piden que la condonen ](s3://bundled-saddlebag-tnqki7w/2024/03/la-impagable-deuda-de-la-udec-a-ecopetrol-petro-y-yamilito-piden-que-la-condonen/Petro_yamilito-1024x698.jpeg)
 *la impagable deuda de la UdeC a Ecopetrol: Petro y Yamilito piden que la condonen*
 
 La impagable deuda de la UdeC a Ecopetrol parece que tiene solución política mas no jurídica. Y la vía es la condonación. Una de las intenciones que tenía el gobernador de Bolívar, **Yamilito Arana Padauí**, era aprovechar la correría del **presidente Gustavo Petro** y de su comitiva presidencial para solicitar la condonación de la deuda de la UdeC.
@@ -23,7 +23,7 @@ En efecto, en su discurso en Santa Cruz de Mompox, el primer mandatario manifest
 
 ## La impagable deuda de la UdeC
 
-![illiam Malkún Castillejo, rector, y la impagable deuda de la UdeC. El déficit de la universidad bordea los #100 mil millones y la gobernación de Bolívar le tiene una deuda histórica de $126 mil millones. ¿Cómo se lo pagará?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/la-impagable-deuda-de-la-udec-a-ecopetrol-petro-y-yamilito-piden-que-la-condonen/William-Malkun_rector-1024x721.jpeg)
+![illiam Malkún Castillejo, rector, y la impagable deuda de la UdeC. El déficit de la universidad bordea los #100 mil millones y la gobernación de Bolívar le tiene una deuda histórica de $126 mil millones. ¿Cómo se lo pagará?](s3://bundled-saddlebag-tnqki7w/2024/03/la-impagable-deuda-de-la-udec-a-ecopetrol-petro-y-yamilito-piden-que-la-condonen/William-Malkun_rector-1024x721.jpeg)
 *William Malkún Castillejo, rector, le tocó enfrentar la impagable deuda de la UdeC. El déficit de la universidad bordea los $100 mil millones y la gobernación de Bolívar le tiene una deuda histórica de $126 mil millones. ¿Cómo se lo pagará?*
 
 Hay deudas que son impagables y otras pagables. Por ejemplo, es pagable los $126 mil millones que la gobernación de Bolívar le debe a la universidad, a corte del 2022. En ese año le denominamos **deuda histórica**. En la gobernación de **Dumek Turbay (2019**) se hizo un acuerdo de pago. Ahora bien. ¿Cómo una empresa, cuyas rentas son del Estado, que es Ecopetrol, desata una persecución jurídica para reclamar la devolución del cobro de **estampilla pro-universitaria** que se hizo mediante una acción de cumplimiento? La impagable deuda de la UdeC, sin duda, que lo es, porque la universidad no es una fábrica de salchichas ¿O si lo es?
@@ -40,7 +40,7 @@ Finalmente, el juzgado cumplió con la orden del Tribunal y se hicieron dos pago
 
 ## La jugada de Ecopetrol y el "vómito negro"
 
-![La deuda impagable de la UdeC ¿Ricardo Roa, presidente de Ecopetrol, obedecerá a su jefe, el presidente de la república Gustavo Petro?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/la-impagable-deuda-de-la-udec-a-ecopetrol-petro-y-yamilito-piden-que-la-condonen/hero.jpg)
+![La deuda impagable de la UdeC ¿Ricardo Roa, presidente de Ecopetrol, obedecerá a su jefe, el presidente de la república Gustavo Petro?](s3://bundled-saddlebag-tnqki7w/2024/03/la-impagable-deuda-de-la-udec-a-ecopetrol-petro-y-yamilito-piden-que-la-condonen/hero.jpg)
 *La deuda impagable de la UdeC ¿Ricardo Roa, presidente de Ecopetrol, obedecerá a su jefe, el presidente de la república Gustavo Petro?*
 
 Ecopetrol tiene en su lista a varios bufetes de abogados que son como sanguijuelas. Se ganan multimillonarias comisiones por éxito y, al parecer, tienen pagos adicionales. Uno de estos bufetes hizo una jugada extraproceso contra la Universidad. Presentó un derecho de petición con el cual revivió el proceso fallado en segunda instancia y que ya se había ejecutoriado. O sea, revivieron un proceso que era _cosa juzgada_.

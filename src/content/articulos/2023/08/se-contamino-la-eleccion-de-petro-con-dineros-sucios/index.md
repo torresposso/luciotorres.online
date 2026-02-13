@@ -5,10 +5,10 @@ pubDate: "2023-08-07 15:39:55"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/se-contamino-la-eleccion-de-petro-con-dineros-sucios/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/08/se-contamino-la-eleccion-de-petro-con-dineros-sucios/hero.jpg
 ---
 
-![¿Se contaminó la elección de Petro con dineros sucios?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/se-contamino-la-eleccion-de-petro-con-dineros-sucios/hero.jpg)
+![¿Se contaminó la elección de Petro con dineros sucios?](s3://bundled-saddlebag-tnqki7w/2023/08/se-contamino-la-eleccion-de-petro-con-dineros-sucios/hero.jpg)
 *¿Se contaminó la elección de Petro con dineros sucios?*
 
 ¿Cómo determinamos la legitimidad y legalidad de la elección presidencial de 2022? Analizar lo que pasó en la audiencia de imposición de medida de aseguramiento de la cual le dieron libertad limitada a **Nicolás Petro** junto a **Daysuris Vásquez**, permitirá despejar dos preguntas fundamentales. **La primera**. ¿Reportaron los gastos de eventos financiados por políticos y financistas tradicionales? **La segunda.** ¿Se contaminó la elección de Petro con dineros sucios? Aún respondiendo esas dos preguntas, las conclusiones no podrían ser concluyentes para conocer la suerte del presidente Gustavo Petro. Esta se definirá según la correlación de fuerzas existente en el congreso, ni siquiera en el movimiento social.

@@ -5,10 +5,10 @@ pubDate: "2021-10-31 01:45:39"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/los-caminos-de-saab-en-una-carcel-de-florida/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/10/los-caminos-de-saab-en-una-carcel-de-florida/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/los-caminos-de-saab-en-una-carcel-de-florida/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/los-caminos-de-saab-en-una-carcel-de-florida/hero.jpg)
 *El abogado de Saab objetó la publicación de videos y fotos porque viola la regla 53.*
 
 **¿Saad revelará sus secretos?** En una cárcel federal de Florida está un hombre que, al parecer, se encuentra sometido a una decisión crucial de su vida. Pero también la de un régimen político que en una década de estricto bloqueo había sobrevivido por su capacidad para eludir las trabas internacionales impuestas por el imperio. Además, muchas personas que giran en su entorno, se afectarían positiva o negativamente con su decisión: **declararse culpable y negociar o someterse al rigor de la justicia norteamericana.**  De su posición ante el juicio de un juez federal del Sur de Florida, dependerá la suerte personal de Nicolás Maduro y quizás la del régimen.
@@ -21,7 +21,7 @@ El buen negocio llegó a su fin cuando el presidente César Gaviria permitió �
 
 ## ¿Principio y fin?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/los-caminos-de-saab-en-una-carcel-de-florida/piedadcordobacolprensa_8_0.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/los-caminos-de-saab-en-una-carcel-de-florida/piedadcordobacolprensa_8_0.jpg)
 *Piedad Esneda Córdoba Ruíz es la más preocupada para responder la pregunta ¿Saad revelerá sus secretos?*
 
 Hay hechos que uno cree que son las puertas del éxito y la prosperidad. **Pero se convierten en camino hacia el infierno.** También hay hechos que marcan el principio del fin de una era o de una vida. Alex Saab salió feliz de la reunión con el canciller Maduro, quien lo puso en contacto con **Tarek El Aissaimi,** ministro del Poder Popular del Interior, de origen libanés.  Para Saab era su entrada a las ligas mayores del empresarismo y de los negocios internacionales. Era el comienzo de una nueva era de lujos, goce y de grandeza secundaria. Nueva esposa. Nuevo hogar. Nuevos hijos. Nuevos amigos. Nuevos socios. Una nueva vida que generó lujos. De algo servía la Revolución Bolivariana a un «**empresario progresista».**
@@ -66,7 +66,7 @@ Son tres los caminos de **Alex Naín Saab Morán** que tiene en una cárcel fede
 
 ## La acusación
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/los-caminos-de-saab-en-una-carcel-de-florida/maduro.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/los-caminos-de-saab-en-una-carcel-de-florida/maduro.jpg)
 *Maduro sería el principal objetivo para Estados Unidos.*
 
 El indictment ([léalo en inglés aquí](/articulos/criminal-fraud/file/1226501/download)) lo abrieron el 25 de julio de 2019 por la Corte del Distrito Sur de Florida con sede en Miami. Los principales acusados: **ALEX NAIN SAAB MORÁN, y ÁLVARO PULIDO VARGAS**, alias «Germán Enrique Rubio Salas». Son 8 cargos por lavado de activos y uno de conspiración para lavado de activos.

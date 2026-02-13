@@ -5,10 +5,10 @@ pubDate: "2023-09-25 16:42:00"
 author: "Lucio"
 categories: ["Análisis","Barranquilla"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/hero.jpg)
 
 Como buitres que disparan a la escopeta, **Rafael Matera Lajud y Alfonso Macías Azuero**, criminales de lesa humanidad, según sus otrora **agentes de la muerte**, denunciarán penalmente al único juez que se atrevió a ponerlos en la picota pública. Se trata del **magistrado **Gustavo Roa Avendaño**** de la Sala de Justicia y Paz del Tribunal Superior de Barranquilla, autor de dos macrosentencias icónicas contra el **paramilitarismo** en la Costa Caribe.
 
@@ -16,7 +16,7 @@ Sin embargo, existe algo extraño, y se siente más cuando se escribe esta entre
 
 ## Se confirma el fracaso de la Fiscalía
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/Fiscal-barbosa_portada2.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/Fiscal-barbosa_portada2.jpg)
 *Francisco Barbosa, fiscal general ¿tocará a Los Intocables?*
 
 No solo no hay un rico y poderoso financiador de la guerra condenado, sino también centenares de alcaldes. A diferencia de los gobernadores condenados por _parapolítica_. El primero fue Trino Luna (Magdalena). El más emblemático, el caso de Salvador Arana Sus, condenado a 40 años de prisión. Esto expresa el fracaso de la Fiscalía como institución para perseguir a los criminales. No ha cumplido el precepto constitucional del **derecho a una justicia pronta y expedita** en los plazos y términos **que** fijen las leyes. Tampoco emite sus resoluciones de manera **pronta**, completa e imparcial. El caso de _**Los intocables**_ que ahora atacan al magistrado Roa es solo una muestra.
@@ -27,7 +27,7 @@ En tanto que la Gran Prensa, en este caso concreto donde aparece como víctima e
 
 ## El deber de un juez frente al horror
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/Magistrado_Gustavo_Roa_despacho.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/Magistrado_Gustavo_Roa_despacho.jpg)
 *Los intocables que amenazan*
 
 Frente a los crímenes de los financiadores, hombres de atrás de los escuadrones de muerte del paramilitarismo, la Fiscalía General de la Nación (FGN) y los jueces de la República, deben cumplir con su deber constitucional y legal de perseguirlos judicialmente. Si no lo hacen, deben ser procesados y juzgados.
@@ -50,7 +50,7 @@ Por tanto, si se trata de denunciar penalmente a funcionarios, serían los fisca
 
 ## _**Los intocables**_ y la primera compulsa
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/Alacran_MateraLajud.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/Alacran_MateraLajud.jpg)
 
 Sin duda, el dominio hegemónico paramilitar se prolongó hasta los dos periodos (2002-2010) del **presidente Álvaro Uribe Vélez**, el supuesto jefe de _**Los intocables**_. Los empresarios que se echaron sobre sus hombros la campaña de Uribe I (2002) fueron (¡oh, sorpresa!) _**Los intocables**_. Muchos de ellos eran los comandantes de los procesados en Justicia y Paz. Uno de ellos (Matera) era dueño del campero blindado que salvó la vida del entonces candidato ante un supuesto atentado terrorista de las FARC en Barranquilla. Desde ese entonces, la imagen de Uribe, el salvador, se propaló y creció sin parar en las encuestas hasta ganar la presidencia en la primera vuelta.
 
@@ -70,7 +70,7 @@ Como se puede observar, esos actos delincuenciales incluyen delitos de lesa huma
 
 ## Como buitres se abalanzan contra el justo
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/Alfonso_macias_comunicado_septiembre_2023.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/09/como-buitres-los-intocables-contraatacan-a-magistrado-roa-x/Alfonso_macias_comunicado_septiembre_2023.jpg)
 *Este es el comunicado donde anuncian acciones judiciales contra el magistrado Gustavo Roa Avendaño.*
 
 Este comunicado que publicamos, expresa la actitud prepotente, displicente y temeraria de _**Los intocables**_. Nadie los puede tocar. Ni siquiera un magistrado con toda su investidura. ¿Qué tal?

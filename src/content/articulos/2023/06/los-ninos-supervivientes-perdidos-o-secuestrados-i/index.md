@@ -5,10 +5,10 @@ pubDate: "2023-06-14 14:14:54"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/los-ninos-supervivientes-perdidos-o-secuestrados-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/06/los-ninos-supervivientes-perdidos-o-secuestrados-i/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/los-ninos-supervivientes-perdidos-o-secuestrados-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/06/los-ninos-supervivientes-perdidos-o-secuestrados-i/hero.jpg)
 *Verónica Alcocer, esposa del presidente Gustavo Petro, le estrecha la mano a uno de los familiares de los niños supervivientes que permanecen hospitalizados para su recuperación. /Foto Presidencia.*
 
 Cuando los niños supervivientes ¡por fin! fueron hallados **el 9 de junio** en el corazón de la selva del Caquetá, el gobierno seguía entre las cuerdas por causa de las chuzadas o interceptaciones ilegales. De alguna manera, fue un segundo aire después de una andanada de golpes sobre su deteriorada imagen. **El hallazgo lo publicó el mismo presidente Gustavo Petro** exactamente **a las 6:59 de la tarde por tuiter**. Pero, la situación se le podría complicar, porque existe una nueva hipótesis que **VoxPopuli Digital** solicita al gobierno aclarar. **Esta hipótesis indica que los niños supervivientes estaban en poder de las disidencias de las FARC de Iván Mordisco** en la frontera entre Caquetá y Guaviare, cerca de la zona donde cayó la avioneta el 1 de mayo de 2023.
@@ -29,7 +29,7 @@ El hallazgo de los niños se transformó en una comedia internacional como parte
 
 ## Un ejemplo de manipulación de la información
 
-![Una de las primeras de la aparición de los niños supervivientes. /FAC.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/los-ninos-supervivientes-perdidos-o-secuestrados-i/Los-ninos-supervivientes.jpg)
+![Una de las primeras de la aparición de los niños supervivientes. /FAC.](s3://bundled-saddlebag-tnqki7w/2023/06/los-ninos-supervivientes-perdidos-o-secuestrados-i/Los-ninos-supervivientes.jpg)
 *Una de las primeras de la aparición de los niños supervivientes. /FAC.*
 
 **El papel del periodista es destapar lo que quieren tapar**. Los que ejercen el poder del Estado son como los gatos, cuando se las cagan, la tapan con la tierra que tienen a su alcance. **Si Petro quiere enfrentar la matriz de opinión negativa negativa de los medios de comunicación, debe usar otro tipo de estrategia comunicativa.** Pero no puede continuar con la desinformación y **construcción de realidades que usó Álvaro Uribe Vélez en Colombia o Alberto Fujimori en Perú.**
@@ -70,7 +70,7 @@ Un día antes, se hallaron muertas a tres de las siete personas que viajaban en 
 
 ## Próxima entrega
 
-![Así quedó la avioneta HK-2803 siniestrada donde se transportaban los niños supervivientes. /Presidencia.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/los-ninos-supervivientes-perdidos-o-secuestrados-i/Avioneta-siniestrada.jpg)
+![Así quedó la avioneta HK-2803 siniestrada donde se transportaban los niños supervivientes. /Presidencia.](s3://bundled-saddlebag-tnqki7w/2023/06/los-ninos-supervivientes-perdidos-o-secuestrados-i/Avioneta-siniestrada.jpg)
 *Así quedó la avioneta HK-2803 siniestrada donde se transportaban los niños supervivientes. /Presidencia.*
 
 En la próxima entrega analizaremos tres elementos fundamentales para despejar esta hipótesis periodística que decidimos compartir con nuestros lectores, no sin antes advertir, nos alegra sobremanera la aparición de los niños supervivientes. Mas, no podemos ser parte de esta tragicomedia expresada en show mediáticos que no le favorece a la sociedad colombiana manipulada desde hace muchísimos años por la hegemonía dominante. Necesitamos que la verdad florezca. Estos son los temas que abordaremos en estos tiempos donde funcionarios del gobierno, políticos y empresarios quieren darnos lecciones de periodismo, desconociendo que el ser humano se mueve por intereses individuales.

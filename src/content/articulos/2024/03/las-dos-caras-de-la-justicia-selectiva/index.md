@@ -5,10 +5,10 @@ pubDate: "2024-03-27 03:24:51"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez","Arturo Char","Corte Suprema de Justicia"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/hero.jpg
 ---
 
-![Las dos caras de la Justicia selectiva](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/Arturo_char_Aida_merlano_hija.jpeg)
+![Las dos caras de la Justicia selectiva](s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/Arturo_char_Aida_merlano_hija.jpeg)
 *Las dos caras de la Justicia selectiva.La prensa internacional registró estos dos hechos. /El País de España.*
 
 Para ejemplificar las dos caras de la justicia selectiva basta contrastar **dos casos judiciales** protagonizados por dos familias. La una, la más poderosa de la Costa Caribe de Colombia: _el Clan Char_. Y la otra, fragmentada o disfuncional de las barriadas de Barranquilla, las Merlano Rebolledo. Pero las dos están atadas a dos hechos judiciales: **«Casa Blanca»** y la fuga de la cárcel de la condenada exsenadora **Aida Merlano Rebolledo**.
@@ -27,7 +27,7 @@ En este punto, una pregunta válida es **¿«cuánto tienes en la bolsa y te dir
 
 ## Los protagonistas
 
-![Las dos caras de la justicia. El idilio con Alejandro Char.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/hero.jpg)
+![Las dos caras de la justicia. El idilio con Alejandro Char.](s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/hero.jpg)
 *Aidaecándalo, el idilio con Alex Char/Cortesía.*
 
 Aparte de los otros comprometidos por el caso de **«Casa Blanca»**, existen tres protagonistas por su papel en la política del Atlántico y el país. **Alejandro Char, Arturo Char y Aida Merlano**. Y la cuarta, es una llamada _influencer_ que aprovechó el escándalo para lanzarse al estrellato de esos constructores de contenidos de las cosas vanas de la que gustan las mentes alienadas.
@@ -42,7 +42,7 @@ Vale decir que a Alejandro no lo han imputado. Al segundo de los Char, la Corte 
 
 ## La justicia selectiva de _Los intocables_
 
-![¿Fin de la impunidad? El intocable mayor creador del régimen bonapartista que se tomó la Fiscalía desde su primer gobierno. Las dos caras de la justicia selectiva.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/URIBE-FIN-DE-LA-IMPUNIDAD.jpg)
+![¿Fin de la impunidad? El intocable mayor creador del régimen bonapartista que se tomó la Fiscalía desde su primer gobierno. Las dos caras de la justicia selectiva.](s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/URIBE-FIN-DE-LA-IMPUNIDAD.jpg)
 *¿Fin de la impunidad? El intocable mayor creador del régimen bonapartista que se tomó la Fiscalía desde su primer gobierno.*
 
 Por tanto, asistimos a una **justicia selectiva** que hoy **cierra los ojos** cuando se trata de condenar a los poderosos y **los abre** cuando los victimarios no tienen la capacidad para torcerla. Es decir, la justicia se hace la de la vista gorda para unos y para otros ve hasta en la oscuridad para castigar. Como esta justicia privilegia a los Char, lo está con _Los intocables_ o _Los innombrables_ dueños de media Fiscalía desde 2004 cuando llegó a ese cargo **Luis Camilo Osorio Isaza**, el primer _fiscal de bolsillo_ de **Álvaro Uribe Vélez**, el ingeniero del Nuevo Estado. Un Estado guiado por la nueva élite impulsada por **dos motores poderosos**: el narcotráfico y el paramilitarismo.
@@ -55,7 +55,7 @@ En consecuencia, el litigio real en la Costa Caribe está mediado por las dádiv
 
 ## Demóstenes, un ejemplo vivo
 
-![Demóstene Camargo, el fiscal de Uribe que llegó a magistrado del Tribunal Superior de Barranquilla.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/Demostenes-Camargo.jpg)
+![Demóstene Camargo, el fiscal de Uribe que llegó a magistrado del Tribunal Superior de Barranquilla.](s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/Demostenes-Camargo.jpg)
 *Demóstenes Camargo, el fiscal de Uribe que llegó a magistrado del Tribunal Superior de Barranquilla ejemplo de una justicia selectiva. (Cortesía).*
 
 De la misma manera, fiscales de esa generación que data de 2004, pasaron a ser jueces o magistrados de los tribunales de la justicia. Un prototipo de estos administradores de justicia, ejemplo vivo de la justicia injusta, es el actual magistrado del Tribunal Superior de Barranquilla, **Demóstenes Camargo de Ávila**, abogado afrodescendiente de la Universidad de Cartagena. Como fiscal, persiguió a sus hermanos de etnia y a los líderes populares.
@@ -66,7 +66,7 @@ Hoy, Demóstenes está en desgracia ante la misma justicia. El 9 de noviembre de
 
 ## El fantasma de «Casa Blanca» 
 
-![Una evidencia del pacto Aida Merlano y Arturo Char, los votos a la cámara iban para la fórmula del expresidente del senado. ¿Por qué no han tocado a Llinás?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/Aida_merlano_Lilibeth-1024x633.jpg)
+![Una evidencia del pacto Aida Merlano y Arturo Char, los votos a la cámara iban para la fórmula del expresidente del senado. ¿Por qué no han tocado a Llinás?](s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/Aida_merlano_Lilibeth-1024x633.jpg)
 *Una evidencia del pacto Aida Merlano y Arturo Char, los votos a la cámara iban para la fórmula del expresidente del senado. En «Casa Blanca» se fabricaron esos votos. ¿Por qué no han tocado a Llinás?*
 
 El modus operandi de los Char es tener dos o tres empresas tipo «Casa Blanca». Funcionan como una empresa temporal. Políticos que bebieron de la fuente de «Casa Blanca»: concejales, diputados y candidatos cercanos a los Char y sus aliados. Reciben crédito del banco Serfinanza. El mismo Alejandro Char recibió un préstamo de $500 millones en 2015 para su campaña electoral. O sea, esos políticos son partes del concierto para delinquir descubierto en la condena contra Aida Merlano. Pero especialmente, el senador **Arturo Char Chaljub** y su fórmula, **Lilibeth Llinás**, hermana del entonces diputado charista **Adalberto Llinás**. La única condenada, hasta ahora, es Aida Merlano Rebolledo, muy a pesar de existir pruebas contundentes contra Llinás y Char. **La Corte Suprema de Justicia engavetó el proceso contra Arturo Char por más de 2 años**. Lilibeth Llinás sigue al servicio del _Califato Daeschariano_ sin que le pase nada.
@@ -77,7 +77,7 @@ Por esa razón, 14 días después, la Corte Suprema de Justicia rechazó la soli
 
 ## La fuga de Aida Merlano
 
-![Esta es una de las «Casa Blanca» usada por el charismo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/Casa-Blanca.jpeg)
+![Esta es una de las «Casa Blanca» usada por el charismo.](s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/Casa-Blanca.jpeg)
 *Esta es una de las «Casa Blanca» usada por el charismo.*
 
 Mientras Arturo y Alejandro Char gozan de las mieles del poder, Aida y, ahora, su hija, Aida Victoria, prueban el rigor de la privación de su libertad. La hija mayor de la condenada exsenadora, cuya figura _naranjo en flor_, se marchitará inevitablemente en la cárcel. No tiene escapatoria. Va a la cárcel. Son 13 años. Si le va bien, pagaría efectivamente 8 años.
@@ -88,7 +88,7 @@ Así como Fuad Char crió a sus hijos para burlarse de la ley, Aida Merlano madr
 
 ## La correa de la justicia selectiva
 
-![¿Prevaricó la Corte con la libertad de Arturo Char? Justicia selectiva.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/Cristina_lombana_arturo_portada.jpg)
+![¿Prevaricó la Corte con la libertad de Arturo Char? Justicia selectiva.](s3://bundled-saddlebag-tnqki7w/2024/03/las-dos-caras-de-la-justicia-selectiva/Cristina_lombana_arturo_portada.jpg)
 *¿Prevaricó la Corte con la libertad de Arturo Char? La actuación de la magistrada Cristina Lombana refleja la Justicia selectiva.*
 
 De una u otra forma, servir de calancho a los grandes pudientes para burlar la justicia, siempre termina mal. Aida Merlano junto a su hija, que siguió su ejemplo, tuvo la misma suerte: la cárcel. ¿Acaso el pronóstico que VoxPopuli Digital hizo el 22 de diciembre fue desacertado?

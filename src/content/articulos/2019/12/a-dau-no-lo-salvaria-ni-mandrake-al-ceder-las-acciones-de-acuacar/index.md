@@ -5,7 +5,7 @@ pubDate: "2019-12-17 18:23:17"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/12/a-dau-no-lo-salvaria-ni-mandrake-al-ceder-las-acciones-de-acuacar/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/12/a-dau-no-lo-salvaria-ni-mandrake-al-ceder-las-acciones-de-acuacar/hero.jpg
 ---
 
 (imagen no disponible)
@@ -33,7 +33,7 @@ El alcalde electo, Dau Chamat, dueño de esas cuestionadas acciones de Acuacar, 
 
 ## La confesión de Dau
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/12/a-dau-no-lo-salvaria-ni-mandrake-al-ceder-las-acciones-de-acuacar/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/12/a-dau-no-lo-salvaria-ni-mandrake-al-ceder-las-acciones-de-acuacar/hero.jpg)
 *Esta fue la ultima liquidación de los dividendos de los accionistas de Acuacar. William Dau aparece con 37 acciones. Las cedió, pero ya está causado el daño antijurídico, ratificado por el anuncio del gerente Jesús García sobre su cesión.*
 
 Hace más de 20 años un sector politico (los García) lograron capitalizar el proceso de privatización de los bienes de Cartagena con un sector empresarial propio y foráneo en complicidad con el gobierno nacional. **Centenares de trabajadores quedaron en la calle y los dividendos públicos pasaron a manos privadas**. Las tarifas de los servicios públicos sufrieron un incremento inusitado empobreciendo a los sectores populares y a la clase media.

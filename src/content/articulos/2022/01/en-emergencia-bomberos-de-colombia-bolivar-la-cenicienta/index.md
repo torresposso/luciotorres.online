@@ -5,10 +5,10 @@ pubDate: "2022-01-21 22:14:13"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/en-emergencia-bomberos-de-colombia-bolivar-la-cenicienta/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/01/en-emergencia-bomberos-de-colombia-bolivar-la-cenicienta/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/en-emergencia-bomberos-de-colombia-bolivar-la-cenicienta/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/01/en-emergencia-bomberos-de-colombia-bolivar-la-cenicienta/hero.jpg)
 *Pablo Net Mora, comandante del Cuerpo de Bomberos de Clemencia Bolívar.*
 
 En colombia el servicio de bomberos se podría declarar en emergencia. La causa se debe a que los entes territoriales no les garantiza los recursos de funcionamiento a pesar de existir la tasa bomberil. En Clemencia y Arjona, como en casi todos los municipios de Bolívar y del país, los bomberos se sostienen como si fueran mendigos.
@@ -31,7 +31,7 @@ En Colombia se cree que las leyes pueden resolver por sí solas los problemas. E
 
 ## Fondo de Bomberos
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/en-emergencia-bomberos-de-colombia-bolivar-la-cenicienta/bomberos.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/01/en-emergencia-bomberos-de-colombia-bolivar-la-cenicienta/bomberos.jpg)
 
 En Bolívar se creó el Fondo Departamental de Bomberos. Esto permitirá, según la ordenanza departamental, resolver el consuetudinario problemas de la administración de los recursos dirigidos a los cuerpos de bomberos oficiales y voluntarios de los municipios de Bolívar. 
 
@@ -43,7 +43,7 @@ Lo curioso es que la mayoría de este parque automotor se encuentra paralizado. 
 
 ## En emergencia
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/en-emergencia-bomberos-de-colombia-bolivar-la-cenicienta/jacaqueline_howard-2.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/01/en-emergencia-bomberos-de-colombia-bolivar-la-cenicienta/jacaqueline_howard-2.jpg)
 *Jacqueline Howard se tiró del segundo piso del edificio de la alcaldía de San Jacinto en 2017. Fue un incendio que acabó con la edificación.*
 
 En febrero de 2017, mientras el gobernador de Bolívar Dumek Turbay Paz realizaba una reunión en el segundo piso de la alcaldía de San Jacinto con el titular de la época Abraham Kamell y funcionarios de de ambas administraciones se produjo un incendio que dejó 28 heridos. Allí se encontraba Jacqueline Howard, quien cayó del segundo piso. Sufrió lesiones en la cadera y en las extremidades inferiores.

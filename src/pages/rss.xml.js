@@ -17,7 +17,7 @@ export async function GET(context) {
 			title: articulo.data.title,
 			pubDate: articulo.data.pubDate,
 			description: articulo.data.description || 'Análisis político y periodístico',
-			link: `/articulos/${articulo.data.slug || articulo.id}/`,
+			link: `/articulos/${articulo.id}/`,
 		})),
 		customData: `<language>es-co</language>`,
 	});

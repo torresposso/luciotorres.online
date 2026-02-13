@@ -5,10 +5,10 @@ pubDate: "2022-01-17 23:03:13"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/guerra-sucia-en-cartagena-un-satrapa-persa-como-alcalde/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/01/guerra-sucia-en-cartagena-un-satrapa-persa-como-alcalde/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/guerra-sucia-en-cartagena-un-satrapa-persa-como-alcalde/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/01/guerra-sucia-en-cartagena-un-satrapa-persa-como-alcalde/hero.jpg)
 *Gloria Estrada ha sido la piedra en el zapato de William Dau. Lo arrinconó con el PAE y le ganó la elección del contralor Distrital. Quizás está pagando por su valentía al enfrentar la guerra sucia del sátrapa.*
 
 El hallazgo de un kilo de cocaína en la oficina móvil de Martín Barreto, compañero sentimental de Gloria Estrada Benavides, presidenta del concejo de Cartagena, es la punta de un gran bloque de hielo que flota en las profundidades de las aguas turbulentas de la política local.  Pero, ¿quién ordenó sembrar ese narcótico? 

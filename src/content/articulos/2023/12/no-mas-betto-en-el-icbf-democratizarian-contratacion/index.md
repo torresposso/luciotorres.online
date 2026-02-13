@@ -5,10 +5,10 @@ pubDate: "2023-12-21 02:59:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/no-mas-betto-en-el-icbf-democratizarian-contratacion/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/12/no-mas-betto-en-el-icbf-democratizarian-contratacion/hero.jpg
 ---
 
-![Astrid Eliana Cárdenas, directora nacional del ICBF se propone democratizar y transparentar la contratación del ICBF. ¿No más Betto en el ICBF? /Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/no-mas-betto-en-el-icbf-democratizarian-contratacion/hero.jpg)
+![Astrid Eliana Cárdenas, directora nacional del ICBF se propone democratizar y transparentar la contratación del ICBF. ¿No más Betto en el ICBF? /Cortesía.](s3://bundled-saddlebag-tnqki7w/2023/12/no-mas-betto-en-el-icbf-democratizarian-contratacion/hero.jpg)
 *Astrid Eliana Cáceres Cárdenas, directora nacional del ICBF, se propone democratizar y transparentar la contratación del ICBF. ¿No más Betto en el ICBF? /Cortesía.*
 
 ¿No más Betto en el ICBF? Tomando en cuenta las instrucciones presidenciales, la directora nacional del Instituto Colombiano de Bienestar Familiar (ICBF), **Astrid Eliana Cáceres Cárdenas**, promulgó una serie de medidas para democratizar la contratación en la prestación de los diferentes servicios a la niñez y adolescencia.

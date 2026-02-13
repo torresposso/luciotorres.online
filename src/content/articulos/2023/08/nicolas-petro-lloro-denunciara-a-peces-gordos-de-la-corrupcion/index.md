@@ -5,11 +5,11 @@ pubDate: "2023-08-02 02:42:41"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/nicolas-petro-lloro-denunciara-a-peces-gordos-de-la-corrupcion/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/08/nicolas-petro-lloro-denunciara-a-peces-gordos-de-la-corrupcion/hero.jpg
 ---
 
 ![Nicolás Petro lloró
-Nicolás Petro y Daysuris en el bunker de la Fiscalía, su segundo día juntos./captura de pantalla.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/nicolas-petro-lloro-denunciara-a-peces-gordos-de-la-corrupcion/Nicolas_daysuris_1_agosto.jpg)
+Nicolás Petro y Daysuris en el bunker de la Fiscalía, su segundo día juntos./captura de pantalla.](s3://bundled-saddlebag-tnqki7w/2023/08/nicolas-petro-lloro-denunciara-a-peces-gordos-de-la-corrupcion/Nicolas_daysuris_1_agosto.jpg)
 *Nicolás Petro y Daysuris en el bunker de la Fiscalía, su segundo día juntos./captura de pantalla.*
 
 En la mañana de hoy, la Fiscalía General de la Nación fue contundente y coherente en la formulación de los delitos de **[enriquecimiento ilícito](https://leyes.co/codigo_penal/327.htm)** y **[lavado de activos](https://leyes.co/codigo_penal/323.htm)**. No todos los días imputan al hijo de un presidente, por lo que debía ser muy cuidadosa al momento de argumentar y calificar los delitos que se le imputaron. En la tarde, sin embargo, **Nicolás Petro lloró**. Anunció entre llantos, lo que **podría ser la bomba política de los próximos años**: **colaborará con la justicia para develar hechos nuevos de corrupción nacional**. Desde el punto de vista político, quedó expuesto a ser **_botín de guerra_** sin el apoyo, aparentemente, de su padre y de su partido al que le sirvió, la Colombia Humana.
@@ -42,7 +42,7 @@ Te puede interesar la anterior entrega: [¡Terremoto político! ¿Detención de 
 
 ## ¿Son ilícitos esos dineros?
 
-![Alfonso el Turco Hilsaca es un reconocido empresario contratista del Estado colombiano y de otras naciones de América Latina. Santander Lopesierra presuntamente pagó condena en Estados Unidos por narcotráfico, pero no ha sido procesado en Colombia. La Fiscalía debe responder si sus dineros son ilegales. Nicolás Petro lloró.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/nicolas-petro-lloro-denunciara-a-peces-gordos-de-la-corrupcion/hero.jpg)
+![Alfonso el Turco Hilsaca es un reconocido empresario contratista del Estado colombiano y de otras naciones de América Latina. Santander Lopesierra presuntamente pagó condena en Estados Unidos por narcotráfico, pero no ha sido procesado en Colombia. La Fiscalía debe responder si sus dineros son ilegales. Nicolás Petro lloró.](s3://bundled-saddlebag-tnqki7w/2023/08/nicolas-petro-lloro-denunciara-a-peces-gordos-de-la-corrupcion/hero.jpg)
 *Alfonso el Turco Hilsaca es un reconocido empresario contratista del Estado colombiano y de otras naciones de América Latina. Santander Lopesierra presuntamente pagó condena en Estados Unidos por narcotráfico, pero no ha sido procesado en Colombia. La Fiscalía debe responder si sus dineros son ilegales.*
 
 No obstante, el obstáculo más grande que tiene la Fiscalía no es demostrar las ingentes cantidades de dinero recibida por Petro sin ninguna justificación. De acuerdo con el concepto de algunos penalistas, el principal reto que tiene el ente acusador es demostrar el origen ilícito de los dineros recibidos por Nicolás Petro y Daysuris Vázquez. Eso es lo que establece la misma norma.

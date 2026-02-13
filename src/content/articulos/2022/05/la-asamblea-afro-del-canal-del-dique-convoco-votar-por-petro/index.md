@@ -5,10 +5,10 @@ pubDate: "2022-05-29 13:31:00"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/la-asamblea-afro-del-canal-del-dique-convoco-votar-por-petro/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/05/la-asamblea-afro-del-canal-del-dique-convoco-votar-por-petro/hero.jpg
 ---
 
-![Adil Meléndez y los diferentes líderes que organizaron la Asamblea Popular de Organizaciones Afros del Canal del Dique.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/la-asamblea-afro-del-canal-del-dique-convoco-votar-por-petro/hero.jpg)
+![Adil Meléndez y los diferentes líderes que organizaron la Asamblea Popular de Organizaciones Afros del Canal del Dique.](s3://bundled-saddlebag-tnqki7w/2022/05/la-asamblea-afro-del-canal-del-dique-convoco-votar-por-petro/hero.jpg)
 *Adil Meléndez y los diferentes líderes que organizaron la Asamblea Popular de Organizaciones Afros del Canal del Dique. Votarán por Petro*
 
 Votarán por Petro. La Asamblea Popular Afro constituida por organizaciones y procesos sociales de la Ecorregión del Canal del Dique, Montes de María, y Golfo de Morrosquillo tomaron la decisión de votar a la presidencia por el candidato del **Pacto Histórico, Gustavo Petro**.
@@ -19,7 +19,7 @@ Desde hace 22 meses esas organizaciones vienen liderando la defensa de los derec
 
 De igual manera, lamentaron que las juntas de los consejos comunitarios que se han visto envueltos en actos de corrupción en los procesos de consulta previa al proyecto Ruta 5G «Restauración del Canal del Dique» estén promoviendo votar por **Federico Gutiérrez.** Pero lo están haciendo a partir de la desinformación a la comunidad en el sentido de que si Fico es presidente, el proyecto saldrá adelante, y les pagarán las compensaciones. Pero si gana Petro el proyecto fracasará.
 
-![Fredy Martínez y Adil Meléndez, dos de los líderes de las comunidades del Canal del Dique. Votarán por Petro](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/la-asamblea-afro-del-canal-del-dique-convoco-votar-por-petro/adil-petro.jpeg)
+![Fredy Martínez y Adil Meléndez, dos de los líderes de las comunidades del Canal del Dique. Votarán por Petro](s3://bundled-saddlebag-tnqki7w/2022/05/la-asamblea-afro-del-canal-del-dique-convoco-votar-por-petro/adil-petro.jpeg)
 *Fredy Martínez y Adil Meléndez, dos de los líderes de las comunidades del Canal del Dique. Votarán por Petro*
 
 Consideraron que esa desinformación viene provocando confusión entre las mismas comunidades con fines de manipular la opinión y la decisión electoral.

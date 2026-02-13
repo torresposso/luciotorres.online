@@ -5,10 +5,10 @@ pubDate: "2025-04-13 16:35:39"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/la-tramoya-del-exgobernador-para-apropiarse-de-24-mil-millones-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/04/la-tramoya-del-exgobernador-para-apropiarse-de-24-mil-millones-i/hero.jpg
 ---
 
-![La tramoya del exgobernador para apropiarse de $24 mil millones. (Foto cortesía).](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/la-tramoya-del-exgobernador-para-apropiarse-de-24-mil-millones-i/hero.jpg)
+![La tramoya del exgobernador para apropiarse de $24 mil millones. (Foto cortesía).](s3://bundled-saddlebag-tnqki7w/2025/04/la-tramoya-del-exgobernador-para-apropiarse-de-24-mil-millones-i/hero.jpg)
 *La tramoya del exgobernador para apropiarse de $24 mil millones. (Foto cortesía).*
 
 ¿Cómo descifrar las clave de la **tramoya del exgobernador** Pérez Bernier condenado, en primera instancia, **a 22 años** de cárcel por la **Corte Suprema de Justicia**? Después de casi 15 años de espera, el exgobernador de La Guajira **Jorge Eduardo Pérez Bernier** amaneció hoy detrás de los barrotes de la Fiscalía. Los tres magistrados de la Sala Especial de Primera Instancia lo hallaron culpable. Es el principal responsable de un **desfalco patrimonial de la infraestructura educativa por la suma de $24 mil millones** a precios de 2009.
@@ -23,7 +23,7 @@ Llama la atención que este proceso tiene cerca de 15 años debido a la estrateg
 
 ## Bienes confiscados
 
-![Confiscado el Hotel Aliance SAS de Martha Carvajalino Barros. La tramoya del exgobernador.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/la-tramoya-del-exgobernador-para-apropiarse-de-24-mil-millones-i/Extincion_perez_bernier.jpeg)
+![Confiscado el Hotel Aliance SAS de Martha Carvajalino Barros. La tramoya del exgobernador.](s3://bundled-saddlebag-tnqki7w/2025/04/la-tramoya-del-exgobernador-para-apropiarse-de-24-mil-millones-i/Extincion_perez_bernier.jpeg)
 *Confiscado el Hotel Aliance SAS de Martha Carvajalino Barros. La tramoya del exgobernador.*
 
 Es importante señalar que los compinches de Pérez Bernier también se encuentran involucrados en estos hechos de corrupción. Por ejemplo, la representante legal de la firma contratista, **Carmenza Ávila Chassaigne** se encuentra en juicio que espera con prisión domiciliaria. Sus bienes como los de Pérez Bernier y de su cadena de testaferros tienen medidas cautelares para extinción de dominio.
@@ -56,7 +56,7 @@ Por tanto, se comprobó que Pérez Bernier **no cumplió con los requisitos lega
 
 ## La tramoya del exgobernador
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/la-tramoya-del-exgobernador-para-apropiarse-de-24-mil-millones-i/Captura-de-pantalla-2025-04-13-100838.png)
+![](s3://bundled-saddlebag-tnqki7w/2025/04/la-tramoya-del-exgobernador-para-apropiarse-de-24-mil-millones-i/Captura-de-pantalla-2025-04-13-100838.png)
 
 El proceso penal fue radicado con CUI 11001600010220130020901. En él la Fiscalía presentó las evidencias de que el contrato fue modificado y adicionado en 8 oportunidades. Siete de las cuales fueron tramitadas y suscritas por el procesado. Varió la ubicación, inversión y extensión de las obras. Aumentó el plazo de ejecución, así como el monto final, el cual **ascendió a $134.963 millones**.
 

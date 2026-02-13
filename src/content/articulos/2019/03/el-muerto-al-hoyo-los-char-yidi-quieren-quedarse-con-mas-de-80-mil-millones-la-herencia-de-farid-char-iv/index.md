@@ -5,10 +5,10 @@ pubDate: "2019-03-14 04:51:44"
 author: "Lucio"
 categories: ["Barranquilla","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/03/el-muerto-al-hoyo-los-char-yidi-quieren-quedarse-con-mas-de-80-mil-millones-la-herencia-de-farid-char-iv/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/03/el-muerto-al-hoyo-los-char-yidi-quieren-quedarse-con-mas-de-80-mil-millones-la-herencia-de-farid-char-iv/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/03/el-muerto-al-hoyo-los-char-yidi-quieren-quedarse-con-mas-de-80-mil-millones-la-herencia-de-farid-char-iv/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/03/el-muerto-al-hoyo-los-char-yidi-quieren-quedarse-con-mas-de-80-mil-millones-la-herencia-de-farid-char-iv/hero.jpg)
 *Alfredo Char Yidi, el mayor de los hijos de Farid Char. Cortesía.*
 
 _**El muerto al hoyo y el vivo al bollo**_, podría decirse de la muerte de**Farid Char,** uno de los cuatro hermanos más ricos del imperio de los **Char Abdala**, dueños del grupo **Olímpica**. Como no dejó testamento y su contador careció de tino para el manejo contable, los descendientes de su primera unión con **Gladys Yidi** (los hermanos **Char Yidi**) **pretenden quedarse con toda la fortuna mediante un amañado proceso de sucesión** que cayó fraudulentamente en el despacho de **Gustavo Saade Marcos**, juez Tercero de Familia del Circuito de Barranquilla.

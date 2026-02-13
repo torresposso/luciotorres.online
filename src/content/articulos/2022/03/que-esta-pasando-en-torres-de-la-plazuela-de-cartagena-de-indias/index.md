@@ -5,10 +5,10 @@ pubDate: "2022-03-25 12:25:43"
 author: "Lucio"
 categories: ["Cartagena","Mi Ciudad","Uncategorized"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/que-esta-pasando-en-torres-de-la-plazuela-de-cartagena-de-indias/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/03/que-esta-pasando-en-torres-de-la-plazuela-de-cartagena-de-indias/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/que-esta-pasando-en-torres-de-la-plazuela-de-cartagena-de-indias/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/que-esta-pasando-en-torres-de-la-plazuela-de-cartagena-de-indias/hero.jpg)
 *Rocío Hernández, representante legal de Torres de la Plazuela.*
 
 ¿Qué está pasando en Torres de la Plazuela de Cartagena de Indias? Fuimos hasta la sede de su Consejo de Administración con el fin de aclarar la situación que dimos cuenta en la primera entrega sobre este tema.  **Su representante legal, Rocío Hernández, señaló que el proceso se ajustó a la Ley 675/01. (documento no disponible)**

@@ -5,10 +5,10 @@ pubDate: "2025-02-05 22:05:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/hero.jpg
 ---
 
-![En Consejo de Ministros el presidente Petro exigió acelerar el cumplimiento de compromisos. Una verdadera «Conmoción Interior»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/hero.jpg)
+![En Consejo de Ministros el presidente Petro exigió acelerar el cumplimiento de compromisos. Una verdadera «Conmoción Interior»](s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/hero.jpg)
 *Conmoción Interior en gobierno de Petro que exige viraje político. En Consejo de Ministros el presidente Petro exigió acelerar el cumplimiento de compromisos. (Prensa Presidencia).*
 
 El Gobierno del Cambio presenta su peor crisis. Ninguno de los ministros del **presidente Gustavo Petro**, al parecer, con excepción de **Laura Camila Sarabia Torres** (Canciller) y **Armando Benedetti Villaneda** (Jefe de Despacho Presidencial), sabía que el Consejo de Ministros (4―01―2025) se transmitiría en vivo y en directo, al mejor estilo del comandante **Hugo Chávez** de Venezuela. Pero, la iniciativa audaz y muy arriesgada de la transmisión, lejos de apaciguar los ánimos, se tornó en una verdadera **«Conmoción Interior**»****. No detuvo la reacción causada por los nombramientos de Sarabia y Benedetti como la columna principal del gobierno.
@@ -19,7 +19,7 @@ Las intervenciones se rebelaron contra la decisión del presidente de esos cuest
 
 ## **«**Sectarios**»** y **«**robespierristas**»**
 
-![Las dos intervenciones más contundentes y más respetuosas fueron las de Alexander López y Augusto Rodríguez. (Captura de pantalla).](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/Alexander_augusto_rodriguez-1024x606.jpg)
+![Las dos intervenciones más contundentes y más respetuosas fueron las de Alexander López y Augusto Rodríguez. (Captura de pantalla).](s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/Alexander_augusto_rodriguez-1024x606.jpg)
 *Las dos intervenciones más contundentes y más respetuosas fueron las de Alexander López y Augusto Rodríguez. (Captura de pantalla).*
 
 Sin embargo, Petro quiso zanjar el debate apelando al concepto del sectarismo político. Para esto calificó el ingreso de Armando Benedetti, Jefe de Despacho Presidencial, como una muestra de pluralidad. Justificó su actuación como cuando **Jaime Bateman Cayón** recibió apoyos de políticos conservadores samarios. De hecho, la calificación de Gustavo Petro a sus opositores de gabinete fue de **«**sectarios**»** y **«**robespierristas**»**.
@@ -30,7 +30,7 @@ El presidente remató diciendo que fue elegido con más de 10 millones y medio d
 
 ## «Conmoción Interior» y renuncia
 
-![Jorge Rojas propuso un viraje político de la administración. Pero el presidente se atrincheró en defender a unos funcionarios que no representan el proyecto que ganó en 2022.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/jorge-rojas-1024x649.jpg)
+![Jorge Rojas propuso un viraje político de la administración. Pero el presidente se atrincheró en defender a unos funcionarios que no representan el proyecto que ganó en 2022.](s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/jorge-rojas-1024x649.jpg)
 *Jorge Rojas propuso un viraje político de la administración. Pero el presidente se atrincheró en defender a unos funcionarios que no representan el proyecto que ganó en 2022.*
 
 Una vez terminada la convulsionada reunión, el fantasma de la renuncia invadió la atmósfera de palacio. Era difícil respirar en un ambiente así. Estaba todo contaminado, muy contaminado por la confrontación y la falta de empatía. La audacia de Petro terminó por **desmoronar la poca cohesión del gobierno**. Fue un autogolpe a la gobernanza del Gobierno del Cambio.
@@ -45,7 +45,7 @@ Vale destacar que Rojas caracterizó el Consejo de Ministro de histórico. Pero 
 
 ## El meollo del problema
 
-![Lo que observaremos en la última fase de este gobierno es el proceso de derechización del petrismo. Sus piedras angulares serán políticos dela calaña de Armando Benedetti.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/petro_consejo_-1024x577.jpg)
+![Lo que observaremos en la última fase de este gobierno es el proceso de derechización del petrismo. Sus piedras angulares serán políticos dela calaña de Armando Benedetti.](s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/petro_consejo_-1024x577.jpg)
 *Lo que observaremos en la última fase de este gobierno es el proceso de derechización del petrismo. Sus piedras angulares serán políticos dela calaña de Armando Benedetti.*
 
 El malestar de los que están con el proyecto del Gobierno del Cambio es que tendrían que estar bajo la égida de Benedetti y de Sarabia. Si ello es así, el pulso al interior del petrismo, lo ganaría el sector político extraño al proyecto político original. Se quitaría el ropaje de izquierda y se mimetizaría como una fuerza más dentro del _Establishment_ tradicional colombiano.
@@ -86,7 +86,7 @@ https://twitter.com/DanielSamperO/status/1886913661135921176
 
 ## Gustavo Bolívar y Petro
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/Gustavo_bolivar-827x1024.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/02/conmocion-interior-le-exigen-a-petro-viraje-politico/Gustavo_bolivar-827x1024.jpg)
 *El director del DPS, Gustavo Bolívar, fue una de las voces disidentes.*
 
 El director del DPS, Gustavo Bolívar, fue otra de las voces disidentes que se manifestaron en este Consejo de Ministros. Además de respaldar a la vicepresidenta Francia Márquez, tuvo un rifirrafe con Laura Sarabia a quien trató de mentirosa. Bolívar es uno de los fieles de este proyecto político.

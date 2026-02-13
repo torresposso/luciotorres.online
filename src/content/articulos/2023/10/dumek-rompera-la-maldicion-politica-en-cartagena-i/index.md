@@ -5,10 +5,10 @@ pubDate: "2023-10-09 14:13:27"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/dumek-rompera-la-maldicion-politica-en-cartagena-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/10/dumek-rompera-la-maldicion-politica-en-cartagena-i/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/dumek-rompera-la-maldicion-politica-en-cartagena-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/10/dumek-rompera-la-maldicion-politica-en-cartagena-i/hero.jpg)
 *La razón por la que Turbay y García lideran encuestas en Cartagena. ¿Se romperá la maldición política?*
 
 Cartagena de Indias, desde 2007, viene votando en contra de lo que, subjetivamente, son los candidatos de la clase política tradicional que aparecen como los favoritos. En aquel año, la caída sorpresiva de **Juan Carlos Gossaín Rognini** ante el triunfo inesperado de **Judith Pinedo Flórez (_Mariamulata_)**, marcó la maldición política del favoritismo de los grandes exponentes de la clase dirigente tradicional. ¿Esta vez, Dumek romperá esa especie de maldición política que **William García** sufrió en las elecciones de 2019 cuando era el superfavorito?
@@ -19,7 +19,7 @@ Te puede interesar: [Total solidaridad recibe William García por amenaza contra
 
 ## Curi: el último político
 
-![Curi, el único que rompió la maldición política](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/dumek-rompera-la-maldicion-politica-en-cartagena-i/Nicolas-Curi.jpg)
+![Curi, el único que rompió la maldición política](s3://bundled-saddlebag-tnqki7w/2023/10/dumek-rompera-la-maldicion-politica-en-cartagena-i/Nicolas-Curi.jpg)
 *Curi, el único que rompió la maldición política en Cartagena. La primera vez , como un candidato del pueblo. La segunda y la tercera, de la clase política.*
 
 Sin duda, **Nicolás Curi Vergara**, fue el último de los políticos favoritos que confirmó esa tendencia ganadora en las urnas. El voto en blanco y la abstención fueron las notas relevantes de esa jornada electoral que se hizo el **25 de octubre de 2005.** Curi fue elegido por tercera vez a la alcaldía con **54.583 sufragios** de las casi 120 mil personas que participaron en aquella jornada electoral. El voto en blanco 40 mil, y **Mery Luz Londoño**, del Polo Democrático, recibió apenas **13.680 votos**.
@@ -34,7 +34,7 @@ Lee lo que publiqué el 27 de octubre de 2019: [Un buitre de corto vuelo. Dau, a
 
 ## La maldición política que padeció Gossaín
 
-![Juan Carlos Gossaín, cuando fue gobernador de Bolívar, fue homenajeado por el congreso. Detrás, asoma la cabeza Dumek Turbay Paz. Lidio García y  Silvio José Carrasquilla los impulsores.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/dumek-rompera-la-maldicion-politica-en-cartagena-i/Juan-Carlos-Gossain_dumek-2.jpg)
+![Juan Carlos Gossaín, cuando fue gobernador de Bolívar, fue homenajeado por el congreso. Detrás, asoma la cabeza Dumek Turbay Paz. Lidio García y  Silvio José Carrasquilla los impulsores.](s3://bundled-saddlebag-tnqki7w/2023/10/dumek-rompera-la-maldicion-politica-en-cartagena-i/Juan-Carlos-Gossain_dumek-2.jpg)
 *Juan Carlos Gossaín, cuando fue gobernador de Bolívar, fue homenajeado por el Congreso. Detrás, asoma la cabeza Dumek Turbay Paz. Lidio García y Silvio José Carrasquilla los impulsores.*
 
 El comportamiento del electorado cartagenero es muy particular. Desde el punto de vista cultural, existe un resentimiento contra su clase política. Quizás es una manera de luchar contra la visión clasista y racista de estos políticos. Pero, su falta de capacidad política para discernir entre uno y otro candidato, lo lleva a errar en su elección. La misma Judith Pinedo desperdició un _papayazo_ para hacer, por lo menos, el 20% de lo que prometió. Se comportó como el caballo cochero, bien lo dijo de sí misma, cuando se puso al servicio de los Araújo y Cía, como si fuera una empleada o directora ejecutiva de Funcicar.

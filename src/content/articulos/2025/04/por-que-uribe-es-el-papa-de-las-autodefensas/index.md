@@ -5,7 +5,7 @@ pubDate: "2025-04-11 03:03:26"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/por-que-uribe-es-el-papa-de-las-autodefensas/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/04/por-que-uribe-es-el-papa-de-las-autodefensas/hero.jpg
 ---
 
 https://youtu.be/lLgf-5mlVrk?feature=shared

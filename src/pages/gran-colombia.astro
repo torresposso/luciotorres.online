@@ -1,7 +1,5 @@
 ---
-import BaseHead from "../components/BaseHead.astro";
-import Footer from "../components/Footer.astro";
-import Header from "../components/Header.astro";
+import Layout from "../layouts/Layout.astro";
 import FallbackImage from "../assets/blog-placeholder-about.jpg";
 
 const schema = {
@@ -13,437 +11,228 @@ const schema = {
 		"@type": "Person",
 		name: "Edison Lucio Torres",
 	},
-	description: "Manifiesto político y filosófico de Lucio Torres. Los colombianos merecemos una segunda oportunidad que no tuvieron 'los Buendía'.",
+	description:
+		"Manifiesto político y filosófico de Lucio Torres. Los colombianos merecemos una segunda oportunidad que no tuvieron 'los Buendía'.",
 };
 ---
 
-<!doctype html>
-<html lang="es">
-	<head>
-		<BaseHead
-			title="La Gran Colombia - Manifiesto"
-			description="Los colombianos merecemos una segunda oportunidad que no tuvieron 'los Buendía'. Manifiesto de Lucio Torres."
-			image={FallbackImage}
-			schema={schema}
-		/>
-	</head>
-	<body>
-		<Header />
-		<main class="gc-page">
-			<section class="gc-hero">
-				<div class="container">
-					<div class="sec-label">
-						<div class="dot"></div><span>Mi Proyecto</span>
-					</div>
-					<h1>La Gran Colombia</h1>
-					<p class="gc-lead">
-						Los colombianos merecemos una segunda oportunidad que no tuvieron "los Buendía"
-					</p>
-					<blockquote class="gc-quote">
-						"La Gran Colombia se forja desde tu corazón, desde el Yo Soy. Quien comprende esto sabe que el verdadero voto no ocurre en las urnas: ocurre en la conciencia."
-					</blockquote>
+<Layout
+	title="La Gran Colombia - Manifiesto"
+	description="Los colombianos merecemos una segunda oportunidad que no tuvieron 'los Buendía'. Manifiesto de Lucio Torres."
+	ogImage={FallbackImage.src}
+	schema={schema}
+>
+	<!-- HERO SECTION -->
+	<section
+		class="py-32 bg-white relative overflow-hidden px-6 lg:px-12 border-b border-base-300"
+	>
+		<div class="max-w-7xl mx-auto text-center">
+			<div class="flex items-center justify-center gap-4 mb-12">
+				<div
+					class="flag-separator w-16 h-2 rounded-full overflow-hidden"
+				>
+					<div class="y"></div>
+					<div class="b"></div>
+					<div class="r"></div>
 				</div>
-			</section>
-
-			<section class="gc-manifesto">
-				<div class="container">
-					<div class="gc-content">
-						<h2>El Manifiesto</h2>
-						
-						<p>Cuando Aureliano Babilonia leyó los últimos versos del Inmanifiesto del Ser, descubrió las claves para descifrar que el tiempo no era un círculo condenado a repetirlo por siempre, sino una espiral de luz que estaba dentro de él.</p>
-						
-						<p>Entonces, solo entonces, el último descendiente de "los Buendía" descubrió que Macondo no estaba condenado a cien años de soledad, sino a vivir mil años de bienestar. Y cuando pensó esto, ¡despertó!</p>
-						
-						<p>Encontró que Macondo no era normal. Era un caos heredado del pasado de su estirpe. Una profecía autocumplida, alimentada por la enfermedad mental de sus habitantes.</p>
-						
-						<p>Y al encontrarse consigo mismo, no miró atrás para buscar culpables y quejarse frente al desastre. Se levantó como si iniciara un ritual espiritual. Luego, se sentó sobre una inmensa roca que parecía un huevo gigante del último dinosaurio del gran continente de Pangea de la Era Triásica.</p>
-						
-						<p class="gc-highlight">Esta es la oportunidad para comenzar un buen día y nacer de nuevo en el Ser y crear el Gran Macondo que está dentro de mí.</p>
-					</div>
+				<span
+					class="text-xs font-black uppercase tracking-[0.5em] text-neutral"
+					>MI PROYECTO</span
+				>
+				<div
+					class="flag-separator w-16 h-2 rounded-full overflow-hidden"
+				>
+					<div class="y"></div>
+					<div class="b"></div>
+					<div class="r"></div>
 				</div>
-			</section>
+			</div>
 
-			<section class="gc-disruption">
-				<div class="container">
-					<h2>La disrupción de los pobres de espíritu</h2>
-					<div class="gc-content">
-						<p class="gc-lead">Basta ya de quejarse. Basta ya de echarle la culpa al Otro, a tu hermano. Los buenos somos el 99,9 por ciento que compartimos principios como el amor, la solidaridad, la búsqueda de sentido de nuestras vidas.</p>
-						
-						<p>¿Por qué nos gobierna el 0,01 por ciento representados por las élites políticas, financieras, tecnológicas, mediáticas que operan desde la dictatorship del Ego? Porque esta inmensa mayoría está fragmentada, distraída, pero no perdida.</p>
-						
-						<p>¿Pa' donde va la gente? Pa' donde va Vicente. El camarón dormido se lo lleva la corriente. Lo que sucede no es una conspiración de algunos ricos y poderosos contra los humanos.</p>
-						
-						<p>Existe una estructura sistémica de pensamientos donde el Ser desplazó el Ego que te hace desear y tener más, incluso, lo ajeno.</p>
-						
-						<p class="gc-highlight">Por esa razón, los pobres de espíritu iniciamos la Revolución del Ser. ¡Comienza la disrupción política!</p>
-						
-						<p>Es hora de que cada uno de nosotros actúe para construir una segunda oportunidad de los descendientes de "los Buendía". ¿Deseas acompañarnos en esta misión?</p>
-					</div>
-				</div>
-			</section>
+			<h1
+				class="text-4xl sm:text-7xl md:text-[10rem] font-editorial font-black leading-[0.9] text-neutral uppercase tracking-tighter mb-8 md:mb-12"
+			>
+				LA GRAN <br />
+				<span class="text-secondary text-highlight">COLOMBIA.</span>
+			</h1>
 
-			<section class="gc-basta">
-				<div class="container">
-					<h2>¡Basta ya de quejarse!</h2>
-					<div class="gc-content">
-						<p>Colombia duele como el mundo: alienación, guerras, inseguridad, pobreza, polarización y caos institucional. La muerte de Charlie Kirk, en Estados Unidos, y de Miguel Uribe, en Colombia, expresan lo mismo: una sociedad enferma por el odio. Quieren convertir estos asesinatos en el incendio del Reichstag para que surjan los nuevos Hitler o los nuevos Stalin.</p>
-						
-						<p>El establecimiento político continúa sometiendo a la sociedad en la trampa del discurso polarizante o de caminos tibios para seguir reinando.</p>
-						
-						<p>Los holocaustos que producen las guerras son evidencias de que fracasó el mundo político y de las ideologías dominantes. Los políticos —cualquiera sea su ideología y su relato— son incapaces de superar el dolor a escala local y universal. Siempre recetan lo mismo para problemas diferentes, como las instituciones de salud recetan acetaminofén para todo tipo de patología. Usan la mentira que nos divide y nos mata.</p>
-						
-						<p>El país y el mundo están en manos de políticos que han ejercido el poder durante estos 200 años de modernidad con un capitalismo sanguijuela, o del autoritarismo mesiánico de inspiración soviética. Ninguno de los dos relatos ideológicos resolvió los grandes problemas de la humanidad.</p>
-						
-						<p>Las dos últimas décadas de frustraciones políticas y de crisis económicas mundiales del siglo XXI son consecuencia de la dinámica que asume el poder del Ego en el sujeto y éste en la humanidad. En otras palabras, el mundo está dominado por el Ego que esclaviza al dominante y al dominado como lo hace con el colonizador y el colonizado.</p>
-					</div>
-				</div>
-			</section>
+			<p
+				class="text-3xl md:text-4xl font-editorial font-bold text-neutral/80 leading-tight max-w-4xl mx-auto italic mb-16"
+			>
+				"Los colombianos merecemos una segunda oportunidad que no
+				tuvieron los Buendía."
+			</p>
 
-			<section class="gc-ego">
-				<div class="container">
-					<div class="gc-content">
-						<h2>La Dictadura del Ego</h2>
-						<p>La historia de la humanidad —desde la aparición del esclavismo— no es la lucha de clases ni ninguna de las categorías sociales y políticas modernas creadas por el humano intelectual. No. La historia del planeta es el padecimiento de la dictatoría del Ego que te hace desirar y, por tanto, <strong>Tener</strong> desmesuradamente.</p>
-						
-						<p>Es una falsa identidad que toma control de tu mente. Eckhart Tolle, retoma del Buda y de la espiritualidad oriental algunos fundamentos de este fenómeno.</p>
-						
-						<p>En nuestro concepto, el mundo político padecen la misma enfermedad trágica que encarnan dos reconocidos gemelos: José Arcadio y Aureliano Buendía.</p>
-						
-						<p>El primero, machote y extrovertido, asume la violencia a flor de piel, sin justificación política. El segundo, con una aparente serenidad, la violencia la internaliza como ideology. Los dos surgen desde el mismo tronco: el Ego.</p>
-						
-						<p>Si seguimos esta dinámica, jamás encontraremos paz y felicidad. Para no seguir atados a esta tragedia de "los Buendía", hay que inmanifestar lo que hasta ahora no se ha manifestado: el Ser que está dentro de ti.</p>
-					</div>
-				</div>
-			</section>
+			<div
+				class="inline-block bg-base-200/50 p-8 border border-base-300 max-w-2xl text-left"
+			>
+				<blockquote
+					class="text-xl font-editorial font-bold text-neutral leading-relaxed italic border-l-4 border-primary pl-6"
+				>
+					"La Gran Colombia se forja desde tu corazón, desde el Yo
+					Soy. Quien comprende esto sabe que el verdadero voto no
+					ocurre en las urnas: ocurre en la conciencia."
+				</blockquote>
+			</div>
+		</div>
+	</section>
 
-			<section class="gc-voto">
-				<div class="container">
-					<h2>El Verdadero Voto</h2>
-					<div class="gc-content">
-						<p>La disrupción del Ser empieza por uno mismo. Es una decisión que se toma en la consciencia del momento presente. Aquí y ahora. Una elección consciente, no ideológica. ¡Liberadora!</p>
-						
-						<p>No se trata de seguir colores partidistas o caudillistas, sino de encender la luz interior como una estrella orientadora del pueblo.</p>
-						
-						<p>Porque Colombia —en estos 200 años de vida republicana— es gobernada por camaleones que mudan de discurso, pero no de propósito. Tienen tantos filtros como TikTok o Instagram. Los necesitan para manipular y engañar mediante el miedo y el deseo. Ellos quieren que tú seas parte de la manada y nunca te salgas de su redil.</p>
-						
-						<p>¿Esperas algo diferente si, al momento de votar, lo haces por conveniencia particular? El votante —dueño del poder— actúa sintonizado con su candidato de izquierda o de derecha. Esto quiere decir que tú eres el principal responsable del estado de cosas que te atormentan. Si el votante cambia, cambia el gobernante.</p>
-						
-						<p>Empero, para lograr lo bello, hay que apartarse de esta maluca realidad, dolorosa y patológica que determina tu sistema de creencia dominado por el Ego. Porque lo bello de Colombia está dentro de ti. Solo que aún no lo sabes conscientemente.</p>
-						
-						<p>De hecho, el país no necesita más promesas ni promeseros. Anhelamos hechos transformadores y gobernantes libres de la dictatoría del Ego. Líderes que inspiren y trasciendan el deseo del Tener. Que se conocen y se reconozcan a sí mismos.</p>
-						
-						<blockquote class="gc-quote-big">
-							La Gran Colombia se forja desde tu corazón, desde el Yo Soy. Quien comprende esto sabe que el verdadero voto no ocurre en las urnas: ocurre en la conciencia.
-						</blockquote>
-					</div>
-				</div>
-			</section>
+	<!-- MANIFIESTO CONTENT -->
+	<section class="py-32 bg-white px-6 lg:px-12">
+		<div class="max-w-3xl mx-auto prose-journal">
+			<h2
+				class="text-3xl sm:text-5xl font-editorial font-black text-neutral uppercase tracking-tight mb-8 md:mb-12 border-b-4 border-primary inline-block"
+			>
+				El Manifiesto
+			</h2>
 
-			<section class="gc-iluminacion">
-				<div class="container">
-					<h2>La Iluminación</h2>
-					<div class="gc-content">
-						<p>Desde la Era Axial hasta Jesucristo, pasando por los estoicos y la filosofía griega, la iluminación no se revela únicamente como un despertar espiritual, sino como una ruptura con los sistemas de opresión —internos y externos— que han condicionado al ser humano.</p>
-						
-						<p>Es el instante en que el Ser se reconoce libre, consciente y capaz de transformar su realidad. Pasar del dolor profundo a una paz duradera es una decisión que te pertenece.</p>
-						
-						<p>Por tanto, del actuar de los buenos humanos colombianos —que somos la inmensa mayoría— dependerá el futuro de la humanidad. No se trata de mesianismo, sino de una visión holística del mundo. La parte es el todo, y el todo es la parte. Cada individuo encarna a la sociedad, y la sociedad habita en cada individuo.</p>
-						
-						<p>Me pregunto: ¿Soy capaz de guiar esta transformación sustancial de nuestra nación sin haber ocupado un cargo estatal?</p>
-						
-						<p>Si pretendiera hacer lo mismo que los políticos actuales que se matan a dentelladas, necesitaría esa experiencia, porque la administración pública está reglada. Pero lo que la norma no puede determinar es la política del humano en su vida concreta.</p>
-						
-						<p>Si el político actúa bajo el régimen del Ego, seguiremos en lo mismo. Si aplasta el Ego y permite que el Ser tome las riendas de su mente y de su praxis, será un estadista disruptivo.</p>
-					</div>
-				</div>
-			</section>
+			<p>
+				Cuando Aureliano Babilonia leyó los últimos versos del
+				Inmanifiesto del Ser, descubrió las claves para descifrar que el
+				tiempo no era un círculo condenado a repetirlo por siempre, sino
+				una espiral de luz que estaba dentro de él.
+			</p>
 
-			<section class="gc-descarga">
-				<div class="container">
-					<div class="download-box">
-						<h3>Descarga el Proyecto Completo</h3>
-						<p>Lee el Manifiesto Digital completo de La Gran Colombia</p>
-						<a href="https://luciotorres.com.co/wp-content/uploads/2025/10/EL-INMANIFIESTO-DIGITAL-1.pdf" target="_blank" rel="noopener" class="btn btn-gold">
-							<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
-							Descargar PDF
-						</a>
-					</div>
-				</div>
-			</section>
+			<p>
+				Entonces, solo entonces, el último descendiente de "los Buendía"
+				descubrió que Macondo no estaba condenado a cien años de
+				soledad, sino a vivir mil años de bienestar. Y cuando pensó
+				esto, ¡despertó!
+			</p>
 
-			<section class="gc-cta">
-				<div class="cta-inner">
-					<h2>Te invito a votar por ti. Por tu Ser.</h2>
-					<p class="sub">Porque si tú despiertas, el país y el mundo despiertan.</p>
-					<div class="cta-btns">
-						<a href="/" class="btn btn-gold">Volver al Inicio</a>
-						<a href="/poder-del-ser" class="btn btn-r">El Poder del Ser</a>
-					</div>
-				</div>
-			</section>
-		</main>
-		<Footer />
-	</body>
-</html>
+			<p>
+				Encontró que Macondo no era normal. Era un caos heredado del
+				pasado de su estirpe. Una profecía autocumplida, alimentada por
+				la enfermedad mental de sus habitantes.
+			</p>
 
-<style is:global>
-	.gc-page {
-		width: 100% !important;
-		max-width: 100% !important;
-		margin: 0 !important;
-		padding: 0 !important;
-	}
-</style>
+			<p
+				class="text-2xl font-editorial font-black text-secondary italic my-12 bg-primary/5 p-8 border-l-8 border-primary"
+			>
+				Esta es la oportunidad para comenzar un buen día y nacer de
+				nuevo en el Ser y crear el Gran Macondo que está dentro de mí.
+			</p>
 
-<style>
-	.container {
-		max-width: 800px;
-		margin: 0 auto;
-		padding: 0 1.5rem;
-	}
+			<h2
+				class="text-4xl font-editorial font-black text-neutral uppercase tracking-tight mt-24 mb-10"
+			>
+				La disrupción de los pobres de espíritu
+			</h2>
 
-	/* Hero */
-	.gc-hero {
-		background: var(--gradient-hero);
-		padding: 12rem 0 8rem;
-		text-align: center;
-		position: relative;
-	}
-	.gc-hero::before {
-		content: "";
-		position: absolute;
-		inset: 0;
-		background: radial-gradient(circle at 50% 30%, rgba(245, 158, 11, 0.15) 0%, transparent 60%);
-	}
-	.gc-hero .container {
-		position: relative;
-		z-index: 2;
-		color: #fff;
-	}
-	.sec-label {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		gap: 0.75rem;
-		margin-bottom: 1.5rem;
-	}
-	.sec-label .dot {
-		width: 10px;
-		height: 10px;
-		border-radius: 50%;
-		background: var(--colombia-y);
-	}
-	.sec-label span {
-		font-size: 0.75rem;
-		font-weight: 700;
-		text-transform: uppercase;
-		letter-spacing: 0.15em;
-		color: var(--colombia-y);
-	}
-	.gc-hero h1 {
-		font-family: var(--font-heading);
-		font-size: clamp(3rem, 8vw, 5rem);
-		font-weight: 400;
-		line-height: 1;
-		margin-bottom: 1.5rem;
-	}
-	.gc-lead {
-		font-size: 1.5rem;
-		color: rgba(255, 255, 255, 0.9);
-		margin-bottom: 2rem;
-		line-height: 1.5;
-	}
-	.gc-quote {
-		font-family: var(--font-heading);
-		font-size: 1.25rem;
-		font-style: italic;
-		color: var(--colombia-y);
-		padding: 1.5rem 2rem;
-		background: rgba(255, 255, 255, 0.05);
-		border-left: 4px solid var(--colombia-y);
-		border-radius: 0 12px 12px 0;
-	}
+			<p>
+				Basta ya de quejarse. Basta ya de echarle la culpa al Otro, a tu
+				hermano. Los buenos somos el 99,9 por ciento que compartimos
+				principios como el amor, la solidaridad, la búsqueda de sentido
+				de nuestras vidas.
+			</p>
 
-	/* Sections */
-	.gc-manifesto, .gc-disruption, .gc-basta, .gc-ego, .gc-voto, .gc-iluminacion {
-		padding: 6rem 0;
-		background: var(--bg);
-	}
-	.gc-manifesto {
-		padding-top: 0;
-	}
+			<p>
+				¿Por qué nos gobierna el 0,01 por ciento representados por las
+				élites políticas, financieras, tecnológicas, mediáticas que
+				operan desde la dictatorship del Ego? Porque esta inmensa
+				mayoría está fragmentada, distraída, pero no perdida.
+			</p>
 
-	.gc-content {
-		font-size: 1.1rem;
-		line-height: 1.9;
-		color: var(--text);
-	}
-	.gc-content h2 {
-		font-family: var(--font-heading);
-		font-size: 2.25rem;
-		font-weight: 400;
-		margin-bottom: 2rem;
-		color: var(--text);
-		text-align: center;
-	}
-	.gc-content p {
-		margin-bottom: 1.5rem;
-	}
-	.gc-highlight {
-		font-size: 1.25rem;
-		font-weight: 500;
-		color: var(--colombia-gold);
-		padding: 1.5rem;
-		background: rgba(245, 158, 11, 0.08);
-		border-radius: 12px;
-		border-left: 4px solid var(--colombia-gold);
-		margin: 2rem 0;
-	}
+			<div class="my-16 py-12 border-y border-base-300">
+				<h2
+					class="text-4xl font-editorial font-black text-neutral uppercase tracking-tight mb-8"
+				>
+					La Dictadura del Ego
+				</h2>
+				<p>
+					La historia de la humanidad —desde la aparición del
+					esclavismo— no es la lucha de clases ni ninguna de las
+					categorías sociales y políticas modernas creadas por el
+					humano intelectual. No. La historia del planeta es el
+					padecimiento de la dictatoría del Ego que te hace desirar y,
+					por tanto, <strong>Tener</strong> desmesuradamente.
+				</p>
+			</div>
 
-	/* Alternate backgrounds */
-	.gc-disruption {
-		background: linear-gradient(180deg, var(--bg) 0%, #f8fafc 100%);
-	}
-	.gc-basta {
-		background: #f8fafc;
-	}
-	.gc-ego {
-		background: linear-gradient(180deg, #f8fafc 0%, var(--bg) 100%);
-	}
-	.gc-voto {
-		background: var(--bg);
-	}
-	.gc-iluminacion {
-		background: linear-gradient(180deg, var(--bg) 0%, #f1f5f9 100%);
-	}
-	.gc-voto .gc-content h2 {
-		text-align: center;
-	}
-	.gc-quote-big {
-		font-family: var(--font-heading);
-		font-size: 1.75rem;
-		font-style: italic;
-		color: var(--text);
-		text-align: center;
-		padding: 2rem;
-		margin: 3rem 0;
-		background: rgba(245, 158, 11, 0.1);
-		border-radius: 16px;
-		border: 2px solid var(--colombia-gold);
-	}
+			<h2
+				class="text-4xl font-editorial font-black text-neutral uppercase tracking-tight mb-10"
+			>
+				El Verdadero Voto
+			</h2>
 
-	/* Download */
-	.gc-descarga {
-		padding: 6rem 0;
-		background: var(--bg);
-	}
-	.download-box {
-		background: var(--surface);
-		border: 1px solid var(--border);
-		border-radius: 24px;
-		padding: 3rem;
-		text-align: center;
-	}
-	.download-box h3 {
-		font-family: var(--font-heading);
-		font-size: 1.75rem;
-		font-weight: 400;
-		margin-bottom: 0.75rem;
-		color: var(--text);
-	}
-	.download-box p {
-		color: var(--text-muted);
-		margin-bottom: 2rem;
-	}
+			<p>
+				La disrupción del Ser empieza por uno mismo. Es una decisión que
+				se toma en la consciencia del momento presente. Aquí y ahora.
+				Una elección consciente, no ideológica. ¡Liberadora!
+			</p>
 
-	/* CTA */
-	.gc-cta {
-		padding: 8rem 2rem;
-		text-align: center;
-		position: relative;
-		overflow: hidden;
-		background: var(--gradient-hero);
-		color: #fff;
-	}
-	.gc-cta::before {
-		content: "";
-		position: absolute;
-		inset: 0;
-		background: radial-gradient(circle at 50% 50%, rgba(245, 158, 11, 0.12) 0%, transparent 60%);
-	}
-	.cta-inner {
-		position: relative;
-		max-width: 700px;
-		margin: 0 auto;
-		z-index: 2;
-	}
-	.cta-inner h2 {
-		font-family: var(--font-heading);
-		font-size: clamp(2rem, 5vw, 3rem);
-		line-height: 1.2;
-		margin-bottom: 1.5rem;
-		font-weight: 400;
-	}
-	.cta-inner .sub {
-		font-size: 1.25rem;
-		color: rgba(255, 255, 255, 0.7);
-		margin-bottom: 3rem;
-	}
-	.cta-btns {
-		display: flex;
-		gap: 1.5rem;
-		justify-content: center;
-		flex-wrap: wrap;
-	}
+			<p>
+				No se trata de seguir colores partidistas o caudillistas, sino
+				de encender la luz interior como una estrella orientadora del
+				pueblo.
+			</p>
 
-	/* Buttons */
-	.btn {
-		display: inline-flex;
-		align-items: center;
-		gap: 0.6rem;
-		padding: 0.9rem 2rem;
-		border-radius: 50px;
-		font-weight: 700;
-		font-size: 0.95rem;
-		text-decoration: none;
-		border: none;
-		cursor: pointer;
-		transition: all 0.3s;
-		line-height: 1;
-		font-family: var(--font-body);
-		text-transform: uppercase;
-		letter-spacing: 0.05em;
-	}
-	.btn-gold {
-		background: var(--colombia-y);
-		color: var(--text);
-	}
-	.btn-gold:hover {
-		background: #fff;
-		transform: translateY(-2px);
-		box-shadow: 0 10px 30px rgba(245, 158, 11, 0.35);
-	}
-	.btn-r {
-		background: var(--colombia-r);
-		color: #fff;
-	}
-	.btn-r:hover {
-		transform: translateY(-2px);
-		box-shadow: 0 10px 30px rgba(239, 68, 68, 0.35);
-	}
+			<blockquote
+				class="text-3xl font-editorial font-black text-neutral text-center leading-tight my-20 px-8 py-12 border-2 border-secondary bg-secondary/5 relative"
+			>
+				<span
+					class="absolute -top-6 left-1/2 -translate-x-1/2 bg-white px-4 text-secondary text-5xl font-black"
+					>"</span
+				>
+				La Gran Colombia se forja desde tu corazón, desde el Yo Soy. Quien
+				comprende esto sabe que el verdadero voto no ocurre en las urnas:
+				ocurre en la conciencia.
+			</blockquote>
+		</div>
+	</section>
 
-	@media (max-width: 768px) {
-		.gc-hero {
-			padding: 10rem 0 6rem;
-		}
-		.gc-hero h1 {
-			font-size: 2.5rem;
-		}
-		.gc-lead {
-			font-size: 1.2rem;
-		}
-		.gc-quote-big {
-			font-size: 1.35rem;
-		}
-	}
-</style>
+	<!-- DOWNLOAD BOX -->
+	<section
+		class="py-32 bg-base-200/50 px-6 lg:px-12 border-t border-base-300"
+	>
+		<div
+			class="max-w-4xl mx-auto bg-white p-16 border border-base-300 text-center shadow-2xl relative"
+		>
+			<div
+				class="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-primary px-6 py-2 text-[10px] font-black uppercase tracking-[0.3em] text-neutral"
+			>
+				PROYECTO COMPLETO
+			</div>
+			<h3 class="text-4xl font-editorial font-black text-neutral mb-6">
+				DESCARGAR MANIFIESTO
+			</h3>
+			<p class="text-xl text-neutral/60 mb-12 font-medium">
+				Lee el documento técnico y filosófico completo de La Gran
+				Colombia.
+			</p>
+			<a
+				href="https://luciotorres.com.co/wp-content/uploads/2025/10/EL-INMANIFIESTO-DIGITAL-1.pdf"
+				target="_blank"
+				class="btn-hero-primary px-16!"
+			>
+				DESCARGAR PDF
+			</a>
+		</div>
+	</section>
+
+	<!-- CTA FINAL -->
+	<section class="py-40 bg-neutral text-white text-center px-6">
+		<div class="max-w-4xl mx-auto">
+			<h2
+				class="text-4xl sm:text-6xl md:text-[8rem] font-editorial font-black mb-12 uppercase tracking-tighter leading-none"
+			>
+				DESPIERTA <br />
+				<span class="text-primary italic text-highlight">COLOMBIA.</span
+				>
+			</h2>
+			<div class="flex flex-wrap gap-8 justify-center mt-16">
+				<a
+					href="/"
+					class="btn-hero-primary bg-white! text-neutral! border-primary!"
+				>
+					VOLVER AL INICIO
+				</a>
+				<a
+					href="/poder-del-ser"
+					class="btn-hero-secondary text-white! border-white! hover:bg-white! hover:text-secondary!"
+				>
+					EL PODER DEL SER
+				</a>
+			</div>
+		</div>
+	</section>
+</Layout>

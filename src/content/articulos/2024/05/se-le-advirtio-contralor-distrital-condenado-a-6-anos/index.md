@@ -5,10 +5,10 @@ pubDate: "2024-05-22 14:17:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/hero.jpg
 ---
 
-![Esta fue la imagen con que ilustramos el artículo donde se presentó la prueba reina de la inhabilidad del contralor y del concierto para delinquir. Héctor Consuegra Salinas, Contralor distrital condenado a 6 años .](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/hero.jpg)
+![Esta fue la imagen con que ilustramos el artículo donde se presentó la prueba reina de la inhabilidad del contralor y del concierto para delinquir. Héctor Consuegra Salinas, Contralor distrital condenado a 6 años .](s3://bundled-saddlebag-tnqki7w/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/hero.jpg)
 *Esta fue la imagen con que ilustramos el artículo donde se presentó la prueba reina de la inhabilidad del contralor y del concierto para delinquir. Héctor Consuegra Salinas, Contralor distrital condenado a 6 años .*
 
 La **Sala Penal del Tribunal Superior de Cartagena** condenó a 6 años de prisión a **Héctor Rodolfo Consuegra Salinas**, fallido Contralor Distrital. Estaba inhabilitado, porque era **Asesor de Control Interno Código 105 Grado 07** de la empresa estatal Edurbe. Pero, el alcalde del momento **William Dau Chamat**, se lo impuso al Concejo Distrital en una **elección de dudosa factura** del 14 de julio de 2020.
@@ -19,7 +19,7 @@ Con estas denuncias periodísticas, varias veedurías, entre ellas Vejuca que li
 
 ## Dora Cáceres favoreció al Zambiloco
 
-![Dora Patricia Cáceres Puentes otra vez salvó al alcalde Dau](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/Dora-Patricia-Caceres-Puentes-1024x641.jpeg)
+![Dora Patricia Cáceres Puentes otra vez salvó al alcalde Dau](s3://bundled-saddlebag-tnqki7w/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/Dora-Patricia-Caceres-Puentes-1024x641.jpeg)
 *Dora Patricia Cáceres Puentes otra vez salvó al alcalde Dau*
 
 La fiscal **Dora Cáceres** acumuló las denuncias en un solo proceso. No incluyó otros delitos graves, presuntamente, para proteger al alcalde William Dau. Entre ellos, el delito de **concierto para delinquir agravado**. Como determinador de este hecho fueron Dau y el concejal Julio Bejarano. El primero había firmado el decreto **0313 del 7 de febrero de 2020** mediante el cual nombró a **Héctor Consuegra**, tal como se mostró en el artículo. El segundo, como concejal aliado del alcalde, fue el jefe de debate del fallido contralor. La investigación de la Fiscalía fue magra, débil y muy rebatible. Llena de ambigüedades en el escrito de acusación. Esto le permitió al juzgado absolver en primera instancia al contralor de marras.
@@ -32,7 +32,7 @@ Además, no incluyó el delito de concierto para delinquir donde estarían invol
 
 A pesar de la prueba reina que **VoxPopuli Digital** publicó sobre la inhabilidad evidente del contador **Héctor Consuegra Salinas**, William Dau persistió en su candidato para la contraloría de bolsillo que pretendía. En dicho artículo titulado **_«_No aprenden. Alcalde y concejo podrían ir a la cárcel_»_**, se presentó la prueba irrefutable en su publicación del 14 de julio de 2020.
 
-![Contralor distrital ilegal condenado a 6 años ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/image-1.png)
+![Contralor distrital ilegal condenado a 6 años ](s3://bundled-saddlebag-tnqki7w/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/image-1.png)
 *Contralor distrital ilegal condenado a 6 años. Esta fue la prueba reina que presentó VoxPopuli.Digital en su publicación del 14 de julio de 2020.*
 
 Sin embargo, ni el alcalde ni la coalición del concejo liderada por **Javier Julio Bejarano**, le pusieron atención a la denuncia periodística. No solamente se presentó la prueba sino también el contexto y el análisis. Que no es lo mismo. Es decir, se la pusimos en _bandeja de plata_ para que reflexionaran. Pero no lo hicieron. Esta fue la advertencia que se le hizo oportunamente:
@@ -43,7 +43,7 @@ Sin embargo, ni el alcalde ni la coalición del concejo liderada por **Javier Ju
 
 ## Las dudas de una fiscal
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/hector_consuegra_contralor_votos.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/05/se-le-advirtio-contralor-distrital-condenado-a-6-anos/hector_consuegra_contralor_votos.jpeg)
 
 Sin conocer el fallo, debemos recordar que el recurso de apelación lo presentó la fiscal de la Unidad de Administración Pública frente al fallo proferido por el juzgado penal del circuito de Cartagena en junio de 2023. La sala Penal del Tribunal Superior revocó la decisión de primera instancia proferida por el juzgado de conocimiento que en su momento lo absolvió por el delito de fraude procesal.
 

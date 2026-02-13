@@ -5,7 +5,7 @@ pubDate: "2022-10-12 17:41:14"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/romper-el-cheque-en-blanco-piden-comunidades-del-canal-del-dique-iii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/10/romper-el-cheque-en-blanco-piden-comunidades-del-canal-del-dique-iii/hero.jpg
 ---
 
 Luego de que sin legitimidad algunos líderes firmaron un **"cheque en blanco"** al gobierno nacional para darle paso al proceso licitatorio de la **APP Canal del Dique**, se prendió el debate al interior de las comunidades. El tema estructural es el mal diseño del proyecto, que lo hace un proceso viciado. ¿Por qué? Necesita licencia ambiental, ya que es un proyecto de infraestructura hidrovial disfrazado de recuperación ambiental.

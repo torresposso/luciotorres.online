@@ -5,10 +5,10 @@ pubDate: "2025-05-20 01:00:01"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/benedetti-evito-la-carcel-con-trampa/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/05/benedetti-evito-la-carcel-con-trampa/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/benedetti-evito-la-carcel-con-trampa/armando_benedetti-1024x768.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2025/05/benedetti-evito-la-carcel-con-trampa/armando_benedetti-1024x768.jpeg)
 *Armando Benedetti*
 
 **Armando Benedetti** evitó la cárcel con trampa que le hizo a la Corte Suprema de Justicia. Utilizó su brillante habilidad para la triquiñuela y la componenda. Negoció por **$22 millones** un acuerdo con el abogado de su exsecretaria privada, **Elsy Mireya Pinzón**, testigo clave en el caso de la corrupción del **Fondo Financiero de Proyectos de Desarrollo —FONADE**—, una empresa social del Estado.
@@ -33,7 +33,7 @@ Lo anterior nos propone otras preguntas metodológicas. ¿Por qué los senadores
 
 ## Tráfico de influencia
 
-![Angela Benedetti y el presidente Gustavo Petro cuando hicieron campañas.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/benedetti-evito-la-carcel-con-trampa/hero.jpg)
+![Angela Benedetti y el presidente Gustavo Petro cuando hicieron campañas.](s3://bundled-saddlebag-tnqki7w/2025/05/benedetti-evito-la-carcel-con-trampa/hero.jpg)
 *Angela Benedetti y el presidente Gustavo Petro cuando hicieron campañas. Fue pareja sentimental de Jaime Lombana, denunciante de su hermano Armando Benedetti./Cortesía.*
 
 Como es sabido, la Corte Suprema de Justicia adelanta en su contra un proceso penal que está en la etapa de juicio. Su delito, **tráfico de influencias**. Cuando Benedetti fue senador y ostentaba un gran poder en el gobierno de **Juan Manuel Santos** tenía una participación en Fonade.

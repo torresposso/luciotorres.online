@@ -5,10 +5,10 @@ pubDate: "2023-07-05 02:15:27"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/hero.jpg
 ---
 
-![¿La venganza de Negra Dominga? Álvaro Luis Ospino Illera con su sobrino del alma, Jonnathan, ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/hero.jpg)
+![¿La venganza de Negra Dominga? Álvaro Luis Ospino Illera con su sobrino del alma, Jonnathan, ](s3://bundled-saddlebag-tnqki7w/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/hero.jpg)
 *¿La venganza de Negra Dominga? Álvaro Luis Ospino Illera con su sobrino del alma, Jonnathan,*
 
 **«**El que mata a espada, morirá por la espada**»**, dice el antiguo dicho latino. ¿Fue una venganza de _Negra Dominga_ y alias «El Jefe» contra la banda de **Los Vega Daza**? Sea lo que sea su origen, fue una **macabra** **sinfonía** inconclusa. Sinfonía, porque la operación la hicieron con tanta precisión que fue similar al toque de una pieza musical. Inconclusa, porque esa sinfonía de sangre no la pudieron terminar. Los ejecutores tenían como **objetivo militar** _pasar por la espada_ a **Roberto Carlos Vega Daza, alias _Beto_,** quien ordenó la muerte del **Jonnathan Ospino Illera** en la fiesta de cumpleaños del 25 de octubre de 2022.
@@ -21,7 +21,7 @@ A partir de este momento entramos a un análisis para desmenuzar la teoría de l
 
 ## La venganza de Negra Dominga: De Arroyohondo a Barranquilla
 
-![La venganza de Negro Dominga. El sepelio de Jonnathan Ospino](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/Sepelio-Jonathan.jpg)
+![La venganza de Negro Dominga. El sepelio de Jonnathan Ospino](s3://bundled-saddlebag-tnqki7w/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/Sepelio-Jonathan.jpg)
 *La venganza de Negro Dominga. El sepelio de Jonnathan Ospino*
 
 En Arroyohondo (Bolívar), el 28 de octubre de 2022, día en que enterraron a **Jonnathan Ospino**, algunos que asistieron al entierro, dicen que al pie de su tumba, el _Negra Dominga_ no solo lloró sino que también juró matar al causante de su muerte. Y desde ese momento no ha descansado, según se nota con los antecedentes de ese crimen múltiple. Su idea obsesiva es consumar su promesa: **matar al asesino de su hijo—sobrino**.
@@ -44,7 +44,7 @@ Desde los años 90 la ciudad está viviendo una transformación social y económ
 
 Tan es verdad esa aseveración que el _indictment_ (acusación) contra los hermanos **Daes Abuchaibe**, una familia que prosperó al socaire de los vientos de la ilegalidad, también fue víctima de esa violencia que actúa como un boomerang. A manera de botón de muestra, **VoxPopuli Digital** está preparando una profunda investigación sobre las rentas de la familia **Daes Abuchaibe**, ¿Cuáles son sus orígenes? Lean un aparte de ese _indictment_ contra los grandes empresarios de la economía barranquillera.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/Daes-indictment.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/Daes-indictment.jpg)
 
 Sin embargo, en las últimas tres décadas, Barranquilla también se ha caracterizado por ser un centro para el tráfico de armas. Precisamente, a principio de los 90s al que hoy es SEO de Tegnoglass, **Cristian Daes**, se le sindicó de tráfico ilegal de armas dirigida a organizaciones asociadas al Cartel de Cali, como señala el numeral 34 de ese _indictment_. (**VoxPopuli Digital** está investigando este caso parecido al **[Expediente 114](/articulos/expediente-no-114-la-fortuna-de-los-char-proviene-de-su-sociedad-con-el-caracol/)** que explica los orígenes de la fortuna de los Char. Expediente que **Alex Char** descalificó, porque atenta contra su buen nombre).
 
@@ -62,7 +62,7 @@ Llama la atención que ―además de aumentarse los casos de sicariatos― se pr
 
 ## ¿Cómo se preparó la venganza?
 
-![La venganza de Negra Dominga. Este es el container que sirvió de centro de operación de los fusileros que se fueron al ataque contra Los Vega. Foto suministrada,](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/Los-Vega_el-arma-asesina.jpg)
+![La venganza de Negra Dominga. Este es el container que sirvió de centro de operación de los fusileros que se fueron al ataque contra Los Vega. Foto suministrada,](s3://bundled-saddlebag-tnqki7w/2023/07/negra-dominga-y-su-venganza-contra-los-vega-daza-iii/Los-Vega_el-arma-asesina.jpg)
 *La venganza de Negra Dominga. Este es el container que sirvió de centro de operación de los fusileros que se fueron al ataque contra Los Vega. Foto suministrada,*
 
 De acuerdo a información suministrada bajo reserva por agentes allegados a la investigación, los autores de la masacre montaron el operativo nueve días antes. El 20 de junio alquilaron el contenedor donde encontraron varios fusiles y otros utensilios. Lo adecuaron con un sistema tecnológico para hacerle seguimiento a sus presas. Utilizaron cámaras de vigilancia de alta resolución dirigidas a la **casa No 4 del conjunto residencial North Frontier** de **Villa Campestre**. De esta manera lograron un registro en tiempo real de los movimientos de Los Vega Daza.

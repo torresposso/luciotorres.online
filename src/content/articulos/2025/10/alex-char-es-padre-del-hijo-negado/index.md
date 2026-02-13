@@ -5,10 +5,10 @@ pubDate: "2025-10-13 03:31:07"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/hero.jpg
 ---
 
-![Alex Char es padre del hijo negado, según jueza  (VI)](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/hero.jpg)
+![Alex Char es padre del hijo negado, según jueza  (VI)](s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/hero.jpg)
 *Alex Char es padre del hijo negado, según jueza (VI)*
 
 En este mes de octubre vale la pena analizar el medioevo concepto de «pureza racial» de la familia Char Abdala a partir de la decisión judicial que consideró que **Alex Char es padre del hijo negado.** Si él lo quiere, el joven llevará el apellido Char para toda su vida. A pesar de **mentir una y otra vez** ante el juez para negar la **primogenitura de Steven** y de engañar mediante estratagema a la parte demandante y al juzgado, **finalmente el fallo judicial fue en su contra**.
@@ -25,7 +25,7 @@ La reciente decisión del **Juzgado Primero de Familia del Circuito de Bogotá**
 
 ## Habló la juez
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/489637-473x1024.jpg)![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/489647-703x1024.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/489637-473x1024.jpg)![](s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/489647-703x1024.jpg)
 
 Ante la insistencia del abogado, que representa al hijo negado de **Alejandro Char Chaljub**, para que se cumpla la ley, la juez **Nelsy Maribel Celis Zea** ordenó que Alex Char es padre del hijo negado. El fallo judicial lo radicaron con el **No 110013110001 2024-000300-00**:
 
@@ -35,7 +35,7 @@ Ante la insistencia del abogado, que representa al hijo negado de **Alejandro Ch
 
 ### Char es padre del hijo negado
 
-![Alex Char es padre del hijo negado](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/Steven_char_alejo_.jpg)
+![Alex Char es padre del hijo negado](s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/Steven_char_alejo_.jpg)
 *Alex Char es padre del hijo negado*
 
 Como reveló, en exclusiva, **_VoxPopuli.digital_** en entregas anteriores — [¿El primogénito negado de Alex Char? (I)](/articulos/el-primogenito-negado-de-alex-char-i/), _“_[_El alcalde que se burla de la justicia, de su hijo y de la sociedad”_](/articulos//¿Última oportunidad del alcalde Char para prueba ADN? \(III\))_—, el proceso de filiación se convirtió en un auténtico drama moral. Citado varias veces por el juez para practicarse la prueba de ADN, el alcalde de Barranquilla evadió sistemáticamente las diligencias judiciales mediante la mentira y la manipulación. Ni siquiera su investidura ni su aspiración a proyectarse como figura nacional lo disuadieron de incumplir con la ley y con un deber elemental de humanidad: **reconocer a su propio hijo.**
@@ -50,7 +50,7 @@ Las ciencias sociales ofrecen una respuesta compleja pero reveladora. Según la�
 
 ## El espejo moral de Alex Char
 
-![Si Alex Char es padre del hijo negado por orden judicial ¿Cómo queda moralmente frente a sus demás hijos? ¿Katia Nule, su esposa, tuvo el derecho a la verdad.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/Char_graduacion.jpg)
+![Si Alex Char es padre del hijo negado por orden judicial ¿Cómo queda moralmente frente a sus demás hijos? ¿Katia Nule, su esposa, tuvo el derecho a la verdad.](s3://bundled-saddlebag-tnqki7w/2025/10/alex-char-es-padre-del-hijo-negado/Char_graduacion.jpg)
 *Si Alex Char es padre del hijo negado por orden judicial ¿Cómo queda moralmente frente a sus demás hijos? ¿Katia Nule, su esposa, tuvo el derecho a la verdad.*
 
 La conducta que debe tener un mandatario nacional, regional o local debe ser congruente y coherente. La vida pública debe ser reflejo de su conducta pública. En otras palabras, Alejandro Char debe estar a la altura de lo que dice ser: el mejor alcalde de Colombia. Los hechos, lo desmienten categóricamente.

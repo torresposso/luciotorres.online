@@ -5,10 +5,10 @@ pubDate: "2022-02-02 22:41:11"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/la-celeridad-de-la-justicia-para-favorecer-a-gabriel-echavarria/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/02/la-celeridad-de-la-justicia-para-favorecer-a-gabriel-echavarria/hero.jpg
 ---
 
-![La celeridad de la justicia: Ángel o demonio?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/la-celeridad-de-la-justicia-para-favorecer-a-gabriel-echavarria/hero.jpg)
+![La celeridad de la justicia: Ángel o demonio?](s3://bundled-saddlebag-tnqki7w/2022/02/la-celeridad-de-la-justicia-para-favorecer-a-gabriel-echavarria/hero.jpg)
 *La celeridad de la justicia, en este caso de Gabriel Echavarría contra los Girado, nos propone esta pregunta ¿Angel o demonio?*
 
 En Colombia, la celeridad de la justicia solo es posible cuando presuntamente aparecen como víctimas poderosos empresarios o personas vinculadas al poder político. Es el caso de **Gabriel Echavarría,** propietario de Punta Iguana, quien presentó una denuncia penal contra los Girado por perturbación e invasión de una propiedad que está en litigio con esa familia nativa de Barú.
@@ -17,7 +17,7 @@ Los predios en disputa sirven de parqueadero en Playa Blanca, uno de los sitios 
 
 ## Acompañamiento de Vejuca
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/la-celeridad-de-la-justicia-para-favorecer-a-gabriel-echavarria/Captura-de-pantalla-66.png)
+![](s3://bundled-saddlebag-tnqki7w/2022/02/la-celeridad-de-la-justicia-para-favorecer-a-gabriel-echavarria/Captura-de-pantalla-66.png)
 *Ilustración de Erick Ujueta, director de VEJUCA sobre este caso de celeridad de la justicia.*
 
 Frente al litigio, los Girado le solicitaron a **Erick Urueta, director ejecutivo de la Veeduría Judicial de Cartagena (VEJUCA)** un acompañamiento al proceso penal contra Echavarría y asimismo el proceso donde éste los denuncia. Además se trata de verificar la celeridad de la justicia. Al respecto, **Vicente Girad**o le manifestó a Vejuca:

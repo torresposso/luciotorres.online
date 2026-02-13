@@ -5,10 +5,10 @@ pubDate: "2021-08-13 23:13:33"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/titulacion-colectiva-de-3-mil-hectareas-en-baru/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/08/titulacion-colectiva-de-3-mil-hectareas-en-baru/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/titulacion-colectiva-de-3-mil-hectareas-en-baru/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/08/titulacion-colectiva-de-3-mil-hectareas-en-baru/hero.jpg)
 *La titulación colectiva es una noticia que esperan los nativos. Vista área del hotel de Jean Claude Bessudo Islas Barú. Cortesía.*
 
 La titulación colectiva puede ser una de las iniciativas para detener el proceso de gentrificación de la zona rural de Cartagena. Los nativos y no nativos, especialmente los que tienen títulos, están a la expectativa de lo que pueda suceder con la visita programada por la Agencia Nacional de Tierras (ANT) prevista para este **17 de agosto en el territorio comunero de Barú**. Con esta inspección se inicia en firme el procedimiento administrativo de **titulación colectiva** **de 3 mil hectáreas** ordenado por la **Resolución No. 11263** del 6 de agosto de 2021.
@@ -19,7 +19,7 @@ La ANT tiene como misión, dentro de su papel como autoridad en el manejo dela t
 
 ## La titulación colectiva
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/titulacion-colectiva-de-3-mil-hectareas-en-baru/ASENTAMIENTOplaya-blanca.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/08/titulacion-colectiva-de-3-mil-hectareas-en-baru/ASENTAMIENTOplaya-blanca.jpg)
 *Muchos nativos solo quedan para sobrevivir en la playa masajeándole los pies a los turistas. Pero ellospodrán trabajar dignamente con la titulación colectiva.*
 
 El proceso administrativo de titulación colectiva es fundamental en esta coyuntura del territorio ancestral. **Sería un dique al proceso de gentrificación que ha conllevado a la pobreza y a la marginalidad de la mayoría de las poblaciones afros, especialmente de la Isla de Barú.** Éstas se han visto arrinconadas. Desplazadas de sus propios territorios con la complicidad de los sucesivos gobiernos locales y nacionales. Deben ganarse la vida en las playas como vendedores ambulantes, masajistas, salvavidas, transporte de turistas, etc. Pero también los nativos deben hacer conciencia de que la venta de esas tierras no es la solución de sus grandes problemas. La tierra es su sustento y el cuerpo del territorio.

@@ -4,8 +4,11 @@ import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
 import FormattedDate from "../components/FormattedDate.astro";
 import LazyImage from "../components/LazyImage.astro";
+import Route2026 from "../components/Route2026.astro";
+import ManifestoPillars from "../components/ManifestoPillars.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import { getCollection } from "astro:content";
+import { getImgproxyUrl } from "../utils/imgproxy";
 
 // Schema.org structured data
 const site = Astro.site || Astro.url.origin;
@@ -36,7 +39,7 @@ function extractSlugFromPath(id: string): string {
 ---
 
 <!doctype html>
-<html lang="es">
+<html lang="es" data-theme="colombia">
 	<head>
 		<BaseHead
 			title={SITE_TITLE}
@@ -50,1199 +53,323 @@ function extractSlugFromPath(id: string): string {
 			schema={schema}
 		/>
 	</head>
-	<body>
+	<body class="bg-base-100 text-base-content font-sans antialiased">
+		<div class="flag-separator sticky top-0 z-50 shadow-md">
+			<div class="y"></div>
+			<div class="b"></div>
+			<div class="r"></div>
+		</div>
 		<Header />
-		<main class="landing-page" id="main-content">
-			<!-- HERO SECTION — IMPACTO PATRIÓTICO -->
-			<section class="hero" id="inicio">
-				<div class="hero-inner">
-					<div class="hero-text">
-						<div class="hero-flag">
-							<span class="flag-bar flag-y"></span>
-							<span class="flag-bar flag-b"></span>
-							<span class="flag-bar flag-r"></span>
+
+		<main id="main-content">
+			<!-- HERO SECTION -->
+			<section
+				class="hero min-h-screen bg-base-100 relative overflow-hidden pt-20"
+			>
+				<div
+					class="hero-content flex-col lg:flex-row-reverse gap-20 max-w-screen-2xl px-6 lg:px-12"
+				>
+					<div class="relative lg:w-1/2 flex justify-center">
+						<div
+							class="absolute inset-0 bg-primary/20 rounded-full blur-[120px] scale-150"
+						>
 						</div>
-						<h1 class="hero-title">
-							Lucio Torres.<br /><span class="gold"
-								>La Gran Colombia.</span
+						<img
+							src="/lucio.png"
+							alt="Lucio Torres"
+							class="max-w-xs md:max-w-lg grayscale hover:grayscale-0 transition-all duration-1000 relative z-10"
+						/>
+					</div>
+
+					<div class="lg:w-1/2 text-center lg:text-left z-10">
+						<div
+							class="inline-flex items-center gap-4 mb-12 bg-base-200/50 px-6 py-2 rounded-full border border-base-300"
+						>
+							<span
+								class="w-3 h-3 rounded-full bg-accent animate-pulse"
+							></span>
+							<span
+								class="text-xs font-black uppercase tracking-[0.2em] text-secondary"
+								>Candidato Presidencial 2026</span
 							>
+						</div>
+
+						<h1
+							class="text-[clamp(3.5rem,15vw,10rem)] font-editorial font-black leading-[0.8] mb-8 md:mb-12 text-base-content"
+						>
+							LUCIO <br />
+							<span class="text-secondary">TORRES.</span>
 						</h1>
-						<p class="hero-subtitle">
-							Los colombianos merecemos una segunda oportunidad que no tuvieron "los Buendía"
+
+						<p
+							class="text-4xl md:text-5xl font-editorial font-bold mb-12 text-base-content/90 leading-tight"
+						>
+							"Pan con Paz: El <span
+								class="text-highlight text-base-content"
+								>compromiso sagrado</span
+							> con nuestra tierra."
 						</p>
-						<p class="hero-desc">
-							La Gran Colombia se forja desde tu corazón, desde el Yo Soy. 
-							Comunicador Social. Periodista y escritor. Defensor y docente universitario de Derechos Humanos.
-						</p>
-						<div class="hero-cta">
-							<a href="/gran-colombia" class="btn btn-gold"
-								>La Gran Colombia</a
-							>
-							<a href="/poder-del-ser" class="btn btn-glass"
-								>El Poder del Ser</a
-							>
-						</div>
-					</div>
-					<div class="hero-cards">
-						<div class="hero-card big">
-							<span class="num">50K+</span>
-							<span class="lbl">Apoyo Popular</span>
-						</div>
-						<div class="hero-card">
-							<span class="num">100%</span>
-							<span class="lbl">Independiente</span>
-						</div>
-						<div class="hero-card">
-							<span class="num">45+</span>
-							<span class="lbl">Años de Lucha</span>
-						</div>
-					</div>
-				</div>
-			</section>
 
-			<!-- PHILOSOPHY SECTION - EL PODER DEL SER -->
-			<section class="philosophy-section" id="filosofia">
-				<div class="container">
-					<div class="philosophy-inner">
-						<div class="philosophy-content">
-							<div class="sec-label">
-								<div class="dot"></div><span>El Poder del Ser</span>
+						<div
+							class="flex flex-wrap gap-6 justify-center lg:justify-start"
+						>
+							<a href="#ruta" class="btn-hero-primary">
+								Ruta 2026
+							</a>
+							<a href="/gran-colombia" class="btn-hero-secondary">
+								Propuesta
+							</a>
+						</div>
+
+						<!-- Stats Grid - Colombia Theme -->
+						<div
+							class="grid grid-cols-3 gap-12 mt-24 pt-12 border-t border-base-300 max-w-lg mx-auto lg:mx-0"
+						>
+							<div>
+								<div
+									class="text-5xl font-editorial font-black text-secondary"
+								>
+									100%
+								</div>
+								<div
+									class="text-[10px] uppercase tracking-[0.2em] font-bold text-base-content/50 mt-2"
+								>
+									Independiente
+								</div>
 							</div>
-							<h2>Basta ya de quejarse</h2>
-							<p class="philosophy-lead">
-								La disrupción de los pobres de espíritu. Los colombianos merecemos una segunda oportunidad que no tuvieron "los Buendía".
-							</p>
-							<p>
-								El mundo político padecen la misma enfermedad trágica que encarnan dos reconocidos gemelos: José Arcadio y Aureliano Buendía. El primero, machote y extrovertido, asume la violencia a flor de piel, sin justificación política. El segundo, con una aparente serenidad, la violencia la internaliza como ideología. Los dos surgen desde el mismo tronco: el Ego.
-							</p>
-							<p>
-								La Gran Colombia se forja desde tu corazón, desde el Yo Soy. Quien comprende esto sabe que el verdadero voto no ocurre en las urnas: ocurre en la conciencia.
-							</p>
-							<a href="/poder-del-ser" class="btn btn-gold">Leer más</a>
-						</div>
-						<div class="philosophy-image">
-							<img src="https://luciotorres.com.co/wp-content/uploads/2025/10/lucio-torres.png" alt="Lucio Torres" />
+							<div>
+								<div
+									class="text-5xl font-editorial font-black text-primary drop-shadow-sm"
+									style="text-shadow: 1px 1px 0 #000;"
+								>
+									45+
+								</div>
+								<div
+									class="text-[10px] uppercase tracking-[0.2em] font-bold text-base-content/50 mt-2"
+								>
+									Años Verdad
+								</div>
+							</div>
+							<div>
+								<div
+									class="text-5xl font-editorial font-black text-accent"
+								>
+									0
+								</div>
+								<div
+									class="text-[10px] uppercase tracking-[0.2em] font-bold text-base-content/50 mt-2"
+								>
+									Maquinarias
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
 			</section>
 
-			<!-- LA GRAN COLOMBIA PREVIEW -->
-			<section class="gran-colombia-preview" id="gran-colombia">
-				<div class="container">
-					<div class="section-head">
+			<!-- FEATURED NEWS GRID -->
+			<section
+				class="py-32 bg-base-200/50 px-6 lg:px-12 border-t border-base-300"
+			>
+				<div class="max-w-screen-2xl mx-auto">
+					<div
+						class="flex flex-col md:flex-row justify-between items-end mb-24 gap-12"
+					>
 						<div>
-							<div class="sec-label">
-								<div class="dot"></div><span>Mi Proyecto</span>
-							</div>
-							<h2>La Gran Colombia</h2>
-						</div>
-						<a href="/gran-colombia">Ver el Manifiesto →</a>
-					</div>
-					<div class="gc-content">
-						<blockquote class="gc-quote">
-							"Esta es la oportunidad para comenzar un buen día y nacer de nuevo en el Ser y crear el Gran Macondo que está dentro de mí."
-						</blockquote>
-						<div class="gc-points">
-							<div class="gc-point">
-								<span class="gc-num">01</span>
-								<h4>La disrupción de los pobres de espíritu</h4>
-								<p>Basta ya de quejarse. Basta ya de echarle la culpa al Otro.</p>
-							</div>
-							<div class="gc-point">
-								<span class="gc-num">02</span>
-								<h4>¡Basta ya de quejarse!</h4>
-								<p>Colombia duele como el mundo: alienación, guerras, inseguridad, pobreza.</p>
-							</div>
-							<div class="gc-point">
-								<span class="gc-num">03</span>
-								<h4>La Iluminación</h4>
-								<p>Es el instante en que el Ser se reconoce libre, consciente y capaz de transformar su realidad.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-
-			<!-- FEATURED INVESTIGATIONS -->
-			<section class="featured" id="investigaciones">
-				<div class="container">
-					<div class="section-head">
-						<div>
-							<div class="sec-label">
-								<div class="dot"></div><span
-									>Investigaciones</span
+							<div class="flex items-center gap-4 mb-6">
+								<div class="w-3 h-3 bg-accent"></div>
+								<span
+									class="text-xs font-black uppercase tracking-[0.4em] text-neutral/60"
+									>ARCHIVO DE VERDAD</span
 								>
 							</div>
-							<h2>Últimas Publicaciones</h2>
+							<h2
+								class="text-4xl sm:text-6xl md:text-8xl font-editorial font-black text-neutral uppercase tracking-tighter leading-none"
+							>
+								INVESTIGACIONES <br />
+								<span class="text-accent">DE PODER.</span>
+							</h2>
 						</div>
-						<a href="/articulos">Ver todas →</a>
+						<a
+							href="/articulos"
+							class="btn btn-link text-neutral font-black uppercase tracking-widest no-underline border-b-2 border-primary group"
+						>
+							ARCHIVO COMPLETO
+							<svg
+								xmlns="http://www.w3.org/2000/svg"
+								class="h-5 w-5 transition-transform group-hover:translate-x-2"
+								fill="none"
+								viewBox="0 0 24 24"
+								stroke="currentColor"
+							>
+								<path
+									stroke-linecap="round"
+									stroke-linejoin="round"
+									stroke-width="3"
+									d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+							</svg>
+						</a>
 					</div>
-					<div class="articles-grid">
+
+					<div
+						class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12"
+					>
 						{
 							recentPosts.map((post) => (
-								<a
-									href={`/articulos/${extractSlugFromPath(post.id)}/`}
-									class="article-card"
-								>
-									<div class="article-image">
-										<div class="card-badge">
-											{post.data.categories?.[0] ||
-												"Actualidad"}
-										</div>
-										{post.data.heroImage ? (
-											<LazyImage
-												src={post.data.heroImage}
-												alt={post.data.title}
-												width={600}
-												height={375}
-												aspectRatio="16/10"
-											/>
-										) : (
-											<div class="placeholder-img" />
-										)}
-									</div>
-									<div class="article-content">
-										<h3>{post.data.title}</h3>
-										<p class="excerpt">
-											{post.data.description}
-										</p>
-										<div class="article-footer">
-											<div class="meta-date">
-												<svg
-													xmlns="http://www.w3.org/2000/svg"
-													width="16"
-													height="16"
-													viewBox="0 0 24 24"
-													fill="none"
-													stroke="currentColor"
-													stroke-width="2"
-													stroke-linecap="round"
-													stroke-linejoin="round"
-												>
-													<>
-														<rect
-															x="3"
-															y="4"
-															width="18"
-															height="18"
-															rx="2"
-															ry="2"
-														/>
-														<line
-															x1="16"
-															y1="2"
-															x2="16"
-															y2="6"
-														/>
-														<line
-															x1="8"
-															y1="2"
-															x2="8"
-															y2="6"
-														/>
-														<line
-															x1="3"
-															y1="10"
-															x2="21"
-															y2="10"
-														/>
-													</>
-												</svg>
-												<FormattedDate
-													date={post.data.pubDate}
-												/>
-											</div>
-											<span class="read-more">
-												Leer{" "}
-												<span class="arrow">→</span>
+								<article class="bg-white border border-base-300 group transition-all duration-500 hover:shadow-2xl">
+									<figure class="aspect-4/3 overflow-hidden relative grayscale hover:grayscale-0 transition-all duration-700">
+										<div class="absolute top-0 left-0 z-20 bg-primary px-4 py-2">
+											<span class="text-[10px] font-black uppercase tracking-widest text-neutral">
+												{post.data.categories?.[0] ||
+													"Investigación"}
 											</span>
 										</div>
+										{post.data.heroImage ? (
+											<img
+												src={getImgproxyUrl(
+													post.data.heroImage,
+													600,
+													450,
+												)}
+												alt={post.data.title}
+												class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
+											/>
+										) : (
+											<div class="w-full h-full bg-base-200 flex items-center justify-center">
+												<svg
+													xmlns="http://www.w3.org/2000/svg"
+													class="h-16 w-16 opacity-5"
+													fill="none"
+													viewBox="0 0 24 24"
+													stroke="currentColor"
+												>
+													<path
+														stroke-linecap="round"
+														stroke-linejoin="round"
+														stroke-width="1"
+														d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+													/>
+												</svg>
+											</div>
+										)}
+									</figure>
+									<div class="p-10">
+										<div class="text-[10px] font-black opacity-40 mb-4 tracking-[0.2em]">
+											<FormattedDate
+												date={post.data.pubDate}
+											/>
+										</div>
+										<h3 class="text-3xl font-editorial font-black mb-6 leading-tight group-hover:text-secondary transition-colors">
+											<a
+												href={`/articulos/${extractSlugFromPath(post.id)}/`}
+											>
+												{post.data.title}
+											</a>
+										</h3>
+										<p class="text-neutral/60 line-clamp-3 mb-8 text-lg leading-relaxed font-medium italic">
+											{post.data.description}
+										</p>
+										<a
+											href={`/articulos/${extractSlugFromPath(post.id)}/`}
+											class="text-xs font-black uppercase tracking-widest text-accent border-b-2 border-transparent hover:border-accent transition-all pb-1"
+										>
+											VER EVIDENCIAS →
+										</a>
 									</div>
-								</a>
+								</article>
 							))
 						}
 					</div>
 				</div>
 			</section>
 
-			<!-- PROPUESTAS SECTION -->
-			<section class="propuestas" id="propuestas">
-				<div class="container">
-					<div class="section-head">
-						<div>
-							<div class="sec-label">
-								<div class="dot"></div><span
-									>Programa de Gobierno</span
-								>
-							</div>
-							<h2>Propuestas para Colombia</h2>
-						</div>
-					</div>
-					<div class="props-grid">
-						<div class="prop-card">
-							<div class="prop-icon-wrap">
-								<svg
-									xmlns="http://www.w3.org/2000/svg"
-									width="22"
-									height="22"
-									viewBox="0 0 24 24"
-									fill="none"
-									stroke="currentColor"
-									stroke-width="2"
-									stroke-linecap="round"
-									stroke-linejoin="round"
-									><path
-										d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"
-									></path></svg
-								>
-							</div>
-							<div class="prop-content">
-								<div class="num">01 · Seguridad</div>
-								<h3>Seguridad Ciudadana</h3>
-								<p>
-									Protección efectiva. Policía comunitaria y
-									justicia rápida para todos los colombianos.
-								</p>
-							</div>
-						</div>
-						<div class="prop-card">
-							<div class="prop-icon-wrap">
-								<svg
-									xmlns="http://www.w3.org/2000/svg"
-									width="22"
-									height="22"
-									viewBox="0 0 24 24"
-									fill="none"
-									stroke="currentColor"
-									stroke-width="2"
-									stroke-linecap="round"
-									stroke-linejoin="round"
-									><path
-										d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"
-									></path><path
-										d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"
-									></path></svg
-								>
-							</div>
-							<div class="prop-content">
-								<div class="num">02 · Educación</div>
-								<h3>Educación Gratuita</h3>
-								<p>
-									Educación pública gratuita y de calidad
-									desde preescolar hasta la universidad
-									pública.
-								</p>
-							</div>
-						</div>
-						<div class="prop-card">
-							<div class="prop-icon-wrap">
-								<svg
-									xmlns="http://www.w3.org/2000/svg"
-									width="22"
-									height="22"
-									viewBox="0 0 24 24"
-									fill="none"
-									stroke="currentColor"
-									stroke-width="2"
-									stroke-linecap="round"
-									stroke-linejoin="round"
-									><path
-										d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"
-									></path></svg
-								>
-							</div>
-							<div class="prop-content">
-								<div class="num">03 · Salud</div>
-								<h3>Salud Digna</h3>
-								<p>
-									Salud unificada con atención oportuna y
-									medicamentos gratuitos para todos.
-								</p>
-							</div>
-						</div>
-						<div class="prop-card">
-							<div class="prop-icon-wrap">
-								<svg
-									xmlns="http://www.w3.org/2000/svg"
-									width="22"
-									height="22"
-									viewBox="0 0 24 24"
-									fill="none"
-									stroke="currentColor"
-									stroke-width="2"
-									stroke-linecap="round"
-									stroke-linejoin="round"
-									><circle cx="12" cy="12" r="10"
-									></circle><line
-										x1="2"
-										y1="12"
-										x2="22"
-										y2="12"></line><path
-										d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"
-									></path></svg
-								>
-							</div>
-							<div class="prop-content">
-								<div class="num">04 · Soberanía</div>
-								<h3>Soberanía Nacional</h3>
-								<p>
-									Protección de recursos naturales y autonomía
-									frente a potencias extranjeras.
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
+			<!-- ROUTE 2026 SECTION -->
+			<Route2026 />
 
-			<!-- TRAYECTORIA SECTION -->
-			<section class="timeline-section" id="trayectoria">
-				<div class="container">
-					<div class="section-head">
-						<div>
-							<div class="sec-label">
-								<div class="dot"></div><span>Historia</span>
-							</div>
-							<h2>Trayectoria al Servicio del Pueblo</h2>
-						</div>
-					</div>
-					<div class="tl-grid">
-						<div class="tl-card">
-							<div class="tl-year">1970s</div>
-							<h4>Liderazgo Estudiantil</h4>
-							<p>
-								Luchó por la educación pública en Magangué y
-								Barranquilla.
-							</p>
-						</div>
-						<div class="tl-card">
-							<div class="tl-year">1979</div>
-							<h4>Periodista Profesional</h4>
-							<p>
-								Graduado de Comunicación Social, U. Autónoma del
-								Caribe. Caracol, RCN, El Heraldo.
-							</p>
-						</div>
-						<div class="tl-card">
-							<div class="tl-year">2010</div>
-							<h4>Precandidato Presidencial</h4>
-							<p>
-								Polo Democrático Alternativo. Pionero en la
-								lucha progresista.
-							</p>
-						</div>
-						<div class="tl-card">
-							<div class="tl-year">2026</div>
-							<h4>Consulta Frente Por La Vida</h4>
-							<p>
-								Candidato independiente. 8 de marzo. Sin
-								corrupción.
-							</p>
-						</div>
-					</div>
-				</div>
-			</section>
+			<!-- MANIFIESTO SECTION -->
+			<ManifestoPillars />
 
 			<!-- CTA SECTION -->
-			<section class="cta-section" id="votar">
-				<div class="cta-inner">
-					<h2>
-						Únete a la <span class="gold">Esperanza</span> de Colombia
+			<section
+				class="py-40 bg-neutral text-white text-center relative px-6 overflow-hidden"
+			>
+				<div
+					class="absolute inset-0 opacity-10 bg-[url('https://www.transparenttextures.com/patterns/graphy.png')]"
+				>
+				</div>
+
+				<div class="max-w-5xl mx-auto relative z-10">
+					<h2
+						class="text-5xl sm:text-7xl md:text-[10rem] font-editorial font-black mb-12 uppercase tracking-tighter leading-none"
+					>
+						ÚNETE A LA <br />
+						<span class="text-primary italic text-highlight"
+							>RUTA.</span
+						>
 					</h2>
-					<p class="sub">
-						Tu voto es tu voz. Tu participación es el cambio.
+					<p
+						class="text-3xl md:text-4xl text-white/70 mb-20 font-editorial font-bold max-w-3xl mx-auto leading-tight italic"
+					>
+						"El cambio real no se pide, se construye con la verdad
+						en la mano y el pueblo en el corazón."
 					</p>
-					<div class="cta-btns">
-						<a href="#" class="btn btn-gold">Votar el 8 de Marzo</a>
-						<a href="#" class="btn btn-r">Ser Voluntario</a>
+
+					<div class="flex flex-wrap gap-8 justify-center mb-32">
+						<button
+							class="btn-hero-primary text-xl px-16 border-none text-secondary"
+						>
+							SER VOLUNTARIO
+						</button>
+						<button
+							class="btn btn-outline border-2 border-white text-white px-16 py-4 rounded-full font-black uppercase tracking-widest hover:bg-white hover:text-neutral transition-all duration-500"
+						>
+							QUIERO VOTAR
+						</button>
 					</div>
-					<div class="nl-box">
-						<p>Recibe las últimas noticias de la campaña</p>
-						<form class="nl-form" onsubmit="return false">
+
+					<div
+						class="max-w-xl mx-auto bg-white/5 p-1 rounded-none border border-white/10"
+						x-data="{ email: '', submitted: false }"
+					>
+						<div class="join w-full" x-show="!submitted">
 							<input
-								type="email"
-								placeholder="Tu correo electrónico"
+								class="input join-item w-full bg-transparent border-none focus:outline-none text-white placeholder:text-white/30 text-xl font-medium px-8"
+								placeholder="Tu correo de contacto"
+								x-model="email"
 							/>
-							<button type="submit" class="btn btn-gold"
-								>Suscribirse</button
+							<button
+								class="btn btn-primary join-item px-12 bg-primary border-none text-neutral font-black uppercase tracking-widest hover:bg-white transition-colors"
+								@click="if(email) submitted = true"
 							>
-						</form>
+								SUMARME
+							</button>
+						</div>
+						<div
+							class="py-10 px-12 text-primary font-black text-2xl uppercase tracking-widest flex items-center justify-center gap-4"
+							x-show="submitted"
+							x-cloak
+							x-transition
+						>
+							<svg
+								xmlns="http://www.w3.org/2000/svg"
+								class="h-10 w-10"
+								fill="none"
+								viewBox="0 0 24 24"
+								stroke="currentColor"
+							>
+								<path
+									stroke-linecap="round"
+									stroke-linejoin="round"
+									stroke-width="3"
+									d="M5 13l4 4L19 7"></path>
+							</svg>
+							BIENVENIDO A LA RUTA
+						</div>
 					</div>
 				</div>
 			</section>
 		</main>
+
 		<Footer />
 	</body>
 </html>
-
-<style is:global>
-	.landing-page {
-		width: 100% !important;
-		max-width: 100% !important;
-		margin: 0 !important;
-		padding: 0 !important;
-	}
-</style>
-
-<style>
-	/* ----- HERO ----- */
-	.hero {
-		background: var(--gradient-hero);
-		min-height: 100vh;
-		display: flex;
-		align-items: center;
-		position: relative;
-		overflow: hidden;
-		padding: 8rem 2rem 6rem;
-	}
-	.hero::before {
-		content: "";
-		position: absolute;
-		inset: 0;
-		background:
-			radial-gradient(
-				circle at 70% 30%,
-				rgba(245, 158, 11, 0.15) 0%,
-				transparent 50%
-			),
-			radial-gradient(
-				circle at 20% 80%,
-				rgba(239, 68, 68, 0.08) 0%,
-				transparent 50%
-			);
-	}
-	.hero::after {
-		content: "";
-		position: absolute;
-		bottom: 0;
-		left: 0;
-		right: 0;
-		height: 120px;
-		background: linear-gradient(to top, var(--bg) 0%, transparent 100%);
-	}
-	.hero-inner {
-		max-width: 1200px;
-		margin: 0 auto;
-		width: 100%;
-		display: grid;
-		grid-template-columns: 1.1fr 0.9fr;
-		gap: 5rem;
-		align-items: center;
-		position: relative;
-		z-index: 2;
-	}
-	.hero-text {
-		color: #fff;
-	}
-	.hero-flag {
-		display: inline-flex;
-		align-items: center;
-		gap: 0.5rem;
-		margin-bottom: 2.5rem;
-	}
-	.flag-bar {
-		width: 44px;
-		height: 5px;
-		border-radius: 2px;
-	}
-	.flag-y {
-		background: var(--colombia-y);
-	}
-	.flag-b {
-		background: var(--colombia-b);
-	}
-	.flag-r {
-		background: var(--colombia-r);
-	}
-
-	.hero-title {
-		font-family: var(--font-heading);
-		font-size: clamp(3.5rem, 8vw, 6rem);
-		line-height: 0.95;
-		letter-spacing: -0.03em;
-		margin-bottom: 1.5rem;
-		font-weight: 400;
-	}
-	.hero-title .gold {
-		color: var(--colombia-y);
-	}
-	.hero-subtitle {
-		font-family: var(--font-heading);
-		font-style: italic;
-		font-size: 1.5rem;
-		color: rgba(255, 255, 255, 0.65);
-		margin-bottom: 1rem;
-		font-weight: 400;
-	}
-	.hero-desc {
-		font-size: 1.1rem;
-		color: rgba(255, 255, 255, 0.5);
-		max-width: 480px;
-		line-height: 1.7;
-		margin-bottom: 3rem;
-	}
-	.hero-cta {
-		display: flex;
-		gap: 1.25rem;
-		flex-wrap: wrap;
-	}
-
-	.btn {
-		display: inline-flex;
-		align-items: center;
-		gap: 0.6rem;
-		padding: 0.9rem 2rem;
-		border-radius: 50px;
-		font-weight: 700;
-		font-size: 0.95rem;
-		text-decoration: none;
-		border: none;
-		cursor: pointer;
-		transition: all 0.3s;
-		line-height: 1;
-		font-family: var(--font-body);
-		text-transform: uppercase;
-		letter-spacing: 0.05em;
-	}
-	.btn-gold {
-		background: var(--colombia-y);
-		color: var(--text);
-	}
-	.btn-gold:hover {
-		background: #fff;
-		transform: translateY(-2px);
-		box-shadow: 0 10px 30px rgba(245, 158, 11, 0.35);
-	}
-	.btn-glass {
-		background: rgba(255, 255, 255, 0.08);
-		color: #fff;
-		border: 1.5px solid rgba(255, 255, 255, 0.2);
-		backdrop-filter: blur(8px);
-	}
-	.btn-glass:hover {
-		background: rgba(255, 255, 255, 0.15);
-		border-color: rgba(255, 255, 255, 0.4);
-	}
-	.btn-r {
-		background: var(--colombia-r);
-		color: #fff;
-	}
-	.btn-r:hover {
-		transform: translateY(-2px);
-		box-shadow: 0 10px 30px rgba(239, 68, 68, 0.35);
-	}
-
-	.hero-cards {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
-		gap: 1.25rem;
-	}
-	.hero-card {
-		background: rgba(255, 255, 255, 0.06);
-		border: 1px solid rgba(255, 255, 255, 0.1);
-		border-radius: 24px;
-		padding: 2.5rem 1.5rem;
-		text-align: center;
-		backdrop-filter: blur(20px);
-		transition: all 0.4s ease;
-		color: #fff;
-	}
-	.hero-card:hover {
-		background: rgba(255, 255, 255, 0.1);
-		transform: translateY(-6px);
-		border-color: rgba(245, 158, 11, 0.3);
-	}
-	.hero-card.big {
-		grid-column: span 2;
-	}
-	.hero-card .num {
-		font-family: var(--font-heading);
-		font-size: 3rem;
-		color: var(--colombia-y);
-		display: block;
-		margin-bottom: 0.25rem;
-	}
-	.hero-card.big .num {
-		font-size: 4.5rem;
-	}
-	.hero-card .lbl {
-		font-size: 0.75rem;
-		color: rgba(255, 255, 255, 0.4);
-		text-transform: uppercase;
-		letter-spacing: 0.1em;
-	}
-
-	/* ----- SECTIONS CORE ----- */
-	.container {
-		max-width: 1200px;
-		margin: 0 auto;
-		padding: 0 1.5rem;
-	}
-	.section-head {
-		display: flex;
-		justify-content: space-between;
-		align-items: flex-end;
-		margin-bottom: 4rem;
-		padding-bottom: 1.25rem;
-		border-bottom: 2px solid var(--text);
-	}
-	.section-head h2 {
-		font-family: var(--font-heading);
-		font-size: 2.75rem;
-		font-weight: 400;
-	}
-	.section-head a {
-		font-size: 0.85rem;
-		font-weight: 700;
-		color: var(--colombia-gold);
-		text-decoration: none;
-		padding: 0.6rem 1.5rem;
-		border-radius: 50px;
-		border: 1.5px solid var(--colombia-gold);
-		transition: all 0.2s;
-		text-transform: uppercase;
-		letter-spacing: 0.05em;
-	}
-	.section-head a:hover {
-		background: var(--colombia-gold);
-		color: #fff;
-	}
-
-	.sec-label {
-		display: flex;
-		align-items: center;
-		gap: 0.75rem;
-		margin-bottom: 0.75rem;
-	}
-	.sec-label .dot {
-		width: 10px;
-		height: 10px;
-		border-radius: 50%;
-		background: var(--gradient-accent);
-	}
-	.sec-label span {
-		font-size: 0.75rem;
-		font-weight: 700;
-		text-transform: uppercase;
-		letter-spacing: 0.15em;
-		color: var(--text-muted);
-	}
-
-	/* ----- ARTICLES GRID REIMAGINED ----- */
-	.featured {
-		padding: 8rem 0;
-		background: var(--bg);
-	}
-	.articles-grid {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-		gap: 2.5rem;
-	}
-	.article-card {
-		background: var(--surface);
-		border: 1px solid var(--border);
-		border-radius: 20px;
-		overflow: hidden;
-		text-decoration: none;
-		color: inherit;
-		transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-		display: flex;
-		flex-direction: column;
-		height: 100%;
-		box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.03);
-	}
-	.article-card:hover {
-		transform: translateY(-8px);
-		box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
-		border-color: rgba(245, 158, 11, 0.4);
-	}
-	.article-image {
-		width: 100%;
-		aspect-ratio: 16/10;
-		overflow: hidden;
-		position: relative;
-	}
-	.article-image :global(img) {
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-		transition: transform 0.6s ease;
-	}
-	.article-card:hover .article-image :global(img) {
-		transform: scale(1.08);
-	}
-
-	/* Badge */
-	.card-badge {
-		position: absolute;
-		top: 1rem;
-		left: 1rem;
-		background: rgba(15, 23, 42, 0.85);
-		backdrop-filter: blur(8px);
-		color: #fff;
-		font-size: 0.7rem;
-		font-weight: 700;
-		padding: 0.35rem 0.85rem;
-		border-radius: 50px;
-		text-transform: uppercase;
-		letter-spacing: 0.08em;
-		z-index: 2;
-		border: 1px solid rgba(255, 255, 255, 0.1);
-	}
-
-	.article-content {
-		padding: 2rem;
-		display: flex;
-		flex-direction: column;
-		flex: 1;
-	}
-
-	.article-card h3 {
-		font-family: var(--font-heading);
-		font-size: 1.6rem;
-		font-weight: 400;
-		line-height: 1.2;
-		margin-bottom: 1rem;
-		color: var(--text);
-		transition: color 0.2s;
-	}
-	.article-card:hover h3 {
-		color: var(--colombia-gold);
-	}
-
-	.excerpt {
-		font-size: 1rem;
-		color: var(--text-muted);
-		line-height: 1.6;
-		margin-bottom: 2rem;
-		display: -webkit-box;
-		-webkit-line-clamp: 3;
-		-webkit-box-orient: vertical;
-		overflow: hidden;
-	}
-
-	.article-footer {
-		margin-top: auto;
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-		padding-top: 1.25rem;
-		border-top: 1px solid var(--border);
-	}
-
-	.meta-date {
-		display: flex;
-		align-items: center;
-		gap: 0.5rem;
-		font-size: 0.85rem;
-		font-weight: 500;
-		color: var(--text-muted);
-	}
-	.meta-date svg {
-		color: var(--colombia-gold);
-	}
-
-	.read-more {
-		font-size: 0.9rem;
-		font-weight: 700;
-		color: var(--text);
-		display: flex;
-		align-items: center;
-		gap: 0.5rem;
-		transition: gap 0.2s;
-	}
-	.read-more .arrow {
-		color: var(--colombia-gold);
-	}
-	.article-card:hover .read-more {
-		gap: 0.75rem;
-		color: var(--colombia-gold);
-	}
-
-	/* ----- PROPUESTAS ----- */
-	.propuestas {
-		padding: 8rem 0;
-		background: linear-gradient(180deg, var(--bg) 0%, #f1f5f9 100%);
-	}
-	.props-grid {
-		display: grid;
-		grid-template-columns: repeat(2, 1fr);
-		gap: 2rem;
-	}
-	.prop-card {
-		background: var(--surface);
-		border: 1px solid var(--border);
-		border-radius: 24px;
-		padding: 3rem 2.5rem;
-		position: relative;
-		display: flex;
-		gap: 2rem;
-		align-items: flex-start;
-		transition: all 0.4s ease;
-		overflow: hidden;
-	}
-	.prop-card:hover {
-		transform: translateY(-6px);
-		box-shadow: 0 15px 40px rgba(0, 0, 0, 0.05);
-	}
-	.prop-card::before {
-		content: "";
-		position: absolute;
-		top: 0;
-		left: 0;
-		bottom: 0;
-		width: 5px;
-		background: var(--gradient-accent);
-		opacity: 0;
-		transition: opacity 0.3s;
-	}
-	.prop-card:hover::before {
-		opacity: 1;
-	}
-	.prop-icon-wrap {
-		width: 60px;
-		height: 60px;
-		border-radius: 18px;
-		background: linear-gradient(
-			135deg,
-			rgba(245, 158, 11, 0.12),
-			rgba(239, 68, 68, 0.08)
-		);
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		flex-shrink: 0;
-		color: var(--colombia-gold);
-		transition: all 0.4s;
-	}
-	.prop-card:hover .prop-icon-wrap {
-		background: var(--gradient-accent);
-		color: #fff;
-	}
-	.prop-content .num {
-		font-size: 0.7rem;
-		font-weight: 800;
-		color: var(--colombia-gold);
-		text-transform: uppercase;
-		letter-spacing: 0.12em;
-		margin-bottom: 0.5rem;
-	}
-	.prop-content h3 {
-		font-family: var(--font-heading);
-		font-size: 1.5rem;
-		margin-bottom: 0.5rem;
-		font-weight: 400;
-	}
-	.prop-content p {
-		font-size: 1rem;
-		color: var(--text-muted);
-		line-height: 1.6;
-	}
-
-	/* ----- TIMELINE ----- */
-	.timeline-section {
-		padding: 8rem 0;
-	}
-	.tl-grid {
-		display: grid;
-		grid-template-columns: repeat(4, 1fr);
-		gap: 1.5rem;
-	}
-	.tl-card {
-		background: var(--surface);
-		border: 1px solid var(--border);
-		border-radius: 24px;
-		padding: 3rem 2rem;
-		text-align: center;
-		transition: all 0.4s ease;
-		position: relative;
-		overflow: hidden;
-	}
-	.tl-card:hover {
-		transform: translateY(-6px);
-		box-shadow: 0 15px 40px rgba(0, 0, 0, 0.05);
-	}
-	.tl-card::after {
-		content: "";
-		position: absolute;
-		bottom: 0;
-		left: 0;
-		right: 0;
-		height: 4px;
-		background: var(--gradient-accent);
-		opacity: 0;
-		transition: opacity 0.3s;
-	}
-	.tl-card:hover::after {
-		opacity: 1;
-	}
-	.tl-year {
-		font-family: var(--font-heading);
-		font-size: 2.5rem;
-		color: var(--colombia-gold);
-		margin-bottom: 1rem;
-	}
-	.tl-card h4 {
-		font-family: var(--font-heading);
-		font-size: 1.25rem;
-		font-weight: 400;
-		margin-bottom: 0.75rem;
-	}
-	.tl-card p {
-		font-size: 0.9rem;
-		color: var(--text-muted);
-		line-height: 1.6;
-	}
-
-	/* ----- PHILOSOPHY SECTION ----- */
-	.philosophy-section {
-		padding: 8rem 0;
-		background: var(--bg);
-	}
-	.philosophy-inner {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
-		gap: 5rem;
-		align-items: center;
-	}
-	.philosophy-content .sec-label {
-		margin-bottom: 1.5rem;
-	}
-	.philosophy-content h2 {
-		font-family: var(--font-heading);
-		font-size: 3rem;
-		font-weight: 400;
-		margin-bottom: 2rem;
-		color: var(--text);
-	}
-	.philosophy-lead {
-		font-size: 1.25rem;
-		color: var(--text);
-		line-height: 1.7;
-		margin-bottom: 1.5rem;
-		font-weight: 500;
-	}
-	.philosophy-content p {
-		font-size: 1rem;
-		color: var(--text-muted);
-		line-height: 1.8;
-		margin-bottom: 1.5rem;
-	}
-	.philosophy-image {
-		position: relative;
-	}
-	.philosophy-image img {
-		width: 100%;
-		max-width: 450px;
-		border-radius: 24px;
-		box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
-	}
-
-	/* ----- GRAN COLOMBIA PREVIEW ----- */
-	.gran-colombia-preview {
-		padding: 8rem 0;
-		background: linear-gradient(180deg, #f1f5f9 0%, var(--bg) 100%);
-	}
-	.gc-content {
-		background: var(--surface);
-		border: 1px solid var(--border);
-		border-radius: 24px;
-		padding: 3rem;
-	}
-	.gc-quote {
-		font-family: var(--font-heading);
-		font-size: 1.75rem;
-		font-style: italic;
-		color: var(--text);
-		line-height: 1.5;
-		margin-bottom: 3rem;
-		padding-left: 2rem;
-		border-left: 4px solid var(--colombia-gold);
-	}
-	.gc-points {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-		gap: 2rem;
-	}
-	.gc-point {
-		padding: 1.5rem;
-		background: var(--bg);
-		border-radius: 16px;
-	}
-	.gc-num {
-		display: block;
-		font-family: var(--font-heading);
-		font-size: 2rem;
-		color: var(--colombia-gold);
-		margin-bottom: 1rem;
-	}
-	.gc-point h4 {
-		font-family: var(--font-heading);
-		font-size: 1.1rem;
-		font-weight: 400;
-		margin-bottom: 0.75rem;
-		color: var(--text);
-	}
-	.gc-point p {
-		font-size: 0.9rem;
-		color: var(--text-muted);
-		line-height: 1.6;
-	}
-
-	/* ----- CTA ----- */
-	.cta-section {
-		padding: 10rem 2rem;
-		text-align: center;
-		position: relative;
-		overflow: hidden;
-		background: var(--gradient-hero);
-		color: #fff;
-	}
-	.cta-section::before {
-		content: "";
-		position: absolute;
-		inset: 0;
-		background: radial-gradient(
-			circle at 50% 50%,
-			rgba(245, 158, 11, 0.12) 0%,
-			transparent 60%
-		);
-	}
-	.cta-inner {
-		position: relative;
-		max-width: 700px;
-		margin: 0 auto;
-		z-index: 2;
-	}
-	.cta-inner h2 {
-		font-family: var(--font-heading);
-		font-size: clamp(2.5rem, 6vw, 4rem);
-		line-height: 1.1;
-		margin-bottom: 1.5rem;
-		font-weight: 400;
-	}
-	.cta-inner h2 .gold {
-		color: var(--colombia-y);
-	}
-	.cta-inner .sub {
-		font-size: 1.25rem;
-		color: rgba(255, 255, 255, 0.6);
-		margin-bottom: 4rem;
-	}
-	.cta-btns {
-		display: flex;
-		gap: 1.5rem;
-		justify-content: center;
-		flex-wrap: wrap;
-		margin-bottom: 5rem;
-	}
-
-	.nl-box {
-		max-width: 500px;
-		margin: 0 auto;
-		background: rgba(255, 255, 255, 0.05);
-		border: 1px solid rgba(255, 255, 255, 0.1);
-		border-radius: 30px;
-		padding: 2.5rem;
-		backdrop-filter: blur(15px);
-	}
-	.nl-box p {
-		color: rgba(255, 255, 255, 0.5);
-		font-size: 0.95rem;
-		margin-bottom: 1.5rem;
-	}
-	.nl-form {
-		display: flex;
-		gap: 0.75rem;
-	}
-	.nl-form input {
-		flex: 1;
-		padding: 1rem 1.75rem;
-		border: 1.5px solid rgba(255, 255, 255, 0.15);
-		border-radius: 50px;
-		background: rgba(255, 255, 255, 0.06);
-		color: #fff;
-		font-family: var(--font-body);
-		font-size: 1rem;
-		outline: none;
-		transition: border-color 0.3s;
-	}
-	.nl-form input:focus {
-		border-color: var(--colombia-y);
-	}
-	.nl-form input::placeholder {
-		color: rgba(255, 255, 255, 0.3);
-	}
-
-	/* ----- RESPONSIVE ----- */
-	@media (max-width: 1024px) {
-		.hero-inner {
-			grid-template-columns: 1fr;
-			gap: 4rem;
-			text-align: center;
-		}
-		.hero-desc {
-			margin-left: auto;
-			margin-right: auto;
-		}
-		.hero-cta {
-			justify-content: center;
-		}
-		.hero-flag {
-			justify-content: center;
-		}
-		.hero-cards {
-			max-width: 500px;
-			margin: 0 auto;
-		}
-		.articles-grid {
-			grid-template-columns: repeat(2, 1fr);
-		}
-		.tl-grid {
-			grid-template-columns: repeat(2, 1fr);
-		}
-		.philosophy-inner {
-			grid-template-columns: 1fr;
-			gap: 3rem;
-		}
-		.philosophy-image {
-			order: -1;
-			text-align: center;
-		}
-		.gc-points {
-			grid-template-columns: 1fr;
-		}
-	}
-	@media (max-width: 768px) {
-		.hero-title {
-			font-size: 3.5rem;
-		}
-		.section-head {
-			flex-direction: column;
-			gap: 1.5rem;
-			align-items: flex-start;
-		}
-		.articles-grid {
-			grid-template-columns: 1fr;
-		}
-		.props-grid {
-			grid-template-columns: 1fr;
-		}
-		.nl-form {
-			flex-direction: column;
-		}
-		.nl-form input {
-			width: 100%;
-		}
-		.tl-grid {
-			grid-template-columns: 1fr;
-		}
-		.philosophy-content h2 {
-			font-size: 2.25rem;
-		}
-		.gc-quote {
-			font-size: 1.35rem;
-		}
-	}
-</style>

@@ -5,12 +5,12 @@ pubDate: "2022-07-19 00:24:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/uribe-amplio-indagatoria-fiscalia-lo-acusa-o-lo-absuelve/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/07/uribe-amplio-indagatoria-fiscalia-lo-acusa-o-lo-absuelve/hero.jpg
 ---
 
 Después de rendir indagatoria en el día de hoy por más de cuatro horas, la Fiscalía debe definir si acusa o absuelve al expresidente **Álvaro Uribe Vélez**. **Esta decisión debe tomarla antes de que se venzan los términos.** El también líder del Centro Democrático lo interrogó el fiscal delegado ante la Corte Suprema de Justicia, **Javier Fernando Cárdenas Pérez**. La sesión, que fue presencial en el búnker de la institución en Bogotá, duró cuatro horas.
 
-![A Uribe, la Fiscalía ¿lo acusa o lo absuelve?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/uribe-amplio-indagatoria-fiscalia-lo-acusa-o-lo-absuelve/hero.jpg)
+![A Uribe, la Fiscalía ¿lo acusa o lo absuelve?](s3://bundled-saddlebag-tnqki7w/2022/07/uribe-amplio-indagatoria-fiscalia-lo-acusa-o-lo-absuelve/hero.jpg)
 *Uribe amplió indagatoria. Ahora la Fiscalía ¿lo acusa o lo absuelve?*
 
 ## Uribe amplió indagatoria y se corta el vencimiento de términos

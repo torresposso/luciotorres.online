@@ -5,10 +5,10 @@ pubDate: "2023-01-23 13:15:31"
 author: "Lucio"
 categories: ["Análisis","Investigación","Nueva Generación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/los-ricos-del-pae-desercion-y-corrupcion-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/01/los-ricos-del-pae-desercion-y-corrupcion-i/hero.jpg
 ---
 
-![Este es el complemento alimentario que se entrega en algunas partes. Los nuevos ricos del PAE.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/los-ricos-del-pae-desercion-y-corrupcion-i/hero.jpg)
+![Este es el complemento alimentario que se entrega en algunas partes. Los nuevos ricos del PAE.](s3://bundled-saddlebag-tnqki7w/2023/01/los-ricos-del-pae-desercion-y-corrupcion-i/hero.jpg)
 *Este es el complemento alimentario que se entrega en algunas partes. Los nuevos ricos del PAE. Cortesía.*
 
 Los nuevos **ricos del PAE**, quizás, es el único objetivo alcanzado con el Programa de Alimentación Escolar desde que fue creado por el **presidente Juan Manuel Santos en 2011**. La deserción escolar nacional se remontó en **5,5%**, según el DANE 2022. La mayoría del territorio no ha detenido el problema que lo justificó: **la deserción y desaprobación escolar**. Por el contrario, hay más niños que sufren la desescolarización y padecen el profundo azote del siglo XXI: **el hambre.** Por tanto, la bolsa de más de $2 billones del PAE 2023 promete profundizar los tres problemas detectados en esta investigación y análisis periodístico: **deserción, hambre y corrupción**.
@@ -19,14 +19,14 @@ Según el DANE, el sistema educativo **colombiano** tiene **206.260 sillas vac
 
 ## Al oído de Gaviria y Correa
 
-![Ante el Ministro de Educación, Alejandro Gaviria, se posesionó el director de la Unidad Administrativa Especial de Alimentación Escolar - Alimentos para Aprender (UAPA). ¿Acabará con los ricos del PAE?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/los-ricos-del-pae-desercion-y-corrupcion-i/Ministro-de-educacion.jpg)
+![Ante el Ministro de Educación, Alejandro Gaviria, se posesionó el director de la Unidad Administrativa Especial de Alimentación Escolar - Alimentos para Aprender (UAPA). ¿Acabará con los ricos del PAE?](s3://bundled-saddlebag-tnqki7w/2023/01/los-ricos-del-pae-desercion-y-corrupcion-i/Ministro-de-educacion.jpg)
 *Ante el Ministro de Educación, Alejandro Gaviria, se posesionó el director de la Unidad Administrativa Especial de Alimentación Escolar - Alimentos para Aprender (UAPA). ¿Acabará con los ricos del PAE?*
 
 Esta investigación periodística está dirigida al público en general. Pero se llama la atención al presidente Gustavo Petro, al ministro de Educación NacionaL, Alejandro Gaviria y al director de la Unidad Administrativa Especial de Alimentación Escolar - Alimentos para Aprender (**UAPA**), la entidad rectora del Programa de Alimentación Escolar, PAE. Se trata del médico y magíster en Salud Pública, **Luis Fernando Correa Serna**.
 
 ## Los ricos del PAE en el Caribe
 
-![Aquí la gobernadora del Atlántico Elsa Noguera y su Secretaria de Educación lanzando el programa de Laboratorios de Innovación. Con Elsa nació en Atlántico el modelo de contratación del PAE. Los ricos del PAE.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/los-ricos-del-pae-desercion-y-corrupcion-i/Elsa-y-Monica-Atlantico.jpg)
+![Aquí la gobernadora del Atlántico Elsa Noguera y su Secretaria de Educación lanzando el programa de Laboratorios de Innovación. Con Elsa nació en Atlántico el modelo de contratación del PAE. Los ricos del PAE.](s3://bundled-saddlebag-tnqki7w/2023/01/los-ricos-del-pae-desercion-y-corrupcion-i/Elsa-y-Monica-Atlantico.jpg)
 *Aquí la gobernadora del Atlántico Elsa Noguera y su Secretaria de Educación Catalina Ucros lanzando el programa de Laboratorios de Innovación. Con Elsa nació en Atlántico el modelo de contratación del PAE dominante.*
 
 En todo el país se reproducen los patrones criminales que se presume. Después de esta investigación dejará de ser una presunción para convertirse en una afirmación. Pero en el Caribe colombiano la situación es más lamentable. Atlántico, Magdalena, Sucre, Córdoba, La Guajira, San Andrés Isla, Cesar y Bolívar. La situación es más grave en el Atlántico, ya que allí nació este modelo de robo de los dineros públicos del PAE. **El sistema allí creado fue para robar no para resolver la deserción escolar**. Todo lo hacen con una aparente legalidad. Cumplen los procesos de calidad formalmente, aunque su contenido sea vacuo.

@@ -5,10 +5,10 @@ pubDate: "2022-02-05 01:12:05"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/lo-que-el-incendio-se-llevo-en-bayunca-y-el-alcalde-callado/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/02/lo-que-el-incendio-se-llevo-en-bayunca-y-el-alcalde-callado/hero.jpg
 ---
 
-![Lo que el incendio se llevó en Bayunca y el alcalde callado](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/lo-que-el-incendio-se-llevo-en-bayunca-y-el-alcalde-callado/incendio-bayunca.jpeg)
+![Lo que el incendio se llevó en Bayunca y el alcalde callado](s3://bundled-saddlebag-tnqki7w/2022/02/lo-que-el-incendio-se-llevo-en-bayunca-y-el-alcalde-callado/incendio-bayunca.jpeg)
 *Los sueños de tener casa propia quedaron reducidos a cenizas. Lo que el incendio se llevó: cinco casas y los sueños de 17 personas. Ocho días después, la alcaldía los olvidó.*
 
 Lo que el incendio se llevó en Bayunca fue la esperanza y el sueño de cinco familias que habían construido sus míseras viviendas con su esfuerzo. El sueño de tener casa propia y construida con el sudor de sus frentes, literal, quedaron reducidas a cenizas a las 2 de la madrugada del 29 de enero. Desde esa fecha, **el gran ausente es la alcaldía del Distrito de Cartagena**. Así lo denuncian dos de las 17 víctimas, Y**adira Ballesteros y Wilfrido Cáseres** en este audiovisual de **VoxPopuli Digital** que está adjunto al artículo.  
@@ -27,7 +27,7 @@ Desde ese fatídico día, las víctimas no le han visto ni el forro a los profes
 
 ## Dau y Abello
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/lo-que-el-incendio-se-llevo-en-bayunca-y-el-alcalde-callado/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/02/lo-que-el-incendio-se-llevo-en-bayunca-y-el-alcalde-callado/hero.jpg)
 *La inutilidad de una oficina que no atiende los diferentes frentes de las víctimas de los últimos desastres en Cartagena. Lo que el incendio se llevó y la desesperanza de esta oficina a cargo de Fernando Abello Rubiano.*
 
 Son 17 víctimas, entre adultos y menores de edad que Abello Rubiano tiene olvidado. La alcaldía cree que con llevarles algunos kits y mercaditos puede resolver el problema de los damnificados de este incendio. La situación amerita una atención integral: salud, trabajo, vivienda y ayuda humanitaria urgente.

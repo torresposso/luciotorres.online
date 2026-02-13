@@ -5,10 +5,10 @@ pubDate: "2021-04-24 18:56:24"
 author: "Lucio"
 categories: ["Barranquilla"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/los-ninos-y-la-salud-mental-prioridad-del-atlantico-con-vida/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/04/los-ninos-y-la-salud-mental-prioridad-del-atlantico-con-vida/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/los-ninos-y-la-salud-mental-prioridad-del-atlantico-con-vida/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/04/los-ninos-y-la-salud-mental-prioridad-del-atlantico-con-vida/hero.jpg)
 *Charlas en vivo sobre diferentes manifestaciones del arte. «Atlántico con vida».*
 
 Los niños y la salud mental son prioridad de **«Atlántico con vida»**. Es la estrategia que esta semana está impulsando la gobernadora **Elsa Noguera de la Espriella** a través de sus redes sociales. Estas actividades se realizarán a través de las redes sociales de la Gobernación, su Secretaría de Cultura y Patrimonio y la Gerencia de Capital Social.  
@@ -27,7 +27,7 @@ La estrategia **«Atlántico con vida»** busca despertar el interés por hábit
 
 ## El Día de los Niños desde casa
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/los-ninos-y-la-salud-mental-prioridad-del-atlantico-con-vida/ninos.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/04/los-ninos-y-la-salud-mental-prioridad-del-atlantico-con-vida/ninos.jpg)
 
 Por su parte, la Secretaría de Cultura y Patrimonio del Atlántico se suma a esta iniciativa con las actividades de **_‘Cultura en casa’_**, con la conmemoración del **Día del Idioma**, espacios de música, baile, cuentos y cocina en vivo, sintonizados con la celebración del **Día de los Niños**. Esta estrategia brinda una plataforma para visibilizar el talento de los artistas y gestores culturales del Atlántico y reactivar el sector artístico en medio de la pandemia. 
 
@@ -37,7 +37,7 @@ Por su parte, la Secretaría de Cultura y Patrimonio del Atlántico se suma a es
 
 ## Crianza amorosa
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/los-ninos-y-la-salud-mental-prioridad-del-atlantico-con-vida/gobernacion-del-atlantico.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/04/los-ninos-y-la-salud-mental-prioridad-del-atlantico-con-vida/gobernacion-del-atlantico.jpg)
 
 Por su parte, la **Gerencia de Capital Social** inició desde la semana pasada la conmemoración dedicada a la primera infancia. Tiene una agenda virtual recreativa y lúdica a la que se conectaron más 400 personas en el primer día. También efectuó, durante tres días, el primer Seminario de Voluntarios por una **Crianza Amorosa y Segura**. Los voluntarios son docentes, madres comunitarias, líderes sociales y ludotecarios. A esta convocatoria abierta se inscribieron más de 900 personas de los municipios. 
 

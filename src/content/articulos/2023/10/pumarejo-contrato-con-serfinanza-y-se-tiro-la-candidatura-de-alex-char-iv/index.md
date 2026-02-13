@@ -5,10 +5,10 @@ pubDate: "2023-10-13 23:01:25"
 author: "Lucio"
 categories: ["Análisis","Barranquilla"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/pumarejo-contrato-con-serfinanza-y-se-tiro-la-candidatura-de-alex-char-iv/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/10/pumarejo-contrato-con-serfinanza-y-se-tiro-la-candidatura-de-alex-char-iv/hero.jpg
 ---
 
-![Esta es la vicepresidenta del Consejo Nacional Electoral (CNE), Maritza Martínez Aristizábal, magistrada ponente de la investigación de la presunta inhabilidad de Alejandro Char. Es vargallerista de corazón, participó en la coalición con Cambio Radical para apoyar a Vargas Lleras y, probablemente, le hizo campaña al  investigado en la consulta de las presidenciales. ¿Decidirá en derecho?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/pumarejo-contrato-con-serfinanza-y-se-tiro-la-candidatura-de-alex-char-iv/hero.jpg)
+![Esta es la vicepresidenta del Consejo Nacional Electoral (CNE), Maritza Martínez Aristizábal, magistrada ponente de la investigación de la presunta inhabilidad de Alejandro Char. Es vargallerista de corazón, participó en la coalición con Cambio Radical para apoyar a Vargas Lleras y, probablemente, le hizo campaña al  investigado en la consulta de las presidenciales. ¿Decidirá en derecho?](s3://bundled-saddlebag-tnqki7w/2023/10/pumarejo-contrato-con-serfinanza-y-se-tiro-la-candidatura-de-alex-char-iv/hero.jpg)
 *Esta es la vicepresidenta del Consejo Nacional Electoral (CNE), Maritza Martínez Aristizábal, magistrada ponente de la investigación de la presunta inhabilidad de Alejandro Char. Es vargallerista de corazón, como senador participó en la coalición con Cambio Radical para apoyar a Vargas Lleras y, probablemente, a su investigado en la consulta de las presidenciales. ¿Decidirá en derecho?*
 
 **Alejandro Char Chaljub** _está mordido de culebra_, metafóricamente hablando. Está cabrero porque no entiende al alcalde **Jaime Pumarejo Heinz**, quien, al parecer, contrató co**n Serfinanza** para manejar los recursos del Fondo de Estabilización Tarifaria, cuyo dinero proviene del Distrito de Barranquilla y de la nación. Pero, lo hecho, hecho está. No hay nada que hacer. Este negocio de su banco con el distrito lo inhabilita para aspirar a la alcaldía.
@@ -53,4 +53,4 @@ No se trata de la apertura de una cuenta bancaria de un cliente ordinario. No. P
 
 Ese dinero enviado por el ministro Bonilla llegó a una cuenta fantasma de Transmetro en Serfinanza que estaba embargada. Como ya se dijo, algunas de ellas las abrieron este año. Y aquí comenzó el calvario para Alejandro Char.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/pumarejo-contrato-con-serfinanza-y-se-tiro-la-candidatura-de-alex-char-iv/image-1.png)
+![](s3://bundled-saddlebag-tnqki7w/2023/10/pumarejo-contrato-con-serfinanza-y-se-tiro-la-candidatura-de-alex-char-iv/image-1.png)

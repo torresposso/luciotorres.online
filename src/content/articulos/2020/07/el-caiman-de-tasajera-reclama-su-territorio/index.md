@@ -5,10 +5,10 @@ pubDate: "2020-07-13 01:40:23"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/el-caiman-de-tasajera-reclama-su-territorio/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2020/07/el-caiman-de-tasajera-reclama-su-territorio/hero.jpg
 ---
 
-\[caption id="attachment\_12037" align="alignnone" width="980"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/el-caiman-de-tasajera-reclama-su-territorio/caiman-de-tasajera.jpeg) _El caimán de Tasajera. Uno así se le atravesó al conductor del carro cisterna siniestrado. Cortesía._\[/caption\]
+\[caption id="attachment\_12037" align="alignnone" width="980"\]![](s3://bundled-saddlebag-tnqki7w/2020/07/el-caiman-de-tasajera-reclama-su-territorio/caiman-de-tasajera.jpeg) _El caimán de Tasajera. Uno así se le atravesó al conductor del carro cisterna siniestrado. Cortesía._\[/caption\]
 
 **El caimán de Tasajera** (isla de Salamanca) regresó muy tarde a su hábitat. Según el conductor del fatídico camión cisterna —**_placas_ WGV-913**— **Manuel Castaño**, a las 7:30 de la mañana del 6 de julio de 2020 avistó a la babilla. Su instinto de vida lo llevó a girar con fuerza la cabrilla. Invadió la berma. El pesado vehículo con **5.950 litros de gasolina quedó volcado lateralmente**. Pero no explotó... por lo menos en los próximos 10 minutos. 
 
@@ -16,7 +16,7 @@ Ese día Manuel Castaño salió muy temprano desde Barranquilla. Pero el caimán
 
 ## La tragedia
 
-\[caption id="attachment\_12039" align="alignnone" width="720"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/el-caiman-de-tasajera-reclama-su-territorio/hero.jpg) Los dos agentes que se retiraron antes de la explosión. Cortesía.\[/caption\]
+\[caption id="attachment\_12039" align="alignnone" width="720"\]![](s3://bundled-saddlebag-tnqki7w/2020/07/el-caiman-de-tasajera-reclama-su-territorio/hero.jpg) Los dos agentes que se retiraron antes de la explosión. Cortesía.\[/caption\]
 
 El conductor del vehículo salió con golpes y rasguños. No así **70 habitantes de Tasajera**, municipio de Pueblo Viejo.  Las estadísticas de víctimas fatales crece todos los días.
 
@@ -52,7 +52,7 @@ Esas élites se aliaron con la **Unite Fruit Company** que propició una econom�
 
 ## El 4° más pobre
 
-\[caption id="attachment\_12040" align="aligncenter" width="418"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/07/el-caiman-de-tasajera-reclama-su-territorio/Caicedo-tasajera.jpg) El gobernador del Magdalena, Carlos Caícedo, decretó 3 días de duelo.\[/caption\]
+\[caption id="attachment\_12040" align="aligncenter" width="418"\]![](s3://bundled-saddlebag-tnqki7w/2020/07/el-caiman-de-tasajera-reclama-su-territorio/Caicedo-tasajera.jpg) El gobernador del Magdalena, Carlos Caícedo, decretó 3 días de duelo.\[/caption\]
 
 El departamento del Magdalena tiene una riqueza diversa en su naturaleza y su cultura. Pero es un pueblo olvidado y empobrecido por una clase política y empresarial afanada por el **_dinero malhabido_**.
 

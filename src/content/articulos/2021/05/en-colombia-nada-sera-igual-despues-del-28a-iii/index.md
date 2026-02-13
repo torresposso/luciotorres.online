@@ -5,7 +5,7 @@ pubDate: "2021-05-18 23:39:50"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/en-colombia-nada-sera-igual-despues-del-28a-iii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/05/en-colombia-nada-sera-igual-despues-del-28a-iii/hero.jpg
 ---
 
 > _Ya viene la galana **primavera**_  

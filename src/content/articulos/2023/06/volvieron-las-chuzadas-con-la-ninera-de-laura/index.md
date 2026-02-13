@@ -5,10 +5,10 @@ pubDate: "2023-06-02 02:11:34"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/volvieron-las-chuzadas-con-la-ninera-de-laura/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/06/volvieron-las-chuzadas-con-la-ninera-de-laura/hero.jpg
 ---
 
-![¿Volvieron las chuzadas con la niñera de Laura?. Aquí el fiscal Fracisco Barbosa acompañado de la vicefiscal Marta Mancera y otros/Fiscalía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/volvieron-las-chuzadas-con-la-ninera-de-laura/hero.jpg)
+![¿Volvieron las chuzadas con la niñera de Laura?. Aquí el fiscal Fracisco Barbosa acompañado de la vicefiscal Marta Mancera y otros/Fiscalía.](s3://bundled-saddlebag-tnqki7w/2023/06/volvieron-las-chuzadas-con-la-ninera-de-laura/hero.jpg)
 *¿Volvieron las chuzadas con la niñera de Laura?. Aquí el fiscal Fracisco Barbosa acompañado de la vicefiscal Marta Mancera y otros/Fiscalía.*
 
 ¿Volvieron las chuzadas con la niñera de Laura? Es la pregunta que el fiscal general, **Francisco Barbosa** se hizo en el día de hoy en rueda de prensa. En este sentido, sigue creciendo la bola de nieve. Ahora se puso al descubierto una forma criminal de la Policía Nacional para chuzar a supuestos enemigos, como en este caso de la jefe de gabinete **Laura Sarabia Torres** contra su niñera Marelbys Meza. Es la típica práctica criminal utilizada impunemente por **Álvaro Uribe** durante su período presidencial 2002-2010 contra la Corte Suprema de Justicia, periodistas y líderes de oposición.

@@ -1,0 +1,53 @@
+---
+interface Props {
+    target: number;
+    label: string;
+    suffix?: string;
+}
+
+const { target, label, suffix = "" } = Astro.props;
+---
+
+<div
+    class="text-center p-6 bg-base-100 rounded-lg shadow-sm"
+    x-data={`{
+    count: 0,
+    target: ${target},
+    duration: 2000,
+    intersected: false,
+    
+    init() {
+      const observer = new IntersectionObserver((entries) => {
+        if (entries[0].isIntersecting && !this.intersected) {
+          this.intersected = true;
+          this.animate();
+        }
+      });
+      observer.observe(this.$el);
+    },
+    
+    animate() {
+      const startTime = performance.now();
+      const step = (currentTime) => {
+        const elapsed = currentTime - startTime;
+        const progress = Math.min(elapsed / this.duration, 1);
+        
+        // Easing function for smooth animation
+        const easeOutQuad = (t) => t * (2 - t);
+        
+        this.count = Math.floor(easeOutQuad(progress) * this.target);
+        
+        if (progress < 1) {
+          requestAnimationFrame(step);
+        }
+      };
+      
+      requestAnimationFrame(step);
+    }
+  }`}
+>
+    <div class="text-4xl font-bold text-primary mb-2 font-heading">
+        <span x-text="count.toLocaleString()">0</span>{suffix}
+    </div>
+    <div class="text-base-content/70 font-medium">{label}</div>
+</div>

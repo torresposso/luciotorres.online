@@ -5,10 +5,10 @@ pubDate: "2023-12-23 23:18:45"
 author: "Lucio"
 categories: ["Crónica","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/el-despojo-de-baru-por-santo-domingo-y-la-vida-del-restituidor/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/12/el-despojo-de-baru-por-santo-domingo-y-la-vida-del-restituidor/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/el-despojo-de-baru-por-santo-domingo-y-la-vida-del-restituidor/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/12/el-despojo-de-baru-por-santo-domingo-y-la-vida-del-restituidor/hero.jpg)
 *Héctor Pérez Fernández fue un puntal fundamental para que la SAE le adjudicara la finca Cachenche a los campesinos.*
 
 El despojo de Barú y el peligro de ser restituidor de **tierra despojada** encaja perfectamente en el perfil de **Héctor Pérez Fernández**, abogado con 30 años de ejercicio en la defensa de los derechos humanos. Tiene dos propósito para el 2024 en materia de restitución. La primera, recuperar la Hacienda Santa Ana en Barú en poder **Valorem**. El segundo, restituir las tierras de la familia Hernández en poder de la Fundación Santo Domingo.
@@ -29,7 +29,7 @@ Te puede interesar: [Despojo secular, tensión y miedo en Barú (III)](/articulo
 
 ## Colombia: 185 homicidios de líderes sociales
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/el-despojo-de-baru-por-santo-domingo-y-la-vida-del-restituidor/Bavaria_postobon.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/12/el-despojo-de-baru-por-santo-domingo-y-la-vida-del-restituidor/Bavaria_postobon.jpg)
 *Según Salvatore Mancuso, los Santo Domingo son parte de los despojadores que financiaron a las Autodefensas Unidas de Colombia para ocasionar delitos de lesa humanidad.*
 
 En los próximos 7 días que resta de año, podrían morir 3 defensores de derechos humanos y líderes sociales. Las frías estadísticas nos dicen que hasta ahora son [**185 homicidios de restituidores de tierra**, líderes sociales y defensores de derechos humanos](/articulos/lideres-sociales-defensores-de-dd-hh-y-firmantes-de-acuerdo-asesinados-en-2023/). Estas estadísticas fueron recopiladas por Indepaz. Por esta razón, **Amnistía Internacional** (2023) dice que Colombia es uno de los países más peligroso para los defensores de derechos humanos.
@@ -42,7 +42,7 @@ Te puede interesar: [Despojadores de Barú: ¿Estado, Santo Domingo y Echavarrí
 
 ## El despojo de Barú
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/el-despojo-de-baru-por-santo-domingo-y-la-vida-del-restituidor/Los-despojados.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2023/12/el-despojo-de-baru-por-santo-domingo-y-la-vida-del-restituidor/Los-despojados.jpeg)
 *Los despojados. Así quedaron los Hernandez después que la Policía los desalojara ilegalmente de sus legítimas tierras.*
 
 **Pablo Obregón González**, quien trabajó en esa la época para la familia Santo Domingo, desde los años 60 se fue apropiándo irregularmente predios en Barú, especialmente de la hacienda Santa Ana. Utilizaba prescripciones agrarias, ordinarias, extraordinarias sin demostrar posesión real de los predios.

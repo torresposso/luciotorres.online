@@ -5,10 +5,10 @@ pubDate: "2023-12-17 14:53:08"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 tags: ["Alcaldía de Cartagena","el buitre","William Dau"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/un-psicopata-en-la-alcaldia-la-autodestruccion-de-cartagena-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/12/un-psicopata-en-la-alcaldia-la-autodestruccion-de-cartagena-i/hero.jpg
 ---
 
-![Un psicópata en la alcaldía. Las 40 malandrinadas](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/un-psicopata-en-la-alcaldia-la-autodestruccion-de-cartagena-i/hero.jpg)
+![Un psicópata en la alcaldía. Las 40 malandrinadas](s3://bundled-saddlebag-tnqki7w/2023/12/un-psicopata-en-la-alcaldia-la-autodestruccion-de-cartagena-i/hero.jpg)
 *Un psicópata en la alcaldía: la autodestrucción de Cartagena. Se fumó el presupuesto.*
 
 En síntesis, **William Dau** pasó de autodenominarse _el Tractor_ a ser una _carretilla trabada_: **Un psicópata en la alcaldía** de Cartagena. Asqueado de la crisis de gobernabilidad y de una percepción de alta corrupción, **hace 4 años el 84%** de los cartageneros expresó que **la ciudad va por mal camino**. En diciembre de 2019 la mayoría se ilusionó de que se iba a salir del atolladero con el nuevo alcalde que le prometía _mocharle_ la cabeza a _los malandrines_.
@@ -27,7 +27,7 @@ Te puede interesar: [El alcalde le hizo pistola a Cartagena: un año perdido](/a
 
 ## El dominio hegemónico y el odio
 
-![Un psicópata en la alcaldía. Ceremonia de la Armada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/un-psicopata-en-la-alcaldia-la-autodestruccion-de-cartagena-i/william-dau_despedida-scaled-1.jpg)
+![Un psicópata en la alcaldía. Ceremonia de la Armada.](s3://bundled-saddlebag-tnqki7w/2023/12/un-psicopata-en-la-alcaldia-la-autodestruccion-de-cartagena-i/william-dau_despedida-scaled-1.jpg)
 *Un psicópata en la alcaldía. No le interesa el dolor de sus semejantes. Miren el hueco donde hace 4 años había una lámpara. Refleja la psicopatía de William Dau. /Voxpopuli.Digital.*
 
 A diferencia del adormecimiento mental de los barranquilleros (los medios de comunicación, el Junior, el Carnaval, están en poder de los Char para dormir a la sociedad) que aceptan con gusto la psicopatía de sus tres gobernantes (**Alejandro Char II, Elsa Noguera y Jaime Pumarejo**) que ha tenido en los últimos 16 años, **los1.065.570 cartageneros** tienen otra reacción.
@@ -44,7 +44,7 @@ Te puede interesar: [Covid-19: ¡Cartagena se derrumba, y el alcalde de rumba! (
 
 ## El periodismo que pasa de la denuncia a la acción
 
-![Un psicópata en la alcaldía. Y la ciudad durmiendo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/un-psicopata-en-la-alcaldia-la-autodestruccion-de-cartagena-i/salvemos-a-Cartagena-de-Dau.jpg)
+![Un psicópata en la alcaldía. Y la ciudad durmiendo.](s3://bundled-saddlebag-tnqki7w/2023/12/un-psicopata-en-la-alcaldia-la-autodestruccion-de-cartagena-i/salvemos-a-Cartagena-de-Dau.jpg)
 *Zozobra pre-electoral*
 
 A este periodista, el alcalde psicópata (no es un calificativo, aquí te mostramos las evidencias) lo acusó de estar al servicio de _los malandrines_ cuando se le desenmascaró en los informes periodísticos. Y hasta le pagaron a falsos periodistas y a algunos _influencers_ para atacarnos. ¿Cuántos enemigos gratuitos de la izquierda cartagenera se vinieron en contra del periodista? ¿Cuántos líderes sindicalistas le chupaban la suela al alcalde mientras vivían sabrosos con las ordenes de prestación de servicios de **$7 millones** **mensuales**? Colegas al servicio de cadenas nacionales se fueron contra el periodista cuando le preguntó al alcalde sobre su presunta adicción al bazuco.

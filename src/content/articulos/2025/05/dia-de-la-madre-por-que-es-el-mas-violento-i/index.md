@@ -5,10 +5,10 @@ pubDate: "2025-05-13 04:08:28"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/dia-de-la-madre-por-que-es-el-mas-violento-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/05/dia-de-la-madre-por-que-es-el-mas-violento-i/hero.jpg
 ---
 
-![Días ante de la Madre, la lideresa Alba Guerrero fue asesinada de 15 puñaladas por su propio hijo secuestrado por la adicción a las drogas. El Día de las Madres, el más violento del año.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/05/dia-de-la-madre-por-que-es-el-mas-violento-i/hero.jpg)
+![Días ante de la Madre, la lideresa Alba Guerrero fue asesinada de 15 puñaladas por su propio hijo secuestrado por la adicción a las drogas. El Día de las Madres, el más violento del año.](s3://bundled-saddlebag-tnqki7w/2025/05/dia-de-la-madre-por-que-es-el-mas-violento-i/hero.jpg)
 *Días ante de la Madre, la lideresa Alba Guerrero fue asesinada de 15 puñaladas por su propio hijo secuestrado por la adicción a las drogas. El Día de las Madres, el más violento del año.*
 
 El Día de la Madre en Colombia no deja de ser el más violento del año. Paradójicamente, se usan toneladas de flores y millones de regalos para las madres. El domingo 11 de mayo, las estadísticas oficiales dicen que ese día hubo **61 homicidios, 11 más que los 50 **del año pasado**** **y 13,5 mil comparendos** por afectación a la convivencia.

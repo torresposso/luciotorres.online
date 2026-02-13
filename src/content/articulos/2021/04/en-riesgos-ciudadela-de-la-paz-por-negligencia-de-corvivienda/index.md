@@ -5,10 +5,10 @@ pubDate: "2021-04-22 18:50:15"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-riesgos-ciudadela-de-la-paz-por-negligencia-de-corvivienda/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/04/en-riesgos-ciudadela-de-la-paz-por-negligencia-de-corvivienda/hero.jpg
 ---
 
-\[caption id="attachment\_14616" align="aligncenter" width="582"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-riesgos-ciudadela-de-la-paz-por-negligencia-de-corvivienda/hero.jpg) **Sandra Gómez**, Presidenta de Findeter debe prender las alertas con la «Ciudadela de la Paz». No le suceda lo mismo que con Transcaribe.\[/caption\]
+\[caption id="attachment\_14616" align="aligncenter" width="582"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/en-riesgos-ciudadela-de-la-paz-por-negligencia-de-corvivienda/hero.jpg) **Sandra Gómez**, Presidenta de Findeter debe prender las alertas con la «Ciudadela de la Paz». No le suceda lo mismo que con Transcaribe.\[/caption\]
 
 El socio constructor del proyecto de vivienda popular «Ciudadela de la Paz», **Unión Temporal Cartagena de Indias 2018**, le advirtió al gerente de Corvivienda, **Néstor Castro**, y al alcalde distrital el grave riesgo de parálisis de esa iniciativa. Son cinco hechos que amenazan la continuidad del proyecto dejado por la administración anterior para resolverle la situación de vivienda a 1.800 familias. 
 
@@ -20,7 +20,7 @@ Se gastaron ese dinero para una burocracia ociosa. Es una infamia cuando en la c
 
 ## La falsedad sobre la «Ciudadela de la Paz»
 
-\[caption id="attachment\_14617" align="aligncenter" width="579"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-riesgos-ciudadela-de-la-paz-por-negligencia-de-corvivienda/ciuDADELA-DE-LA-PAZ.jpeg) En febrero 2021, con bombos y platillos, anunció que el 71,5% de la «Ciudadela de la Paz» estaba listo. Pero no ha hecho nada para terminarla.\[/caption\]
+\[caption id="attachment\_14617" align="aligncenter" width="579"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/en-riesgos-ciudadela-de-la-paz-por-negligencia-de-corvivienda/ciuDADELA-DE-LA-PAZ.jpeg) En febrero 2021, con bombos y platillos, anunció que el 71,5% de la «Ciudadela de la Paz» estaba listo. Pero no ha hecho nada para terminarla.\[/caption\]
 
 Para este año tienen previsto en funcionamiento $11.400 millones. La mitad de ese dinero es en OPS. Tienen en la burocracia de OPS con los mismos "malandrines" de siempre. O sea, es la continuidad de lo que sucedió el año pasado. Y como van las cosas, ni siquiera podrían entregar el proyecto «Ciudadela de la Paz».  El mundo al revés. Pero hay gentes que todavía no se da cuenta de que la anticorrupción de esta administración es para esconder su verdadera esencia.
 
@@ -40,7 +40,7 @@ Pero el Distrito y, particularmente Corvivienda, no han tomado los correctivos n
 
 ## Los riesgos de la «Ciudadela de la Paz»
 
-\[caption id="attachment\_14619" align="aligncenter" width="696"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-riesgos-ciudadela-de-la-paz-por-negligencia-de-corvivienda/sandra-2.jpg) Sandra Gómez, presidenta de Findeter le espera un chicharrón con la «Ciudadela de la Paz».\[/caption\]
+\[caption id="attachment\_14619" align="aligncenter" width="696"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/en-riesgos-ciudadela-de-la-paz-por-negligencia-de-corvivienda/sandra-2.jpg) Sandra Gómez, presidenta de Findeter le espera un chicharrón con la «Ciudadela de la Paz».\[/caption\]
 
 **Fueron cinco (5) riesgos identificados por el Constructor.** Riesgos que tienen su origen en la negligencia y desgreño administrativo que impera en casi todas las dependencias e instituciones del Distrito. Tal es el caso de Transcaribe, Corvivienda, IPCC, etc. 
 

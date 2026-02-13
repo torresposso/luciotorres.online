@@ -5,10 +5,10 @@ pubDate: "2022-06-18 01:14:37"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/como-el-petrovideo-de-la-parapolitica-creo-el-imaginario-colectivo-sobre-petro/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/06/como-el-petrovideo-de-la-parapolitica-creo-el-imaginario-colectivo-sobre-petro/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/como-el-petrovideo-de-la-parapolitica-creo-el-imaginario-colectivo-sobre-petro/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/06/como-el-petrovideo-de-la-parapolitica-creo-el-imaginario-colectivo-sobre-petro/hero.jpg)
 *El "petrovideo" de la parapolítica. El imaginario colectivo del miedo,*
 
 El "petrovideo" de la parapolítica, 15 años después, mantiene el imaginario colectivo sobre Gustavo Petro. **Por tercera oportunidad el líder del Pacto Histórico se lanza como candidato presidencial**. Esta es la segunda vez que tiene posibilidades de ganar la presidencia. ¿La podrá alcanzar? ¿Podrá vencer el miedo que su figura representa para el régimen dominante y para un importante sector de la sociedad colombiana?

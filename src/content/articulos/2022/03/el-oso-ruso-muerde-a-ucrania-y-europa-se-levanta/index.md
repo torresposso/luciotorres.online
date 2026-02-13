@@ -5,10 +5,10 @@ pubDate: "2022-03-01 23:04:45"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/el-oso-ruso-muerde-a-ucrania-y-europa-se-levanta/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/03/el-oso-ruso-muerde-a-ucrania-y-europa-se-levanta/hero.jpg
 ---
 
-![El Oso Ruso salió de su madriguera y mordió a Ucrania. Putin (Rusia) y Zelensky (Ucrania).](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/el-oso-ruso-muerde-a-ucrania-y-europa-se-levanta/hero.jpg)
+![El Oso Ruso salió de su madriguera y mordió a Ucrania. Putin (Rusia) y Zelensky (Ucrania).](s3://bundled-saddlebag-tnqki7w/2022/03/el-oso-ruso-muerde-a-ucrania-y-europa-se-levanta/hero.jpg)
 *El Oso Ruso salió de su madriguera y mordió a Ucrania. Putin (Rusia) y Zelensky (Ucrania).*
 
 El Oso Ruso salió de su madriguera y mordió a Ucrania. Esta invasión rusa nos recuerda cuando en 1968 tropas soviéticas aplastaron la **Primavera de Praga** que prometía una Checoslovaquia socialista. Pero un socialismo con **_“una sociedad libre, moderna y profundamente humana”_**. El autoritarismo estalinista no aceptaba el concepto de libertad ni de democracia.
@@ -47,7 +47,7 @@ Por esa razón, debemos escudriñar dos claves para entender este conflicto. **L
 
 ## **El Oso Ruso despierta a Alemania**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/el-oso-ruso-muerde-a-ucrania-y-europa-se-levanta/Oso-Ruso-768x512-1.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/el-oso-ruso-muerde-a-ucrania-y-europa-se-levanta/Oso-Ruso-768x512-1.jpg)
 *El oso ruso muerde a ucrania. Cortesía Segundo Paso.*
 
 La invasión rusa a Ucrania hizo despertar en el día de hoy a Alemania de ese largo período en el cual no quería saber nada de armamentismo. Pero **Olaf Scholz**, jefe de gobierno alemán, acaba de anunciar la creación de un presupuesto para tres años de **100 mil millones** de euros destinados a la defensa. Esa cantidad equivale a tres veces el presupuesto para la defensa de Rusia. Si los otros países de la Europa occidental se unen, el Oso Ruso no tendría más remedio que regresarse a su madriguera. Y esperar desde allá cualquier retaliación de sus históricos contrincantes. En estos momentos la Unión Europea anunció que le acaban de aprobar 450 millones de euros a Ucrania para la compra de armamentos, más 50 millones para suministros no letales, como combustible y equipos de protección. La mayor parte de ese dinero lo va a poner Alemania.

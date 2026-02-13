@@ -5,10 +5,10 @@ pubDate: "2024-07-08 19:53:47"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/hero.jpg
 ---
 
-![Se desploma Char, perdió 25,1% en solo tres meses. . Dumek Turbay ascendió y ¿Comienza a desmoronarse el Califato Daeschariano?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/hero.jpg)
+![Se desploma Char, perdió 25,1% en solo tres meses. . Dumek Turbay ascendió y ¿Comienza a desmoronarse el Califato Daeschariano?](s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/hero.jpg)
 *Dumek Turbay ascendió y Alejandro Char perdió 26,1% en solo tres meses. ¿Comienza a desmoronarse el Califato Daeschariano?*
 
 Se desploma Char. En tres meses **perdió 26,1%**. ¿Por qué tanto en poco tiempo? Es la principal noticia de la Gran Encuesta del Caribe (documento no disponible) del mes de julio. La medición del alcalde de Barranquilla nos trajo una gran sorpresa: La imagen positiva (66%) de **Alejandro Char Chaljub** está lejos del 93% de abril. Contrario a ello, la imagen positiva (**81%**) del alcalde de Cartagena **Dumek Turbay Paz** creció en forma sostenida.
@@ -25,7 +25,7 @@ Ese porcentaje de imagen positiva, indica que no hizo mella los reparos que le h
 
 Además, parece que la percepción ciudadana no alcanza a dimensionar los presuntos **grandes negociados** en la contratación pública para la prestación del servicio de vigilancia en las instituciones educativas, los puestos de salud y demás edificaciones oficiales del municipio. Igualmente el servicio de aseo y del suministro del **Programa de Alimentación Escolar-PAE**.
 
-![Sedesplama Char. Yahir Acuña (camisa blanca), alcalde de Sincelejo. Lo rodea la Policía, la Armada, el Gaula, el Ejército y la Fiscalía./Prensa alcaldía de Sincelejo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/Jair_Acuna_policia_-1024x847.jpg)
+![Sedesplama Char. Yahir Acuña (camisa blanca), alcalde de Sincelejo. Lo rodea la Policía, la Armada, el Gaula, el Ejército y la Fiscalía./Prensa alcaldía de Sincelejo.](s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/Jair_Acuna_policia_-1024x847.jpg)
 *Yahir Acuña (camisa blanca), alcalde de Sincelejo. Lo rodea la Policía, la Armada, el Gaula, el Ejército y la Fiscalía./Prensa alcaldía de Sincelejo.*
 
 ## Yamil, lidera
@@ -34,7 +34,7 @@ En la próxima entrega, analizaremos los resultados de la gobernación donde **Y
 
 ## La Gran Encuesta del Caribe
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/Encuesta_yahir_-1024x574.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/Encuesta_yahir_-1024x574.jpeg)
 
 La citada encuesta fue dirigida por el economista **Oscar Brieva**, gerente de **Mediciones Estratégica** avalada por el Consejo Nacional Electora―CNE.
 
@@ -48,16 +48,16 @@ También presenta los resultados de la Imagen y Aprobación de gestión del Pres
 
 ## La caída libre de Char: perdió 26%
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/Encuesta_char_julio-1024x577.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/Encuesta_char_julio-1024x577.jpeg)
 
 Una de las grandes sorpresas de la medición fue la caída libre del alcalde de Barranquilla, Alejandro Char. En los primeros 100 días de la encuesta de abril, su imagen positiva llegó a **92,7%** por encima de todos los mandatarios de la región. Quiere decir, que en solo tres meses perdió **26,1%** con la medición de julio que se publicó hoy.
 
-![En la encuesta de Guarumo de abril obtuvo el 85,8%. Char lo celebró con bombos y platillos. Se desploma Char](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/Encuesta_alejandro_char.jpeg)
+![En la encuesta de Guarumo de abril obtuvo el 85,8%. Char lo celebró con bombos y platillos. Se desploma Char](s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/Encuesta_alejandro_char.jpeg)
 *En la encuesta de Guarumo de abril obtuvo el 85,8%. Char lo celebró con bombos y platillos. ¿Celebrará el 67% que ahora recibió de Mediciones Estratégica o el 92,7%% de Invamer Poll?*
 
 ## ¿Por qué se hunde Char?
 
-![La Gran Encuesta del Caribe de Julio/Fuente: Mediciones Estratégica, 8 de julio 2024/ Se desploma Char.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/encuesta_Julio_-1.jpg)
+![La Gran Encuesta del Caribe de Julio/Fuente: Mediciones Estratégica, 8 de julio 2024/ Se desploma Char.](s3://bundled-saddlebag-tnqki7w/2024/07/se-desploma-char-sube-dumek-jair-se-mantiene-i/encuesta_Julio_-1.jpg)
 *La Gran Encuesta del Caribe de Julio/Fuente: Mediciones Estratégica, 8 de julio 2024*
 
 ¿Por qué esta caída libre de Char? Si se cae Char, ¿se caerá el imperio? Si bien esta pronunciada baja de la imagen de Alejandro Char tendrá su consecuencia a corto plazo, no sificaría que el Califato Daeschariano se vaya a derretir de inmediato.

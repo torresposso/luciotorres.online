@@ -5,10 +5,10 @@ pubDate: "2022-02-26 00:53:39"
 author: "Lucio"
 categories: ["Crónica","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/echavarria-a-lo-clint-easwood-quiso-recuperar-tierra-en-conflicto/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/02/echavarria-a-lo-clint-easwood-quiso-recuperar-tierra-en-conflicto/hero.jpg
 ---
 
-![Echavarría a lo Clint Easwood](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/echavarria-a-lo-clint-easwood-quiso-recuperar-tierra-en-conflicto/hero.jpg)
+![Echavarría a lo Clint Easwood](s3://bundled-saddlebag-tnqki7w/2022/02/echavarria-a-lo-clint-easwood-quiso-recuperar-tierra-en-conflicto/hero.jpg)
 *Echavarría a lo Clint Easwood, con su pistolón Magnum.*
 
 El reconocido empresario **Gabriel Echavarría Obregón**, 80 años, al final de la mañana de hoy,  fue a Punta Seca, predio que disputa con algunos nativos de la familia Girado. Está ubicado  en Playa Blanca, corregimiento de **Santa Ana, Cartagena**. Echavarría, a lo **Clint Easwood**, sacó su pistolón, un revolver 38 marca Magnum con cacha ortopédica, y enfrentó a uno de los nativos cuando lo empujó. En tanto que otros lo quisieron agredir con un trozo de manglar.

@@ -5,10 +5,10 @@ pubDate: "2019-11-28 15:02:40"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/el-paro-sigue-y-tambien-la-falsa-normalidad-de-duque/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/11/el-paro-sigue-y-tambien-la-falsa-normalidad-de-duque/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/el-paro-sigue-y-tambien-la-falsa-normalidad-de-duque/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/11/el-paro-sigue-y-tambien-la-falsa-normalidad-de-duque/hero.jpg)
 *Diógenes Orjuela, presidente de la CUT, miembro del Comité Nacional de Paro. Cortesía.*
 
 ¿Qué quiere el país? Colombia está entre el paro y una falsa normalidad. **La ley de financiamiento** (reforma tributaria) del presidente Iván Duque responde a los intereses de quienes lo colocaron en el ejecutivo. **Esta iniciativa recorta conquistas sociales de los más débiles y aligera las cargas a los más poderosos.** Por eso el Paro sigue.
@@ -27,7 +27,7 @@ Es decir, Duque quiere convertir el diálogo nacional en una **_torre de babel_*
 
 ## ¿Por qué se protesta?
 
-![El Paro sigue](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/el-paro-sigue-y-tambien-la-falsa-normalidad-de-duque/paro-general-colombia-cut-compressor.jpg_1718483347.jpg)
+![El Paro sigue](s3://bundled-saddlebag-tnqki7w/2019/11/el-paro-sigue-y-tambien-la-falsa-normalidad-de-duque/paro-general-colombia-cut-compressor.jpg_1718483347.jpg)
 *El Paro sigue. Cortesía.*
 
 El Paro Nacional busca detener un paquete de **medidas draconianas** del presidente Duque. Por ejemplo, la reforma tributaria y su política de reducción del déficit fiscal a costa de exprimir a los empobrecidos del país.

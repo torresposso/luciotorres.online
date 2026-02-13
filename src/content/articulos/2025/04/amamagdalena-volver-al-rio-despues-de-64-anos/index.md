@@ -5,10 +5,10 @@ pubDate: "2025-04-10 02:51:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/amamagdalena-volver-al-rio-despues-de-64-anos/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/04/amamagdalena-volver-al-rio-despues-de-64-anos/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/amamagdalena-volver-al-rio-despues-de-64-anos/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/04/amamagdalena-volver-al-rio-despues-de-64-anos/hero.jpg)
 *Volver al río, un sueño de 64 años. Estos niños que contemplan el AmaMagdalena serán los viejos del mañana que construirán sus nostalgias como los octogenarios de hoy alrededor del David Arango./Prensa Bolívar Mejor.*
 
 Volver al río Magdalena era un suceso increíble para la navegación turística de alto turmequé. Un sueño de 64 años. La noche del 7 de abril de 2025, el gobernador de Bolívar, **Yamil Arana Padauí**, desplazó la nostalgia de una generación octogenaria que creció viendo el **barco _David Arango_** atracando en puertos como el de Barranquilla y Magangué.
@@ -35,7 +35,7 @@ Son dos barcos que surcarán el río de nuestros ancestros los pijaos, _los zen�
 
 ## Bolívar, mejor turismo
 
-![El gobernador Yamil Arana le entrega la bandera de Bolívar a Beno Aton, director ejecutivo de AmaWaterways, operador del AmaMagdalena. Observa sonriente la directora Icultur, Lina Rodríguez.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/amamagdalena-volver-al-rio-despues-de-64-anos/AMAmAGDALENA_YAMILITO-1024x683.jpg)
+![El gobernador Yamil Arana le entrega la bandera de Bolívar a Beno Aton, director ejecutivo de AmaWaterways, operador del AmaMagdalena. Observa sonriente la directora Icultur, Lina Rodríguez.](s3://bundled-saddlebag-tnqki7w/2025/04/amamagdalena-volver-al-rio-despues-de-64-anos/AMAmAGDALENA_YAMILITO-1024x683.jpg)
 *El gobernador Yamil Arana le entrega la bandera de Bolívar a Beno Aton, director ejecutivo de AmaWaterways, operador del AmaMagdalena. Observa sonriente la directora Icultur, Lina Rodríguez.*
 
 El Gobernador de Bolívar, **Yamil Arana Padauí**, expresó con orgullo que este evento pone a Bolívar, y especialmente a Mompox, en los ojos del mundo.

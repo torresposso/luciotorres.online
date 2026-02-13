@@ -5,10 +5,10 @@ pubDate: "2023-08-05 17:20:23"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/tesoro-de-fecode-en-manos-de-un-directivo-cuestionado/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/08/tesoro-de-fecode-en-manos-de-un-directivo-cuestionado/hero.jpg
 ---
 
-![Tesoro de Fecode en manos de un directivo cuestionado: Luis Alfredo Grimaldo. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/tesoro-de-fecode-en-manos-de-un-directivo-cuestionado/hero.jpg)
+![Tesoro de Fecode en manos de un directivo cuestionado: Luis Alfredo Grimaldo. ](s3://bundled-saddlebag-tnqki7w/2023/08/tesoro-de-fecode-en-manos-de-un-directivo-cuestionado/hero.jpg)
 *Tesoro de Fecode en manos de un directivo cuestionado: Luis Alfredo Grimaldo.*
 
 El tesoro de Fecode pasó a manos de un directivo cuestionado. El próximo 9 de agosto, **Luis Alfredo Grimaldo Mejía**, 63 años, será presentado en Junta Nacional como Tesorero de la Federación. Es un veterano sindicalista, al que ya se le olvidó el olor a tiza o a tinta. Viene de ejercer la fiscalía y la defensa de los derechos humanos de la Asociación de Educadores del Atlántico, ADEA. Sin embargo, la nota discordante y preocupante, por su doble moralidad, la tesorería de la asociación, cargo que también presidió, pagó una millonaria indemnización a varios trabajadores despedidos injustamente por él, cuando fue presidente de la misma organización sindical.
@@ -29,7 +29,7 @@ Te puede interesar la primera entrega para que sigas la historia: Filial de FECO
 
 ## Amenazan de muerte a trabajadora despedida
 
-![Aura Márquez, trabajadora de la Adea despedida por Grimaldo Mejía, hoy Tesorero de Fecode.. El tesoro de Fecode en manos de un directivo cuestionado.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/tesoro-de-fecode-en-manos-de-un-directivo-cuestionado/Aura-Marquez.jpg)
+![Aura Márquez, trabajadora de la Adea despedida por Grimaldo Mejía, hoy Tesorero de Fecode.. El tesoro de Fecode en manos de un directivo cuestionado.](s3://bundled-saddlebag-tnqki7w/2023/08/tesoro-de-fecode-en-manos-de-un-directivo-cuestionado/Aura-Marquez.jpg)
 *Aura Márquez, trabajadora de la Adea despedida por Grimaldo Mejía, hoy Tesorero de Fecode.*
 
 Extrañamente, Aura Márquez, después de demandar a la Adea, fue amenazada de muerte cuando se dirigía a su casa. Luis Grimaldo Mejía, siendo representante legal, realizó los despidos de seis trabajadores (documento no disponible). Algunos de ellos, le hicieron un mitin en las puertas del sindicato, para protestar contra su política violatoria de los derechos humanos y el no pago de sus salarios, que deliberadamente retenía. Al respecto, algunos directivos de la Adea, en su momento, calificaron el hecho como un maltrato y acoso laboral. Es más, ya antes les había prohibido la entrada a los trabajadores (documento no disponible), sin haberlos despedido formalmente.
@@ -54,7 +54,7 @@ No obstante, a lo anterior, el señor Grimaldo, a pesar de que las autoridades j
 
 ## La persecución de Grimaldo
 
-![El tesoro de Fecode en manos de Grimaldo Mejía, un directivo cuestionado](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/tesoro-de-fecode-en-manos-de-un-directivo-cuestionado/luis-grimaldo-mejia-fiscal-de-fecode_7751659_20230504125456.png)
+![El tesoro de Fecode en manos de Grimaldo Mejía, un directivo cuestionado](s3://bundled-saddlebag-tnqki7w/2023/08/tesoro-de-fecode-en-manos-de-un-directivo-cuestionado/luis-grimaldo-mejia-fiscal-de-fecode_7751659_20230504125456.png)
 *El tesoro de Fecode en manos de Grimaldo Mejía, un directivo cuestionado.*
 
 Con el fin de demostrar la persecución política de Grimaldo a los trabajadores y directivos que no están de acuerdo con su falaz proceder, presentaremos tres elementos fundamentales donde usó el aparato sindical y los recursos de los docentes afiliados para obtener provechos malsanos.

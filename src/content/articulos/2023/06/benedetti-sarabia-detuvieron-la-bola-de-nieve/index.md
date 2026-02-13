@@ -5,10 +5,10 @@ pubDate: "2023-06-03 21:38:53"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/benedetti-sarabia-detuvieron-la-bola-de-nieve/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/06/benedetti-sarabia-detuvieron-la-bola-de-nieve/hero.jpg
 ---
 
-![¿Benedetti & Sarabia detuvieron la bola de nieve?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/benedetti-sarabia-detuvieron-la-bola-de-nieve/hero.jpg)
+![¿Benedetti & Sarabia detuvieron la bola de nieve?](s3://bundled-saddlebag-tnqki7w/2023/06/benedetti-sarabia-detuvieron-la-bola-de-nieve/hero.jpg)
 *¿Benedetti & Sarabia detuvieron la bola de nieve?*
 
 ¿La exclusión del gobierno de la otrora **compañía Benedetti & Sarabia** detuvo la **bola de nieve** que amenaza alud en la administración de Gustavo Petro? Sin duda, la respuestas es categórica: ¡No! Por el contrario, ahora el escándalo tomará dimensiones desconocidas, tal como lo preveíamos en el primer artículo de esta serie. La renuncia forzada y su inmediata aceptación, es la caída de dos poderosos funcionarios, el embajador en Venezuela Armando Benedetti y la jefa de gabinete Laura Sarabia. Pero, no es lo fundamental. **Lo que se creía un hecho doméstico aislado, se transformará en un golpe directo al corazón del poder central**.
@@ -29,7 +29,7 @@ A partir de ese negocio, Euclides Torres tomó vuelo con las concesiones de alum
 
 ## No es un hecho artificioso
 
-![La compañía Benedetti & Sarabia, ya es historia. Ambos se despidieron del gobierno.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/benedetti-sarabia-detuvieron-la-bola-de-nieve/Armando_Laura_portada.jpg)
+![La compañía Benedetti & Sarabia, ya es historia. Ambos se despidieron del gobierno.](s3://bundled-saddlebag-tnqki7w/2023/06/benedetti-sarabia-detuvieron-la-bola-de-nieve/Armando_Laura_portada.jpg)
 *La compañía Benedetti & Sarabia, ya es historia. Ambos se despidieron del gobierno.*
 
 El surgimiento de esa _bola de nieve_ no se produjo por hechos artificiosos y malintencionados o conspiraciones de la oposición al gobierno naciente de Petro. No. Es el resultado de la conducta irregular, amoral y deshonesta de **Laura Camila Sarabia Torres**. Ella no ha dicho la verdad. ¿Por qué Armando Benedetti resultó involucrado en este caso? ¿Por ayudar a Sarabia? Tampoco Benedetti está hablando con la verdad.

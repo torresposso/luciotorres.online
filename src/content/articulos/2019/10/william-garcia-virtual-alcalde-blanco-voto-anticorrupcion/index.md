@@ -5,10 +5,10 @@ pubDate: "2019-10-27 05:08:34"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/10/william-garcia-virtual-alcalde-blanco-voto-anticorrupcion/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/10/william-garcia-virtual-alcalde-blanco-voto-anticorrupcion/hero.jpg
 ---
 
-![William García, virtual alcalde.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/10/william-garcia-virtual-alcalde-blanco-voto-anticorrupcion/hero.jpg)
+![William García, virtual alcalde.](s3://bundled-saddlebag-tnqki7w/2019/10/william-garcia-virtual-alcalde-blanco-voto-anticorrupcion/hero.jpg)
 *Solo esperamos las 5 de la tarde de hoy 27 de octubre para que se confirme lo que dicen las encuestas: William García Tirado virtual alcalde de Cartagena. El voto en blanco, segundo lugar.*
 
 Todas las encuestas y la percepción en los barrios de la ciudad lo dicen: **William García, virtual alcalde**. Pero el **voto en blanc**o viene creciendo. Si gana, se repetirían las elecciones y no podrían participar los actuales candidatos.

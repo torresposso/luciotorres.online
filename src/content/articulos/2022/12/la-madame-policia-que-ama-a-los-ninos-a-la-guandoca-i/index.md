@@ -5,10 +5,10 @@ pubDate: "2022-12-28 01:20:18"
 author: "Lucio"
 categories: ["Análisis","Cultura","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/la-madame-policia-que-ama-a-los-ninos-a-la-guandoca-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/12/la-madame-policia-que-ama-a-los-ninos-a-la-guandoca-i/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/la-madame-policia-que-ama-a-los-ninos-a-la-guandoca-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/12/la-madame-policia-que-ama-a-los-ninos-a-la-guandoca-i/hero.jpg)
 *La Madame Policía en Cholón. Como DJ lo hace mejor que Natalia Paris, dicen algunos. ¿Pudo hacerlo sin la complicidad de la oficialidad policiva? Facebook.*
 
 La Madame Policía —que ama a los niños y a los animales pero ahora la sindican de tráfico de mujeres— la mandaron ¡a la guandoca! Este es uno de los dos chicharrones más sonados de policías corruptos que dejó el excomandante de la Policía Metropolitana de Cartagena, **BG Nicolás Zapata**, sin tomar las medidas correctivas. Son hechos que pueden tener la complicidad de oficiales de esa institución. En el caso de **Daniela Echeverry Gómez**, francamente no deja de ser intrigante. ¿Por qué? Desde que llegó a Cartagena se caracterizó por ser una patrullera humanitaria. En 2018 ayudó a rescatar a dos bebés abandonados por sus madres en basureros.
@@ -27,7 +27,7 @@ Entre el caso de la **Ronca**, quien luego de la captura pasó con el alias **La
 
 ## La Madame Policía y el sexo
 
-![La Madame Policía ama a los animales, pero trafica con las mujeres.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/la-madame-policia-que-ama-a-los-ninos-a-la-guandoca-i/Daniela-Echeverry-Gomez1.jpg)
+![La Madame Policía ama a los animales, pero trafica con las mujeres.](s3://bundled-saddlebag-tnqki7w/2022/12/la-madame-policia-que-ama-a-los-ninos-a-la-guandoca-i/Daniela-Echeverry-Gomez1.jpg)
 *¡Que bonita! La Madame Policía ama a los animales. Facebook.*
 
 Sin duda, el cuerpo de Daniela Echeverry es deseado. Deseante. ¡Excitante! Muy sexuado. ¿Quién le pudo pagar su transformación física? ¿Ella, con su sueldo de patrullera? Lo dudo. Tener sexo es un tabú. ¿A quien no le gusta el sexo? ¡A todos! Se incluye especialmente a las mujeres. El sexo nos gusta porque nos da placer y garantiza la extensión de la humanidad.

@@ -5,10 +5,10 @@ pubDate: "2019-10-02 10:13:29"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/10/wong-pardo-y-joiser-son-unos-magos-desaparecieron-2-120-millones-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/10/wong-pardo-y-joiser-son-unos-magos-desaparecieron-2-120-millones-ii/hero.jpg
 ---
 
-![Yoanda Wong y las inspecciones.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/10/wong-pardo-y-joiser-son-unos-magos-desaparecieron-2-120-millones-ii/hero.jpg)
+![Yoanda Wong y las inspecciones.](s3://bundled-saddlebag-tnqki7w/2019/10/wong-pardo-y-joiser-son-unos-magos-desaparecieron-2-120-millones-ii/hero.jpg)
 *Aquí Yolanda Wong, en su cuarto de hora como alcaldesa, mirando los planos de lo que será el Comando de Policía de El Pozón.*
 
 Las pruebas que tiene la fiscalía **contra Yolanda Wong** (exalcaldesa y candidata a la alcaldía), **Bernardo Pardo** **Ramos** (gerente de Edurbe) y **Joiser Martínez** (contratista), dentro del caso de las 15 inspecciones de policía, son contundentes. El juez de garantías de la vista pública del 3 de octubre, no dudaría en imponerles medidas de aseguramiento a los tres encartados por la **desaparición de $2.120 millones** como por arte de magia.

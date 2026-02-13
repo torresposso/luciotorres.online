@@ -1,0 +1,91 @@
+---
+/**
+ * Route2026.astro
+ * Interactive scrollytelling timeline for Lucio Torres 2026 Campaign.
+ * Uses daisyUI timeline and Alpine.js for scroll-driven effects.
+ */
+---
+
+<section 
+  id="ruta"
+  class="py-32 bg-base-100 border-t border-base-300" 
+  x-data="{ 
+    activeStep: 0,
+    steps: [
+      { id: 1, title: 'EL ORIGEN', year: '2018-2024', desc: 'Décadas de investigación destapando los entramados de corrupción más oscuros del Caribe.', icon: 'M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z' },
+      { id: 2, title: 'PAN CON PAZ', year: '2025', desc: 'Nace el manifiesto por la dignidad: Seguridad alimentaria y justicia social real.', icon: 'M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z' },
+      { id: 3, title: 'LA CONSULTA', year: '8 MARZO 2026', desc: 'Unidad en el Frente por la Vida para consolidar la candidatura única de la esperanza.', icon: 'M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z' },
+      { id: 4, title: 'LA VICTORIA', year: 'MAYO 2026', desc: 'Colombia recupera su soberanía. El primer gobierno forjado en la verdad absoluta.', icon: 'M13 10V3L4 14h7v7l9-11h-7z' }
+    ]
+  }"
+>
+  <div class="max-w-screen-xl mx-auto px-6 lg:px-12">
+    <div class="mb-24">
+      <h2 class="text-7xl md:text-[8rem] font-editorial font-black text-base-content mb-8 uppercase tracking-tighter">
+        LA <span class="text-primary" style="text-shadow: 2px 2px 0 #000;">RUTA.</span>
+      </h2>
+      <div class="w-32 h-3 bg-secondary rounded-full mb-8"></div>
+      <p class="text-2xl text-base-content/60 max-w-2xl font-editorial font-bold italic leading-snug">
+        De la denuncia periodística a la transformación nacional. Un camino de coherencia y valor.
+      </p>
+    </div>
+
+    <ul class="timeline timeline-vertical max-w-4xl">
+      <template x-for="(step, index) in steps" :key="step.id">
+        <li>
+          <hr :class="activeStep >= index ? 'bg-secondary' : 'bg-base-200'" />
+          
+          <div class="timeline-middle">
+            <div 
+              class="w-16 h-16 flex items-center justify-center transition-all duration-700 rounded-full border-4"
+              :class="activeStep >= index ? 'bg-primary border-secondary text-secondary scale-125 shadow-xl' : 'bg-base-200 border-base-300 text-base-content/20'"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" :d="step.icon" />
+              </svg>
+            </div>
+          </div>
+
+          <div 
+            class="timeline-start md:text-end mb-20 transition-all duration-1000 px-8 py-6 rounded-3xl"
+            :class="activeStep === index ? 'bg-base-200/50 border border-base-300 opacity-100 translate-x-0' : 'opacity-30 -translate-x-10'"
+            x-intersect:enter="activeStep = index"
+          >
+            <time class="text-xs font-black text-accent tracking-[0.3em]" x-text="step.year"></time>
+            <h3 class="text-4xl font-editorial font-black text-secondary mt-2 mb-4" x-text="step.title"></h3>
+            <p class="text-lg text-base-content/70 font-medium max-w-md md:ml-auto" x-text="step.desc"></p>
+          </div>
+          
+          <hr :class="activeStep > index ? 'bg-secondary' : 'bg-base-200'" />
+        </li>
+      </template>
+    </ul>
+
+    <div class="mt-32">
+      <div 
+        class="grid grid-cols-1 md:grid-cols-2 bg-base-100 rounded-3xl overflow-hidden shadow-2xl border border-base-200"
+        x-data="{ count: 0 }"
+        x-intersect:enter="let target = 100; let interval = setInterval(() => { if(count < target) count++; else clearInterval(interval); }, 20)"
+      >
+        <div class="p-16 border-b md:border-b-0 md:border-r border-base-200 bg-base-200/30">
+          <div class="text-xs font-black text-secondary tracking-widest mb-4">MÉTRICA DE VERDAD</div>
+          <div class="text-8xl font-editorial font-black text-base-content" x-text="count + '%'">0%</div>
+          <p class="text-lg font-bold text-accent mt-4 uppercase italic">Compromiso con la transparencia</p>
+        </div>
+        
+        <div class="p-16 bg-white">
+          <div class="text-xs font-black text-accent tracking-widest mb-4">MOVILIZACIÓN CIUDADANA</div>
+          <div class="text-8xl font-editorial font-black text-secondary" x-text="Math.floor(count * 2.5) + 'K'">0K</div>
+          <p class="text-lg font-bold text-base-content/40 mt-4 uppercase italic">Colombianos sumados a la ruta</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  /* Custom scroll margin for intersect detection */
+  .timeline li {
+    scroll-margin-top: 200px;
+  }
+</style>

@@ -5,10 +5,10 @@ pubDate: "2020-05-31 22:43:37"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/05/se-estremece-el-imperio-por-muerte-de-floyd/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2020/05/se-estremece-el-imperio-por-muerte-de-floyd/hero.jpg
 ---
 
-\[caption id="attachment\_11827" align="alignnone" width="976"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/05/se-estremece-el-imperio-por-muerte-de-floyd/hero.jpg) Se estremece el imperio. Nos recuerda los años 60 en la lucha por derechos civiles. Cortesía BBC.\[/caption\] Se estremece el imperio. Las calles de 50 ciudades norteamericanas se agitan con la ira ciudadana. Protestan por el crimen del afrosdescendiente **George Floyd,** 47 años. Mientras el policía Derek Chauvin le ponía todo su peso con la rodilla en el cuello de Floyd, éste lanzó sus últimos estertores. Sus pulmones llenos de sangre anunciaron su muerte. Repitió una frase hasta cuando dejó de gemir:
+\[caption id="attachment\_11827" align="alignnone" width="976"\]![](s3://bundled-saddlebag-tnqki7w/2020/05/se-estremece-el-imperio-por-muerte-de-floyd/hero.jpg) Se estremece el imperio. Nos recuerda los años 60 en la lucha por derechos civiles. Cortesía BBC.\[/caption\] Se estremece el imperio. Las calles de 50 ciudades norteamericanas se agitan con la ira ciudadana. Protestan por el crimen del afrosdescendiente **George Floyd,** 47 años. Mientras el policía Derek Chauvin le ponía todo su peso con la rodilla en el cuello de Floyd, éste lanzó sus últimos estertores. Sus pulmones llenos de sangre anunciaron su muerte. Repitió una frase hasta cuando dejó de gemir:
 
 > «¡No puedo respirar! ¡No puedo respirar! ¡No puedo respirar! ¡Please! ¡Please!»
 

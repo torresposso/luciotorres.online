@@ -5,10 +5,10 @@ pubDate: "2025-01-08 13:20:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/hero.jpg
 ---
 
-![Se fue el profesor Correa del POT de Cartagena. «Muerto el perro ¿se acabaron las pulgas?». POT Participativo y Sostenible para que Dumek no fracase en el intento](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/Dumek_Correa_portada-miniatura.jpeg)
+![Se fue el profesor Correa del POT de Cartagena. «Muerto el perro ¿se acabaron las pulgas?». POT Participativo y Sostenible para que Dumek no fracase en el intento](s3://bundled-saddlebag-tnqki7w/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/Dumek_Correa_portada-miniatura.jpeg)
 *Se fue el profesor Correa del POT de Cartagena. «Muerto el perro ¿se acabaron las pulgas?». POT Participativo y Sostenible para que Dumek no fracase en el intento*
 
 Cartagena de Indias tiene un territorio riquísimo y estratégico para el desarrollo de la nación, coinciden los expertos economistas. Por tanto, si el alcalde **Dumek Turbay Paz** quiere transformar a **Cartagena en una **«Superciudad»****, debe empezar por diseñar ―idónea y libre de intereses particulares― un Plan de Desarrollo Territorial― **POT** **Participativo**, **Sostenible** y **Democrático**.
@@ -19,7 +19,7 @@ Su ubicación geográfica, la relevancia histórica, su industria, y su crecimie
 
 ## Un año perdido para un POT Participativo
 
-![El nuevo POT hay que sacarlo de la oscuridad. Una alta cirugía debe hacer el alcalde Dumek para tener un POT Participativo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/El-cuarto-oscuro_Juan_Correa.jpeg)
+![El nuevo POT hay que sacarlo de la oscuridad. Una alta cirugía debe hacer el alcalde Dumek para tener un POT Participativo.](s3://bundled-saddlebag-tnqki7w/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/El-cuarto-oscuro_Juan_Correa.jpeg)
 *El nuevo POT hay que sacarlo de la oscuridad. Una alta cirugía debe hacer el alcalde Dumek para tener un POT Participativo. ¿Seguirá el marido de la procudora Ambiental de Bolívar y de Rodolfo Díaz Wright, amigo de Alfonso Hilsaca?*
 
 Durante un año, el servilismo a la codicia llevó al Nuevo POT a que lo fueran construyendo sin la Constitución y sin la Ley. Un POT fantasma y clandestino, cocinado en la oscuridad del _cuarto oscuro_ a donde solo podía entrar el triunvirato: **Juan Correa Reyes, Orlando Ortiz Llano**s (compañero sentimental de la Procuradora Ambiental de Bolívar) y la abogada Sara Luna Delgado. Este equipo era supervisado por **Rodolfo Díaz Wright**.
@@ -32,7 +32,7 @@ Las entregas anteriores de esta serie sobre el POT de **VoxPopuli Digital** fuer
 
 ## El POT de los 5 sin
 
-![Las cinco sin del POT de Dumek.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/hero.jpg)
+![Las cinco sin del POT de Dumek.](s3://bundled-saddlebag-tnqki7w/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/hero.jpg)
 *Las cinco sin del POT de Dumek.*
 
 Entramos al _cuarto oscuro_ del Nuevo POT de Dumek, y hallamos las cinco **«**sin»:
@@ -75,7 +75,7 @@ Fuentes confiables confirmaron que el experto urbanista Robinson Rada González 
 
 ## **«Muerto el perro ¿se acabaron las pulgas?»**
 
-![El profesor Correa no aguantó más. Se fue a su zona de confort: las clases de la Universidad de Cartagena.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/juan-correa02.jpg)
+![El profesor Correa no aguantó más. Se fue a su zona de confort: las clases de la Universidad de Cartagena.](s3://bundled-saddlebag-tnqki7w/2025/01/pot-participativo-y-sostenible-para-que-dumek-no-fracase-en-el-intento-viii/juan-correa02.jpg)
 *El profesor Correa no aguantó más. Se fue a su zona de confort: las clases de la Universidad de Cartagena. Una cosa es tirar línea, otra cosa aplicarla.*
 
 Ahora bien, **«muerto el perro ¿se acabaron las pulgas?»** ¡No! El problema persiste en la esencia misma de la dirección de Planeación y los intereses que la rodean.

@@ -5,12 +5,12 @@ pubDate: "2021-06-23 00:32:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/hero.jpg
 ---
 
 Se acabó la tira**_—y—jala_** con los peajes del contrato vial de Cartagena. **Está probado y comprobado que la Tasa Interna de Retorno (TIR) del 17,22% se cumplió en el año 2016.** También está mostrado que su extensión hasta el año presente (2021) es ilegal, ilegítima y prevaricadora. ¿Cuál es la prueba de esta tesis? En el primer año hubo un excedente de **$5.860** **millones gracias al pago de la contribución de valorización que hicieron los empresarios contribuyentes.**
 
-![Julio Gerleín, maximo accionista de la Concesión Vial](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/hero.jpg)
+![Julio Gerleín, maximo accionista de la Concesión Vial](s3://bundled-saddlebag-tnqki7w/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/hero.jpg)
 *Julio Gerleín, el máximo inversionista de la Concesión Vial de Cartagena. Ya se cumplió la TIR. Cortesía.*
 
 **En el año 1999 sucedió algo interesante.** El alcalde Nicolás Curi ofreció unos buenos descuentos a los empresarios por pago de contado de la contribución de valorización. La mayoría pagó por anticipado. Entonces, el primer año del proyecto entró más plata por valorización. **Este incremento superó lo gastado por el inversionista**. Es decir, que el Distrito puso un **excedente de $5.860 millones que a valor presente.**
@@ -39,7 +39,7 @@ Antes de explicar cómo calcular la TIR de la concesión vial, es necesario acla
 
 En el primer año (1999) hubo un excedente de **$5.860 millones**. Esta cifra se debe tener en cuenta en el momento de calcular la TIR. Pero no bajo la modalidad de flujo ofertada. La inversión del concesionario en los tres primeros años de la ejecución del proyecto se estimó en **$42 mil millones**.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/veedores-1024x577.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/veedores-1024x577.jpg)
 *Los veedores unidos y sonrientes contra la Concesión Vial de los peajes urbanos: (izq. a derecha) Nausícrate Pérez, Héctor Pérez, William Murra Babún, Alcides Arrieta y Erick Urueta. En esta foto faltan otros, como Fidian García, el Capitán No a los Peajes.*
 
 Seis entidades diferentes coincidieron en lo mismo. Son la Contraloría Distrital, la Comisión de Control Social de ACIEMBOL que coordina el ingeniero **William Murra Babún**, la consultora INVERLINK en el año 2010, la propia Contraloría General de la República en una auditoría practicada en el año 2012, el perito del Juzgado Séptimo Administrativo, el Distrito al momento de suscribir el Otrosí 21 de 2014.
@@ -67,12 +67,12 @@ No obstante, la Concesión Vial de Cartagena con la anuencia de EDURBE **falsea 
 
 ## Evolución de los ingresos 1999-2001
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/informe-de-auditoria-contraloria-distrital.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/informe-de-auditoria-contraloria-distrital.jpg)
 *Tabla 1. Informe de Auditoría. Fuente Contraloría Distrital.*
 
 Como se puede observar, el concesionario tuvo un flujo de caja de **$25.693.056**, resultado de un **ingreso total de $127.353.135** contra unos **egresos de $101.660.079**. Es decir, que para el 2001 ya la Concesión Vial de Cartagena había recibido con creces la inversión hecha que a valor 1997 se estableció en **$42.000 millones.**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/GRAFICA-DEL-FLUJO-DE-CAJA.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/06/tira-y-jala-con-los-peajes-en-cartagena-la-tir-se-cumplio/GRAFICA-DEL-FLUJO-DE-CAJA.jpg)
 *Tabla 2. Informe de Auditoria contrato Concesión Vial donde se comprueba el alcance de la TIR. Contraloría Distrital de Cartagena, Pag 28.*
 
 Como se puede apreciar en la tabla 2, los aportes del inversionista se dieron en el año 3(2000) por un monto de **$17.455.175** y en el año 4(2002) los aportes realizado por este operador privado fueron de **$ 7.219.889**, para un total de **$24.675.000.** En el flujo de caja de la propuesta financiera presentada por el consorcio privado no se incluyen los aportes de inversión, y sí se incorporan los valores estimados a precios constantes de 1997. Esto tiene como resultado una **tasa interna de retorno del 17,22%.** 

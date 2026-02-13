@@ -5,10 +5,10 @@ pubDate: "2024-12-09 14:52:56"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/hero.jpg
 ---
 
-![Amelia Pérez tiene el reto de estrenarse como directora de la SAE frente a la herencia de la Ñeñe-política.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/amelia_nene.jpeg)
+![Amelia Pérez tiene el reto de estrenarse como directora de la SAE frente a la herencia de la Ñeñe-política.](s3://bundled-saddlebag-tnqki7w/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/amelia_nene.jpeg)
 *Amelia Pérez tiene el reto de estrenarse como directora de la SAE frente a la herencia de la Ñeñe-política.*
 
 Hoy, se espera en Bayunca a la directora nacional de la Sociedad de Activos Especiales (SAE), **Amelia Pérez Morales**, con el fin de entregar a los campesinos desposeídos **«la joya de la Corona**»** de «Ñeñe» Hernández**. Se trata de **654 hectáreas** ubicadas en ese corregimiento de Cartagena. Uno de esos predios es **«**Tres Estrellas**»**. Estas propiedades son administradas (¡escuche muy bien!) por la firma **Inversiones Hernández López**, herederos de **José Guillermo Hernández**, conocido en el mundo del hampa y de la política como **«el Ñeñe»**.
@@ -21,7 +21,7 @@ Recordemos que ese presunto narcotraficante fue asesinado en 2019 en Brasil por 
 
 ## Convenio SAE―ANT
 
-![Amelia Pérez Morales, directora de la SAE debe definir la suerte de la «la joya de la Corona» de «Ñeñe» Hernández.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/AMELIA_HACIENDA_sae.jpeg)
+![Amelia Pérez Morales, directora de la SAE debe definir la suerte de la «la joya de la Corona» de «Ñeñe» Hernández.](s3://bundled-saddlebag-tnqki7w/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/AMELIA_HACIENDA_sae.jpeg)
 *Amelia Pérez Morales, directora de la SAE debe definir la suerte de la «la joya de la Corona» de «Ñeñe» Hernández.*
 
 El gobierno del presidente Gustavo Petro tomó la decisión de pasar las tierras del Fondo de Rehabilitación, Inversión Social y Lucha contra el Crimen Organizado (Frisco) de la SAE a la Agencia Nacional de Tierra―ANT. Según la Contraloría General de República, el Frisco es un fiasco administrativo que no cumple con su finalidad.
@@ -44,7 +44,7 @@ El móvil de ese homicidio fue asesinar a **Carlos Rodríguez** para no pagarle 
 
 ## Se toman **«la joya de la Corona**»**** **de «Ñeñe» Hernández**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/hero.jpg)
 *El líder social, Carlos Amaranto, le explica Miguel Espinosa, de la SAE, las razones por las cuales se tomaron «la joya de la Corona» de «Ñeñe» Hernández.*
 
 En vista de que los predios capturados por la SAE debían destinarse para que los campesinos de la subregión los explotaran legalmente, el proceso de entrega se inició hace un año. Sin embargo, se estrellaron con un muro de contención: las propiedades estaban en manos de una firma comercial ****Inversiones Hernández López****. Esta firma es un derivado de la organización delictiva que dirigía **«Ñeñe»** Hernández.
@@ -55,7 +55,7 @@ Cansados de tanta dilación para la **efectiva entrega**, 170 campesinos despose
 
 ## Ocho hectáreas por cabeza
 
-![Los viejos recientes tiempos del «Ñeñe» Hernández con Uribe y Duque.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/Nene_ivan_Portada.jpeg)
+![Los viejos recientes tiempos del «Ñeñe» Hernández con Uribe y Duque.](s3://bundled-saddlebag-tnqki7w/2024/12/la-joya-de-la-corona-de-nene-hernandez-para-campesinos/Nene_ivan_Portada.jpeg)
 *Los viejos recientes tiempos del «Ñeñe» Hernández con Uribe y Duque.*
 
 De acuerdo con la entrevista realizada al bayunquero **Carlos Amaranto**, abogado, exedil y líder del movimiento social, la acción de toma se hizo porque observaron mucha demora en el proceso de entrega de estas propiedades incautadas a **«Ñeñe»** Hernández. Esta demora estuvo determinada por descuido de funcionarios de la SAE que cometieron varios errores de conocimiento básico. Pensaron estar allí hasta cuando la SAE hiciera la entrega.

@@ -5,10 +5,10 @@ pubDate: "2024-07-02 00:34:15"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/hero.jpg
 ---
 
-![La sombra de los Cien Días de Luz en la Fiscalía: «Los Intocables». Aquí cuando tomó posesión ante el presidente Gustavo Petro./Fiscalía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/Luz_Adriana_Gustavo_Petro.jpeg)
+![La sombra de los Cien Días de Luz en la Fiscalía: «Los Intocables». Aquí cuando tomó posesión ante el presidente Gustavo Petro./Fiscalía.](s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/Luz_Adriana_Gustavo_Petro.jpeg)
 *La sombra de los Cien Días de Luz en la Fiscalía: «Los Intocables». Aquí cuando tomó posesión ante el presidente Gustavo Petro./Fiscalía.*
 
 Uno de los indicadores de resultados que refleja la pobreza mental de la Fiscalía en Colombia es la impunidad de _**Los Intocables**_ y de los políticos comprometidos en corrupción administrativa. Los empresarios y reales promotores del paramilitarismo se mueren de viejos (caso Alfonso Macías) sin probar el rigor de la justicia, mientras sus acusadores son asesinados, amenazados o marginados. La sombra de los **Cien Días de Luz en la Fiscalía**, sin duda, es la impunidad de los herederos del paramilitarismo, de sus empresarios que la financiaron y de los políticos que le sacaron provecho a esa financiación.
@@ -19,7 +19,7 @@ Debemos saber que **Álvaro Uribe Vélez**, expresidente de Colombia, no es el �
 
 ## La fiscal «soy yo»
 
-!["La fiscal soy yo!. La impunidad de Los intocables](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/hero.jpg)
+!["La fiscal soy yo!. La impunidad de Los intocables](s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/hero.jpg)
 *La sombra de los Cien Días de Luz. "La fiscal soy yo!. La impunidad de Los intocables*
 
 Recordemos que la fiscal **Luz Adriana Camargo Garzón** se posesionó el 22 de marzo de 2024, después de un duro enfrentamiento entre el presidente y la Corte Suprema de Justicia. La Corte se había tomado todo su tiempo para deliberar sobre la elección de la fiscal. La única que se benefició de este interregno fue, sin lugar a equívocos, **Martha Mancera**, la que fuera la vicefiscal de **Francisco Barbosa**. Hoy, es una de las mujeres más poderosas que supo acomodar sus piezas en el **armatodo** de la Fiscalía.
@@ -30,7 +30,7 @@ Desde la fecha de posesión hasta ahora, la sociedad colombiana desconoce las **
 
 ## Los Cien Días de Luz: La impunidad de «Los Intocables»
 
-![Fiscal ¿En qué quedó la investigación de este integrante de Los intocables dueño del matadero Camagüey? La impunidad de los intocables. Alias Alacrán lo acusó con documento en mano ante Justicia y Paz.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/La-prueba-de-Alacran-1024x1024.jpg)
+![Fiscal ¿En qué quedó la investigación de este integrante de Los intocables dueño del matadero Camagüey? La impunidad de los intocables. Alias Alacrán lo acusó con documento en mano ante Justicia y Paz.](s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/La-prueba-de-Alacran-1024x1024.jpg)
 *La sombra de los Cien Días de Luz en la Fiscalía. ¿En qué quedó la investigación de este integrante de Los intocables dueño del matadero Camagüey? La impunidad de los intocables. Alias Alacrán lo acusó con documento en mano ante Justicia y Paz.*
 
 Aunque la fiscal prometió un liderazgo para cumplir una misión humana por la **«dignidad y el bienestar de nuestra gente»**, hay una honda sospecha de que será lo mismo que sucedió con la fiscalía de **Francisco Barbosa**.
@@ -43,7 +43,7 @@ No obstante, con el Memorando No. 0001 el 27 de junio de 2024 (documento no disp
 
 ## El caso de Orlando Jaiquel
 
-![Fernando Orlando Jaiquel, después de una azarosa carrera judicial llega a la fiscalía seccional más corrupta de la costa Caribe, seguramente de la mano de los políticos aliados de Gustavo Petro. ¿Le va a hacer el mandado a alguien?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/fernando_orlando_Jaiquel.jpeg)
+![Fernando Orlando Jaiquel, después de una azarosa carrera judicial llega a la fiscalía seccional más corrupta de la costa Caribe, seguramente de la mano de los políticos aliados de Gustavo Petro. ¿Le va a hacer el mandado a alguien?](s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/fernando_orlando_Jaiquel.jpeg)
 *Fernando Orlando Jaiquel, después de una azarosa carrera judicial llega a la fiscalía seccional más corrupta de la costa Caribe. En Cartagena estuvo al servicio del exsenador Javier Cáceres Leal, ¿Está allí para hacerle el mandado a alguien?*
 
 El equipo seleccionado, si bien tiene buena hoja de vida, la duda está en la competencia. Entiéndase este concepto como sinónimo de aptitud, habilidad y destreza.
@@ -54,12 +54,12 @@ La otra sospecha es que _―_al menos_―_ varios de los directores de fiscalía
 
 ## _**Los Intocables**_ amenazan y la Fiscalía calla
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/Magistrado_Gustavo_Roa_despacho.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/Magistrado_Gustavo_Roa_despacho.jpg)
 *Los Intocables que amenazan al magistrado Gustavo Roa Avendaño. ¿Qué dice la Fiscalía de esta investigación?*
 
 Amenazar de muerte a un magistrado, un abogado o un periodista para que no cumpla con su papel en la lucha contra la impunidad, es inaceptable. Pero más inaceptable es la conducta omisiva de la Fiscalía que, por ejemplo, frente a tres casos (magistrado **Gustavo Roa Avendaño,** el abogado **Johnny González** y el periodista **Lucio Torres**), pese a existir denuncias con material probatorio suficientes, **no ha hecho absolutamente nada**. En el caso particular de este periodista, como persona protegida, las amenazas de muerte son recurrentes por aquellos que se creen afectados por el periodismo que ejercemos.
 
-![Apartes de la denuncia presentada por el reconocido académico y jurista Johnny González contra algunos de Los Intocables.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/denuncia_penal_johnny.jpeg)
+![Apartes de la denuncia presentada por el reconocido académico y jurista Johnny González contra algunos de Los Intocables.](s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/denuncia_penal_johnny.jpeg)
 *Apartes de la denuncia presentada por el reconocido académico y jurista Johnny González contra algunos de Los Intocables.*
 
 En tanto que el destacado académico y abogado penalista, **Johnny González**, fue amenazado de muerte por _Los Intocables_ que tuvieron la mayor participación accionaria de Palmeras de la Costa. Específicamente, presentó denuncia penal por amenaza de muerte contra **Rafael Antonio Matera Lajud, **Alfredo Enrique Matera Sabbagh** y Enrique Alfredo Pérez Matera**, nombrados y renombrados por **Salvatore Mancuso** y otros jefes paramilitares en **Justicia y Paz**.
@@ -72,7 +72,7 @@ Juan Francisco Segura Gómez, alias **‘Mario’** o **‘El Alacrán**’, dec
 
 El mentado palmicultor y ganadero, además, dedicó su vida al crimen de lesa humanidad, específicamente a la financiación de las acciones del paramilitarismo. Aunque Alfonso Macías Vargas murió el año pasado, su hijo **Alfonso Macías Azuero**, debe ser vinculado a estos procesos de responsabilidad penal. Fue copartícipe para eliminar pruebas de crímenes de lesa humanidad y heredero de los bienes muebles, inmuebles y dineros producto de las actividades ilegales de su padre con las AUC, y también vinculado con las amenazas de muerte contra el Magistrado de Justicia y Paz **Gustavo Roa**.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/finca_potosi.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/finca_potosi.jpeg)
 *En esta finca de Potosí (Nro Matrícula: 190-6041) la Fiscalía verificó la existencia de fosas comunes producto de las actividades paramilitares de Alfonso Macías Vargas. La remoción de los cadáveres la hizo junto a su hijo, Alfonso Macías Azuero, según declaraciones de los exjefes paramilitares.*
 
 ¿Te interesa? [Los Intocables siguen delinquiendo y la Fiscalía lo sabe (XI)](/articulos/los-intocables-siguen-delinquiendo-y-la-fiscalia-lo-sabe/)
@@ -111,7 +111,7 @@ Sin embargo, lo más grave son los diferentes intereses que se mueven alrededor 
 
 ## La impunidad de «Los Intocables»
 
-![Álvaro Uribe Vélez, el intocable No 1. ¡A juicio!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/alvaro_uribe_velez_0-e1597454280872.jpg)
+![Álvaro Uribe Vélez, el intocable No 1. ¡A juicio!](s3://bundled-saddlebag-tnqki7w/2024/07/la-sombra-de-los-cien-dias-de-luz-en-la-fiscalia-los-intocables/alvaro_uribe_velez_0-e1597454280872.jpg)
 *Álvaro Uribe Vélez, el intocable No 1. ¡A juicio!*
 
 Mientras la Fiscalía se transforma en una hidra, carcomida por la corrupción, afuera el hampa se apodera de ciudades y campos. Las investigaciones penales no avanzan. Se pierden en la bruma con dilación, negligencia e impunidad. Muchos de sus fiscales hacen parte del complejo mundo de la ilegalidad. Y si responden, la respuesta es tardía. Y si aceleran, es por intereses políticos.

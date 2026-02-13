@@ -5,10 +5,10 @@ pubDate: "2023-11-25 03:17:52"
 author: "Lucio"
 categories: ["Análisis","Crónica","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/el-legado-de-vicentico-y-raymundo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/11/el-legado-de-vicentico-y-raymundo/hero.jpg
 ---
 
-![Parque Bolívar rescatado por Vicente Blel./VoxPopuli.Digital.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/el-legado-de-vicentico-y-raymundo/hero.jpg)
+![Parque Bolívar rescatado por Vicente Blel./VoxPopuli.Digital.](s3://bundled-saddlebag-tnqki7w/2023/11/el-legado-de-vicentico-y-raymundo/hero.jpg)
 *Parque de Bolívar rescatado por Vicente Blel./VoxPopuli.Digital.*
 
 Hoy el **Parque de Bolívar** recuperado, es el legado de **Vicentico Blel Scaf**, gobernador de Bolívar. Un legado para el país histórico. Pero, todo fue posible gracias a que el parque tenía dolientes que representó dignamente **Raymundo Angulo Pizarro**, quien _regresó del más allá_ para reclamar esa obra. Llevó la bandera de esa _ciudadanía empoderada_ que reclama de su gobernante el poder que se le delegó. El _zar de la belleza_ pidió a gritos esa recuperación. Veía con tristeza el abandono paisajístico de esta obra histórica y cultural. Sin duda, es uno de los sitios emblemáticos donde se encuentran la historia colonial y republicana de Cartagena de Indias y de Colombia.
@@ -19,7 +19,7 @@ El Dios de la vida le dio un tiempo extendido a Raymundo cuando estaba en el má
 
 El Concurso Nacional de Belleza se encargó de mantenerlo durante 19 años hasta cuando pasó al Distrito de Cartagena. Después de la pandemia de 2020 quedó reducido al olvido y a la dejadez de una administración indolente como la de **William Dau Chamat**. Cada vez que Raymundo veía el parque desvencijado, mustio y abandonado, sentía una tristeza en el alma. La misma tristeza que experimentaba cualquier visitante o residente de la ciudad.
 
-![Cuando entrevistaba a Julia Salvi, el alma del Festival Internacional de Música Clásica de Cartagena de Indias. /Captura de pantalla. El legado de Vicentico.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/el-legado-de-vicentico-y-raymundo/JuliaSalvi_lucio.jpg)
+![Cuando entrevistaba a Julia Salvi, el alma del Festival Internacional de Música Clásica de Cartagena de Indias. /Captura de pantalla. El legado de Vicentico.](s3://bundled-saddlebag-tnqki7w/2023/11/el-legado-de-vicentico-y-raymundo/JuliaSalvi_lucio.jpg)
 *Cuando entrevistaba a Julia Salvi, el alma del Festival Internacional de Música Clásica de Cartagena de Indias. /Captura de pantalla.*
 
 Tal es el caso de la inspiradora y alma del **Festival Internacional de Música Clásica de Cartagena y de la Orquesta Sinfónica, Julia Salvi:**
@@ -42,7 +42,7 @@ En una oportunidad -Raymundo recordó este hecho- un señor estaba acostado en u
 
 ## La historia viva
 
-![Coronel José Archila, el gobernador Vicente Blel, Raymundo Angulo y el director de Icultur Iván Sanes./VoxPopuli Digital. El legado de Vicentico](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/11/el-legado-de-vicentico-y-raymundo/Parque-de-Bolivar.jpg)
+![Coronel José Archila, el gobernador Vicente Blel, Raymundo Angulo y el director de Icultur Iván Sanes./VoxPopuli Digital. El legado de Vicentico](s3://bundled-saddlebag-tnqki7w/2023/11/el-legado-de-vicentico-y-raymundo/Parque-de-Bolivar.jpg)
 *Coronel José Archila, el gobernador Vicente Blel, Raymundo Angulo y el director de Icultur Iván Sanes./VoxPopuli Digital.*
 
 El Parque de Bolívar es una historia en movimiento. Una historia viva. Se transforma con el desarrollo del tiempo. Hoy está recuperado. Fue un mantenimiento impecable, me dice la paisajista **Erika Barrios**. En varias etapas de nuestra historia recibió diferentes nombres producto de cambios históricos. El primer nombre fue **Plaza de la Inquisición** cuando este tribunal de la iglesia católica se instaló en 1610. El nombre que conserva hoy se originó en la época centenaria de 1896.

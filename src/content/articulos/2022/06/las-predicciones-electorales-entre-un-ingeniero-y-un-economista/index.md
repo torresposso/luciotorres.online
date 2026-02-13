@@ -5,10 +5,10 @@ pubDate: "2022-06-19 13:01:22"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/las-predicciones-electorales-entre-un-ingeniero-y-un-economista/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/06/las-predicciones-electorales-entre-un-ingeniero-y-un-economista/hero.jpg
 ---
 
-![Las predicciones electorales: Rodolfo (49%9 Petro (46%)](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/las-predicciones-electorales-entre-un-ingeniero-y-un-economista/hero.jpg)
+![Las predicciones electorales: Rodolfo (49%9 Petro (46%)](s3://bundled-saddlebag-tnqki7w/2022/06/las-predicciones-electorales-entre-un-ingeniero-y-un-economista/hero.jpg)
 *Las predicciones electorales: Rodolfo (49%9 Petro (46%)*
 
 En este 19-J existen varias predicciones electorales entre dos candidatos que prometen el cambio anhelado. Unas predicciones apuntan a que el ganador de la presidencia es el candidato de la Liga de Gobernantes Anticorrupción, **Rodolfo Hernández Suárez**. Al mismo tiempo, existen otras predicciones allegadas a Petro que hablan de su amplia ventaja. Pero, debemos decir que las predicciones tienen una carga subjetiva basada en el estudio de las tendencias de las encuestas.

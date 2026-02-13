@@ -5,10 +5,10 @@ pubDate: "2021-05-26 20:51:51"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/por-que-duque-atajo-visita-de-la-cidh/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/05/por-que-duque-atajo-visita-de-la-cidh/hero.jpg
 ---
 
-\[caption id="attachment\_15091" align="aligncenter" width="1024"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/por-que-duque-atajo-visita-de-la-cidh/hero.jpg) Marta Lucía busca apoyo para el régimen. Aquí con el Director Senior Hemisferio Occidental del Consejo de Seguridad de EU. Atajó visita dela CIDH.\[/caption\]
+\[caption id="attachment\_15091" align="aligncenter" width="1024"\]![](s3://bundled-saddlebag-tnqki7w/2021/05/por-que-duque-atajo-visita-de-la-cidh/hero.jpg) Marta Lucía busca apoyo para el régimen. Aquí con el Director Senior Hemisferio Occidental del Consejo de Seguridad de EU. Atajó visita dela CIDH.\[/caption\]
 
 ¿Por qué Duque atajó visita de la CIDH? Sin duda la canciller colombiana Marta Lucía Ramírez logró detener una visita **_in loco_** de la Comisión Interamericana de Derechos Humanos—CIDH. El deseo del presidente Duque es evitar que la CIDH llegue ahora constate las denuncias sobre violación de los derechos humanos en el marco del Paro Nacional. Y lo logró, porque **la canciller pudo señalar que la visita sea para después del 29 de junio del 2021**.
 

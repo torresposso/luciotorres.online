@@ -5,10 +5,10 @@ pubDate: "2021-08-18 00:36:34"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/que-se-hizo-el-dinero-de-la-caja-de-prevision-de-la-udec/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/08/que-se-hizo-el-dinero-de-la-caja-de-prevision-de-la-udec/hero.jpg
 ---
 
-![Caja de Previsión Social de la UdeC](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/que-se-hizo-el-dinero-de-la-caja-de-prevision-de-la-udec/hero.jpg)
+![Caja de Previsión Social de la UdeC](s3://bundled-saddlebag-tnqki7w/2021/08/que-se-hizo-el-dinero-de-la-caja-de-prevision-de-la-udec/hero.jpg)
 *En el centro, Edgar Parra Chacón, posa al firmar un convenio con el IPCC, después que el alcalde Dau los trató de «nido de ratas». El rector debe responder la pregunta ¿dónde están los dineros de la Caja de Previsión?*
 
 ¿Qué se hizo el dinero de la Caja de Previsión de la UdeC? Es la pregunta que los afiliados se hacen. El exgerente de la Caja de Previsión Social de la Universidad de Cartagena, **Senén González Vélez**, salió en punta de lanza contra el **rector de la Universidad de Cartagena, Edgar Parra Chacón**. Le puso el dedo en la llaga a la situación de inviabilidad financiera de esa entidad. Pero también lo retó  para que le diga **qué están haciendo con el 12%** que le descuentan a los afiliados y a los pensionados. 

@@ -5,10 +5,10 @@ pubDate: "2025-05-01 03:29:49"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/el-concejal-que-violo-el-derecho-a-la-reputacion-de-una-lider-social-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/04/el-concejal-que-violo-el-derecho-a-la-reputacion-de-una-lider-social-ii/hero.jpg
 ---
 
-![El concejal que violó el derecho a la reputación de una lideresa](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/el-concejal-que-violo-el-derecho-a-la-reputacion-de-una-lider-social-ii/hero.jpg)
+![El concejal que violó el derecho a la reputación de una lideresa](s3://bundled-saddlebag-tnqki7w/2025/04/el-concejal-que-violo-el-derecho-a-la-reputacion-de-una-lider-social-ii/hero.jpg)
 *Bejarano, ¿violador de derechos humanos?*
 
 Un duro golpe a la reputación sufrió la lideresa **Jessica de la Barrera Cabeza** de un falso control político del concejal de Mais en Cartagena, **Javier Julio Bejarano**. El infundio lo hizo con alevosía e **intención de hacer daño a los derechos fundamentales de la reputación, al buen nombre, a la participación ciudadana y al derecho de participación**. Contrario a su anuncio triunfalista, el Instituto de Patrimonio y Cultura de Cartagena (IPCC) anuló todo lo actuado desde el acto en que no se reconoció la inscripción de la **Fundación _Rodrigo Valdez_** en el concurso de estímulos fílmicos y de producción audiovisual.
@@ -91,6 +91,6 @@ En razón a ese error del IPCC, Jessica de la Barrera en su calidad de represent
 
 La representante legal de la fundación Rodrigo Valdez anexó el pantallazo de inscripción como persona jurídica y no natural:
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/el-concejal-que-violo-el-derecho-a-la-reputacion-de-una-lider-social-ii/image-2.png)
+![](s3://bundled-saddlebag-tnqki7w/2025/04/el-concejal-que-violo-el-derecho-a-la-reputacion-de-una-lider-social-ii/image-2.png)
 
 Ahora viene la reculada del ovejo del concejal del Mais, Javier Julio Bejarano. O de lo contrario, varios procesos penales y disciplinarios.

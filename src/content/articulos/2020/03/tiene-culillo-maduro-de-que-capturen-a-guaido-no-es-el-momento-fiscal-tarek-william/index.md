@@ -5,14 +5,14 @@ pubDate: "2020-03-25 21:41:24"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/03/tiene-culillo-maduro-de-que-capturen-a-guaido-no-es-el-momento-fiscal-tarek-william/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2020/03/tiene-culillo-maduro-de-que-capturen-a-guaido-no-es-el-momento-fiscal-tarek-william/hero.jpg
 ---
 
 ENTREVISTA CON EL FISCAL GENERAL DE VENEZUELA, **TAREK WILLIAM SAAB** https://www.youtube.com/watch?v=AmZH75875Q8 La gente en Venezuela se pregunta ¿por qué razón no capturan a **Juan Guaidó?** El fiscal general de la República Bolivariana, **Tarek William Saab,** en entrevista directa concedida a **www.voxpopuli.digital** desde Caracas, dijo que **el hijo putativo del presidente Duque se está diluyendo**. Agregò:
 
 > _«No es el momento de capturar a Guaidó. El proceso de judicialización no ha culminado con una medida privativa de la libertad. Este no es el momento (...) Estamos esperando que se diluya a pesar de tener el apoyo de Donald Trump y de la extrema derecha mundial con centenares de millones de dolares que le invierte.»_
 
-Tarek William manifestó que **en los momentos de crisis se sabe quiénes son los lìderes.** El presidente Maduro cuenta con el **apoyo cívico militar**, lo cual le lleva año—luz a los gobernantes del continente. Por ejemplo, a solo 8 dìas de conocerse los primeros casos de **Covid-19**, el presidente adoptó de inmediato las medidas pertinentes para contener la expansión del virus y se le garantizó a la gente un **plan de alivio para soportar la cuarentena.** \[caption id="attachment\_11304" align="aligncenter" width="712"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/03/tiene-culillo-maduro-de-que-capturen-a-guaido-no-es-el-momento-fiscal-tarek-william/hero.jpg) El fiscal general de Venezuela **Tarek William Saab.** Cortesía\[/caption\]
+Tarek William manifestó que **en los momentos de crisis se sabe quiénes son los lìderes.** El presidente Maduro cuenta con el **apoyo cívico militar**, lo cual le lleva año—luz a los gobernantes del continente. Por ejemplo, a solo 8 dìas de conocerse los primeros casos de **Covid-19**, el presidente adoptó de inmediato las medidas pertinentes para contener la expansión del virus y se le garantizó a la gente un **plan de alivio para soportar la cuarentena.** \[caption id="attachment\_11304" align="aligncenter" width="712"\]![](s3://bundled-saddlebag-tnqki7w/2020/03/tiene-culillo-maduro-de-que-capturen-a-guaido-no-es-el-momento-fiscal-tarek-william/hero.jpg) El fiscal general de Venezuela **Tarek William Saab.** Cortesía\[/caption\]
 
 ## 300 mil muertos lleva el bloqueo
 

@@ -5,10 +5,10 @@ pubDate: "2023-02-17 00:45:13"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/02/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/hero.jpg
 ---
 
-![Así quedó Eder Perneth Caicedo testaferro  de «Jorge 40».](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/hero.jpg)
+![Así quedó Eder Perneth Caicedo testaferro  de «Jorge 40».](s3://bundled-saddlebag-tnqki7w/2023/02/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/hero.jpg)
 *Así quedó Eder Perneth Caicedo testaferro de «Jorge 40», muy mal herido.*
 
 Algo muy grave está sucediendo en Barranquilla y la gente no lo sabe. Los medios de comunicación tradicionales en poder del califato Daeschariano mantienen una autocensura. ¿Quién mandó a matar a **Eder Perneth Caicedo**, oscuro empresario, compañero de negocios de **Edgar Fierro Flórez**, alias **«Don Antonio»**, testaferro de **«Jorge 40»** en la Universidad del Magdalena entre 2003 y 2004? El año pasado estuvo intermediando para Colombia la compra de armas, fragatas y otras naves a dos firmas italianas.
@@ -35,7 +35,7 @@ El informe policivo indica que fueron cincos disparos que se alojaron en el cuer
 
 ## ¿Por qué **«Jorge 40»** querrá matar a Perneth?
 
-![Nuca Rodrigo Tovar Pupo ha dejado de ser . Ahora pide pista en la JEP con el patrocinio del Alto Comisionado de Paz, Danilo Rueda.. Testaferro de «Jorge 40» es herido mortalmente.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/Yo_soy_Jorge_40_Portada.jpg)
+![Nuca Rodrigo Tovar Pupo ha dejado de ser . Ahora pide pista en la JEP con el patrocinio del Alto Comisionado de Paz, Danilo Rueda.. Testaferro de «Jorge 40» es herido mortalmente.](s3://bundled-saddlebag-tnqki7w/2023/02/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/Yo_soy_Jorge_40_Portada.jpg)
 *Nuca Rodrigo Tovar Pupo ha dejado de ser «Jorge 40». Ahora pide pista en la JEP con el patrocinio del Alto Comisionado de Paz, Danilo Rueda.*
 
 Una fuente consultada por este medio asegura que la orden pudo venir del mismo **Rodrigo Tovar Pupo**. La fuente dice que el otrora jefe del Frente Norte de la AUC, pese a estar preso y pretender entrar a la JEP, ejerce un gran poder político, militar y económico en la región Caribe. Cuenta —agrega el informante— con una red de testaferros que vienen manejando multimillonarios contratos con el Estado desde 2004 y hacen grandes inversiones en el sector de la construcción, la inmobiliaria y la infraestructura vial y portuaria de Barranquilla y de otras ciudades de la región caribe.
@@ -46,7 +46,7 @@ Evidentemente, Barranquilla y otras ciudades caribeñas están en mano de las ma
 
 ## ¿Testaferro de «Jorge 40»?
 
-![Laino Scopetta detenido por tres condenas. Testaferro de «Jorge 40».](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/laino-scopetta.jpg)
+![Laino Scopetta detenido por tres condenas. Testaferro de «Jorge 40».](s3://bundled-saddlebag-tnqki7w/2023/02/quien-mando-a-matar-a-perneth-caicedo-testaferro-de-jorge-40/laino-scopetta.jpg)
 *Darío Laino Scopetta detenido por tres condenas. Testaferro de «Jorge 40».*
 
 Eder Perneth Caicedo tiene un largo historial semejante a **Darío Laino Scopetta** alias **«Ojitos Azules»**. Las fuentes manifiestan que maneja un **«billete largo»** gracias a los grandes contratos con el Estado y a inversiones en el sector de la infraestructura de Barranquilla durante los gobiernos de Alex Char, Elsa Noguera y Jaime Pumarejo, alcalde actual.

@@ -5,16 +5,16 @@ pubDate: "2021-04-27 21:44:49"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/hero.jpg
 ---
 
-\[caption id="attachment\_14707" align="aligncenter" width="1008"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/WILLIAM-DAU-EN-CAIDA.jpeg) **William Dau en caída libre**. Aquí respondiendo al resultado de la encuesta. Lo acompaña el comandante de la MECAR, B.G. Luis Carlos Hernández. La tasa de homicidios aumentó en los dos últimos meses.\[/caption\]
+\[caption id="attachment\_14707" align="aligncenter" width="1008"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/WILLIAM-DAU-EN-CAIDA.jpeg) **William Dau en caída libre**. Aquí respondiendo al resultado de la encuesta. Lo acompaña el comandante de la MECAR, B.G. Luis Carlos Hernández. La tasa de homicidios aumentó en los dos últimos meses.\[/caption\]
 
 **En Caída libre.** Cada día el país se está dando cuenta de **las mentiras del presidente Iván Duque** junto con su vicepresidente **Martha Lucía Ramirez**. Lo mismo sucede en Cartagena con las grandes mentiras del alcalde William Dau. Las últimas encuestas dan cuenta de la caída libre de su imagen positiva. **En el caso de Dau la situación es alarmante casi un &0% de desfavorabilidad**.
 
 ## En caída libre
 
-![La caída libre del presidente se debe a las mentiras de la inversion para el Covid-19 y a la presentación de la Reforma tributaria](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/hero.jpg)
+![La caída libre del presidente se debe a las mentiras de la inversion para el Covid-19 y a la presentación de la Reforma tributaria](s3://bundled-saddlebag-tnqki7w/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/hero.jpg)
 *La caída libre del presidente se debe a las mentiras de la inversión para el Covid-19 y a la presentación de la Reforma tributaria.*
 
 Sin lugar a dudas, el estudio de **Guarumo y Econoalítica** indica un caída libre de la imagen del presidente Iván Duque y de su vicepresidente Martha Lucía Ramírez. Una caída que se ha acentuada en la última medición.
@@ -28,7 +28,7 @@ El análisis se puede indicar que los anuncios sobre el Covid-19, las vacunas y 
 
 ## Los alcaldes capitales
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/claudia-lopez-entrevista-el-tiempo.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/claudia-lopez-entrevista-el-tiempo.jpg)
 *Claudia López está en caída de su imagen. Bogotá vive la peor semana del Covid-19.*
 
 Se estudia a 6 de los alcaldes capitales de Colombia. Los dos únicos alcaldes que lograron superar el 50% de favorabilidad fueron el de Barranquilla Jaime Pumarejo y el de Medellín, Daniel Quintero. Ello quiere decir que los procesos de revocatoria del mandato de aquellos alcaldes que no superan el 50% de favorabilidad, tiene mayor prosperidad.
@@ -42,7 +42,7 @@ Se estudia a 6 de los alcaldes capitales de Colombia. Los dos únicos alcaldes q
 
 ## El análisis de la caída libre de Dau
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/encuesta.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/04/en-caida-libre-las-mentiras-del-alcalde-y-del-presidente/encuesta.jpeg)
 *La caída libre de William Dau. La sociedad cartagenera se está dando cuenta de sus mentiras.*
 
 Como se puede apreciar, de los alcaldes analizados, **William Dau Chamat sufrió el peor descalabro**. La principal causa de esta situación son las **protuberantes mentiras** que ha pulverizado la credibilidad construida con populismo maquiavélico. Al principio de su mandato su imagen presentaba un alto índice. Ni siquiera sus consabidas salidas populistas en los peajes han podido detener esa caída libre.

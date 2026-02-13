@@ -5,10 +5,10 @@ pubDate: "2024-02-11 14:58:20"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/juicio-politico-al-presidente-el-8-f-acelero-la-crisis-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/02/juicio-politico-al-presidente-el-8-f-acelero-la-crisis-i/hero.jpg
 ---
 
-![Esta reunión entre el presidente Petro y el presidente de la Corte Suprema fue inútil. Solo para la foto. ¿Juicio político al presidente? ¿El 8/F aceleró la crisis?/Corte.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/juicio-politico-al-presidente-el-8-f-acelero-la-crisis-i/hero.jpg)
+![Esta reunión entre el presidente Petro y el presidente de la Corte Suprema fue inútil. Solo para la foto. ¿Juicio político al presidente? ¿El 8/F aceleró la crisis?/Corte.](s3://bundled-saddlebag-tnqki7w/2024/02/juicio-politico-al-presidente-el-8-f-acelero-la-crisis-i/hero.jpg)
 *Esta reunión entre el presidente Petro y ewl presidente de la Corte Suprema fue inútil. Solo para la foto. ¿Juicio político al presidente? ¿El 8/F aceleró la crisis?/Corte.*
 
 ¿Están dadas las condiciones políticas y jurídicas que se necesitan para un juicio político al presidente? Recordemos que es el primer jefe de Estado que se presume de izquierda y del ala _progresista_ en estos últimos 80 años, después de la _Revolución en Marcha_ (1934-1938) de **Alfonso López Pumarejo**. La última pelea fue azuzar a las masas sindicalizadas y a la guardia indígena contra la Corte Suprema de Justicia y la Fiscalía como si fueran perros de presa. ¡Craso error!
@@ -81,7 +81,7 @@ La protesta del 8/F no fue una expresión de fuerza. No. Fueron acciones reactiv
 
 ## Juicio político al presidente y 8/F
 
-![¿Juicio político al presidente? ¿Por qué no se aprovechó la reunión con la UNU para denunciar el Juicio político al presidente? El 8/F neutralizó cualquier aprovechamiento político de la reunión de la ONU. Captura de pantalla.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/juicio-politico-al-presidente-el-8-f-acelero-la-crisis-i/ONU-1024x514.jpg)
+![¿Juicio político al presidente? ¿Por qué no se aprovechó la reunión con la UNU para denunciar el Juicio político al presidente? El 8/F neutralizó cualquier aprovechamiento político de la reunión de la ONU. Captura de pantalla.](s3://bundled-saddlebag-tnqki7w/2024/02/juicio-politico-al-presidente-el-8-f-acelero-la-crisis-i/ONU-1024x514.jpg)
 *¿Juicio político al presidente? ¿Por qué no se aprovechó la reunión con la UNU para denunciar el Juicio político al presidente? El 8/F neutralizó cualquier aprovechamiento político de la reunión de la ONU. Captura de pantalla.*
 
 Esos escándalos hechos que la oposición de derecha los está canalizando con creces, hacen más precaria la estabilidad política del _gobierno compartido_. Está siendo compartido con la misma clase política que lo quiere tumbar. La que él mismo atacó a lo largo de 30 años de lucha parlamentaria. El curso de los acontecimientos, como el **8/F**, ¿marcará el inicio de un proceso que seguramente terminará en lo que más le teme el primer mandatario: **un juicio político**?

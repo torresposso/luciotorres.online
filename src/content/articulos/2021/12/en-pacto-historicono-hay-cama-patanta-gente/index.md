@@ -5,10 +5,10 @@ pubDate: "2021-12-13 03:15:22"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/en-pacto-historicono-hay-cama-patanta-gente/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/12/en-pacto-historicono-hay-cama-patanta-gente/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/en-pacto-historicono-hay-cama-patanta-gente/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/en-pacto-historicono-hay-cama-patanta-gente/hero.jpg)
 *Gustavo Bolívar busca estar en el primer lugar. Pero todo indica que será una mujer del Pacto Histórico. Si no es María José Pizarro ¿quién?*
 
 **«¡No hay cama pa´tanta gente!»** que pretende estar en los primeros lugares. Un tremendo despelote se viene formando con la integración de las listas a senado y cámara del Pacto Histórico. Si los de arriba tienen cipote ego político, ¿qué se espera de los seguidores del petrismo? Muy a pesar de haberse creado un **Colegio Electoral** para conformar las listas, no ha sido funcional y, a menos de 24 horas de que se conformen, nadie responde. La incertidumbre crece y es posible que también crezca la insatisfacción, especialmente de las bases.
@@ -19,7 +19,7 @@ Huelga aclarar, es irrelevante de quién encabece la lista en un movimiento dond
 
 En el senado, por ejemplo, la pelea comenzó desde el mismo momento en que lanzaron la propuesta del Pacto Histórico. **María José Pizarro Rodriguez**, representante a la cámara, busca encabezar la lista a senado. Aspiración similar tiene el senador **Gustavo Bolívar.** ¿Quién lo decide? Supuestamente el Colegio Electoral del Pacto Histórico.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/en-pacto-historicono-hay-cama-patanta-gente/maria-jose-pizarro.png)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/en-pacto-historicono-hay-cama-patanta-gente/maria-jose-pizarro.png)
 *Gustavo Petro y María José Pizarro. Cortesía.*
 
 ## Los gajes del caudillismo
@@ -38,7 +38,7 @@ Al parecer, para ocupar los 10 primeros lugares están fijos: José María Pizar
 
 ## Pachón alza la voz en el Pacto Histórico
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/en-pacto-historicono-hay-cama-patanta-gente/CESAR-PACHON-scaled-1.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/en-pacto-historicono-hay-cama-patanta-gente/CESAR-PACHON-scaled-1.jpeg)
 *César Pachón con Gustavo Petro*
 
 Pachón en el día de hoy emitió una fuerte declaración en un chat del Pacto Histórico.
@@ -59,7 +59,7 @@ Casi en todo el país el proceso de conformación de las listas a cámara se con
 
 ## El Pacto Histórico en Bolívar
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/en-pacto-historicono-hay-cama-patanta-gente/28javier_marrugo.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/en-pacto-historicono-hay-cama-patanta-gente/28javier_marrugo.jpg)
 *Javier Marrugo, Secretario General de la Unión Portuaria y candidato a la Cámara por el Polo Bolívar.*
 
 La lista a Cámara difundida por el Pacto Histórico para Bolívar está integrada en su orden: **Colombia Villamil (**Colombia Humana**), Javier Marrugo (Polo), Aden Elles, Rafael León (Polo), Nayibis Mercado y Roxana Lombana**. De esta lista está siendo duramente criticada Villamil y Marrugo, los dos que tendrían posibilidades de entrar en el supuesto caso que pasen el umbral. Si se trata de votos, Villamil espera poner lo votos necesarios para que el Pacto Histórico saque curul.

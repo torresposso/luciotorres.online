@@ -5,10 +5,10 @@ pubDate: "2022-04-18 23:46:57"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/hero.jpg
 ---
 
-![El hermano del candidato Petro, Juan Fernando es un activista de la campaña del Pacto Histórico. El «perdón social» con los internos del pabellón Ere de La Picota tiene crucificado a Gustavo Petro.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/hero.jpg)
+![El hermano del candidato Petro, Juan Fernando es un activista de la campaña del Pacto Histórico. El «perdón social» con los internos del pabellón Ere de La Picota tiene crucificado a Gustavo Petro.](s3://bundled-saddlebag-tnqki7w/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/hero.jpg)
 *El hermano del candidato Petro, Juan Fernando es un activista de la campaña del Pacto Histórico. El «perdón social» con los internos del pabellón Ere de La Picota tiene crucificado a Gustavo Petro.*
 
 Se terminó la Semana Santa, pero un verdadero viacrucis sigue viviendo **Gustavo Petro Urrego, candidato presidencial del Pacto Histórico, por cuenta de su «perdón social»**  a los victimarios. Y es que en esta semana de pasión se conjugaron tres hechos que hicieron su cruz más pesada y dolorosa para llegar a la Presidencia de la República. ¿Lo podría llevar a la crucifixión en la segunda vuelta presidencial? A casi un mes de la primera vuelta, es un error que lo pagaría caro, ya que **los indecisos** lo podrían descartar como su opción.
@@ -33,7 +33,7 @@ Puedes escuchar mientras espera o conduces.
 
 ## Una cagada, una doble moral
 
-![Quizás el afán de ganar la presidencia llevó a los Petro al pabellón Ere de La Picota. ¡Error capital! La teoría del perdón social es transparente.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/Petro_Moreno_hermano.jpg)
+![Quizás el afán de ganar la presidencia llevó a los Petro al pabellón Ere de La Picota. ¡Error capital! La teoría del perdón social es transparente.](s3://bundled-saddlebag-tnqki7w/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/Petro_Moreno_hermano.jpg)
 *Quizás el afán de ganar la presidencia llevó a los Petro al pabellón Ere de La Picota. ¡Error capital! La teoría del perdón social es transparente.*
 
 Independientemente de si se está de acuerdo con el concepto de «**perdón social»**, lo que se observa es que la campaña del Pacto histórico se la puso de **_papayita_** a sus contrincantes políticos. ¡Fue un error estratégico! Le podría costar la presidencia a Petro. La siguiente declaración de  [Juan Fernando Petro en su entrevista con la revista Semana,](/articulos/nacion/articulo/confirmado-ivan-moreno-el-gordo-garcia-y-los-demas-presos-condenados-si-le-hablaron-al-hermano-de-gustavo-petro-de-rebaja-de-penas-y-perdon-social/202228/) sintetiza la verdadera justificación de la visita que la campaña presidencial de Gustavo Petro le hizo a los reclusos del pabellón Ere de La Picota. Son reclusos condenados por diferentes delitos que va desde concierto para delinquir, corrupción hasta parapolítica.  Así lo resumió el hermano y uno de los líderes de la campaña:
@@ -70,7 +70,7 @@ Pero para que el sujeto sea perdonado, entonces, debe ser un **perdón condicion
 
 ## Lo imperdonable del «**perdón social»**
 
-![Jacques Derrida: El Siglo y el Perdón](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/derrida_20061.jpg)
+![Jacques Derrida: El Siglo y el Perdón](s3://bundled-saddlebag-tnqki7w/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/derrida_20061.jpg)
 *Jacques Derrida: El Siglo y el Perdón.*
 
 En eso tiene razón Derrida, al señalar que el perdón es un imposible, lo cual va en contravía de lo que Petro expuso en su discurso. Veamos lo que el filósofo francés dijo en su debate con Jankélévitch
@@ -83,7 +83,7 @@ Al candidato de izquierda nunca se le pasaría por la mente la gran marea negati
 
 ## El «**perdón social»** y la sociedad
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/Guillermo-Hoyos-Vasquez.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/04/el-perdon-social-una-cagada-que-le-podria-costar-la-presidencia-a-petro/Guillermo-Hoyos-Vasquez.jpg)
 *Guillermo hoyos Vásquez.*
 
 En consecuencia, son las víctimas y la sociedad las que deben agenciar un «**perdón social»**. O sea, un perdón moral, como lo señala el filósofo colombiano  **Guillermo Hoyos Vásquez (**[desteologizar el perdón)](/articulos/archivo/documento/CMS-12327159) a propósito del debate introducido por Jacque Derridá sobre el **proceso de paz de Sudáfrica.** Momento en que debatió con Jankélévitch el concepto de **imprescriptibilidad de ciertos delitos contra la humanidad**. Al respecto, Hoyos Vásquez dijo:

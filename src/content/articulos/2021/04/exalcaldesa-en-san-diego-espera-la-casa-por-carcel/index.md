@@ -5,10 +5,10 @@ pubDate: "2021-04-21 18:26:26"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/exalcaldesa-en-san-diego-espera-la-casa-por-carcel/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/04/exalcaldesa-en-san-diego-espera-la-casa-por-carcel/hero.jpg
 ---
 
-\[caption id="attachment\_14586" align="aligncenter" width="613"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/exalcaldesa-en-san-diego-espera-la-casa-por-carcel/hero.jpg) El día que a Judith Pïnedo le leyeron sus derechos al ser detenida. Espera «casa por cárcel». \[/caption\]
+\[caption id="attachment\_14586" align="aligncenter" width="613"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/exalcaldesa-en-san-diego-espera-la-casa-por-carcel/hero.jpg) El día que a Judith Pïnedo le leyeron sus derechos al ser detenida. Espera «casa por cárcel». \[/caption\]
 
 **Judith Pinedo Flórez**, exalcaldesa de Cartagena condenada a 12,5 años por el **Tribunal Superior**, se encuentra en la nueva cárcel de San Diego. Espera que la Corte Suprema de Justicia (CSJ) le conceda la «casa por cárcel». El alto tribunal decidirá un recurso especial de impugnación que presentó el mismo día de le notificaron el fallo.
 
@@ -16,7 +16,7 @@ La exalcaldesa se encuentra en aislamiento por 14 días con el fin de cumplir lo
 
 ## «Casa por cárcel»
 
-\[caption id="attachment\_14596" align="aligncenter" width="753"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/exalcaldesa-en-san-diego-espera-la-casa-por-carcel/carcel-San-Diego-nue.jpeg) Esta es la nueva Cárcel de San Diego. En una de esas habitaciones estará Judith Pinedo Flórez, exalcaldesa de Cartagena. Espera que le den «casa por cárcel».\[/caption\]
+\[caption id="attachment\_14596" align="aligncenter" width="753"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/exalcaldesa-en-san-diego-espera-la-casa-por-carcel/carcel-San-Diego-nue.jpeg) Esta es la nueva Cárcel de San Diego. En una de esas habitaciones estará Judith Pinedo Flórez, exalcaldesa de Cartagena. Espera que le den «casa por cárcel».\[/caption\]
 
 Una vez radicada la impugnación, la CSJ debe conocer la solicitud de la domiciliaria durante el período que dure el conocimiento de la impugnación presentada por Enrique del Río, el apoderado de la exalcaldesa.
 
@@ -34,7 +34,7 @@ Solo en 2020, en el primer año de la administración de William Dau, le pagaron
 
 ## La «casa por cárcel» de Judith
 
-\[caption id="attachment\_14601" align="aligncenter" width="1305"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/exalcaldesa-en-san-diego-espera-la-casa-por-carcel/judith-y-arturo-1.jpg) En los tiempos donde el poder no había tocado su lado negativo.\[/caption\]
+\[caption id="attachment\_14601" align="aligncenter" width="1305"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/exalcaldesa-en-san-diego-espera-la-casa-por-carcel/judith-y-arturo-1.jpg) En los tiempos donde el poder no había tocado su lado negativo.\[/caption\]
 
 Judith Pinedo tiene la esperanza de que la Corte le dé «casa por cárcel» mientras se conoce el fallo definitivo. Pero, mientras tanto, la exalcaldesa Judith Pinedo debe estar en una de esas habitaciones que le adecuaron para ella.
 

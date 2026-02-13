@@ -5,10 +5,10 @@ pubDate: "2021-10-06 21:40:10"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/costa-caribe-los-talibanes-de-la-economia-en-cloacas-fiscales-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/10/costa-caribe-los-talibanes-de-la-economia-en-cloacas-fiscales-ii/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/costa-caribe-los-talibanes-de-la-economia-en-cloacas-fiscales-ii/Los-talibanes-de-la-economia-2-e1633569774516.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/costa-caribe-los-talibanes-de-la-economia-en-cloacas-fiscales-ii/Los-talibanes-de-la-economia-2-e1633569774516.jpeg)
 *Fuad Char y su cría: Antonio, Arturo y Alejandro. La vanguardia de «Los Talibanes de la economía». Laura Botet.*
 
 En la Costa Caribe: **«Los Talibanes de la economía»** también se encuentran en las **«cloacas fiscales**» del mundo. El proceso de enriquecimiento de clanes familiares ligados a la política del país también recurrieron a cuentas _**offshore**_ en las **«cloacas fiscales»** internacionales con las cuales multiplicaron sus riquezas. Barranquilla y Cartagena, por ejemplo, tienen su aporte en esta larga lista de los **Pandora Paper's**. Citaremos —por ahora— los clanes familiares de los **Char Abdala**, **Daes Abuchaibe, los Gerleín Echeverría** (Barranquilla) y los **Araújo Perdomo**, de Cartagena. Tres clanes ligados al poder político regional.
@@ -25,7 +25,7 @@ Es necesario señalar que los multiricos, como los Char, instrumentalizan testaf
 
 Estamos listos para iniciar este breve viaje de ultramar del poderoso Clan de los Char. Era 2002. El paramilitarismo había arrasado en toda la Costa Caribe. Las ciudades capitales de la región se habían transformado. El mapa política también se había trastocado. Los movimientos sociales fueron reducidos a la mínima expresión. Surgieron nuevos líderes políticos. Los viejos debieron adaptarse a la nueva dinámica para sobrevivir, En Barranquilla comenzó a florecer una clase empresarial emergente. Los tradicionales quebraron y emigraron. Otros se mantuvieron contra viento y marea.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/costa-caribe-los-talibanes-de-la-economia-en-cloacas-fiscales-ii/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/costa-caribe-los-talibanes-de-la-economia-en-cloacas-fiscales-ii/hero.jpg)
 *Alejandro Arteta Abello y Antonio Char, el sustituto del patriarca Fuad Char. Socios en una sociedad Offshore en Panamá. /Cortesía.*
 
 ## ¿Por qué son «cloacas fiscales»?
@@ -54,7 +54,7 @@ Como se puede apreciar, no tienen ninguna traba por parte del Estado que alberga
 
 ## El clan Char y sus guaridas fiscales
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/costa-caribe-los-talibanes-de-la-economia-en-cloacas-fiscales-ii/1b_jose_carbonell_ccb.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/costa-caribe-los-talibanes-de-la-economia-en-cloacas-fiscales-ii/1b_jose_carbonell_ccb.jpg)
 *¿Qué hace el expresidente de la Cámara de Comercio de Barranquilla, José Manuel Carbonell, en las «cloacas fiscales» con Antonio Char y Alejandro Arteta?*
 
 Cabe destacar que la familia Char tiene varias cuentas de estas características en Delaware, Panamá y otras «cloacas fiscales». Aunque no se encuentran hasta ahora relacionados en la lista cotejada por Connecta y El Espectador, **VoxPopuli Digital** reseña la conexión de los Char con esas «cloacas fiscales».

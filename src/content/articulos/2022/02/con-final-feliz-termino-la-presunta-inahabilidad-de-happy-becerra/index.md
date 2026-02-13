@@ -5,7 +5,7 @@ pubDate: "2022-02-26 01:32:53"
 author: "Lucio"
 categories: ["Política","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/con-final-feliz-termino-la-presunta-inahabilidad-de-happy-becerra/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/02/con-final-feliz-termino-la-presunta-inahabilidad-de-happy-becerra/hero.jpg
 ---
 
 La Encrucijada De Happy Becerra Tuvo Final Feliz. El Consejo Nacional Electoral-CNE determinó que su candidatura está ajustada a la ley. Por tanto, negó la solicitud de revocatoria presentada por el veedor y director de VEJUCA, Erick Urueta Benavides. El CNE consideró que las imputaciones hechas a Becerra carecían de fundamento. Becerra tiene el No 106 de la lista a Cámara por el partido Liberal.

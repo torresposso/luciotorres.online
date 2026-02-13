@@ -5,10 +5,10 @@ pubDate: "2025-02-21 12:35:21"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/hero.jpg
 ---
 
-!["Un General de la vida", dijo Petro en la cumbre de gobernadores de Villa de Leyva. ¿Y los demás generales?  El bandazo militar del presidente.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/hero.jpg)
+!["Un General de la vida", dijo Petro en la cumbre de gobernadores de Villa de Leyva. ¿Y los demás generales?  El bandazo militar del presidente.](s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/hero.jpg)
 *"Un General de la vida", dijo Petro en la cumbre de gobernadores de Villa de Leyva. ¿Y los demás generales? «Mi General Pedro», el autogolpe de Petro.*
 
 El país atraviesa una situación de inseguridad interna, resultado de la **inacción gubernamental e incapacidad política** para abordar la regionalización de la guerra y sus complejos desafíos. **Este es el verdadero autogolpe**. ¿Se trata de una militarización de la política o de una politización de las Fuerzas Militares―(FF. MM.? ¿Ese es el falso dilema planteado con el curso del **autogolpe de Petro** al nombrar al **Brigadier General Pedro Sánchez** como ministro de Defensa?
@@ -29,7 +29,7 @@ Lo anterior es una falacia. Algo común en debates, argumentos y discursos promo
 
 ## La historia
 
-![General Óscar Botero Restrepo, el último ministro de la Defensa como militar activo. Diferente al bandazo militarista de Petro, lo que se necesita es un buen gobierno](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/General_Oscar_Botero_-R.jpeg)
+![General Óscar Botero Restrepo, el último ministro de la Defensa como militar activo. Diferente al bandazo militarista de Petro, lo que se necesita es un buen gobierno](s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/General_Oscar_Botero_-R.jpeg)
 *General Óscar Botero Restrepo, el último ministro de la Defensa como militar activo. Diferente al bandazo militarista de Petro, lo que se necesita es un buen gobierno. (Galería de comandantes de las FF.MM.)*
 
 Ahora bien, algo distinto al bandazo militarista de Petro fue la designación del **General Óscar Botero Restrepo** como el último ministro de Defensa militar. El presidente **Virgilio Barco Vargas** el 15 de julio de 1989, lo designó en unas circunstancias diferentes. El narcotráfico le había declarado la guerra al Estado, que lo puso de rodillas.
@@ -40,7 +40,7 @@ Se recuerda, en ese entonces el país estaba en Estado de Sitio. Esta era una fo
 
 ### La política subordinada a lo militar
 
-![«Mi General Pedro» ¿será el próximo Domingo Perón venerado y adorado por izquierdistas y nacionalistas en Argentina. El bandazo militarista de Petro.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/General_pedro_sanchez.jpg)
+![«Mi General Pedro» ¿será el próximo Domingo Perón venerado y adorado por izquierdistas y nacionalistas en Argentina. El bandazo militarista de Petro.](s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/General_pedro_sanchez.jpg)
 *«Mi General Pedro» ¿será el próximo Domingo Perón venerado y adorado por izquierdistas y nacionalistas en Argentina. (Cortesía).*
 
 En realidad, el bandazo militarista del **autogolpe de Petro**, fortalecería una corriente de militares inconformes con el poder tradicional para **construir un poder de facto** que—por supuesto— el presidente lideraría. Entonces, los militares **tendrían mayor peso específico en el gobierno** **petrista**, como sucede actualmente en Venezuela.
@@ -53,7 +53,7 @@ Por tanto, lo militar depende de lo político y no lo contrario como en la prác
 
 ## Lo que vendría con el el **autogolpe de Petro**
 
-![Tareck El Aissaimi y Pedro Rafael Pellechea, los dos coroneles zares del petróleo en Venezuela. Cayó en desgracia con la dictadura burocrática.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/De-Tarek-a-Pellechea.jpg)
+![Tareck El Aissaimi y Pedro Rafael Pellechea, los dos coroneles zares del petróleo en Venezuela. Cayó en desgracia con la dictadura burocrática.](s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/De-Tarek-a-Pellechea.jpg)
 *Todo por el dinero. Tareck El Aissaimi y Pedro Rafael Pellechea, los dos coroneles zares del petróleo en Venezuela. Cayó en desgracia con la dictadura burocrática.*
 
 Si a la mayoría de la sociedad política no le gustó un presidente gay en Ecopetrol, por ejemplo, Petro podría nombrar un coronel machista y bigotudo.
@@ -70,7 +70,7 @@ Se registra una tendencia militarista que brilla en la región. Según _[Statist
 
 ## El fin del Cambio
 
-![En histórico Consejo de Ministros, presidente Petro dio el giro a la derecha emergente representada por Armando Benedetti y Roy Barreras.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/Petro_rojas_armando_consejo_-1024x576.jpg)
+![En histórico Consejo de Ministros, presidente Petro dio el giro a la derecha emergente representada por Armando Benedetti y Roy Barreras.](s3://bundled-saddlebag-tnqki7w/2025/02/mi-general-pedro-el-autogolpe-de-petro/Petro_rojas_armando_consejo_-1024x576.jpg)
 *En histórico Consejo de Ministros, presidente Petro dio el giro a la derecha emergente representada por Armando Benedetti y Roy Barreras. Transfuguismo político clásico.*
 
 En su momento se dijo en _**VoxPopuli Digital**_ que el Gobierno del Cambio llegó a su fin el pasado 4 de febrero en el fallido Consejo de Ministros. Que ahí la izquierda perdió el gobierno y, al mismo tiempo, se destapó Gustavo Petro como un **gobernante oportunista**. Tomó partido por el proyecto de dos destacados tránsfugas, **Armando Benedetti y Roy Barreras**. Se igualó. Sin brújula y sin proyecto político esperanzador.

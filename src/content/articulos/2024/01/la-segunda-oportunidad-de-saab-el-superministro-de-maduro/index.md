@@ -5,10 +5,10 @@ pubDate: "2024-01-17 03:02:25"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/la-segunda-oportunidad-de-saab-el-superministro-de-maduro/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/01/la-segunda-oportunidad-de-saab-el-superministro-de-maduro/hero.jpg
 ---
 
-![Alex Saab recibió con beneplácito el nombramiento de presidente del CIIP de manos del presidente de Nicolás Maduro. La segunda oportunidad  de Saab.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/la-segunda-oportunidad-de-saab-el-superministro-de-maduro/hero.jpg)
+![Alex Saab recibió con beneplácito el nombramiento de presidente del CIIP de manos del presidente de Nicolás Maduro. La segunda oportunidad  de Saab.](s3://bundled-saddlebag-tnqki7w/2024/01/la-segunda-oportunidad-de-saab-el-superministro-de-maduro/hero.jpg)
 *Alex Saab recibió con beneplácito el nombramiento de presidente del CIIP de manos del jefe de Estado Nicolás Maduro. La segunda oportunidad de Saab. /Foto Venezuela News.*
 
 (_Con apoyo de nuestro corresponsal en Caracas_). Esta es la segunda oportunidad de Saab. Su estoico sacrificio de preso político del imperio, fue la prueba de fuego para recibir el gran reconocimiento del gobierno de una nación que lucha por sobrevivir en medio de su riqueza material. **Alex Saab Morán**, el barranquillero de los altos negocios, pasó del supuesto **_testaferro de Maduro_** al Superministro. Como presidente del **Centro Internacional de Inversión Productiva** ―**CIIP**― tendrá poder casi omnímodo para enfrentar el **criminal bloqueo**. Este hecho causó una de las más grandes diásporas de la humanidad: **7,7 millones** ([R4V, 2023](/articulos/es/refugiadosymigrantes)) de seres humanos que deambulan en todo el mundo.

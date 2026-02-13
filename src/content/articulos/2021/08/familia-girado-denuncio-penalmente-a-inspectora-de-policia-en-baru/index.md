@@ -5,10 +5,10 @@ pubDate: "2021-08-01 20:23:52"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/familia-girado-denuncio-penalmente-a-inspectora-de-policia-en-baru/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/08/familia-girado-denuncio-penalmente-a-inspectora-de-policia-en-baru/hero.jpg
 ---
 
-![La familia Girado denunció esta presunta irregularidad de la inspectora Johana Pájaro.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/familia-girado-denuncio-penalmente-a-inspectora-de-policia-en-baru/Playa-Blanca-2.jpeg)
+![La familia Girado denunció esta presunta irregularidad de la inspectora Johana Pájaro.](s3://bundled-saddlebag-tnqki7w/2021/08/familia-girado-denuncio-penalmente-a-inspectora-de-policia-en-baru/Playa-Blanca-2.jpeg)
 *Antes de que llegaran los demandados, la inspectora de Barú, Jhoana Pájaro Suárez, ya estaba con la otra parte. Es decir, con el abogado de Gabriel Echavarría. La familia Girado denunció este hecho.*
 
 **La familia Girado se vio en la necesidad de denunciar penalmente a Johana Pájaro Suárez,** inspectora de Policía de Barú,  corregimiento de Cartagena de Indias, por una conducta inapropiada ante una reclamación de los nativos. Consideran en la denuncia que existe una aparente parcialidad de la funcionaria con los presuntos despojadores en perjuicio de los nativos. **Se trata de las tierras que el industrial Gabriel Echavarría considera de su propiedad. Se refiere al lote que sirve de parqueadero den Playa Blanca**. 

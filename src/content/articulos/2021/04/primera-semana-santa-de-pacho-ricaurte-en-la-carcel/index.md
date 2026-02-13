@@ -5,10 +5,10 @@ pubDate: "2021-04-02 03:02:17"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/primera-semana-santa-de-pacho-ricaurte-en-la-carcel/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/04/primera-semana-santa-de-pacho-ricaurte-en-la-carcel/hero.jpg
 ---
 
-\[caption id="attachment\_14401" align="aligncenter" width="716"\]![La captura de Pacho Ricaurte](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/primera-semana-santa-de-pacho-ricaurte-en-la-carcel/hero.jpg) **Pacho Ricaurte en la cárcel.** No fue otro su destino después de ser acusado por la fiscalía y condenado por el juez Decimo Penal del Circuito de Bogotá. Cortesía.\[/caption\]
+\[caption id="attachment\_14401" align="aligncenter" width="716"\]![La captura de Pacho Ricaurte](s3://bundled-saddlebag-tnqki7w/2021/04/primera-semana-santa-de-pacho-ricaurte-en-la-carcel/hero.jpg) **Pacho Ricaurte en la cárcel.** No fue otro su destino después de ser acusado por la fiscalía y condenado por el juez Decimo Penal del Circuito de Bogotá. Cortesía.\[/caption\]
 
 **¿Cómo será la primera Semana Santa en la cárcel de la Picota de una persona que llegó a la cúspide que cualquier juez de la República desearía llegar?** Son 19 semanas santas que debe permanecer en la cárcel el expresidente de la Corte Suprema de Justicia (CSJ), **Francisco** **Javier Ricaurte Gómez**.
 
@@ -22,7 +22,7 @@ Igualmente, la Fiscalía acusó como integrantes de esa organización criminal a
 
 ## ¿Qué le pasó a «Pacho»?
 
-\[caption id="attachment\_14403" align="aligncenter" width="600"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/primera-semana-santa-de-pacho-ricaurte-en-la-carcel/Pacho-Ricaurte-en-la-fiscalia.jpeg) ¿Qué estará pensando Pacho Ricaurte en la cárcel? Aquí cuando entraba a la Fiscalía.\[/caption\]
+\[caption id="attachment\_14403" align="aligncenter" width="600"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/primera-semana-santa-de-pacho-ricaurte-en-la-carcel/Pacho-Ricaurte-en-la-fiscalia.jpeg) ¿Qué estará pensando Pacho Ricaurte en la cárcel? Aquí cuando entraba a la Fiscalía.\[/caption\]
 
 **Francisco «Pacho» Ricaurte** es conocido en Cartagena como un hombre discreto, recto y de respetuosos modales. Algunos todavía lo recuerdan como aquel joven citador y escribiente del  **Juzgado Segundo Superior** de esta ciudad. No se metía con nadie. Era callado y muy diligente. Unos dicen que era tímido.
 

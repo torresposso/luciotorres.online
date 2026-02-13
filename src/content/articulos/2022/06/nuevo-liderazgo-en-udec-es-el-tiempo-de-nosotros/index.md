@@ -5,10 +5,10 @@ pubDate: "2022-06-06 03:04:43"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/nuevo-liderazgo-en-udec-es-el-tiempo-de-nosotros/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/06/nuevo-liderazgo-en-udec-es-el-tiempo-de-nosotros/hero.jpg
 ---
 
-![William Malkún jurando por la universidad humana. Nuevo liderazgo comienza 3n la UdeC. Cortesía prensa UdeC.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/nuevo-liderazgo-en-udec-es-el-tiempo-de-nosotros/hero.jpg)
+![William Malkún jurando por la universidad humana. Nuevo liderazgo comienza 3n la UdeC. Cortesía prensa UdeC.](s3://bundled-saddlebag-tnqki7w/2022/06/nuevo-liderazgo-en-udec-es-el-tiempo-de-nosotros/hero.jpg)
 *William Malkún jurando por la universidad humana. Nuevo liderazgo comienza 3n la UdeC. Cortesía prensa UdeC.*
 
 Sin lugar a equívocos, hoy se inició en la Universidad de Cartagena (**UdeC)** la era de un nuevo liderazgo. No tanto por la juventud del nuevo rector, **William Malkún Castillejo**, 47 años, sino también por su capacidad para sacar adelante procesos académicos y administrativos. Procesos que ahora son guiados por un ambicioso plan de gestión rectoral. Plan que apunta hacia una **universidad humana que transforme creativamente su entorno social y cultural.**
@@ -19,7 +19,7 @@ Un discurso que leyó con sentida emoción. Tres veces debió detener su lectura
 
 ## **William, el humano**
 
-![Acto de posesión del rector William Malkún, 5 de junio de 2022. Es el tiempo del nuevo liderazgo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/nuevo-liderazgo-en-udec-es-el-tiempo-de-nosotros/UdeC-posesion-del-rector-scaled-1.jpg)
+![Acto de posesión del rector William Malkún, 5 de junio de 2022. Es el tiempo del nuevo liderazgo.](s3://bundled-saddlebag-tnqki7w/2022/06/nuevo-liderazgo-en-udec-es-el-tiempo-de-nosotros/UdeC-posesion-del-rector-scaled-1.jpg)
 *Acto de posesión del rector William Malkún, 5 de junio de 2022. Es el tiempo del nuevo liderazgo. Cortesía prensa UdeC.*
 
 ¿Quién no puede emocionarse y llorar de alegría cuando se ha alcanzado el lugar máximo que un académico desea: la rectoría de una importante universidad que muy pronto cumplirá 200 años de existencia? Por supuesto, no es cualquier universidad. Pero tampoco es cualquier humano que se deja vencer de la adversidad. Un joven -hace 25 años- que regresó casi deportado o derrotado de la fría altiplanicie para plantar sus sueños en una universidad que no la había pensado. Un joven humilde que logró sobresalir del sopor de las necesidades y encontrar su devenir histórico en una carrera profesional que no había sospechado: la historia.
@@ -64,7 +64,7 @@ Sin embargo, el discurso de Malkún lo dice todo. Sin demeritar lo pasado y lo p
 
 ## **Un nuevo liderazgo** que transforme
 
-![El consejo superior de la Universidad de Cartagena en la posesión de William Malkún. El ausente fue su presidente, el gobernador de Bolívar Vicente Blel Escaf. Foto Prensa UdeC.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/nuevo-liderazgo-en-udec-es-el-tiempo-de-nosotros/malkun-mesa-scaled-1.jpg)
+![El consejo superior de la Universidad de Cartagena en la posesión de William Malkún. El ausente fue su presidente, el gobernador de Bolívar Vicente Blel Escaf. Foto Prensa UdeC.](s3://bundled-saddlebag-tnqki7w/2022/06/nuevo-liderazgo-en-udec-es-el-tiempo-de-nosotros/malkun-mesa-scaled-1.jpg)
 *El consejo superior de la Universidad de Cartagena en la posesión de William Malkún. El ausente fue su presidente, el gobernador de Bolívar Vicente Blel Escaf. Foto Prensa UdeC.*
 
 Desde hoy mismo, Malkún empezó a cimentar la nueva era que le espera a la universidad en los próximos años. Es una tarea que no busca borrar lo alcanzado. Tampoco negar el pasado. Sus momentos oscuros cuando llegó Sergio Hernández y se alió al paramilitarismo. Como historiador, el nuevo rector sabe que los procesos humanos tienen continuidades (Hegel) y discontinuidades (R. Koselleck). Períodos largos y períodos cortos (Braudel). No se trata de confrontar el legado dejado por sus antecesores. No. Ni tampoco repeler a sus críticos -ya lo dijo en su discurso- sino de desarrollar una política de inclusión. De superar el pasado. Es decir, generar un período bisagra de la universidad donde se empate el pasado con el presente y se construya la universidad humana deseada.

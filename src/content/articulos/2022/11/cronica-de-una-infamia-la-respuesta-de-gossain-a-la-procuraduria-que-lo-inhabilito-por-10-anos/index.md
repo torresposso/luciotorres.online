@@ -5,10 +5,10 @@ pubDate: "2022-11-02 03:46:42"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/cronica-de-una-infamia-la-respuesta-de-gossain-a-la-procuraduria-que-lo-inhabilito-por-10-anos/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/11/cronica-de-una-infamia-la-respuesta-de-gossain-a-la-procuraduria-que-lo-inhabilito-por-10-anos/hero.jpg
 ---
 
-![Las compañeras de infortunio de Juan Carlos Gossaín que resume. La Crónica de de Gossaín.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/cronica-de-una-infamia-la-respuesta-de-gossain-a-la-procuraduria-que-lo-inhabilito-por-10-anos/hero.jpg)
+![Las compañeras de infortunio de Juan Carlos Gossaín que resume. La Crónica de de Gossaín.](s3://bundled-saddlebag-tnqki7w/2022/11/cronica-de-una-infamia-la-respuesta-de-gossain-a-la-procuraduria-que-lo-inhabilito-por-10-anos/hero.jpg)
 *Esta es la Crónica de Gossaín que resume, según él, una infamia. Las compañeras de infortunio: Ana María del Carmen Álvarez Castillo y Nacha Newball Jiménez.*
 
 **La crónica de Gossaín**, el exgobernador de Bolívar (2012-2015), se anticipó a la publicación del fallo de la Procuraduría General de la Nación (PGN) que lo inhabilitó por 10 año para ocupar cargos públicos. El caso se refiere a lo que se conoció como el Cartel de la Hemofilia de Bolívar, el cual es muy diferente al Cartel de **la Hemofilia de Córdoba**. **VoxPopuli Digital** estuvo indagando sobre el fallo. **Pero no está publicado en la web de la entidad.**
@@ -37,7 +37,7 @@ Se debe recordar también que la Unidad de Investigaciones Especiales de la Cont
 
 ## La crónica de Gossaín
 
-![La crónica de una infamia, la respuesta de Gossaín al fallo de la Procuraduría que aun no ha sido publicado. La Crónica de Gossaín.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/cronica-de-una-infamia-la-respuesta-de-gossain-a-la-procuraduria-que-lo-inhabilito-por-10-anos/juan-carlos-gossainI.jpg)
+![La crónica de una infamia, la respuesta de Gossaín al fallo de la Procuraduría que aun no ha sido publicado. La Crónica de Gossaín.](s3://bundled-saddlebag-tnqki7w/2022/11/cronica-de-una-infamia-la-respuesta-de-gossain-a-la-procuraduria-que-lo-inhabilito-por-10-anos/juan-carlos-gossainI.jpg)
 *La crónica de una infamia, la respuesta de Gossaín al fallo de la Procuraduría que aún no ha sido publicado.*
 
 A continuación reproducimos íntegramente la crónica de **Gossaín Rognini** por considerarla de buena factura y, además, expresa el sentimiento y el punto de vista de uno de los afectados de este sonado caso. En lo posible, hablaremos con el resto de encartados.

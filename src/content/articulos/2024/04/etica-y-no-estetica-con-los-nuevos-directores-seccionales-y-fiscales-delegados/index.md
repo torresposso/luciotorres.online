@@ -5,10 +5,10 @@ pubDate: "2024-04-19 04:10:49"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/etica-y-no-estetica-con-los-nuevos-directores-seccionales-y-fiscales-delegados/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/04/etica-y-no-estetica-con-los-nuevos-directores-seccionales-y-fiscales-delegados/hero.jpg
 ---
 
-![Ética y no estética . Este es el triunvirato que definió la lista de los nuevos directores seccionales de fiscalía./Fiscalía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/etica-y-no-estetica-con-los-nuevos-directores-seccionales-y-fiscales-delegados/Fiscal_.jpeg)
+![Ética y no estética . Este es el triunvirato que definió la lista de los nuevos directores seccionales de fiscalía./Fiscalía.](s3://bundled-saddlebag-tnqki7w/2024/04/etica-y-no-estetica-con-los-nuevos-directores-seccionales-y-fiscales-delegados/Fiscal_.jpeg)
 *Ética y no estética . Este es el triunvirato que definió la lista de los nuevos directores seccionales de fiscalía./Fiscalía.*
 
 Así como se tiene la lupa a los nuevos directores seccionales de Fiscalía, se debe hacer con los fiscales delegados ante la Corte Suprema de Justicia (CSJ) y los tribunales superiores. Se trata de que la fiscal **Luz Adriana Camargo** **Garzón** exija ética y no estética para el nombramiento de sus nuevos funcionarios. Así aprovechará al máximo esta gran oportunidad para transformar eficazmente la **Fiscalía General de la Nación** (FGN).

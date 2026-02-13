@@ -5,10 +5,10 @@ pubDate: "2018-11-22 18:29:33"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/se-partio-la-espada-de-damocles-contra-pedrito-confirmado-en-la-alcaldia-por-el-consejo-de-estado/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2018/11/se-partio-la-espada-de-damocles-contra-pedrito-confirmado-en-la-alcaldia-por-el-consejo-de-estado/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/se-partio-la-espada-de-damocles-contra-pedrito-confirmado-en-la-alcaldia-por-el-consejo-de-estado/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2018/11/se-partio-la-espada-de-damocles-contra-pedrito-confirmado-en-la-alcaldia-por-el-consejo-de-estado/hero.jpg)
 *El gobierno nacional viene respaldando la gestión de Pedrito Pereira como alcalde de Cartagena. No solo es la vicepresidenta, Martha Lucía Ramirez, sino el director de la Función Pública, Fernando Grillo, y ahora el Consejo de Estado le da el espaldarazo para continuar al servicio de los cartageneros.*
 
 Se partió la espada de Damocles y se desvaneció en el aire antes que cayera sobre la cabeza del alcalde (e) de Cartagena, **Pedrito Pereira Caballero**. La Sección Quinta del **Consejo de Estado** lo confirmó en el cargo al admitir una demanda en su contra. En dos palabras: **Pedrito confirmado.**

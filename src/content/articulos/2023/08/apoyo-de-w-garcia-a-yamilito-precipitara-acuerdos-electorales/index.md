@@ -5,10 +5,10 @@ pubDate: "2023-08-18 02:34:16"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Política"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/apoyo-de-w-garcia-a-yamilito-precipitara-acuerdos-electorales/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/08/apoyo-de-w-garcia-a-yamilito-precipitara-acuerdos-electorales/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/apoyo-de-w-garcia-a-yamilito-precipitara-acuerdos-electorales/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/08/apoyo-de-w-garcia-a-yamilito-precipitara-acuerdos-electorales/hero.jpg)
 *Apoyo de W. García a Yamilito .*
 
 El apoyo de **William García a Yamilito Arana**, seguramente precipitará nuevos acuerdos electorales entre las principales fuerzas políticas de Bolívar. Este acuerdo, si bien es de una sola vía, pone a especular a los entendidos sobre la decisión que tomará el bipartidismo liberal-conservador con respecto a la alcaldía de Cartagena. De igual manera, se debe conocer la decisión de **Dumek Turbay** de apoyar una determinada candidatura a la gobernación. ¿Y si apoya a Yamilito? Sería un palo que pondría en franca ventaja al candidato conservador sobre sus rivales más inmediatos, **Said Adechine**, **Yolanda Wong y Mery Luz Londoño**.
@@ -27,7 +27,7 @@ Lo más probable es que al candidato que escojan recibirá un apoyo bipartidista
 
 ## William García, refuerza su equipo
 
-![Alcides Arrieta refuerza el equipo de William García. Será su jefe de debate.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/apoyo-de-w-garcia-a-yamilito-precipitara-acuerdos-electorales/William-Garcia_alcides.jpg)
+![Alcides Arrieta refuerza el equipo de William García. Será su jefe de debate.](s3://bundled-saddlebag-tnqki7w/2023/08/apoyo-de-w-garcia-a-yamilito-precipitara-acuerdos-electorales/William-Garcia_alcides.jpg)
 *Alcides Arrieta refuerza el equipo de William García. Será su jefe de debate..*
 
 Como jefe de debate de William García, llegó **Alcides Arrieta**, quien no se pudo inscribir a la alcaldía de Cartagena. Su capacidad jurídica y política le permtirá abrir la posibilidades que organizaciones y movimientos sociales se acerquen a la candidatura de **_Los tres golpes_**. Además, se convierte en un cerrojo para evitar fraude electoral como el que pudo ocurrir en las elecciones pasadas.

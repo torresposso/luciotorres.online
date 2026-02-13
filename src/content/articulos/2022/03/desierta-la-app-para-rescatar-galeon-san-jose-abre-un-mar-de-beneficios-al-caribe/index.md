@@ -5,10 +5,10 @@ pubDate: "2022-03-07 00:38:49"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/desierta-la-app-para-rescatar-galeon-san-jose-abre-un-mar-de-beneficios-al-caribe/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/03/desierta-la-app-para-rescatar-galeon-san-jose-abre-un-mar-de-beneficios-al-caribe/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/desierta-la-app-para-rescatar-galeon-san-jose-abre-un-mar-de-beneficios-al-caribe/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/desierta-la-app-para-rescatar-galeon-san-jose-abre-un-mar-de-beneficios-al-caribe/hero.jpg)
 *Explosión del galeón San José. Ilustración del pintor Samuel Scott, especialista en pintura marina.*
 
 El gobierno nacional del presidente Iván Duque, a través del Ministerio de Cultura, no vio otra salida que escuchar las voces de veedurías que le solicitaron la declaratoria de desierta de esa licitación que buscaba adjudicar el rescate del galeón hundido en 1708 por la armada inglesa.
@@ -21,7 +21,7 @@ Se podría corregir las grandes falencias de esa alianza que se tenía prevista 
 
 ## Linda Pinedo removió el galeón San José
 
-![Linda Pinedo, candidata a la cámara por Colombia Justa Libre (No 106) removió la situación del galeón San José.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/desierta-la-app-para-rescatar-galeon-san-jose-abre-un-mar-de-beneficios-al-caribe/linda-pinedo-reunion.jpg)
+![Linda Pinedo, candidata a la cámara por Colombia Justa Libre (No 106) removió la situación del galeón San José.](s3://bundled-saddlebag-tnqki7w/2022/03/desierta-la-app-para-rescatar-galeon-san-jose-abre-un-mar-de-beneficios-al-caribe/linda-pinedo-reunion.jpg)
 *Linda Pinedo, candidata a la cámara por Colombia Justa Libre (No 106) removió la situación del galeón San José. Aquí aparece reunida con líderes campesinos.*
 
 La licitación pretendía entregar el 45 por ciento del Tesoro del San José a la empresa Maritime Archeology Consultants Switzerland identificada con acta de registro No 301.628.065. El tesoro extraoficialmente está avaluado en $200 billones. Ante una serie de irregularidades, el abogado Héctor Pérez Fernández solicitó en el mes de agosto de 2020 la revocatoria directa del proceso de licitación. LEsta misma semana, la líder social Linda Pinedo Puello reiteró dicha solicitud. Finalmente el Ministerio de Cultura tomó la decisión de declarar dicha licitación.
@@ -44,7 +44,7 @@ De tal manera que el presidente Santos tomó la decisión de iniciar un proceso 
 
 ## La licitación del galeón San José
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/desierta-la-app-para-rescatar-galeon-san-jose-abre-un-mar-de-beneficios-al-caribe/Hector-Perez.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/desierta-la-app-para-rescatar-galeon-san-jose-abre-un-mar-de-beneficios-al-caribe/Hector-Perez.jpg)
 *Héctor Pérez Fernández director de la Veeduría Cartagena y Bolívar jugó un papel decisivo para la declaratoria de desierta de la licitación para rescatar el galeón San José.*
 
 El proceso licitatorio **No MC APP 001 2018** se inició en el gobierno del presidente Juan Manuel Santos. Pero no avanzó hasta cuando llegó su homólogo Iván Duque Márquez. En ese período, vale la pena destacar el papel desarrollado por la Veeduría Popular por Cartagena y Bolívar que dirige el abogado **Héctor Pérez Fernández**.

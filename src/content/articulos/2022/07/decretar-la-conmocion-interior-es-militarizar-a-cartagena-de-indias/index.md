@@ -5,10 +5,10 @@ pubDate: "2022-07-16 15:54:37"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/decretar-la-conmocion-interior-es-militarizar-a-cartagena-de-indias/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/07/decretar-la-conmocion-interior-es-militarizar-a-cartagena-de-indias/hero.jpg
 ---
 
-![Conmoción interior es la propuesta vía tutela de Alcides Arrieta y Erick Urueta.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/decretar-la-conmocion-interior-es-militarizar-a-cartagena-de-indias/hero.jpg)
+![Conmoción interior es la propuesta vía tutela de Alcides Arrieta y Erick Urueta.](s3://bundled-saddlebag-tnqki7w/2022/07/decretar-la-conmocion-interior-es-militarizar-a-cartagena-de-indias/hero.jpg)
 *Conmoción interior es la propuesta vía tutela de Alcides Arrieta y Erick Urueta.*
 
 ¿Por qué se pide que el gobierno nacional decrete la conmoción interior en Cartagena? La acción de tutela para que se decrete la conmoción interior fue instaurada por los abogados **Alcides Arrieta y Erick Urueta**. Tiene como finalidad asegurar la convivencia y una intervención extraordinaria para atacar directamente las causas de la conmoción.
@@ -27,7 +27,7 @@ https://youtu.be/8stlv7Xa70w
 
 ## ¿Conmoción interior vs. militarización?
 
-![Alcides Arrieta, uno de los accionantes para que se decrete la conmoción interior.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/decretar-la-conmocion-interior-es-militarizar-a-cartagena-de-indias/Alcides-Arrieta.jpg)
+![Alcides Arrieta, uno de los accionantes para que se decrete la conmoción interior.](s3://bundled-saddlebag-tnqki7w/2022/07/decretar-la-conmocion-interior-es-militarizar-a-cartagena-de-indias/Alcides-Arrieta.jpg)
 *Alcides Arrieta, uno de los accionantes para que se decrete la conmoción interior.*
 
 Desde el punto de vista constitucional y legal, el estado de conmoción interior podrá declararse en todo o parte del territorio nacional, en caso de grave perturbación del orden público que atente de manera inminente contra la estabilidad institucional, la seguridad del Estado o la convivencia ciudadana. 

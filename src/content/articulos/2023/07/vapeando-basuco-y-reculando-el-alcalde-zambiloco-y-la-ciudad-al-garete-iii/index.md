@@ -5,10 +5,10 @@ pubDate: "2023-07-20 23:57:37"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/hero.jpg
 ---
 
-![¿Vapeando basuco y reculando? El alcalde zambiloco y la ciudad al garete. Observen la mano izquierda de William Dau, tiene la pipa inhalando lo que al parecer es basuco revuelto con marihuana, sus dos drogas predilectas, según testimonios entregados a VoxPopuli Digital. Captura de pantalla de video/Ahora.In.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/hero.jpg)
+![¿Vapeando basuco y reculando? El alcalde zambiloco y la ciudad al garete. Observen la mano izquierda de William Dau, tiene la pipa inhalando lo que al parecer es basuco revuelto con marihuana, sus dos drogas predilectas, según testimonios entregados a VoxPopuli Digital. Captura de pantalla de video/Ahora.In.](s3://bundled-saddlebag-tnqki7w/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/hero.jpg)
 *¿Vapeando basuco y reculando? El alcalde zambiloco y la ciudad al garete. Observen la mano izquierda de William Dau, tiene la pipa inhalando lo que al parecer es basuco revuelto con marihuana, sus dos drogas predilectas, según testimonios entregados a VoxPopuli Digital. Captura de pantalla de video/Ahora.In.*
 
 Algún vecino cansado de las mañanas enrarecidas con olor a _caucho quemado_, grabó en video el momento cuando el alcalde de Cartagena, **William Dau Chamat**, se le veía**, al parecer, vapeando basuco**. O sea, **"base sucia de cocaína"** con _mariacachafa_ (cannabis). Este hecho confirmaría las razones por las cuales **VoxPopuli Digital** le hizo una pregunta pública en uno de sus artículos del mes de noviembre de 2020 sobre su presunto problema de adicción a las drogas. La misma pregunta que se le hizo en la audiencia del abortado proceso de su revocatoria que **se viralizó el 2 de febrero de 2021**. En definitiva, el alcalde de Cartagena **debería estar preso y no al frente de una ciudad que hace como el cangrejo, echar para atrás.**
@@ -41,7 +41,7 @@ Sin embargo, los diferentes estamentos de Cartagena deben emprender un dinámico
 
 ## ¿Vapeando basuco y calumniando?
 
-![¿Vapeando basuco y reculando?  y la ciudad al garete.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/DAU-EN-PALACIO.jpg)
+![¿Vapeando basuco y reculando?  y la ciudad al garete.](s3://bundled-saddlebag-tnqki7w/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/DAU-EN-PALACIO.jpg)
 *La soledad del poder. William Dau se le ve, incluso, en las noches, fumando en el baluarte San Ignacio Loyola donde está el Palacio de la Aduana.*
 
 Mientras el alcalde _se da por la torre_, escribía a mano, tal vez, el contenido del ataque contra una de sus tantas víctimas por injuria y calumnia. Son ataques con alevosía contra la integridad moral, honra y buen nombre de personas que tienen la presunción de inocencia. No es gratuito que haya sido condenado a retractarse en más de 20 procesos de tutelas y penales.
@@ -54,7 +54,7 @@ Se debe recordar que en el primer gabinete estaban figuras de dichos gremios, co
 
 ## ¿Vapeando basuco y reculando?
 
-![El Zambiloco vapeando basuco](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/Zambiloco.jpg)
+![El Zambiloco vapeando basuco](s3://bundled-saddlebag-tnqki7w/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/Zambiloco.jpg)
 *El Zambiloco vapeando basuco*
 
 Los actos más humillantes que desgastó su palabra ofensiva fueron las órdenes de retractación asumida por jueces que defendieron los derechos fundamentales de sus víctimas. Las medidas más espectaculares tomadas en ese sentido fueron las tutelas instauradas por el gobernador de Bolívar de 2019, **Dumek Turbay Paz**, actual candidato a la alcaldía de Cartagena. Pero también el empresario **Alfonso El Turco Hilsaca** le propinó una derrota judicial que lo hizo retractarse por orden del Juzgado Segundo Penal Municipal:
@@ -67,7 +67,7 @@ Como veedor, Dau jamás presentó una denuncia penal con el fin de que se invest
 
 ## Dau reculó y se arrodilló ante Dumek
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/WilliamDau_Dume_1.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/07/vapeando-basuco-y-reculando-el-alcalde-zambiloco-y-la-ciudad-al-garete-iii/WilliamDau_Dume_1.jpg)
 *Miren los dientes del alcalde William Dau ¿las huellas del basuco? Este mano a mano contra el candidato a la alcaldía de Cartagena Dumek Turbay Paz.*
 
 Varias son las sentencias, en sede de tutela, donde **Dumek Turbay Paz** lo hizo recular. Reculó y se arrodilló frente al gobernador en 2019. Luego como exgobernador y candidato a la alcaldía de Cartagena, Dumek lo volvió a arrodillar para que chupara el polvo de la derrota. Así, Dau le hizo propaganda política gratuita a uno de los candidatos que aparecen posicionados en la coyuntura electoral. Primero, por orden del Juzgado Quinto Civil del Circuito de Cartagena, reculó, y esto dijo en su retractación:

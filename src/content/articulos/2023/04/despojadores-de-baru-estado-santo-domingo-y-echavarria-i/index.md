@@ -5,12 +5,12 @@ pubDate: "2023-04-06 02:29:12"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/despojadores-de-baru-estado-santo-domingo-y-echavarria-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/04/despojadores-de-baru-estado-santo-domingo-y-echavarria-i/hero.jpg
 ---
 
 ## _¡Levántate Mulato!_ que el territorio es tuyo
 
-![Los despojadores de Barú desplazan a la población que luego para sobrevivir repiten su conducta con el turismo popular.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/despojadores-de-baru-estado-santo-domingo-y-echavarria-i/hero.jpg)
+![Los despojadores de Barú desplazan a la población que luego para sobrevivir repiten su conducta con el turismo popular.](s3://bundled-saddlebag-tnqki7w/2023/04/despojadores-de-baru-estado-santo-domingo-y-echavarria-i/hero.jpg)
 *Los despojadores de Barú desplazan a la población que luego para sobrevivir repiten su conducta con el turismo popular.*
 
 > En esos encuentros capitalinos en pensiones, aulas y calles discutíamos, sin saberlo, lo más importante de la formación humanística: nuestra propia identidad. “Tú eres negro”, “Yo soy mulato”. “Todos somos discriminados” (…). Paulatinamente, dolorosamente, al lado de mi hermana (Delia Zapata) principiamos a desatar el nudo de los complejos raciales inconsciente.
@@ -21,7 +21,7 @@ El Estado y familias poderosas, tales como Santo Domingo y Echavarría, ¿son lo
 
 Las pruebas de este **neocolonialismo están allí**. Pero la justicia no las ve porque hacen parte del sistema. Así lo confirman los testimonios de nativos, y de miles de folios que reposan en procesos judiciales de los juzgados de Cartagena y altas cortes, como en los anales del congreso de la república de 2007 con el debate de **Samuel Arrieta** y la audiencia pública de noviembre de 2022.
 
-![Gaceta Año XVI - Nº 229. Contiene el debate que puso a discutir el tema de los despojadores de Barú.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/despojadores-de-baru-estado-santo-domingo-y-echavarria-i/Gaceta-24-abril_2007.jpg)
+![Gaceta Año XVI - Nº 229. Contiene el debate que puso a discutir el tema de los despojadores de Barú.](s3://bundled-saddlebag-tnqki7w/2023/04/despojadores-de-baru-estado-santo-domingo-y-echavarria-i/Gaceta-24-abril_2007.jpg)
 *Gaceta Año XVI - Nº 229. Contiene el debate que puso a discutir el tema de los despojadores de Barú.*
 
 ## Un Estado despojador para beneficiar a terceros

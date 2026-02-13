@@ -5,10 +5,10 @@ pubDate: "2023-02-18 14:02:50"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Política"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/tutela-contra-minhacienda-por-prestamo-de-usd-100-millones-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/02/tutela-contra-minhacienda-por-prestamo-de-usd-100-millones-i/hero.jpg
 ---
 
-![Juez admite tutela contra autorización del préstamo de USD 100 millones.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/tutela-contra-minhacienda-por-prestamo-de-usd-100-millones-i/hero.jpg)
+![Juez admite tutela contra autorización del préstamo de USD 100 millones.](s3://bundled-saddlebag-tnqki7w/2023/02/tutela-contra-minhacienda-por-prestamo-de-usd-100-millones-i/hero.jpg)
 *Juez admite tutela contra autorización del préstamo de USD 100 millones.*
 
 El Juzgado 12 Penal del Circuito de Bogotá acaba de admitir una acción de tutela mediante la cual el destacado jurista barranquillero, **Renzo Montalvo Jiménez**, busca que el **ministro de Hacienda y Crédito Público, José Antonio Ocampo**, finalmente revoque la autorización concedida al Distrito de Barranquilla para el préstamo de USD 100 millones. Este contrato fue celebrado con el **Deutsche Bank AG, en calidad de prestamista, y TMF Group New York, LLC, en calidad de agente administrativo**.

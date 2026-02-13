@@ -5,10 +5,10 @@ pubDate: "2021-04-25 00:43:56"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/hero.jpg
 ---
 
-\[caption id="attachment\_14673" align="aligncenter" width="1920"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/hero.jpg) La dupleta policíaca. Sellaron el **«Nuevo Pacto de los Malandrines»**.\[/caption\]
+\[caption id="attachment\_14673" align="aligncenter" width="1920"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/hero.jpg) La dupleta policíaca. Sellaron el **«Nuevo Pacto de los Malandrines»**.\[/caption\]
 
 Se selló el «**Nuevo Pacto de los Malandrines**» en Cartagena. Con los últimos cambios de su gabinete distrital, **el alcalde William Dau le dio todo el poder a la clase política que trató como «los malandrines»**. Al mismo tiempo, está saliendo de sus primeros aliados que habían creído en su proyecto anticorrupción. La llegada del **coronel Luis Roa Merchán** como Secretario General del Distrito, confirma esta premisa.
 
@@ -36,7 +36,7 @@ El coronel Roa Merchán llegó a la alcaldía importado del interior del país y
 
 ## Toncel, Cáceres y el coronel Roa
 
-\[caption id="attachment\_14675" align="aligncenter" width="1920"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/javier-y-toncel-2.jpg) Cambio Radical sector **Javier Cáceres y Wilson Toncel Gaviria** entró en el **«Nuevo Pacto de los Malandrines»**.\[/caption\]
+\[caption id="attachment\_14675" align="aligncenter" width="1920"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/javier-y-toncel-2.jpg) Cambio Radical sector **Javier Cáceres y Wilson Toncel Gaviria** entró en el **«Nuevo Pacto de los Malandrines»**.\[/caption\]
 
 El coronel Roa llegó a esa secretaría debido al reacomodo que viene sufriendo paulatinamente la administración de William Dau Chamat. Roa Merchán fue director de Distriseguridad. También fue comandante de policía de varias ciudades. En Quindío los periodistas se quejaron ante las autoridades por su trato déspota y displicente contra el periodismo.
 
@@ -70,7 +70,7 @@ Es de anotar que en política lo que valen son los hechos. El nombramiento del c
 
 ## La MECAR persigue al periodista
 
-\[caption id="attachment\_11193" align="aligncenter" width="2560"\]![Jamás arrestarán mi libertad](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/lucio-1-scaled-1.jpg) **Jamás arrestarán mi libertad.** Es el precio de la verdad. Vivo para el periodismo y no vivo del periodismo. **Engañaron a Cartagena**.\[/caption\]
+\[caption id="attachment\_11193" align="aligncenter" width="2560"\]![Jamás arrestarán mi libertad](s3://bundled-saddlebag-tnqki7w/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/lucio-1-scaled-1.jpg) **Jamás arrestarán mi libertad.** Es el precio de la verdad. Vivo para el periodismo y no vivo del periodismo. **Engañaron a Cartagena**.\[/caption\]
 
 Presenté tres denuncias por la persecución que está ejerciendo la Policía Nacional contra este periodista. Una la hice ante la **Procuradora Delegada de Derechos Humanos de la Procuraduría General de la Nación**. Otra ante la **Comisión Interamericana de Derechos Humanos (CIDH)**. Y una denuncia penal ante la **Unidad de Derechos Humanos de la Fiscalía General**.
 
@@ -80,7 +80,7 @@ Es preciso hacerle la siguiente pregunta al alcalde y a sus coroneles como tambi
 
 ## Roa, Múnera y Rodelo
 
-\[caption id="attachment\_14677" align="aligncenter" width="1920"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/coronel-rodelo-y-david-munera.jpg) Coronel Pedro Rodelo, director de Distriseguridad. David Múnera, secretario del Interior en el  **«Nuevo Pacto de los Malandrines»**. \[/caption\]
+\[caption id="attachment\_14677" align="aligncenter" width="1920"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/el-nuevo-pacto-de-los-malandrines-en-cartagena-ii/coronel-rodelo-y-david-munera.jpg) Coronel Pedro Rodelo, director de Distriseguridad. David Múnera, secretario del Interior en el  **«Nuevo Pacto de los Malandrines»**. \[/caption\]
 
 ¿Quiénes sostienen las relaciones entre la Policía Nacional y el Distrito? ¿Cuál debe ser la relación institucional entre uno y otro? Si en Distriseguridad estaba Roa Merchán, quien tiene comunicación directa con la MECAR, ¿por qué persistieron en el **«falso positivo»** de detenerme con una falsa orden de captura? **Este asunto es grave, muy grave. Me desempeñaré a fondo hasta desentrañar sus raíces verdaderas. Desenmascararemos a los violadores de derechos humanos de la alcaldía de Cartagena.**
 

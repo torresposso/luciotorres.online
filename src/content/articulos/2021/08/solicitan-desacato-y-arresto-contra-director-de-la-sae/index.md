@@ -5,10 +5,10 @@ pubDate: "2021-08-21 22:35:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/solicitan-desacato-y-arresto-contra-director-de-la-sae/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/08/solicitan-desacato-y-arresto-contra-director-de-la-sae/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/08/solicitan-desacato-y-arresto-contra-director-de-la-sae/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/08/solicitan-desacato-y-arresto-contra-director-de-la-sae/hero.jpg)
 *Cuando desalojan a los pobres campesinos, los suelos quedan en ruinas. Solicitan desacato y arresto al director de la SAE, zona Norte, Juan Pablo Valbuena Anaya.*
 
 Líderes campesinos solicitan **incidente de desacato y arresto** contra el director de la **Sociedad de Activos Especiales—SAE zona Norte, Juan Pablo Valbuena Anaya**.  En efecto, el presidente de la Asociación de Campesinos Montes de Dios de Cachenche, **Arnaldo Tovar y la dirigente campesina Judith María Jiménez Ramírez**, presentaron ese incidente de desacato ante **el juez Primero Promiscuo de Turbaco, Miguel Antonio Gloria Payares.** El incidente busca que el juez haga cumplir las órdenes emanadas del fallo de tutela que obligó a diferentes entidades realizar acciones previas de atención social para evitar que se viole los derechos fundamentales de los campesinos. 

@@ -5,10 +5,10 @@ pubDate: "2025-04-05 02:03:30"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/tercera-guerra-comercial-reacomodo-de-la-economia-mundial-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/04/tercera-guerra-comercial-reacomodo-de-la-economia-mundial-i/hero.jpg
 ---
 
-![Tercera Guerra Comercial, reacomodo de la economía mundial](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/04/tercera-guerra-comercial-reacomodo-de-la-economia-mundial-i/TRUMP_TERCERA-GUERRA-COMERCIAL-1024x486.jpeg)
+![Tercera Guerra Comercial, reacomodo de la economía mundial](s3://bundled-saddlebag-tnqki7w/2025/04/tercera-guerra-comercial-reacomodo-de-la-economia-mundial-i/TRUMP_TERCERA-GUERRA-COMERCIAL-1024x486.jpeg)
 *Tercera Guerra Comercial, reacomodo de la economía mundial*
 
 La nueva política arancelaria de Estados Unidos lanzada por el presidente **Donald Trump** en el **«Día de la Liberación»**, se podría considerar como el lanzamiento de la **Tercera Guerra Comercial Mundial**. Representa un desafío para la economía de los 5 continentes. Pero también una oportunidad para que Colombia y otros países latinoamericanos y del Caribe fortalezcan su integración económica y diversifiquen sus mercados de exportación

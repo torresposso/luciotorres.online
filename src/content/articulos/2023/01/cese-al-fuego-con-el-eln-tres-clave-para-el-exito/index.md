@@ -5,10 +5,10 @@ pubDate: "2023-01-05 02:44:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/cese-al-fuego-con-el-eln-tres-clave-para-el-exito/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/01/cese-al-fuego-con-el-eln-tres-clave-para-el-exito/hero.jpg
 ---
 
-![Cese al fuego con el ELN, tres clave para el éxito](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/cese-al-fuego-con-el-eln-tres-clave-para-el-exito/hero.jpg)
+![Cese al fuego con el ELN, tres clave para el éxito](s3://bundled-saddlebag-tnqki7w/2023/01/cese-al-fuego-con-el-eln-tres-clave-para-el-exito/hero.jpg)
 *Cese al fuego con el ELN, tres clave para el éxito.*
 
 La decisión del gobierno nacional de anular hoy el decreto de cese al fuego con el ELN, que había anunciado con entusiasmo el **presidente Gustavo Petro** comenzando el 2023 ¿es «la reculada del ovejo»? Quizás fue un error político. El anuncio apresurado, tal vez fue provocado por el entusiasmo presidencial de obtener resultados con su propuesta de Paz Total. Pero, de este error se puede extraer la fórmula 3P. Esto es, tres clave para el éxito de la negociación: **prudencia, paciencia y perseverancia.**

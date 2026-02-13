@@ -5,10 +5,10 @@ pubDate: "2021-05-21 02:11:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/en-colombia-golpe-de-estado-o-gobierno-transicional/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/05/en-colombia-golpe-de-estado-o-gobierno-transicional/hero.jpg
 ---
 
-\[caption id="attachment\_15048" align="alignnone" width="526"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/en-colombia-golpe-de-estado-o-gobierno-transicional/hero.jpg) La juventud es la fuerza social que evitaría el **golpe de estado**. Cortesía\[/caption\]
+\[caption id="attachment\_15048" align="alignnone" width="526"\]![](s3://bundled-saddlebag-tnqki7w/2021/05/en-colombia-golpe-de-estado-o-gobierno-transicional/hero.jpg) La juventud es la fuerza social que evitaría el **golpe de estado**. Cortesía\[/caption\]
 
 ¿Golpe de estado o gobierno transicional? En las calles colombianas el movimiento de masas exige la renuncia del presidente. Pero más que ello, **está exigiendo terminar con el régimen neobonapartista** dominante. ¿Qué pasará si renuncia el presidente Iván Duque? **¿Lo sucedería Martha Lucía Ramírez con las fuerzas militares y la policía nacional**? O ¿Se crearía un **gobierno provisional** con un programa de transición que responda al clamor del Paro Nacional?
 
@@ -16,7 +16,7 @@ Hace 14 días hablamos de que se estaba consolidando un **autogolpe de Estado** 
 
 ## Golpe de Estado Blando
 
-\[caption id="attachment\_15049" align="aligncenter" width="950"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/en-colombia-golpe-de-estado-o-gobierno-transicional/PARO20M.jpeg) Paro Nacional 20M. Golpe de estado o gobierno de transición. Cortesía César Melgarejo..\[/caption\]
+\[caption id="attachment\_15049" align="aligncenter" width="950"\]![](s3://bundled-saddlebag-tnqki7w/2021/05/en-colombia-golpe-de-estado-o-gobierno-transicional/PARO20M.jpeg) Paro Nacional 20M. Golpe de estado o gobierno de transición. Cortesía César Melgarejo..\[/caption\]
 
 Iván Duque y el Centro Democrático, realmente han ejecutado un **golpe de Estado Blando**.  Pero nunca sospecharon que el Paro Nacional llegara a tal dimensión. Ese consenso Interoligárquico e interinstitucional, Duque lo está combinando con un tratamiento violento contra los movimientos sociales. Cómo no tiene contrapeso legislativo ni jurisdiccional, puede utilizar con más arbitrariedad a las fuerzas represivas del Estado. Esto no se había visto ni siquiera en los momentos más poderosos del presidente Uribe Vélez. Con este poder ya concentrado, Duque **viola la Carta Democrática Interamericana.** 
 

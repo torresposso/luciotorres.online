@@ -5,10 +5,10 @@ pubDate: "2022-12-25 23:28:06"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/la-serrezuela-un-lindo-proyecto-de-gentrificacion-urbana/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/12/la-serrezuela-un-lindo-proyecto-de-gentrificacion-urbana/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/la-serrezuela-un-lindo-proyecto-de-gentrificacion-urbana/aaron_cohen.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2022/12/la-serrezuela-un-lindo-proyecto-de-gentrificacion-urbana/aaron_cohen.jpeg)
 *Aaron Cohen el que está detrás de La Serrezuela. Gentrificación urbana. Foto cortesía.*
 
 Sin duda, La Serrezuela es un lindo proyecto de gentrificación urbana dirigido por **Carlos Dunoyer González**, representante de la **Promotora Cohen**. Son cinco familias de la Calle del Jardín que fueron arrinconadas quizás con la intención de buscar la desvalorización de su patrimonio y así ponerle precios como si fueran tierras conquistadas. Este proceso se está dando por la expansión de ese proyecto urbanístico privado en el histórico barrio de San Diego.
@@ -17,7 +17,7 @@ De hecho, La Serrezuela es un **proyecto que de la maqueta aprobada a su materia
 
 ## Promotora A Cohen y la gentrificación urbana
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/la-serrezuela-un-lindo-proyecto-de-gentrificacion-urbana/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/12/la-serrezuela-un-lindo-proyecto-de-gentrificacion-urbana/hero.jpg)
 *Cuando estaban comenzando a ejecutar el proyecto de la Serrezuela como proceso de gentrificación urbana. En el fondo se puede apreciar algunas de las casas que ahora quiere comprar a precio de huevo. Foto cortesía.*
 
 Una de las principales entidades privadas que están haciendo este proceso de gentrificación urbana es la **Promotora A Cohen**. Señalan en uno de sus publireportajes que el proyecto de La Serrezuela fue acometido por un equipo multidisciplinar de arquitectos e ingenieros liderados por el restaurador Álvaro Barrera. Este equipo diseñó, desarrolló, construyó y gerencia un espacio donde se combina el patrimonio de la ciudad con actividades culturales, de entretenimiento y un centro comercial.
@@ -42,7 +42,7 @@ Hoy, el tugurio donde se concentraba la pobreza más grande de **La Heroica**, s
 
 ## Andrés Carne de Res y La Serrezuela, gentrificación urbana
 
-![En su portal web, así presentan a La Serrezuela. Proceso de gentrificación urbana.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/la-serrezuela-un-lindo-proyecto-de-gentrificacion-urbana/La-Serrezuela.jpg)
+![En su portal web, así presentan a La Serrezuela. Proceso de gentrificación urbana.](s3://bundled-saddlebag-tnqki7w/2022/12/la-serrezuela-un-lindo-proyecto-de-gentrificacion-urbana/La-Serrezuela.jpg)
 *En su portal web, así presentan a La Serrezuela. Proceso de gentrificación urbana.*
 
 Estos son hechos evidentemente irregulares. Los principales cómplices son el IPCC y el Ministerio de Cultura, cuyos procesos sancionatorios se constituyen en una completa impunidad disfrazada de aplicación de justicia. **Dichas sanciones son inocuas**: ¡10 salarios mínimos legales! para un proyecto multimillonario es una venia a la bandera. Se convierten en la legalización del despojo. Es cierto que el ministerio de Cultura hizo una una **visita a la construcción el 19 de octubre de 2017**. Allí pudieron comprobar que la intervención en La Serrezuela no se ajustaba a lo aprobado, ya que vincularon sin autorización al proyecto tres predios: **Carrera 10 # 39-86, Carrera 10 # 39-82 y Carrera 10 # 39-24**, colindantes al **Circo de Toros**. En esa misma visita se constató que el sótano que se viene construyendo tiene una medida superior a la autorizada en razón a la vinculación de estos tres inmuebles. 

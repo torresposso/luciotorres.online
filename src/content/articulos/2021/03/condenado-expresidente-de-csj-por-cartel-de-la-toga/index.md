@@ -5,10 +5,10 @@ pubDate: "2021-03-10 00:06:11"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/hero.jpg
 ---
 
-![Condenado expresidente de la CSJ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/ricaurte.jpeg)
+![Condenado expresidente de la CSJ](s3://bundled-saddlebag-tnqki7w/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/ricaurte.jpeg)
 *Condenado expresidente de la CSJ. En aquella época Francisco Javier Ricaurte era bien recibido por la sociedad cartagenera. Aquí con la alcaldesa de ese entonces, Judith Pinedo y capitán (r) Alfonso Salas, uno de los dueños de la Sociedad Portuaria de Cartagena.*
 
 Condenado expresidente de la Corte Suprema de Justicia (CSJ), **Francisco Ricaurte Gómez**, por varios delitos. Hizo parte de lo que la misma Fiscalía denominó **Cartel de la Toga**, según el **Juez Decimo Penal del Circuito de Conocimiento de Bogotá**.
@@ -30,7 +30,7 @@ Los delitos por los cuales purgará pena intramural, son:
 
 Esa declaración del que fuera el fiscal anticorrupción de **Néstor Humberto Martínez Neira** (Cambio Radical) sirvió para que la misma fiscalía solicitara la condena del expresidente de la Corte Suprema de Justicia. La hizo dentro de lo que se denomina principio de oportunidad. Este hecho le permitió negociar con el ente investigador para delatar a sus compinches.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/hero.jpg)
 *Condenado expresidente de la CSJ. Cortesía El Espectador.*
 
 Gustavo Moreno, al menos presentó tres hechos que le permitió a la Fiscalía demostrar que el expresidente de la Corte Suprema de Justicia recibió dádivas en dinero. Por ejemplo en el caso del exsenador **Álvaro Asthon**, de Barranquilla, procesado por concierto para delinquir agravado al tener vínculo con los grupos paramilitares.
@@ -41,7 +41,7 @@ La agencia Colprensa, al reseñar el fallo, informó que los implicados en el Ca
 
 ## ¿Ricaurte víctima del régimen?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/190516-Minjusticia-Margarita-Cabello-Blanco-1800.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/190516-Minjusticia-Margarita-Cabello-Blanco-1800.jpg)
 *Margarita Cabello Blanco es la nueva procuradora general. Ficha de Cambio Radical y del uribismo.*
 
 Durante el período presidencial de **Álvaro Uribe**, el ejecutivo acosó al poder judicial de ser parcializado al juzgar a políticos que apoyaron el paramilitarismo. Este cerco se intensificó desde que la Corte Suprema de Justicia (CSJ) procesó a su primo **Mario Uribe** por ser uno de los financistas de las autodefensas.
@@ -52,7 +52,7 @@ Cambio Radical de los hermanos **Vargas Lleras (Enrique y Germán**) quedaron re
 
 ## Uribe y Ricaurte
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/URIBE-FIN-DE-LA-IMPUNIDAD.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/03/condenado-expresidente-de-csj-por-cartel-de-la-toga/URIBE-FIN-DE-LA-IMPUNIDAD.jpg)
 *El presidente Uribe atentó contra la independencia de la justicia.*
 
 En aquellos momentos Uribe **señalaba que estaba siendo perseguido por la Corte Suprema de Justicia y que le había bloqueado la terna de la Fiscalía para presionar al ejecutivo**. Uribe como los líderes de Cambio Radical eran los principales animadores para que el proceso judicial contra Ricaurte Gómez terminara con una condena como la que se dio a conocer hoy.

@@ -5,10 +5,10 @@ pubDate: "2021-06-25 13:41:01"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/matute-denuncio-entramado-delictivo-que-defraudo-a-170-familias-en-talaigua-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/06/matute-denuncio-entramado-delictivo-que-defraudo-a-170-familias-en-talaigua-ii/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/matute-denuncio-entramado-delictivo-que-defraudo-a-170-familias-en-talaigua-ii/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/06/matute-denuncio-entramado-delictivo-que-defraudo-a-170-familias-en-talaigua-ii/hero.jpg)
 *Fernando Matute, el alcalde Talaigua (2008-2011), fue declarado no responsable fiscalmente por «Nueva Ciudadela». El fracaso de este proyecto fue por «entramado delictivo» que viene desde el gobierno central.*
 
 Cerca de 170 familias fueron defraudadas por el constructor **Jhon Jairo Merlano Peñafiel,** gracias a un **«entramado delictivo»** que pudo gestarse desde el **Fondo Nacional de Vivienda, la Fiduprevisora, y el Ministerio de Vivienda**. Podría ser la conclusión fundamental de la conversación con el exalcalde de Talaigua Nuevo—Bolivar (2008—2011), **Fernando Matute Turizo**, contador de profesión. 

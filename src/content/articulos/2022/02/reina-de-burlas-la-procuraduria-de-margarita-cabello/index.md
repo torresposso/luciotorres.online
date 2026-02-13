@@ -5,10 +5,10 @@ pubDate: "2022-02-16 20:42:24"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/reina-de-burlas-la-procuraduria-de-margarita-cabello/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/02/reina-de-burlas-la-procuraduria-de-margarita-cabello/hero.jpg
 ---
 
-![La Procuraduría de Margarita Leonor Cabello Blanco es una «reina de burlas».](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/reina-de-burlas-la-procuraduria-de-margarita-cabello/hero.jpg)
+![La Procuraduría de Margarita Leonor Cabello Blanco es una «reina de burlas».](s3://bundled-saddlebag-tnqki7w/2022/02/reina-de-burlas-la-procuraduria-de-margarita-cabello/hero.jpg)
 *La Procuraduría de Margarita Leonor Cabello Blanco es una «reina de burlas».*
 
 **La Procuraduría de Margarita Leonor Cabello Blanco es una «reina de burlas»**. Pero lo cierto es que la Procuraduría General de la Nación (PGN) se burla de ella misma cuando habla y no actúa frente a la flagrante participación en política de mandatarios regionales y locales. Ejemplos elocuentes de esta situación es el desafío del alcaldes de Cartagena y Bogotá, **William Dau Chamat y Claudia López, respectivamente.**  Estos mandatarios tienen una serie de denuncias por presuntas faltas disciplinarias y, especialmente, por participación en política. 

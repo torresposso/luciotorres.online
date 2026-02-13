@@ -5,7 +5,7 @@ pubDate: "2022-03-23 22:54:19"
 author: "Lucio"
 categories: ["Entrevista","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/como-le-fue-a-la-costa-caribe-colombiana-en-la-coyuntura-electoral/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/03/como-le-fue-a-la-costa-caribe-colombiana-en-la-coyuntura-electoral/hero.jpg
 ---
 
 Con el fin de dejar constancia para la historia del Caribe colombiano presentamos un análisis de la coyuntura electoral del 13 de marzo. Pese a la alta votación recibida por el Pacto Histórico en la región, solo un senador y dos representantes a la cámara costeños fueron elegidos en esa coalición. La casa Char bajó su votación. Los Blel se fortalecieron con un senador y dos representantes a la cámara. Lidio García se fortaleció. Dumek Turbay ayudó a elegir a Jorge Benedetti. En Bolívar, la Casa García desapareció, pues, Alonso del Río no alcanzó a ser elegido. Daira Galvis y Karen Cure de Cambio Radical, quedaron fuera de circulación. 

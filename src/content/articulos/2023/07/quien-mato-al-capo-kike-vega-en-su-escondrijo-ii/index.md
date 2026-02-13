@@ -5,10 +5,10 @@ pubDate: "2023-07-02 03:04:38"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/hero.jpg)
 *La Negra Dominga apenas tenía 24 años cuando la Dijin presentó a los capturados antes de ser extraditados a Venezuela. /Cortesía EFe.*
 
 ¿Quién mató al temido capo  **«Kike» Vega en su escondrijo?** Luego de la matanza de la que se salvó uno de los cuatro líderes de la **banda Los Vega**, las autoridades, el bajo mundo y la sociedad de Barranquilla se hacen esa pregunta. Ese jueves sonaron 4 ráfagas de fusil de asalto. El silencio del conjunto residencial North Frontier de Villa Campestre, quedó vuelto añicos a las 4:30 de la tarde del 29 de junio del 2023. El cuerpo del capo  en su escondrijo quedó tendido, al lado de los cadáveres de dos de sus hijos. Los sorprendieron. No pudieron reaccionar al ataque criminal.
@@ -17,7 +17,7 @@ La paradoja de la vida, **Roberto Carlos Vega Daza,** el que mató a Jonathan Os
 
 ## La sentencia de muerte de los Vega
 
-![Lo que podría ser el último cumpleaños de «Kike» Vega en su escondrijo. Foto suministrada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/Los-Vega-en-grupo.jpg)
+![Lo que podría ser el último cumpleaños de «Kike» Vega en su escondrijo. Foto suministrada.](s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/Los-Vega-en-grupo.jpg)
 *El que pudo ser el último cumpleaños de «Kike» Vega en su escondrijo. Aquí con sus hijos, su esposa y la Mona. El Beto, quien se salvó salvó de la masacre, le besa la barriga a su padre. Foto suministrada.*
 
 El joven Ospino, de 21 años, era el sobrino preferido de **Álvaro Luis Ospino, alias la Negra _Dominga_**, presunto jefe militar de la banda **Los Piloneros**. Tiene nacionalidad venezolana, pero nació en Arroyohondo (Bolívar). Cuando emigró a Venezuela se metió en el bajo mundo a delinquir en Valencia estado de Carabobo, En la fiesta estaba en compañía de su socio y uno de los nuevos duros que regresó a Colombia y a Barranquilla _remasterizado_ y repotenciado con mucha plata y poder, Víctor Rafael Reales Hoyos. Hoy, se hace pasar como un próspero ganadero y financista electoral que diversificó su negocio. Es una organización que tiene más poder que los Vega, según las fuentes consultadas por **VoxPopuli Digital.**
@@ -44,7 +44,7 @@ El sitio de Cartagena: [Cartagena sitiada por el crimen y la ineptitud (I)](/art
 
 ## La hipótesis de la muerte de «Kike» Vega en su escondrijo
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/Victor-Rafael-Reales-Hoyos-3.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/Victor-Rafael-Reales-Hoyos-3.jpg)
 *En primer plano Víctor Rafael Reales Hoyos y en segundo plano la Negra Dominga cuando solo tenía 24 años. Aquí cuando fueron detenidos en Barranquilla en 2011. Cortesía El Heraldo.*
 
 ¿De quiénes y por qué huían Los Vega? La respuesta está en la fiesta de cumpleaños de Punta Roca, como ya se anotó. Ahí se encontraban varios capos de la mafia de la Costa Caribe que no aparecen en el radar delincuencial de Barranquilla. Su poder y dinero lo habían hecho en Venezuela donde manejaban el prans más poderoso de Valencia. Por cualquier razón, dos de ellos habían sido liberados por la justicia venezolana luego de ser condenados a 20 años de prisión por un tribunal de Caracas en 2016. De acuerdo al proceso, fueron los autores de la muerte del periodista Orel Sambrano, quen le quitó la máscara al narcotraficante Walid Makled y al Cartel de los Soles.
@@ -57,7 +57,7 @@ En efecto, Makled contrató al prans de Los piloneros en Venezuela para enfrenta
 
 ## Los piloneros ¿nuevos amos del bajo mundo?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/placeholder.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/placeholder.jpg)
 *El del sombrero vueltiao es Víctor Reales en una fiesta privada con Diomédes Díaz en Venezuela. Captura de pantalla de video. Fueron los que se le metieron a Kike Vega en su escondrijo.*
 
 Entonces, _Los piloneros_, el nombre con el que se conocía a la organización, pasó de ser un prans para convertirse en una empresa del tráfico de drogas. que le vendía seguridad a Walid Makled García, alias _el Turco_ o el Árabe. Según la DEA, llegó a exportar mensualmente hasta 10 toneladas de droga a Estados Unidos y amasar una fortuna de más de 1.300 millones de dólares.
@@ -72,7 +72,7 @@ Vale recordar que durante la audiencia preliminar donde la dupleta fue condenada
 
 ## _La Negra Dominga_ y Víctor Reales Vs. «Kike» Vega en su escondrijo
 
-![Jonnathan Ospino Illera con su tío la Negra Dominga, el presunto jefe armado de Los piloneros exsocio de Walid Makled. Se pudieron quedar con el negocio de la droga en sociedad con el cartel de los Soles. Probablemente fueron los que diseñaron y ejecutaron el asalto a «Kike» Vega en su escondrijo. Foto suministrada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/La-negra-dominga_y-sobrino.jpg)
+![Jonnathan Ospino Illera con su tío la Negra Dominga, el presunto jefe armado de Los piloneros exsocio de Walid Makled. Se pudieron quedar con el negocio de la droga en sociedad con el cartel de los Soles. Probablemente fueron los que diseñaron y ejecutaron el asalto a «Kike» Vega en su escondrijo. Foto suministrada.](s3://bundled-saddlebag-tnqki7w/2023/07/quien-mato-al-capo-kike-vega-en-su-escondrijo-ii/La-negra-dominga_y-sobrino.jpg)
 *Jonnathan Ospino Illera con su tío la Negra Dominga, el presunto jefe armado de Los Piloneros exsocio de Walid Makled. Se pudieron quedar con el negocio de la droga en sociedad con el cartel de los Soles. Probablemente fueron los que diseñaron y ejecutaron el asalto a «Kike» Vega en su escondrijo. Foto suministrada.*
 
 Víctor Reales Hoyos, 46 años, fue apresado en mayo 2011 en Barranquilla junto con alias la _Negra Dominga_, **Álvaro Luis Ospino**, de 36 años. En poco tiempo fueron extraditados a Venezuela. El Tribunal Supremo de Venezuela sustentó su petición de la siguiente manera:

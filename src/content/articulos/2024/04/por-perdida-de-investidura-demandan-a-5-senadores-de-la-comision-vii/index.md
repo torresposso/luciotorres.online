@@ -5,10 +5,10 @@ pubDate: "2024-04-02 02:02:51"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/por-perdida-de-investidura-demandan-a-5-senadores-de-la-comision-vii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/04/por-perdida-de-investidura-demandan-a-5-senadores-de-la-comision-vii/hero.jpg
 ---
 
-![Pérdida de investidura para los senadores del Centro Democrático y de la U que se pronunciaron sobre la reforma a la salud.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/por-perdida-de-investidura-demandan-a-5-senadores-de-la-comision-vii/hero.jpg)
+![Pérdida de investidura para los senadores del Centro Democrático y de la U que se pronunciaron sobre la reforma a la salud.](s3://bundled-saddlebag-tnqki7w/2024/04/por-perdida-de-investidura-demandan-a-5-senadores-de-la-comision-vii/hero.jpg)
 *Pérdida de investidura para los senadores del Centro Democrático y de la U que se pronunciaron sobre la reforma a la salud.*
 
 Hoy quedó radicada la demanda por pérdida de investidura ante el Consejo de Estado contra 5 miembros de la Comisión VII que estudia la reforma de la salud. La demanda está debidamente motivada por el presunto conflicto de intereses, debido a la relación impropia de esos parlamentarios con las empresas Keraly S.A.S,  y  el Grupo Bolívar.
@@ -21,7 +21,7 @@ La denuncia la hizo Noticias Uno, replicada por Gustavo Bolívar, director del D
 
 ## Demandan pérdida de investidura
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/por-perdida-de-investidura-demandan-a-5-senadores-de-la-comision-vii/la-ponencia_negativa_salud-1024x1024.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/04/por-perdida-de-investidura-demandan-a-5-senadores-de-la-comision-vii/la-ponencia_negativa_salud-1024x1024.jpg)
 
 Los senadores que fueron demandados son **Miguel Ángel Pinto Hernández, Norma Hurtado Sánchez, Josué Alirio Barrera, Honorio Henríquez Pinedo, Berenice Bedoya Pérez**. Si se confirma la existencia del conflicto de interés, seguramente la demanda prosperará ante el Consejo de Estado.
 
@@ -33,7 +33,7 @@ La veeduría representada por Arrieta, cita  los hallazgos encontrados por Noti
 
 ## Senadores impedidos
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/por-perdida-de-investidura-demandan-a-5-senadores-de-la-comision-vii/Demanda_conflicto_de_interes.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/04/por-perdida-de-investidura-demandan-a-5-senadores-de-la-comision-vii/Demanda_conflicto_de_interes.jpg)
 
 La veeduría, considera  que los  senadores  a través  de  sus partidos, habrían violado el régimen  de conflicto de intereses. Estarían impedidos para radicar  informe de ponencia negativa  para  primer  debate  del **proyecto de ley  número 216 de  2023** senado y 339 cámara, contenido  en la Gaceta del congreso.. Es decir,  habrían actuado  contra  expresa prohibiciones constitucionales   y legales.
 

@@ -5,10 +5,10 @@ pubDate: "2023-09-12 01:36:57"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/serfinanza-y-valorcon-la-corte-cierra-el-cerco-financiero-del-rey-arturo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/09/serfinanza-y-valorcon-la-corte-cierra-el-cerco-financiero-del-rey-arturo/hero.jpg
 ---
 
-![Arturo Char, accionista de Serfinanza. Jean Pierre Celia, presidente de Serfinanza, debe explicarle a la Corte Suprema de Justicia su participación en el presunto entramado de corrupción al electorado de Barranquilla y el Atlántico.. Serfinanza y Valorcon](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/serfinanza-y-valorcon-la-corte-cierra-el-cerco-financiero-del-rey-arturo/hero.jpg)
+![Arturo Char, accionista de Serfinanza. Jean Pierre Celia, presidente de Serfinanza, debe explicarle a la Corte Suprema de Justicia su participación en el presunto entramado de corrupción al electorado de Barranquilla y el Atlántico.. Serfinanza y Valorcon](s3://bundled-saddlebag-tnqki7w/2023/09/serfinanza-y-valorcon-la-corte-cierra-el-cerco-financiero-del-rey-arturo/hero.jpg)
 *Arturo Char, accionista de Serfinanza. Jean Pierre Celia, presidente de Serfinanza, debe explicarle a la Corte Suprema de Justicia su participación en el presunto entramado de corrupción al electorado de Barranquilla y el Atlántico.*
 
 Con la identificación de un **patrón criminal** en la instrumentalización de **Serfinanza y Valorcon** para el lavado de activos, dentro de la investigación contra el «rey» Arturo, la Corte Suprema de Justicia (CSJ) está a punto de desbaratar un ciclo perverso que se recicla en cada elección popular en Barranquilla y el Atlántico. Se trata de uno de los entramados más criminales, peor que Odebrecht. Las evidencias indican que en las elecciones populares los Char y sus socios capturan ilegalmente _—_con dineros lavados de la corrupción_—_ al Distrito y a la gobernación para quedarse con sus presupuestos. Además, emiten actos administrativos (proyectos de desarrollo) tendientes a enriquecer a los dueños de esas empresas.
@@ -23,7 +23,7 @@ Por tanto, la corrupción al electorado es un ciclo perverso que tiene como fuen
 
 ## La Corte le echó el ojo a Serfinanza y Valorcon
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/serfinanza-y-valorcon-la-corte-cierra-el-cerco-financiero-del-rey-arturo/Arturo_financiero_auto-No-030.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/09/serfinanza-y-valorcon-la-corte-cierra-el-cerco-financiero-del-rey-arturo/Arturo_financiero_auto-No-030.jpg)
 *Radicado No 00030 de la Corte Suprema de Justicia. Se trata de investigar los recursos procedentes de Serfinanza y Valercon.*
 
 Tres meses antes de las elecciones, los Char y sus compinches montan las sedes de su empresa criminal, cuyo único objetivo es comprar al electorado. Como necesitan dinero en efectivo y debidamente legalizado, generalmente usan al **Banco Serfinanza**. Para esto, los contratistas estatales, prestamistas y financistas electorales hacen prestamos a Serfinanzas. Por ejemplo, dentro del proceso contra **Aida Merlano**, está demostrado que su **_Sugar Daddy_**, **Julio Gerleín**, contratista y financista electoral, le **"invirtió" $12 mil millones** para su elección a senado y la de sus formulas a la cámara. Mitad de ese dinero se lo "prestó" a Serfinanza. La otra mitad la justificó con Valercon, su firma constructora.
@@ -42,7 +42,7 @@ En estos momentos la Corte Suprema de Justicia debe establecer si esas transacci
 
 ## Las denuncias contra Serfinanza y Valorcon
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/09/serfinanza-y-valorcon-la-corte-cierra-el-cerco-financiero-del-rey-arturo/Serfinanza_cuadro-de-accionistas.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/09/serfinanza-y-valorcon-la-corte-cierra-el-cerco-financiero-del-rey-arturo/Serfinanza_cuadro-de-accionistas.jpg)
 *Este es el cuadro de accionista de Serfinanza en 2018. Fíjense que los dos hermanos Char Chaljub (Alejandro y Arturo) tienen 20.671.437 acciones cada uno. Las acciones de Fuad están en Olimpica y Char Hermanos.*
 
 Para el abogado barranquillero **Renzo Montalvo Jiménez**, a Serfinanza se le debe aplicar la extinción de dominio bajo el principio de **enajenación temprana**, tal como la SAE se lo aplicó al 85% de las acciones de INASSA que tenía en la Triple A. Acciones que fueron compradas por **William Vélez Sierra** (denunciado por Mancuso ante la JEP por financiador del paramilitarismo) y **Cristian Daes**, quien al parecer fue condenado en los Estados Unidos por lavado de activos asociado al cartel de Cali.

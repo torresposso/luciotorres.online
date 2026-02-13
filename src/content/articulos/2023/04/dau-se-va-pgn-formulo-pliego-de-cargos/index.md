@@ -5,10 +5,10 @@ pubDate: "2023-04-27 22:00:47"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/dau-se-va-pgn-formulo-pliego-de-cargos/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/04/dau-se-va-pgn-formulo-pliego-de-cargos/hero.jpg
 ---
 
-![Esta es una delaspruebas que la Procuraduría tuvo para formular pliego de cargos contra el alcalde de Cartagena William Dau Chamat. ¿Dau se va? ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/dau-se-va-pgn-formulo-pliego-de-cargos/hero.jpg)
+![Esta es una delaspruebas que la Procuraduría tuvo para formular pliego de cargos contra el alcalde de Cartagena William Dau Chamat. ¿Dau se va? ](s3://bundled-saddlebag-tnqki7w/2023/04/dau-se-va-pgn-formulo-pliego-de-cargos/hero.jpg)
 
 ¿Dau se va? La Procuraduría General de la Nación (PGN) le **formuló pliego de cargos** por atentar contra la dignidad de **Viviana Ejaiek**, directora de la seccional de la Andi de aquel momento. Si por presuntos pequeños hechos de corrupción el procurador de entonces, **Fernando Carrillo** **Flórez**, fulminó en menos de un año al alcalde **Manuel Vicente Duque**, ¿por qué la procuradora de ahora, **Margarita Cabello**, no ha suspendido al alcalde de Cartagena, **William Dau Chamat**?
 
@@ -24,7 +24,7 @@ La investigación disciplinaria que desembocó en la formulación de este pliego
 
 ## ¿Dau se va? Si Cabello quiere
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/dau-se-va-pgn-formulo-pliego-de-cargos/Margarita-Caballo-y-Dau-2.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/04/dau-se-va-pgn-formulo-pliego-de-cargos/Margarita-Caballo-y-Dau-2.jpg)
 *¿Margarita Cabello le dará el tatequieto al zambiloco?*
 
 Como se sabe, Margarita Cabello está en la nómina del Clan Char. Si esto es cierto, no patearía la lonchera de quien le está dando de comer, y, por tanto, a William Dau Chamat lo confirmaría en la alcaldía como lo hizo el contralor, el registrador y como lo ha hecho el poder judicial.

@@ -5,10 +5,10 @@ pubDate: "2025-07-11 12:50:47"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/hero.jpg
 ---
 
-![¡Adivinen! ¿Quién es el hijo negado? ¿El de adelante o el de atrás?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/hero.jpg)
+![¡Adivinen! ¿Quién es el hijo negado? ¿El de adelante o el de atrás?](s3://bundled-saddlebag-tnqki7w/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/hero.jpg)
 *¡Adivinen! ¿Quién es el hijo negado? ¿El de adelante o el de atrás?*
 
 En el Caribe decimos: **«_Hijo negado, sale pintado_»**. Esta frase refleja la ironía de la vida para el primer alcalde de Colombia, **Alejandro Char Chaljub**. Muy a pesar del fuerte rechazo recibido por **Steven Castellanos Ramos** —el protagonista de esta historia— cuando buscó a su presunto padre, la conexión biológica y la herencia genética de los **Char Chaljub** se manifiestan de manera evidente en su fisonomía. ¡La misma cara!
@@ -19,7 +19,7 @@ En la primera entrega de esta historia, dimos a conocer sobre la negativa del al
 
 ## Si Adela viviera
 
-![stos son los vástagos de Adela Chaljub con Fuad Char. Compare el mentón  y la nariz de esos pelaos con los de Steven, el hijo negado.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/Adela_char.jpeg)
+![stos son los vástagos de Adela Chaljub con Fuad Char. Compare el mentón  y la nariz de esos pelaos con los de Steven, el hijo negado.](s3://bundled-saddlebag-tnqki7w/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/Adela_char.jpeg)
 *Estos son los vástagos de Adela Chaljub con Fuad Char. Compare el mentón y la nariz de esos pelaos con los de Steven, el hijo negado. (Cortesía).*
 
 Si la mamá del hijo negado se lo hubiese llevado a **Adela Chaljub de Char** antes de que ella muriera, seguramente Steven hoy fuera un miembro destacado de la familia Char. Ella hubiese hablado con su hijo para llamarlo al orden y que reconociera la paternidad negada al niño de entonces que tenía dos años. Las abuelas _tienen el palito_ _mágico_ —mejor que una prueba de ADN— para detectar la genética de sus nietos o nietas. Pero, **Adela murió el 3 de julio de 1994 en Jacksonville, Estados Unidos, sin conocer a su presunto, primer nieto**.
@@ -32,7 +32,7 @@ Esa era Adelita de Char. Pero, 31 años después de su muerte, las cosas son dis
 
 ## La prueba ADN
 
-![Así fue el reparto de la demanda de filiación del hijo negado en 2024.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/Juzgado_1_familia.jpg)
+![Así fue el reparto de la demanda de filiación del hijo negado en 2024.](s3://bundled-saddlebag-tnqki7w/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/Juzgado_1_familia.jpg)
 *Así fue el reparto de la demanda de filiación en 2024.*
 
 Si la mamá de Alejandro Char no está, la prueba ADN serviría para que los Char Chaljub descarten o reciban al nuevo miembro. El hijo negado. Un hijo condenado al olvido por durante casi 34 años. Allí lo mantuvieron escondido, desde que la madre de Steven le dijera a su padre biológico de que estaba embarazada.
@@ -45,7 +45,7 @@ El hijo negado duró dos semanas en Barranquilla detrás de su padre biológico.
 
 ## 34 años después
 
-![Alejandro Char con sus hijos, al lado de Katya Nule, exreina del Carnaval de Barranquilla. Celebrando otra navidad (2024) sin su primogénito, el hijo negado.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/Char_familia.jpg)
+![Alejandro Char con sus hijos, al lado de Katya Nule, exreina del Carnaval de Barranquilla. Celebrando otra navidad (2024) sin su primogénito, el hijo negado.](s3://bundled-saddlebag-tnqki7w/2025/07/hijo-negado-de-alex-char-salio-pintado-ii/Char_familia.jpg)
 *Alejandro Char con sus hijos, al lado de Katya Nule, exreina del Carnaval de Barranquilla. Celebrando otra navidad (2024) sin su primogénito, el hijo negado. (Instagram).*
 
 La fecha fijada por el juez de familia era el **4 de junio de 2025**. Los nervios de él y de su madre se excitaban cada hora que se acercaba ese día. La expectativa. Las emociones. La ansiedad. El entusiasmo mezclado con el miedo, apresaban la mente de madre e hijo. Para ella, la espera era larga de 34 años desde el último día que lo vio. Para el hijo negado era de un año, pero parecía 100 años.

@@ -5,10 +5,10 @@ pubDate: "2023-10-30 21:59:12"
 author: "Lucio"
 categories: ["Análisis","Crónica"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/en-cartagena-intensifican-mitigacion-ante-aguaceros/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/10/en-cartagena-intensifican-mitigacion-ante-aguaceros/hero.jpg
 ---
 
-![Intensas lluvias provocan inundaciones y desastres. Mitigación ante aguaceros, anuncia José Ricaurte, director Oficina Asesora para la la Gestión del Riesgo de Desastres de Bolívar.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/en-cartagena-intensifican-mitigacion-ante-aguaceros/hero.jpg)
+![Intensas lluvias provocan inundaciones y desastres. Mitigación ante aguaceros, anuncia José Ricaurte, director Oficina Asesora para la la Gestión del Riesgo de Desastres de Bolívar.](s3://bundled-saddlebag-tnqki7w/2023/10/en-cartagena-intensifican-mitigacion-ante-aguaceros/hero.jpg)
 *Intensas lluvias provocan inundaciones y desastres. Mitigación ante aguaceros, anuncia José Ricaurte, director Oficina Asesora para la la Gestión del Riesgo de Desastres de Bolívar.*
 
 Intensifican mitigación ante aguaceros. Las intensas lluvias del 29 de octubre provocaron un retraso de dos horas de la jornada electoral en Cartagena de Indias. En tanto, sigue la búsqueda de un joven desaparecido en uno de los cales de El Pozón.

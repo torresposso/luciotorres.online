@@ -1,257 +1,107 @@
 ---
-import { SITE_TITLE } from "../consts";
 import HeaderLink from "./HeaderLink.astro";
+import { SITE_TITLE } from "../consts";
 ---
 
-<header class="site-header">
-	<a href="#main-content" class="skip-link">Saltar al contenido principal</a>
-	<div class="flag-strip">
-		<span class="strip-y"></span>
-		<span class="strip-b"></span>
-		<span class="strip-r"></span>
-	</div>
-	<nav class="nav-inner" aria-label="Navegación principal">
-		<a href="/" class="nav-brand">
-			{SITE_TITLE}
-		</a>
-		<div class="nav-links">
-			<HeaderLink href="/">Inicio</HeaderLink>
-			<HeaderLink href="/gran-colombia">La Gran Colombia</HeaderLink>
-			<HeaderLink href="/poder-del-ser">El Poder del Ser</HeaderLink>
-			<HeaderLink href="/articulos">Artículos</HeaderLink>
-			<HeaderLink href="/about">¿Quién es Lucio?</HeaderLink>
-		</div>
-		<div class="header-actions">
-			<a href="/#votar" class="nav-cta">Votar 8 de Marzo</a>
-			<button
-				class="mobile-toggle"
-				aria-label="Menú"
-				aria-expanded="false"
-			>
-				<svg
-					xmlns="http://www.w3.org/2000/svg"
-					width="24"
-					height="24"
-					viewBox="0 0 24 24"
-					fill="none"
-					stroke="currentColor"
-					stroke-width="2"
-					stroke-linecap="round"
-					stroke-linejoin="round"
-					><line x1="3" y1="12" x2="21" y2="12"></line><line
-						x1="3"
-						y1="6"
-						x2="21"
-						y2="6"></line><line x1="3" y1="18" x2="21" y2="18"
-					></line></svg
+<header
+	class="sticky top-0 z-50 w-full bg-base-100/90 backdrop-blur-md border-b border-base-300"
+>
+	<!-- Main Navbar -->
+	<div class="navbar max-w-screen-2xl mx-auto px-6 md:px-12 py-4">
+		<div class="navbar-start">
+			<div class="dropdown">
+				<label
+					tabindex="0"
+					class="btn btn-ghost lg:hidden"
+					aria-label="Menu"
 				>
-			</button>
+					<svg
+						xmlns="http://www.w3.org/2000/svg"
+						class="h-6 w-6"
+						fill="none"
+						viewBox="0 0 24 24"
+						stroke="currentColor"
+					>
+						<path
+							stroke-linecap="round"
+							stroke-linejoin="round"
+							stroke-width="2"
+							d="M4 6h16M4 12h16m-16 6h16"></path>
+					</svg>
+				</label>
+				<ul
+					tabindex="0"
+					class="menu menu-sm dropdown-content mt-3 z-1 p-4 shadow-2xl bg-base-100 rounded-box border border-base-300 w-64 font-black uppercase tracking-widest"
+				>
+					<li><HeaderLink href="/">INICIO</HeaderLink></li>
+					<li>
+						<HeaderLink href="/articulos">ARTÍCULOS</HeaderLink>
+					</li>
+					<li>
+						<HeaderLink href="/gran-colombia"
+							>GRAN COLOMBIA</HeaderLink
+						>
+					</li>
+					<li>
+						<HeaderLink href="/poder-del-ser"
+							>PODER DEL SER</HeaderLink
+						>
+					</li>
+					<li><HeaderLink href="/about">SOBRE MÍ</HeaderLink></li>
+				</ul>
+			</div>
+			<a
+				href="/"
+				class="text-3xl md:text-4xl font-editorial font-black tracking-tighter text-neutral hover:text-secondary transition-colors leading-none"
+			>
+				LUCIO<span class="text-primary">.</span>
+			</a>
 		</div>
-	</nav>
+
+		<div class="navbar-center hidden lg:flex">
+			<ul
+				class="menu menu-horizontal px-1 font-black uppercase tracking-[0.2em] text-[10px] gap-8"
+			>
+				<li>
+					<HeaderLink href="/" class="nav-link">INICIO</HeaderLink>
+				</li>
+				<li>
+					<HeaderLink href="/articulos" class="nav-link"
+						>ARTÍCULOS</HeaderLink
+					>
+				</li>
+				<li>
+					<HeaderLink href="/gran-colombia" class="nav-link"
+						>GRAN COLOMBIA</HeaderLink
+					>
+				</li>
+				<li>
+					<HeaderLink href="/poder-del-ser" class="nav-link"
+						>PODER DEL SER</HeaderLink
+					>
+				</li>
+				<li>
+					<HeaderLink href="/about" class="nav-link"
+						>SOBRE MÍ</HeaderLink
+					>
+				</li>
+			</ul>
+		</div>
+
+		<div class="navbar-end">
+			<a
+				href="/gran-colombia"
+				class="btn btn-sm btn-primary text-secondary border-none rounded-full px-6 font-black tracking-widest text-[10px] hover:bg-white hover:text-primary hover:shadow-lg transition-all"
+			>
+				UNIRSE
+			</a>
+		</div>
+	</div>
 </header>
 
-<script>
-	const toggle = document.querySelector(".mobile-toggle");
-	const nav = document.querySelector(".nav-links");
-
-	if (toggle && nav) {
-		toggle.addEventListener("click", () => {
-			const expanded = toggle.getAttribute("aria-expanded") === "true";
-			toggle.setAttribute("aria-expanded", String(!expanded));
-			nav.classList.toggle("open");
-			toggle.classList.toggle("active");
-		});
-	}
-</script>
-
 <style>
-	/* Header Container */
-	.site-header {
-		position: fixed;
-		top: 0;
-		left: 0;
-		right: 0;
-		z-index: 1000;
-		background: rgba(15, 23, 42, 0.95); /* Consistent Dark Theme */
-		backdrop-filter: blur(16px);
-		border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-		box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
-	}
-
-	/* Patriotic Strip */
-	.flag-strip {
-		display: flex;
-		width: 100%;
-		height: 4px;
-	}
-	.strip-y {
-		width: 50%;
-		background: var(--colombia-y);
-	}
-	.strip-b {
-		width: 25%;
-		background: var(--colombia-b);
-	}
-	.strip-r {
-		width: 25%;
-		background: var(--colombia-r);
-	}
-
-	/* Navigation Bar */
-	.nav-inner {
-		max-width: 1200px;
-		margin: 0 auto;
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-		padding: 0 1.5rem;
-		height: 72px; /* Taller for more presence */
-	}
-
-	/* Brand */
-	.nav-brand {
-		font-family: var(--font-heading);
-		font-size: 1.5rem;
-		font-weight: 400;
-		color: #fff;
-		text-decoration: none;
-		letter-spacing: -0.01em;
-		text-transform: uppercase;
-		display: flex;
-		align-items: center;
-		gap: 0.5rem;
-		transition: opacity 0.2s;
-	}
-	.nav-brand:hover {
-		opacity: 0.9;
-	}
-
-	/* Links */
-	.nav-links {
-		display: flex;
-		align-items: center;
-		gap: 0.5rem;
-		background: rgba(255, 255, 255, 0.03);
-		padding: 0.3rem;
-		border-radius: 50px;
-		border: 1px solid rgba(255, 255, 255, 0.05);
-	}
-
-	.nav-links :global(a) {
-		font-family: var(--font-body);
-		font-size: 0.85rem;
-		font-weight: 500;
-		color: rgba(255, 255, 255, 0.7);
-		text-decoration: none;
-		padding: 0.5rem 1.25rem;
-		border-radius: 50px;
-		transition: all 0.2s ease;
-	}
-
-	.nav-links :global(a:hover) {
-		color: #fff;
-		background: rgba(255, 255, 255, 0.1);
-	}
-
-	.nav-links :global(a.active) {
-		color: var(--colombia-gold);
-		background: rgba(245, 158, 11, 0.1);
-		font-weight: 600;
-		box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-	}
-
-	/* Actions */
-	.header-actions {
-		display: flex;
-		align-items: center;
-		gap: 1rem;
-	}
-
-	.nav-cta {
-		display: inline-flex;
-		align-items: center;
-		background: var(--colombia-y);
-		color: var(--text);
-		font-family: var(--font-body);
-		font-size: 0.8rem;
-		font-weight: 800;
-		text-decoration: none;
-		padding: 0.75rem 1.5rem;
-		border-radius: 50px;
-		transition: all 0.25s ease;
-		text-transform: uppercase;
-		letter-spacing: 0.05em;
-		box-shadow:
-			0 4px 6px -1px rgba(0, 0, 0, 0.1),
-			0 2px 4px -1px rgba(0, 0, 0, 0.06);
-	}
-
-	.nav-cta:hover {
-		background: #fff;
-		transform: translateY(-2px);
-		box-shadow: 0 10px 15px -3px rgba(252, 211, 77, 0.4);
-	}
-
-	.mobile-toggle {
-		display: none;
-		background: transparent;
-		border: 1px solid rgba(255, 255, 255, 0.2);
-		color: #fff;
-		cursor: pointer;
-		padding: 0.5rem;
-		border-radius: 8px;
-		transition: all 0.2s;
-	}
-	.mobile-toggle:hover,
-	.mobile-toggle.active {
-		background: rgba(255, 255, 255, 0.1);
-		border-color: #fff;
-	}
-
-	@media (max-width: 960px) {
-		.nav-links {
-			display: none;
-			position: absolute;
-			top: calc(100% + 1rem);
-			left: 1rem;
-			right: 1rem;
-			background: #1e293b;
-			flex-direction: column;
-			align-items: stretch;
-			padding: 1rem;
-			border-radius: 16px;
-			border: 1px solid rgba(255, 255, 255, 0.1);
-			box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
-			gap: 0.5rem;
-		}
-		.nav-links.open {
-			display: flex;
-			animation: slideDown 0.2s ease-out forwards;
-		}
-
-		@keyframes slideDown {
-			from {
-				opacity: 0;
-				transform: translateY(-10px);
-			}
-			to {
-				opacity: 1;
-				transform: translateY(0);
-			}
-		}
-
-		.nav-links :global(a) {
-			width: 100%;
-			text-align: center;
-			padding: 1rem;
-			border-radius: 12px;
-		}
-
-		.mobile-toggle {
-			display: flex;
-		}
-		.nav-cta {
-			display: none;
-		}
+	@reference "../styles/global.css";
+	.nav-link {
+		@apply p-0 border-b-2 border-transparent hover:bg-transparent hover:border-primary transition-all;
 	}
 </style>

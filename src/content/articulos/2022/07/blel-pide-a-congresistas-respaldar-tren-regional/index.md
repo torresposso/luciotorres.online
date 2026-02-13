@@ -5,10 +5,10 @@ pubDate: "2022-07-18 02:34:22"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/blel-pide-a-congresistas-respaldar-tren-regional/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/07/blel-pide-a-congresistas-respaldar-tren-regional/hero.jpg
 ---
 
-![Elsa Noguera, gobernadora del Atlántico, Sandra Gómez, presidenta de Findeter y Vicente Blel, gobernador de Bolívar. Socialización del proyecto Tren Regional.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/blel-pide-a-congresistas-respaldar-tren-regional/hero.jpg)
+![Elsa Noguera, gobernadora del Atlántico, Sandra Gómez, presidenta de Findeter y Vicente Blel, gobernador de Bolívar. Socialización del proyecto Tren Regional.](s3://bundled-saddlebag-tnqki7w/2022/07/blel-pide-a-congresistas-respaldar-tren-regional/hero.jpg)
 *Elsa Noguera, gobernadora del Atlántico, Sandra Gómez, presidenta de Findeter y Vicente Blel, gobernador de Bolívar. Socialización del proyecto Tren Regional.*
 
 El gobernador de Bolívar, Vicente Blel le pidió a los congresistas costeños respaldar el **Tren Regional**. Este sistema se iniciará en Pasacaballos, corregimiento de Cartagena de Indias y concluirá en Santa Marta cerca a su área portuaria. Posteriormente se ampliará a Riohacha. En la primera etapa se tiene previsto construir **365 kilómetros de línea férrea**. Cubrirá 25 municipios del Atlántico, Magdalena y Bolívar.
@@ -19,7 +19,7 @@ En efecto, en el marco de la socialización de los **estudios de prefactibilidad
 
 ## La ruta del Tren Regional
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/blel-pide-a-congresistas-respaldar-tren-regional/ruta-del-tren.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2022/07/blel-pide-a-congresistas-respaldar-tren-regional/ruta-del-tren.jpeg)
 *La Ruta del Tren*
 
 El Tren Regional es una de las iniciativas muy importantes para garantizar a menor costo y de menor impacto ambiental el transporte de pasajeros y cargos a una velocidad de 120 kilómetros por hora. Para alcanzar esta velocidad, se utilizarán puentes sobre las vías existentes. Con este diseño se aprovechará el trazado actual de las vías.
@@ -30,7 +30,7 @@ En todo caso, el proyecto unirá 6 municipios de Bolívar, 10 del Atlántico y 9
 
 ## Un proyecto ambicioso
 
-![Vicente Blel hablando en la socialización de los estudios sobre el Tren Regional del Caribe. Le escucha atentamente la presidenta de Findeter, Sandra Gómez.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/blel-pide-a-congresistas-respaldar-tren-regional/vicente-blel-tren.jpg)
+![Vicente Blel hablando en la socialización de los estudios sobre el Tren Regional del Caribe. Le escucha atentamente la presidenta de Findeter, Sandra Gómez.](s3://bundled-saddlebag-tnqki7w/2022/07/blel-pide-a-congresistas-respaldar-tren-regional/vicente-blel-tren.jpg)
 *Vicente Blel hablando en la socialización de los estudios sobre el Tren Regional del Caribe. Le escucha atentamente la presidenta de Findeter, Sandra Gómez.*
 
 Sin lugar a dudas, este es uno de los proyectos más ambiciosos que los gobernadores de Bolívar, Atlántico y Magdalena pudieron presentar en el OCAD regional:

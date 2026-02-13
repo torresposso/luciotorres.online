@@ -5,15 +5,15 @@ pubDate: "2021-07-02 00:50:44"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/cartagena-revoca-por-fin-recibio-formatos-para-revocar-a-dau/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/07/cartagena-revoca-por-fin-recibio-formatos-para-revocar-a-dau/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/cartagena-revoca-por-fin-recibio-formatos-para-revocar-a-dau/foto-2.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/07/cartagena-revoca-por-fin-recibio-formatos-para-revocar-a-dau/foto-2.jpeg)
 *El registrador Distrital, Dairo Turizo, le hace entrega formalmente al comité Cartagena Revoca los formatos para la recolección de firmas que permitirá revocar el mandato del alcalde William Dau Chamat.*
 
 Luego de un dilatado proceso, en el día de hoy la Registraduría le entregó al **Comité Cartagena Revoca-Pacto Heroico** el formato para la recolección de las firmas. Esta acción permitirá la revocatoria del mandato de **William Dau Chamat**, alcalde de Cartagena. Con este paso, se iniciará el próximo 6 de julio la campaña de recolección y constitución de comités de revocatoria en las tres localidades del Distrito. 
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/cartagena-revoca-por-fin-recibio-formatos-para-revocar-a-dau/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/07/cartagena-revoca-por-fin-recibio-formatos-para-revocar-a-dau/hero.jpg)
 *Dairo Turizo, Registrador Distrital y Oscar García Alemán, funcionario de la Registraduría, le explican a Lucio Torres los documentos que entregaron.*
 
 Los miembros del Comité Cartagena Revoca, constituido en su mayoría por mujeres, invita a todos los sectores a constituir su propio comité para desarrollar la revocatoria del alcalde William Dau Chamat.

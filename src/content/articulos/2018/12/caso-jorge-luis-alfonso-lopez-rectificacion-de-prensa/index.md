@@ -5,7 +5,7 @@ pubDate: "2018-12-22 16:53:07"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/12/caso-jorge-luis-alfonso-lopez-rectificacion-de-prensa/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2018/12/caso-jorge-luis-alfonso-lopez-rectificacion-de-prensa/hero.jpg
 ---
 
 ## **_«_**No juzguéis y no seréis juzgados; No condenéis y no seréis condenados; perdonad y seréis perdonados**_»_**. (Lucas: 6:37)
@@ -29,7 +29,7 @@ Tomando en cuenta la Constitución, la ley y la jurisprudencia que prima sobre e
 
 ## Rectifico y aclaro
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/12/caso-jorge-luis-alfonso-lopez-rectificacion-de-prensa/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2018/12/caso-jorge-luis-alfonso-lopez-rectificacion-de-prensa/hero.jpg)
 *Jorge Luis Alfonso y Lucio Torres, oriundos de Magangué y formados en Barranquilla, salen de la Fiscalía 12 Local de Sabanalarga Atlántico, luego de una audiencia pública donde el periodista se comprometió a hacer una rectificación de prensa.*
 
 1.  **No es cierta la siguiente aseveración**: **_«_**_Una fuente de entero crédito, le dijo a este periodista que el exalcalde de Magangué e hijo mayor de_ **_Enilse López_** _es el patrón de la Ese Río Grande de la Mgdalena, una vez el exsenador_ **_Antonio Correa_** _fuera vinculado al proceso donde se encuentra preso el alcalde de_ **_El Peñón Arling Arias García_** _y dos contratistas,_ **_Vanessa Margarita Deyongh y Carlos Celestino Martelo,_** _por el caso de una cancha de fútbol por valor de$ 3.490 millones. Se compulsó copias a la Corte Suprema de Justicia para que inicie un proceso penal contra el exparlamentario costeño_**_»_**.  **El abogado Jorge Luis Alfonso López** no tiene nada que ver con la Ese **Río Grande La Magdalena**, puesto que su condición jurídica le impide realizar cualquier acción relacionada con la Ese.

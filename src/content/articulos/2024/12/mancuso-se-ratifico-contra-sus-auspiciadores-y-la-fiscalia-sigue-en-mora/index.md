@@ -5,10 +5,10 @@ pubDate: "2024-12-17 01:17:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/mancuso-se-ratifico-contra-sus-auspiciadores-y-la-fiscalia-sigue-en-mora/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/12/mancuso-se-ratifico-contra-sus-auspiciadores-y-la-fiscalia-sigue-en-mora/hero.jpg
 ---
 
-![Aspecto de la audiencia del 13 de diciembre donde Mancuso se ratificó de sus señalamientos contra sus financiadores y auspiciadores](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/mancuso-se-ratifico-contra-sus-auspiciadores-y-la-fiscalia-sigue-en-mora/Mancuso-se-ratifica-1024x606.jpeg)
+![Aspecto de la audiencia del 13 de diciembre donde Mancuso se ratificó de sus señalamientos contra sus financiadores y auspiciadores](s3://bundled-saddlebag-tnqki7w/2024/12/mancuso-se-ratifico-contra-sus-auspiciadores-y-la-fiscalia-sigue-en-mora/Mancuso-se-ratifica-1024x606.jpeg)
 *Aspecto de la audiencia del 13 de diciembre donde Mancuso se ratificó de sus señalamientos contra sus financiadores y auspiciadores.*
 
 Con la ratificación de las denuncias contra sus financiadores y auspiciadores, el pasado 13 de diciembre, el excomandante de las Autodefensas Unidas de Colombia (AUC), **Salvatore Mancuso Gómez**, abre la posibilidad de que el Estado persiga judicialmente a los terceros responsables del horror paramilitar en la Costa Caribe. Este hecho histórico se produjo ante la **Sala de Conocimiento del Tribunal de Justicia y Paz de Barranquilla.**
@@ -47,7 +47,7 @@ Si, Mancuso se ratificó y se rebeló contra sus financiadores, pero el silencio
 
 ## **La finca Potosí desde el Derecho Penal**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/mancuso-se-ratifico-contra-sus-auspiciadores-y-la-fiscalia-sigue-en-mora/finca_potosi.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/12/mancuso-se-ratifico-contra-sus-auspiciadores-y-la-fiscalia-sigue-en-mora/finca_potosi.jpeg)
 *Esta prueba la publicamos una vez Mancuso se rebeló contra sus auspiciadores.*
 
 *   **Crímenes de Lesa Humanidad:** Los hechos narrados configuran una serie de crímenes de lesa humanidad, como homicidios, desapariciones forzadas y desplazamientos forzados. Estos delitos se caracterizan por su sistematicidad y su perpetración como parte de un ataque generalizado o sistemático contra una población civil.

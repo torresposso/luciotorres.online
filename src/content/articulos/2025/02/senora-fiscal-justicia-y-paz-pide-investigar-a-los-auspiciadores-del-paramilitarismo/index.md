@@ -5,10 +5,10 @@ pubDate: "2025-02-19 01:41:00"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/senora-fiscal-justicia-y-paz-pide-investigar-a-los-auspiciadores-del-paramilitarismo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/02/senora-fiscal-justicia-y-paz-pide-investigar-a-los-auspiciadores-del-paramilitarismo/hero.jpg
 ---
 
-![La fiscal Luz Adriana Camargo debe demostrar que no solo son bonitos discursos. Se necesita acción para someter a los auspiciadores del paramilitarismo y la defensa de los derechos de las víctimas](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/senora-fiscal-justicia-y-paz-pide-investigar-a-los-auspiciadores-del-paramilitarismo/hero.jpg)
+![La fiscal Luz Adriana Camargo debe demostrar que no solo son bonitos discursos. Se necesita acción para someter a los auspiciadores del paramilitarismo y la defensa de los derechos de las víctimas](s3://bundled-saddlebag-tnqki7w/2025/02/senora-fiscal-justicia-y-paz-pide-investigar-a-los-auspiciadores-del-paramilitarismo/hero.jpg)
 *La fiscal Luz Adriana Camargo debe demostrar que no solo son bonitos discursos. Se necesita acción para someter a los auspiciadores del paramilitarismo y la defensa de los derechos de las víctimas. (Cortesía).*
 
 El Tribunal de Justicia y Paz acaba de emitir el **oficio No 007/2025** mediante el cual le pidió la Fiscal General de la Nación, **Luz Adriana Camargo Garzón**, que investigue los casos de los empresarios **Rafael Matera Lajud y Alfonso Macías Vargas** (fallecido en el 2024) y sus propiedades productos de las actividades delincuenciales. Los citados individuos ―llamados **Los Intocables**― fueron señalados por los exjefes de las autodefensas como auspiciadores del paramilitarismo que siguen sin ser tocados por la justicia. Esta situación de inacción de la Fiscalía es una **flagrante violación de los principios de justicia y reparación**.
@@ -17,7 +17,7 @@ _Los Intocables_ son los **auspiciadores del paramilitarismo** que cometieron lo
 
 ¿Te interesa? [Señora Fiscal: ¿Terminó la vagancia judicial con Los Intocables? (XVI)](/articulos/senora-fiscal-termino-la-vagancia-judicial-con-los-intocables-xvi/)
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/senora-fiscal-justicia-y-paz-pide-investigar-a-los-auspiciadores-del-paramilitarismo/Compulsa_copia_Justicia_-747x1024.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/02/senora-fiscal-justicia-y-paz-pide-investigar-a-los-auspiciadores-del-paramilitarismo/Compulsa_copia_Justicia_-747x1024.jpg)
 *La compulsa de copia firmada por el magistrado José de la Pava Marulanda, de la Sala de Conocimiento de Justicia y Paz del Tribunal Superior de Barranquilla.*
 
 ## Los auspiciadores del paramilitarismo

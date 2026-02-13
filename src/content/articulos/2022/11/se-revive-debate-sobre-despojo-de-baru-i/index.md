@@ -5,10 +5,10 @@ pubDate: "2022-11-18 14:13:32"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/se-revive-debate-sobre-despojo-de-baru-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/11/se-revive-debate-sobre-despojo-de-baru-i/hero.jpg
 ---
 
-![Barú era una península. Luego se convirtió en una isla con la creación del Canal del Dique. Se revive debate sobre despojo de Barú](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/se-revive-debate-sobre-despojo-de-baru-i/playa-blanca.jpeg)
+![Barú era una península. Luego se convirtió en una isla con la creación del Canal del Dique. Se revive debate sobre despojo de Barú](s3://bundled-saddlebag-tnqki7w/2022/11/se-revive-debate-sobre-despojo-de-baru-i/playa-blanca.jpeg)
 *Barú era una península. Luego se convirtió en una isla con la creación del Canal del Dique. Se revive debate sobre despojo de Barú*
 
 Se revive debate político sobre despojo de Barú. En 1887, 94 familias propietarias de la **Hacienda Santa Ana de Barú** vivían aisladas del mundo exterior. Se autoabastecían en todos los aspectos. Cultivaban, pescaban, criaban animales y cazaban lo que necesitaban para vivir. Practicaban el trueque como una forma de intercambio comercial. No necesitaban el dinero. Eran felices, hasta cuando llegaron otros afros blanqueados —de la servidumbre de «los blancos»— con bolsas de dinero. Detrás de ellos sus «amos blancos» llegaban y escrituraban ilegalmente con la complicidad del sistema judicial y notarial de Cartagena.
@@ -19,7 +19,7 @@ Lo grave de todo este asunto es que entidades que deben ser defensoras de los de
 
 ## El despojo de Barú
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/se-revive-debate-sobre-despojo-de-baru-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/11/se-revive-debate-sobre-despojo-de-baru-i/hero.jpg)
 *Los grandes proyectos turísticos se realizaron con el despojo de Barú.*
 
 Hoy, esos herederos de la Hacienda Santa Ana de Barú, que fueron despojados mediante el engaño y la violencia, acaban de presentar denuncias penales, quejas ante la procuraduría y esperan con mucha expectativa la **audiencia pública del senado** prevista para este **sábado 19 de noviembre** en la sede de la USO de Cartagena.
@@ -40,7 +40,7 @@ Dicho lo anterior, se abrieron las condiciones para que el proceso de despojo se
 
 ## El gran negocio de Barú
 
-![Cuando un debate político tiene un desenlace penal y disciplinario.  García promovió el debate del gran negocio de Barú.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/se-revive-debate-sobre-despojo-de-baru-i/william-garcia.jpg)
+![Cuando un debate político tiene un desenlace penal y disciplinario.  García promovió el debate del gran negocio de Barú.](s3://bundled-saddlebag-tnqki7w/2022/11/se-revive-debate-sobre-despojo-de-baru-i/william-garcia.jpg)
 *Cuando un debate político tiene un desenlace penal y disciplinario. García promovió el debate del gran negocio de Barú.*
 
 En los anales del congreso se puede citar el debate de la Comisión Quinta de la Cámara de Representantes del año 2012. El exrepresentante **William García Tirado**, quien conversó con VoxPopuli Digital, realizó una destacado debate de control político a los representantes de varias entidades del Estado.
@@ -55,7 +55,7 @@ La firma **Playa Blanca Barú S.A, fue creada el 18 de Noviembre de 2005**, ba
 
 ## Casos emblemáticos del despojo de Barú
 
-![El empresario Gabriel Echavarría desde muchísimos años aparece como uno de los supuestos despojadores de los herederos de Barú.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/se-revive-debate-sobre-despojo-de-baru-i/gabriel-Echavarria.jpg)
+![El empresario Gabriel Echavarría desde muchísimos años aparece como uno de los supuestos despojadores de los herederos de Barú.](s3://bundled-saddlebag-tnqki7w/2022/11/se-revive-debate-sobre-despojo-de-baru-i/gabriel-Echavarria.jpg)
 *El empresario Gabriel Echavarría desde muchísimos años aparece como uno de los supuestos despojadores de los herederos de Barú.*
 
 De acuerdo con los veedores y apoderados de algunas de las familias, **Héctor Pérez Fernandez y Erick Urueta** Benavides, señalan que uno de los casos emblemáticos es el de los descendientes de la familia Girado. También indica que Pablo Obregón Gonzáles fue uno de los artífices de este despojo porque adelantó muchos procesos de pertenencia. Hizo abrir nuevas matriculas inmobiliarias y referencias catastrales en forma ilegal. Luego subdividía y las trapazaba a empresas de sus familiares o de él mismo. No se entiende como lo hizo, porque para prescribir debía demostrar la posesión que nunca tuvo, ya que él vivía y trabajaba para **Bavaria** en Barranquilla.

@@ -5,12 +5,12 @@ pubDate: "2021-07-28 03:04:27"
 author: "Lucio"
 categories: ["Análisis","Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/en-bayunca-el-anhelado-alcantarillado-que-el-alcalde-no-entiende/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/07/en-bayunca-el-anhelado-alcantarillado-que-el-alcalde-no-entiende/hero.jpg
 ---
 
 El anhelado alcantarillado de Bayunca es el sueño de 30 mil personas que desean hacer del cuerpo como Dios manda. Quieren salir de las viejas y putrefactas letrinas y disfrutar una buena sentada en su retrete con su alcantarillado moderno. **Ya están cansados de seguir haciendo sus necesidades en medio de ríos de aguas servidas que bañan las calles con sus millones de microbios.** 
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/en-bayunca-el-anhelado-alcantarillado-que-el-alcalde-no-entiende/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/07/en-bayunca-el-anhelado-alcantarillado-que-el-alcalde-no-entiende/hero.jpg)
 *El malandrín hablando de malandrines. Tiene año y medio y no ha movido una paja para financiar el 30% del anhelado alcantarillado. El concejo le aprobó $226 mil millones y se los fumó. Cortesía.*
 
 El mejor momento para cumplirle a Bayunca, paradójicamente, fue después de la muerte de **Campo Elías Terán**. No obstante, Dionisio Vélez prorrogó el contrato con **Aguas de Cartagena**, pero jamás pensó en la comunidad que lo eligió sino en el **_dulce que los españoles les enseñaron en su viaje por Barcelona_**. Debió negociar la construcción del alcantarillado, tomando en cuenta que la **nación iba a colocar el 70% del costo total de la obra.**
@@ -25,7 +25,7 @@ Una década más tarde, después de una protesta social de los bayunqueros, las 
 
 ## El anhelado alcantarillado
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/en-bayunca-el-anhelado-alcantarillado-que-el-alcalde-no-entiende/IMG_20210726_163623.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/07/en-bayunca-el-anhelado-alcantarillado-que-el-alcalde-no-entiende/IMG_20210726_163623.jpg)
 *Mirenlos, muertos de la risa y con tres cervezas en la cabeza. Alcalde y la mesa directiva del concejo. Y después van a buscar los votos en Bayunca y Pontezuela.*
 
 Un poco de historia no queda mal. En 1993, la Corte Constitucional mediante la **Sentencia No. T-366/93 consideró que la salubridad pública, además de ser un derecho colectivo, es un derecho fundamental.** Esa fue la sentencia que resultó de una acción de tutela entablada por el abogado **Miguel Yacamán Yidis** contra el Distrito de Cartagena. En aquella época el alcantarillado de Bocagrande estaba rezagado por la cantidad de edificaciones existentes. Las aguas servidas se regresaban e inundaban las residencias. Y en las calles la gente pisaba mierda. Además, no se podía construir una edificación nueva o reformar la existente, porque faltaba el alcantarillado.
@@ -70,7 +70,7 @@ De hecho, en 2019, la comisión de empalme del alcalde encargado Pedrito Pereira
 
 ## Una década perdida
 
-![El anhenelado alcantarillado.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/en-bayunca-el-anhelado-alcantarillado-que-el-alcalde-no-entiende/IMG-20210726-WA0053.jpg)
+![El anhenelado alcantarillado.](s3://bundled-saddlebag-tnqki7w/2021/07/en-bayunca-el-anhelado-alcantarillado-que-el-alcalde-no-entiende/IMG-20210726-WA0053.jpg)
 *La solo protesta no basta. El derecho de Participación reside en la capacidad de revocar a los gobernantes inútiles. El poder es del pueblo. Si se hubiese ejercido este poder, desde hace 10 años Bayunca y Pontezuela tuvieran el anhelado alcantarillado.*
 
 La comunidad del corregimiento de Bayunca (Cartagena de Indias) completó una década con una acción popular dictaminada por un juez administrativo que ordenó la instalación de su alcantarillado. La acción popular fue presentada, en nombre de la comunidad, por la Junta de Acción Comunal en cabeza de su presidenta de la época, Estela Marrugo. 

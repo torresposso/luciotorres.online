@@ -5,10 +5,10 @@ pubDate: "2023-04-20 02:54:36"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/el-poder-de-los-intocables-y-el-crimen-del-magistrado-v/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/04/el-poder-de-los-intocables-y-el-crimen-del-magistrado-v/hero.jpg
 ---
 
-![¿La víctima y su verdugo? Está claro, pero la justicia debe pronunciarse. El poder de «Los intocables»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/el-poder-de-los-intocables-y-el-crimen-del-magistrado-v/hero.jpg)
+![¿La víctima y su verdugo? Está claro, pero la justicia debe pronunciarse. El poder de «Los intocables»](s3://bundled-saddlebag-tnqki7w/2023/04/el-poder-de-los-intocables-y-el-crimen-del-magistrado-v/hero.jpg)
 *¿La víctima y su verdugo? Está claro, pero la justicia debe pronunciarse. El poder de «Los intocables»*
 
 **El poder de «Los intocables»** en Barranquilla se mantiene intacto desde hace dos décadas, gracias a una **criminal impunidad** que reina en la rama judicial. Nada se les pega. Nadie los puede tocar. Además de peligrosos, han contado con el silencio cómplice de todos los fiscales generales, desde **Luis Camilo Osorio Isaza** hasta **Francisco Barbosa**. El magistrado **Enrique Camilo Noguera Aarón**, quien se enfrentó a uno de ellos, en octubre del 2023 cumplirá 20 años de su asesinato.
@@ -49,7 +49,7 @@ En ese hecho, es decir, en el supuesto atentado contra **Álvaro Uribe Vélez**,
 
 ## El crimen del magistrado y el poder **de Los Intocables**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/el-poder-de-los-intocables-y-el-crimen-del-magistrado-v/Enrique-Camilo-Noguera.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/04/el-poder-de-los-intocables-y-el-crimen-del-magistrado-v/Enrique-Camilo-Noguera.jpg)
 *Enrique Camilo Noguera*
 
 El hecho conmocionó a la región, y fue noticia internacional, porque **Noguera Aarón** había sido presidente de la Sala Civil del Consejo Superior de la Judicatura.

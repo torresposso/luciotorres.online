@@ -5,10 +5,10 @@ pubDate: "2024-03-08 03:12:16"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/el-tiempo-de-la-corte-es-elastico-para-elegir-fiscal-iii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/03/el-tiempo-de-la-corte-es-elastico-para-elegir-fiscal-iii/hero.jpg
 ---
 
-![El tiempo de la Corte es elástico para elegir fiscal](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/el-tiempo-de-la-corte-es-elastico-para-elegir-fiscal-iii/hero.jpg)
+![El tiempo de la Corte es elástico para elegir fiscal](s3://bundled-saddlebag-tnqki7w/2024/03/el-tiempo-de-la-corte-es-elastico-para-elegir-fiscal-iii/hero.jpg)
 
 El tiempo de la Corte Suprema de Justicia sigue siendo elástico gracias a su viejo reglamento interno. Sus 23 magistrados de la Sala Plena tampoco hoy se pusieron de acuerdo para elegir fiscal. Sin embargo, tres elementos se pueden destacar de esta cuarta frustrada intención. (I) El voto en blanco perdió fuerza. (II) La ternada **Amelia Pérez Parra**, quien alcanzó 13 votos en la Sala anterior, dos más que el voto en blanco, se desplomó en la preferencia de los magistrados. (III) Se avizora acuerdo. Por esto brilló la ausencia de la protesta social y de los ataques del presidente y de los senadores del Pacto Histórico.
 
@@ -36,7 +36,7 @@ Sin embargo, el mandato conferido a la Corte Suprema por el artículo 249 de la 
 
 ## El tiempo de la Corte debe ser limitado
 
-![Luz Adriana Camargo repuntó en la última votación con 13 votos. El tiempo dela Corte debe ser limitado.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/el-tiempo-de-la-corte-es-elastico-para-elegir-fiscal-iii/Luz_Adriana_Camargo.jpg)
+![Luz Adriana Camargo repuntó en la última votación con 13 votos. El tiempo dela Corte debe ser limitado.](s3://bundled-saddlebag-tnqki7w/2024/03/el-tiempo-de-la-corte-es-elastico-para-elegir-fiscal-iii/Luz_Adriana_Camargo.jpg)
 *Luz Adriana Camargo repuntó en la última votación con 13 votos. El tiempo de la Corte debe ser limitado.*
 
 Por tanto, el tiempo de la Corte Suprema de Justicia debe ser limitado por la Corte Constitucional a través de una acción constitucional.

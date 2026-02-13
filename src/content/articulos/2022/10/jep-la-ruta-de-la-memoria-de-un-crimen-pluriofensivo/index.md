@@ -5,10 +5,10 @@ pubDate: "2022-10-23 19:24:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/jep-la-ruta-de-la-memoria-de-un-crimen-pluriofensivo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/10/jep-la-ruta-de-la-memoria-de-un-crimen-pluriofensivo/hero.jpg
 ---
 
-![Aspecto de la audiencia de la JEP Canal del Dique. La Ruta de la Memoria](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/jep-la-ruta-de-la-memoria-de-un-crimen-pluriofensivo/hero.jpg)
+![Aspecto de la audiencia de la JEP Canal del Dique. La Ruta de la Memoria](s3://bundled-saddlebag-tnqki7w/2022/10/jep-la-ruta-de-la-memoria-de-un-crimen-pluriofensivo/hero.jpg)
 *Aspecto de la audiencia de la JEP Canal del Dique. La Ruta de la Memoria.*
 
 Si bien las medidas centrales de la JEP no suspendieron el proceso licitatorio, **la orden de crear la Ruta de la Memoria de los desaparecidos y muertos del Canal del Dique es una de las medidas a destacar.** A esta conclusión se llega si la interpretación la hacemos desde el punto de vista de los derechos de las víctimas y de los 480 mil humanos que habitan el sistema cenagoso. Muchos de ellos esperan que aparezcan los cuerpos de sus muertos.
@@ -29,7 +29,7 @@ La Ruta de la Memoria del Cementerio Fluvial más grande de Colombia.
 
 **Luis Gabriel Salas**, grupo de análisis de la sala de reconocimiento de la JEP, en el primer día de audiencia presentó lo que podría ser la **cartografía de este crimen** pluriofensivo. Para la construcción de esa cartografía recibieron **121 testimonios**. Se identificaron **79 lugares de disposición de cuerpos**, 15 zonas de control paramilitar, 13 avistamientos y 10 lugares de control paramilitar y disposición de cuerpos en el Canal del Dique.
 
-![Los gobernadores Héctor Olimpo Espinosa (Sucre), Elsa Noguera Atlántico) y Vicente Blel, junto con los alcaldes, deberán ejecutar la Ruta de la Memoria de este crimen pluriofensivo cometido en el Canal del Dique](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/jep-la-ruta-de-la-memoria-de-un-crimen-pluriofensivo/Gobernadores-2.jpg)
+![Los gobernadores Héctor Olimpo Espinosa (Sucre), Elsa Noguera Atlántico) y Vicente Blel, junto con los alcaldes, deberán ejecutar la Ruta de la Memoria de este crimen pluriofensivo cometido en el Canal del Dique](s3://bundled-saddlebag-tnqki7w/2022/10/jep-la-ruta-de-la-memoria-de-un-crimen-pluriofensivo/Gobernadores-2.jpg)
 *Los gobernadores Héctor Olimpo Espinosa (Sucre), Elsa Noguera Atlántico) y Vicente Blel, junto con los alcaldes, deberán ejecutar la Ruta de la Memoria de este crimen pluriofensivo cometido en el Canal del Dique.*
 
 Tomando en cuenta las medidas restaurativas precautelativas, la sección de Ausencia de Reconocimiento de la JEP ordenó a los gobernantes de los territorios para que **adopten la Ruta de la Memoria en un lapso de 6 meses**. La orden va para la gobernadora del Atlántico, **Elsa Noguera** de la Espriella. Asimismo para el gobernador de Bolívar **Vicente Blel Scaf** y al gobernador de Sucre **Héctor Olimpo Espinosa Oliver**.
@@ -38,7 +38,7 @@ De igual manera tal orden debe ser cumplida por los alcaldes de cada uno de los 
 
 ## La Ruta de la Memoria concertada
 
-![Esta es la cartografía de un crimen de lesa humanidad. El contentillo de la Ruta de la Memoria.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/jep-la-ruta-de-la-memoria-de-un-crimen-pluriofensivo/cartografia-del-crimen.jpg)
+![Esta es la cartografía de un crimen de lesa humanidad. El contentillo de la Ruta de la Memoria.](s3://bundled-saddlebag-tnqki7w/2022/10/jep-la-ruta-de-la-memoria-de-un-crimen-pluriofensivo/cartografia-del-crimen.jpg)
 *Esta es la cartografía de un crimen de lesa humanidad. El contentillo de la Ruta de la Memoria.*
 
 La Ruta de la Memoria se debe construir en concertación con los peticionarios de este trámite cautelar, siguiendo lo indicado en la parte considerativa de esta decisión. Por tanto, se debe diseñar e implementar una Ruta de la Memoria demarcada con placas conmemorativas y narrativas ubicadas en lugares públicos a lo largo del Canal del Dique .

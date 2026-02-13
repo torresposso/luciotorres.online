@@ -5,10 +5,10 @@ pubDate: "2023-10-11 02:14:36"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/urgente-cne-avoca-inhabilidad-de-alejandro-char-por-pruebas-evidentes/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/10/urgente-cne-avoca-inhabilidad-de-alejandro-char-por-pruebas-evidentes/hero.jpg
 ---
 
-![¡Urgente! CNE avoca inhabilidad. Las cuentas fantasmas de Serfinanza que inhabilitan a Char.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/urgente-cne-avoca-inhabilidad-de-alejandro-char-por-pruebas-evidentes/hero.jpg)
+![¡Urgente! CNE avoca inhabilidad. Las cuentas fantasmas de Serfinanza que inhabilitan a Char.](s3://bundled-saddlebag-tnqki7w/2023/10/urgente-cne-avoca-inhabilidad-de-alejandro-char-por-pruebas-evidentes/hero.jpg)
 *CNE avoca inhabilidad. Las cuentas fantasmas de Serfinanza que inhabilitan a Char.*
 
 Ya la presunta inhabilidad de Alejandro Char dejó de ser una investigación y análisis periodísticos para convertirse en una investigación de carácter administrativo. El Consejo Nacional Electoral-CNE avoca la investigación contra la inscripción a la alcaldía de Barranquilla de uno de los principales miembros de una familia que domina política, económica y culturalmente a esta gran ciudad. La decisión del tribunal electoral la tomó mediante a**uto No 326-MMA-2023** de la tarde 10 de octubre. Este hecho, se constituye, por sí solo, en un indicio de que francamente el candidato de Cambio Radical **violó flagrantemente el régimen de inhabilidades e incompatibilidades establecido por las leyes 136 de 1994 y 617 de 200**0.

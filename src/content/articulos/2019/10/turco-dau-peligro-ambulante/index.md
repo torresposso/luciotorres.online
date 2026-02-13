@@ -5,10 +5,10 @@ pubDate: "2019-10-24 12:05:20"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/10/turco-dau-peligro-ambulante/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/10/turco-dau-peligro-ambulante/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/10/turco-dau-peligro-ambulante/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/10/turco-dau-peligro-ambulante/hero.jpg)
 *Lucio Torres destapó el falso positivo de William Daupeligro ambulante para la libertad de prensa al servicio de los fondos buitres.*
 
 El siguiente es un **comunicado de prensa** que expido en el día de hoy como consecuencia de los ataques que yo y mi familia han sufrido por mi actividad profesional. Los ataques y hostigamientos proceden de esbirros digitales de **William Dau Chamat**, candidato a la alcaldía de Cartagena. Mis páginas de Facebook fueron cerradas. Dau peligro ambulante.

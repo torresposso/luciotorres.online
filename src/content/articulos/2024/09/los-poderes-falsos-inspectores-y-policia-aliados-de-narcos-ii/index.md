@@ -5,10 +5,10 @@ pubDate: "2024-09-02 03:16:02"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/hero.jpg)
 
 ¿Qué interés particular tienen el comandante de la policía de Turbaco, capitán **Andrés Bustos** y los inspectores de policía de **Bayunca** y Pontezuela, **Arnaldo Hidalgo Hurtado** y **Martín Arce**, respectivamente, con las tierras que presuntos narcos les pretenden despojar a campesinos del noroccidente de Cartagena? Como fresa del pudín, estos procesos policivos ilegales lo **ejecutan con ¡falsedad procesal!** La notaría donde dicen haberlo hecho los poderes falsos, certificó que esos códigos de expedición no corresponden a su despacho.
 
@@ -20,7 +20,7 @@ Vale recordar que en 2009, **Javier Ocampo Upegui, alias «JO»**, conoció a **
 
 ## ¿Inspectores y policía aliados de narcos?
 
-![Los poderes falsos. ¿Inspectores y policía aliados de narcos? Gildardo Guzmán reemplazó a Gregorio Rico, quien presuntamente dirigió la fallida operación de desalojar a los campesinos con poderes falsos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/Gildardo_guzman-656x1024.jpg)
+![Los poderes falsos. ¿Inspectores y policía aliados de narcos? Gildardo Guzmán reemplazó a Gregorio Rico, quien presuntamente dirigió la fallida operación de desalojar a los campesinos con poderes falsos.](s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/Gildardo_guzman-656x1024.jpg)
 *Los poderes falsos. ¿Inspectores y policía aliados de narcos? Gildardo Guzmán reemplazó a Gregorio Rico, quien presuntamente dirigió la fallida operación de desalojar a los campesinos con poderes falsos.*
 
 **Gildardo Guzmán** ―quien sucedió a Gregorio Rico como administrador de la **finca Canalete**, propiedad del presunto narcotraficante **alias «JO»**― es el apoyo logístico de los piquetes de policía **dirigido por el capitán Andrés Bustos** en estos operativos que son contrarios a la ley y, específicamente, al Código Nacional de Policía.
@@ -37,7 +37,7 @@ En este documental, una historia de despojo y violencia en el Bajo Retiro.
 
 ## Gregorio Rico, el inspector y **alias «JO»**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/Arnaldo-Hidalgo-Hurtado.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/Arnaldo-Hidalgo-Hurtado.jpeg)
 *Arnaldo Hidalgo Hurtado, aunque salió de la inspección de Bayunca, sigue vinculado a varios procesos penales y disciplinarios por falsedad procesal.*
 
 Una de las fichas clave usada para este propósito de despojo es el inspector de policía de Bayunca, **Arnaldo Hidalgo Hurtado**. El funcionario viene enfrentando varios procesos penales y disciplinarios por **su conducta torticera**.
@@ -64,7 +64,7 @@ Varias patrullas de la Policía Metropolitana de Cartagena (MECAR) llegaron desd
 
 ## ¡Falsedad procesal!
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/poder_falso.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/poder_falso.jpeg)
 
 Existe un abultado expediente cercano a mil folios en torno al conflicto de del predio denominado **Santa Elena, en el Bajo Retiro**. Son 100 hectáreas de las cuales desalojaron ilegalmente en varias oportunidades a los campesinos. El predio limita con la finca Canalete, la cual es custodiada por hombres armados que torturan a cualquier persona sorprendida en su interior.
 
@@ -72,7 +72,7 @@ Lo sorprendente es que los poderes, al parecer, son falsos, al decir de la Notar
 
 ## La denuncia por falsedad procesal
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/denuncia_penal_gregorio_rico_.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/09/los-poderes-falsos-inspectores-y-policia-aliados-de-narcos-ii/denuncia_penal_gregorio_rico_.jpeg)
 
 Por esa razón, **Oscar Prada y Antonio Laitano**, exdirectores de Fiscalía, antes de que llegara Ibeth Hernández, y apoderados de los campesinos propietarios, presentaron en junio de 2023 denuncia penal por falsedad procesal contra los implicados. Se incluye a los inspectores, a la esposa de **Gregorio Rico, Chestier Pitalúa y Edson Jair Ahumada Pinedo**, **Leyder Enrique Triolo Mejía** con cc 73182244 y **Miguel Ángel Marziglia Muñoz** con 73151013. Este último hace parte del **Club Green Monster BMX**.
 

@@ -5,10 +5,10 @@ pubDate: "2022-07-17 14:05:37"
 author: "Lucio"
 categories: ["Análisis","Mi País","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/los-veteranos-de-petro-se-pueden-caer/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/07/los-veteranos-de-petro-se-pueden-caer/hero.jpg
 ---
 
-![¿Se pueden caer los adultos mayor de Petro?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/los-veteranos-de-petro-se-pueden-caer/hero.jpg)
+![¿Se pueden caer los adultos mayor de Petro?](s3://bundled-saddlebag-tnqki7w/2022/07/los-veteranos-de-petro-se-pueden-caer/hero.jpg)
 *¿Se pueden caer? Los adultos mayore de Petro.*
 
 ¿Los adultos mayores de Petro se pueden caer antes de posesionarse? Después de los setenta, uno debe caminar con mucho cuidado para no caer. Una alfombra roja. Una piedra gris. Una cáscara de banano. Un piso mojado. Puede ser fatal para un adulto mayor. La gravedad es nuestra principal enemiga. ¡Cuidado! Se nos cae el pelo, para decir lo menos.

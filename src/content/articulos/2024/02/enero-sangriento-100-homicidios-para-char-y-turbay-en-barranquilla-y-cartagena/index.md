@@ -5,10 +5,10 @@ pubDate: "2024-02-05 03:38:43"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Cartagena","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/enero-sangriento-100-homicidios-para-char-y-turbay-en-barranquilla-y-cartagena/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/02/enero-sangriento-100-homicidios-para-char-y-turbay-en-barranquilla-y-cartagena/hero.jpg
 ---
 
-![¡Enero sangriento! 100 homicidios para Char y Turbay, en Barranquilla y Cartagena ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/enero-sangriento-100-homicidios-para-char-y-turbay-en-barranquilla-y-cartagena/hero.jpg)
+![¡Enero sangriento! 100 homicidios para Char y Turbay, en Barranquilla y Cartagena ](s3://bundled-saddlebag-tnqki7w/2024/02/enero-sangriento-100-homicidios-para-char-y-turbay-en-barranquilla-y-cartagena/hero.jpg)
 *¡Enero sangriento! 100 homicidios para Char y Turbay, en Barranquilla y Cartagena /Fiscalía.*
 
 A pesar de sus promovidos anuncios de planes de seguridad ciudadana, antes del inicio de sus respectivos gobiernos, los alcaldes de Barranquilla y Cartagena, **Alejandro Char y Dumek Turbay**, enfrentaron un enero sangriento para la seguridad ciudadana: 100 homicidios. ¿Fracasarán sus planes de seguridad o sus modelos de gobierno?

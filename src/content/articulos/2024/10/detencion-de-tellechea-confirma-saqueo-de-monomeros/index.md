@@ -5,10 +5,10 @@ pubDate: "2024-10-27 01:08:45"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/hero.jpg
 ---
 
-![¿Detención de Tellechea, confirma saqueo de Monómeros?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/Telechea_-1024x576.jpeg)
+![¿Detención de Tellechea, confirma saqueo de Monómeros?](s3://bundled-saddlebag-tnqki7w/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/Telechea_-1024x576.jpeg)
 *¿Detención de Tellechea, confirma saqueo de Monómeros? Los directivos de Monómeros así celebraron el cumpleaños de Tllechea*
 
 La detención del que fuera presidente de la estatal petrolera venezolana PDVSA, ministro del Petróleo y ministro de Industria, **Coronel (r) Pedro Rafael Tellechea**, indicaría que existe una política de purgas internas por el control del poder económico y financiero. Pero, al mismo tiempo, confirmaría la continuidad del **saqueo de Monómeros S.A**. Saqueo iniciado bajo el espurio gobierno de **Juan Guaidó** con la complicidad del gobierno colombiano de **Iván Duque**, tal como lo denunció **VoxPopuli.Digital**.
@@ -23,12 +23,12 @@ Pero, si de hechos hablamos, los que más debe llamar la atención al presidente
 
 ## El equipo jurídico, la clave del saqueo a Monómeros
 
-![¿Qué pasará con el equipo jurídico de Monómeros?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/hero.jpg)
+![¿Qué pasará con el equipo jurídico de Monómeros?](s3://bundled-saddlebag-tnqki7w/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/hero.jpg)
 *¿Detención de Tellechea, cambiará la situación de Monómeros? ¿Qué pasará con Olga Lucía Trujillo Arévalo, Gerente de Consultoría Jurídica?*
 
 Para entender lo que hizo Tellechea en Monómeros **―**base de los hechos por los cuales el sector de Maduro y Cabello lo procesan**―** se debería examinar el papel de los abogados **David Espinosa y Jaime Andrés Novoa**, reconocidos servidores del uribismo. Ellos son los dueños del bufete que maneja los negocios jurídicos de Monómeros en Colombia y Estados Unidos. Colocaron como jefe de la representación jurídica de la empresa a **Olga Lucía Trujillo Arévalo**. Esta representación jurídica atada a intereses de los mismos personajes que se tomaron la empresa en 2019 con el presidente Iván Duque, siguieron gobernando a Monómeros.
 
-![Ninoska La Concha, exdirectora de Monómeros y expresidenta de Pequiven tiene casa por cárcel envuelta en el mismo lío de Tellechea./Monómeros](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/Ninoska_Monomeros.jpg)
+![Ninoska La Concha, exdirectora de Monómeros y expresidenta de Pequiven tiene casa por cárcel envuelta en el mismo lío de Tellechea./Monómeros](s3://bundled-saddlebag-tnqki7w/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/Ninoska_Monomeros.jpg)
 *Ninoska La Concha, exdirectora de Monómeros y expresidenta de Pequiven tiene casa por cárcel envuelta en el mismo lío de Tellechea./Monómeros.*
 
 En cuanto al aspecto de la tecnología de la información (la data estratégica de la empresa Monómeros) se la entregó a **Luis Enrique Molina Duque**, detenido en Caracas por los mismos hechos de Tellechea. En cuanto a **Ninoska La Concha,** las autoridades judiciales del régimen le impusieron casa por cárcel.
@@ -53,7 +53,7 @@ En efecto, esos tres problemas ya estaban resueltos cuando llegó Tellechea a Pe
 
 ## Tellechea y la reunión secreta
 
-![Cuando Pedro Rafael Tellechea retomó Monómeros el 20 de septiembre de 2022](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/Pedro_Rafael_Tellechea-1024x576.jpeg)
+![Cuando Pedro Rafael Tellechea retomó Monómeros el 20 de septiembre de 2022](s3://bundled-saddlebag-tnqki7w/2024/10/detencion-de-tellechea-confirma-saqueo-de-monomeros/Pedro_Rafael_Tellechea-1024x576.jpeg)
 *Cuando Pedro Rafael Tellechea retomó Monómeros el 20 de septiembre de 2022.*
 
 Resulta que en septiembre del 2022, como lo difundimos en exclusiva, en el Hotel Dann Carlton de Barranquilla, **Tellechea**, según lo publicamos en diciembre del 2023, se reunió casi que en secreto con los abogados uribistas para asumir la toma de posesión de la empresa que el gobierno de Gustavo Petro le había entregado a **Nicolás Madur**o el 9 de agosto del 2022.

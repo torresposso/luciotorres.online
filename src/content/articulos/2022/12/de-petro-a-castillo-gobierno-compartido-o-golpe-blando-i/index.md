@@ -5,10 +5,10 @@ pubDate: "2022-12-11 22:01:55"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/de-petro-a-castillo-gobierno-compartido-o-golpe-blando-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/12/de-petro-a-castillo-gobierno-compartido-o-golpe-blando-i/hero.jpg
 ---
 
-![De Petro a Castillo ¿gobierno compartido o golpe de Estado blando? Cortesía AFP.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/de-petro-a-castillo-gobierno-compartido-o-golpe-blando-i/hero.jpg)
+![De Petro a Castillo ¿gobierno compartido o golpe de Estado blando? Cortesía AFP.](s3://bundled-saddlebag-tnqki7w/2022/12/de-petro-a-castillo-gobierno-compartido-o-golpe-blando-i/hero.jpg)
 *De Petro a Castillo ¿gobierno compartido o golpe de Estado blando? Cortesía AFP.*
 
 Mientras el congreso de Colombia ponía en práctica su aplanadora al darle **un voto de confianza al presidente Gustavo Petro** con la aplastante derrota de la moción de censura contra la **ministra de Energías Irene Vélez**, el congreso de Perú consumaba un **golpe blando al presidente Pedro Castillo.** ¿Por qué esa diferencia en tratándose de gobiernos de izquierda? Algunos dicen que el **Pacto Histórico** es un gobierno de izquierda gobernando con la derecha. Pero la realidad es que **asistimos a un gobierno compartido** para prevenir un **«**golpe de Estado blando**»**.
@@ -29,7 +29,7 @@ En la primera entrevista que le concedió a la revista Cambio, dijo una frase qu
 
 ## Un gobierno compartido ¿para qué?
 
-![Pedro castillo en la última cumbre de Países Andinos. De Petro a Castillo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/de-petro-a-castillo-gobierno-compartido-o-golpe-blando-i/Presidentes_-06-XXII-Reunion-Consejo-Presidencial-Andino-1280.jpg)
+![Pedro castillo en la última cumbre de Países Andinos. De Petro a Castillo.](s3://bundled-saddlebag-tnqki7w/2022/12/de-petro-a-castillo-gobierno-compartido-o-golpe-blando-i/Presidentes_-06-XXII-Reunion-Consejo-Presidencial-Andino-1280.jpg)
 *Pedro Castillo en la última cumbre de Países Andinos. De Petro a Castillo*
 
 Sin embargo, Petro debe entender que su triunfo fue posible gracias a varios hechos de inconformismo que él supo canalizar en su propuesta electoral. **(I)** **El ascenso del movimiento popular** que tuvo su clímax con el Paro Nacional de Abril en 2021, el cual echó atrás la reforma tributaria del presidente Iván Duque. **(II)** El proceso de desgaste de un gobierno que respondía al **declive de un régimen neobonapartista** de derecha inaugurado y liderado por el presidente (2002) **Álvaro Uribe Vélez**. **(III)** Por último, a un **proceso de desderechización de la nación**.

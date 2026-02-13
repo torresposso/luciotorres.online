@@ -5,10 +5,10 @@ pubDate: "2021-04-28 00:06:41"
 author: "Lucio"
 categories: ["Crónica"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/milagro-en-huc-se-salvo-olga-acosta-del-colvid-19/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/04/milagro-en-huc-se-salvo-olga-acosta-del-colvid-19/hero.jpg
 ---
 
-\[caption id="attachment\_14718" align="aligncenter" width="715"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/milagro-en-huc-se-salvo-olga-acosta-del-colvid-19/hero.jpg) ¡Milagro en el HUC!. Se salvó Olga Acosta. Cortesía.\[/caption\]
+\[caption id="attachment\_14718" align="aligncenter" width="715"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/milagro-en-huc-se-salvo-olga-acosta-del-colvid-19/hero.jpg) ¡Milagro en el HUC!. Se salvó Olga Acosta. Cortesía.\[/caption\]
 
 ¡Milagro en el HUC!.  La secretaria de Educación del Distrito y activista magisterial, **Olga Acosta Amel,** se salvó del Covid —19. **Excelente noticia en la peor semana** que se inició en Colombia y en Cartagena, luego del desorden de Semana Santa. **Hoy fueron 436 nuevas muertes.**
 
@@ -16,7 +16,7 @@ Olga Acosta duró aproximadamente dos meses en UCI. Un tratamiento intensivo. In
 
 ## Milagro en HUC
 
-\[caption id="attachment\_14719" align="aligncenter" width="1280"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/milagro-en-huc-se-salvo-olga-acosta-del-colvid-19/OLGA-ACOSTA-EN-huc.jpg) Celebrando la vida con el personal médico. ¡Milagro en HUC! Cortesía.\[/caption\]
+\[caption id="attachment\_14719" align="aligncenter" width="1280"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/milagro-en-huc-se-salvo-olga-acosta-del-colvid-19/OLGA-ACOSTA-EN-huc.jpg) Celebrando la vida con el personal médico. ¡Milagro en HUC! Cortesía.\[/caption\]
 
 Se le nota las huellas del Coronavirus. Su semblante refleja una fragilidad propia de aquellos enfermos que se escapan de la muerte. Pero ella vive **«¡para la Gloria de Dios!»**, manifestaron algunos feligreses de la iglesia **La Unción**. Esta es liderada por su hermano menor **Esteban Acosta Amel**. Precisamente muchos de sus feligreses hicieron cadena de oración.
 
@@ -28,7 +28,7 @@ Cuando dimos cuenta de su enfermedad, también nos referimos a **Tony Rosales** 
 
 ## Un tiempo extendido para Olguita
 
-\[caption id="attachment\_14720" align="aligncenter" width="958"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/milagro-en-huc-se-salvo-olga-acosta-del-colvid-19/pastor-esteban-acosta.jpg) **Pastor Esteban Acosta**, líder de la iglesia evangélica **La Unción**. ¡Milagro en HUC! /Cortesía.\[/caption\]
+\[caption id="attachment\_14720" align="aligncenter" width="958"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/milagro-en-huc-se-salvo-olga-acosta-del-colvid-19/pastor-esteban-acosta.jpg) **Pastor Esteban Acosta**, líder de la iglesia evangélica **La Unción**. ¡Milagro en HUC! /Cortesía.\[/caption\]
 
 **Los milagros existen.** Muchos no son explicados por la ciencia médica. La fe cura. La oración cura. La meditación cura. Quien medita hace manifestar lo inmanifiesto. Esto lo aprendí en el último tramo de mi vida. Es el poder del espíritu que habita en cada ser humano, dicen los expertos del Ser. Existen fenómenos inexplicables, y uno de ellos son los milagros.
 

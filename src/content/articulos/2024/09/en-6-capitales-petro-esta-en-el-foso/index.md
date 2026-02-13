@@ -5,10 +5,10 @@ pubDate: "2024-10-01 03:57:02"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/en-6-capitales-petro-esta-en-el-foso/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/09/en-6-capitales-petro-esta-en-el-foso/hero.jpg
 ---
 
-![Petro está en el foso de la aprobación popular mientras se toma una selfie con sus colegas latinoamericanos en la posesión de la presidenta Claudia Sheinbaum.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/en-6-capitales-petro-esta-en-el-foso/hero.jpg)
+![Petro está en el foso de la aprobación popular mientras se toma una selfie con sus colegas latinoamericanos en la posesión de la presidenta Claudia Sheinbaum.](s3://bundled-saddlebag-tnqki7w/2024/09/en-6-capitales-petro-esta-en-el-foso/hero.jpg)
 *Petro está en el foso de la aprobación popular mientras se toma una selfie con sus colegas latinoamericanos en la posesión de la presidenta Claudia Sheinbaum./Presidencia.*
 
 Mientras asiste a la posesión de la primera mandataria de México, **Claudia Sheinbaum**, el presidente Gustavo **Petro está en el foso de la desaprobación**, según la encuesta de Guarumo y Ecoanalítica publicada hoy 30 de septiembre. Al mismo tiempo, se midió a los mandatarios de las seis principales capitales y los problemas fundamentales que más preocupa a la gente, los cuales, en su orden, son: inseguridad, acceso a la salud y desempleo.
@@ -21,7 +21,7 @@ En **VoxPopuli Digital** se parte de la premisa de que estas encuestas que diagn
 
 ## Galán, el peor
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/en-6-capitales-petro-esta-en-el-foso/Encuesta_analitica--1024x511.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/09/en-6-capitales-petro-esta-en-el-foso/Encuesta_analitica--1024x511.jpeg)
 
 Los datos de Bogotá hunden al petrismo. La aprobación al gobierno de Gustavo Petro fue de **30,8%**, pero la desaprobación llegó a **63,5%**.
 
@@ -57,7 +57,7 @@ En el último informe sobre la seguridad de Barranquilla, el Observatorio de Seg
 
 ## Medellín: Petro 20,8%; Fico 68%
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/en-6-capitales-petro-esta-en-el-foso/Encuesta_petro_medellin-1024x547.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/09/en-6-capitales-petro-esta-en-el-foso/Encuesta_petro_medellin-1024x547.jpeg)
 
 En Medellín, Petro está en el foso de la desaprobación que llegó a **71,7%**. Como van las cosas, su aceptación llegaría peligrosamente a los niveles de Iván Duque. La aceptación fue de 20,8%.
 

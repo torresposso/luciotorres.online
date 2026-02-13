@@ -5,10 +5,10 @@ pubDate: "2024-02-08 12:33:38"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Alejandro Char"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/char-en-el-tibiri-tubara-con-la-admision-de-accion-de-nulidad/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/02/char-en-el-tibiri-tubara-con-la-admision-de-accion-de-nulidad/hero.jpg
 ---
 
-![Char en el «tibiri―tabara»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/char-en-el-tibiri-tubara-con-la-admision-de-accion-de-nulidad/hero.jpg)
+![Char en el «tibiri―tabara»](s3://bundled-saddlebag-tnqki7w/2024/02/char-en-el-tibiri-tubara-con-la-admision-de-accion-de-nulidad/hero.jpg)
 *Alejandro Char en el «tibiri―tabara» con la admisión de acción de nulidad.*
 
 La ciudad está en el jolgorio y su alcalde Alejandro **Char** en el _«tibiri―tábara»_. La **acción de nulidad electoral** admitida por el Tribunal Administrativo del Atlántico con radicación **No 800-12333000-2024-0002-400** prueba que su elección está _entredicho_. Es un hecho trascendental. Puesto que en ella confluyen dos elementos que le dan vida. (I) Los estadios de Barranquilla solo están a disposición de los intereses económicos de grandes empresas deportivas de la familia Char, especialmente del **Junior**. (II) **Los únicos ingresos libres** de Barranquilla, son administrados por **Serfinanza**, también de los Char.
@@ -17,7 +17,7 @@ La pregunta que empresarios, trabajadores, periodistas, veedores y activistas de
 
 ## ¿Char en el _«tibiri―tábara»_ por una mujer?
 
-![Carmen Rosa Lorduy es la magistrada ponente de la acción de nulidad. Solo se espera que obre en derecho sin que nadie la perturbe. Aunque fue una destacada abogada de la CRA, al lado de Tony Palencia, se cree en su independencia de juez. Char en el «tibiri―tabara»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/char-en-el-tibiri-tubara-con-la-admision-de-accion-de-nulidad/Carmen_rosa_lorduy-1024x738.jpg)
+![Carmen Rosa Lorduy es la magistrada ponente de la acción de nulidad. Solo se espera que obre en derecho sin que nadie la perturbe. Aunque fue una destacada abogada de la CRA, al lado de Tony Palencia, se cree en su independencia de juez. Char en el «tibiri―tabara»](s3://bundled-saddlebag-tnqki7w/2024/02/char-en-el-tibiri-tubara-con-la-admision-de-accion-de-nulidad/Carmen_rosa_lorduy-1024x738.jpg)
 *Carmen Rosa Lorduy es la magistrada ponente de la acción de nulidad. Solo se espera que obre en derecho sin que nadie la perturbe. Aunque fue una destacada abogada de la CRA, al lado de Tony Palencia, se cree en su independencia de juez. Char en el «tibiri―tabara». (Foto suministrada).*
 
 ¿Char en el «tibiri―tábara»? La admisión de la demanda no es un hecho de poca monta. Pondrá a prueba no solo al accionante sino a la justicia de lo contencioso del Atlántico. En especial, a la magistrada, **Carmen Rosa Lorduy González**, quien debe actuar bajo estricta independencia y resistirse a las tentaciones que se le presentarían. Su propia familia se lo agradecería. A sus hijos, cuando ya estén grandes, le preguntarían: «¿Tú eres hijo de la juez que tumbó el **imperio avaricioso** de Barranquilla?».

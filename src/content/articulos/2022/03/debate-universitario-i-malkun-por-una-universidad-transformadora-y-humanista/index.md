@@ -5,10 +5,10 @@ pubDate: "2022-03-28 03:37:44"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/hero.jpg
 ---
 
-![Debate Universitario. William Malkún rodeado de candidatos y candidatas a decanatura y directores de programas. Asimismo de profesores, trabajadores y algunos estudiantes.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/Los-candidatos.jpeg)
+![Debate Universitario. William Malkún rodeado de candidatos y candidatas a decanatura y directores de programas. Asimismo de profesores, trabajadores y algunos estudiantes.](s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/Los-candidatos.jpeg)
 *Debate Universitario. William Malkún rodeado de candidatos y candidatas a decanatura y directores de programas. Asimismo de profesores, trabajadores y algunos estudiantes.*
 
 Desde hoy, VoxPopuli Digital **abre el debate universitario.** El historiador y doctor en ciencia política, [**William Malkún Castillejo**](/articulos/in/willian-malkun-1271893b/?originalSubdomain=co), candidato a rector de la Universidad de Cartagena, tiene como objetivo fundamental construir una **institución transformadora y humana.** Es decir, una verdadera universidad humanista que tenga como centro al ser humano, sus necesidades y sus sueños.
@@ -27,7 +27,7 @@ Recordemos que **William Malkún Castillejo** llegó a la Universidad de Cartage
 
 ## Comienza el debate universitario
 
-![Malkún en el centro, les acompaña Antenogenes Coronel y ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/Malkun-y-coronel.jpeg)
+![Malkún en el centro, les acompaña Antenogenes Coronel y ](s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/Malkun-y-coronel.jpeg)
 *William Malkún con María Cecilia García Espiñeira (candidata a medicina) y Antenogenes Coronel, candidato al Consejo Académico.*
 
 Desde el 28 de marzo hasta el 30 de abril es el período electoral del Alma Máter, de acuerdo con la [Resolución No. 0603](/articulos/normatividad/resolucion-no-0603-reglamentacion-de-foros-programaticos/)  (puede darle clic) que reglamenta los **foros programáticos**. Se inscribieron debidamente tres candidatos a rector, en su orden de inscripción: **William Malkún Castillejo, José Morelo Gómez y Gerardo Rodríguez Estupiñán.** El primer foro se realizará el **5 de abril** en el campus de Piedra de Bolívar.
@@ -48,7 +48,7 @@ De hecho, debe entenderse un perfil humanista como la actitud reconocible en tod
 
 ## Los tres ejes de Malkún
 
-![Debate Universitario, William Malkún inició campaña para la rectoría.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/malkun-y-profesores.jpeg)
+![Debate Universitario, William Malkún inició campaña para la rectoría.](s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/malkun-y-profesores.jpeg)
 *Debate Universitario.*
 
 La propuesta rectoral tiene tres ejes estratégicos, como lo habíamos anunciado: Sostenibilidad financiera y administrativa, Consolidación académica y científica, e Impacto en el medio y relaciones institucionales.
@@ -65,7 +65,7 @@ De igual forma, busca fortalecer la **Escuela de Formación Humana para el Traba
 
 ## Impacto en el medio y relaciones institucionales
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/estudiantes.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/estudiantes.jpeg)
 *Los estudiantes que apoyan a Malkún, entre ellos el representante estudiantil Daniel Herrera Blanco.*
 
 En el marco de su función sustantiva de extensión y proyección social, del principio de responsabilidad social y del impacto institucional en los diferentes contextos espaciales y sociales, la Universidad debe emprender acciones fundamentales. La propuesta menciona varias acciones:
@@ -76,7 +76,7 @@ En el marco de su función sustantiva de extensión y proyección social, del pr
 
 ## Para los estudiantes qué...?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/malkun-y-estudiantes.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/malkun-y-estudiantes.jpeg)
 *William Malkún rodeado de estudiantes de diferentes programas académicos de la Universidad de Cartagena. Laura Ibañez, exrepresentante estudiantil.*
 
 El proyecto rectoral propone el fortalecimiento de la **relación Universidad – Empresa - Estado (UEE).** Se busca establecer convenios con entidades públicas y privadas, que impacten los índices de empleabilidad, posibiliten las prácticas y pasantías, y resuelvan las demandas y necesidades particulares de los agentes socioeconómicos que cooperan con la Institución.
@@ -97,7 +97,7 @@ Asimismo William Malkún pretende armonizar el Manual de Funciones, el Perfil de
 
 ## El debate universitario con candidatos a decano
 
-![Debate Universitario. William Malkún con Ricardo Chica, candidato a decano en Ciencias Sociales y Educación. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/Malkun-y-Ricardo-Chica.jpeg)
+![Debate Universitario. William Malkún con Ricardo Chica, candidato a decano en Ciencias Sociales y Educación. ](s3://bundled-saddlebag-tnqki7w/2022/03/debate-universitario-i-malkun-por-una-universidad-transformadora-y-humanista/Malkun-y-Ricardo-Chica.jpeg)
 *Debate Universitario. William Malkún con Ricardo Chica, candidato a decano en Ciencias Sociales y Educación.*
 
 Los candidatos quedaron debidamente inscritos, ya que al término del período de impugnaciones, no se presentó ninguna. Así lo señala el [ACTA DE CIERRE DE IMPUGNACIONES,](/articulos/normatividad/acta-de-cierre-de-impugnaciones/) Esto promete que el debate se centrará más en las propuestas de los candidatos que de su condición legal para aspirar a sus respectivos cargos.

@@ -5,10 +5,10 @@ pubDate: "2022-10-16 22:22:20"
 author: "Lucio"
 categories: ["Análisis","Economía","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/petro-entre-la-rubia-y-la-morena-y-una-economia-distopica/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/10/petro-entre-la-rubia-y-la-morena-y-una-economia-distopica/hero.jpg
 ---
 
-![Petro entre la rubia y la morena, y un mundo distópico. Aquí explica su propuesta de estimular la economía popular.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/petro-entre-la-rubia-y-la-morena-y-una-economia-distopica/hero.jpg)
+![Petro entre la rubia y la morena, y un mundo distópico. Aquí explica su propuesta de estimular la economía popular.](s3://bundled-saddlebag-tnqki7w/2022/10/petro-entre-la-rubia-y-la-morena-y-una-economia-distopica/hero.jpg)
 *Petro entre la rubia y la morena, y un mundo distópico. Aquí explica su propuesta de estimular la economía popular.*
 
 Sin duda, las predicciones del análisis que hicimos el pasado 12 de julio se están cumpliendo. El presidente heredará los síntomas cíclicos de la crisis mundial del capitalismo en **un escenario distópico**. Más inflación y, eventualmente, recesión para 2023. Más pobreza. Más hambre. Hoy, la situación es clara. Petro deberá bailar entre la rubia y la morena. O sea, entre la inflación y la recesión. Pero, el presidente quiere desmarcarse del Banco de la República con la medida de aumentar la tasa de interés en un 10%. **Le apostará a la economía popular donde está la explicación de los mayores puestos de trabajo**.
@@ -49,7 +49,7 @@ Esta apreciación de Petro podría estimarse como una crítica a la decisión de
 
 ## Desaparecieron 600 mil empresas
 
-![Entre la rubia y la morena, la inflación y la recesión, navegará el presidente Petro en los próximos dos años.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/petro-entre-la-rubia-y-la-morena-y-una-economia-distopica/Petro-en-Acopi-2.jpg)
+![Entre la rubia y la morena, la inflación y la recesión, navegará el presidente Petro en los próximos dos años.](s3://bundled-saddlebag-tnqki7w/2022/10/petro-entre-la-rubia-y-la-morena-y-una-economia-distopica/Petro-en-Acopi-2.jpg)
 *Entre la rubia y la morena, la inflación y la recesión, navegará el presidente Petro en los próximos dos años.*
 
 En ese congreso el presidente trataba de explicarse qué había sucedido con **600 mil empresas** que desaparecieron del registro de las cámaras de comercio durante la pandemia del virus. Explicó que no fue el virus sino la política pública del Estado la que ocasionó **"un proceso agudo de mayor desigualdad social"**. ([Petro en el 67° Congreso de Acopi](/articulos/prensa/Paginas/Palabras-del-Presidente-Gustavo-Petro-en-el-67-Congreso-Nacional-de-ACOPI-221013.aspx)).

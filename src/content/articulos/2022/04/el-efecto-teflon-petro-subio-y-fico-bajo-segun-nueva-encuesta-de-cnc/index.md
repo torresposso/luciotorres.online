@@ -5,10 +5,10 @@ pubDate: "2022-04-23 00:39:47"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/el-efecto-teflon-petro-subio-y-fico-bajo-segun-nueva-encuesta-de-cnc/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/04/el-efecto-teflon-petro-subio-y-fico-bajo-segun-nueva-encuesta-de-cnc/hero.jpg
 ---
 
-![Petro subió y «Fico» bajó. El «efecto teflón» ronda la imagen del candidato presidencial del Pacto Histórico,](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/el-efecto-teflon-petro-subio-y-fico-bajo-segun-nueva-encuesta-de-cnc/hero.jpg)
+![Petro subió y «Fico» bajó. El «efecto teflón» ronda la imagen del candidato presidencial del Pacto Histórico,](s3://bundled-saddlebag-tnqki7w/2022/04/el-efecto-teflon-petro-subio-y-fico-bajo-segun-nueva-encuesta-de-cnc/hero.jpg)
 *Petro subió y «Fico» bajó. El «efecto teflón» ronda la imagen del candidato presidencial del Pacto Histórico,*
 
 Como si el escándalo del perdón social y la visita a los reclusos en La Picota no le  afectara, **Gustavo Petro subió y «Fico» bajó,** según la última encuesta realizada por el Centro Nacional de Consultoría —CNC para el diario El Tiempo. Es el **«efecto teflón»** que mantuvo a **Álvaro Uribe** arriba en las encuestas a pesar de los grandes escándalos que rodearon sus dos períodos presidenciales.

@@ -5,10 +5,10 @@ pubDate: "2023-07-07 00:09:39"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/hasta-las-ultimas-consecuencias-viuda-de-kike-vega-iv/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/07/hasta-las-ultimas-consecuencias-viuda-de-kike-vega-iv/hero.jpg
 ---
 
-![Aquí esta Meili Daza Curvelo celebrando en la clandestinidad el que podría ser el último cumpleaños de su esposo «Kike» Vega. «¡Actuaré hasta las últimas consecuencias!»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/hasta-las-ultimas-consecuencias-viuda-de-kike-vega-iv/hero.jpg)
+![Aquí esta Meili Daza Curvelo celebrando en la clandestinidad el que podría ser el último cumpleaños de su esposo «Kike» Vega. «¡Actuaré hasta las últimas consecuencias!»](s3://bundled-saddlebag-tnqki7w/2023/07/hasta-las-ultimas-consecuencias-viuda-de-kike-vega-iv/hero.jpg)
 *Aquí esta Meili Daza Curvelo celebrando en la clandestinidad el que podría ser el último cumpleaños de su esposo «Kike» Vega.*
 
 **«¡Actuaré hasta las últimas consecuencias!».** Este es un nuevo capítulo que se suma a esta triste historia que, al parecer, se inició el 25 de octubre de 2022 en la fatídica fiesta de cumpleaños de Punta Roca, jurisdicción de Puerto Colombia. Es la hipótesis que mayor coherencia tiene. Puesto que reúne las exigencias de una trama: causa―consecuencia, motivación para cometer el crimen, la venganza. Es decir, modo, tiempo y circunstancias. Pero parece que las cosas no quedarán allí. La enérgica advertencia de **Meili Daza Curvelo**, la viuda de **«Kike» Vega** y mamá de los Vega Daza, contra la directora de fiscalía seccional, **Miryam Rojas** y la directora de Medicina Legal de Barranquilla expresa, además de un intenso dolor, un resentimiento y una sed de venganza.

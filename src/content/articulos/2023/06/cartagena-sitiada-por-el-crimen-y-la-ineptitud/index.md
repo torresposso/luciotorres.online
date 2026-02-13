@@ -5,17 +5,17 @@ pubDate: "2023-06-19 23:32:11"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/hero.jpg
 ---
 
-![Cartagena sitiada por el crimen y la ineptitud. La muerte de alias Yordan puede producir retaliación. /Foto suministrada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/hero.jpg)
+![Cartagena sitiada por el crimen y la ineptitud. La muerte de alias Yordan puede producir retaliación. /Foto suministrada.](s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/hero.jpg)
 *Cartagena sitiada por el crimen y la ineptitud. La muerte de alias Yordan puede producir retaliación. /Foto suministrada.*
 
 La muerte, en el día de hoy lunes, de alias _Yorman_ con silenciador en Bocacagrande, el exclusivo barrio turístico de Cartagena, probablemente sea un eslabón más de una cruenta guerra entre _Los Salsas Mexicanos Nueva Generación_ contra el _Clan del Golfo_ por el control de la ciudad. Los que deben estar felices en estos tres años y medio de gobierno de **William Dau Chamat**, además de los corruptos, son los delincuentes asociados al crimen organizado y a la economía ilegal. Pues, en este tiempo **no ha existido ninguna articulación orgánica ni estratégica del gobierno Distrital con la Policía Nacional y la Fiscalía seccional para combatir el crimen y las actividades ilícitas.** Cartagena sitiada por el crimen y la ineptitud de un alcalde que todavía no sabe para qué es ese cargo. **No es una hipótesis, es una realidad irrefutable**.
 
 En ese sentido las estadísticas son contundentes que muestran a Cartagena sitiada por el crimen. Los últimos sicariatos ejecutados en los últimos dos meses hace parte de una guerra cruenta por el control del puerto de Cartagena. Este año van 187 asesinatos, de los cuales **113 bajo la modalidad de sicariato.** Hoy asesinaron a **Jorman Meléndez Coneo**, quizás el último de la banda de los Coneo con pertenencia al Clan del Golfo. Una fuente del bajo mundo corroborada por un agente de inteligencia de la Policía Nacional que reserva su nombre, indica que ese asesinato pudo originarse desde la organización de Los Robledo y presuntamente, por orden de **Julián Alberto Jiménez Monsalve, alias Machete**.
 
-![Esta noche llegó el féretro  con el cuerpo de alias Yorman a Punta Arena.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/Yorman_en-Punta-Arena.jpg)
+![Esta noche llegó el féretro  con el cuerpo de alias Yorman a Punta Arena.](s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/Yorman_en-Punta-Arena.jpg)
 *Esta noche llegó el féretro con el cuerpo de alias Yorman a Punta Arena.*
 
 Fuentes reservadas de la Fiscalía seccional indican que la falta de articulación estratégica con el Distrito de cartagena facilitó la operatividad de la delincuencia organizada. No existe plan ni actividades preventivas y correctivas para combatir al crimen organizado, más allá de la labor ordinaria de la Policía Nacional.
@@ -24,7 +24,7 @@ Fuentes reservadas de la Fiscalía seccional indican que la falta de articulaci�
 
 ## Alcalde zambiloco facilitó a Cartagena sitiada
 
-![El Zambiloco no sabe qué hacer con esta cartagena sitiada por el crimen](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/Zambiloco.jpg)
+![El Zambiloco no sabe qué hacer con esta cartagena sitiada por el crimen](s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/Zambiloco.jpg)
 *El Zambiloco no sabe qué hacer con esta cartagena sitiada por el crimen. /Cortesía redes sociales.*
 
 Cuando el el 2 de febrero de 2021, en la audiencia para lanzar el proceso de revocatoria contra el alcalde, señalamos tres cosas que se volvieron virales en la época. La primera que teníamos un burgomaestre _zambiloco_ **incapaz de gobernar**. Un gobernante que, al parecer, se _encaletaba_ en un apartamento de estrato 6 a consumir cigarrillo de tabaco revuelto con marihuana y bazuco. En esos momentos se le reclamaba una respuesta a una pregunta que ya le había hecho públicamente, pero no quiso responder. La segunda, no había ejecutado el plan de inversiones. La tercera, que no estaba cumpliendo con su programa de gobierno y plan de desarrollo.
@@ -39,7 +39,7 @@ Te puede interesar: [Ascenso y caída de «Paty Paty» ¿Delatará a políticos 
 
 ## Cartagena sitiada
 
-![Este es uno de los grupos pagados por William Dau para intimidar a los revocantes. El gastrobar de Abraham Dau lfue la base de operaciones para hostigar a Jacqueline Perea, hoy precandidata a la alcaldía, y a este periodista.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/El-grupo-pagado-por-la-administracion-para-agredirme.jpeg)
+![Este es uno de los grupos pagados por William Dau para intimidar a los revocantes. El gastrobar de Abraham Dau lfue la base de operaciones para hostigar a Jacqueline Perea, hoy precandidata a la alcaldía, y a este periodista.](s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/El-grupo-pagado-por-la-administracion-para-agredirme.jpeg)
 *Este es uno de los grupos pagados por William Dau para intimidar a los revocantes. El gastrobar de Abraham Dau fue la base de operaciones para hostigar a Jacqueline Perea, hoy precandidata a la alcaldía, y a este periodista.*
 
 En los últimos días se incrementó el numero de atentados. **Avelino Villamizar**, también asociado a la actividad musical, al negocio del espectáculo y la farándula, sufrió un atentado del cual salió herido. El líder comunero y cívico del barrio San Francisco, **Emiro Manuel Luna Pérez**, fue herido hoy por un individuo que se transportaba en una moto.
@@ -54,7 +54,7 @@ Te puede interesar: [Cartel Jalisco declara objetivo militar a «peces gordos»]
 
 ## Machete y la muerte del último de los Coneo
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/Yorman-empolvado.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/06/cartagena-sitiada-por-el-crimen-y-la-ineptitud/Yorman-empolvado.jpg)
 *Cartagena sitiada por el crimen*
 
 ¿Hasta qué punto es cierto que alias _Machete_ sea el ordenador del crimen de **Jorman Meléndez Coneo**, alias _Yorman_? El último bastión del Clan del Golfo en Cartagena era **Carlos Fernando Ayala Barrera, alias _Gomelo_**. Fuentes reservadas de la inteligencia indican que la guerra iniciada a principio del año pasado, al parecer, la ganó la banda **_Los Salsas Mexicanos Nueva Generación_**. Esta agrupación sicarió a la red de distribuidores del microtráfico y a los principales sicarios del Clan.

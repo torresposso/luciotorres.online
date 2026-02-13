@@ -7,8 +7,8 @@
 ---
 
 **Project:** Lucio Torres
-**Generated:** 2026-02-12 13:05:16
-**Category:** General
+**Generated:** 2026-02-12 17:27:35
+**Category:** News/Media Platform
 
 ---
 
@@ -18,17 +18,25 @@
 
 | Role | Hex | CSS Variable |
 |------|-----|--------------|
-| Primary | `#2563EB` | `--color-primary` |
-| Secondary | `#3B82F6` | `--color-secondary` |
-| CTA/Accent | `#F97316` | `--color-cta` |
-| Background | `#F8FAFC` | `--color-background` |
-| Text | `#1E293B` | `--color-text` |
+| Primary | `#DC2626` | `--color-primary` |
+| Secondary | `#EF4444` | `--color-secondary` |
+| CTA/Accent | `#1E40AF` | `--color-cta` |
+| Background | `#FEF2F2` | `--color-background` |
+| Text | `#450A0A` | `--color-text` |
+
+**Color Notes:** Breaking red + link blue
 
 ### Typography
 
-- **Heading Font:** Inter
-- **Body Font:** Inter
-- **Mood:** Professional + Hierarchy
+- **Heading Font:** Newsreader
+- **Body Font:** Roboto
+- **Mood:** news, editorial, journalism, trustworthy, readable, informative
+- **Google Fonts:** [Newsreader + Roboto](https://fonts.google.com/share?selection.family=Newsreader:wght@400;500;600;700|Roboto:wght@300;400;500;700)
+
+**CSS Import:**
+```css
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap');
+```
 
 ### Spacing Variables
 
@@ -60,7 +68,7 @@
 ```css
 /* Primary Button */
 .btn-primary {
-  background: #F97316;
+  background: #1E40AF;
   color: white;
   padding: 12px 24px;
   border-radius: 8px;
@@ -77,8 +85,8 @@
 /* Secondary Button */
 .btn-secondary {
   background: transparent;
-  color: #2563EB;
-  border: 2px solid #2563EB;
+  color: #DC2626;
+  border: 2px solid #DC2626;
   padding: 12px 24px;
   border-radius: 8px;
   font-weight: 600;
@@ -91,7 +99,7 @@
 
 ```css
 .card {
-  background: #F8FAFC;
+  background: #FEF2F2;
   border-radius: 12px;
   padding: 24px;
   box-shadow: var(--shadow-md);
@@ -117,9 +125,9 @@
 }
 
 .input:focus {
-  border-color: #2563EB;
+  border-color: #DC2626;
   outline: none;
-  box-shadow: 0 0 0 3px #2563EB20;
+  box-shadow: 0 0 0 3px #DC262620;
 }
 ```
 
@@ -145,17 +153,17 @@
 
 ## Style Guidelines
 
-**Style:** Glassmorphism
+**Style:** Minimalism & Swiss Style
 
-**Keywords:** Frosted glass, transparent, blurred background, layered, vibrant background, light source, depth, multi-layer
+**Keywords:** Clean, simple, spacious, functional, white space, high contrast, geometric, sans-serif, grid-based, essential
 
-**Best For:** Modern SaaS, financial dashboards, high-end corporate, lifestyle apps, modal overlays, navigation
+**Best For:** Enterprise apps, dashboards, documentation sites, SaaS platforms, professional tools
 
-**Key Effects:** Backdrop blur (10-20px), subtle border (1px solid rgba white 0.2), light reflection, Z-depth
+**Key Effects:** Subtle hover (200-250ms), smooth transitions, sharp shadows if any, clear type hierarchy, fast loading
 
 ### Page Pattern
 
-**Pattern Name:** Hero + Features + CTA
+**Pattern Name:** Hero-Centric + Feature-Rich
 
 - **CTA Placement:** Above fold
 - **Section Order:** Hero > Features > CTA
@@ -164,8 +172,8 @@
 
 ## Anti-Patterns (Do NOT Use)
 
-- ❌ Excessive animation
-- ❌ Dark mode by default
+- ❌ Cluttered layout
+- ❌ Slow loading
 
 ### Additional Forbidden Patterns
 

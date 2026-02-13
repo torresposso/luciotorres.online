@@ -5,14 +5,14 @@ pubDate: "2021-03-07 00:22:31"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/hero.jpg
 ---
 
 > «La corrupción consiste en el _\[…\] abuso de posiciones de poder o de confianza, para el beneficio particular en detrimento del interés colectivo, realizado a través de ofrecer o solicitar, entregar o recibir bienes o dinero en especie, en servicios o beneficios, a cambio de acciones, decisiones u omisiones \[…\]»_ (Transparencia por Colombia).
 > 
 > Transparencia por Colombia
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/nestor-castro-5-1.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/nestor-castro-5-1.jpeg)
 *Cartagena va pa'atrás*
 
 **Cartagena _va pa'trás_**. El gerente de Corvivienda, el ex detective del Das Néstor Castro Castañeda —en el 2020— **contrató a  260 contratistas por valor de $5.504 millones para hacer nada**. Esta cifra la hicieron pasar como un logro en el balance de gestión presentado esta semana en el concejo distrital.  Pero la verdad es que **no construyeron una sola vivienda nueva, ni un mejoramiento y ni una legalización** durante el 2020. Esas son las tres misiones fundacionales que tiene Corvivienda. Son los indicadores para establecer una buena gestión pública.
@@ -23,7 +23,7 @@ Lo único que la dupleta **Castro Castañeda y William Dau** pueden presentar de
 
 ## Cartagena va pa'trás: Negligencia, ineptitud y corrupción
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/hero.jpg)
 *Elizabeth Díaz, jefe de Jurídica de Corvivienda. Hasta hace un año era del bando de los malandrines. Ahora es de la banda de Dau.*
 
 La jefe de jurídica de Corvivienda, **Isabel María Díaz Martínez**, quien viene del gobierno de Dionisio Vélez, fue la encargada de presentar el informe de gestión contractual ante el concejo. Al concejal Barrios le pregunté que si Isabel Díaz lo representaba en Corvivienda, me respondió:
@@ -36,14 +36,14 @@ La jefe de jurídica de Corvivienda, **Isabel María Díaz Martínez**, quien v
 
 No se sintió un debate firme de control político a los informes presentados por los funcionarios de la administración. Parece que hicieron efecto las cervezas que el presidente del concejo Wilson Toncel y el vicepresidente Hernando Piña se tomaron con William Dau y su secretario del Interior David Múnera Cavadía. Pareció que la coalición mayoritaria del concejo se metió el rabo entre las piernas.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/ops-corvivienda.png)
+![](s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/ops-corvivienda.png)
 *Este cuadro de Corvivienda demuestra la perversidad cómo la administración de Dau presenta su negligencia y corrupción como si fuera un logro. Disminuyó las OPS porque hicieron nada.*
 
 La funcionaria registró la disminución de las OPS como si fuera un gran logro.  Si bien la cifra es menor a  la de la administración anterior de **Erica Barrios y Pedrito Pereira** en 2019, **esconde una gran verdad: negligencia, ineptitud y corrupción de la actual administración**. A otro perro con ese hueso. Los periodistas de investigación no son susceptibles de que los manipulen. **La ecuación costo—beneficios** se aplica en administración pública, tal como lo presentamos en la **Audiencia de Revocatoria** saboteada por Dau. ¿Qué sucedió en la sesión donde quisieron meter un embuchado?
 
 El gerente Castro Castañeda no asistió para presentar «el gran ahorro» que hicieron de las ops en 2020. Quizás porque hace un año le fue como «perro en misa» en un debate frente a los concejales sobre la Ciudadela de la Paz.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/carolina-lozano.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/carolina-lozano.jpg)
 *Carolina Lozano Benitorevollo, concejal de ASI, le hizo la pregunta que faltaba para este informe de investigación. Corvivienda no hizo nada en 2020.*
 
 Díaz Martínez se auto incriminó sin querer queriendo. Ella, al responder una pregunta de la concejal **Carolina Lozano Benitorevollo** de ASI, que explicara por qué ese ahorro de casi el 30% de una vigencia a otra del presupuesto, dijo:
@@ -64,7 +64,7 @@ En otras palabras, en el primer semestre hicieron nada. «Solo en agosto» comen
 
 ## «La niña de sus ojos»
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/Burgos-la-lengua.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/Burgos-la-lengua.jpg)
 *Burgos Valets hace parte de la «Cofradía del Anillo» de William Dau en Corvivienda. Cartagena va pa'trás. Se partió el bate.*
 
 Llama la atención que esta vez el informe de Corvivienda no fue rebatido por los concejales. Estaban mudos. Solo la concejal de ASI, **Carolina Lozano Benitorevollo** hizo algunas preguntas que provocaron una información que le faltaba al periodista para este informe de investigación. No escuchamos voces tan agudas e inteligentes como las de **César Pión González** y del mismo **Carlos Barrios Gómez.** (¿Es el pacto que el concejo selló con Dau al tenor de una cerveza?). Esperemos que el humo blanco que salió de esa reunión entre el concejo y la alcaldía no los ponga zambilocos.
@@ -87,7 +87,7 @@ Esta semana algunos empleados de Corvivienda se sorprendieron cuando el gerente 
 
 ## Así dilapidaron los **$5.504 millones**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/Carlos-coronado-diaz-y-familia-2.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/03/cartagena-va-paatras-5-5-mil-millones-en-ops-para-hacer-nada-i/Carlos-coronado-diaz-y-familia-2.jpg)
 *Carlos Coronado Jr. al lado de su padre Carlos Coronado Yances, exsecretario general del alcalde corrupto Dionisio Vélez. ¿Quieres más evidencias de que Cartagena va pa'trás?*
 
 En 2020 Castro Casteñeda contrató al abogado **Carlos Coronado Díaz,** hijo del secretario General de la alcaldía de Dionisio Vélez sancionado por corrupción. Su contrato fue de $59 millones por tres meses de trabajo. Es decir, **$19.666.000 al mes**. Casi tres veces más de lo que ganaba **Cynthia Pérez Amador en el despacho del alcalde o Rafael Vergara** («Dr Mangle») como asesor de **Javier Mouthón** en el EPA.

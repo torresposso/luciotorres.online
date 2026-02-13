@@ -5,10 +5,10 @@ pubDate: "2024-01-25 22:11:21"
 author: "Lucio"
 categories: ["Crónica","Destacadas","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-sofia-y-la-falla-de-la-fiscalia-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-sofia-y-la-falla-de-la-fiscalia-i/hero.jpg
 ---
 
-![La muerte de Sofía significó una falla de la Fiscalía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-sofia-y-la-falla-de-la-fiscalia-i/hero.jpg)
+![La muerte de Sofía significó una falla de la Fiscalía.](s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-sofia-y-la-falla-de-la-fiscalia-i/hero.jpg)
 *La muerte de Sofía significó una falla de la Fiscalía. Esta foto cuando estaba en Maracaibo. Se puede ver los golpes recibidos en uno de los maltratos propiciados, al parecer, por su padrastro llamado Ender Villamil.*
 
 La muerte de **Sofía Leal Flórez** (3 años) despertó estupor e indignación en la ciudad. Hoy se pudo comprobar que su muerte es consecuencia de **una falla en el servicio de la Fiscalía**. Y un fracaso de la justicia para proteger a nuestros niños. Su deceso se produjo en la madrugada del 21 de enero 2024 en Casa del Niño _**Napoleón Franco Pareja**_, presuntamente como consecuencia de un **paro cardiorespiratorio**. Pero, los galenos pudieron establecer que era por signos de **violencia intrafamiliar y de abuso sexual**.
@@ -45,7 +45,7 @@ También entrevistamos al padre de
 
 ## ICBF abrió ruta de atención
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-sofia-y-la-falla-de-la-fiscalia-i/ICBF_denuncia-1024x788.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-sofia-y-la-falla-de-la-fiscalia-i/ICBF_denuncia-1024x788.jpg)
 *Esta es la denuncia por presunta violencia intrafamiliar presentada por el ICBF contra el padre y madrasta de Sofía. Fecha, 26 de junio de 2023. La Fiscalía no hizo nada. Iveth Hernández debe responder.*
 
 En ese sentido, la Fiscalía fue incapaz de actuar. El ICBF abrió su hoja de ruta para atender el caso de Sofía una vez fue notificada por el Hospitalito. Cuando tuvo el informe de su equipo psicosocial, la defensora de familia presentó la denuncia el 26 de junio de 2023. De acuerdo al documento en poder de este medio, le solicitó a la Fiscalía seccional que actuara de inmediato y judicializara a los presuntos actores de este **delito de violencia intrafamiliar**.
@@ -58,7 +58,7 @@ Por otra parte, cabe resaltar que contra el **Napoleón Pareja** y las Eps **Mut
 
 ## La vida trágica de Sofía
 
-![La muerte de Sofía significó una falla de la Fiscalía. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-sofia-y-la-falla-de-la-fiscalia-i/Sofia.jpg)
+![La muerte de Sofía significó una falla de la Fiscalía. ](s3://bundled-saddlebag-tnqki7w/2024/01/la-muerte-de-sofia-y-la-falla-de-la-fiscalia-i/Sofia.jpg)
 *La muerte de Sofía significó una falla de la Fiscalía. /Ilustración Cortesía pikisuperstar)*
 
 Dos meses después de haber llegado a Cartagena, el 24 de mayo 2023 entró por urgencia una menor de 2 años que padecía de una crisis respiratoria pediátrica con pronóstico reservado. Después del examen médico de rigor, la internaron en una cama de la Unidad de Cuidados Intensivos (UCI) del Hospitalito. Presentaba signos de **síndrome de dificultad respiratoria pediátrica severa**, según la historia clínica a la que tuvo acceso **VoxPopuli Digital**. No tenía ni una sola vacuna y estaba completamente descuidada, según el informe médico.

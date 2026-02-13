@@ -5,10 +5,10 @@ pubDate: "2025-01-25 02:28:54"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/Alvaro-Luis-Cubas-Montes.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/Alvaro-Luis-Cubas-Montes.jpeg)
 *En el 2024, Álvaro Luis Cubas Montes fue elegido vicepresidente de Camacol. Es el segundo al mando, después de su colega Simón del Castillo Trucco. Cortesía Facebook. ¿Camacol patrocina esta conducta de sus socios?*
 
 Los ingenieros **José Faustino España Morato y Álvaro Luis Cubas Montes** ―directivo de Camacol en Bolívar― de acuerdo a los campesinos poseedores, pretenden quedarse con el **predio La Ingeniosa**, con matrícula inmobiliaria **No 0600035062**, en Pontezuela―Cartagena. Al parecer, ellos están **comprando falsas posesiones**. Pero esos predios están a punto de ser declarados baldíos de Pontezuela. El proceso se inició a raíz de una **solicitud de clarificación de propiedad** del abogado y veedor **Héctor Pérez Fernández** ante la Agencia Nacional de Tierras―ANT.
@@ -17,7 +17,7 @@ Al respecto, los campesinos de Pontezuela, esperan reunirse con la senadora del 
 
 ## Los baldíos de Pontezuela para campesinos
 
-![Héctor Pérez Fernández, abogado y veedor, defensor de los campesinos propietarios. Los baldíos](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/hero.jpg)
+![Héctor Pérez Fernández, abogado y veedor, defensor de los campesinos propietarios. Los baldíos](s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/hero.jpg)
 *Héctor Pérez Fernández, abogado y veedor, defensor de los campesinos propietarios.*
 
 La gente de Pontezuela solicitará a la senadora un debate en el congreso sobre el proceso de gentrificación de los campesinos que los quieren despojar de sus predios que tienen en posesión desde hace muchos años. Pero, sobre todo, le solicitarán a la parlamentaria que exija rapidez en el proceso de clarificación y adjudicación de esos predios.
@@ -28,7 +28,7 @@ En tanto los señores **España Morato y Cubas Montes** vienen azuzando e incent
 
 ## La declaratoria de baldíos
 
-![En varias ocasiones la Policía Nacional ha capturado y esposado  a los campesinos que luchan por su legítimo derecho a acceder a la propiedad de los baldíos de Pontezuela.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/captura_campesinos_mozambiqque.jpg)
+![En varias ocasiones la Policía Nacional ha capturado y esposado  a los campesinos que luchan por su legítimo derecho a acceder a la propiedad de los baldíos de Pontezuela.](s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/captura_campesinos_mozambiqque.jpg)
 *En varias ocasiones la Policía Nacional ha capturado y esposado a los campesinos que luchan por su legítimo derecho a acceder a la propiedad de los baldíos de Pontezuela.*
 
 Sobre el proceso de clarificación de predios en Pontezuela, el abogado Héctor Pérez le dijo a VoxPopuli Digital:
@@ -43,14 +43,14 @@ Para ello, la ANT elaboró en diciembre un informe técnico y jurídico ―al cu
 
 > **[_«_](/articulos/carcel-por-embustero-al-alcalde-en-el-caso-la-popa/)**(...) que existe suficiente mérito para expedir el acto administrativo de inicio del Procedimiento Único de Ordenamiento Social de la Propiedad.**_»_**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/Captura-de-pantalla-2025-01-24-194640.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/Captura-de-pantalla-2025-01-24-194640.jpeg)
 *Oficio de la ANT a los campesinos de Pontezuela.*
 
 ¿Te interesa? [Señora Fiscal: ¿Nos quieren matar o amedrentar?](/articulos/senora-fiscal-nos-quieren-matar-o-amedrentar/)
 
 ## Pretenden baldíos
 
-![La senadora pedirá a la ANT que agilice los procesos de clarificación de propiedad de los baldíos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/aida_avella.jpg)
+![La senadora pedirá a la ANT que agilice los procesos de clarificación de propiedad de los baldíos.](s3://bundled-saddlebag-tnqki7w/2025/01/los-baldios-de-pontezuela-por-que-espana-y-cubas-los-pretenden/aida_avella.jpg)
 *La senadora Aida Avella pedirá a la ANT que agilice los procesos de clarificación de propiedad de los baldíos.*
 
 ¿Por qué los empresarios de la construcción y docentes universitarios pretenden los predios en disputa de Pontezuela? Es la pregunta lógica que deben responder. Porque si son predios baldíos, necesariamente se les debe adjudicar a los campesinos. ¿Por qué? Porque son los directos beneficiarios de la norma según la cual son sujetos de derechos **para acceder a la propiedad productiva**.

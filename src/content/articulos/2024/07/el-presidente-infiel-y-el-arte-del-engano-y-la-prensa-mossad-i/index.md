@@ -5,10 +5,10 @@ pubDate: "2024-07-04 17:39:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/el-presidente-infiel-y-el-arte-del-engano-y-la-prensa-mossad-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/07/el-presidente-infiel-y-el-arte-del-engano-y-la-prensa-mossad-i/hero.jpg
 ---
 
-![Una acción propagandística audaz que se convirtió en una cortina de humo para evitar que los medios se centraran en Verónica Alcocer y Laura Sarabia, protagonistas del reciente escándalo que promete ser más explosivos que los anteriores. Petro con su actriz trans](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/el-presidente-infiel-y-el-arte-del-engano-y-la-prensa-mossad-i/Petro_panama.jpeg)
+![Una acción propagandística audaz que se convirtió en una cortina de humo para evitar que los medios se centraran en Verónica Alcocer y Laura Sarabia, protagonistas del reciente escándalo que promete ser más explosivos que los anteriores. Petro con su actriz trans](s3://bundled-saddlebag-tnqki7w/2024/07/el-presidente-infiel-y-el-arte-del-engano-y-la-prensa-mossad-i/Petro_panama.jpeg)
 *Gustavo Petro ¿el presidente infiel? Una acción propagandística audaz que se convirtió en una cortina de humo para evitar que los medios se centraran en Verónica Alcocer y Laura Sarabia, protagonistas del reciente escándalo que promete ser más explosivos que los anteriores. "Petro" con su actriz trans.*
 
 Gustavo Petro (**¿el presidente infiel?**) siempre anda buscando jolón como si la carga que tiene no le fuera suficiente. El video que el gobierno deliberadamente pudo hacer, no es cosa menor. Este, como los anteriores, **maneja el arte del engaño** y el diseño de **cortinas de humos** para tapar los grandes actos de corrupción. Su fin es manipular a las masas y a los creadores de opinión con un discurso incendiario y acciones audaces para hacer como la gata de mi casa: _tapar de arena su propio excremento_.
@@ -25,7 +25,7 @@ El análisis sobre el progresismo de Gustavo Petro.
 
 ## **«**Prensa Mossad**»**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/el-presidente-infiel-y-el-arte-del-engano-y-la-prensa-mossad-i/Vicky-Davila-1024x586.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/07/el-presidente-infiel-y-el-arte-del-engano-y-la-prensa-mossad-i/Vicky-Davila-1024x586.jpeg)
 *Vicky Dávila, directora de Semana sobre quien iría la acusación del presidente Gustavo Petro.*
 
 El ataque frontal del mandatario contra los medios de comunicación, como respuesta al caso de **Laura Sarabia** y de su esposa **Verónica Alcocer**, es ambivalente. Mientras es complaciente con **El Tiempo** (Luis Carlos Sarmiento, el zar de Asofondos), con la revista **Semana** (Grupo Gilinski) es brutalmente hostil. Hasta el punto de calificarla como _prensa Mossad_. Se refiere al Instituto de Inteligencia y Operaciones Especiales de Israel.
@@ -50,7 +50,7 @@ Ese día, la Casa de Nariño celebró alborozadamente el **Día del Orgullo Gay*
 
 ## La audacia del engaño
 
-![Gustavo Petro (¿el presidente infiel?). La comunicadora social barranquillera Laury Marriaga con el maestro Poncho Zuleta "vivieron un idilio" de 8 días, la estrategia de marketing para el lanzamiento de La frunita, junto al cantante y comediante Juanda Caribe.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/el-presidente-infiel-y-el-arte-del-engano-y-la-prensa-mossad-i/La_frunita.jpeg)
+![Gustavo Petro (¿el presidente infiel?). La comunicadora social barranquillera Laury Marriaga con el maestro Poncho Zuleta "vivieron un idilio" de 8 días, la estrategia de marketing para el lanzamiento de La frunita, junto al cantante y comediante Juanda Caribe.](s3://bundled-saddlebag-tnqki7w/2024/07/el-presidente-infiel-y-el-arte-del-engano-y-la-prensa-mossad-i/La_frunita.jpeg)
 *La comunicadora social barranquillera Laury Marriaga con el maestro Poncho Zuleta "vivieron un idilio" de 8 días, la estrategia de marketing para el lanzamiento de La frunita, junto al cantante y comediante Juanda Caribe.*
 
 Una semana antes del mentado video, **Verónica Alcocer**, la casada fiel, estaba en la sartén derritiéndose, hasta el punto de adelantarse con una denuncia ante la ineficaz Fiscalía. ¿Un presidente infiel con una transgenero? Seguramente concitó la solidaridad de las colombianas con la **«**pobrecita**»** esposa víctima de la infidelidad de su marido, ¡que es el presidente!

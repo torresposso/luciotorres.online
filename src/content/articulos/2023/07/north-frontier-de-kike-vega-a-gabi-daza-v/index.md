@@ -5,10 +5,10 @@ pubDate: "2023-07-08 22:04:39"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Investigación","Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/hero.jpg)
 *Uno de los cachorros de «Kike» Vega. El Beto, hijo sobreviviente a la masacre. Se dice que fue la piedra de la discordia que produjo la masacre. /foto suministrada*
 
 En la **Casa No 4 del North Frontier**, un sitio exclusivo de la ciudad, murió el delincuente y nació la leyenda. El temible **«Kike» Vega** pasará a la historia del gansterismo de Barranquilla por ser un modelo de vida ―de todos los estratos― para los jóvenes del bajo mundo que sueñan enriquecerse de la noche a la mañana, pero sin esperanza y sin amor. Un guajiro que tomó las banderas criminales de su coterráneo y familiar, **Wildon Gabriel Daza Mejía**, alias **«Gabi»** Daza. sicariado en 2011. Este pasó de sicario de alias _Caracol_ a jefe de _Los Alcatraces_ y de la _Banda de Los 40_ en compañía de **Javier Acosta Maestre**, alias _Baltazar,_ asesinado en 2019. sucesor de **«Jorge 40»**. Mientras la Fiscalía clasificó la investigación como prioritaria y se la llevó a Bogotá.
@@ -17,7 +17,7 @@ Como se sabe, y como lo dijeron las autoridades, **«Kike» Vega**, así como su
 
 ## Cuando dimos la primicia de la viuda de **«Kike» Vega**,
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/Medicina-legal_comunicado.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/Medicina-legal_comunicado.jpg)
 
 En tanto que las declaraciones de la viuda de **«Kike» Vega**, Meili Daza Curvelo, caldearon los ánimos después de los funerales de su esposo e hijos. Ella le atribuía a Medicina Legal y a la Fiscalía la distribución de las fotos de los cadáveres de sus familiares. Pero como lo señaló en primicia VoxPopuli, esas fotos no salieron de esa institución, ya que las cubetas, el piso y la ropa de los operadores no corresponde a Medicina Legal. Probablemente sea en el sitio donde fueron preparados los cadáveres para los funerales.
 
@@ -31,7 +31,7 @@ https://youtu.be/UTqAcmEXo0A
 
 ## **«Kike» Vega** se refugió en **North Frontier**
 
-![Kike Vega estaba caliente. Se quiso enfriar en la Casa No 4 del conjunto residencial North Frontiere. Foto suministrada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/Kike-Vega_cachucha.jpg)
+![Kike Vega estaba caliente. Se quiso enfriar en la Casa No 4 del conjunto residencial North Frontiere. Foto suministrada.](s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/Kike-Vega_cachucha.jpg)
 *Kike Vega estaba caliente. Se quiso enfriar en la Casa No 4 del conjunto residencial North Frontiere. Foto suministrada.*
 
 Luego de la fatídica fiesta de cumpleaños del **25 de octubre de 2022** en Puerto Colombia donde murió el cumplimentado **Jonnathan Ospino Illera**, sobrino de alias _Negra Dominga_, **«Kike» Vega** y su hijo **Roberto Carlos Vega Daza**, alias _Beto_, salieron ilesos de la refriega. La camioneta blindada Luxer los protegió al recibir 42 tiros de pistolas 9 milímetros y fusil 5.56 como el que usaba alias _Deivi Parrilla_. Pero en la **Casa No 4 del North Frontier** con 36 tiros mataron a los tres Vega.
@@ -48,7 +48,7 @@ Te puede interesar: [La opereta del malandro William Dau](/articulos/la-opereta-
 
 ## North Frontier y el fin de **«Kike» Vega**
 
-![Una semana antes de la muerte de  «Kike» Vega  fue tomada esta foto en la Casa No 4 de North Frontier,. Nadie sospechaba que pasaba en su interior, excepto sus asesinos que le acechaban desde el 20 de junio, fecha en la cual arrendaron el local que se convirtió en el centro de operación de la masacre. /Foto suministrada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/Casa-No-4_2.jpg)
+![Una semana antes de la muerte de  «Kike» Vega  fue tomada esta foto en la Casa No 4 de North Frontier,. Nadie sospechaba que pasaba en su interior, excepto sus asesinos que le acechaban desde el 20 de junio, fecha en la cual arrendaron el local que se convirtió en el centro de operación de la masacre. /Foto suministrada.](s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/Casa-No-4_2.jpg)
 *Una semana antes de la muerte de «Kike» Vega fue tomada esta foto. Nadie sospechaba que pasaba en su interior, excepto sus asesinos que le acechaban desde el 20 de junio, fecha en la cual arrendaron el local que se convirtió en el centro de operación de la masacre. /Foto suministrada.*
 
 «Kike» Vega hizo historia en el gansterismo regional durante más de dos décadas de vivir sabroso en esta ciudad que le abrió las puertas. Recibía las rentas de sus actividades criminales, gracias a la mirada complaciente de las autoridades, especialmente de la Policía y la Fiscalía. S**e hizo innombrable, invencible e intocable.**
@@ -61,7 +61,7 @@ Te puede interesar: [«Kike» Vega e hijos masacrados en su madriguera](/articul
 
 ## De Gaby Daza a **«Kike» Vega**
 
-![North Frontier.. El día que capturaron a Gaby Daza,. Pero en el 2011 cayó abatido en el norte de Barranquilla.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/Gabi-daza.jpg)
+![North Frontier.. El día que capturaron a Gaby Daza,. Pero en el 2011 cayó abatido en el norte de Barranquilla.](s3://bundled-saddlebag-tnqki7w/2023/07/north-frontier-de-kike-vega-a-gabi-daza-v/Gabi-daza.jpg)
 *El día que capturaron a Gaby Daza,. Pero en el 2011 cayó abatido en el norte de Barranquilla. /Cortesía ElHeraldo. North Frontier.*
 
 Cuando mataron a _Gaby Daza_ en el norte de Barranquilla, estaba a punto de abrir su camioneta blindada de color azul. Pero, antes de poner su mano derecha en la manija de la puerta, cinco tiros recibió en su espalda, pero no cayó. Su cuerpo quedó apoyado con el retrovisor de su camioneta. El sicario se acercó y le dio otros 5 tiros de pistola 9 m.m. directo a la cabeza. Y cayó. Atrás quedó una historia oscura de 25 años de homicidios, tráfico de droga, extorsión, secuestro y todo lo que la mente torcida puede producir. Así acabaron los años de _Los Alcatraces, Los Alcatraces II generación y Los 40_. La Banda de los 40 le prestaba servicios de ‘seguridad’ a las empresas de la red de testaferros o empresarios asociados a «Jorge 40».

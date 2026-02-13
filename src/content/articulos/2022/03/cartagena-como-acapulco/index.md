@@ -5,10 +5,10 @@ pubDate: "2022-03-02 16:54:24"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/cartagena-como-acapulco/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/03/cartagena-como-acapulco/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/cartagena-como-acapulco/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/cartagena-como-acapulco/hero.jpg)
 *Cartel Jalisco Nueva Generación. Cartagena ¿cómo Acapulco? Pantallazo.*
 
 Cartagena ¿cómo Acapulco? La guerra del Cartel Jalisco Nueva Generación se está intensificando en Colombia. La región Caribe es un teatro de operaciones de esta guerra.  Una nueva guerra comienza a despuntar en el Caribe y se refleja con el aumento de los indicadores de inseguridad en las principales ciudades como Cartagena, Barranquilla y Santa Marta. Esta guerra nos hace pensar que estamos transitando de una violencia doméstica a una guerra entre carteles. 
@@ -23,7 +23,7 @@ https://youtu.be/r3H1mcPfl\_U
 
 ## Cartagena, ¿cómo Acapulco?
 
-![Cartagena ¿cómo Acapulco?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/cartagena-como-acapulco/sicariato.jpg)
+![Cartagena ¿cómo Acapulco?](s3://bundled-saddlebag-tnqki7w/2022/03/cartagena-como-acapulco/sicariato.jpg)
 *En cartagena, casi todos los días hay un atentado en la modalidad de sicariato.*
 
 Las primeras alarmas sonaron. De acuerdo con fuentes secretas, se encuentra en la ciudad la presencia del **Cartel Jalisco Nueva Generación.** Utiliza las misiones por encargo. Esto hizo crecer los índices de violencia, especialmente el homicidio en la modalidad de sicariato. Si este cartel logra su cometido, definitivamente Cartagena quedará en poder de los carteles más poderosos de Colombia y México.

@@ -5,10 +5,10 @@ pubDate: "2019-11-10 16:03:34"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/el-top-secret-de-la-victoria-de-dau-el-uribismo-fue-artifice-de-un-gran-fraude-al-electorado-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/11/el-top-secret-de-la-victoria-de-dau-el-uribismo-fue-artifice-de-un-gran-fraude-al-electorado-i/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/el-top-secret-de-la-victoria-de-dau-el-uribismo-fue-artifice-de-un-gran-fraude-al-electorado-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/11/el-top-secret-de-la-victoria-de-dau-el-uribismo-fue-artifice-de-un-gran-fraude-al-electorado-i/hero.jpg)
 *Armando Córdoba (camiseta verde) lidera la comisión de empalme para atender los temas de la Secretaría de Participación y de Desarrollo Social. Córdoba, representante de William Dau, hizo campaña electoral para la asamblea a bordo de una camioneta de Yair Acuña, lugarteniente de Enilce López, la popular Gata. En el medio, _Erick Gastelbondo, socio de Córdoba, próximo alcalde menor de la localidad 3. ¿Doble moral? Cortesía Facebook.*
 
 El alcalde electo de Cartagena, **William Dau Chamat**, creyó que con su reculada sobre la primera comisión de empalme **iba a tapar lo nauseabundo que resultó su elección**. Pero está más equivocado que nunca. En realidad, su reculada despertó una sospecha tan grande como el Castillo San Felipe de Barajas. Desde hoy te revelo el **top-secret de la victoria de Dau** y del apoyo del uribismo y sectores del conservatismo.
@@ -27,7 +27,7 @@ La diferencia es que en la nueva comisión, Dau le dio frágiles contentillos al
 
 ## La hipótesis
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/el-top-secret-de-la-victoria-de-dau-el-uribismo-fue-artifice-de-un-gran-fraude-al-electorado-i/arango-bacci.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/11/el-top-secret-de-la-victoria-de-dau-el-uribismo-fue-artifice-de-un-gran-fraude-al-electorado-i/arango-bacci.jpg)
 *Almirante Gabriel Arango Bacci, uribista consumado, era uno de los integrantes de la primera comisión de empalme de Dau.*
 
 Con la ayuda de varias fuentes -algunas están dentro del equipo de Dau- a partir de hoy te **voy a revelar varios secretos que muestran la verdadera catadura del autodenominado "Tractor de la anticorrupción"**. Tractor que no pasó de ser -lamentablemente hay que decirlo- **la fachada de un Gran Fraude al Electorado cartagenero en todos los tiempos**. Despejar esta duda es el principal objetivo del **_top-secret_** de este trabajo periodístico.

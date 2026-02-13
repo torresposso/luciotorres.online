@@ -5,10 +5,10 @@ pubDate: "2024-05-01 03:24:58"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/reforma-pensional-salvavidas-a-las-afp-o-bienestar-de-los-trabajadores/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/04/reforma-pensional-salvavidas-a-las-afp-o-bienestar-de-los-trabajadores/hero.jpg
 ---
 
-![Reforma Pensional: ¿Salvavidas a las AFP o bienestar de los trabajadores?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/reforma-pensional-salvavidas-a-las-afp-o-bienestar-de-los-trabajadores/1-de-mayo_Reforma_pensional.jpeg)
+![Reforma Pensional: ¿Salvavidas a las AFP o bienestar de los trabajadores?](s3://bundled-saddlebag-tnqki7w/2024/04/reforma-pensional-salvavidas-a-las-afp-o-bienestar-de-los-trabajadores/1-de-mayo_Reforma_pensional.jpeg)
 *Reforma Pensional: ¿Salvavidas a las AFP o bienestar de los trabajadores?*
 
 Este Primero de Mayo de 2024, los trabajadores deben reflexionar objetiva y conscientemente sobre la Reforma Pensional en curso. Deben vigilar y controlar para que la reforma sea integral y equilibrada. Entender para quién es la reforma que el Gobierno del Cambio puso a consideración del congreso. ¿Salvavidas a las AFP o bienestar de los trabajadores? Se trata de resolver esa disyuntiva a favor de los trabajadores. Por una razón, ese dinero administrado por el privado o el público, es resultado del trabajo.

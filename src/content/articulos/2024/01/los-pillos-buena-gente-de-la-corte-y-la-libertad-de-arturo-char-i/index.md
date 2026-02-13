@@ -5,11 +5,11 @@ pubDate: "2024-01-11 01:22:25"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/los-pillos-buena-gente-de-la-corte-y-la-libertad-de-arturo-char-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/01/los-pillos-buena-gente-de-la-corte-y-la-libertad-de-arturo-char-i/hero.jpg
 ---
 
 ![Libertad provisional de Arturo Char.
-Los pillos buena gente.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/los-pillos-buena-gente-de-la-corte-y-la-libertad-de-arturo-char-i/Cristina-Lomabana_barcelo.jpg)
+Los pillos buena gente.](s3://bundled-saddlebag-tnqki7w/2024/01/los-pillos-buena-gente-de-la-corte-y-la-libertad-de-arturo-char-i/Cristina-Lomabana_barcelo.jpg)
 *Este es el juez usado como fusible para favorecer la libertad provisional del expresidente del senado Arturo Char. De izquierda a derecha, Carlos Humberto Coy, magistrada Cristina Lombana y el exmagistrado José Luis Barceló, quien es el jefe de la defensa de del senador. Los pillos buena gente.*
 
 El viejo truco del _vencimiento de términos_ y el _habeas corpus_ funcionan para los poderosos o __«_pillos buena gente_», pero no para la ciudadanía corriente. Sin duda, es una vergüenza para la Sala Especial de Instrucción de la Sala Penal de la **Corte Suprema de Justicia (CSJ)** la forma cómo se concibió la libertad de **Arturo Char Chaljub.** Al expresidente del senado se le sigue un proceso por **corrupción al electorado**. Sus orígenes parten del mismo entramado develado para condenar la congresista Aida Merlano. ¿Por qué existe doble cedazo en la justicia, uno para los de cuello blanco y otro para los de ruana? Si Merlano está condenado ¿por qué no lo está Arturo Char?
@@ -42,7 +42,7 @@ Te puede interesar: [Se derrite el teflón del Califato Daes—Char y la ética 
 
 ## La conducta de «Los pillos buena gente»
 
-![La magistrada Cristina Lombana y el procesado puesto en libertad provisional. ¿Sigue la cadena de corrupción de la Corte? Los pillos buena gente.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/los-pillos-buena-gente-de-la-corte-y-la-libertad-de-arturo-char-i/hero.jpg)
+![La magistrada Cristina Lombana y el procesado puesto en libertad provisional. ¿Sigue la cadena de corrupción de la Corte? Los pillos buena gente.](s3://bundled-saddlebag-tnqki7w/2024/01/los-pillos-buena-gente-de-la-corte-y-la-libertad-de-arturo-char-i/hero.jpg)
 *La magistrada Cristina Lombana y el procesado puesto en libertad provisional. ¿Sigue la cadena de corrupción de la Corte? Los pillos buena gente.*
 
 La conducta de la alta Corte, al dejar vencer los términos, demuestra, a las claras, que la libertad de Arturo Char es una burla a la **moralidad pública** y pone de manifiesto **el fracaso de la justicia** y, en particular, de ese alto tribunal que, pese al **totalitarismo de los gobiernos de Álvaro Uribe**, guardó su compostura y su indeclinable autonomía frente al poder político y económico reinante. Se enfrentó con dignidad a las amenazas, a la persecución y a las chuzadas ilegales perpetradas por el _régimen neobonapartista_ de **Uribe**.

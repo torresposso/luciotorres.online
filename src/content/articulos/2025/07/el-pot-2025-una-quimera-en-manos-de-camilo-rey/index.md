@@ -5,10 +5,10 @@ pubDate: "2025-07-01 19:39:17"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-2025-una-quimera-en-manos-de-camilo-rey/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-2025-una-quimera-en-manos-de-camilo-rey/hero.jpg
 ---
 
-![El POT 2025 ¿Una quimera en manos de Camilo Rey? En la sombra, Rodolfo Díaz Wrigth.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-2025-una-quimera-en-manos-de-camilo-rey/hero.jpg)
+![El POT 2025 ¿Una quimera en manos de Camilo Rey? En la sombra, Rodolfo Díaz Wrigth.](s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-2025-una-quimera-en-manos-de-camilo-rey/hero.jpg)
 *El POT 2025 ¿Una quimera en manos de Camilo Rey? En la sombra, Rodolfo Díaz Wrigth.*
 
 Las respuestas a las **150 preguntas** que entregó **Camilo Rey Sabogal**, secretario de Planeación Distrital, **constituyen una confesión de parte** que equivale a prueba plena: **el Plan de Ordenamiento Territorial (POT 2025) está mal diseñado.** Lo grave: **viola principios esenciales** del Estado Social de Derecho. Por ejemplo, el debido proceso administrativo, la participación ciudadana real, la planeación democrática y el principio de legalidad.
@@ -39,7 +39,7 @@ Empero, la buena noticia, si el burgomaestre lo quiere, puede darle un timonazo 
 
 ## ¡Pare! Ruta equivocada
 
-![Asesoría a la sombra de Rodolfo Díaz Wrigth con la dirección de Camilo Rey  empujan un disimulado POT  2025 por el camino torcido al despeñadero. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-2025-una-quimera-en-manos-de-camilo-rey/Rodolfo-diaz_.jpeg)
+![Asesoría a la sombra de Rodolfo Díaz Wrigth con la dirección de Camilo Rey  empujan un disimulado POT  2025 por el camino torcido al despeñadero. Cortesía.](s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-2025-una-quimera-en-manos-de-camilo-rey/Rodolfo-diaz_.jpeg)
 *Asesoría a la sombra de Rodolfo Díaz Wrigth con la dirección de Camilo Rey empujan un disimulado POT 2025 por el camino torcido al despeñadero. Cortesía.*
 
 ¡Pare el bus del POT 2025! La ruta está equivocada. Tal como va, está construido sobre una cadena de vicios insalvables que va directo al abismo, según los expertos consultados:

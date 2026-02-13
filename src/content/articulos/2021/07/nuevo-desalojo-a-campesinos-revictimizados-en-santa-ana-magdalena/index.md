@@ -5,10 +5,10 @@ pubDate: "2021-07-12 01:12:37"
 author: "Lucio"
 categories: ["Mi País","Santa Marta"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/nuevo-desalojo-a-campesinos-revictimizados-en-santa-ana-magdalena/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/07/nuevo-desalojo-a-campesinos-revictimizados-en-santa-ana-magdalena/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/nuevo-desalojo-a-campesinos-revictimizados-en-santa-ana-magdalena/Alcalde-de-Santa-Ana.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/07/nuevo-desalojo-a-campesinos-revictimizados-en-santa-ana-magdalena/Alcalde-de-Santa-Ana.jpeg)
 *Aquí el alcalde Wilman Bermúdez, recibe un premio. Pero por el nuevo desalojo a campesinos de Santa Ana podría recibir una investigación por prevaricato y cómplice de los herederos de los despojadores.*
 
 A un nuevo desalojo se ven abocados cerca de **400 campesinos de Santa Ana Magdalena** por parte de la alcaldía municipal. Los trabajadores del campo ocupan unos predios que estaban totalmente abandonados y que explotan económicamente como señores y dueños desde hace aproximadamente 6 años. Allí tienen sembrados productos de pancoger, como maíz, yuca, plátano, ahuyama, entre otros. Gran parte de esas tierras tiene **medida cautelar** por despojo de la **Unidad Especial Gestión de Restitución de Tierras**, ya que en la región los paramilitares realizaron una contrareforma agraria.
@@ -27,7 +27,7 @@ Son 7 predios que tienen un área de 1.321 hectáreas. En su mayoría están a n
 
 ## Posesión de los campesinos
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/07/nuevo-desalojo-a-campesinos-revictimizados-en-santa-ana-magdalena/santa-ana.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/07/nuevo-desalojo-a-campesinos-revictimizados-en-santa-ana-magdalena/santa-ana.jpeg)
 *Nuevo desalojo. Así viven los campesinos de Santa Ana que serían desalojados de 7 predios que tienen en posesión desde hace 6 años.*
 
 En este caso, las autoridades deben tener en cuenta la protección especial de las minorías, desplazados, menores de edad, mujeres, adultos mayores que gozan de especial protección constitucional. **Aunque un desalojo sea legal, deben cumplir con lo señalado por las medidas de protección, como realizar un plan de reubicación de las personas, un censo, caracterización de la población, entre otras acciones.**

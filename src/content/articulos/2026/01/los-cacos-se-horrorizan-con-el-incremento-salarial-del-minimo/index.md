@@ -5,10 +5,10 @@ pubDate: "2026-01-01 16:16:17"
 author: "Lucio"
 categories: ["Opinión"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2026/01/los-cacos-se-horrorizan-con-el-incremento-salarial-del-minimo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2026/01/los-cacos-se-horrorizan-con-el-incremento-salarial-del-minimo/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2026/01/los-cacos-se-horrorizan-con-el-incremento-salarial-del-minimo/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2026/01/los-cacos-se-horrorizan-con-el-incremento-salarial-del-minimo/hero.jpg)
 
 Los cacos se horrorizan con el incremento del 23% del salario mínimo que disfrutarán cerca de dos millones de trabajadores desde hoy 1 de enero 2026. Un reajuste provocador, puesto que es cuatro veces por encima de la inflación esperada.
 

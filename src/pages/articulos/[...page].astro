@@ -1,9 +1,8 @@
 ---
 import { getCollection } from "astro:content";
-import BaseHead from "../../components/BaseHead.astro";
-import Footer from "../../components/Footer.astro";
+
+import Layout from "../../layouts/Layout.astro";
 import FormattedDate from "../../components/FormattedDate.astro";
-import Header from "../../components/Header.astro";
 import LazyImage from "../../components/LazyImage.astro";
 import Pagination from "../../components/Pagination.astro";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
@@ -25,365 +24,92 @@ const { page } = Astro.props as { page: any };
 const posts = page.data;
 ---
 
-<!doctype html>
-<html lang="es">
-    <head>
-        <BaseHead
-            title={`${SITE_TITLE} – Artículos – Página ${page.currentPage}`}
-            description={`${SITE_DESCRIPTION} – Explorando la verdad en cada página.`}
-            image={FallbackImage}
-        />
-        <style>
-            /* ── Design C: Impacto Articles Index ── */
-            .articles-page {
-                background: var(--bg);
-                min-height: 100vh;
-            }
-
-            /* Hero Section */
-            .page-hero {
-                background: var(--gradient-hero);
-                padding: 10rem 1.5rem 6rem;
-                text-align: center;
-                position: relative;
-                overflow: hidden;
-                margin-bottom: 4rem;
-                color: #fff;
-            }
-            .page-hero::before {
-                content: "";
-                position: absolute;
-                inset: 0;
-                background: radial-gradient(
-                    circle at 50% 30%,
-                    rgba(245, 158, 11, 0.15) 0%,
-                    transparent 60%
-                );
-            }
-            .page-hero::after {
-                content: "";
-                position: absolute;
-                bottom: 0;
-                left: 0;
-                right: 0;
-                height: 80px;
-                background: linear-gradient(
-                    to top,
-                    var(--bg) 0%,
-                    transparent 100%
-                );
-            }
-
-            .hero-content {
-                position: relative;
-                z-index: 2;
-                max-width: 800px;
-                margin: 0 auto;
-            }
-
-            .hero-flag {
-                display: inline-flex;
-                justify-content: center;
-                gap: 0.5rem;
-                margin-bottom: 2rem;
-            }
-            .flag-bar {
-                width: 40px;
-                height: 4px;
-                border-radius: 2px;
-            }
-            .flag-y {
-                background: var(--colombia-y);
-            }
-            .flag-b {
-                background: var(--colombia-b);
-            }
-            .flag-r {
-                background: var(--colombia-r);
-            }
-
-            .page-hero h1 {
-                font-family: var(--font-heading);
-                font-size: clamp(3rem, 6vw, 5rem);
-                line-height: 1;
-                margin-bottom: 1.5rem;
-                color: #fff;
-            }
-            .page-hero p {
-                font-family: var(--font-body);
-                font-size: 1.25rem;
-                color: rgba(255, 255, 255, 0.7);
-                max-width: 600px;
-                margin: 0 auto;
-                line-height: 1.6;
-            }
-
-            .container {
-                max-width: 1200px;
-                margin: 0 auto;
-                padding: 0 1.5rem;
-                position: relative;
-                z-index: 5;
-            }
-
-            /* Grid */
-            .articles-grid {
-                display: grid;
-                grid-template-columns: repeat(3, 1fr);
-                gap: 2.5rem;
-                margin-bottom: 5rem;
-            }
-
-            /* Cards - Impacto Style */
-            .article-card {
-                background: var(--surface);
-                border: 1px solid var(--border);
-                border-radius: 20px;
-                overflow: hidden;
-                text-decoration: none;
-                color: inherit;
-                transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-                display: flex;
-                flex-direction: column;
-                height: 100%;
-                box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.03);
-            }
-
-            .article-card:hover {
-                transform: translateY(-8px);
-                box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
-                border-color: rgba(245, 158, 11, 0.4);
-            }
-
-            .article-image {
-                width: 100%;
-                aspect-ratio: 16/10;
-                overflow: hidden;
-                position: relative;
-            }
-            .article-image :global(img) {
-                width: 100%;
-                height: 100%;
-                object-fit: cover;
-                transition: transform 0.6s ease;
-            }
-            .article-card:hover .article-image :global(img) {
-                transform: scale(1.08);
-            }
-
-            /* Badge */
-            .card-badge {
-                position: absolute;
-                top: 1rem;
-                left: 1rem;
-                background: rgba(15, 23, 42, 0.85);
-                backdrop-filter: blur(8px);
-                color: #fff;
-                font-size: 0.7rem;
-                font-weight: 700;
-                padding: 0.35rem 0.85rem;
-                border-radius: 50px;
-                text-transform: uppercase;
-                letter-spacing: 0.08em;
-                z-index: 2;
-                border: 1px solid rgba(255, 255, 255, 0.1);
-            }
-
-            .article-content {
-                padding: 2rem;
-                flex: 1;
-                display: flex;
-                flex-direction: column;
-            }
-
-            .article-card h2 {
-                font-family: var(--font-heading);
-                font-size: 1.6rem;
-                font-weight: 400;
-                line-height: 1.2;
-                margin-bottom: 1rem;
-                transition: color 0.3s;
-                color: var(--text);
-            }
-            .article-card:hover h2 {
-                color: var(--colombia-gold);
-            }
-
-            .excerpt {
-                font-size: 1rem;
-                color: var(--text-muted);
-                line-height: 1.6;
-                margin-bottom: 2rem;
-                display: -webkit-box;
-                -webkit-line-clamp: 3;
-                -webkit-box-orient: vertical;
-                overflow: hidden;
-            }
-
-            .article-footer {
-                margin-top: auto;
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-                padding-top: 1.25rem;
-                border-top: 1px solid var(--border);
-            }
-
-            .meta-date {
-                display: flex;
-                align-items: center;
-                gap: 0.5rem;
-                font-size: 0.85rem;
-                font-weight: 500;
-                color: var(--text-muted);
-            }
-            .meta-date svg {
-                color: var(--colombia-gold);
-            }
-
-            .read-more {
-                font-size: 0.9rem;
-                font-weight: 700;
-                color: var(--text);
-                display: flex;
-                align-items: center;
-                gap: 0.5rem;
-                transition: gap 0.2s;
-            }
-            .read-more .arrow {
-                color: var(--colombia-gold);
-            }
-            .article-card:hover .read-more {
-                gap: 0.75rem;
-                color: var(--colombia-gold);
-            }
-
-            @media (max-width: 1024px) {
-                .articles-grid {
-                    grid-template-columns: repeat(2, 1fr);
-                }
-            }
-            @media (max-width: 768px) {
-                .page-hero {
-                    padding: 8rem 1.5rem 4rem;
-                }
-                .articles-grid {
-                    grid-template-columns: 1fr;
-                }
-            }
-        </style>
-    </head>
-
-    <body>
-        <Header />
-        <main class="articles-page">
-            <section class="page-hero">
-                <div class="hero-content">
-                    <div class="hero-flag">
-                        <span class="flag-bar flag-y"></span>
-                        <span class="flag-bar flag-b"></span>
-                        <span class="flag-bar flag-r"></span>
-                    </div>
-                    <h1>Archivo Periodístico</h1>
-                    <p>
-                        Investigaciones, análisis y opinión independiente para
-                        una Colombia más justa.
-                    </p>
+<Layout
+    title={`${SITE_TITLE} – Artículos – Página ${page.currentPage}`}
+    description={`${SITE_DESCRIPTION} – Explorando la verdad en cada página.`}
+    ogImage={FallbackImage.src}
+>
+    <!-- HERO SECTION -->
+    <section class="py-24 bg-white border-b border-base-300 px-6">
+        <div class="max-w-7xl mx-auto text-center">
+            <div class="flex items-center justify-center gap-4 mb-8">
+                <div class="flag-separator w-12 h-1.5 rounded-full overflow-hidden">
+                    <div class="y"></div>
+                    <div class="b"></div>
+                    <div class="r"></div>
                 </div>
-            </section>
-
-            <div class="container">
-                <div class="articles-grid">
-                    {
-                        posts.map((post: any) => (
-                            <a
-                                href={`/articulos/${extractSlugFromPath(post.id)}/`}
-                                class="article-card"
-                            >
-                                <div class="article-image">
-                                    <div class="card-badge">
-                                        {post.data.categories?.[0] ||
-                                            "Actualidad"}
-                                    </div>
-                                    {post.data.heroImage ? (
-                                        <LazyImage
-                                            src={post.data.heroImage}
-                                            alt={
-                                                post.data.heroImageAlt ||
-                                                post.data.title
-                                            }
-                                            width={600}
-                                            height={375}
-                                            aspectRatio="16/10"
-                                        />
-                                    ) : (
-                                        <div class="placeholder-img" />
-                                    )}
-                                </div>
-                                <div class="article-content">
-                                    <h2>{post.data.title}</h2>
-                                    <p class="excerpt">
-                                        {post.data.description}
-                                    </p>
-                                    <div class="article-footer">
-                                        <div class="meta-date">
-                                            <svg
-                                                xmlns="http://www.w3.org/2000/svg"
-                                                width="16"
-                                                height="16"
-                                                viewBox="0 0 24 24"
-                                                fill="none"
-                                                stroke="currentColor"
-                                                stroke-width="2"
-                                                stroke-linecap="round"
-                                                stroke-linejoin="round"
-                                            >
-                                                <>
-                                                    <rect
-                                                        x="3"
-                                                        y="4"
-                                                        width="18"
-                                                        height="18"
-                                                        rx="2"
-                                                        ry="2"
-                                                    />
-                                                    <line
-                                                        x1="16"
-                                                        y1="2"
-                                                        x2="16"
-                                                        y2="6"
-                                                    />
-                                                    <line
-                                                        x1="8"
-                                                        y1="2"
-                                                        x2="8"
-                                                        y2="6"
-                                                    />
-                                                    <line
-                                                        x1="3"
-                                                        y1="10"
-                                                        x2="21"
-                                                        y2="10"
-                                                    />
-                                                </>
-                                            </svg>
-                                            <FormattedDate
-                                                date={post.data.pubDate}
-                                            />
-                                        </div>
-                                        <span class="read-more">
-                                            Leer <span class="arrow">→</span>
-                                        </span>
-                                    </div>
-                                </div>
-                            </a>
-                        ))
-                    }
+                <span class="text-xs font-black uppercase tracking-[0.3em] text-neutral">ARCHIVO</span>
+                <div class="flag-separator w-12 h-1.5 rounded-full overflow-hidden">
+                    <div class="y"></div>
+                    <div class="b"></div>
+                    <div class="r"></div>
                 </div>
-
-                <Pagination page={page} urlPattern={"/articulos/{}"} />
             </div>
-        </main>
-        <Footer />
-    </body>
-</html>
+            
+            <h1 class="text-4xl sm:text-5xl md:text-7xl font-editorial font-black text-neutral uppercase tracking-tighter mb-6 leading-none">
+                ARCHIVO <span class="text-primary italic">PERIODÍSTICO.</span>
+            </h1>
+            <p class="text-xl text-neutral/60 max-w-2xl mx-auto">
+                Investigaciones, análisis y opinión independiente para una Colombia más justa.
+            </p>
+        </div>
+    </section>
+
+    <!-- ARTICLES GRID -->
+    <section class="py-20 bg-base-100 px-6">
+        <div class="max-w-7xl mx-auto">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
+                {posts.map((post: any) => (
+                    <a href={`/articulos/${extractSlugFromPath(post.id)}/`} class="group flex flex-col h-full bg-white rounded-2xl overflow-hidden border border-base-200 hover:shadow-2xl hover:border-primary/20 transition-all duration-500 hover:-translate-y-2">
+                        <!-- Image Container -->
+                        <div class="relative overflow-hidden aspect-16/10">
+                            <span class="absolute top-4 left-4 bg-neutral/80 backdrop-blur-md text-white text-[10px] font-black uppercase tracking-wider px-3 py-1 rounded-full z-10 border border-white/10">
+                                {post.data.categories?.[0] || "ACTUALIDAD"}
+                            </span>
+                            
+                            <div class="w-full h-full grayscale group-hover:grayscale-0 transition-all duration-700 group-hover:scale-105">
+                                {post.data.heroImage ? (
+                                    <LazyImage
+                                        src={post.data.heroImage}
+                                        alt={post.data.heroImageAlt || post.data.title}
+                                        width={600}
+                                        height={375}
+                                        aspectRatio="16/10"
+                                    />
+                                ) : (
+                                    <div class="w-full h-full bg-base-200 flex items-center justify-center text-neutral/20">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="w-12 h-12" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                                        </svg>
+                                    </div>
+                                )}
+                            </div>
+                        </div>
+
+                        <!-- Content -->
+                        <div class="p-8 flex flex-col flex-1">
+                            <h2 class="text-xl sm:text-2xl font-editorial font-bold leading-tight mb-4 group-hover:text-primary transition-colors">
+                                {post.data.title}
+                            </h2>
+                            <p class="text-neutral/60 text-sm leading-relaxed mb-6 line-clamp-3">
+                                {post.data.description}
+                            </p>
+                            
+                            <div class="mt-auto pt-6 border-t border-base-200 flex items-center justify-between">
+                                <span class="flex items-center gap-2 text-xs font-bold text-neutral/40 uppercase tracking-wider">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+                                    <FormattedDate date={post.data.pubDate} />
+                                </span>
+                                <span class="text-primary font-black text-xs uppercase tracking-widest group-hover:underline decoration-2 underline-offset-4">
+                                    LEER ARTÍCULO
+                                </span>
+                            </div>
+                        </div>
+                    </a>
+                ))}
+            </div>
+
+            <Pagination page={page} urlPattern={"/articulos/{}"} />
+        </div>
+    </section>
+</Layout>

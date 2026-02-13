@@ -5,10 +5,10 @@ pubDate: "2021-12-15 13:27:54"
 author: "Lucio"
 categories: ["Análisis","Opinión"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/caida-libre-de-tecnoglass-en-nasdaq-por-exportaciones-ficticias/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/12/caida-libre-de-tecnoglass-en-nasdaq-por-exportaciones-ficticias/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/caida-libre-de-tecnoglass-en-nasdaq-por-exportaciones-ficticias/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/caida-libre-de-tecnoglass-en-nasdaq-por-exportaciones-ficticias/hero.jpg)
 *El CEO de Tecnoglass, Samuel Azout Papu. Con el informe de Hindenburg Research se inició la caída libre de Tecnoglass. Cortesía Twiter.*
 
 La caída libre de las acciones de Tecnoglass parece que no podría recuperar el terreno perdido, por lo menos, antes de que finalice el año. ¿Por qué? Existe un pequeño detalle que se quiere desconocer. En un mercado bursátil tan competitivo como el de Nueva York, cualquier presunta irregularidad, la cobran muy caro. Las exportaciones ficticias, por ejemplo, es una práctica más vieja que «cagar agachao», como expresará coloquialmente cualquier barranquillero. Pero es una operación deshonesta y se constituye en un fraude a la economía y a las arcas oficiales.
@@ -33,7 +33,7 @@ https://twitter.com/ChrisDaes/status/1469445966117978115?s=20
 
 ## ¿Exportaciones ficticias?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/caida-libre-de-tecnoglass-en-nasdaq-por-exportaciones-ficticias/CARICATURA-CRISTIAN-DAES.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/caida-libre-de-tecnoglass-en-nasdaq-por-exportaciones-ficticias/CARICATURA-CRISTIAN-DAES.jpg)
 *El tío Cristian no come caviar, prefiere revoltillo de huevo con arroz, como prefería Pablo Escobar, el patrón del mal.*
 
 El informe de  Hindenburg Research —que marcó el inicio del desplome de las acciones— presentó una situación característica en la práctica comercial de los Daes. En honor a la verdad, es una práctica de muchos empresarios de la nueva ola de Barranquilla que en la década en los 80s se vio inundada de dineros de mala procedencia. Esos empresarios estuvieron vinculados a la industria textil y otros sectores de la economía asentados artificialmente en la Vía 40 de la ciudad. **Se trata de las exportaciones ficticias. Exportaciones de papel.**
@@ -60,7 +60,7 @@ El jueves y viernes de la semana pasada sus acciones se desplomaron a más de 40
 
 Hoy, 15 de diciembre, la operación abrió con 22,65, y, al momento de escribir este artículo, las acciones cerraron a 23,18 USD. Una leve recuperación con una variación de 0,53.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/caida-libre-de-tecnoglass-en-nasdaq-por-exportaciones-ficticias/Leve-recuperacion-de-Tecnoglass.png)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/caida-libre-de-tecnoglass-en-nasdaq-por-exportaciones-ficticias/Leve-recuperacion-de-Tecnoglass.png)
 
 Hoy, sin embargo, las fluctuaciones de las acciones de Tecnoglass, dieron signos de una leve recuperación.
 

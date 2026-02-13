@@ -5,10 +5,10 @@ pubDate: "2022-11-04 01:39:26"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/hero.jpg
 ---
 
-![Padre e hija asesinados en la modalidad de sicariato. ¡Basta!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/hero.jpg)
+![Padre e hija asesinados en la modalidad de sicariato. ¡Basta!](s3://bundled-saddlebag-tnqki7w/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/hero.jpg)
 *Padre e hija asesinados en la modalidad de sicariato. ¡Basta!*
 
 ¡Basta! Un profundo dolor, consternación y rabia produjo en el día de hoy el homicidio de **Alejandra Llorente Salazar,** 10 años, en la modalidad de sicariato. El hecho se presentó cuando su padre, **Antonio Llorente Arcia**, sufrió un atentado mortal en las afueras del **Colegio Biffi** de Cartagena. Los sicarios dispararon indiscriminadamente cuando las tres hijas del comerciante se encontraban en el interior de la camioneta.
@@ -19,7 +19,7 @@ Mientras ocurre esta ola de sicariato, el alcalde de Cartagena de Indias, **Will
 
 ## ¡Basta! No más homicidios
 
-![La segunda infante asesinada. ¡Basta!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/nina-asesinada-Biffi.jpg)
+![La segunda infante asesinada. ¡Basta!](s3://bundled-saddlebag-tnqki7w/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/nina-asesinada-Biffi.jpg)
 *La segunda infante asesinada. ¡Basta!*
 
 Ya llegamos a los 300 homicidios, la mayoría en la modalidad de sicariato y en medio de la impunidad. ¿Dónde están los responsables? ¿Para qué sirven los consejos de seguridad?
@@ -30,7 +30,7 @@ Fueron momentos de confusión. Particulares socorrieron a las menores, dos de la
 
 ## No hay cámaras de seguridad
 
-![El alcalde de Cartagena, William Dau, en su vida loca fluida de alcohol y droga, mientras crece el sicariato y el microtráfico. ¡Basta!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/dau-y-2.jpg)
+![El alcalde de Cartagena, William Dau, en su vida loca fluida de alcohol y droga, mientras crece el sicariato y el microtráfico. ¡Basta!](s3://bundled-saddlebag-tnqki7w/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/dau-y-2.jpg)
 *El alcalde de Cartagena, William Dau, en su vida loca fluida de alcohol y droga, mientras crece el sicariato y el microtráfico. ¡Basta!*
 
 El comandante de la Policía Metropolitana de Cartagena, brigadier general Nicolás Zapata, llegó al lugar del crimen y constató que no había cámara de seguridad del Distrito, muy a pesar de que Distriseguridad cuenta con el presupuesto para ello. Por esta razón, dijo, se está consultando las cámaras privadas que se encuentran en esta zona muy transitada donde funciona el Colegio Biffi y muchas clínicas y EPS.
@@ -39,7 +39,7 @@ Desde que llegó **William Dau Chamat** a la alcaldía de Cartagena uno de los p
 
 ## Control político
 
-![¡Basta! Si el alcalde y sus secretarios es incompetente, el concejo debe asumir un estricto control político.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/WhatsApp-Image-2022-05-14-at-1.01.16-PM.jpeg)
+![¡Basta! Si el alcalde y sus secretarios es incompetente, el concejo debe asumir un estricto control político.](s3://bundled-saddlebag-tnqki7w/2022/11/basta-dolor-y-consternacion-produjo-asesinato-de-otra-infante/WhatsApp-Image-2022-05-14-at-1.01.16-PM.jpeg)
 *¡Basta! Si el alcalde y sus secretarios es incompetente, el concejo debe asumir un estricto control político.*
 
 En estos momentos el concejo de Cartagena debe asumir un liderazgo en la alcaldía de Cartagena. Sería importante iniciar un proceso de censura contra la secretaria del Interior y de Convivencia Ciudadana, Ana María González, y del director de Distriseguridad, coronel **Luis Enrique Roa Merchán**, porque fracasaron para diseñar y ejecutar un plan de seguridad ciudadana.

@@ -5,10 +5,10 @@ pubDate: "2022-01-06 15:42:34"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/la-muerte-como-transformacion-en-polvo-cosmico/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/01/la-muerte-como-transformacion-en-polvo-cosmico/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/la-muerte-como-transformacion-en-polvo-cosmico/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/01/la-muerte-como-transformacion-en-polvo-cosmico/hero.jpg)
 *Domingo Meza Galvis, el narrador oral, polvo cósmico será.*
 
 Cuando uno muere el cuerpo se transforma. El espíritu pasa a otra dimensión. Uno regresa al origen, al polvo cósmico, al principio de las cosas. Es la materialización de aquella sentencia: **«Polvo eres y en polvo te convertirás»**.

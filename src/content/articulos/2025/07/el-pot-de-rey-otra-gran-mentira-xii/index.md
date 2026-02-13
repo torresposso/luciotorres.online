@@ -5,10 +5,10 @@ pubDate: "2025-07-07 02:15:58"
 author: "Lucio"
 categories: ["Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-de-rey-otra-gran-mentira-xii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-de-rey-otra-gran-mentira-xii/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-de-rey-otra-gran-mentira-xii/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-de-rey-otra-gran-mentira-xii/hero.jpg)
 *¿Sabes por qué el secretario de Planeación Distrital de Cartagena, Camilo Rey Sabogal, no sabe cuál es el expediente urbano de Cartagena? El POT de Rey es otra mentira, Lee el artículo./Cortesía Prensa alcaldía.*
 
 **Camilo Rey Sabogal**, secretario de Planeación Distrital de Cartagena ―como planificador― no pasó la _prueba ácida_ de las 150 preguntas que formuló **VoxPopuli Digital** para evaluar su desempeño funcional. El resultado: ¡Déficit de conocimiento y de experticia! Además, esta conducta puede acarrearle responsabilidades disciplinarias y fiscales. Por tanto, el POT de Rey es otra mentira que la ciudadanía no está dispuesta aceptar.
@@ -31,7 +31,7 @@ La metodología indica que para actualizar el POT obligatoriamente debe contarse
 
 ## El POT de Rey es una Falta grave
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-de-rey-otra-gran-mentira-xii/POT_2025_cAMILO-1024x576.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-de-rey-otra-gran-mentira-xii/POT_2025_cAMILO-1024x576.jpg)
 *¿Qué hace Rodolfo Díaz Wrigth?*
 
 El POT de Rey, además de una falta disciplinaria incurso, el daño político y social sería enorme, porque es la **prueba plena** de que se está diseñando un **simulacro de POT**, como lo explicamos en la entrega anterior.
@@ -62,7 +62,7 @@ En el contexto de una función misional de alto impacto como la actualización d
 
 ## La pregunta 96
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-de-rey-otra-gran-mentira-xii/Expediente_urbano.webp)
+![](s3://bundled-saddlebag-tnqki7w/2025/07/el-pot-de-rey-otra-gran-mentira-xii/Expediente_urbano.webp)
 *¿Conoces las 150 respuestas sobre el POT de Rey? El secretario de Planeación no sabe qué es un Expediente Urbano. ¿Ignorancia supina?*
 
 Esta es la pregunta No 96 que se formuló:**¿Cómo se garantiza que el expediente sirva de base para un diagnóstico territorial completo?**

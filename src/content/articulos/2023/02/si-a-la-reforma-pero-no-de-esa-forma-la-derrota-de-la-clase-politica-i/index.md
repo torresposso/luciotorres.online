@@ -5,10 +5,10 @@ pubDate: "2023-02-20 03:33:13"
 author: "Lucio"
 categories: ["Análisis","Mi País","Política"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/si-a-la-reforma-pero-no-de-esa-forma-la-derrota-de-la-clase-politica-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/02/si-a-la-reforma-pero-no-de-esa-forma-la-derrota-de-la-clase-politica-i/hero.jpg
 ---
 
-![La marcha de la oposición en Medellín.Sí a la reforma, pero no de esa forma.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/si-a-la-reforma-pero-no-de-esa-forma-la-derrota-de-la-clase-politica-i/hero.jpg)
+![La marcha de la oposición en Medellín.Sí a la reforma, pero no de esa forma.](s3://bundled-saddlebag-tnqki7w/2023/02/si-a-la-reforma-pero-no-de-esa-forma-la-derrota-de-la-clase-politica-i/hero.jpg)
 *La marcha de la oposición en Medellín.Sí a la reforma, pero no de esa forma.*
 
 El país necesita cambios para mejorar la calidad de vida. En el caso de la salud, por ejemplo, «**sí a la reforma, pero no de esa forma»**. Las marchas del 14 y 15 de febrero a favor y en contra de las iniciativas legislativas del gobierno, no fueron masivas. **A favor: 28 mil marchantes. En contra: 47 mil**, según la Policía Nacional. Además de reflejar una confrontación ideológica y propagandística sobre las reformas que propone el gobierno del presidente Gustavo Petro, lo que observamos es una derrota a la clase política de izquierda o/y de derecha.
@@ -41,7 +41,7 @@ La derrota de la clase política de gobierno y de oposición, hace pensar que es
 
 ## Un gobierno compartido
 
-![El presidente Petro hablando en el balcón que da a la Plaza de Bolívar. Abajo fieles seguidores que añoran las grandes marchas. Si a la reforma, pero no de esa forma](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/si-a-la-reforma-pero-no-de-esa-forma-la-derrota-de-la-clase-politica-i/Marcha_Bogota-a-favor-de-Petro.jpg)
+![El presidente Petro hablando en el balcón que da a la Plaza de Bolívar. Abajo fieles seguidores que añoran las grandes marchas. Si a la reforma, pero no de esa forma](s3://bundled-saddlebag-tnqki7w/2023/02/si-a-la-reforma-pero-no-de-esa-forma-la-derrota-de-la-clase-politica-i/Marcha_Bogota-a-favor-de-Petro.jpg)
 *El presidente Petro hablando en el balcón que da a la Plaza de Bolívar. Abajo fieles seguidores que añoran las grandes marchas.*
 
 Si bien el gobierno de Petro concentra el poder legislativo a la cabeza de sus alfiles **Roy Barreras** (senado) y **David Racero** (cámara), y una coalición aplanadora, carece de solidez política. La izquierda tiene la presidencia, pero el gobierno es compartido con los mismos partidos y personajes que han dominado la política en los últimos 30 años. Es decir, no se percibe ninguna ruptura con el pasado inmediato.

@@ -5,10 +5,10 @@ pubDate: "2022-07-09 22:50:05"
 author: "Lucio"
 categories: ["Análisis","Podcast","Política","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/presidente-duque-pipe-cordoba-y-dau-tal-para-cualcorrupcion-pura-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/07/presidente-duque-pipe-cordoba-y-dau-tal-para-cualcorrupcion-pura-i/hero.jpg
 ---
 
-![¿Los absolvedores de Dau? ¿Cuánto le costará a los cartageneros? ¿El presidente Duque y Pipe Córdoba se despiden con otro inminente acto de corrupción como los $500 mil millones para la paz?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/presidente-duque-pipe-cordoba-y-dau-tal-para-cualcorrupcion-pura-i/hero.jpg)
+![¿Los absolvedores de Dau? ¿Cuánto le costará a los cartageneros? ¿El presidente Duque y Pipe Córdoba se despiden con otro inminente acto de corrupción como los $500 mil millones para la paz?](s3://bundled-saddlebag-tnqki7w/2022/07/presidente-duque-pipe-cordoba-y-dau-tal-para-cualcorrupcion-pura-i/hero.jpg)
 *¿Los absolvedores de Dau? ¿Cuánto le costará a los cartageneros? ¿El presidente Duque y «Pipe» Córdoba se despiden con otro inminente acto de corrupción como los $500 mil millones para la paz?*
 
 Mientras el **Pulso Social del DANE** y otros estudios serios hablan de la **crisis humanitaria y de inseguridad de Cartagena,** el presidente Duque mantiene al alcalde Dau. Y ahora le pasaron la pelota a **«Pipe» Córdoba**, quien está en la picota pública por el entramado de los **$500 mil millones para la paz**. **_Los tres son tal para cual_**. Duque, siendo de la misma condición, se solidarizó con el alcalde. Dilató hasta donde más pudo su descaro y le devolvió ahora la pelota a la Contraloría General para garantizar impunidad.
@@ -37,7 +37,7 @@ Contrario al gobierno central y a la Contraloría General, la actuación de la C
 
 ## ¿Duque y Palacios, los cómplices de Dau?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/presidente-duque-pipe-cordoba-y-dau-tal-para-cualcorrupcion-pura-i/duo.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/07/presidente-duque-pipe-cordoba-y-dau-tal-para-cualcorrupcion-pura-i/duo.jpg)
 
 ¿Por qué el presidente Duque y su ministro del Interior no han ejecutado la resolución de suspensión? ¿Por qué si las acciones de William Dau contra la resolución quedaron resueltas el pasado 23 de junio, siguen dilatando la suspensión? Sin duda, es una compleja estratagema urdida desde el gobierno nacional para burlarse de la resolución administrativa.
 
@@ -47,7 +47,7 @@ Contrario al gobierno central y a la Contraloría General, la actuación de la C
 
 El pasado 23 de junio la presidencia mediante oficio oficio **EXT\_S22-00052472-PQRSD-043815-PQR** resolvió desfavorablemente la acción de control de inconstitucional, según informó la Veeduría de Observación Electoral a **Noticias 6:25**. Sin embargo, se dijo que el ministerio del Interior pidió concepto a **«Pipe» Córdoba**.
 
-![Pareciera que el presidente Duque el director del club de la ineptitud que sostiene al alcalde de Cartagena.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/presidente-duque-pipe-cordoba-y-dau-tal-para-cualcorrupcion-pura-i/duo.jpg)
+![Pareciera que el presidente Duque el director del club de la ineptitud que sostiene al alcalde de Cartagena.](s3://bundled-saddlebag-tnqki7w/2022/07/presidente-duque-pipe-cordoba-y-dau-tal-para-cualcorrupcion-pura-i/duo.jpg)
 *Pareciera que el presidente Duque el director del club de la ineptitud que sostiene al alcalde de Cartagena.*
 
 Si eso es cierto, es pura dilación. La decisión de la Contraloría Distrital es soportada por el artículo 280 de la Constitución Nacional. Se entiende que las contralorías, sea del orden que fuere, tienen las mismas facultades dentro del orden jurisdiccional. Pero si **«Pipe» Córdoba** hizo uso del control preferencial respecto a los hechos que afectan a William Dau, es porque se está tramando una situación parecida a los $500 mil millones para la paz. Se están concertando para aplicar impunidad fiscal a las atrocidades de William Dau.

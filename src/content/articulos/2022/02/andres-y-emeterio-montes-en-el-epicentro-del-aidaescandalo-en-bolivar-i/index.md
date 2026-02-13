@@ -5,10 +5,10 @@ pubDate: "2022-02-11 13:06:25"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/andres-y-emeterio-montes-en-el-epicentro-del-aidaescandalo-en-bolivar-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/02/andres-y-emeterio-montes-en-el-epicentro-del-aidaescandalo-en-bolivar-i/hero.jpg
 ---
 
-![Aidaescándalo en Bolívar](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/andres-y-emeterio-montes-en-el-epicentro-del-aidaescandalo-en-bolivar-i/hero.jpg)
+![Aidaescándalo en Bolívar](s3://bundled-saddlebag-tnqki7w/2022/02/andres-y-emeterio-montes-en-el-epicentro-del-aidaescandalo-en-bolivar-i/hero.jpg)
 *Aida Merlano, la reina de Casa Blanca. Aquí compartiendo tribuna con sus dos pupilos en Bolívar: Emeterio Montes de Castro y Andrés Guillermo Montes Celedón. Aidaescándalo en Bolívar*
 
 **Andrés Guillermo Montes Celedón y Emeterio Montes de Castro**, son de la nueva generación que hereda el poder político y económico que sus antecesores familiares le dejaron. Tienen el estigma de la parapolítica y el paramilitarismo que les dejó su tío William Montes. **Ahora se le suma una situación más grave: el «Aidaescándalo»**. Las revelaciones de la exsenadora Aida Merlano los cobija en el mismo entramado electoral de corrupción electoral para elegirse en sus cargos. 
@@ -31,7 +31,7 @@ En esa reunión tomaron parte **William Montes Medina** (Conservador), los Name 
 
 ## Aida y Emeterio en Bolívar
 
-![Emeterio Montes abrazado con Aida Merlano. Aidaescándalo en Bolívar.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/andres-y-emeterio-montes-en-el-epicentro-del-aidaescandalo-en-bolivar-i/aidaemeteriomontes.jpg)
+![Emeterio Montes abrazado con Aida Merlano. Aidaescándalo en Bolívar.](s3://bundled-saddlebag-tnqki7w/2022/02/andres-y-emeterio-montes-en-el-epicentro-del-aidaescandalo-en-bolivar-i/aidaemeteriomontes.jpg)
 *Emeterio Montes abrazado con Aida Merlano. Aidaescándalo en Bolívar.*
 
 En el fortín político de los Montes Medina, Mompox, en 2018, Emeterio Montes sacó **7.918 votos** y su fórmula al senado, Aída Merlano, **6.186**. Es decir, una diferencia de tan solo 1.732. En todo el departamento, en la [elecciones para senado 2018](/articulos/elecciones/2018/resultados/senado.aspx?C=SE&D=5&P=2&R=0), Aida Merlano recibió **29,885** de los votos conservadores. Solo la superó **Nadia Blel con 44,918**.  Efraím Cepeda fue el tercero con **8,755.**
@@ -48,7 +48,7 @@ Y si la Fiscalía y la CSJ quieren más detalles, puede llegar a cada uno de los
 
 ## Andrés Montes
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/andres-y-emeterio-montes-en-el-epicentro-del-aidaescandalo-en-bolivar-i/Andres-Montes.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/02/andres-y-emeterio-montes-en-el-epicentro-del-aidaescandalo-en-bolivar-i/Andres-Montes.jpg)
 *Andrés Montes, le espera el Aidaescándalo*
 
 ¿Qué hizo el bisoño **Andres Guillermo Montes Celedón** —hijo de Guillermo Montes Medina— en la asamblea de Bolívar  para heredar la curul de su primo **Emeterio Montes de Castro**? Nada distinto a votar los proyectos de acuerdos empaquetados por la administración departamental. 

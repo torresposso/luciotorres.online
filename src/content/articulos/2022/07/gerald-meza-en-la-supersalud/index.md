@@ -5,10 +5,10 @@ pubDate: "2022-07-28 03:16:18"
 author: "Lucio"
 categories: ["Análisis","Mi País","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/gerald-meza-en-la-supersalud/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/07/gerald-meza-en-la-supersalud/hero.jpg
 ---
 
-![¿Gerald Meza en la Supersalud? Aquí lo vemos monitoreando el corazón a una de sus pacientes.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/gerald-meza-en-la-supersalud/Gerald-Meza-consulta.jpeg)
+![¿Gerald Meza en la Supersalud? Aquí lo vemos monitoreando el corazón a una de sus pacientes.](s3://bundled-saddlebag-tnqki7w/2022/07/gerald-meza-en-la-supersalud/Gerald-Meza-consulta.jpeg)
 *¿Gerald Meza en Supersalud? Aquí lo vemos monitoreando el corazón a una de sus pacientes.*
 
 ¿Gerald Meza en la Supersalud? Es la pregunta que despejaremos en este perfil. El presidente Gustavo Petro quiere armar un equipo sólido para ejecutar su propuesta de Salud para la Vida, salud preventiva. Además de la designada ministra de Salud, **Carolina Corcho,** debe definir quién será el Superintendente Nacional de Salud-Supersalud.
@@ -27,7 +27,7 @@ Tomando en cuenta su compromiso y su vocación de servicio social, el nombre de 
 
 Pero lo más importante de Gerald Meza es su concepción y praxis de lo que debe ser el servicio de salud. En sus intervenciones dadas por las redes sociales y expresadas en este portal, estimó que el servicio de salud debe ser ejercido con transparencia. Sobre todo, teniendo como centro al usuario y no al empresario. Necesitamos un servicio de salud de calidad, preventivo y único. No debe haber discriminación de ninguna clase.
 
-![Gerald Meza, un defensor de derecho a la salud. ¿Gerald Meza en la Supersalud? ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/gerald-meza-en-la-supersalud/hero.jpg)
+![Gerald Meza, un defensor de derecho a la salud. ¿Gerald Meza en la Supersalud? ](s3://bundled-saddlebag-tnqki7w/2022/07/gerald-meza-en-la-supersalud/hero.jpg)
 *Gerald Meza, un defensor de derecho a la salud.*
 
 > La salud es un derecho fundamental que no debe estar supeditado al afán de ganancia de empresarios inescrupulosos incrustados en las EPS. La intermediación no solo encarece el costo de la salud sino que también atenta contra la vida y la calidad de vida de los colombianos.
@@ -46,7 +46,7 @@ Y es que una de las grandes falencias del sistema de salud es la falta de vigila
 
 ## ¿Gerald Meza en Supersalud? Un guardián de la salud
 
-![Un hombre de familia. Con su trabajo forjó una de las mejores clínicas de Cartagena, ¿Gerald Meza en Supersalud? Aquí, vestido de Blanco, lo rodea su esposa y sus tres hijos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/gerald-meza-en-la-supersalud/gerald-meza-y-familia.jpg)
+![Un hombre de familia. Con su trabajo forjó una de las mejores clínicas de Cartagena, ¿Gerald Meza en Supersalud? Aquí, vestido de Blanco, lo rodea su esposa y sus tres hijos.](s3://bundled-saddlebag-tnqki7w/2022/07/gerald-meza-en-la-supersalud/gerald-meza-y-familia.jpg)
 *Un hombre de familia. Con su trabajo forjó una de las mejores clínicas de Cartagena, ¿Gerald Meza en Supersalud? Aquí, vestido de Blanco, lo rodea su esposa y sus tres hijos.*
 
 ¿Gerald Meza en la Supersalud? Si es nombrado, sin duda, será una de las cuotas de la Costa Caribe que contribuirá a la recuperación y transformación de la salud pública que llegó a sus peores indicadores en los cuatro años de Iván Duque.

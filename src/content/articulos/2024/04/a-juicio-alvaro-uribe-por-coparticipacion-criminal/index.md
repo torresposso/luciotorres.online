@@ -5,10 +5,10 @@ pubDate: "2024-04-10 03:50:56"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Álvaro Uribe Vélez"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/a-juicio-alvaro-uribe-por-coparticipacion-criminal/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/04/a-juicio-alvaro-uribe-por-coparticipacion-criminal/hero.jpg
 ---
 
-![A juicio Álvaro Uribe por coparticipación criminal.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/a-juicio-alvaro-uribe-por-coparticipacion-criminal/Uribe_.jpeg)
+![A juicio Álvaro Uribe por coparticipación criminal.](s3://bundled-saddlebag-tnqki7w/2024/04/a-juicio-alvaro-uribe-por-coparticipacion-criminal/Uribe_.jpeg)
 *A juicio Álvaro Uribe por coparticipación en 5 delitos.*
 
 **A juicio Álvaro Uribe** **Vélez**, expresidente, exsenador, exgobernador y exalcalde y máximo jefe de la extrema derecha colombiana. Al parecer, más de 40 años en el crimen, delinquiendo y evadiendo la justicia desde cuando (1982) el gobernador de Antioquia, **Álvaro Villegas Moreno**, lo nombró alcalde de Medellín por su relación con el naciente **cartel del narcotráfico**. Ninguna autoridad judicial se atrevió a llegar tan lejos como hoy, **Día Nacional de la Memoria y Solidaridad con las Víctimas**, lo hizo el fiscal delegado ante la Corte Suprema de Justicia, **Iván Villarreal Pava**.
@@ -21,7 +21,7 @@ Según registros, Uribe fue acomodándose con el pasar de los años a las más a
 
 ## Cuando Uribe fue alcalde
 
-![Cuando Álvaro Uribe renunció a la alcaldía de Medellín.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/a-juicio-alvaro-uribe-por-coparticipacion-criminal/Urive_alcalde_renuncia-1024x768.jpeg)
+![Cuando Álvaro Uribe renunció a la alcaldía de Medellín.](s3://bundled-saddlebag-tnqki7w/2024/04/a-juicio-alvaro-uribe-por-coparticipacion-criminal/Urive_alcalde_renuncia-1024x768.jpeg)
 
 Remember, cuando Uribe fue alcalde de Medellín, su padre **Alberto Uribe** pertenecía al cerrado círculo de caballistas que devinieron en grandes narcotraficantes. Esa vez tan solo duró en el cargo tres meses por sus presuntos nexos con **Pablo Escobar** y del viejo **Fabio Ochoa Restrepo**, padre de los hermanos Ochoa Vásquez, líderes del otrora **Cartel de Medellín**.
 
@@ -35,7 +35,7 @@ Frente a esa comprometedora pregunta, el gobernador solo le quedó encubrir al f
 
 ## **A juicio Álvaro Uribe**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/04/a-juicio-alvaro-uribe-por-coparticipacion-criminal/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/04/a-juicio-alvaro-uribe-por-coparticipacion-criminal/hero.jpg)
 
 El llamado a juicio a Álvaro Uribe Vélez por su coparticipación criminal en cinco delitos donde actuó como determinador, la Fiscalía estima que el imputado conocía los hechos y fue consciente de cada uno de sus actos  
 y consecuencias. De la misma manera, encaminó su objetivo delictual trazado con **dolo directo**, en beneficio propio o de terceros, y en **menoscabo de la eficaz y recta impartición de justicia y de derechos o intereses superiores de sus víctimas**.

@@ -5,10 +5,10 @@ pubDate: "2024-01-28 17:32:01"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/transparentizacion-del-icbf-y-muerte-de-sofia/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/01/transparentizacion-del-icbf-y-muerte-de-sofia/hero.jpg
 ---
 
-![El proceso de transparentización del ICBF es clave para crear una generación de paz./Presidencia.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/transparentizacion-del-icbf-y-muerte-de-sofia/Petro_astrid.jpeg)
+![El proceso de transparentización del ICBF es clave para crear una generación de paz./Presidencia.](s3://bundled-saddlebag-tnqki7w/2024/01/transparentizacion-del-icbf-y-muerte-de-sofia/Petro_astrid.jpeg)
 *El proceso de transparentización del ICBF es clave para crear una generación de paz./Presidencia.*
 
 La muerte de Sofía ―3 años― el pasado 22 de enero del 2024 es una verdadera tragedia nacional que podría generar una reflexión del gobierno central para la acción. ¿Exageración? La muerte de un solo niño por negligencia en la protección de sus derechos, expresa el fracaso del sistema. Por ende, la sociedad debe apoyar el **proceso de transparentización del ICBF regional de Bolívar** emanado de la directora general, **Astrid Eliana Cáceres Cárdenas**. El objetivo final es formar una **Generación para la Paz**, como lo expresa el discurso del presidente de la República **Gustavo Petro**.
@@ -19,7 +19,7 @@ Este es el interrogante que presidencia y el ICBF pueden y deben plantearse para
 
 ## Falla de Fiscalía y poca efectividad del ICBF
 
-![El fiscal general y su vicefiscal visitaron recientemente Barranquilla y Cartagena anunciando la lucha frontal contra el crimen. Ya para qué, sus días están terminados como fiscal. Pronto se elegirá a la nueva fiscal de Colombia./Fiscalía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/transparentizacion-del-icbf-y-muerte-de-sofia/hero.jpg)
+![El fiscal general y su vicefiscal visitaron recientemente Barranquilla y Cartagena anunciando la lucha frontal contra el crimen. Ya para qué, sus días están terminados como fiscal. Pronto se elegirá a la nueva fiscal de Colombia./Fiscalía.](s3://bundled-saddlebag-tnqki7w/2024/01/transparentizacion-del-icbf-y-muerte-de-sofia/hero.jpg)
 *El fiscal general y su vicefiscal visitaron recientemente Barranquilla y Cartagena anunciando la lucha frontal contra el crimen. Ya para qué, sus días están terminados como fiscal. Pronto se elegirá a la nueva fiscal de Colombia./Fiscalía.*
 
 De hecho, la muerte de Sofía no solo fue una falla de la Fiscalía sino también la falta de **seguimiento, compromiso y efectividad del equipo psicosocial** del zonal Histórico y de la Virgen del ICBF. Significa que el sistema no funcionó y, probablemente, no está funcionando en toda la región. Y esto es una verdadera tragedia, como se dijo.
@@ -51,7 +51,7 @@ Un caso clásico que denunciamos en su momento (2016) fue el robo descarado que 
 
 ## Apoyo a nueva directora del ICBF
 
-![El proceso de transparentización de la regional Bolívar del ICBF de la directora nacional se lo encomendó a la exmagistrada del Consejo Superior de la Judicatura, María Mercedes López López Mora./ICBF.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/transparentizacion-del-icbf-y-muerte-de-sofia/Maria-mercedes-Lopez_Icbf.jpeg)
+![El proceso de transparentización de la regional Bolívar del ICBF de la directora nacional se lo encomendó a la exmagistrada del Consejo Superior de la Judicatura, María Mercedes López López Mora./ICBF.](s3://bundled-saddlebag-tnqki7w/2024/01/transparentizacion-del-icbf-y-muerte-de-sofia/Maria-mercedes-Lopez_Icbf.jpeg)
 *El proceso de transparentización de la regional Bolívar del ICBF de la directora nacional se lo encomendó a la exmagistrada del Consejo Superior de la Judicatura, María Mercedes López López Mora./ICBF.*
 
 Por tanto, se necesita que la nueva directora regional encargada por Astrid Cárdenas, la exmagistrada del Consejo Superior de la Judicatura **María Mercedes López,** lleve su misión de **transparentización del ICBF Bolívar** hasta el fondo. Su capacidad y compromiso por la justicia prometen que cumplirá esa misión. Nadie en el Bienestar debe ser inamovible en sus cargos. Ni siquiera se justificaría la talanquera de los sindicatos. Para esto, no solo se necesita el apoyo de la directora general Astrid Cáceres Cárdenas ―que lo tiene― sino también de padres de familia y sociedad en general.

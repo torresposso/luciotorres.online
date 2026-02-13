@@ -5,7 +5,7 @@ pubDate: "2021-03-16 22:36:44"
 author: "Lucio"
 categories: ["Análisis","Cartagena"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/dau-odia-a-las-mujeres-la-declaratoria-de-persona-no-grata-refleja-ese-odio/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/03/dau-odia-a-las-mujeres-la-declaratoria-de-persona-no-grata-refleja-ese-odio/hero.jpg
 ---
 
 (imagen no disponible)

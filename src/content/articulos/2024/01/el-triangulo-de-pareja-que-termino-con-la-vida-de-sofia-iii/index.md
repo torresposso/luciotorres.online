@@ -5,10 +5,10 @@ pubDate: "2024-01-30 23:07:50"
 author: "Lucio"
 categories: ["Análisis","Destacadas","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/el-triangulo-de-pareja-que-termino-con-la-vida-de-sofia-iii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/01/el-triangulo-de-pareja-que-termino-con-la-vida-de-sofia-iii/hero.jpg
 ---
 
-![Sofía y su madre cuando el ICBF se la devolvió el 22 de noviembre de 2023. Dos meses después murió.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/el-triangulo-de-pareja-que-termino-con-la-vida-de-sofia-iii/hero.jpg)
+![Sofía y su madre cuando el ICBF se la devolvió el 22 de noviembre de 2023. Dos meses después murió.](s3://bundled-saddlebag-tnqki7w/2024/01/el-triangulo-de-pareja-que-termino-con-la-vida-de-sofia-iii/hero.jpg)
 *Sofía y su madre cuando el ICBF se la devolvió el 22 de noviembre de 2023. Dos meses después murió. /Suministrada.*
 
 ¿El triángulo de pareja que terminó con la vida de Sofía? Enyury Flórez tiene la clave para resolver este enigma: sus dos maridos. Es una joven maracucha de 23 años, madre de la niña que murió en el hospital infantil _Napoleón Franco Pareja_ el pasado 21 de enero de 2024. Tenía dos maridos. Uno en Maracaibo (**Ender Villamil**) y otro en Cartagena (**Kendry Leal**). Con el primero tuvo un hijo de cinco años y el segundo era padre de Sofía.
@@ -33,7 +33,7 @@ El caso lo tomó el ICBF, desde que la unidad de trabajo social del hospital lo 
 
 ## El triángulo de pareja
 
-![El triángulo de pareja que rodea la muerte de la niña Sofía](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/el-triangulo-de-pareja-que-termino-con-la-vida-de-sofia-iii/Enyury_portada-1024x839.jpg)
+![El triángulo de pareja que rodea la muerte de la niña Sofía](s3://bundled-saddlebag-tnqki7w/2024/01/el-triangulo-de-pareja-que-termino-con-la-vida-de-sofia-iii/Enyury_portada-1024x839.jpg)
 *El triángulo de pareja que rodea la muerte de la niña Sofía.*
 
 El caso no es fácil de entender. La clave para esclarecer la muerte de Sofía y de su maltrato, se origina en el papel de su madre Enyury y de su padrastro. El triángulo de pareja hizo que ella se debatiera entre dos maridos. Uno maltratador y otro comprensivo y proveedor. ¿Quién de ellos pudo ser el victimario de violencia intrafamiliar? ¿Cuál fue el papel de la madre? No lo sabemos. Pero son las preguntas necesarias para resolver el enigma de la muerte de Sofía.
@@ -44,7 +44,7 @@ De manera que, al darse cuenta de esas fracturas y quemaduras viejas, indicios d
 
 ## La negligencia de la Fiscalía
 
-![Ibeth Hernández Sampayo, directora seccional de Fiscalía. /Cortesía Fiscalía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/01/el-triangulo-de-pareja-que-termino-con-la-vida-de-sofia-iii/Ibeth-Hernandez.jpg)
+![Ibeth Hernández Sampayo, directora seccional de Fiscalía. /Cortesía Fiscalía.](s3://bundled-saddlebag-tnqki7w/2024/01/el-triangulo-de-pareja-que-termino-con-la-vida-de-sofia-iii/Ibeth-Hernandez.jpg)
 *Ibeth Hernández Sampayo, directora seccional de Fiscalía está en deuda con los niños. /Cortesía Fiscalía.*
 
 Lo primero que se debe resaltar es la deuda de la Fiscalía para con los derechos de los niños. Una cosa es lo que dice la Constitución y la ley y otra lo que hacen los encargados de hacerla cumplir. La ley le dice que tiene 120 días para resolver la investigación preparatoria en casos ordinarios. Cuando se trata de derechos de los niños, existe prioridad. Pasaron realmente 240 días desde que el ICBF denunció el caso. Solo actuó cuando Sofía murió.

@@ -5,10 +5,10 @@ pubDate: "2021-09-27 10:55:33"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/hero.jpg)
 *Karen y Adriana son «uña y mugre» desde la Barranquilla de Alex Char. Ahora se declararán víctimas ante la Fiscalía./MinTic.*
 
 Los que «abudinearon» el contrato **No 1043 de diciembre de 2020** por valor de **$1.07 billones de MinTic** —hasta ahora— permanecen a salvos. Están ocultos. Todo hace indicar que los primeros que han caído o han dado la cara solo son testaferros o piezas usadas en el entramado del denominado **Cartel del Suero**. **Emilio Tapia Aldana, Luis Fernando Duque** (representante legal Centros Poblados, y **Juan José Laverde** (representante de Rave Seguros)  no son todos los que son. Ellos recibieron la medida de aseguramiento intramural por parte del **Juez 53 de garantías.**
@@ -25,7 +25,7 @@ Por otra parte, debemos decir que la prensa y los organismos de control se han e
 
 ## ¿Quién es el dueño del contrato de $1.07 MinTic?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/mauricio-Gomez1.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/mauricio-Gomez1.jpg)
 *El senador Mauricio Gómez Amín deberá responder sobre su apoyo político a Iván Mantilla. Aquí aparece junto con el exgobernador del Atlántico, Eduardo Verano de la Rosa y el expresidente César Gaviria./Instagram.*
 
 En la primera entrega de este seriado, dijimos que **Karen Abudinen Abuchaibe e Iván Mantilla Gaviria** —los autores materiales del contrato **No 1043/20** podrían estar conectados con el  **Cartel del Suero**. ¿En dónde reside el punto de entronque? Barranquilla. Si vinculan al equipo de confianza de Karen Abudinen, como en efecto fueron vinculadas, podrían encontrarse **algunos detalles sorprendentes**. Ello indicaría que el contrato estaba **teledirigido a los contratistas** corruptos que ahora están tras reja.
@@ -38,7 +38,7 @@ Se ha conocido que el senador **Armando Benedetti** fue uno de los cinco senador
 
 ## El equipo de confianza de Karen Abudinen
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/adriana-meza-C2.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/adriana-meza-C2.jpg)
 *Adriana Vanessa Meza Consuegra, la mujer de confianza de la exministra Karen Abudinen Abuchaibe. Ella dejó pasar la falsa póliza de seriedad de la propuesta de Centros Poblados, probablemente para justificar que fueron engañadas.*
 
 Como se sabe, cada torero trae su propia cuadrilla. Así lo hizo Abudinen Abuchaibe. Se llevó a **Adriana Vanessa Meza Consuegra**, quien ya era asesora de Mintic grado 18. Era como una especie de avanzada de Karen. El 1 de junio de 2020 tomó posesión como Secretaria General del ministerio. Dentro de su currículum, podemos señalar, además: asesora de Presidencia de la República, asesora de Abudinen en el Instituto Colombiano de Bienestar Familiar (ICBF) y en la **Alcaldía de Barranquill**a. Ellas dos trabajan en _**llavería**_ (en acuerdo) desde la época de Barranquilla. Adriana Meza la acompañó cuando fue directora de Primera Infancia del ICBF. Aquí implantaron este mismo modelo de contratación para adjudicar directa y anualmente $16 billones. O sea, como decimos en la costa Caribe, **ellas dos son «uña y mugre» de viejas andanzas.**
@@ -51,7 +51,7 @@ Es decir, que el equipo de confianza de Karen tiene detrás tres procesos: fisca
 
 ## ¿Y Mantilla?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/IVAN-MANTILLA.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/09/los-que-abudinearon-el-contrato-de-mintic-permanecen-ocultos-iii/IVAN-MANTILLA.jpg)
 
 **Iván Mantilla Gaviria**, exdirector de Conectividad y Digitalización, está callado. Se fue para Miami, dicen algunas fuentes. En febrero renunció y no se supo más de él. Pero debe guardar muchos secretos de los dos contratos, el de Centros Poblados y el que le adjudicaron a Claro. Todavía no lo han llamado.
 

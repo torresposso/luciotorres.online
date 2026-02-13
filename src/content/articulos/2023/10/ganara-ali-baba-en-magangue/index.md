@@ -5,10 +5,10 @@ pubDate: "2023-10-28 21:57:04"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/ganara-ali-baba-en-magangue/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/10/ganara-ali-baba-en-magangue/hero.jpg
 ---
 
-![Magangué ¿Ganará «Alí Babá y sus 40 ladrones»? Franco, Alí, Bedoya.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/ganara-ali-baba-en-magangue/hero.jpg)
+![Magangué ¿Ganará «Alí Babá y sus 40 ladrones»? Franco, Alí, Bedoya.](s3://bundled-saddlebag-tnqki7w/2023/10/ganara-ali-baba-en-magangue/hero.jpg)
 *Magangué ¿Ganará «Alí Babá y sus 40 ladrones»? Franco, Alí, Bedoya. Joe Plata está de cuarto, según los sondeos.*
 
 ¿Ganará **«Alí Babá»**? El próximo alcalde de Magangué podría ser **Pedro Manuel Alí Alí**, popularmente conocido como **«Pedrito Alimaña»** o **«Alí Babá»**. Un hombre —presuntamente_—_ de político arruinado a un próspero empresario, como en la fábula de _Las mil y una noches_. Antes de ser alcalde por primera vez (2016), estaba endeudado y mondado como la pepa de una guama o la brillantez de su cabeza.
@@ -35,7 +35,7 @@ En esta entrevista, Eduin Franco jura ante la biblia sacar adelante a Magangué.
 
 ## ¿Por qué derrotar a **«Pedrito Alimaña»**?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/10/ganara-ali-baba-en-magangue/Pedro-Ali_elu.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/10/ganara-ali-baba-en-magangue/Pedro-Ali_elu.jpg)
 *Pedro Alí Alí cuando fue director del Iderbol. Cortesía El Universal.*
 
 Lo primero es plantearse por qué derrotarlo. **«Pedrito Alimaña»**, si bien no es el causante de la debacle de Magangué, la hundió más en el fango de la ciénaga de Versalles. **Endeudarob a Magangué con más de $65 mil millones** para financiar obras inconclusas. Gran parte de ese dinero terminó en el bolsillo privado. Y VoxPopuli Digital lo puede demostrar con pruebas irrefutables.

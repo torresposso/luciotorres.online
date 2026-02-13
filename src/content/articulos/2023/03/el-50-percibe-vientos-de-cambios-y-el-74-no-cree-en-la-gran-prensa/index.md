@@ -5,10 +5,10 @@ pubDate: "2023-03-01 19:56:20"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/hero.jpg
 ---
 
-![La mitad de los colombianos sigue esperando en el cambio propuesto por Gustavo Petro cuando fue elegido presidente en junio de 2022.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/hero.jpg)
+![La mitad de los colombianos sigue esperando en el cambio propuesto por Gustavo Petro cuando fue elegido presidente en junio de 2022.](s3://bundled-saddlebag-tnqki7w/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/hero.jpg)
 *La mitad de los colombianos percibe los vientos de cambio en la propuesto por Gustavo Petro cuando fue elegido presidente en junio de 2022.*
 
 El 50% percibe vientos de cambio y el **74% no cree en la Gran Prensa**, según la medición de opinión del [Centro Estratégico Latinoamericano de Geopolítica-CELAG](http://el%2050%25%20percibe%20vientos%20de%20cambios%20con%20petro/). En medio de la polémica por la salida de tres de sus ministros (Educación, Cultura y Deportes) que habían recibido la mayor aceptación de su gabinete, hoy la CELAG dió a conocer la encuesta sobre los **primeros 6 meses de gestión del Presidente Gustavo Petro**. Al tiempo que el **50,3%** percibe vientos de cambio y el 49% tiene una imagen positiva, el 69% está de acuerdo con la reformas de la salud priorizando la atención primaria.
@@ -27,20 +27,20 @@ Como es evidente, los resultados de esta encuesta se diferencia de las realizada
 
 ## Vientos de cambio y la Gran Prensa
 
-![La imagen positiva es casi coincidente con la esperanza de cambio de los colombianos, según la encuesta.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/Celag-_vientos.jpg)
+![La imagen positiva es casi coincidente con la esperanza de cambio de los colombianos, según la encuesta.](s3://bundled-saddlebag-tnqki7w/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/Celag-_vientos.jpg)
 *La imagen positiva es casi coincidente con los vientos de cambio de cambio, según la encuesta.*
 
 La medición indica que hay vientos de cambio. Se puede observar que la mitad (50,3%) de los colombianos tienen una percepción de cambio en el gobierno. Esta percepción es casi que equivalente al resultado electoral de la segunda vuelta cuando fue elegido Gustavo Petro en junio de 2022. Esto quiere decir que todavía el electorado mantiene la percepción positiva al cambio propuesto en su campaña electoral.
 
 ## Indiferencia e incertidumbre
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/Celag_situacion.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/Celag_situacion.jpg)
 
 Pese a la percepción de esos vientos de cambio y a la imagen positiva del 50%, observamos una percepción de indiferencia e incertidumbre en una gran franja de la población. Es así que el 38,2% experimenta indiferencia e incertidumbre frente al gobierno de Gustavo Petro. Mientras que el 35,9 siente esperanza y confianza. El 25% reacciona con decepción y enojo lo que está haciendo el nuevo presidente después de seis meses de gobierno.
 
 ## No creen en la Gran Prensa
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/celag-medios-de-comunicacion-febrero2023.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/03/el-50-percibe-vientos-de-cambios-y-el-74-no-cree-en-la-gran-prensa/celag-medios-de-comunicacion-febrero2023.jpg)
 
 **Lo sorprendente de esta medición es que el 74% no cree en la Gran Prensa** encargada de construir la matriz de opinión de los gobernantes. La encuesta llama la atención en la percepción que se tiene de los medios de comunicación en estos primeros seis meses del nuevo gobierno. Los diseñadores de esta medición no hicieron preguntas, sino que presentaron un par de enunciados.
 

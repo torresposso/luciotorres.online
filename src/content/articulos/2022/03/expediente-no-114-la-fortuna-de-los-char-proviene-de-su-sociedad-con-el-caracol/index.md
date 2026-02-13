@@ -5,10 +5,10 @@ pubDate: "2022-03-04 01:13:17"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/expediente-no-114-la-fortuna-de-los-char-proviene-de-su-sociedad-con-el-caracol/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/03/expediente-no-114-la-fortuna-de-los-char-proviene-de-su-sociedad-con-el-caracol/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/expediente-no-114-la-fortuna-de-los-char-proviene-de-su-sociedad-con-el-caracol/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/expediente-no-114-la-fortuna-de-los-char-proviene-de-su-sociedad-con-el-caracol/hero.jpg)
 *Captura de pantalla del video de El Heraldo. Expediente No 114, debe responder su padre, Fuad y su tío Habib.*
 
 El expediente No 114  del Cuerpo Técnico de Inteligencia—CTI relaciona a alias «el Caracol» —**_capo dei Capi_** del Cartel de la Costa— con la familia **Char** desde finales de los 80 hasta cuando fue capturado (1998) y extraditado a Estados Unidos (2000). **Alberto Orlandez Gamboa**, su nombre de pilas, sin duda, es el **eslabón perdido** que conecta el patrimonio de la familia Char con la economía del narcotráfico. 
@@ -25,7 +25,7 @@ Análisis del expediente No 114. El eslabón perdido,
 
 ## Expediente No 114, la prueba
 
-![Primera página del informe del expediente No 114. El eslabón perdido,](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/expediente-no-114-la-fortuna-de-los-char-proviene-de-su-sociedad-con-el-caracol/expediente-114.jpg)
+![Primera página del informe del expediente No 114. El eslabón perdido,](s3://bundled-saddlebag-tnqki7w/2022/03/expediente-no-114-la-fortuna-de-los-char-proviene-de-su-sociedad-con-el-caracol/expediente-114.jpg)
 *Primera página del informe del expediente No 114. El eslabón perdido,*
 
 No obstante, el expediente **No 114** fue fundamental para apresar a «el Caracol» y a 22 miembros de su organización. Extrañamente ninguno de los Char fue tocado. Ni siquiera mencionado por los que ostentaban el poder del momento. Solo en el bajo mundo se hablaba de ese hecho. Ninguna de las autoridades (Fiscalía, jueces y Corte Suprema de Justicia) le dieron importancia. **Quedó refundido en las calendas griegas, muy a pesar de que compulsaron copias a esas entidades**. 

@@ -5,10 +5,10 @@ pubDate: "2024-06-23 06:06:46"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Alcaldía de Cartagena","Gustavo Petro"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/resignificar-la-nueva-plaza-de-toros-el-desafio-de-dumek/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/06/resignificar-la-nueva-plaza-de-toros-el-desafio-de-dumek/hero.jpg
 ---
 
-![La majestuosa Nueva Plaza de Toros ya no será para que la élite deleite sus bajos instintos violentos. Hablaremos con el alcalde Dumek para que la convierta en una Plaza de la Paz. Y le diremos cómo./VoxPopuli Digital.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/resignificar-la-nueva-plaza-de-toros-el-desafio-de-dumek/hero.jpg)
+![La majestuosa Nueva Plaza de Toros ya no será para que la élite deleite sus bajos instintos violentos. Hablaremos con el alcalde Dumek para que la convierta en una Plaza de la Paz. Y le diremos cómo./VoxPopuli Digital.](s3://bundled-saddlebag-tnqki7w/2024/06/resignificar-la-nueva-plaza-de-toros-el-desafio-de-dumek/hero.jpg)
 *La majestuosa Nueva Plaza de Toros ya no será para que la élite deleite sus bajos instintos violentos que el ser humano tiene. Hablaremos con el alcalde Dumek para que la convierta en una Plaza de la Paz. Y le diremos cómo./VoxPopuli Digital.*
 
 A las 5 de la tarde del 21 de junio de 2024, escuché gritos de alegría cuando la vieja Plaza de Toros moría. Y no era la Santamaría de Bogotá que en la alcaldía de Petro le dieron una cornada mortal. Era la de Cartagena, que ahora se alzaba de las ruinas. En la **Nueva Plaza de Toros**, la arena se tiñó de rojo. Allí estuve. Ven y te cuento esa historia.
@@ -19,7 +19,7 @@ El arraigo cultural de las fiestas de toros no se puede sacar por decreto. Se ac
 
 ## La arena de rojo
 
-![Cuando José Ortega Cano le agradecía a Gustavo García, el cirujano  cartagenero que le salvó la vida ese 6 de enero de 1995. Plaza de Toros/Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/resignificar-la-nueva-plaza-de-toros-el-desafio-de-dumek/Ortega_cano_cartagena.jpeg)
+![Cuando José Ortega Cano le agradecía a Gustavo García, el cirujano  cartagenero que le salvó la vida ese 6 de enero de 1995. Plaza de Toros/Cortesía.](s3://bundled-saddlebag-tnqki7w/2024/06/resignificar-la-nueva-plaza-de-toros-el-desafio-de-dumek/Ortega_cano_cartagena.jpeg)
 *Cuando José Ortega Cano le agradecía a Gustavo García, el cirujano cartagenero que le salvó la vida ese 6 de enero de 1995./Cortesía.*
 
 Ese rojo carmesí que esa tarde ví, no fue la sangre del torero sevillano **José Ortega Cano** que derramó el 6 de enero de 1995 en aquella faena de la arena de Cartagena. Esa mala tarde para el español ―que toreaba (¡vaya finura!) con **mucha hondura**, como cantaba **Rocío Jurado**, su compañera de amor, en el famoso pasodoble― recibió una cornada de 15 centímetros del cacho derecho de «_Buenmocito_». Un ejemplar de Mondoñedo, colorado y cornicorto, según el periodista especializado **Guillermo Rodríguez**. El cuerno se incrustó en el costillar derecho del matador dejándolo moribundo.
@@ -28,7 +28,7 @@ Esa fue una herida que obligó al obispo auxiliar de Cartagena darle la extremau
 
 ## Lo destacable y flojo de la tarde
 
-![El obispo auxiliar de Cartagena, Mons. Sebastián Chico Martínez dio la oración de la paz en la Plaza de Toros./Cortesía Arquidiócesis de Cartagena.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/resignificar-la-nueva-plaza-de-toros-el-desafio-de-dumek/Sebastian-Chico-Martinez-1024x1005.jpg)
+![El obispo auxiliar de Cartagena, Mons. Sebastián Chico Martínez dio la oración de la paz en la Plaza de Toros./Cortesía Arquidiócesis de Cartagena.](s3://bundled-saddlebag-tnqki7w/2024/06/resignificar-la-nueva-plaza-de-toros-el-desafio-de-dumek/Sebastian-Chico-Martinez-1024x1005.jpg)
 *El obispo auxiliar de Cartagena, Mons. Sebastián Chico Martínez dio la oración de la paz en la Plaza de Toros./Cortesía Arquidiócesis de Cartagena.*
 
 Además del rojo de la libertad, como periodista de análisis debo destacar la oración pronunciada por el obispo auxiliar de Cartagena, **Mons. Sebastián Chico Martínez**. Fue una loa a la paz. Creo que muy pocos de los presentes la escucharon con atención.

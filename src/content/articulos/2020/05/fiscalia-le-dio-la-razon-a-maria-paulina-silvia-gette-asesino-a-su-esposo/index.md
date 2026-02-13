@@ -5,10 +5,10 @@ pubDate: "2020-05-24 23:02:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/05/fiscalia-le-dio-la-razon-a-maria-paulina-silvia-gette-asesino-a-su-esposo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2020/05/fiscalia-le-dio-la-razon-a-maria-paulina-silvia-gette-asesino-a-su-esposo/hero.jpg
 ---
 
-\[caption id="attachment\_11780" align="aligncenter" width="2560"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/05/fiscalia-le-dio-la-razon-a-maria-paulina-silvia-gette-asesino-a-su-esposo/hero.jpg) Silvia Gette y aquellos viejos tiempos de la rectoría imperial. Cortesía.\[/caption\] Para la Fiscalía General de la Nación, la exrectora de la Universidad Autónoma del Caribe, **Silvia Gette de Ceballos,** se unió a los paramilitares para cometer varios crímenes. Entre ellos, el asesinato del esposo de su **hijastra María Paulina Ceballos**, el arquitecto y ganadero **Fernando César Cepeda Vargas.** Los hechos sucedieron en Barranquilla el 22 de agosto de 2003. El crimen quedó esclarecido, según la Fiscalía. También el hecho de que María Paulina Ceballos, hija de **Mario Ceballos,** el otrora rector y fundador de la Universidad Autónoma del Caribe, fue víctima del complot organizado por su madrastra. Toda una trama del crimen por el poder.
+\[caption id="attachment\_11780" align="aligncenter" width="2560"\]![](s3://bundled-saddlebag-tnqki7w/2020/05/fiscalia-le-dio-la-razon-a-maria-paulina-silvia-gette-asesino-a-su-esposo/hero.jpg) Silvia Gette y aquellos viejos tiempos de la rectoría imperial. Cortesía.\[/caption\] Para la Fiscalía General de la Nación, la exrectora de la Universidad Autónoma del Caribe, **Silvia Gette de Ceballos,** se unió a los paramilitares para cometer varios crímenes. Entre ellos, el asesinato del esposo de su **hijastra María Paulina Ceballos**, el arquitecto y ganadero **Fernando César Cepeda Vargas.** Los hechos sucedieron en Barranquilla el 22 de agosto de 2003. El crimen quedó esclarecido, según la Fiscalía. También el hecho de que María Paulina Ceballos, hija de **Mario Ceballos,** el otrora rector y fundador de la Universidad Autónoma del Caribe, fue víctima del complot organizado por su madrastra. Toda una trama del crimen por el poder.
 
 ## Silvia Gette acusada de homicidio agravado
 

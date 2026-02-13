@@ -5,17 +5,17 @@ pubDate: "2024-09-11 03:24:09"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/hero.jpg
 ---
 
-![Las clave del jazz del gobernador Yamil Arana Padauí. Aquí celebrando la victoria de Colombia frente a Argentina](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/hero.jpg)
+![Las clave del jazz del gobernador Yamil Arana Padauí. Aquí celebrando la victoria de Colombia frente a Argentina](s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/hero.jpg)
 *Las clave del jazz del gobernador Yamil Arana Padauí. Aquí celebrando la victoria de Colombia frente a Argentina.*
 
 ¡Suenan las clave del jazz! Esta semana de septiembre es de ambiente en _La Valerosa_ y depresión momposina, cuya nota la pone el **Festijazz 2024**, como la puso hace 100 años la **Jazz Band Lorduy** de Cartagena. Esta banda animó salones no solo de La Heroica sino de ciudades portuarias del Caribe con aires musicales procedentes de Nueva Orleans.
 
 Hoy, el gobernador de Bolívar, **Yamil Arana** **Padauí**, nos pone a gozar **en clave del jazz** hasta el 14 de septiembre. Su gran apuesta es transformar la subregión de la depresión momposina en punto fundamental de la **Nueva Ruta del Turismo Cultural**.
 
-![De Gossaín a Yamil para hallar las clave del Festijazz](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/Festijazz_portada_yamil.jpeg)
+![De Gossaín a Yamil para hallar las clave del Festijazz](s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/Festijazz_portada_yamil.jpeg)
 *De Gossaín a Yamil para hallar las clave del Festijazz.*
 
 Es una línea del **turismo cultural** marcada por el gobernador del 2012, **Juan Carlos Gossaín**. Precisamente, su inspiración fue en una noche momposina frente a la calle de la albarrada. Así se lo confesó a **VoxPopuli Digital**, 12 años más tarde:
@@ -34,7 +34,7 @@ La apuesta cultural de Yamilito es convertir la subregión de la depresión momp
 
 ## Las clave del jazz: Beéle y su d_ancehall_
 
-![El barranquillero Beéle revienta las redes sociales. Ahora estará en clave del jazz de Mompox.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/Beele.jpeg)
+![El barranquillero Beéle revienta las redes sociales. Ahora estará en clave del jazz de Mompox.](s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/Beele.jpeg)
 *El barranquillero Beéle revienta las redes sociales. Ahora estará en clave del jazz de Mompox. Cortesía.*
 
 Si hoy comenzó con un día macondiano, se espera que el cierre sea apoteósico. En la agenda están artistas como el barranquillero **Beéle** (21 años) que tiene varios temas pegados como _Morena_. Pero, fue _Loco_ la canción que lo internacionalizó en el 2019.
@@ -45,7 +45,7 @@ Hoy, jóvenes amantes del _dancehall_ son sus principales seguidores. Son temas 
 
 ## Carlos Vives, invitado estelar
 
-![Carlos Vives en clave del jazz de Mompox.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/Carlos_vives-1024x530.jpeg)
+![Carlos Vives en clave del jazz de Mompox.](s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/Carlos_vives-1024x530.jpeg)
 *Carlos Vives en clave del jazz de Mompox.*
 
 Pero, Yamilito quiere batear de jonrón con bases llena. Tiene debajo de la manga a su invitado especial. Se trata del renombrado y laureado artista samario **Carlos Vives** . Este sobresaliente impulsor de la música colombiana, viene con todo su repertorio musical para ponerle el sello macondiano a esta versión de Festijazz 2024.
@@ -54,7 +54,7 @@ Carlos Vives, seguramente, impactará tanto que ―con la dispensa de los demás
 
 Son 220 artistas locales, nacionales e internacionales que intervendrán en el **10° Festijazz Mompox 2024**. La base de los artistas es la **Universidad Bellas Artes**. En este centro de educación superior está una cantera de gestores musicales llamados a imprimir una nueva visión de la dinámica cultural.
 
-![La Fundación Gabo una de las organizaciones que colaboran en esta versión.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/Festijazz_Trompeta_2024-1024x648.jpeg)
+![La Fundación Gabo una de las organizaciones que colaboran en esta versión.](s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/Festijazz_Trompeta_2024-1024x648.jpeg)
 *La Fundación Gabo una de las organizaciones que colaboran en esta versión.*
 
 Siguiendo la historia, el **10° Festijazz Mompox 2024**, se apoya básicamente en la Universidad Bellas Artes―Unibac. Esto es valioso, porque nos lleva no solo a la actualización de los ritmos, sino a un rejuvenecimiento del evento para atraer a las nuevas generaciones jazzísticas del mundo.
@@ -65,7 +65,7 @@ Por esa razón, se destacan estas agrupaciones: _Unibac Jazz and Jam_, _Unibac B
 
 ## 2012: la historia
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/Juan-carlos-Gossain.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/09/las-clave-del-jazz-en-mompox-con-el-mundo-i/Juan-carlos-Gossain.jpg)
 *Juan Carlos Gossaín disfrutando de su retiro sabático de la política.*
 
 Se recuerda que, el gobernador de ese entonces, **Juan Carlos Gossaín Rognini**, el 5 de octubre de 2012, lanzó para el mundo la primera versión de este evento con el fin de estimular el **turismo cultural**. La presentación oficial fue el 6 de septiembre, en el Centro de Eventos y Convenciones Gonzalo Jiménez de Quesada de Bogotá. En esa ocasión tuvimos la oportunidad de cubrir su lanzamiento.

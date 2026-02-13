@@ -5,10 +5,10 @@ pubDate: "2022-01-13 00:28:51"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/periodismo-inesperado-ver-la-actualidad-para-mirar-la-realidad/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/01/periodismo-inesperado-ver-la-actualidad-para-mirar-la-realidad/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/periodismo-inesperado-ver-la-actualidad-para-mirar-la-realidad/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/01/periodismo-inesperado-ver-la-actualidad-para-mirar-la-realidad/hero.jpg)
 
 ¿Periodismo inesperado? Todo lo que sucede ya es pasado. Hay que ver la realidad con los ojos de un niño de tres años para sorprendernos. Pero verla con el nivel de interpretación de la abuela para conectar con la realidad y no quedarse en la fantasía. Cuando regresé a caminar por las calles de Barranquilla, después de 21 años, descubrí la posibilidad de un nuevo género periodístico. **El periodismo inesperado** es ver la actualidad con otros ojos para mirar la realidad. 
 
@@ -18,7 +18,7 @@ Una palabra —que ya casi está en desuso— **aguaitar**, resume esta nueva fi
 
 ## Periodismo inesperado y los sucesos
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/periodismo-inesperado-ver-la-actualidad-para-mirar-la-realidad/placeholder.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/01/periodismo-inesperado-ver-la-actualidad-para-mirar-la-realidad/placeholder.jpg)
 *Con el periodismo inesperado capturamos la realidad*
 
 Caminando sin rumbo fijo por las calles de Barranquilla, como si fuera un turista descubriendo una ciudad, pasé por la intersección de la Calle Murillo con Cuartel (calle 45 con carrera 44), me sucedió algo inesperado. Por cerca de 30 años había pasado y no me había ocurrido nada. Caminar por allí me era indiferente. Volverla a caminar después de 21 años me sucedió algo maravilloso. ¡Zas! Se me prendió el bombillo de la mente. Venía caminando sin prisa y sin pausa. De pronto, al ver a un grupo de novatos fotógrafos disparando sus cámaras fotográficas capturando las cosas y congelando los movimientos, me puse a ver de inmediato lo que sucedía alrededor mío. Ellos estaban en la Maratón Fotográfica Mira al Centro.
@@ -27,7 +27,7 @@ Vi que estaba en la esquina de los antiguos Cinema Uno y Cinema Dos. Me acordé 
 
 ## La dictadura y democracia en el periodismo inesperado
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/periodismo-inesperado-ver-la-actualidad-para-mirar-la-realidad/placeholder.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/01/periodismo-inesperado-ver-la-actualidad-para-mirar-la-realidad/placeholder.jpg)
 *Mira al centro, mira tu interior. Fotografía lo que te rodea y crea la historia. Aquí el arquitecto Castillo guía a sus novatos mirones del centro de Barranquilla.*
 
 Los hechos suceden. Pero no desaparecen. Viven en la mente de cada cual. La muerte, el despido, el viaje, la llegada, el primer beso, la primera vez, todos esos hechos son historias. Pero la realidad no son los hechos. La realidad es del narrador de esos hechos. Y cada quien narra los hechos según su mente.

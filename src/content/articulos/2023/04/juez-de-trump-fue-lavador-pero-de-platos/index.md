@@ -5,10 +5,10 @@ pubDate: "2023-04-02 14:12:23"
 author: "Lucio"
 categories: ["Análisis","Post Conflicto"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/juez-de-trump-fue-lavador-pero-de-platos/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/04/juez-de-trump-fue-lavador-pero-de-platos/hero.jpg
 ---
 
-![Un colombiano, de lavador de platos a juez de Trump](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/juez-de-trump-fue-lavador-pero-de-platos/hero.jpg)
+![Un colombiano, de lavador de platos a juez de Trump](s3://bundled-saddlebag-tnqki7w/2023/04/juez-de-trump-fue-lavador-pero-de-platos/hero.jpg)
 *Un colombiano, de lavador de platos a juez de Trump. (Cortesía NYT).*
 
 Si fuera un juez de Colombia, la primera parte del título podría ser frecuente por tanta decisiones judiciales que solo favorecen a los poderosos que ejercen el poder en forma legal o ilegal. Nuestros jueces y fiscales se cagan de miedo por el dinero o por la intimidación. Por el contrario, un inmigrante colombiano, que pasó de lavador de platos a juez de Trump pone a **_«coger gárgaras»_** a algunos fiscales y jueces de nuestra patria. Jueces y fiscales que venden la justicia al buen postor para salir de pobres. Y todavía se preguntan por qué salen tantos delincuentes debajo de las piedras.
@@ -33,7 +33,7 @@ Hoy, Merchán es noticia mundial porque le toca procesar al expresidente Donald 
 
 ## **¿Quién es el juez de Trump?**
 
-![Juan Manuel Merchan Supreme Court, New York County, Criminal Term  100 Centre Street  New York , NY 10013  (646) 386-3934 031512. Un colombiano, de lavador de platos a juez de Trump. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/juez-de-trump-fue-lavador-pero-de-platos/juan-merchan-By-NYLJRick-Kopstein.jpg)
+![Juan Manuel Merchan Supreme Court, New York County, Criminal Term  100 Centre Street  New York , NY 10013  (646) 386-3934 031512. Un colombiano, de lavador de platos a juez de Trump. Cortesía.](s3://bundled-saddlebag-tnqki7w/2023/04/juez-de-trump-fue-lavador-pero-de-platos/juan-merchan-By-NYLJRick-Kopstein.jpg)
 *Juan Manuel Merchan Supreme Court, New York County, Criminal Term 100 Centre Street New York , NY 10013 (646) 386-3934 031512. Un colombiano, de lavador de platos a juez de Trump. Cortesía.*
 
 ¿El juez de Trump nació de las élites dominantes de Nueva York? ¡No! Vio la luz en Bogotá en 1962. A los 8 años se fue para los Estados Unidos con sus padres. Seguramente vivieron la vida de cualquier inmigrante latino y, por añadidura, colombiano. Un paisano siempre es víctima de los estigmas del narcotráfico y de la corrupción. Pero Merchán aprendió a ganarse la vida desde los 9 años de vida y enfrentarse a la adversidad.

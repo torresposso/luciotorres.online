@@ -5,10 +5,10 @@ pubDate: "2020-05-24 01:31:08"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/05/los-tres-contratos-llenos-de-maleza-que-tienen-atollado-al-tractor-dau/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2020/05/los-tres-contratos-llenos-de-maleza-que-tienen-atollado-al-tractor-dau/hero.jpg
 ---
 
-\[caption id="attachment\_11768" align="alignnone" width="787"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/05/los-tres-contratos-llenos-de-maleza-que-tienen-atollado-al-tractor-dau/hero.jpg) El presidente Duque debió intervenir ante la incompetencia del alcalde William Dau. Aquí el viceministro de Salud, **Luis Alexander Moscoso** dando las instrucciones que deben seguir en la pandemia. Cortesía prensa alcaldía.\[/caption\] Son tres contratos que la Contraloría General de la República (CGR) tiene enfocados para detener la corrupción en Cartagena por presuntas irregularidades en la contratación del Covid-19. Tres contratos que mantienen atollados de maleza a alias **«Tractor» Dau**, alcalde de Cartagena. E**s un tractor que se encuentra atollado en la maleza que pretendía arrastrar.**
+\[caption id="attachment\_11768" align="alignnone" width="787"\]![](s3://bundled-saddlebag-tnqki7w/2020/05/los-tres-contratos-llenos-de-maleza-que-tienen-atollado-al-tractor-dau/hero.jpg) El presidente Duque debió intervenir ante la incompetencia del alcalde William Dau. Aquí el viceministro de Salud, **Luis Alexander Moscoso** dando las instrucciones que deben seguir en la pandemia. Cortesía prensa alcaldía.\[/caption\] Son tres contratos que la Contraloría General de la República (CGR) tiene enfocados para detener la corrupción en Cartagena por presuntas irregularidades en la contratación del Covid-19. Tres contratos que mantienen atollados de maleza a alias **«Tractor» Dau**, alcalde de Cartagena. E**s un tractor que se encuentra atollado en la maleza que pretendía arrastrar.**
 
 ## Cartagena llena de malezas
 

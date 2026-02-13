@@ -5,10 +5,10 @@ pubDate: "2021-04-14 21:18:11"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/hero.jpg
 ---
 
-\[caption id="attachment\_14552" align="aligncenter" width="712"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/hero.jpg) **William Dau mamando gallo**, mientras la ciudad se desmorona. Se cayó página de la alcaldía.\[/caption\]
+\[caption id="attachment\_14552" align="aligncenter" width="712"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/hero.jpg) **William Dau mamando gallo**, mientras la ciudad se desmorona. Se cayó página de la alcaldía.\[/caption\]
 
 **Por ineptitud y negligencia se cayó página de la alcaldía Distrital. Amaneció sin el dominio www.cartagena.gov.co.** Se quedó fuera de servicio. Esta situación incide sobre pagos de impuestos y otras transacciones esenciales para la actividad cotidiana de la alcaldía en esta época de pandemia.
 
@@ -16,7 +16,7 @@ En otras palabras, **la alcaldía desapareció del mundo virtual.** O sea, no ex
 
 ## Se hunde la alcaldía
 
-\[caption id="attachment\_14568" align="aligncenter" width="1042"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/IMG_20210414_185733.jpg) Se cayó la página de la alcaldía e Ingrid Solano, jefe de la Oficina de Informática no sabe qué hacer.\[/caption\]
+\[caption id="attachment\_14568" align="aligncenter" width="1042"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/IMG_20210414_185733.jpg) Se cayó la página de la alcaldía e Ingrid Solano, jefe de la Oficina de Informática no sabe qué hacer.\[/caption\]
 
 Se cayó la página como se cae a pedazos toda la administración de «Salvemos a Cartagena». La Procuraduría, Fiscalía y Contraloria, calladas. Es el reflejo de lo que sucede en las diferentes dependencias de la administración. Nadie sabe para dónde va el barco. Mientras tanto, el piloto fuma compulsivamente ciego por mucho humo en el horizonte.
 
@@ -24,11 +24,11 @@ Se informó que a la jefe de la Oficina de Informática **Ingrid Solano, la Cert
 
 Ello también indica que la administración de **William Dau Chamat** usa las redes sociales de la alcaldía solo parea difundir sus **actos pocos decorosos y obscenos.** No le pusieron atención a la plataforma digital. La última renovación la hizo la alcaldía de Pedrito Pereira hace dos años, de acuerdo a la siguiente certificación:  
 
-## ![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/pagina-de-la-alcaldia.jpg)Por negligencia se cayó página de la alcaldía
+## ![](s3://bundled-saddlebag-tnqki7w/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/pagina-de-la-alcaldia.jpg)Por negligencia se cayó página de la alcaldía
 
 Esta negligencia para la renovación de las certificaciones fue denunciada en redes sociales, especialmente por una de las críticas de la administración, **Jacqueline Perea**. Las certificaciones son necesarias para que los dominios de la página de alcaldía se puedan mantener. Esta negligencia produjo daños materiales y morales a la administración distrital y a la ciudadanía. Las transacciones normales quedaron suspendidas. **¡Parálisis total!**
 
-\[caption id="attachment\_14564" align="aligncenter" width="1366"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/Captura-de-pantalla-51.png) Pantallazo inicial de la www.cartagena.gov.co. Así se cayó página de la alcaldía.\[/caption\]
+\[caption id="attachment\_14564" align="aligncenter" width="1366"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/por-negligencia-se-cayo-pagina-de-la-alcaldia/Captura-de-pantalla-51.png) Pantallazo inicial de la www.cartagena.gov.co. Así se cayó página de la alcaldía.\[/caption\]
 
 Así como se presentó este caso con los dominios de la alcaldía, está sucediendo en todas las dependencias. No hay gobierno. **¿Cuánto pierde el Distrito y la ciudadanía por esta ineptitud?**
 

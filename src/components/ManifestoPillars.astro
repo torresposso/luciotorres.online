@@ -1,0 +1,164 @@
+---
+/**
+ * ManifestoPillars.astro
+ * Interactive manifesto sections using daisyUI collapse and Alpine.js.
+ */
+---
+
+<section
+  class="py-32 bg-base-100 overflow-hidden relative border-y border-base-300"
+>
+  <div
+    class="absolute -right-24 top-0 text-[20rem] font-black text-base-content/5 select-none pointer-events-none font-editorial tracking-tighter"
+  >
+    LIBERTAD
+  </div>
+
+  <div
+    class="max-w-screen-2xl mx-auto px-6 lg:px-12 grid grid-cols-1 lg:grid-cols-2 gap-32 items-center relative z-10"
+  >
+    <div
+      class="space-y-12"
+      x-data
+      x-intersect="$el.classList.add('animate-fadeIn')"
+    >
+      <div>
+        <div class="flex items-center gap-4 mb-8">
+          <div class="w-16 h-2 bg-primary"></div>
+          <span
+            class="text-xs font-black uppercase tracking-[0.5em] text-secondary"
+            >FUNDAMENTOS</span
+          >
+        </div>
+
+        <h2
+          class="text-7xl md:text-[9rem] font-editorial font-black leading-[0.8] text-base-content uppercase tracking-tighter mb-12"
+        >
+          PAN <br />
+          <span class="text-primary" style="text-shadow: 2px 2px 0 #000;"
+            >CON PAZ.</span
+          >
+        </h2>
+      </div>
+
+      <p
+        class="text-3xl text-secondary font-editorial font-bold leading-tight border-l-8 border-primary pl-8 italic"
+      >
+        "El hambre es la mayor violación de los Derechos Humanos. Nuestra
+        soberanía nace en la mesa de cada colombiano."
+      </p>
+
+      <div class="prose-journal text-base-content/60 text-xl leading-relaxed">
+        <p>
+          No es solo un programa de gobierno; es un <span
+            class="text-highlight font-bold text-base-content"
+            >nuevo pacto republicano</span
+          >. Pan con Paz representa la fusión entre la justicia social que
+          reclama el pueblo y la estabilidad institucional que requiere la
+          nación para progresar.
+        </p>
+      </div>
+
+      <div class="pt-8">
+        <a
+          href="/gran-colombia"
+          class="btn-hero-primary text-xl rounded-full px-12"
+        >
+          LEER EL MANIFIESTO
+        </a>
+      </div>
+    </div>
+
+    <div class="space-y-6" x-data="{ activePillar: 1 }">
+      <!-- Pillar 1 -->
+      <div
+        class="collapse collapse-arrow bg-base-200/50 border border-base-300 rounded-3xl transition-all duration-500"
+        :class="activePillar === 1 ? 'bg-base-100 shadow-2xl border-secondary scale-105 z-20' : 'opacity-50'"
+      >
+        <input
+          type="radio"
+          name="pillars"
+          :checked="activePillar === 1"
+          @click="activePillar = 1"
+        />
+        <div class="collapse-title flex items-center gap-6 py-10">
+          <span class="text-5xl font-black text-primary italic">01</span>
+          <h3
+            class="text-3xl font-editorial font-black text-secondary uppercase tracking-tight"
+          >
+            Soberanía Alimentaria
+          </h3>
+        </div>
+        <div class="collapse-content px-12 pb-10">
+          <p class="text-xl text-base-content/70 font-medium">
+            Garantizaremos que el campo colombiano produzca lo que el pueblo
+            consume. Eliminaremos los peajes a la comida y fortaleceremos la red
+            de mercados populares.
+          </p>
+        </div>
+      </div>
+
+      <!-- Pillar 2 -->
+      <div
+        class="collapse collapse-arrow bg-base-200/50 border border-base-300 rounded-3xl transition-all duration-500"
+        :class="activePillar === 2 ? 'bg-base-100 shadow-2xl border-secondary scale-105 z-20' : 'opacity-50'"
+      >
+        <input type="radio" name="pillars" @click="activePillar = 2" />
+        <div class="collapse-title flex items-center gap-6 py-10">
+          <span class="text-5xl font-black text-primary italic">02</span>
+          <h3
+            class="text-3xl font-editorial font-black text-secondary uppercase tracking-tight"
+          >
+            Justicia Ética
+          </h3>
+        </div>
+        <div class="collapse-content px-12 pb-10">
+          <p class="text-xl text-base-content/70 font-medium">
+            La verdad periodística llevada a la justicia penal. Crearemos la
+            Unidad Especial contra el Saqueo Público para recuperar los billones
+            perdidos en corrupción.
+          </p>
+        </div>
+      </div>
+
+      <!-- Pillar 3 -->
+      <div
+        class="collapse collapse-arrow bg-base-200/50 border border-base-300 rounded-3xl transition-all duration-500"
+        :class="activePillar === 3 ? 'bg-base-100 shadow-2xl border-secondary scale-105 z-20' : 'opacity-50'"
+      >
+        <input type="radio" name="pillars" @click="activePillar = 3" />
+        <div class="collapse-title flex items-center gap-6 py-10">
+          <span class="text-5xl font-black text-primary italic">03</span>
+          <h3
+            class="text-3xl font-editorial font-black text-secondary uppercase tracking-tight"
+          >
+            Estabilidad Civil
+          </h3>
+        </div>
+        <div class="collapse-content px-12 pb-10">
+          <p class="text-xl text-base-content/70 font-medium">
+            Paz basada en el respeto a la ley y la protección del ciudadano. Una
+            fuerza pública tecnificada, transparente y aliada del desarrollo
+            social.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  .animate-fadeIn {
+    animation: fadeIn 0.8s ease-out forwards;
+  }
+</style>

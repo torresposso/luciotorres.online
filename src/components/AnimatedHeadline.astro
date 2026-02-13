@@ -1,0 +1,51 @@
+---
+interface Props {
+    texts: string[];
+}
+
+const { texts } = Astro.props;
+---
+
+<div
+    class="text-4xl md:text-6xl font-bold font-heading text-primary min-h-[1.5em]"
+    x-data={`{
+    texts: ${JSON.stringify(texts)},
+    currentTextIndex: 0,
+    displayText: '',
+    isDeleting: false,
+    typingSpeed: 100,
+    deletingSpeed: 50,
+    pauseEnd: 2000,
+    pauseStart: 500,
+    
+    init() {
+      this.type();
+    },
+    
+    type() {
+      const currentFullText = this.texts[this.currentTextIndex];
+      
+      if (this.isDeleting) {
+        this.displayText = currentFullText.substring(0, this.displayText.length - 1);
+      } else {
+        this.displayText = currentFullText.substring(0, this.displayText.length + 1);
+      }
+      
+      let typeSpeed = this.isDeleting ? this.deletingSpeed : this.typingSpeed;
+      
+      if (!this.isDeleting && this.displayText === currentFullText) {
+        typeSpeed = this.pauseEnd;
+        this.isDeleting = true;
+      } else if (this.isDeleting && this.displayText === '') {
+        this.isDeleting = false;
+        this.currentTextIndex = (this.currentTextIndex + 1) % this.texts.length;
+        typeSpeed = this.pauseStart;
+      }
+      
+      setTimeout(() => this.type(), typeSpeed);
+    }
+  }`}
+>
+    <span x-text="displayText"></span>
+    <span class="animate-pulse border-r-2 border-primary ml-1">&nbsp;</span>
+</div>

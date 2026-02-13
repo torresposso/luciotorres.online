@@ -5,10 +5,10 @@ pubDate: "2023-06-19 15:44:12"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/el-despojo-de-baru-se-produjo-desde-el-estado-iv/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/06/el-despojo-de-baru-se-produjo-desde-el-estado-iv/hero.jpg
 ---
 
-![El despojo de Barú se produjo desde el Estado-](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/el-despojo-de-baru-se-produjo-desde-el-estado-iv/hero.jpg)
+![El despojo de Barú se produjo desde el Estado-](s3://bundled-saddlebag-tnqki7w/2023/06/el-despojo-de-baru-se-produjo-desde-el-estado-iv/hero.jpg)
 *El despojo de Barú se produjo desde el Estado-*
 
 **Salvatore Mancuso Gómez**, uno de los exjefes del paramilitarismo en Colombia, su comparecencia en la audiencia única ante la JEP para valorar su aporte a la verdad, contribuyó a entender el papel despojador desempeñado por grandes empresarios. Pero también mostró la complicidad del mismo Estado. En tanto que la propiedad de la **Hacienda Santa Ana** sigue siendo de los herederos de los 94 comuneros que le compraron en 1887 a Virginia Rebollo. **Esto comprueba y explica la verdad sobre la conducta del grupo Santo Domingo, los Obregón, Echavarría**, entre otros empresarios del país, en la _expropiación de facto_ a los afrodescendientes, herederos de la **Hacienda Santa Ana** en la isla de Barú.
@@ -33,7 +33,7 @@ Por otra parte, se pudo demostrar la conducta especulativa con la tierra despoja
 
 ## Procuradora prejuzga
 
-![El despojo de Barú se produjo desde el Estado. La procuradora Margarita Cabello Blanco fue denunciada ante la Corte Suprema de Justicia por el veedor Erick Urueta Benavides.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/el-despojo-de-baru-se-produjo-desde-el-estado-iv/procuradora_erick_portada.jpg)
+![El despojo de Barú se produjo desde el Estado. La procuradora Margarita Cabello Blanco fue denunciada ante la Corte Suprema de Justicia por el veedor Erick Urueta Benavides.](s3://bundled-saddlebag-tnqki7w/2023/06/el-despojo-de-baru-se-produjo-desde-el-estado-iv/procuradora_erick_portada.jpg)
 *El despojo de Barú se produjo desde el Estado. La procuradora Margarita Cabello Blanco fue denunciada ante la Corte Suprema de Justicia por el veedor Erick Urueta Benavides.*
 
 Precisamente, las autoridades mismas dan por hecho que los **nativos son invasores** y no una población en estado de indefensión y con derechos. Esta idea surgió cuando en la década del 2010 se tenía previsto una serie de proyectos turísticos con inversionistas extranjeros, empresarios criollos y el beneplácito del Estado a través de la Corporación Nacional de Turismo y Planeación Nacional. Esta iniciativa gubernamental se llamó [Proyecto Playa Blanca Barú](https://colaboracion.dnp.gov.co/CDT/CONPES/Econ%C3%B3micos/3333.pdf) (**CONPES 3333**, 2005).
@@ -46,7 +46,7 @@ Igualmente, los proyectos turísticos concebidos por intereses privados, motivar
 
 ## La prueba reina del despojo de Barú
 
-![Samuel Arrieta, antes de 2007, cuando fue senador por el PIN. Hoy es concejal de Bogotá por Cambio Radical.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/el-despojo-de-baru-se-produjo-desde-el-estado-iv/El-futuro-Senador.-006.jpg)
+![Samuel Arrieta, antes de 2007, cuando fue senador por el PIN. Hoy es concejal de Bogotá por Cambio Radical.](s3://bundled-saddlebag-tnqki7w/2023/06/el-despojo-de-baru-se-produjo-desde-el-estado-iv/El-futuro-Senador.-006.jpg)
 *Samuel Arrieta, hace 16 años, cuando fue senador por el PIN. Hoy es concejal de Bogotá por Cambio Radical.*
 
 El Plan Sectorial de Turismo 2003-2006 denominado ****«**Turismo para un nuevo país**»****, que hizo parte del Plan Nacional de Desarrollo del **presidente Álvaro Uribe**, reconoció al turismo como una poderosa herramienta de transformación social y factor de construcción de una nueva sociedad. En realidad, ese proceso se tradujo en más pobreza y desigualdad para la población afro mediante el despojo concebido desde arriba. Los nativos nada más tuvieron oportunidad para ocupar puestos de servidumbre en esos proyectos.

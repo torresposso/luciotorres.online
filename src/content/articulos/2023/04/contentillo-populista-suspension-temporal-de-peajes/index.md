@@ -5,10 +5,10 @@ pubDate: "2023-04-16 15:33:25"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/hero.jpg
 ---
 
-![Fungiendo de anfitrión, el gobernador de Bolívar, Vicente Blel, abrió la sesión para escuchar al ministro de Transporte Guillermo Reyes y al presidente dela ANI, William Camargo Triana. ¿Contentillo populista? suspensión temporal de peajes](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/hero.jpg)
+![Fungiendo de anfitrión, el gobernador de Bolívar, Vicente Blel, abrió la sesión para escuchar al ministro de Transporte Guillermo Reyes y al presidente dela ANI, William Camargo Triana. ¿Contentillo populista? suspensión temporal de peajes](s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/hero.jpg)
 *Fungiendo de anfitrión, el gobernador de Bolívar, Vicente Blel, abrió la sesión para escuchar al ministro de Transporte Guillermo Reyes y al presidente dela ANI, William Camargo Triana. ¿Contentillo populista? suspensión temporal de peajes*
 
 La determinación del ministro de Transporte, **Guillermo Reyes**, de suspender temporalmente el cobro de peajes hasta el 30 de abril y definir su _relocalización_ diferente a la entrada de Turbaco **¿es un contentillo populista?** Sea cualquiera la respuesta, la medida provisional es un paliativo para atender un problema más robusto y complejo: **la forma cómo están estructurados los contratos de concesión vial en el país**. La salida que debe contemplar el presidente Gustavo Petro, en coherencia con su ideal programático, debe ser la liquidación del contrato.
@@ -23,7 +23,7 @@ Muchos pidieron levantar las talanqueras, entre ellos el mismo gobernador de Bol
 
 ## ¿Contentillo populista?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/Peaje_aspecto-general.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/Peaje_aspecto-general.jpg)
 *Aspecto general de la reunión en la gobernación de Bolívar donde se anunció el levantamiento provisional de las talanqueras.*
 
 De acuerdo con algunos veedores, como **Héctor Pérez, Linda Ospino y Nixon Torres Cárcamo**, aquí ya se alcanzó la tasa interna de retorno (_TIR_). Esta es la rentabilidad _que_ ofrece una inversión. En este caso concreto del peaje de Turbaco, según esta versión, la empresa **KMA Construcciones S.A** obtuvo en forma sobrada sus ganancia hace dos años.
@@ -54,7 +54,7 @@ Sin duda, la decisión de trasladar el peaje no tiene sentido jurídico ni socia
 
 ## William Camargo Triana: traslado, tarifa diferencial y obras
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/William-Camargo_Guillermo-Reyes_Toro.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/William-Camargo_Guillermo-Reyes_Toro.jpg)
 *De izquierda a derecha: Guillermo Toro, William Camargo y Guillermo Reyes.*
 
 En el despacho del gobernador **Vicente Blel Scaff**  **—**quien había pedido la suspensión del pago de los peajes**—** se produjo una reunión previa al levantamiento de las talanqueras de Turbaco con la participación de alcaldes de los territorios afectados por los peajes, la Procuraduría, el Capitán No a los Peajes y otros líderes de la protesta. Allí intervinieron el primer mandatario de Bolívar, el ministro del **Transporte Guillermo Reyes** y el presidente de la ANI, **William Camargo Triana**. Destacamos la exposición de este último:
@@ -71,7 +71,7 @@ En el despacho del gobernador **Vicente Blel Scaff**  **—**quien había pedid
 
 ## Héctor Pérez: El peaje es ilegal
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/Hector-Perez_capitanNo-scaled-1.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/Hector-Perez_capitanNo-scaled-1.jpg)
 *Héctor Pérez Fernández, Capitán No (Fidian García), Linda Pinedo y Carlos Pérez al pie del peaje de Turbaco una vez se levantaron las talanqueras.*
 
 El veedor y abogado **Héctor Pérez Fernández** fue la persona que finalmente levantó la Talanquera del peaje de Turbaco, una vez el ministro de Transporte, **Guillermo Reyes**, confirmó que se iban a levantar provisionalmente. Esto dijo a VoxPopuli:
@@ -86,7 +86,7 @@ El veedor y abogado **Héctor Pérez Fernández** fue la persona que finalmente 
 
 ## Nixon Torres Cárcamo: Liquidar contrato
 
-![Nixon Torres con el Capitán No a los Peajes. Además de ser un jurista, es un activista político. Contentillo populista](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/Nixon-Torres_peaje.jpg)
+![Nixon Torres con el Capitán No a los Peajes. Además de ser un jurista, es un activista político. Contentillo populista](s3://bundled-saddlebag-tnqki7w/2023/04/contentillo-populista-suspension-temporal-de-peajes/Nixon-Torres_peaje.jpg)
 *Nixon Torres con el Capitán No a los Peajes. Además de ser un jurista, es un activista político.*
 
 Por su parte, el abogado **Nixon Torres Cárcamo**, quien ha litigado sobre este tema de los peajes, incluso, en las altas cortes, señaló:

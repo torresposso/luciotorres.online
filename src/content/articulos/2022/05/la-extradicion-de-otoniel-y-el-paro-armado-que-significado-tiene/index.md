@@ -5,10 +5,10 @@ pubDate: "2022-05-07 00:22:36"
 author: "Lucio"
 categories: ["Análisis","Podcast","Post Conflicto","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/la-extradicion-de-otoniel-y-el-paro-armado-que-significado-tiene/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/05/la-extradicion-de-otoniel-y-el-paro-armado-que-significado-tiene/hero.jpg
 ---
 
-![La extradición de «Otoniel». Cuando era reseñado antes de partir a una cárcel de Nueva York. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/la-extradicion-de-otoniel-y-el-paro-armado-que-significado-tiene/hero.jpg)
+![La extradición de «Otoniel». Cuando era reseñado antes de partir a una cárcel de Nueva York. Cortesía.](s3://bundled-saddlebag-tnqki7w/2022/05/la-extradicion-de-otoniel-y-el-paro-armado-que-significado-tiene/hero.jpg)
 *La extradición de «Otoniel». Cuando era reseñado antes de partir a una cárcel de Nueva York. Cortesía.*
 
 La extradición de «Otoniel» puso a prueba la fragilidad de un régimen que padece de déficit de gobernabilidad. **El paro armado del Clan del Golfo demostró que la Seguridad Democrática del régimen es tan frágil** como los acuerdos tácitos establecidos con las organizaciones criminales para mantener una paz ficticia. Pero, en realidad, mantienen un dominio territorial. 
@@ -37,7 +37,7 @@ De hecho, el presidente colombiano pretende ahora matar dos pájaros con la mism
 
 ## La verdad voló con la extradición de «Otoniel»
 
-![Extradición de «Otoniel»., Momento en que Úsuga David (alias «Otoniel»,) subía al avión que lo llevaría a Estados Unidos,Cortesía AFP.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/la-extradicion-de-otoniel-y-el-paro-armado-que-significado-tiene/extrtadicion-de-otoniel.jpg)
+![Extradición de «Otoniel»., Momento en que Úsuga David (alias «Otoniel»,) subía al avión que lo llevaría a Estados Unidos,Cortesía AFP.](s3://bundled-saddlebag-tnqki7w/2022/05/la-extradicion-de-otoniel-y-el-paro-armado-que-significado-tiene/extrtadicion-de-otoniel.jpg)
 *Momento en que Úsuga David (alias «Otoniel»,) subía al avión que lo llevaría a Estados Unidos,Cortesía AFP.*
 
 Casi toda la verdad del conflicto armado colombiano y del narcotráfico se fue con las extradiciones de los jefes de las autodefensas y ahora con los capos de los clanes armados. Cuando ellos comienzan a hablar ante los tribunales de justicia alternativa, el régimen se la ingenia para silenciarlos. **Cuando la parapolítica hervía**, Uribe sacó un as debajo de la manga y le entregó los capos a la justicia estadounidense.

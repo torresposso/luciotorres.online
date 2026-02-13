@@ -5,10 +5,10 @@ pubDate: "2021-06-19 21:15:48"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/denunciado-penalmente-funcionario-del-ministerio-del-interior-por-consejo-comunitario/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/06/denunciado-penalmente-funcionario-del-ministerio-del-interior-por-consejo-comunitario/hero.jpg
 ---
 
-![Denunciado penalmente](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/denunciado-penalmente-funcionario-del-ministerio-del-interior-por-consejo-comunitario/Dihly-Romero.jpeg)
+![Denunciado penalmente](s3://bundled-saddlebag-tnqki7w/2021/06/denunciado-penalmente-funcionario-del-ministerio-del-interior-por-consejo-comunitario/Dihly-Romero.jpeg)
 *Dihly Romero Herrera, Secretaria General y de Gogierno.*
 
 Denunciados penalmente funcionarios implicados en presunta corrupción. Líderes del corregimiento de Rocha—Arjona se quieren liberar de la corrupción que el Ministerio del Interior ha impuesto en los consejos comunitario del Canal del Dique. El objetivo de la corrupción es que aprueben tantas consultas previas sin que realmente se hagan los estudios previos de un determinado proyecto de desarrollo.

@@ -5,7 +5,7 @@ pubDate: "2022-06-25 00:52:45"
 author: "Lucio"
 categories: ["Uncategorized"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/las-senales-de-petro-fin-del-regimen-neobonapartista/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/06/las-senales-de-petro-fin-del-regimen-neobonapartista/hero.jpg
 ---
 
 https://youtu.be/hU-2MMNjQ5A
@@ -30,7 +30,7 @@ Todo hace indicar que el próximo ministro de Hacienda sea de una **línea neo c
 
 ## ¿Fin del régimen?
 
-![En la tarima del triunfo se escucharon las señales de Petro](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/las-senales-de-petro-fin-del-regimen-neobonapartista/hero.jpg)
+![En la tarima del triunfo se escucharon las señales de Petro](s3://bundled-saddlebag-tnqki7w/2022/06/las-senales-de-petro-fin-del-regimen-neobonapartista/hero.jpg)
 *En la tarima del triunfo. Las señales de Petro.*
 
 El gobierno de Petro no abriría un período político nuevo. Pero sí marcaría las condiciones para que un próximo gobierno desarrolle una nueva arquitectura política y social de Colombia. La propuesta de gobierno de Petro es ambiciosa para su capacidad política. Abarca mucho, pero no podría cumplir con todas las promesas electorales. Será un gobierno social—democrático semejante a la gestión de la **Bogotá Humana**. Se parecerá al segundo mandato de Juan Manuel Santos o al gobierno de Ernesto Samper. Santos encontró en Chávez un nuevo mejor amigo. En agosto de 2010 restableció las relaciones diplomáticas con Venezuela. Lo mismo que hoy Petro está haciendo con Maduro. Y se espera el abrazo con Uribe.

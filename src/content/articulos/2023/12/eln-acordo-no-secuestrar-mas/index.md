@@ -5,10 +5,10 @@ pubDate: "2023-12-18 01:28:54"
 author: "Lucio"
 categories: ["Análisis"]
 tags: ["ELN","Gustavo Petro","Vera Grabe"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/eln-acordo-no-secuestrar-mas/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/12/eln-acordo-no-secuestrar-mas/hero.jpg
 ---
 
-![El ELN acordó NO secuestrar más. Uno de los puntos más importantes de la agenda.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/eln-acordo-no-secuestrar-mas/hero.jpg)
+![El ELN acordó NO secuestrar más. Uno de los puntos más importantes de la agenda.](s3://bundled-saddlebag-tnqki7w/2023/12/eln-acordo-no-secuestrar-mas/hero.jpg)
 *Los integrantes de las delegaciones y del país anfitrión. El ELN acordó NO secuestrar más. Uno de los puntos más importantes de la agenda.*
 
 Hoy, una de las noticias más importantes e impactante que beneficiaría la consecución de un acuerdo de paz: el ELN acordó NO secuestrar más **por razones económicas a partir de enero de 2024**. Este compromiso es parte de los acuerdos de la quinta ronda de negociaciones que se desarrolla en México entre la delegación de Colombia y esa agrupación guerrillera.
@@ -45,7 +45,7 @@ Te puede interesar: [E](/articulos/el-cose-del-eln-ordeno-liberacion-del-padre-d
 
 ## EL COMUNICADO CONJUNTO
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/eln-acordo-no-secuestrar-mas/Eln_comunicado_17_diciembre.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2023/12/eln-acordo-no-secuestrar-mas/Eln_comunicado_17_diciembre.jpeg)
 
 Te puede interesar: [El gol de la libertad de «Lucho» Díaz (III)](/articulos/el-gol-de-la-libertad-de-lucho-diaz/)
 

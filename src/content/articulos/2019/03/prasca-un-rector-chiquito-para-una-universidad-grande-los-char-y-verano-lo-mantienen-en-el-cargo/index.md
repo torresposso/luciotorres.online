@@ -5,14 +5,14 @@ pubDate: "2019-03-06 13:48:25"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/03/prasca-un-rector-chiquito-para-una-universidad-grande-los-char-y-verano-lo-mantienen-en-el-cargo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/03/prasca-un-rector-chiquito-para-una-universidad-grande-los-char-y-verano-lo-mantienen-en-el-cargo/hero.jpg
 ---
 
 Barranquilla se despierta este miércoles con una cruz de ceniza en la frente y más de 10 muertes violentas**.** Y desconoce que **Carlos Prasca** es un recto(r) CHIQUITO para una universidad GRANDE como la del Atlántico, puesto que se ha convertido en un _**rey de burlas**_. Su conducta obscena y acusado de acoso sexual, redujo a la mínima expresión la dignidad de una comunidad universitaria.
 
 La suspensión por tres meses que le hizo la Procuraduría confirma lo anunciado en [www.voxpopuli.digital](/articulos/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/): debe ser declarado insubsistente **¡ipso facto**!
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/03/prasca-un-rector-chiquito-para-una-universidad-grande-los-char-y-verano-lo-mantienen-en-el-cargo/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/03/prasca-un-rector-chiquito-para-una-universidad-grande-los-char-y-verano-lo-mantienen-en-el-cargo/hero.jpg)
 *Prasca es un rey de burlas, quedó chiquito ante la grandeza de la Universidad del Atlántico.*
 
 #### Le sugiero: [A Prasca, recto(r) de UA, le gusta el «chiquito»](/articulos/a-prasca-rector-de-ua-le-gusta-el-chiquito-y-es-rey-de-burla-de-las-redes-sociales-piden-su-destitucion-ya/) 

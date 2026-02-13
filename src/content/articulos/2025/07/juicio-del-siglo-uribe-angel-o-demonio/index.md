@@ -5,10 +5,10 @@ pubDate: "2025-07-12 15:48:36"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/juicio-del-siglo-uribe-angel-o-demonio/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/07/juicio-del-siglo-uribe-angel-o-demonio/hero.jpg
 ---
 
-![«Juicio del Siglo»: ¿Uribe es culpable o inocente?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/juicio-del-siglo-uribe-angel-o-demonio/hero.jpg)
+![«Juicio del Siglo»: ¿Uribe es culpable o inocente?](s3://bundled-saddlebag-tnqki7w/2025/07/juicio-del-siglo-uribe-angel-o-demonio/hero.jpg)
 *«Juicio del Siglo»: ¿Uribe es culpable o inocente?*
 
 ¿Uribe es culpable o inocente? ¿Ángel o demonio? En la medida que se acerca la fecha del 28 de julio cuando se conocerá la sentencia del «Juicio del Siglo», crece la expectativa en los mentideros políticos por el destino inmediato del poderoso **expresidente Álvaro Uribe Vélez**. Su actitud arrogante e irrespetuosa con la que quiso detener su juzgamiento, contrastó con la aparente humildad ―que rayó en una postura lastimera― en las últimas palabras de su largo alegato de defensa.
@@ -87,7 +87,7 @@ Esa posición la apoyó, por supuesto, la defensa técnica y material del expres
 
 ## La condena
 
-![Fin de la impunidad de Uribe](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/juicio-del-siglo-uribe-angel-o-demonio/URIBE-FIN-DE-LA-IMPUNIDAD.jpg)
+![Fin de la impunidad de Uribe](s3://bundled-saddlebag-tnqki7w/2025/07/juicio-del-siglo-uribe-angel-o-demonio/URIBE-FIN-DE-LA-IMPUNIDAD.jpg)
 *¿Fin de la impunidad?*
 
 Por tanto, en sus alegatos de conclusión que terminaron el jueves 3 de julio, Jaime Lombana y Jaime Granados **pidieron a la juez Sandra Heredia que absuelva al exjefe de Estado**.

@@ -5,10 +5,10 @@ pubDate: "2021-10-25 12:13:21"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/de-todas-maneras-el-alcalde-se-va-para-la-carcel/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/10/de-todas-maneras-el-alcalde-se-va-para-la-carcel/hero.jpg
 ---
 
-![¿El alcalde se va para la cárcel?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/de-todas-maneras-el-alcalde-se-va-para-la-carcel/hero.jpg)
+![¿El alcalde se va para la cárcel?](s3://bundled-saddlebag-tnqki7w/2021/10/de-todas-maneras-el-alcalde-se-va-para-la-carcel/hero.jpg)
 *El coronel Luis Roa Merchán, Secretario General, le da cuenta a William Dau. Cortesía Prensa alcaldía.*
 
 ¡El alcalde se va! En efecto, eso fue lo que le quedó claro al primer mandatario de Cartagena, William Dau, al regreso de su periplo por Nueva York. En la primera reunión que tuvo con sus allegados de la alcaldía, en la cual también participó el Jefe de la Oficina de Protocolo, **el primer mandatario dejó entrever que se va de la administración, pero regresará**. Sus aliados políticos así se lo garantizan. Pero otros se preguntan: ¿Se va para la cárcel? 
@@ -27,7 +27,7 @@ Si Manuel Vicente «Manolo» Duque se fue por menos para la cárcel de Sabanalar
 
 ## La reunión
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/de-todas-maneras-el-alcalde-se-va-para-la-carcel/Un-coronel-alcalde.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/de-todas-maneras-el-alcalde-se-va-para-la-carcel/Un-coronel-alcalde.jpeg)
 *El coronel que le guardó las espaldas a Dau en la alcaldía.*
 
 A su regreso, el alcalde se fue para su despacho. se encontró con su Secretario General, **el coronel Luis Roa Merchán,** quien fungió de alcalde encargado durante el período que duró la ausencia del titular. Lo puso al día con todo. Se tomó una fotografía en el balcón del palacio de la Aduana para que todo el mundo se diera cuenta que la entrega fue cordial. 

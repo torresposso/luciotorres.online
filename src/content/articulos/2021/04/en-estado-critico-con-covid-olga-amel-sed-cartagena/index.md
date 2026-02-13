@@ -5,10 +5,10 @@ pubDate: "2021-04-03 00:40:47"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-estado-critico-con-covid-olga-amel-sed-cartagena/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/04/en-estado-critico-con-covid-olga-amel-sed-cartagena/hero.jpg
 ---
 
-\[caption id="attachment\_14423" align="aligncenter" width="1280"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-estado-critico-con-covid-olga-amel-sed-cartagena/Olga-Acosta-Amel-y-Viviana-Londono.jpeg) **En estado crítico con Covid está Olga Acosta.** Aquí con **Viviana Londoño** del IDER. Recomendó la suspensión de la alternancia antes de que entrara a UCI.\[/caption\]
+\[caption id="attachment\_14423" align="aligncenter" width="1280"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/en-estado-critico-con-covid-olga-amel-sed-cartagena/Olga-Acosta-Amel-y-Viviana-Londono.jpeg) **En estado crítico con Covid está Olga Acosta.** Aquí con **Viviana Londoño** del IDER. Recomendó la suspensión de la alternancia antes de que entrara a UCI.\[/caption\]
 
 En estado crítico por Covid se encuentra la Secretaria de Educación del Distrito de Cartagena (SED), **Olga Acosta Amel**. De igual forma, dos destacados locutores de la radio cartagenera: **Walberto Ahumedo Sierra y Tony Rosales**. Olga y Ahumedo están intubados en el Hospital Universitario del Caribe (HUC). Alí Rosales manifiesta que su hermano Tony se está recuperando en cuidados intermedios y que no ha sido intubado. 
 
@@ -50,7 +50,7 @@ Una de las características que han notado los especialistas de la salud —seg�
 
 ## Un anuncio criminal
 
-\[caption id="attachment\_14422" align="aligncenter" width="720"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-estado-critico-con-covid-olga-amel-sed-cartagena/hero.jpg) **"Thanos Dau"**, el villano demente de Marvel. Fue el símil usado por David Vega.\[/caption\]
+\[caption id="attachment\_14422" align="aligncenter" width="720"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/en-estado-critico-con-covid-olga-amel-sed-cartagena/hero.jpg) **"Thanos Dau"**, el villano demente de Marvel. Fue el símil usado por David Vega.\[/caption\]
 
 En las redes sociales cuestionaron duramente la actitud inconsecuente del alcalde de Cartagena de invitar a los turistas para que visitaran la ciudad. Tal medida fue considerada «loca». Otros le llamaron al alcalde Thanos Dau, el villano de la película Marvel. Thanos, que al buscar las Gemas del Infinito, fue capaz de sacrificar a su propia hija y planificar la eliminación de la mitad de los seres vivos del Universo.
 

@@ -5,10 +5,10 @@ pubDate: "2025-11-12 23:52:39"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/los-char-consolidan-captura-de-uniatlantico-con-un-plato-de-lenteja-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/11/los-char-consolidan-captura-de-uniatlantico-con-un-plato-de-lenteja-i/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/los-char-consolidan-captura-de-uniatlantico-con-un-plato-de-lenteja-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/11/los-char-consolidan-captura-de-uniatlantico-con-un-plato-de-lenteja-i/hero.jpg)
 *Los Char consolidan captura de Uniatlántico. Como si fuera un sanduche, Leyton Barrios, entre el alcalde Alejandro Char y el patriarca Fuad Char Abdala celebraron la captura donde el chef Revollo de Barranquilla.*
 
 La **Universidad del Atlántico (Unitlántico)**, orgullo académico del Caribe, terminó convertida en un **jugoso botín político**, administrado por los clanes que la manejan como si fuera **una Supertienda Olímpica**. En lugar de defender su autonomía, los cinco consejeros que votaron por **Álvaro Leyton Barrios Torres** para la rectoría, **vendieron la universidad por un plato de lentejas (¡literal!) donde el chef Revollo**. De esta manera, los Char consolidaron captura .
@@ -43,7 +43,7 @@ Lo ocurrido en 2017 no fue un episodio aislado: fue **el ensayo general** del 
 
 ## Así torcieron a los consejeros
 
-![Los Char consolidan captura de Uniatlántico con almuerzo donde chef Revollo](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/11/los-char-consolidan-captura-de-uniatlantico-con-un-plato-de-lenteja-i/Char_cheff.jpeg)
+![Los Char consolidan captura de Uniatlántico con almuerzo donde chef Revollo](s3://bundled-saddlebag-tnqki7w/2025/11/los-char-consolidan-captura-de-uniatlantico-con-un-plato-de-lenteja-i/Char_cheff.jpeg)
 *Allí están, esos son lo que venden su autonomía: Los cinco consejeros que se vendieron por un plato de lentejas donde el chef Revollo.*
 
 El **Consejo Superior Universitario**, encargado de la elección, está integrado por **Manuel Fernández** (gremios), **Wendell Archibold** (profesores), **Guillermo Rodríguez** (exrectores), **Miguel Caro** (directivas académicas), **Melissa Obregón** (delegada presidencial), **Abraham González** (egresados), **Angely Cordero** (estudiantes) y **Juan Carlos Bolívar** (Ministerio de Educación).

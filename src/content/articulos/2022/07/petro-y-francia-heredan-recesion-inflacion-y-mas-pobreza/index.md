@@ -5,7 +5,7 @@ pubDate: "2022-07-13 00:54:45"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/petro-y-francia-heredan-recesion-inflacion-y-mas-pobreza/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/07/petro-y-francia-heredan-recesion-inflacion-y-mas-pobreza/hero.jpg
 ---
 
 https://youtu.be/KOm7lG\_9lDg
@@ -16,7 +16,7 @@ Un fantasma recorre el mundo. Es el fantasma de la recesión. La economía nacio
 
 Para los cartageneros el hambre se profundizará. Si hoy solo el 50% se come dos comidas diarias, en los próximos meses tal indicador aumentará dramaticamente en la medida que se incremente la inflación. Lo mismo sucederá en Barranquilla. Más de 2,4 millones de personas ya no se comen tres comidas diarias en el país.
 
-![Este Plato cartagenero está por las nubes. Petro hereda: Más de 2,4 millones de colombianos no se comerían las tres comidas.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/petro-y-francia-heredan-recesion-inflacion-y-mas-pobreza/hero.jpg)
+![Este Plato cartagenero está por las nubes. Petro hereda: Más de 2,4 millones de colombianos no se comerían las tres comidas.](s3://bundled-saddlebag-tnqki7w/2022/07/petro-y-francia-heredan-recesion-inflacion-y-mas-pobreza/hero.jpg)
 *Este Plato cartagenero está por las nubes. Petro hereda: Más de 2,4 millones de colombianos no se comen las tres comidas.*
 
 ## ¿Qué hará Ocampo?
@@ -45,7 +45,7 @@ Por su parte, la directora de la Reserva Federal de Kansas City, **Esther George
 
 Colombia tiene una **pobreza monetaria del 39,3%**, la mayor de los países latinoamericanos de 2021. De acuerdo con el DANE (documento no disponible), en 13 ciudades mayores y áreas metropolitanas, el índice pasó del 26,7 % al 34,3 %. Esto indicaría que para 2022 la tasa se incrementaría notoriamente. Este hecho se agravaría con la devaluación del peso respecto al dólar y el incremento de la inflación en Estados Unidos y Europa.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/petro-y-francia-heredan-recesion-inflacion-y-mas-pobreza/pobreza_monetaria_21.png)
+![](s3://bundled-saddlebag-tnqki7w/2022/07/petro-y-francia-heredan-recesion-inflacion-y-mas-pobreza/pobreza_monetaria_21.png)
 *El DANE presenta un cuadro histórico del 2012.*
 
 En junio **la inflación llegó a 9,67%**. La más alta en 22 años. Entre junio de 2021 y junio de 2022, los **alimentos y bebidas no alcohólicas**, experimentaron una inflación de 23,65%, y una contribución de casi cuatro puntos porcentuales (pps) a la inflación: 3,98 pps. Arrendamientos y servicios públicos tienen una incidencia de 1,92 pps en la variación total, los cuales han subido 5,88%.

@@ -5,10 +5,10 @@ pubDate: "2018-11-26 04:50:53"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/prosegur-ni-con-tutela-quiere-pagarle-licencia-de-maternidad-a-trabajadora-despedida/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2018/11/prosegur-ni-con-tutela-quiere-pagarle-licencia-de-maternidad-a-trabajadora-despedida/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/prosegur-ni-con-tutela-quiere-pagarle-licencia-de-maternidad-a-trabajadora-despedida/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2018/11/prosegur-ni-con-tutela-quiere-pagarle-licencia-de-maternidad-a-trabajadora-despedida/hero.jpg)
 *Yasmin Ospino reyes cuando se desempeñaba como gerente de Cooservicios. La despidieron en licencia de maternidad y no se la han pagado.*
 
 La Prosegur de los españoles, en unión con SOS del "Monito" José Villalba, aspira a recibir un multimillonario contrato con la Unidad Nacional de Protección-UNP en el presente año, pero se encuentra involucrada en casos de violación de derechos fundamentales.
@@ -21,7 +21,7 @@ Ahora **Prosegur** se niega obstinadamente a pagarle los dineros adeudados a Yas
 
 La drástica política de recorte implementada por la empresa española Prosegur, luego de comprar la antigua **Vimarco**, la llevó a despedir a decenas de trabajadores y a liquidar a Cooservicios con **NIT No 830.505.539-5,** funcionaba como una dependencia de Prosegur en sus instalaciones. En la época que Roberto Barrios era gerente de la seccional Cartagena de Prosegur, al mismo tiempo se desempeñaba como presidente del Consejo de Administración de la Cooperativa. De igual manera a los trabajadores despedidos, se les adeuda sus aportes a la cooperativa y están en mora de pagarles.
 
-![Los trabajadores despedidos han tenido que realizar algún tipo de Prosegur para que le pague sus prestaciones sociales.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/prosegur-ni-con-tutela-quiere-pagarle-licencia-de-maternidad-a-trabajadora-despedida/subdirectiva-bogota-2.jpg)
+![Los trabajadores despedidos han tenido que realizar algún tipo de Prosegur para que le pague sus prestaciones sociales.](s3://bundled-saddlebag-tnqki7w/2018/11/prosegur-ni-con-tutela-quiere-pagarle-licencia-de-maternidad-a-trabajadora-despedida/subdirectiva-bogota-2.jpg)
 *Los trabajadores despedidos han tenido que realizar algún tipo de protesta para que Prosegur le pague sus prestaciones sociales.*
 
 El sindicato de trabajadores de Prosegur, **Sintraproseg**, viene realizando acciones para protestar contra esta política de recorte de personal. A principio de noviembre de 2018, por ejemplo, se tuvieron que tomar la entrada de la sede de Bogotá para exigir que se le pagara las prestaciones a Denis del Carmen Londoño Hernanández, afiliada al sindicato.

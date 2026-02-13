@@ -5,10 +5,10 @@ pubDate: "2023-03-30 00:13:59"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Investigación","Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/alias-el-tractor-puede-hacer-trasladar-a-una-fiscal/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/03/alias-el-tractor-puede-hacer-trasladar-a-una-fiscal/hero.jpg
 ---
 
-![La fiscal 53 Liliana Velásquez Trespalacios será trasladada por orden del Fiscal General Francisco Barbosa.  La medida ocurre cuando ya tiene la solicitud de medida de aseguramiento contra alias «el Tractor», alcalde de cartagena y dos de sus directas colaboradoras: María Eugenia García y Mirna Martínez.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/alias-el-tractor-puede-hacer-trasladar-a-una-fiscal/hero.jpg)
+![La fiscal 53 Liliana Velásquez Trespalacios será trasladada por orden del Fiscal General Francisco Barbosa.  La medida ocurre cuando ya tiene la solicitud de medida de aseguramiento contra alias «el Tractor», alcalde de cartagena y dos de sus directas colaboradoras: María Eugenia García y Mirna Martínez.](s3://bundled-saddlebag-tnqki7w/2023/03/alias-el-tractor-puede-hacer-trasladar-a-una-fiscal/hero.jpg)
 *La fiscal 53 Liliana Velásquez Trespalacios será trasladada por orden del Fiscal General Francisco Barbosa. La medida ocurre cuando ya tiene la solicitud de medida de aseguramiento contra alias «el Tractor», alcalde de cartagena y dos de sus directas colaboradoras: María Eugenia García y Mirna Martínez.*
 
 ¿Alias «el Tractor» puede hacer trasladar a una fiscal? **Liliana Velázquez Trespalacios**, fiscal seccional 53 de Bolívar, no había hecho nada extraordinario en estos últimos 3 años para combatir los delitos contra la administración pública en el Distrito de Cartagena como en el departamento de Bolívar. Pero, cuando ya tenía u**n proceso penal por prevaricato** contra **William Dau Chamat** para imputación de cargos y medida de aseguramiento (¡oh, sorpresa!), desde Bogotá, le vino su traslado para la región del **Magdalena Medio**.
@@ -19,7 +19,7 @@ Desde que tomó posesión, **William Dau Chamat**, parece que llegó a ese cargo
 
 ## Alias «el Tractor» en aprieto por el caso de la curaduría
 
-![¿Le tienen la medida de aseguramiento contra alias «el Tractor»?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/alias-el-tractor-puede-hacer-trasladar-a-una-fiscal/DAU-CHAMAT_AUDIENCIA_1.jpg)
+![¿Le tienen la medida de aseguramiento contra alias «el Tractor»?](s3://bundled-saddlebag-tnqki7w/2023/03/alias-el-tractor-puede-hacer-trasladar-a-una-fiscal/DAU-CHAMAT_AUDIENCIA_1.jpg)
 *¿Le tienen la medida de aseguramiento contra alias «el Tractor»?*
 
 A raíz de una denuncia penal presentada por Ruddy Deschamps Martínez, apoderado de Rodolfo Llamas y otros, se abrió un proceso penal por prevaricato por acción y otros delitos contra el alcalde **William Dau Chamat**, su directora de Jurídica **María Eugenia García** y su jefe de Talento Humano **Mirna Martínez.**
@@ -30,7 +30,7 @@ Ante un inminente traslado de la fiscal Liliana Velásquez, Asonal Judicial, Vej
 
 ##  Alias **«el Tractor»** tumbó al contralor distrital
 
-![El ingrato recuerdo de Pipe Córdoba que le mandó el salvavidas a alias «el Tractor» cuando estaba suspendido el 25 de mayo de 2022.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/alias-el-tractor-puede-hacer-trasladar-a-una-fiscal/contralores.jpg)
+![El ingrato recuerdo de Pipe Córdoba que le mandó el salvavidas a alias «el Tractor» cuando estaba suspendido el 25 de mayo de 2022.](s3://bundled-saddlebag-tnqki7w/2023/03/alias-el-tractor-puede-hacer-trasladar-a-una-fiscal/contralores.jpg)
 *El ingrato recuerdo de Pipe Córdoba que le mandó el salvavidas a alias «el Tractor» cuando estaba suspendido el 25 de mayo de 2022. Le quitó todos los procesos al contralor distrital Rafael Castillo.*
 
 En el momento (mayo de 2022) en que el **contralor distrital Rafael Castillo** lo tenía contra las cuerdas con una medida de **suspensión provisional** y cinco procesos de control fiscal serios, ya para juicio, el gobierno nacional y el Contralor General de la época **Felipe _Córdoba_ Larrarte** (Pipe Córdoba) le mandaron dos salvavidas. El primero, congeló la suspensión provisional valiéndose de un recurso peregrino. El segundo, utilizó el control preferencial y se llevó los cinco procesos para Bogotá donde los metió al congelador. Y allí están hasta el día de hoy.

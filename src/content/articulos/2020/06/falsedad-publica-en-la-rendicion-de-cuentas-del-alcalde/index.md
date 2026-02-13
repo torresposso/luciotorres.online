@@ -5,10 +5,10 @@ pubDate: "2020-06-02 00:28:05"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/06/falsedad-publica-en-la-rendicion-de-cuentas-del-alcalde/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2020/06/falsedad-publica-en-la-rendicion-de-cuentas-del-alcalde/hero.jpg
 ---
 
-\[caption id="attachment\_11838" align="alignnone" width="687"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/06/falsedad-publica-en-la-rendicion-de-cuentas-del-alcalde/hero.jpg) Las mentiras de Dau. **Su Rendición de Cuenta fue una falsedad pública**. Cortesía prensa alcaldía.\[/caption\] Falsedad pública. Demasiadas mentiras presentó en su **rendición de cuenta** el alcalde de Cartagena **William Dau Chamat**. La verdad: **la corrupción sigue campeando en el Distrito**. No presentó un solo hecho de anticorrupción. Su zarina anticorrupción, **Lidy Ramírez**, duró lo que dura _un merengue en la puerta de un colegio_. Su breve gobierno pasará a la historia por inmoral y negligente.
+\[caption id="attachment\_11838" align="alignnone" width="687"\]![](s3://bundled-saddlebag-tnqki7w/2020/06/falsedad-publica-en-la-rendicion-de-cuentas-del-alcalde/hero.jpg) Las mentiras de Dau. **Su Rendición de Cuenta fue una falsedad pública**. Cortesía prensa alcaldía.\[/caption\] Falsedad pública. Demasiadas mentiras presentó en su **rendición de cuenta** el alcalde de Cartagena **William Dau Chamat**. La verdad: **la corrupción sigue campeando en el Distrito**. No presentó un solo hecho de anticorrupción. Su zarina anticorrupción, **Lidy Ramírez**, duró lo que dura _un merengue en la puerta de un colegio_. Su breve gobierno pasará a la historia por inmoral y negligente.
 
 ## Dau el jefe de la nueva banda
 
@@ -24,7 +24,7 @@ De los analistas y líderes consultados, nadie vio su informe en directo. La gen
 
 ### Los papelitos no mienten
 
-\[caption id="attachment\_11836" align="alignleft" width="265"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/06/falsedad-publica-en-la-rendicion-de-cuentas-del-alcalde/relacion-de-ops.jpeg) La falsedad pública de Dau\[/caption\] ![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/06/falsedad-publica-en-la-rendicion-de-cuentas-del-alcalde/ops2.jpeg)
+\[caption id="attachment\_11836" align="alignleft" width="265"\]![](s3://bundled-saddlebag-tnqki7w/2020/06/falsedad-publica-en-la-rendicion-de-cuentas-del-alcalde/relacion-de-ops.jpeg) La falsedad pública de Dau\[/caption\] ![](s3://bundled-saddlebag-tnqki7w/2020/06/falsedad-publica-en-la-rendicion-de-cuentas-del-alcalde/ops2.jpeg)
 
 ## Dau es una mentira
 

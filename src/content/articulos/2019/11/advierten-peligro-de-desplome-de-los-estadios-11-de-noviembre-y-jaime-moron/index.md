@@ -5,10 +5,10 @@ pubDate: "2019-11-22 18:34:06"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/advierten-peligro-de-desplome-de-los-estadios-11-de-noviembre-y-jaime-moron/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/11/advierten-peligro-de-desplome-de-los-estadios-11-de-noviembre-y-jaime-moron/hero.jpg
 ---
 
-![Estadio "11 de Noviembre" 7o años de existencia.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/advierten-peligro-de-desplome-de-los-estadios-11-de-noviembre-y-jaime-moron/hero.jpg)
+![Estadio "11 de Noviembre" 7o años de existencia.](s3://bundled-saddlebag-tnqki7w/2019/11/advierten-peligro-de-desplome-de-los-estadios-11-de-noviembre-y-jaime-moron/hero.jpg)
 *Estadio "11 de Noviembre", 70 años de existencia. Cortesía.*
 
 Profesionales de la Sociedad de Ingenieros y Arquitectos de Bolívar (**SIAB**), **le advirtieron al alcalde Pedrito Pereira Caballero** que dos de los grandes escenarios de la ciudad presentan una **fatiga estructural.** Advierten que podría presentarse una **tragedia -lease, ¡peligro de desplome!**\- si no se adoptan las medidas preventivas del caso.
@@ -37,7 +37,7 @@ Te puede interesar: [Cartagena sin alcalde electo](/articulos/cartagena-sin-alca
 
 ## Informe técnico
 
-![¡Peligro de desplome!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/advierten-peligro-de-desplome-de-los-estadios-11-de-noviembre-y-jaime-moron/quintana.jpg)
+![¡Peligro de desplome!](s3://bundled-saddlebag-tnqki7w/2019/11/advierten-peligro-de-desplome-de-los-estadios-11-de-noviembre-y-jaime-moron/quintana.jpg)
 *Jorge Quintana Sosa, tiene una documentación donde sustenta el peligro de desplome de los estadios "11 de noviembre" y "Jaime Morón".*
 
 El ingeniero civil **Rocha Rodríguez** le envió al veedor una reseña del informe denominado **Revisión de los Estudios de Vulnerabilidad Sísmica de los Estadios Jaime Morón y Once de Noviembre**. La advertencia de peligro de desplome fue dejada sentada en varias instancias del Distrito. En el caso del **"11 de Noviembre"** presenta 10 ítems que se deben tomar en cuenta para su reforzamiento estructural. En tanto para el estadio "Jaime Morón" se especificaron 4 ítems.
@@ -60,7 +60,7 @@ Este periodista indagará por su cuenta qué hay más allá de la multimillonari
 
 ## ¿Peligro de desplome?
 
-![¡No hay peligro!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/11/advierten-peligro-de-desplome-de-los-estadios-11-de-noviembre-y-jaime-moron/edgar-marin.jpg)
+![¡No hay peligro!](s3://bundled-saddlebag-tnqki7w/2019/11/advierten-peligro-de-desplome-de-los-estadios-11-de-noviembre-y-jaime-moron/edgar-marin.jpg)
 *Edgar Marín, secretario de Infraestructura manifiesta que los escenarios deportivos cumplen con las especificaciones básicas del NSR-10. Es decir, que no hay problemas. Cortesía alcaldía.*
 
 En un escrito enviado al **Juzgado Quinto Penal Municipal,** dentro del proceso de tutela donde aparece el veedor Quintana Sosa como demandante, Marín señala que de acuerdo con el estudio realizado por la **Consultoría Consorcio Estadio**, que **los estadios cumplen con los requisitos mínimos establecidos por el Reglamento NSR-10**. Por tanto, descarta un peligro de desplome de algunas de las estructuras de los estadios.

@@ -5,10 +5,10 @@ pubDate: "2022-09-02 18:59:17"
 author: "Lucio"
 categories: ["Análisis","Mi País","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/el-decrecimiento-economico-de-irene-velez-y-su-pobre-tolerancia/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/09/el-decrecimiento-economico-de-irene-velez-y-su-pobre-tolerancia/hero.jpg
 ---
 
-![En este panel la ministra de Minas y Energía, Irene Vélez, habló como activista y poco como ministra sobre decrecimiento económico. A la derecha, la ministra del Medio Ambiente, Susana Muhamad. Modera Juan Roberto Vargas. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/el-decrecimiento-economico-de-irene-velez-y-su-pobre-tolerancia/hero.jpg)
+![En este panel la ministra de Minas y Energía, Irene Vélez, habló como activista y poco como ministra sobre decrecimiento económico. A la derecha, la ministra del Medio Ambiente, Susana Muhamad. Modera Juan Roberto Vargas. Cortesía.](s3://bundled-saddlebag-tnqki7w/2022/09/el-decrecimiento-economico-de-irene-velez-y-su-pobre-tolerancia/hero.jpg)
 *En este panel la ministra de Minas y Energía, Irene Vélez, habló como activista y poco como ministra sobre decrecimiento económico. A la derecha, la ministra del Medio Ambiente, Susana Muhamad. Modera Juan Roberto Vargas. Cortesía.*
 
 Una cosa es la teoría y otra cosa es la práctica. No es lo mismo exponer la teoría del decrecimiento económico en Cartagena de Murcia que en Cartagena de Indias. Una cosa es la teoría del decrecimiento para los países desarrollados y otra cosa es la teoría de la superación de la pobreza en las naciones llamadas del Tercer Mundo en donde se encuentra inscrito nuestro país.
@@ -33,7 +33,7 @@ Cómo entender el pensamiento de la ministra en un evento donde su presidente Ju
 
 ## El decrecimiento de Minminas
 
-![Se requiere más minerales para construir 1,5 millones de viviendas para los más pobres. El decrecimiento económico no es la solución. ¿Cuaál es la salida?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/el-decrecimiento-economico-de-irene-velez-y-su-pobre-tolerancia/congreso-de-mineria.jpg)
+![Se requiere más minerales para construir 1,5 millones de viviendas para los más pobres. El decrecimiento económico no es la solución. ¿Cuaál es la salida?](s3://bundled-saddlebag-tnqki7w/2022/09/el-decrecimiento-economico-de-irene-velez-y-su-pobre-tolerancia/congreso-de-mineria.jpg)
 *Se requiere más minerales para construir 1,5 millones de viviendas para los más pobres. El decrecimiento económico no es la solución. ¿Cuál es la salida?*
 
 Las ministras del presidente Gustavo Petro que fueron invitadas en el Congreso de Minas y Energías fueron Susana Muhamad (Minambiente) e Irene Vélez Torres (Minminas) para disertar sobre transición en el cambio climático, soberanía alimentaria y reducción de la pobreza. Se debió convertir en un buen escenario para presentar con claridad cuatro de las estrategias que tiene el nuevo gobierno: cambio climático, seguridad alimentaria, energías limpias y economía sostenible.

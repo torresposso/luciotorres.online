@@ -5,10 +5,10 @@ pubDate: "2022-10-17 14:54:18"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/el-cheque-chimbo-del-ministro-de-transporte-es-un-fraude/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/10/el-cheque-chimbo-del-ministro-de-transporte-es-un-fraude/hero.jpg
 ---
 
-![El cheque salió chimbo. El desistimiento y los "Acuerdos de Voluntades" no tienen validez constitucional y legal.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/el-cheque-chimbo-del-ministro-de-transporte-es-un-fraude/hero.jpg)
+![El cheque salió chimbo. El desistimiento y los "Acuerdos de Voluntades" no tienen validez constitucional y legal.](s3://bundled-saddlebag-tnqki7w/2022/10/el-cheque-chimbo-del-ministro-de-transporte-es-un-fraude/hero.jpg)
 *Es un fraude. El desistimiento y los "Acuerdos de Voluntades" no tienen validez constitucional y legal. El ministro de Transporte se embolsilló un cheque chimbo.*
 
 "El cheque en blanco" del **ministro de Transporte, Guillermo Reyes**, y del **presidente de la ANI, William Camargo**, que tienen en el bolsillo de sus chaquetas de paño inglés, está sin fondo. Es decir, es un "**cheque chimbo"**. Se constituye en un **fraude procesal** que promete ser uno de los grandes escándalos del gobierno del presidente Petro. De acuerdo con varios juristas consultados por **VoxPopuli Digital**, para que el "desistimiento" y, por ende, el "Acuerdo de Voluntades" sean válidos, la consulta previa, como ella lo indica, **debe ser antes** y no a posteriori de la adjudicación del contrato. **Lo contrario, haría nulo de toda nulidad el contrato de la APP Canal del Dique que piensan adjudicarle a la firma española Sacyr**.
@@ -17,7 +17,7 @@ En efecto, el desistimiento de la tutela de la presidenta del consejo comunitari
 
 ## "El cheque chimbo"
 
-![Aquí el ministro del Transporte, Guillermo Reyes, firma el cheque chimbo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/el-cheque-chimbo-del-ministro-de-transporte-es-un-fraude/Acuerdo-de-voluntades_ministro.jpg)
+![Aquí el ministro del Transporte, Guillermo Reyes, firma el cheque chimbo.](s3://bundled-saddlebag-tnqki7w/2022/10/el-cheque-chimbo-del-ministro-de-transporte-es-un-fraude/Acuerdo-de-voluntades_ministro.jpg)
 *Aquí el ministro del Transporte, Guillermo Reyes, firma el cheque chimbo.*
 
 Así lo indica la jurisprudencia constitucional. La consulta previa y el consentimiento previo, libre e informado debe ser antes del acto administrativo, señala la línea jurisprudencial. Sin la efectiva participación de las comunidades afectadas, la actuación administrativa no se puede adelantar. Si lo hacen, estaría viciada en su constitucionalidad y legalidad.

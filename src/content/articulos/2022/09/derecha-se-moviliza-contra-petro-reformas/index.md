@@ -5,10 +5,10 @@ pubDate: "2022-09-27 00:08:38"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/derecha-se-moviliza-contra-petro-reformas/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/09/derecha-se-moviliza-contra-petro-reformas/hero.jpg
 ---
 
-![La derecha se moviliza contra las petroreformas. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/derecha-se-moviliza-contra-petro-reformas/hero.jpg)
+![La derecha se moviliza contra las petroreformas. ](s3://bundled-saddlebag-tnqki7w/2022/09/derecha-se-moviliza-contra-petro-reformas/hero.jpg)
 *La derecha se moviliza contra las petroreformas. Cortesía ElColombiano.*
 
 Por primera vez en la historia, la **derecha se moviliz**a contra un presidente de Colombia. Ahora experimenta el hecho de no controlar monolíticamente el gobierno. Aunque las marchas de este 26 de septiembre fueron tímidas, podría ser la cuota inicial de un movimiento que se acrecentaría paulatinamente. Esto solo sucederá si el presidente Gustavo Petro no cumple con lo prometido en su propuesta de **Cambio para la Vida**.
@@ -29,7 +29,7 @@ El tuit del ministro del Interior de Petro.
 
 ## Marchas inéditas
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/derecha-se-moviliza-contra-petro-reformas/marcha_medellin.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/09/derecha-se-moviliza-contra-petro-reformas/marcha_medellin.jpg)
 
 Hasta ahora las calles habían sido escenario de la izquierda y de las organizaciones sociales marginadas del país. Escenarios de luchas contra políticas gubernamentales. El último caso significativo fue el Paro Nacional del 28 de abril contra la Reforma Tributaria de **Iván Duque**. En la primera semana de protesta, Duque se vio obligado a retroceder y archivar su reforma.
 
@@ -39,7 +39,7 @@ Se puede considerar que estas movilizaciones podrían ser el inicio de un proces
 
 ## La derecha se moviliza en Medellín
 
-![La derecha se moviliza contra las Petroreformas](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/derecha-se-moviliza-contra-petro-reformas/marcha-en-medellin.jpg)
+![La derecha se moviliza contra las Petroreformas](s3://bundled-saddlebag-tnqki7w/2022/09/derecha-se-moviliza-contra-petro-reformas/marcha-en-medellin.jpg)
 *Así fue la marcha en Medellín. Cortesía ElColombiano.*
 
 Se debe destacar que las marchas en Medellín, según reportes de diferentes fuentes noticiosas, fueron las más contundentes y masivas. Existen dos razones para que esto fuera así. La primera, existe un malestar contra el gobierno del alcalde **Daniel Quintero** que se combinó con el malestar contra Gustavo Petro de la derecha paisa. La segunda, Medellín y Antioquia reúne un acumulado de la derecha de Colombia, la cual se expresó en las pasadas campañas electorales.

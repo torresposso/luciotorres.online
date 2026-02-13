@@ -5,10 +5,10 @@ pubDate: "2018-11-16 02:34:18"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/hero.jpg)
 *Conversando con la comisionada Martha Ruiz Naranjo, de Antioquia. La Comisión de la Verdad, una institución sin representación costeña.*
 
 ¿Podrá la **Comisión de la Verdad**, de composición _**cachacopaisa**_, conocer la realidad del conflicto armado colombiano sin representación costeña? Fue la pregunta que le hicimos a la comisionada **Martha Cecilia Ruiz** **Naranjo**, periodista de la revista Semana, oriunda de Antioquia y residenciada en Bogotá, mientras explicaba a los periodistas de la costa Caribe el papel extrajudicial de esa instancia surgida de los acuerdos de paz con las FARC.
@@ -21,7 +21,7 @@ Pudo sentir vergüenza, porque de los 11 comisionados, Antioquia tiene 6, Bogot�
 
 ## La Comisión no habla «costeñol»
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/IMG_7731-scaled-1.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/IMG_7731-scaled-1.jpg)
 *Algunos periodistas del Caribe reunidos por la Comisión de la Verdad para instalar una de las 5 subcomisiones en Barranquilla. Si nosotros hablamos en costeñol», ¿la Comisión nos podrá entender?*
 
 ¿Qué se le puede decir a los familiares de los masacrados, desaparecidos, desplazados, despojados, violados, hombres y mujeres de esta región, que esperan una verdad limpia y sin ninguna mancha? **El 33% de las víctimas del conflicto armado colombiano son del Caribe**. Somos la primera región victimizada. El daño sufrido por nuestro territorio es incalculable en términos como lo define la teoría del daño jurídico. **Pero hay un daño que va más allá, y es el que se refiere a la cultura, la idiosincrasia, el arte, el sentido de pertenencia, el arraigo**.
@@ -30,12 +30,12 @@ El Caribe está compuesto por 8 departamentos, cuatro subregiones bien delimitad
 
 Son nueve lenguas vivas, las cuales usamos en este territorio para comunicarnos. Nuestras costumbres y cultura son diferenciadoras. El **_criollo antillano_** con el **_criollo tierradentro_** se encuentran en medio de una rica diversidad a través de vasos comunicantes demarcados por el mar Caribe, ríos, ciénagas, cuerpos de agua y ecosistemas. Estos accidentes geográficos son el suelo donde se asienta la **multiculturalidad** estudiada por científicos sociales, como nuestro paisano **Orlando Falsborda** y llevada a la eternidad por escritores y periodistas como **Gabriel García Márquez**, víctimas del conflicto armado. (**Pueden leer mi libro ¿Adiós a la guerra? Una reseña: www.adiosalaguerra.com**)
 
-![Arturo Zea Solano, coordinador de la Subcomisión del Caribe.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/IMG_7744-2-scaled-1.jpg)
+![Arturo Zea Solano, coordinador de la Subcomisión del Caribe.](s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/IMG_7744-2-scaled-1.jpg)
 *Arturo Zea Solano nombrado coordinador de la Subcomisión del Caribe con sede en Barranquilla. Los periodistas pidieron descentralización de la verdad. La sede debe ser Magangué.*
 
 De las indemnizaciones decretadas hasta 2016, las víctimas costeñas solo **han recibido el 3%**, mientras que las de Antioquia recibieron el 16%, según cifras de la Unidad de Víctimas. Si hay más de ocho millones de víctimas y nosotros somos el 33%, **¿por qué nos revictimizan?** ¿Por qué no hubo debate en el congreso teniendo la bancada más grande de las regiones? ¿Por qué se silenciaron los gobernadores, las universidades y los grandes medios de comunicación del Caribe? ¿Por qué calló el abanderado de la regionalización, **Eduardo Verano de la Rosa**? La verdad es que los costeños somos los responsables de esta revictimización. Hemos aceptado pasivamente esta sentencia cachocéntrica. No tenemos voz en ninguna instancia de poder del nuevo sistema posconflicto, y **sin representación en la Comisión de la Verdad, nunca sabremos la verdad oculta en millones de historias olvidadas**.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/comision.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/comision.jpg)
 *Una comisión «cachacopaisa». Ni un solo costeño. Para más piedra, la única afro es antioqueña. ¿Está por afro o por antioqueña?*
 
 ## Sin representación, no habrá verdad
@@ -48,7 +48,7 @@ La respuesta es un no rotundo. No es pesimismo, es una verdad que salta a la vis
 
 ## El Caribe como víctima
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/placeholder.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2018/11/la-comision-de-la-verdad-cachacopaisa-no-habla-costenol-revictimiza-al-caribe-i/placeholder.jpg)
 *El presidente de la Comisión de la Verdad, Francisco José de Roux Reginfo, S.J., un paisa que vive desde hace rato en Bogotá.*
 
 Viendo la Comisión de Paz como una instancia representativa que busca la verdad de las cosas surgidas de una confrontación armada, **la ausencia de la representación territorial es una exclusión objetiva.** Aunque los comisionados no sean conscientes,  puede determinar a _priori_ su limitación para conocer la verdad verdadera en el Caribe colombiano. Si entendemos que el territorio es una construcción social, su **deconstrucción** también lo es. Es necesario que exista una _**deconstrucción**_ **cultural** que mana de la región y no del centro. En este caso prima una **visión cachacocéntrica** heredada de la institucionalidad colonial, la cual es perpetuada por esa visión **_cachacopaisa_**.

@@ -5,10 +5,10 @@ pubDate: "2022-08-04 23:34:49"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/el-presidente-petro-definira-el-futuro-del-canal-del-dique/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/08/el-presidente-petro-definira-el-futuro-del-canal-del-dique/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/el-presidente-petro-definira-el-futuro-del-canal-del-dique/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/08/el-presidente-petro-definira-el-futuro-del-canal-del-dique/hero.jpg)
 *Petro definirá el futuro del Canal del Dique, pero con la participación directa delas comunidades. Alianza Canal del Dique.*
 
 Hoy, quedó oficialmente suspendido el proceso licitatorio del Canal del Dique. Entonces, Petro definirá el futuro de uno de los ecosistemas más importantes que tenemos en el Caribe colombiano. Fue una ardua lucha de dos años. Una lucha originada desde las profundidades olvidadas de esta subregión forjada por el sudor de indígenas y negros esclavizados desde la época colonial.
@@ -60,7 +60,7 @@ Sin embargo, todavía falta mucho. Apenas se va a poner a prueba al nuevo gobier
 
 ## El papel de Meléndez
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/el-presidente-petro-definira-el-futuro-del-canal-del-dique/ADIL-PETRO3.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/08/el-presidente-petro-definira-el-futuro-del-canal-del-dique/ADIL-PETRO3.jpg)
 *Los líderes del Canal del Dique le apostaron al Cambio. Ahora esperamos que el gobierno de Petro le apueste a la comunidad para que sea parte del desarrollo sostenible. Petro definirá el futuro.*
 
 Adil Meléndez Márquez, de la Agencia Nacional Étnica-ANET, es uno de los abogados que desde el comienzo viene acompañando a las comunidades del Canal del Dique en la defensa de sus derechos colectivos. Es promotor de la **medida cautelar adoptada por la JEP** para evitar que el fondo del Canal se drague sin que previamente se haga el protocolo para hallar los restos humanos depositados por los criminales de la autodefensas y demás grupos armados. Y es que en este brazo del río Magdalena yacen muchos cuerpos humanos desaparecidos por la guerra paramilitar.
@@ -69,7 +69,7 @@ Se mostró muy satisfecho por el aplazamiento de la adjudicación de la licitaci
 
 ## Las veedurías
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/el-presidente-petro-definira-el-futuro-del-canal-del-dique/hector-perez-y-comunidad1.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/08/el-presidente-petro-definira-el-futuro-del-canal-del-dique/hector-perez-y-comunidad1.jpg)
 *Héctor Pérez fue uno de los veedores que acompañó este proceso con sus acciones constitucionales y acompañamiento a la comunidad.*
 
 Por su parte, el veedor social, **Héctor Pérez Fernández**, quien también coadyuvó a las acciones constitucionales de la Alianza para la Defensa del Canal del Dique, el día anterior pidió a la ANI que le solicitara a la Comisión Nacional de los Mercados y la Competencia de España (CNMC) copia de los expedientes de las investigaciones que se le sigue a SACYR la única proponente en el proceso licitatorio. De igual manera se estudiara el informe de la Contraloría General sobre la experiencia que se tiene con esa firma española en Colombia y el proceso de responsabilidad fiscal por $23 mil millones.

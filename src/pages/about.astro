@@ -1,7 +1,5 @@
 ---
-import BaseHead from "../components/BaseHead.astro";
-import Footer from "../components/Footer.astro";
-import Header from "../components/Header.astro";
+import Layout from "../layouts/Layout.astro";
 import FallbackImage from "../assets/blog-placeholder-about.jpg";
 import { SITE_TITLE } from "../consts";
 
@@ -23,504 +21,224 @@ const schema = {
 };
 ---
 
-<!doctype html>
-<html lang="es">
-	<head>
-		<BaseHead
-			title="¿Quién es Lucio Torres?"
-			description="Edison Lucio Torres - Comunicador Social, Periodista y Escritor. Defensor y docente universitario de Derechos Humanos."
-			image={FallbackImage}
-			schema={schema}
-		/>
-	</head>
-	<body>
-		<Header />
-		<main class="about-page">
-			<section class="about-hero">
-				<div class="container">
-					<div class="about-hero-inner">
-						<div class="about-hero-content">
-							<div class="sec-label">
-								<div class="dot"></div><span>Biografía</span>
+<Layout
+	title="¿Quién es Lucio Torres?"
+	description="Edison Lucio Torres - Comunicador Social, Periodista y Escritor. Defensor y docente universitario de Derechos Humanos."
+	image={{ src: "https://luciotorres.com.co/wp-content/uploads/2025/10/lucio-torres.png" } as any}
+>
+	<!-- HERO SECTION -->
+	<section
+		class="py-32 bg-white relative overflow-hidden px-6 lg:px-12 border-b border-base-300"
+	>
+		<div
+			class="max-w-screen-2xl mx-auto flex flex-col lg:flex-row gap-24 items-center"
+		>
+			<div class="lg:w-7/12 order-2 lg:order-1">
+				<div class="flex items-center gap-4 mb-12">
+					<div
+						class="flag-separator w-16 h-2 rounded-full overflow-hidden"
+					>
+						<div class="y"></div>
+						<div class="b"></div>
+						<div class="r"></div>
+					</div>
+					<span
+						class="text-xs font-black uppercase tracking-[0.5em] text-neutral"
+						>BIOGRAFÍA</span
+					>
+				</div>
+
+				<h1
+					class="text-7xl md:text-[10rem] font-editorial font-black leading-[0.8] text-neutral uppercase tracking-tighter mb-12"
+				>
+					EDISON <br />
+					<span class="text-secondary">LUCIO TORRES.</span>
+				</h1>
+
+				<p
+					class="text-3xl font-editorial font-bold text-neutral leading-tight mb-12 italic border-l-8 border-primary pl-8"
+				>
+					"Periodista por vocación, defensor por deber, candidato por
+					amor a Colombia."
+				</p>
+
+				<div
+					class="prose-journal text-neutral/70 text-xl leading-relaxed max-w-2xl"
+				>
+					<p>
+						Comunicador social, periodista y escritor colombiano,
+						defensor y docente universitario de Derechos Humanos.
+						Luchador incansable contra la corrupción y uno de los
+						precandidatos presidenciales más coherentes de la
+						nación.
+					</p>
+				</div>
+
+				<div class="flex flex-wrap gap-6 mt-16">
+					<a
+						href="https://es.wikipedia.org/wiki/Edison_Lucio_Torres"
+						target="_blank"
+						class="btn-hero-primary"
+					>
+						WIKIPEDIA
+					</a>
+					<a href="/gran-colombia" class="btn-hero-secondary">
+						MI PROYECTO
+					</a>
+				</div>
+			</div>
+
+			<div class="lg:w-5/12 order-1 lg:order-2">
+				<img
+					src="https://luciotorres.com.co/wp-content/uploads/2025/10/lucio-torres.png"
+					alt="Edison Lucio Torres"
+					class="w-full grayscale hover:grayscale-0 transition-all duration-1000 shadow-2xl border border-base-300"
+				/>
+			</div>
+		</div>
+	</section>
+
+	<!-- TRAYECTORIA SECTION -->
+	<section class="py-32 bg-base-200/30 px-6 lg:px-12">
+		<div class="max-w-7xl mx-auto">
+			<div class="mb-24">
+				<h2
+					class="text-6xl md:text-8xl font-editorial font-black text-neutral uppercase tracking-tighter leading-none mb-8"
+				>
+					HISTORIA <br />
+					<span class="text-accent">& LUCHA.</span>
+				</h2>
+				<div
+					class="flag-separator w-24 h-2 rounded-full overflow-hidden"
+				>
+					<div class="y"></div>
+					<div class="b"></div>
+					<div class="r"></div>
+				</div>
+			</div>
+
+			<div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+				{
+					[
+						{
+							year: "1945",
+							title: "Nacimiento",
+							desc: "Nace en Magangué, Bolívar. Cuna de su vocación por la comunicación y la justicia.",
+						},
+						{
+							year: "1970s",
+							title: "Liderazgo Estudiantil",
+							desc: "Dirigió las jornadas estudiantiles de Magangué y Barranquilla. Expulsado por luchar por la calidad educativa.",
+						},
+						{
+							year: "1979",
+							title: "Periodismo Puro",
+							desc: "Inicia su carrera profesional. Trabajó en Caracol, RCN y El Heraldo, denunciando la corrupción.",
+						},
+						{
+							year: "2010",
+							title: "Visión Nacional",
+							desc: "Precandidato presidencial junto a Carlos Gaviria y Gustavo Petro por el Polo Democrático.",
+						},
+					].map((item) => (
+						<div class="bg-white p-12 border border-base-300 transition-all duration-500 hover:shadow-2xl">
+							<div class="text-4xl font-editorial font-black text-primary mb-4 italic tracking-tighter">
+								{item.year}
 							</div>
-							<h1>Edison Lucio Torres</h1>
-							<p class="about-subtitle">
-								Comunicador Social · Periodista · Escritor · Defensor de Derechos Humanos · Docente Universitario
+							<h3 class="text-2xl font-editorial font-black text-neutral uppercase tracking-tight mb-4">
+								{item.title}
+							</h3>
+							<p class="text-neutral/60 font-medium leading-relaxed">
+								{item.desc}
 							</p>
-							<p class="about-intro">
-								Comunicador social, periodista y escritor colombiano, defensor y docente universitario de Derechos Humanos. 
-								Fue, junto a Carlos Gaviria y a Gustavo Petro, uno de los precandidatos inscritos de cara a las elecciones 
-								presidenciales de 2010 por el partido Polo Democrática Alternativo.
+						</div>
+					))
+				}
+			</div>
+		</div>
+	</section>
+
+	<!-- ESPECIALIDADES -->
+	<section class="py-32 bg-white px-6 lg:px-12 border-t border-base-300">
+		<div class="max-w-screen-2xl mx-auto">
+			<div
+				class="grid grid-cols-1 md:grid-cols-4 gap-px bg-base-300 border border-base-300"
+			>
+				{
+					[
+						{
+							icon: "M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z",
+							title: "Comunicador",
+							desc: "Experiencia nata en la construcción de opinión pública.",
+						},
+						{
+							icon: "M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z",
+							title: "Periodista",
+							desc: "Ejerciendo la verdad desde 1979 con rigor y valor.",
+						},
+						{
+							icon: "M12 14l9-5-9-5-9 5 9 5z",
+							title: "Docente",
+							desc: "Educando a las nuevas generaciones de pensadores colombianos.",
+						},
+						{
+							icon: "M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7",
+							title: "Escritor",
+							desc: "Autor de obras que analizan la realidad social nacional.",
+						},
+					].map((item) => (
+						<div class="bg-white p-12 transition-all duration-500 hover:bg-base-200/50">
+							<div class="w-12 h-12 text-secondary mb-8">
+								<svg
+									xmlns="http://www.w3.org/2000/svg"
+									fill="none"
+									viewBox="0 0 24 24"
+									stroke="currentColor"
+								>
+									<path
+										stroke-linecap="round"
+										stroke-linejoin="round"
+										stroke-width="1.5"
+										d={item.icon}
+									/>
+								</svg>
+							</div>
+							<h3 class="text-xl font-editorial font-black text-neutral uppercase tracking-widest mb-4">
+								{item.title}
+							</h3>
+							<p class="text-neutral/60 text-sm font-medium leading-relaxed">
+								{item.desc}
 							</p>
-							<div class="about-links">
-								<a href="https://es.wikipedia.org/wiki/Edison_Lucio_Torres" target="_blank" rel="noopener" class="btn btn-gold">
-									Wikipedia
-								</a>
-								<a href="/gran-colombia" class="btn btn-glass">
-									Ver Mi Proyecto
-								</a>
-							</div>
 						</div>
-						<div class="about-hero-image">
-							<img src="https://luciotorres.com.co/wp-content/uploads/2025/10/lucio-torres.png" alt="Lucio Torres" />
-						</div>
-					</div>
-				</div>
-			</section>
+					))
+				}
+			</div>
+		</div>
+	</section>
 
-			<section class="about-timeline">
-				<div class="container">
-					<div class="section-head">
-						<div>
-							<div class="sec-label">
-								<div class="dot"></div><span>Trayectoria</span>
-							</div>
-							<h2>Historia y Lucha</h2>
-						</div>
-					</div>
-					<div class="timeline-content">
-						<div class="timeline-block">
-							<div class="timeline-year">1945</div>
-							<div class="timeline-text">
-								<h4>Nacimiento</h4>
-								<p>Nace en Magangué, Bolívar, Colombia. Desde joven mostró una vocación innata por la comunicación y la justicia social.</p>
-							</div>
-						</div>
-						<div class="timeline-block">
-							<div class="timeline-year">1970s</div>
-							<div class="timeline-text">
-								<h4>Liderazgo Estudiantil</h4>
-								<p>Perteneció a los círculos socialists estudiantiles de finales de la década de los 70. Dirigió las jornadas estudiantiles de Magangué y Barranquilla. Lideró el movimiento estudiantil que luchó por el mejoramiento de la calidad de la educación. En septiembre fue expulsado del Liceo Vélez donde estudiaba su bachillerato.</p>
-							</div>
-						</div>
-						<div class="timeline-block">
-							<div class="timeline-year">1977</div>
-							<div class="timeline-text">
-								<h4>Paro Cívico Nacional</h4>
-								<p>Participó activamente en el Paro Cívico Nacional de 1977. Ese mismo año debió abandonar definitivamente a Magangué para radicarse en Barranquilla.</p>
-							</div>
-						</div>
-						<div class="timeline-block">
-							<div class="timeline-year">1979</div>
-							<div class="timeline-text">
-								<h4>Periodista Profesional</h4>
-								<p>Comenzó a ejercer el periodismo cuando se matriculó en la Universidad Autónoma del Caribe en el programa de comunicación social-periodismo, donde se graduó. Trabajó en Caracol, RCN y Olímpica, y en diarios como El Heraldo, Diario del Caribe y La Libertad. Fue corresponsal en Barranquilla del noticiero Promec, dirigido por María Teresa Herrán. Promovió la profesionalización y los derechos de los periodistas.</p>
-							</div>
-						</div>
-						<div class="timeline-block">
-							<div class="timeline-year">1991</div>
-							<div class="timeline-text">
-								<h4>Consulta Popular</h4>
-								<p>Se destacó en la construcción de opinión pública crítica y proactiva desde la radio barranquillera. Impulsó activamente la consulta popular de la Ad-M19 para escoger como candidato a la Alcaldía de Barranquilla al padre Bernardo Hoyos Montoya. Fue uno de los fundadores del Movimiento Ciudadano.</p>
-							</div>
-						</div>
-						<div class="timeline-block">
-							<div class="timeline-year">1996</div>
-							<div class="timeline-text">
-								<h4>Candidato al Senado</h4>
-								<p>Fue candidato al Senado pero renunció para apoyar a Laura García Vda. de Pizarro.</p>
-							</div>
-						</div>
-						<div class="timeline-block">
-							<div class="timeline-year">2001</div>
-							<div class="timeline-text">
-								<h4>Regreso a Cartagena</h4>
-								<p>Luego de sentirse frustrado por el proyecto político de Barranquilla, regresó a Cartagena. Cursó Altos Estudios en derechos humanos, historia nacional y la especialización en periodismo de investigación con la Universidad de Antioquia y Universidad Nacional.</p>
-							</div>
-						</div>
-						<div class="timeline-block">
-							<div class="timeline-year">2009</div>
-							<div class="timeline-text">
-								<h4>Precandidato Presidencial</h4>
-								<p>Decidió promover su campaña como precandidato presidencial de la República de Colombia para las consultas internas de su partido Polo Democrático Alternativo.</p>
-							</div>
-						</div>
-						<div class="timeline-block">
-							<div class="timeline-year">2010</div>
-							<div class="timeline-text">
-								<h4>Elecciones Presidenciales</h4>
-								<p>Fue, junto a Carlos Gaviria y a Gustavo Petro, uno de los precandidatos inscritos de cara a las elecciones presidenciales de 2010 por el partido Polo Democrática Alternativo.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-
-			<section class="about-skills">
-				<div class="container">
-					<div class="section-head">
-						<div>
-							<div class="sec-label">
-								<div class="dot"></div><span>Especialidades</span>
-							</div>
-							<h2>Mis Conocimientos</h2>
-						</div>
-					</div>
-					<div class="skills-grid">
-						<div class="skill-card">
-							<div class="skill-icon">
-								<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
-							</div>
-							<h3>Comunicador Social</h3>
-							<p>Amplia experiencia y trayectoria me avalan como un Comunicador Social nato.</p>
-						</div>
-						<div class="skill-card">
-							<div class="skill-icon">
-								<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
-							</div>
-							<h3>Periodista</h3>
-							<p>Matriculado en 1979, comenzé a ejercer el periodismo cuando en la Universidad Autónoma del Caribe.</p>
-						</div>
-						<div class="skill-card">
-							<div class="skill-icon">
-								<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
-							</div>
-							<h3>Docente</h3>
-							<p>Inicié la docencia en 1979, educando y guiando a jóvenes promesas de Colombia.</p>
-						</div>
-						<div class="skill-card">
-							<div class="skill-icon">
-								<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
-							</div>
-							<h3>Escritor</h3>
-							<p>Cursé Altos Estudios en derechos humanos, historia nacional y la especialización en periodismo de investigación.</p>
-						</div>
-					</div>
-				</div>
-			</section>
-
-			<section class="about-cta">
-				<div class="cta-inner">
-					<h2>La Gran Colombia se forja desde tu corazón, desde el <span class="gold">Yo Soy</span></h2>
-					<p class="sub">Únete a esta misión de transformación nacional.</p>
-					<div class="cta-btns">
-						<a href="/gran-colombia" class="btn btn-gold">El Manifiesto</a>
-						<a href="/poder-del-ser" class="btn btn-r">El Poder del Ser</a>
-					</div>
-				</div>
-			</section>
-		</main>
-		<Footer />
-	</body>
-</html>
-
-<style is:global>
-	.about-page {
-		width: 100% !important;
-		max-width: 100% !important;
-		margin: 0 !important;
-		padding: 0 !important;
-	}
-</style>
-
-<style>
-	.container {
-		max-width: 1200px;
-		margin: 0 auto;
-		padding: 0 1.5rem;
-	}
-
-	.section-head {
-		display: flex;
-		justify-content: space-between;
-		align-items: flex-end;
-		margin-bottom: 4rem;
-		padding-bottom: 1.25rem;
-		border-bottom: 2px solid var(--text);
-	}
-	.section-head h2 {
-		font-family: var(--font-heading);
-		font-size: 2.75rem;
-		font-weight: 400;
-	}
-
-	.sec-label {
-		display: flex;
-		align-items: center;
-		gap: 0.75rem;
-		margin-bottom: 0.75rem;
-	}
-	.sec-label .dot {
-		width: 10px;
-		height: 10px;
-		border-radius: 50%;
-		background: var(--gradient-accent);
-	}
-	.sec-label span {
-		font-size: 0.75rem;
-		font-weight: 700;
-		text-transform: uppercase;
-		letter-spacing: 0.15em;
-		color: var(--text-muted);
-	}
-
-	/* Hero */
-	.about-hero {
-		background: var(--gradient-hero);
-		min-height: 80vh;
-		display: flex;
-		align-items: center;
-		padding: 10rem 0 6rem;
-		position: relative;
-	}
-	.about-hero::before {
-		content: "";
-		position: absolute;
-		inset: 0;
-		background: radial-gradient(circle at 70% 30%, rgba(245, 158, 11, 0.15) 0%, transparent 50%),
-			radial-gradient(circle at 20% 80%, rgba(239, 68, 68, 0.08) 0%, transparent 50%);
-	}
-	.about-hero-inner {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
-		gap: 5rem;
-		align-items: center;
-		position: relative;
-		z-index: 2;
-	}
-	.about-hero-content {
-		color: #fff;
-	}
-	.about-hero-content h1 {
-		font-family: var(--font-heading);
-		font-size: clamp(3rem, 6vw, 4.5rem);
-		font-weight: 400;
-		line-height: 1;
-		margin-bottom: 1.5rem;
-	}
-	.about-subtitle {
-		font-size: 1.25rem;
-		color: var(--colombia-y);
-		margin-bottom: 1.5rem;
-		font-weight: 500;
-	}
-	.about-intro {
-		font-size: 1.1rem;
-		color: rgba(255, 255, 255, 0.7);
-		line-height: 1.7;
-		margin-bottom: 2.5rem;
-	}
-	.about-links {
-		display: flex;
-		gap: 1rem;
-		flex-wrap: wrap;
-	}
-	.about-hero-image {
-		text-align: center;
-	}
-	.about-hero-image img {
-		width: 100%;
-		max-width: 450px;
-		border-radius: 24px;
-		box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
-	}
-
-	.btn {
-		display: inline-flex;
-		align-items: center;
-		gap: 0.6rem;
-		padding: 0.9rem 2rem;
-		border-radius: 50px;
-		font-weight: 700;
-		font-size: 0.95rem;
-		text-decoration: none;
-		border: none;
-		cursor: pointer;
-		transition: all 0.3s;
-		line-height: 1;
-		font-family: var(--font-body);
-		text-transform: uppercase;
-		letter-spacing: 0.05em;
-	}
-	.btn-gold {
-		background: var(--colombia-y);
-		color: var(--text);
-	}
-	.btn-gold:hover {
-		background: #fff;
-		transform: translateY(-2px);
-		box-shadow: 0 10px 30px rgba(245, 158, 11, 0.35);
-	}
-	.btn-glass {
-		background: rgba(255, 255, 255, 0.08);
-		color: #fff;
-		border: 1.5px solid rgba(255, 255, 255, 0.2);
-		backdrop-filter: blur(8px);
-	}
-	.btn-glass:hover {
-		background: rgba(255, 255, 255, 0.15);
-		border-color: rgba(255, 255, 255, 0.4);
-	}
-	.btn-r {
-		background: var(--colombia-r);
-		color: #fff;
-	}
-	.btn-r:hover {
-		transform: translateY(-2px);
-		box-shadow: 0 10px 30px rgba(239, 68, 68, 0.35);
-	}
-
-	/* Timeline */
-	.about-timeline {
-		padding: 8rem 0;
-		background: var(--bg);
-	}
-	.timeline-content {
-		display: grid;
-		grid-template-columns: repeat(2, 1fr);
-		gap: 2rem;
-	}
-	.timeline-block {
-		background: var(--surface);
-		border: 1px solid var(--border);
-		border-radius: 20px;
-		padding: 2rem;
-		display: flex;
-		gap: 1.5rem;
-		transition: all 0.3s;
-	}
-	.timeline-block:hover {
-		transform: translateY(-4px);
-		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
-	}
-	.timeline-year {
-		font-family: var(--font-heading);
-		font-size: 1.75rem;
-		color: var(--colombia-gold);
-		font-weight: 400;
-		white-space: nowrap;
-	}
-	.timeline-text h4 {
-		font-family: var(--font-heading);
-		font-size: 1.1rem;
-		font-weight: 400;
-		margin-bottom: 0.5rem;
-		color: var(--text);
-	}
-	.timeline-text p {
-		font-size: 0.95rem;
-		color: var(--text-muted);
-		line-height: 1.6;
-	}
-
-	/* Skills */
-	.about-skills {
-		padding: 8rem 0;
-		background: linear-gradient(180deg, var(--bg) 0%, #f1f5f9 100%);
-	}
-	.skills-grid {
-		display: grid;
-		grid-template-columns: repeat(4, 1fr);
-		gap: 2rem;
-	}
-	.skill-card {
-		background: var(--surface);
-		border: 1px solid var(--border);
-		border-radius: 20px;
-		padding: 2.5rem 2rem;
-		text-align: center;
-		transition: all 0.3s;
-	}
-	.skill-card:hover {
-		transform: translateY(-6px);
-		box-shadow: 0 15px 40px rgba(0, 0, 0, 0.05);
-	}
-	.skill-icon {
-		width: 60px;
-		height: 60px;
-		border-radius: 16px;
-		background: linear-gradient(135deg, rgba(245, 158, 11, 0.12), rgba(239, 68, 68, 0.08));
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		margin: 0 auto 1.5rem;
-		color: var(--colombia-gold);
-	}
-	.skill-card h3 {
-		font-family: var(--font-heading);
-		font-size: 1.25rem;
-		font-weight: 400;
-		margin-bottom: 0.75rem;
-		color: var(--text);
-	}
-	.skill-card p {
-		font-size: 0.9rem;
-		color: var(--text-muted);
-		line-height: 1.6;
-	}
-
-	/* CTA */
-	.about-cta {
-		padding: 8rem 2rem;
-		text-align: center;
-		position: relative;
-		overflow: hidden;
-		background: var(--gradient-hero);
-		color: #fff;
-	}
-	.about-cta::before {
-		content: "";
-		position: absolute;
-		inset: 0;
-		background: radial-gradient(circle at 50% 50%, rgba(245, 158, 11, 0.12) 0%, transparent 60%);
-	}
-	.cta-inner {
-		position: relative;
-		max-width: 700px;
-		margin: 0 auto;
-		z-index: 2;
-	}
-	.cta-inner h2 {
-		font-family: var(--font-heading);
-		font-size: clamp(2rem, 5vw, 3rem);
-		line-height: 1.2;
-		margin-bottom: 1.5rem;
-		font-weight: 400;
-	}
-	.cta-inner h2 .gold {
-		color: var(--colombia-y);
-	}
-	.cta-inner .sub {
-		font-size: 1.25rem;
-		color: rgba(255, 255, 255, 0.7);
-		margin-bottom: 3rem;
-	}
-	.cta-btns {
-		display: flex;
-		gap: 1.5rem;
-		justify-content: center;
-		flex-wrap: wrap;
-	}
-
-	@media (max-width: 1024px) {
-		.about-hero-inner {
-			grid-template-columns: 1fr;
-			gap: 3rem;
-			text-align: center;
-		}
-		.about-links {
-			justify-content: center;
-		}
-		.timeline-content {
-			grid-template-columns: 1fr;
-		}
-		.skills-grid {
-			grid-template-columns: repeat(2, 1fr);
-		}
-	}
-	@media (max-width: 768px) {
-		.about-hero-content h1 {
-			font-size: 2.5rem;
-		}
-		.skills-grid {
-			grid-template-columns: 1fr;
-		}
-		.timeline-block {
-			flex-direction: column;
-			gap: 0.5rem;
-		}
-		.timeline-year {
-			font-size: 1.5rem;
-		}
-	}
-</style>
+	<!-- CTA FINAL -->
+	<section class="py-40 bg-secondary text-white text-center px-6">
+		<div class="max-w-4xl mx-auto">
+			<h2
+				class="text-6xl md:text-8xl font-editorial font-black mb-12 uppercase tracking-tighter leading-tight"
+			>
+				LA PATRIA SE FORJA <br />
+				<span class="text-primary italic">DESDE EL CORAZÓN.</span>
+			</h2>
+			<div class="flex flex-wrap gap-8 justify-center">
+				<a
+					href="/gran-colombia"
+					class="btn-hero-primary bg-primary! text-neutral! border-white!"
+				>
+					EL MANIFIESTO
+				</a>
+				<a
+					href="/poder-del-ser"
+					class="btn-hero-secondary text-white! border-white! hover:bg-white! hover:text-secondary!"
+				>
+					EL PODER DEL SER
+				</a>
+			</div>
+		</div>
+	</section>
+</Layout>

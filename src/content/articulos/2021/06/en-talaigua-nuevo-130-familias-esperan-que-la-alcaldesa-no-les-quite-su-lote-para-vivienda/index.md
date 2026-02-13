@@ -5,10 +5,10 @@ pubDate: "2021-06-06 22:14:37"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/en-talaigua-nuevo-130-familias-esperan-que-la-alcaldesa-no-les-quite-su-lote-para-vivienda/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/06/en-talaigua-nuevo-130-familias-esperan-que-la-alcaldesa-no-les-quite-su-lote-para-vivienda/hero.jpg
 ---
 
-\[caption id="attachment\_15307" align="aligncenter" width="988"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/en-talaigua-nuevo-130-familias-esperan-que-la-alcaldesa-no-les-quite-su-lote-para-vivienda/talaigua-lote.jpeg) Las 130 familias tomaron posesión del lote que la alcaldesa Leonor Carpio le cambió su destinación final.\[/caption\]
+\[caption id="attachment\_15307" align="aligncenter" width="988"\]![](s3://bundled-saddlebag-tnqki7w/2021/06/en-talaigua-nuevo-130-familias-esperan-que-la-alcaldesa-no-les-quite-su-lote-para-vivienda/talaigua-lote.jpeg) Las 130 familias tomaron posesión del lote que la alcaldesa Leonor Carpio le cambió su destinación final.\[/caption\]
 
 En Talaigua Nuevo, uno de los municipios de la Depresión Momposina, con un **alto** **déficit cualitativo** de vivienda, se presentó un caso _sui generi_. Ciento treinta familias resultaron beneficiarias de los subsidios de vivienda de interés social entre 2007 y 2008. **Trece años después (2021) no tienen casas, están sin subsidios**. Ahora la alcaldesa, **Angélica Leonor Carpio Quintana**, **le cambió la destinación del lote donde se iban a construir sus viviendas.**
 
@@ -26,7 +26,7 @@ La administración de Angélica Carpio tiene en el [plan de desarrollo Talaigua 
 
 ## La génesis del problema
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/06/en-talaigua-nuevo-130-familias-esperan-que-la-alcaldesa-no-les-quite-su-lote-para-vivienda/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/06/en-talaigua-nuevo-130-familias-esperan-que-la-alcaldesa-no-les-quite-su-lote-para-vivienda/hero.jpg)
 *Este lote fue destinado para la construcción de 130 viviendas de interés social en 2008 en el gobierno de Fernando Matute.*
 
 Entre el año 2004 y 2005 se suscribió el convenio No 002/04. ¿Quiénes suscribieron el convenio? **Luis Amador Rodríguez**, alcalde de Talaigua Nuevo y, por otra parte, **Jhon Merlano Peñafiel,** representante legal de la organización Fundación Dignidad y Prosperidad—FUNDRIPO. Se suscribieron los convenios No 01 de 2006 y No 02 en 2008 para la construcción de 100 viviendas y luego se amplió a 130 en el proyecto denominado **«Urbanización Ciudadela Nueva Talaigua**».

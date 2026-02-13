@@ -5,10 +5,10 @@ pubDate: "2024-02-09 02:58:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/tension-y-miedo-en-la-corte-recordo-la-toma-del-m-19/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/02/tension-y-miedo-en-la-corte-recordo-la-toma-del-m-19/hero.jpg
 ---
 
-![Voto en blanco, tensión y miedo en la Corte recordó la toma del M/19](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/tension-y-miedo-en-la-corte-recordo-la-toma-del-m-19/hero.jpg)
+![Voto en blanco, tensión y miedo en la Corte recordó la toma del M/19](s3://bundled-saddlebag-tnqki7w/2024/02/tension-y-miedo-en-la-corte-recordo-la-toma-del-m-19/hero.jpg)
 *Voto en blanco, tensión y miedo en la Corte recordó la toma del M/19. /Cortesía ElPais.*
 
 Momentos de tensión y miedo en la Corte Suprema de Justicia se vivieron hoy, 8 de febrero de 2024. Grupos de fuerza proclive al gobierno del presidente Petro bloquearon el edificio donde funciona el alto tribunal. Llegó un momento difícil cuando otro grupo de personas intentó entrar violentamente en el parqueadero del Palacio de Justicia al saber que tampoco hoy se pudo elegir la fiscal de la terna enviada por presidencia desde agosto de 2023.
@@ -29,7 +29,7 @@ La conducción de la protesta y la forma como el presidente Petro se viene expre
 
 ## El voto en blanco
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/tension-y-miedo-en-la-corte-recordo-la-toma-del-m-19/Corte_suprema.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/02/tension-y-miedo-en-la-corte-recordo-la-toma-del-m-19/Corte_suprema.jpg)
 
 En las dos rondas que se hicieron hoy para elegir el reemplazo de **Francisco Barbosa**, según Semana.com, el voto en blanco se impuso. Esto quiere decir que el 13 de febrero asume como fiscal **Martha Mancera** y esperará que el 22 de febrero se dé otra ronda.
 

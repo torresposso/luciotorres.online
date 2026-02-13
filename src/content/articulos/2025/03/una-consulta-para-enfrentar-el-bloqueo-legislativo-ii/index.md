@@ -5,10 +5,10 @@ pubDate: "2025-03-19 03:15:22"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/una-consulta-para-enfrentar-el-bloqueo-legislativo-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/03/una-consulta-para-enfrentar-el-bloqueo-legislativo-ii/hero.jpg
 ---
 
-![¿Una consulta para enfrentar el bloqueo legislativo? ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/03/una-consulta-para-enfrentar-el-bloqueo-legislativo-ii/hero.jpg)
+![¿Una consulta para enfrentar el bloqueo legislativo? ](s3://bundled-saddlebag-tnqki7w/2025/03/una-consulta-para-enfrentar-el-bloqueo-legislativo-ii/hero.jpg)
 *Palabras del presidente Gustavo Petro Urrego en el evento ‘Movilización: Sí a las reformas sociales’. ¿Una consulta para enfrentar el bloqueo legislativo?*
 
 La tensión entre el congreso y el ejecutivo continúa. El relato presidencial es que **«no lo dejan gobernar»** y por eso pretende convocar una consulta popular para enfrentar el supuesto bloqueo legislativo. Al mismo tiempo que el **presidente Gustavo Petro** decretara día cívico y liderara desde la plaza de Bolívar, de Bogotá, las marchas del 18 de marzo, la reforma laboral la sepultaba un bloque de ocho senadores que respaldó **la ponencia de archivo del senador liberal Miguel Ángel Pinto** en la Comisión Séptima del senado.

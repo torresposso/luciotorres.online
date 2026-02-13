@@ -5,10 +5,10 @@ pubDate: "2022-01-26 22:33:38"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/barranquilla-el-califato-daeschariano-se-hace-insostenible/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/01/barranquilla-el-califato-daeschariano-se-hace-insostenible/hero.jpg
 ---
 
-![El Califato Daeschariano se hace insostenible.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/barranquilla-el-califato-daeschariano-se-hace-insostenible/El-Daescharismo.jpeg)
+![El Califato Daeschariano se hace insostenible.](s3://bundled-saddlebag-tnqki7w/2022/01/barranquilla-el-califato-daeschariano-se-hace-insostenible/El-Daescharismo.jpeg)
 *Barranquilla, el Califato Daeschariano. El modelo se expandió en toda Colombia.*
 
 El imperio del Califato Daeschariano tiembla por los indicadores sociales que revela la galopante pobreza que padece. A Barranquilla, como a la mayoría de las ciudades del Caribe, se le ha vendido como el paraíso de la economía emergente. Una economía especulativa sometida al imperio de la narcoeconomía y de las actividades subterráneas.  En suma, es una ciudad donde el 42 de su población vive en pobreza, según el Dane.
@@ -23,7 +23,7 @@ Por eso es que las encuestas de percepción de felicidad y optimismo, Barranquil
 
 Sin embargo, para darse cuenta de que las estadísticas son frías sin expresar el drama humano de la pobreza y el hambre, basta con salir y recorrer las calles de Barranquilla. La ilusión de una ciudad próspera se desmorona con solo ir al centro en plena época de fiestas de Navidad. La ciudad se sostiene por la industria del rebusque.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/barranquilla-el-califato-daeschariano-se-hace-insostenible/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/01/barranquilla-el-califato-daeschariano-se-hace-insostenible/hero.jpg)
 *Barranquilla y Cartagena se llevan las palmas de las ciudades donde la población menor posibilidad tiene de comerse las tres comidas. Barranquilla es penúltima con 33,2 y Cartagena es la última con 31,5%*
 
 Al llegar a Barranquilla uno se da cuenta que la indigencia pulula por cualquier parte. En el norte y en el sur. En el centro como en la periferia.
@@ -32,7 +32,7 @@ Mientras el monopolio de ese imperio amasa grandes fortunas que la pone a salvo 
 
 ## Un pacto de desarrollo para el maquillaje
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/01/barranquilla-el-califato-daeschariano-se-hace-insostenible/jaime-Pumarejo-pacto-social.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/01/barranquilla-el-califato-daeschariano-se-hace-insostenible/jaime-Pumarejo-pacto-social.jpg)
 *El 21 de septiembre del 2021 firmaron el pacto, Pero en diciembre el Dane confirmó la debacle social que está viviendo Barranquilla en seguridad alimentaria y pobreza. El Califato Daeschariano tambalea.*
 
 A finales del 2021 la Alcaldía de Barranquilla y veinte fundaciones de la ciudad firmaron el **Pacto por el Desarrollo Social de Barranquilla.** Eso es puro maquillaje. En realidad, para acabar con este desastre social de Barranquilla no está en ese pacto elitista de los poderosos sino en el cambio de modelo de desarrollo. Las ganancias del desarrollo deben irradiarse a los más necesitados a través de la inversión social y que los ricos paguen los impuestos de ley. El barranquillero necesita un ingreso seguro y sostenible.

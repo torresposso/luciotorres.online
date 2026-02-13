@@ -5,10 +5,10 @@ pubDate: "2023-12-07 01:35:02"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 tags: ["Alfonso Jaramillo","Ministro de Salud","Reforma a la salud"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/que-aprobo-la-camara-para-que-la-salud-sea-un-derecho-fundamental/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/12/que-aprobo-la-camara-para-que-la-salud-sea-un-derecho-fundamental/hero.jpg
 ---
 
-![La cámara votó para que la  salud sea un derecho fundamental](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/12/que-aprobo-la-camara-para-que-la-salud-sea-un-derecho-fundamental/hero.jpg)
+![La cámara votó para que la  salud sea un derecho fundamental](s3://bundled-saddlebag-tnqki7w/2023/12/que-aprobo-la-camara-para-que-la-salud-sea-un-derecho-fundamental/hero.jpg)
 *El ministro de la Salud, Alfonso Jaramillo, junto con la bancada que le votó positivamente. La salud sea un derecho fundamental.*
 
 La reforma superó el primer gran escollo en la plenaria de la cámara de representantes para que la salud sea un derecho fundamental. De los 143 artículos debatidos de la reforma a la salud, le **aprobó 133 y se eliminaron 10**. Pasaron a la segunda ronda en el senado artículos como que el pago a los hospitales lo hará directamente ADRES. Pero eliminaron el que autorizaba que los gerentes de los hospitales locales (ESE) fueran nombrados directamente por gobernadores y alcaldes.

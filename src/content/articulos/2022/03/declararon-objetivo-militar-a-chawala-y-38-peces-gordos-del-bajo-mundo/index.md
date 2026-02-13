@@ -5,10 +5,10 @@ pubDate: "2022-03-05 20:36:18"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/hero.jpg)
 *La caída de Andrea (mayo 2021) y la entrega del jefe supremo del Clan El Golfo, Otoniel, causó una guerra interna que se traduce en mayores indicadores de homicidio y sicariato en la Costa Caribe. Cortesía.*
 
 Declaran objetivo militar a **Chawala—Rey de Rocha, promotor de artistas Champeta.** También a 38 peces gordos del bajo mundo de Cartagena. Es una declaración de guerra, aparentemente, dictada por el alto rango del **Cartel Jalisco Nueva Generación** y de sus aliados colombianos. De acuerdo con las fuentes, la finalidad de esta declaración es conquistar el mercado de la exportación de la droga, la extorsión y el microtráfico en Cartagena.
@@ -17,14 +17,14 @@ Vale recordar que, desde el año pasado, viene una guerra interna del **Clan el 
 
 ## ¿Es original?
 
-![Amenaza a los peces gordos presuntamente del Cartel del Golfo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/amenaza.jpeg)
+![Amenaza a los peces gordos presuntamente del Cartel del Golfo.](s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/amenaza.jpeg)
 *Este es el panfleto atribuido a la organización militar «Salsas Mexicanos». Amenaza a los peces gordos, presuntamente, del Cartel del Golfo.*
 
 Cabe aclarar que las autoridades competentes no se han referido hasta ahora sobre la originalidad del  panfleto donde amenazan a los hombres que alguna vez estuvieron al mando de Andrea. Pero fue hecho con meticulosidad basada en una información de primera mano. Tal declaración de guerra aparece firmada por la agrupación autodenominada **Organización Militar Salsas Mexicanos**. Según fuentes de inteligencia, es una organización sucedánea del Cartel Jalisco. Pretende desplazar al Clan del Golfo y otras bandas que controlan la exportación, la extorsión y el microtráfico en las profundidades del mercado ilegal de la cocaína.
 
 ## ¿Por qué el Rey de Rocha?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/chawa25.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/chawa25.jpg)
 *Noraldo Iriarte Arias Chawala-Rey de Rocha. Cortesía,*
 
 La advertencia de la declaratoria de objetivo militar contra **Chawala—Rey de Rocha** está consignada en el documento o panfleto divulgado en el día de hoy por **«Salsas Mexicanos»**. Estuvimos tratando de dialogar con **Noraldo Iriarte Arias**, conocido como Chawala, pero no fue posible contactarlo antes de ser publicada esta nota. La idea es escuchar su impresión frente a este panfleto que circula por los canales del bajo mundo de Cartagena.
@@ -47,7 +47,7 @@ Son 38 personas que aparecen en la lista presentada por la banda **«Salsas Mexi
 
 Lo anterior indica que muchos de los que aparecen en esa lista probablemente no se encuentran en actividades criminales. Pero algunos son verdaderos peces gordos que han hecho su travesura en el inframundo del narcotráfico y microtráfico. **Miremos solo tres nombres**.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/el-abogado.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/el-abogado.jpeg)
 
 ## El Paty Paty
 
@@ -59,7 +59,7 @@ Alias **“Paty Paty”**, según la Policía, era el financiero de la subestruc
 
 ## El Chicle
 
-![Alias Chicle, la caída de los peces gordos.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/Policia-Amaury-Brun-Perez.jpg)
+![Alias Chicle, la caída de los peces gordos.](s3://bundled-saddlebag-tnqki7w/2022/03/declararon-objetivo-militar-a-chawala-y-38-peces-gordos-del-bajo-mundo/Policia-Amaury-Brun-Perez.jpg)
 *Alias Chicle, la caída de los peces gordos.*
 
 **Amaury Alonso Brun Pérez.** Perteneció a varias bandas criminales. Cuando fue detenido en el barrio Bruselas de Cartagena de Indias, al parecer, pertenecía a las estructuras del Clan El Golfo. El pasado 31 de enero le imputaron, entre otros, los delitos de homicidio agravado, tentativa de homicidio agravado y concierto para delinquir agravado. Chicle’ pertenecía a la subestructura Héroes del Caribe del Clan del Golfo y era el jefe de zona en Cartagena.

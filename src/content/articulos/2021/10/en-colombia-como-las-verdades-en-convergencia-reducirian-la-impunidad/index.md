@@ -5,10 +5,10 @@ pubDate: "2021-10-10 18:29:17"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/en-colombia-como-las-verdades-en-convergencia-reducirian-la-impunidad/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/10/en-colombia-como-las-verdades-en-convergencia-reducirian-la-impunidad/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/en-colombia-como-las-verdades-en-convergencia-reducirian-la-impunidad/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/en-colombia-como-las-verdades-en-convergencia-reducirian-la-impunidad/hero.jpg)
 *Marta Nubia Velásquez, presidenta del Consejo de Estado. «Verdades en Convergencia». Cortesía.*
 
 Acaba de ser publicado el informe **«Verdades en Convergencia»**. Es el resultado de un esfuerzo analítico y de recopilación del **Consejo de Estado y la Comisión de la Verdad** que dirige el sacerdote jesuita, **Francisco de Roux.** Aquí se estudia la responsabilidad extracontractual del Estado en Colombia en contextos de normalidad y de conflicto armado interno.  
@@ -56,7 +56,7 @@ Ese capítulo es calificado por el análisis como gravísimo fenómeno de violac
 
 ## El aporte de **«Verdades en Convergencia»**
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/10/en-colombia-como-las-verdades-en-convergencia-reducirian-la-impunidad/placeholder.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/10/en-colombia-como-las-verdades-en-convergencia-reducirian-la-impunidad/placeholder.jpg)
 *Francisco de Roux en «Verdades en Convergencia». Cortesía.*
 
 En síntesis, se trata de un aporte fundamental del **Consejo de Estado** y la Comisión de la Verdad que ofrece una visión pormenorizada sobre cómo se han protegido los derechos humanos, a partir de la toma de conciencia de los jueces como primeros protectores de las garantías fundamentales. Lo resalta uno de los coautores de la obra, el abogado Camilo Umaña, hijo del emblemático defensor de derechos humanos Eduardo Umaña Mendoza, cuando sostiene que se trata de una investigación para ampliar a los jueces su perspectiva de protección, con los contextos y las visiones adecuadas después de consultar múltiples archivos y casi 40 años de sentencias.

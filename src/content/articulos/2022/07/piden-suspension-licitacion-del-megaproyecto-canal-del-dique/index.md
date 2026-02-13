@@ -5,12 +5,12 @@ pubDate: "2022-07-02 15:34:03"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/piden-suspension-licitacion-del-megaproyecto-canal-del-dique/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/07/piden-suspension-licitacion-del-megaproyecto-canal-del-dique/hero.jpg
 ---
 
 Las organizaciones de base social del Canal del Dique pidieron suspender de la licitación del megaproyecto **"Restauración de los ecosistemas del Canal del Dique"**. Está demostrado por la Procuraduría Ambiental y las organizaciones sociales que existen grandes fallas en el proceso de socialización y de conocimiento de la iniciativa.
 
-![Las organizaciones de base solicitaron al presidente electo Gustavo Petro que pida suspender licitación del megaproyecto.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/piden-suspension-licitacion-del-megaproyecto-canal-del-dique/hero.jpg)
+![Las organizaciones de base solicitaron al presidente electo Gustavo Petro que pida suspender licitación del megaproyecto.](s3://bundled-saddlebag-tnqki7w/2022/07/piden-suspension-licitacion-del-megaproyecto-canal-del-dique/hero.jpg)
 *Las organizaciones de base solicitaron al presidente electo Gustavo Petro que pida suspender licitación del megaproyecto.*
 
 Por tanto, ante el desconocimiento de su impacto ambiental y social, la mayoría de las organizaciones sociales del Canal del Dique le solicitaron al presidente electo **Gustavo Petro Urrego** que pida al presidente Duque suspender en forma inmediata el proceso licitatorio del megaproyecto.

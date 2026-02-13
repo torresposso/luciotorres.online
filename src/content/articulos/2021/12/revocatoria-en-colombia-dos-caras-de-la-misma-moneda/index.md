@@ -5,7 +5,7 @@ pubDate: "2021-12-29 19:34:52"
 author: "Lucio"
 categories: ["Análisis","Opinión","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/revocatoria-en-colombia-dos-caras-de-la-misma-moneda/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/12/revocatoria-en-colombia-dos-caras-de-la-misma-moneda/hero.jpg
 ---
 
 (imagen no disponible)
@@ -19,7 +19,7 @@ Por tanto, la Registraduría se ha descompuesto hasta el punto de que es incapaz
 
 ## Una monstruosidad contra la revocatoria
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/revocatoria-en-colombia-dos-caras-de-la-misma-moneda/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/revocatoria-en-colombia-dos-caras-de-la-misma-moneda/hero.jpg)
 *Alexander Vega Rocha Registrador Nacional puede corregir el error de los contratistas de la Registraduría.*
 
 Por consiguiente, el punto del debate son las garantías del ejercicio democrático, —y no otro— lo que propone la negación de la Registraduría del derecho a la participación de **Cartagena Revoca**. Al solo validar el **14,5% de las 68.500 firmas presentadas, l**os contratistas de la Registraduría le tuercen el pescuezo a la democracia participativa. Pero ese fraude, si el registrador lo quiere, se puede detener. Es un fraude que pretende abortar el proceso participativo de los cartageneros para salir de un mandatario inútil. Ese fraude a la voluntad ciudadana se puede detener. Cartagena Revoca **tiene debidamente foliado cada formato** que contiene, a su vez, 15 apoyos cada uno. **¡Es la prueba reina!**. 
@@ -58,7 +58,7 @@ Ante una situación patética de una administración inútil y de un mandatario 
 
 ## Cartagena
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/revocatoria-en-colombia-dos-caras-de-la-misma-moneda/Captura-de-pantalla-53.png)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/revocatoria-en-colombia-dos-caras-de-la-misma-moneda/Captura-de-pantalla-53.png)
 *William Dau Chamat, el peor alcalde que ha tenido Cartagena en toda su historia, según el pensamiento de muchos cartageneros que quieren revocarlo.*
 
 Aclaremos —en honor a la transparencia periodística— quien esto escribe, es vocero del comité promotor **Cartagena Revoca**. Nunca he estado en el poder. Ni somos aliados de ninguna fuerza política tradicional. Obramos bajo nuestra independencia ciudadana. ¿Por qué queremos revocar el mandato de **William Dau Chamat? Existen tres razones.**  Tres hechos inobjetables:

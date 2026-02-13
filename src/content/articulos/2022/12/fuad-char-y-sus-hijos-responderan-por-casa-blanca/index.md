@@ -5,10 +5,10 @@ pubDate: "2022-12-09 01:44:15"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/hero.jpg
 ---
 
-![Fuad Char Abdala aportó $7 mil millones para comprar votos y financiar el entramado de «Casa Blanca». ¿Cómo cayó «Casa Blanca» de Daes—Char? ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/hero.jpg)
+![Fuad Char Abdala aportó $7 mil millones para comprar votos y financiar el entramado de «Casa Blanca». ¿Cómo cayó «Casa Blanca» de Daes—Char? ](s3://bundled-saddlebag-tnqki7w/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/hero.jpg)
 *Fuad Char Abdala aportó $7 mil millones para comprar votos y financiar el entramado de «Casa Blanca». ¿Cómo cayó «Casa Blanca» de Daes—Char?*
 
 ¿Cómo cayó «Casa Blanca» si todo era color de rosa? **Fuad Char Abdala** había entregado en 2018 la suma de **$7 mil millones** para que los votos conservadores de **Aida Merlano** **Rebolledo** se fueran para donde **Lilibeth Llinás**, la fórmula del senador **Arturo Char Chaljub** a la cámara de **Cambio Radical**. Pero, en lo más profundo de la Casa Gerlein y la familia Char—Nule. había un cisma político y sentimental que no se podía enmascarar más. La conducta de **Julio Gerlein Echeverría**, muy seducido por los encantos mágicos de Aida Merlano, había provocado resentimientos en el seno de esa familia política que tenía 50 años con una presencia en el congreso.
@@ -29,7 +29,7 @@ En efecto, se cumplía un año de la gran cumbre del **«**califato **Daes—Cha
 
 ## ¿Cómo cayó «Casa Blanca» de Daes—Char?
 
-![Esta fue la portada de la primera entrega.  ¿Fuad Char y sus hijos responderán por «Casa Blanca»? ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/Aida_ArturoChar2.jpg)
+![Esta fue la portada de la primera entrega.  ¿Fuad Char y sus hijos responderán por «Casa Blanca»? ](s3://bundled-saddlebag-tnqki7w/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/Aida_ArturoChar2.jpg)
 *Esta fue la portada de la primera entrega. ¿Fuad Char y sus hijos responderán por «Casa Blanca»?*
 
 Antes de revelar el cómo, es necesario partir del hecho fundamental. Este periodista reveló en 2017 las conclusiones principales de una **cumbre del califato Daes—Char** en la casa del califa ubicada al norte de Barranquilla con el fin de definir una políticas de alianzas para expandir su poder regional. Allí asistió hasta el **excandidato presidencial Germán Vargas**. Nadie desmintió la información. Ninguno de los hechos revelados en ese artículo, que tuvo amplia difusión en su momento, fueron desmentidos.
@@ -62,7 +62,7 @@ Además de la violación a la ley electoral, lo que asistimos es a un concierto 
 
 ## El día «D» y la caída de «Casa Blanca»
 
-![El día que allanaron a «Casa Blanca». Foto Vanexa Romero. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/Casa-Blanca.jpeg)
+![El día que allanaron a «Casa Blanca». Foto Vanexa Romero. ](s3://bundled-saddlebag-tnqki7w/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/Casa-Blanca.jpeg)
 *El día que allanaron a «Casa Blanca», 11 de marzo de 2019. Foto Vanexa Romero.*
 
 El 9 de marzo de 2018, había un gran bullicio en «Casa Blanca» del exclusivo barrio El Golf, al norte de Barranquilla. No era para menos. Faltaban cuatro días para los comicios. Eran las elecciones para elegir senadores y representantes al Congreso de la República periodo constitucional 2018—2022. Todo funcionaba a la perfección, tal como se tenía planeado. Los líderes electorales, mochileros, planilleros y empleados ocasionales hacían su trabajo, como cualquier empresa de los Char.
@@ -79,7 +79,7 @@ De manera que el 11 de marzo se produjo el allanamiento por parte de fuerzas esp
 
 ## La «fuente humana» que hizo caer a «Casa Blanca»
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/Alex_Julio_miniatura.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/12/fuad-char-y-sus-hijos-responderan-por-casa-blanca/Alex_Julio_miniatura.jpg)
 *La derrota de dos hogares y de «Casa Blanca». Fuad Char, el califa, también debe estar sufriendo.*
 
 Como se puede colegir de los mismos investigadores, esa «fuente humana» debió tener un peso en la misma policía. Todo indica que procedía de alguien muy cercano a la familia Gerlein. Fue una **sapeada por venganza contra Aida Merlano Rebolledo considerada una intrusa en «Casa Blanca»**.

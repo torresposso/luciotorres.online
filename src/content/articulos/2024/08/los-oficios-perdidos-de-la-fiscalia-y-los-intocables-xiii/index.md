@@ -5,10 +5,10 @@ pubDate: "2024-08-21 03:46:05"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/hero.jpg)
 *La fiscal y «Los Intocables» un capítulo de la impunidad en Colombia.*
 
 **«Los Intocables»** (empresarios que se enriquecieron y financiaron el paramilitarismo) y los oficios perdidos de la Fiscalía garantizaron dos décadas de impunidad. **Ellos no creen en la justicia**, porque lo demuestran con su propio ejemplo de impunidad. Que hasta se mean (¡literal!) en sus propias narices. **Solo creen en el poder de su dinero y de sus armas**. En el período más enlutado del paramilitarismo ―1996 a 2003― manipularon con su dinero malhabido a la Fiscalía General de la Nación hasta cooptarle. Ninguno de los fiscales que precedieron a **Luz Adriana Camargo Garzón cogieron por los cachos al toro de la impunidad**.
@@ -43,7 +43,7 @@ Ante los medios de comunicación y el mundo de la justicia se anunciaban las com
 
 ## Los oficios perdidos y el prevaricato
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/compulsa_gustavo-Roa.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/compulsa_gustavo-Roa.jpeg)
 *Una de las compulsas de copia de los oficios perdidos se refiere a la macrocondena por los 400 homicidios probados de los paramilitares del frente "José Pablo Díaz".*
 
 En Colombia, el delito denominado **prevaricato por omisión es un somnífero suave pero efectivo para denegar justicia**. La duerme lentamente hasta hacerla ineficaz. Tiene el mismo efecto que la negligencia e inoperancia dominante en el poder estatal.
@@ -56,7 +56,7 @@ Entonces, el prevaricato es uno de los delitos más suave, pero efectivo a la ho
 
 ## Estos son los oficios perdidos
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/oficio_3730-del-30-de-agosto.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/oficio_3730-del-30-de-agosto.jpeg)
 *La primera página del oficio No 3730 del 30 de agosto de 2023 firmado por el secretario de la Sala de Justicia y Paz, Jorge Alberto Sequeda Peralta.*
 
 En la Fiscalía no dan cuenta de los oficios perdidos. ¿Qué los hicieron? ¿Cuál es su trazabilidad? Por ejemplo: ¿Dónde está el oficio **No 3730 del 30 de agosto de 2023** de la Sala de Justicia y Paz del Tribunal Superior de Barranquilla dentro de la comparecencia del exjefe paramilitar **Salvatore Mancuso**?
@@ -65,7 +65,7 @@ En la Fiscalía no dan cuenta de los oficios perdidos. ¿Qué los hicieron? ¿Cu
 
 ## ¿Estos son los responsables de la omisión?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/fiscales.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/08/los-oficios-perdidos-de-la-fiscalia-y-los-intocables-xiii/fiscales.jpg)
 *Liliana Patricia Donado Sierra, José Salomón Struberg Rueda y Luz Ángela Bahamón Flórez.*
 
 Ese oficio, firmado por el secretario de la Sala, **Jorge Alberto Sequeda Peralta**, remitió la compulsa de copia del material probatorio que se desprendió del proceso radicado en la Sala de Justicia y Paz con el **No 08-0001-22-52-004-00007**. Está dirigido a los siguientes altos funcionarios de la Fiscalía que deberían abrirle un proceso, por lo menos, por prevaricato por omisión:

@@ -5,10 +5,10 @@ pubDate: "2024-10-14 16:03:35"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/hero.jpg
 ---
 
-![Decisión del CNE: ¿ad portas de un juicio por indignidad?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/Golpe_blando-1024x577.jpeg)
+![Decisión del CNE: ¿ad portas de un juicio por indignidad?](s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/Golpe_blando-1024x577.jpeg)
 *Decisión del CNE: ¿ad portas de un juicio por indignidad?*
 
 Los [**cinco cargos citados**](/articulos/prensa/comunicados-oficiales/814-comunicado-de-prensa-08-de-octubre-de-2024) por el Consejo Nacional Electoral (CNE) contra el Presidente de la República, Gustavo Petro, ¿lo pone _ad portas_ de **un juicio por indignidad** reservado al congreso de la República? Tal como lo señala la **Ley 1864 de 2017**, violar los topes financieros de una campaña conduce a la pérdida del cargo e **incurrirá en prisión de cuatro (4) a ocho (8) años**. Si esto se demuestra, sin duda, la Comisión Legal de Investigación y Acusación de la Cámara de Representantes, debería decidir si acusa o no al presidente ante la plenaria del senado.
@@ -21,7 +21,7 @@ Si la decisión final del CNE se mantiene, es decir, confirma que efectivamente 
 
 ## ¿Debate político?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/Lorduy_Presidencia-Lorduy_450_300.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/Lorduy_Presidencia-Lorduy_450_300.jpeg)
 
 El debate que se desató a raíz de la decisión del CNE es fundamentalmente político e ideológico. Incluso, prestantes figuras del derecho expresan puntos de vistas diferentes llevando la discusión más allá de la filosofía del derecho. Lo colocan en un plano meramente ideológico.
 
@@ -35,7 +35,7 @@ Este análisis debe llevar a interpretar la estrategia de gobierno de convocar a
 
 ## ¿Juicio por indignidad?
 
-![El presidente Gustavo Petro debe prepararse para su defensa tanto en el CNE como en el congreso. Uno de los ejes fundamentales es construir unas mayorías parlamentarias que ahora se puso en práctica con la elección del procurador Gregorio ElJach.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/Gustavo_petro_canciller.jpeg)
+![El presidente Gustavo Petro debe prepararse para su defensa tanto en el CNE como en el congreso. Uno de los ejes fundamentales es construir unas mayorías parlamentarias que ahora se puso en práctica con la elección del procurador Gregorio ElJach.](s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/Gustavo_petro_canciller.jpeg)
 *El presidente Gustavo Petro debe prepararse para su defensa tanto en el CNE como en el congreso.*
 
 El primer obstáculo que tendrá el juicio por indignidad será demostrar la **mala conducta** del funcionario y no de la persona. Deberá responder en qué momento asumió el carácter de funcionario o el momento en que cometió el delito. La indignidad se refiere al funcionario o servidor público y no a la persona que comete delitos comunes.
@@ -48,7 +48,7 @@ En ese sentido Gaitán Mahecha señala que el problema de los delitos, sea cualq
 
 ## Correlación de fuerzas en el senado
 
-![Uno de los ejes fundamentales es construir unas mayorías parlamentarias que se puso en práctica con la elección del procurador Gregorio ElJach. ¿Esa mayoría serviría para la defensa del presidente?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/hero.jpg)
+![Uno de los ejes fundamentales es construir unas mayorías parlamentarias que se puso en práctica con la elección del procurador Gregorio ElJach. ¿Esa mayoría serviría para la defensa del presidente?](s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/hero.jpg)
 *Uno de los ejes fundamentales es construir unas mayorías parlamentarias que se puso en práctica con la elección del procurador Gregorio ElJach. ¿Esa mayoría serviría para la defensa del presidente?*
 
 Lo anterior quiere decir, que la trazabilidad del proceso para un juicio por indignidad no es una ruta fácil tanto para los juzgadores como para el presidente Petro. Cuando el congreso asume el papel de otros poderes públicos, en este caso del judicial y disciplinario, el juicio se torna netamente político.
@@ -61,7 +61,7 @@ A pesar de que Botero lo condenaron a 63 meses, Samper fue absuelto, contra toda
 
 ## Las paradojas
 
-![Un juicio por indignidad solicitó el parlamentario David Racero contra el presidente Iván Duque en 2020.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/Maria_jose_pizarro_david_racero_Lopez-1024x534.jpeg)
+![Un juicio por indignidad solicitó el parlamentario David Racero contra el presidente Iván Duque en 2020.](s3://bundled-saddlebag-tnqki7w/2024/10/decision-del-cne-ad-portas-de-un-juicio-por-indignidad-ii/Maria_jose_pizarro_david_racero_Lopez-1024x534.jpeg)
 *Un juicio por indignidad solicitó el parlamentario David Racero contra el presidente Iván Duque en 2020.*
 
 El presidente Gustavo Petro, **ad portas de un juicio por indignidad,** ejerció 30 años de lucha parlamentaria bajo un control político despiadado. No tuvo compasión contra algunos contrincantes políticos mucho menos con los ministros y gobierno contrarios. Ahora que los otros poderes ejercen su papel constitucional y legal, apela a la lucha de masas.

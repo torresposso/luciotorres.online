@@ -5,10 +5,10 @@ pubDate: "2025-06-30 17:17:53"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/hero.jpg)
 *Nydia Quintero Turbay, el adiós de una mujer con propósito. Desafío al mundo pidiéndole el divorcio a su marido, el presidente Julio César Turbay Ayala.*
 
 Hoy fue el último adiós de una mujer con propósito. **Nydia Quintero Turbay**. Todo el país debería sentir lo que sienten aquellas personas que se beneficiaron con los servicios de la **Fundación Solidaridad por Colombia**. Contrarío las políticas represivas de su primer marido, el presidente **Julio César Turbay Ayala**, cuando tenía la marquilla de Primera Dama.
@@ -21,7 +21,7 @@ Pero Doña Nydia también desafío el convulsionado momento de una nación azota
 
 ## La muerte
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/Nydia_quintero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/06/nydia-quintero-una-mujer-con-hambre-de-solidaridad/Nydia_quintero.jpg)
 
 Después de estar internada en la clínica Santa Fe, desde hacía 20 días, falleció hoy en la madrugada. Allí donde se encuentra hospitalizado su nieto **Miguel Uribe Turbay**, hijo menor de **Diana Turbay Quintero**, luego del atentado criminal del 7 de junio de 2025.
 

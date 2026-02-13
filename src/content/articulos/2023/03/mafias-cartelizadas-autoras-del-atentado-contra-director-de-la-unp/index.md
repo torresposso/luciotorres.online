@@ -5,10 +5,10 @@ pubDate: "2023-03-09 02:45:36"
 author: "Lucio"
 categories: ["Análisis","Investigación","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/mafias-cartelizadas-autoras-del-atentado-contra-director-de-la-unp/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/03/mafias-cartelizadas-autoras-del-atentado-contra-director-de-la-unp/hero.jpg
 ---
 
-![¿«Mafias cartelizadas» anidadas al interior de la UNP?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/mafias-cartelizadas-autoras-del-atentado-contra-director-de-la-unp/hero.jpg)
+![¿«Mafias cartelizadas» anidadas al interior de la UNP?](s3://bundled-saddlebag-tnqki7w/2023/03/mafias-cartelizadas-autoras-del-atentado-contra-director-de-la-unp/hero.jpg)
 *Manuel Antonio Castañeda Bernal, el narcochofer, uno de los hombres de confianza del que fuera subdirector de Seguridad de la entidad Ronald Rodríguez Rozo.*
 
 ¿**«Mafias cartelizadas»** anidadas al interior de la UNP autoras del atentado contra su director, Augusto Rodríguez Ballesteros? Sería una de las hipótesis que los investigadores deben contemplar en sus líneas de investigación para establecer la autoría del atentado del cual salió ileso. ¿Por qué? Eso fue lo que venía denunciando y destapando al interior de esa entidad, cuya misión es garantizar la seguridad personal de líderes políticos, sociales y periodistas amenazados por sus actividades.
@@ -21,7 +21,7 @@ De ese enfrentamiento, al parecer, uno de los 4 agresores resultó herido. De pa
 
 ## Las «Mafias cartelizadas» no son nuevas
 
-![Lo primero que hizo Augusto Rodríguez como director de la UNP fue reunirse con los sindicatos. Luego de estar un cierto tiempo descubrió las «mafias cartelizadas»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/mafias-cartelizadas-autoras-del-atentado-contra-director-de-la-unp/UNP_Augusto-Rodriguez-y-la-UNP.jpeg)
+![Lo primero que hizo Augusto Rodríguez como director de la UNP fue reunirse con los sindicatos. Luego de estar un cierto tiempo descubrió las «mafias cartelizadas»](s3://bundled-saddlebag-tnqki7w/2023/03/mafias-cartelizadas-autoras-del-atentado-contra-director-de-la-unp/UNP_Augusto-Rodriguez-y-la-UNP.jpeg)
 *Lo primero que hizo Augusto Rodríguez como director de la UNP fue reunirse con los sindicatos. Luego de estar un cierto tiempo descubrió las «mafias cartelizadas»*
 
 Lo que le está sucediendo a **Rodríguez Ballesteros** no es nuevo en la UNP. Los directores han tenido que cohabitar con esas mafias. Los funcionarios que están por fuera de sus tentáculos se alinean o los alinean. Por ejemplo, **Julián Marulanda**, secretario general de la UNP en la época cuando la dirección de la entidad estaba en manos del economista **Andrés Villamizar Pachón**, se opuso a varias jugadas chuecas al interior de la UNP cohonestadas por su propio director. Ante ese hecho, fue víctima de un complot en un supuesto caso de soborno donde participaron algunos contratistas que tenían en peligro sus contratos. Pero, recientemente, fue declarado inocente de todo cargo por **la juez 42 Penal del Circuito de Bogotá**.
@@ -38,7 +38,7 @@ Pero, lo más problemático en materia de seguridad es cuando un megacontrato no
 
 ## «Mafias cartelizadas» al interior de la UNP
 
-![Lo primero que hizo Andrés Villamizar como director de la UNP fue reunirse con los sindicatos. Villamizar salió mal librado, tal vez contagiado por las «mafias cartelizadas»](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/03/mafias-cartelizadas-autoras-del-atentado-contra-director-de-la-unp/UNP_reunion-sindicato.jpg)
+![Lo primero que hizo Andrés Villamizar como director de la UNP fue reunirse con los sindicatos. Villamizar salió mal librado, tal vez contagiado por las «mafias cartelizadas»](s3://bundled-saddlebag-tnqki7w/2023/03/mafias-cartelizadas-autoras-del-atentado-contra-director-de-la-unp/UNP_reunion-sindicato.jpg)
 *Lo primero que hizo Andrés Villamizar como director de la UNP fue reunirse con los sindicatos. Villamizar salió mal librado, tal vez contagiado por las «mafias cartelizadas» como se demostró con el complot tendido a Julián Marulanda, secretario de la entidad en 2014.*
 
 Regresemos a la pregunta que nos hicimos al inicio. ¿Por qué el atentado? Sin duda, debemos decir que el director de la Unidad Nacional de Protección, antes del atentado, se estaba ocupando de las «mafias cartelizadas» que rápidamente se anidaron en su interior.

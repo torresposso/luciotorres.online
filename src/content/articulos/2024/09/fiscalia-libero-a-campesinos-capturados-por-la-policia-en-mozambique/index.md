@@ -5,10 +5,10 @@ pubDate: "2024-09-12 14:18:41"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/hero.jpg
 ---
 
-![Fiscalía liberó a campesinos capturados por la policía en Mozambique](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/Policia_comandantes.jpeg)
+![Fiscalía liberó a campesinos capturados por la policía en Mozambique](s3://bundled-saddlebag-tnqki7w/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/Policia_comandantes.jpeg)
 *Fiscalía liberó a campesinos capturados por la policía en Mozambique.*
 
 Cada día se complica la situación de los **campesinos propietarios** del norte de Cartagena de Indias. Esto sucede a pesar de ser agentes de especial protección del Estado y de gozar de una **jurisdicción agraria**. Son objetos de persecuciones y detenciones arbitrarias como la que sucedió este 10 de septiembre en el predio **Mozambique de la familia Cárdenas**, en jurisdicción de Bayunca, Cartagena. La Fiscalía liberó a los 6 campesinos capturados tras calificar de ilegal el procedimiento policial dirigido por el capitán **Andrés Bustos**, comandante de la policía de Turbaco.
@@ -23,7 +23,7 @@ https://youtu.be/9aH14Rdf6io
 
 ## El operativo
 
-![Resolución que perdió su fuerza legal. Fíjense en su fecha de notificación, 3 de septiembre de 2019. El operativo ilegal se hizo el 10 de septiembre de 2024. Por eso la Fiscalía liberó a campesinos capturados](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/hero.jpg)
+![Resolución que perdió su fuerza legal. Fíjense en su fecha de notificación, 3 de septiembre de 2019. El operativo ilegal se hizo el 10 de septiembre de 2024. Por eso la Fiscalía liberó a campesinos capturados](s3://bundled-saddlebag-tnqki7w/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/hero.jpg)
 *Resolución que perdió su fuerza legal. Fíjense en su fecha de notificación, 3 de septiembre de 2019. El operativo ilegal se hizo el 10 de septiembre de 2024. Por eso la Fiscalía liberó a campesinos capturados.*
 
 Mientras Colombia le ganaba a Argentina, el capitán **Andrés Bustos**, comandante de Policía de Turbaco, junto con sus hombres, capturaron ilegal y violentamente a los campesinos del **predio Mozambique**. Arrasaron con todo lo que encontraban a su paso, según denuncias de las mismas víctimas.
@@ -38,7 +38,7 @@ Si la Fiscalía liberó a campesinos capturados por la policía en Mozambique ¿
 
 ## ¿Por qué el operativo de Bustos?
 
-![¿Quién le patrocinó el operativo craneado por el capitán Andrés Bustos, comandante de la Policía de Turbaco? ¿Qué dice el ministro de la Defensa Iván Velásquez?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/andres_Bustos_policia_1-629x1024.jpg)
+![¿Quién le patrocinó el operativo craneado por el capitán Andrés Bustos, comandante de la Policía de Turbaco? ¿Qué dice el ministro de la Defensa Iván Velásquez?](s3://bundled-saddlebag-tnqki7w/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/andres_Bustos_policia_1-629x1024.jpg)
 *¿Quién le patrocinó el operativo craneado por el capitán Andrés Bustos, comandante de la Policía de Turbaco? ¿Qué dice el ministro de la Defensa Iván Velásquez?*
 
 Al parecer, el capitán **Andrés Bustos**, sin ninguna motivación legal instrumentalizó a sus agentes para reprimir ilegalmente la posesión de la familia Cárdenas en el predio de Mozambique. Este oficial podría ser denunciado por prevaricato ante la misma Fiscalía.
@@ -55,7 +55,7 @@ Si analizamos la línea de tiempo de la mencionada resolución ―independientem
 
 ## Fiscalía liberó a campesinos
 
-![Algunos de los campesinos capturados ilegalmente en operativo ilegal realizado en el predio por el capitán Andrés Bustos, comandante de Policía de Turbaco. Fiscalía liberó a campesinos capturados.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/captura_campesinos_mozambiqque.jpg)
+![Algunos de los campesinos capturados ilegalmente en operativo ilegal realizado en el predio por el capitán Andrés Bustos, comandante de Policía de Turbaco. Fiscalía liberó a campesinos capturados.](s3://bundled-saddlebag-tnqki7w/2024/09/fiscalia-libero-a-campesinos-capturados-por-la-policia-en-mozambique/captura_campesinos_mozambiqque.jpg)
 *Algunos de los campesinos capturados ilegalmente en operativo ilegal realizado en el predio por el capitán Andrés Bustos, comandante de Policía de Turbaco.*
 
 El hecho de que la Fiscalía liberó a campesinos, es un indicativo de que **su captura fue ilegal**. Cuando se adoptó constitucionalmente la jurisdicción agraria, se prometió como la salida a los conflictos por la propiedad de la tierra que han aquejado por décadas a los colombianos.

@@ -5,10 +5,10 @@ pubDate: "2021-04-16 23:50:45"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-talaigua-nuevo-contratan-parque-sin-el-lleno-de-requisitos/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/04/en-talaigua-nuevo-contratan-parque-sin-el-lleno-de-requisitos/hero.jpg
 ---
 
-\[caption id="attachment\_14571" align="aligncenter" width="1080"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-talaigua-nuevo-contratan-parque-sin-el-lleno-de-requisitos/hero.jpg) **Angelica Carpio Quintana**, alcaldesa de Talaigua Nuevo.\[/caption\]
+\[caption id="attachment\_14571" align="aligncenter" width="1080"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/en-talaigua-nuevo-contratan-parque-sin-el-lleno-de-requisitos/hero.jpg) **Angelica Carpio Quintana**, alcaldesa de Talaigua Nuevo.\[/caption\]
 
 La alcaldesa de Talaigua Nuevo,  **Angelica Leonor Carpio Quintana**, probablemente contrató sin el lleno de requisitos la construcción de un parque recreacional. Igualmente, **causaron un arboricido de campanos centenarios sin hacer la respectiva compensación**.
 
@@ -18,7 +18,7 @@ De acuerdo con la denuncia presentada ante la Procuraduría por el líder social
 
 ## Talaigua Nuevo y el contrato
 
-\[caption id="attachment\_14576" align="aligncenter" width="801"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/04/en-talaigua-nuevo-contratan-parque-sin-el-lleno-de-requisitos/TALAIGUA.jpg) **La valla del constructor** del parque de diversión de Talaigua Nuevo.\[/caption\]
+\[caption id="attachment\_14576" align="aligncenter" width="801"\]![](s3://bundled-saddlebag-tnqki7w/2021/04/en-talaigua-nuevo-contratan-parque-sin-el-lleno-de-requisitos/TALAIGUA.jpg) **La valla del constructor** del parque de diversión de Talaigua Nuevo.\[/caption\]
 
 Talaigua Nuevo  es uno de los municipios de la denominada Depresión Momposina de aproximadamente 11.513 habitantes.  El  valor del contrato se pactó en **$1.343.276.614** y un adicional de **$280.000.000**. Al parecer, la alcaldesa Carpio Quintana realizó dicho contrato sin estudios previos, ya que en poco tiempo hicieron un adicional a pedido de los contratistas. 
 

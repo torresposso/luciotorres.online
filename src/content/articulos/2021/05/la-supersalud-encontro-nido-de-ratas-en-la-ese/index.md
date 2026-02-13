@@ -5,10 +5,10 @@ pubDate: "2021-05-25 17:54:56"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/la-supersalud-encontro-nido-de-ratas-en-la-ese/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/05/la-supersalud-encontro-nido-de-ratas-en-la-ese/hero.jpg
 ---
 
-\[caption id="attachment\_15081" align="aligncenter" width="1227"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/la-supersalud-encontro-nido-de-ratas-en-la-ese/NIDOS-DE-RATAS2.jpeg) Un verdadero «nido de ratas» encontró la Supersalud.\[/caption\]
+\[caption id="attachment\_15081" align="aligncenter" width="1227"\]![](s3://bundled-saddlebag-tnqki7w/2021/05/la-supersalud-encontro-nido-de-ratas-en-la-ese/NIDOS-DE-RATAS2.jpeg) Un verdadero «nido de ratas» encontró la Supersalud.\[/caption\]
 
 **La Supersalud halló un verdadero «nido de ratas» en la Ese Cartagena de Indias**. El alcalde William Dau Chamat tampoco pudo con esta institución. Fueron 54 hechos, muchos de los cuales devienen en corrupción, que llevaron a la Superintendencia de Salud realizar una **intervención forzosa de la Ese.**  Esta agrupa a más de 40 puestos de salud y centros hospitalarios de primer nivel. Varios hospitales están cerrados, porque no los han terminado de reconstruir por la corrupción.
 
@@ -22,7 +22,7 @@ Algunos veedores señalaron que Dau y Llinás, por intermedio de terceras person
 
 ## Dau y el «nido de ratas»
 
-\[caption id="attachment\_15075" align="aligncenter" width="1149"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/la-supersalud-encontro-nido-de-ratas-en-la-ese/hero.jpg) La Supersalud tomó posesión de la Ese Cartagena de Indias después de hallar un **«un nido de ratas»**.\[/caption\]
+\[caption id="attachment\_15075" align="aligncenter" width="1149"\]![](s3://bundled-saddlebag-tnqki7w/2021/05/la-supersalud-encontro-nido-de-ratas-en-la-ese/hero.jpg) La Supersalud tomó posesión de la Ese Cartagena de Indias después de hallar un **«un nido de ratas»**.\[/caption\]
 
 **¿Por qué William Dau y Rodolfo Llinás no pudieron salvar a la Ese?** Sencillo, su verdadera intención no fue salvar a la Ese sino cabalgar sobre el mismo sistema de corrupción **para sacarle un interés privado y enriquecer a terceros**. No hay otra razón para explicar la profundización de la crisis de la Ese. Esta no la creo Dau, es cierto. Pero un alcalde cuando asume la responsabilidad de su cargo jura hacerlo con transparencia y en beneficio de la colectividad. Juró combatir la corrupción. La realidad es que Dau ni Llinás fueron transparentes. Juraron en vano. Se acomodaron rápidamente en el «nido de ratas». 
 
@@ -46,7 +46,7 @@ Es decir, menoscabaron la dignidad laboral del personal tercerizado con la mirad
 
 ## La intervención de Supersalud
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/la-supersalud-encontro-nido-de-ratas-en-la-ese/jorge-eduardo-suaarez-gomez.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/05/la-supersalud-encontro-nido-de-ratas-en-la-ese/jorge-eduardo-suaarez-gomez.jpg)
 *Jorge Eduardo Suárez Gómez, agente interventor de la Ese Cartagena de Indias.*
 
 **La intervención forzosa de la Supersalud no es que sea la panacea**. La inmensa mayoría de sus intervenciones terminan sirviéndole a la misma clase política que causó esos problemas de corrupción. En la auditoría realizada por la Supersalud se detectaron **54 deficiencias asistenciales, administrativas y financieras.** Todas estas irregularidades ponen en riesgo la debida atención de los usuarios cartageneros.

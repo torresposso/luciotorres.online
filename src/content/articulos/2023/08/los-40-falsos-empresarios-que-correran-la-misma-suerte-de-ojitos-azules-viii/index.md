@@ -5,10 +5,10 @@ pubDate: "2023-08-26 22:45:22"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/hero.jpg)
 *Los 40 falsos empresarios que correrán la misma suerte de «Ojitos Azules»./Captura de pantalla transmisión de lectura de sentencia).*
 
 Desde que comenzamos a escudriñar la causa de la impunidad de **_Los Intocables,_** parece que se les acabó la suerte. Estos falsos empresarios promovieron y se enriquecieron con la conducta criminal y genocida del _paramilitarismo_ en la Costa Caribe. Con la compulsa de copia a la Fiscalía de la sentencia contra el **Frente Pivijay del Bloque Norte de la Sala de Justicia y Paz del Tribunal Superior de Barranquilla**, estos financiadores de **delitos de lesa humanidad** seguramente correrán la misma suerte de **Darío Alberto Laíno Scopetta**, alias **«Ojitos Azules»**. Este supuesto empresario fue procesado, condenado y capturado.
@@ -27,7 +27,7 @@ Todos esos bienes deben ser destinados para la reparación de las víctimas que 
 
 ## Justicia y Paz pide dinamismo y celiridad a la Fiscalía
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/francisco-Barbosa_fiscal.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/francisco-Barbosa_fiscal.jpg)
 *Los 40 falsos empresarios que se siguen beneficiando por negligencia de la Fiscalía. /Fiscalía.*
 
 El fiscal Francisco Barbosa debe responder frente a la instancia del Tribunal Superior de Barranquilla, Sala de Justicia y Paz:
@@ -44,7 +44,7 @@ Te puede interesar: [¿Macías determinó asesinato del magistrado Noguera Aaró
 
 ## Los 40 falsos empresarios y la sentencia
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/laino-scopetta.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/laino-scopetta.jpg)
 *DaríoLaino Scopetta condenado y detenido, el primer intocable que está en la cárcel.*
 
 La compulsa de copia para procesar a los **40 falsos empresarios** —que promovieron y se enriquecieron con el _paramilitarismo_— son _Los Intocables_ que se suman a lista de la primera macro sentencia de 2014 de la misma sala. En aquella ocasión, el mismo magistrado también compulsó copia a la Fiscalía para que investigara y llevara a la justicia a los indiciados. Igualmente, solicitó, si es el caso, se iniciara el proceso de extinción de dominio contra 9 determinadores de los crímenes del paramilitarismo. Ellos son **Darío Laino Scopetta, los hermanos **Matera Lajud**** (**Rafael Antonio y Pascual) y Alfonso Macía Vargas**, entre otros. El destino de estos individuos no es —y no debe ser— otra cosa que cárcel y extinción de dominio. ¿Y si son ancianos? Son delitos de lesa humanidad que no son excarcelables.
@@ -59,7 +59,7 @@ En esa sentencia fueron condenados los postulados **Salvatore Mancuso Gómez**, 
 
 ## Los 40 falsos empresarios y la extinción de dominio
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/10_ivan_caballero_johan_emanuel_federico_severini_vicente_caballero_y_saul_samuel_severini._.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/10_ivan_caballero_johan_emanuel_federico_severini_vicente_caballero_y_saul_samuel_severini._.jpg)
 *Aquí la dinastía de los Severini y Caballero. Algunos de ellos vienen del ganadero que fue secuestrado y asesinado por el ELN en 1999, Carlos Caballero Cormane, congresista del Partido Liberal y cofundador del MRL. El exparamilitar y empresario Saúl Severini Caballero (en la clandestinidad) también viene de esta rama genealógica. (Boda Cuello Calderón-Severini Jure./El Heraldo.*
 
 Dentro de la misma sentencia, la Sala Penal de Justicia y Paz del Tribunal Superior de Barranquilla compulsó la información hallada para los procesos de extinción de dominio. De igual manera, los hechos que los relacionan con bienes, inmuebles, y actuaciones que facilitaron los delitos cometidos por el Frente Pivijay del Bloque Norte de las autodefensas.
@@ -80,7 +80,7 @@ Con eso se demuestra que la actuación de los paramilitares al mando de **Salvat
 
 ## El magistrado Roa Avendaño
 
-![Magistrado Gustavo Roa Avendaño](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/magistrado-Roa-Avendano.jpeg)
+![Magistrado Gustavo Roa Avendaño](s3://bundled-saddlebag-tnqki7w/2023/08/los-40-falsos-empresarios-que-correran-la-misma-suerte-de-ojitos-azules-viii/magistrado-Roa-Avendano.jpeg)
 *El magistrado Gustavo Aurelio Roa Avendaño, en una conferencia en la Universidad LIbre de Barranquilla sobre la justicia transicional./U.Libre.*
 
 La segunda sentencia del magistrado Roa Avendaño fue directa al grano. Se busca que se identifiquen, se ubique y se inicien las acciones que conduzcan a la extinción de dominio de los mencionados implicados.

@@ -5,10 +5,10 @@ pubDate: "2022-03-30 02:09:42"
 author: "Lucio"
 categories: ["Deportes"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/mundial-de-catar-solo-fue-un-sueno/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/03/mundial-de-catar-solo-fue-un-sueno/hero.jpg
 ---
 
-![Selección Colombia: los sueños, sueños son. Mundial de Catar solo fue un sueño. Cortesía El Tiempo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/mundial-de-catar-solo-fue-un-sueno/Seleccion-colombia.jpeg)
+![Selección Colombia: los sueños, sueños son. Mundial de Catar solo fue un sueño. Cortesía El Tiempo.](s3://bundled-saddlebag-tnqki7w/2022/03/mundial-de-catar-solo-fue-un-sueno/Seleccion-colombia.jpeg)
 *Selección Colombia: los sueños, sueños son. Mundial de Catar solo fue un sueño. Cortesía El Tiempo-EFE.*
 
 Los sueños, sueños son. El Mundial de Catar solo fue un sueño. A lo Unamuno. La selección de fútbol de Colombia le ganó esta noche a su similar de Venezuela con un juego lánguido, digno de su suerte. La misma suerte que le impidió clasificar al máximo evento deportivo. Pero esta victoria no le alcanzó para ir al repechaje y cumplir el sueño que solo se logra con goles. 

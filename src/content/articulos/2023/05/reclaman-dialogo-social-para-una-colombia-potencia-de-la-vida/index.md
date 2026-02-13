@@ -5,10 +5,10 @@ pubDate: "2023-05-21 02:56:34"
 author: "Lucio"
 categories: ["Análisis","Crónica","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/hero.jpg)
 *Reclaman diálogo social para una Colombia Potencia de la Vida- Aspecto general. Intervención de Chris Ferguson, Iglesia Unida de canadá.*
 
 Tres días de discusión intensiva en Bogotá (17,18 y 19 de mayo) sirvieron para que representantes de diferentes comunidades de todo el país se reunieran ante la convocatoria oficial del **Foro Internacional Diálogo Social, Participación Ciudadana y Derechos Humanos**. Al final **—**c**on la ausencia del presidente Petro y del ministro del Interior Luis Fernando Velasco—** la gente pidió **más y mejor participación** en las nuevas políticas públicas para construir una **Colombia** **Potencia de la Vida**. Es el objetivo del **artículo 1 del Plan de Desarrollo Nacional:** **garantizar el cuidado de la casa común**.
@@ -23,7 +23,7 @@ Al finalizar, mi participación en ese evento jalonado por la **Viceministra del
 
 ## El desafío de Petro: del discurso a la praxis
 
-![Aquí con la organizadora del evento Lilia Solano, viceministra del Interior para el Diálogo Social](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/Lilia.jpg)
+![Aquí con la organizadora del evento Lilia Solano, viceministra del Interior para el Diálogo Social](s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/Lilia.jpg)
 *Aquí con la organizadora del evento Lilia Solano, viceministra del Interior para el Diálogo Social.*
 
 El reto del gobierno del presidente Gustavo Petro es convertir su maravillo discurso y su Plan de Desarrollo Nacional **Colombia Potencia de la vida** en una acción colectiva participativa. **En el caso de La Mojana con el no cierre de _Caregato_**, por ejemplo, se quiso imponer una teoría peregrina del medio ambiente que para la región no era válida en el momento. No se dialogó. Se impuso una idea gubernamental que trajo más daño social y ambiental. No escucharon a las comunidades. Esto le valió la salida a **Javier Pava,** de la Unidad Nacional para la Prevención del Riesgo de Desastres (UNPRD). Se convirtió en un fusible de corta duración.
@@ -46,7 +46,7 @@ Allí compartimos con la colega **Ada Echenique Soto**, quien estaba muy molesta
 
 ## Del dicho al hecho: **Colombia potencia de la vida**
 
-![Esta es la ministra de Agricultura, Jhenifer Mojica, egresada dela Universidad Nacional. Será fundamental en la producción de alimentos durante los tres años restantes para construir una Colombia Potencia de la Vida.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/Jhenifer-Mojica.jpg)
+![Esta es la ministra de Agricultura, Jhenifer Mojica, egresada dela Universidad Nacional. Será fundamental en la producción de alimentos durante los tres años restantes para construir una Colombia Potencia de la Vida.](s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/Jhenifer-Mojica.jpg)
 *Esta es la ministra de Agricultura, Jhenifer Mojica, egresada dela Universidad Nacional. Será fundamental en la producción de alimentos durante los tres años restantes para construir una Colombia Potencia de la Vida/Prensa Ministerio de Agricultura.*
 
 Sin embargo, _del dicho al hecho hay mucho trecho_, diría mi madre Teresa cuando uno fantaseaba con lo que iba a hacer en el futuro. Este es el desafío de la actual administración y el foro visto desde las gradas, propone una mirada diversa. Una mirada desde el poder ciudadano y no desde los que están en el poder, que es diferente.
@@ -61,7 +61,7 @@ La delegación de la costa Pacífica fue bien nutrida que pudo ocupar el 60% del
 
 ## La yuca más cara que la coca ¿Una Colombia Potencia de la Vida?
 
-![Alonso Dagua, del Resguardo Puerto Guzmán quiere participar en la construcción de la Colombia Potencia de la Vida](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/Alonso-Dagua.jpg)
+![Alonso Dagua, del Resguardo Puerto Guzmán quiere participar en la construcción de la Colombia Potencia de la Vida](s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/Alonso-Dagua.jpg)
 *Alonso Dagua, del Resguardo Puerto Guzmán, dice que la yuca está más cara que la coca en esa región de la Colombia Potencia de la Vida.*
 
 Por eso, más que escuchar la _carreta teórica_ de los invitados internacionales y nacionales, enfoqué mi mirada en el que tenía al lado, en mi prójimo. Unas veces mujeres afros que me contaban las peripecias de sus luchas de inclusión. Otras veces, líderes naturales de la sociedad olvidada. Por ejemplo, el dirigente indígena del Putumayo que me contaba de la **baja cotización de la coca** y el alto costo de la yuca o el maíz en su territorio. **Alonso Dagua**, de Puerto Guzmán (Putumayo), me contó que una carga de maíz que estaba en **$20 mil**, hoy cuesta **$120 mil**.
@@ -72,7 +72,7 @@ En efecto, en el día de hoy la población de **Puerto Guzmán** —me cuenta Da
 
 ## La policromía cultural
 
-![Mónica Mancilla, vicepresidenta del consejo comunitario de Guacherné, Cauca, y trabajadora social egresada de la Universidad de Cali, me habló de su trabajo en la zona rural de este municipio](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/Lucio-y-Monica.jpg)
+![Mónica Mancilla, vicepresidenta del consejo comunitario de Guacherné, Cauca, y trabajadora social egresada de la Universidad de Cali, me habló de su trabajo en la zona rural de este municipio](s3://bundled-saddlebag-tnqki7w/2023/05/reclaman-dialogo-social-para-una-colombia-potencia-de-la-vida/Lucio-y-Monica.jpg)
 *Mónica Mancilla, vicepresidenta del consejo comunitario de Guacherné, Cauca, y trabajadora social egresada de la Universidad de Cali, me habló de su trabajo en la zona rural de este municipio.*
 
 El Foro Internacional me dio la oportunidad para dialogar con líderes afros, indígenas, organizaciones de mujeres, derechos humanos, jóvenes y viejos luchadores por un nuevo país. Fue una policromía cultural y de género. La delegación LGTBI+ fue muy nutrida, especialmente de mujeres trans que hicieron uso de la palabra.

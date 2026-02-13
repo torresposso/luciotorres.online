@@ -5,10 +5,10 @@ pubDate: "2023-05-10 01:58:11"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/el-peda-alcalde-de-clemencia-incurriria-en-fraude/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/05/el-peda-alcalde-de-clemencia-incurriria-en-fraude/hero.jpg
 ---
 
-![«El Peda» (de gorra, abraza y señala a Samir como su sucesor en la alcaldía de Clemencia. Foto de Facebook](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/el-peda-alcalde-de-clemencia-incurriria-en-fraude/hero.jpg)
+![«El Peda» (de gorra, abraza y señala a Samir como su sucesor en la alcaldía de Clemencia. Foto de Facebook](s3://bundled-saddlebag-tnqki7w/2023/05/el-peda-alcalde-de-clemencia-incurriria-en-fraude/hero.jpg)
 *«El Peda» (de gorra), abraza y señala a Samir como su sucesor en la alcaldía de Clemencia. ¿Se seguirán enriqueciendo? Foto de Facebook.*
 
 Mientras está incurso en fraude a resolución judicial y detrimento patrimonial, **Raúl Enrique Cabarcas Vásquez,** alcalde de Clemencia (Bolívar), conocido como «El Peda», como algunos otros mandatarios municipales de este departamento, se niegan a cumplir mandamientos de pago expedidos por el Juez **Décimo Cuarto Administrativo Oral del Circuito** de Cartagena que datan desde el 2013.
@@ -17,7 +17,7 @@ En efecto, Cabarcas, popularmente conocido como «El Peda», es el único de los
 
 ## El tesorero menor de «El Peda»
 
-![El tesorero menor de «El Peda», al parecer, es su hermano, el que vende queso.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/el-peda-alcalde-de-clemencia-incurriria-en-fraude/alcalde-de-clmencia_fotoalcaldia.jpg)
+![El tesorero menor de «El Peda», al parecer, es su hermano, el que vende queso.](s3://bundled-saddlebag-tnqki7w/2023/05/el-peda-alcalde-de-clemencia-incurriria-en-fraude/alcalde-de-clmencia_fotoalcaldia.jpg)
 *El tesorero menor de «El Peda», al parecer, es su hermano, el que vende queso.*
 
 Además, **Raúl Cabarca** es el único alcalde que se ha negado pagar, pues, lo otros que le antecedieron fueron pagando como le correspondía. Su conducta no solo perjudica los principios de la administración pública sino que también ha llevado a un **empobrecimiento ilícito** e insoportable de los beneficiarios de esos pagos, con excepción de su hermano que funge de pequeño tesorero y pagador por fuera de la administración pública.
@@ -28,7 +28,7 @@ En efecto, Carlos Cabarcas tiene un negocio de venta de leche y de queso. Pero e
 
 ## Mataron al abogado que demandó
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/05/el-peda-alcalde-de-clemencia-incurriria-en-fraude/Clemencia_mandamiento-de-pago_.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/05/el-peda-alcalde-de-clemencia-incurriria-en-fraude/Clemencia_mandamiento-de-pago_.jpg)
 *Mandamiento de pago del Juzgado Decimocuarto que data del 2016.*
 
 Pero esta situación no es igual al drama que viven los sobrevivientes de los demandantes que están esperando ese dinero desde 2003 cuando tuvieron que demandar. En esa época el alcalde de Clemencia era **Juan Mejía**. Uno de los abogados de los demandantes fue asesinado, al parecer, por los paramilitares al mando de Diego Vecino, _Juancho Dique_ y _Monoleche_. Ellos deben responder por ese asesinato.

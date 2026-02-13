@@ -5,10 +5,10 @@ pubDate: "2024-03-10 22:40:09"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Gustavo Petro"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/hero.jpg)
 *Dos líderes afros presuntos implicados en el Cartel de Consulta Previa. Henry Guizamano Vivas y David González Cardales. Este último llamado a juicio.*
 
 Un verdadero «tatequieto» al **«Cartel de la Consulta Previa»** le propinaría el fiscal 22 Seccional Bolívar con sede en Turbaco, **Julio Torres Pereira**, quien presentó escrito de acusación por presuntas falsedades en las consultas previas realizadas por la ANI. En el gobierno de Gustavo Petro se adjudicó el contrato de concesión de **$3.3 billones** a la controvertida empresa española, SACYR. Por esta razón, la juez Segundo Penal del Circuito de Turbaco, **Yuris Ponce Fernández**, llamó a juicio de acusación y medida de aseguramiento a 7 directivos del consejo comunitario de Rocha (Arjona) y al representante legal de Coriambiental, **David González Cardales**.
@@ -27,7 +27,7 @@ Recordemos que durante dos años y medio, **VoxPopuli Digital** promovió la **A
 
 ## El delito del Cartel de la Consulta Previa
 
-![Tatequieto al Cartel de la Consulta Previa. Linfer Moyar y Oscar Mallarino](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/Linfer-Moyar_Oscar-Mallarino.jpg)
+![Tatequieto al Cartel de la Consulta Previa. Linfer Moyar y Oscar Mallarino](s3://bundled-saddlebag-tnqki7w/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/Linfer-Moyar_Oscar-Mallarino.jpg)
 *Tatequieto al Cartel de la Consulta Previa, dos de los presuntos implicados.*
 
 Los delitos que se investigan por parte de la **Juez Segunda Penal del Circuito de Turbaco** tienen pena privativa de la Libertad. Esto significaría que con una posible condena, los acusados podrían ir presos. Sería la suerte de **David González** y los 7 directivos del consejo comunitario de Rocha (Arjona): **Linfer Moyar Ruiz**, exrepresentante de la Junta del Consejo Comunitario de Rocha; **Néstor Iriarte Llerena**, expresidente de la Junta del mismo consejo; **Alexis Dominicheti Zabaleta**, exrepresentante legal; **Linairo Pérez Marín**, tesorero; **Davinson Salas Rocha**, vicepresidente; **Janeth Castro Salas**, secretaria; **Óscar Mallarino Miranda**, fiscal.
@@ -46,7 +46,7 @@ Cuando el 13 de septiembre de 2023, el fiscal Julio Torres formuló imputación 
 
 ## ¿Se descubrió el Cartel de Consulta Previa?
 
-![Artículo publicado el 6 de mayo de 2021 contra el Cartel de la Consulta Previa.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/Henry_Guizamano_recibos.jpg)
+![Artículo publicado el 6 de mayo de 2021 contra el Cartel de la Consulta Previa.](s3://bundled-saddlebag-tnqki7w/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/Henry_Guizamano_recibos.jpg)
 *Artículo publicado el 6 de mayo de 2021 contra el Cartel de la Consulta Previa.*
 
 En ese sentido, **VoxPopuli Digital** visitó, verificó y comprobó la falsedad de dichas consultas. En las diferentes transmisiones realizadas en vivo, las mismas comunidades denunciaron que **ninguna de las 16 consultas pagadas por la ANI fueron efectivamente realizadas**. Con este mecanismo se buscaba establecer la afectación de la población y su medio ambiente de esta megaobra denominaba _Restauración de los ecosistemas degradados del Canal del Dique_. De esta manera, se establecería un plan de inversión para mitigar el impacto social y ambiental.
@@ -59,7 +59,7 @@ Se supone que la consulta previa permitiría que los grupos étnicos incidan en 
 
 ## El patrón criminal del Cartel de la Consulta Previa
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/Juicio-Oral_Cartel-de-la-consulta.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/03/tatequieto-al-cartel-de-consulta-previa-del-canal-del-dique/Juicio-Oral_Cartel-de-la-consulta.jpg)
 
 Sin embargo, la realidad es otra. La realidad, es todo lo contrario a lo que la Constitución y la ley dice: **las consultas previas son compradas como las compró la ANI.** Usan a los líderes como sus intermediarios para cometer estos delitos.
 

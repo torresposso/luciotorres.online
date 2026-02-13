@@ -5,10 +5,10 @@ pubDate: "2020-05-16 00:18:39"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/05/covid-19-cartagena-se-derrumba-y-el-alcalde-de-rumba-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2020/05/covid-19-cartagena-se-derrumba-y-el-alcalde-de-rumba-i/hero.jpg
 ---
 
-¡CARTAGENA SE DERRUMBA! \[caption id="attachment\_11718" align="aligncenter" width="1080"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/05/covid-19-cartagena-se-derrumba-y-el-alcalde-de-rumba-i/hero.jpg) Cartagena se derrumba. Al terminar la **Donatón** con el gobernador **Vicente Blel**, William Dau se fue de rumba en el muelle del centro de Convenciones.\[/caption\] ¡Cartagena se derrumba, mientras el alcalde se va de rumba! Esta es la nueva situación que soportamos en la Heroica. Según las autoridades sanitarias, al final de este mes, podría sobrevenir un pico de contaminados y muertos por la propagación del virus. Los centros hospitalarios están a punto de colapsar. **Mientras tanto se refleja la incompetencia y la corrupción político—administrativa del alcalde William Dau Chamatt,** quien no sabe dónde está ni para dónde va. Muchos veedores ciudadanos **le están pidiendo al procurador Fernando Carrillo que lo suspenda por sus irregularidades.**
+¡CARTAGENA SE DERRUMBA! \[caption id="attachment\_11718" align="aligncenter" width="1080"\]![](s3://bundled-saddlebag-tnqki7w/2020/05/covid-19-cartagena-se-derrumba-y-el-alcalde-de-rumba-i/hero.jpg) Cartagena se derrumba. Al terminar la **Donatón** con el gobernador **Vicente Blel**, William Dau se fue de rumba en el muelle del centro de Convenciones.\[/caption\] ¡Cartagena se derrumba, mientras el alcalde se va de rumba! Esta es la nueva situación que soportamos en la Heroica. Según las autoridades sanitarias, al final de este mes, podría sobrevenir un pico de contaminados y muertos por la propagación del virus. Los centros hospitalarios están a punto de colapsar. **Mientras tanto se refleja la incompetencia y la corrupción político—administrativa del alcalde William Dau Chamatt,** quien no sabe dónde está ni para dónde va. Muchos veedores ciudadanos **le están pidiendo al procurador Fernando Carrillo que lo suspenda por sus irregularidades.**
 
 ## El alcalde de rumba, Cartagena se derrumba
 

@@ -5,10 +5,10 @@ pubDate: "2024-05-05 15:20:12"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/sandra-ortiz-la-mona-de-las-tulas/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/05/sandra-ortiz-la-mona-de-las-tulas/hero.jpg
 ---
 
-![¿Caso aislado? Sandra Ortiz, «la Mona de las tulas», la sombra del presidente Gustavo Petro y de la vicepresidenta Francia Márquez./presidencia.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/sandra-ortiz-la-mona-de-las-tulas/sandra_petro_Francia.jpeg)
+![¿Caso aislado? Sandra Ortiz, «la Mona de las tulas», la sombra del presidente Gustavo Petro y de la vicepresidenta Francia Márquez./presidencia.](s3://bundled-saddlebag-tnqki7w/2024/05/sandra-ortiz-la-mona-de-las-tulas/sandra_petro_Francia.jpeg)
 *¿Caso aislado? Sandra Ortiz, «la Mona de las tulas», la sombra del presidente Gustavo Petro y de la vicepresidenta Francia Márquez./presidencia.*
 
 ¿Sandra Ortiz **―**«la Mona de las tulas» y los niños wayúu**―** será la segunda mujer del alto poder que cae por las tulas de dinero y que regresará con más poder como le sucedió a **Laura Sarabia Torres**? Nadie lo extrañaría si tiene mente abierta y pensamiento crítico. Por esta razón, **Snayder Pinilla**, exsubdirector de la UNGRD, se destapó e invitó al exdirector de esa entidad, **Olmedo López**, a romper el silencio cómplice. Aclaró que él solo fue un mensajero para salvar las reformas del gobierno.
@@ -19,7 +19,7 @@ Por esos hechos, el presidente debería contemplar la decisión de recoger sus r
 
 ## «La Mona de las tulas»
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/sandra-ortiz-la-mona-de-las-tulas/Sandra-Ortiz.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/05/sandra-ortiz-la-mona-de-las-tulas/Sandra-Ortiz.jpeg)
 *Ricardo Bonilla, el adalid de las finanzas del gobierno del cambio. Detrás, «la Mona de las tulas», haciendo arreglo con la gobernadora de los Gnecco, Elvia Milena Sanjuán./Presidencia.*
 
 Sandra Ortiz **―**ahora **«la Mona de las tulas»―** acompañaba al presidente del cambio a todas las regiones. Hasta fue protagonista en La Guajira, de cuya visita, al parecer, extrajeron los **$4 mil millones** de la coima pagada por el contratista de los carrotanques destinados a **los niños wayúu**. Y esto no es calumnia de la Gran Prensa de derecha.
@@ -40,7 +40,7 @@ De la misma manera hizo con los otros mil millones de pesos que fueron entregado
 
 ## La plata de los niños de La Guajira
 
-![El presidente Petro y Sandra Ortiz «la Mona» de las tulas saludan a los niños wayuús a su llegada a Riohacha al bajarse del avión Number One de la Fuerza Aérea Colombiana. ¿Propaganda política del gobierno del cambio que costó $185 mil millones? Los niños se siguen muriendo de sed.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/05/sandra-ortiz-la-mona-de-las-tulas/Petro-en-la-Guajira-con-la-mona-de-las-tulas.jpeg)
+![El presidente Petro y Sandra Ortiz «la Mona» de las tulas saludan a los niños wayuús a su llegada a Riohacha al bajarse del avión Number One de la Fuerza Aérea Colombiana. ¿Propaganda política del gobierno del cambio que costó $185 mil millones? Los niños se siguen muriendo de sed.](s3://bundled-saddlebag-tnqki7w/2024/05/sandra-ortiz-la-mona-de-las-tulas/Petro-en-la-Guajira-con-la-mona-de-las-tulas.jpeg)
 *El presidente Petro y Sandra Ortiz, «la Mona de las tulas», saludan a los niños wayuús a su llegada a Riohacha al bajarse del avión Number One de la Fuerza Aérea Colombiana. ¿Propaganda política del gobierno del cambio que costó $185 mil millones? Los niños se siguen muriendo de sed por la avaricia de funcionarios del cambio.*
 
 ¡Atención! Lo más impactante e indignante es que ese dinero procedía de un cuestionado contrato por valor de $46 mil millones concebido con urgencia a la luz del cumplimiento de la **sentencia T-302-2017** emitida durante el gobierno de **Juan Manuel Santos**. Un contrato del gobierno del cambio que frustró el suministro de agua potable con los carrotanques adquiridos de urgencia y que yacen llenos de polvo estacionados, sin uso, en la base militar de Uribia, La Guajira.

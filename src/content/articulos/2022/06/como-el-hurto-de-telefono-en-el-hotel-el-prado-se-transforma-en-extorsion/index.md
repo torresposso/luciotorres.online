@@ -5,10 +5,10 @@ pubDate: "2022-06-17 17:44:21"
 author: "Lucio"
 categories: ["Análisis","Barranquilla","Entrevista","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/como-el-hurto-de-telefono-en-el-hotel-el-prado-se-transforma-en-extorsion/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/06/como-el-hurto-de-telefono-en-el-hotel-el-prado-se-transforma-en-extorsion/hero.jpg
 ---
 
-![Rosmaira Ruiz, destacada comunicadora social-periodista fue víctima del hurto de sus teléfonos que terminaron en extorsión y amenazas de muerte.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/como-el-hurto-de-telefono-en-el-hotel-el-prado-se-transforma-en-extorsion/hero.jpg)
+![Rosmaira Ruiz, destacada comunicadora social-periodista fue víctima del hurto de sus teléfonos que terminaron en extorsión y amenazas de muerte.](s3://bundled-saddlebag-tnqki7w/2022/06/como-el-hurto-de-telefono-en-el-hotel-el-prado-se-transforma-en-extorsion/hero.jpg)
 *Rosmaira Ruiz, destacada comunicadora social-periodista fue víctima del hurto de sus teléfonos que terminaron en extorsión y amenazas de muerte.*
 
 La comunicadora social-periodista, **Rosmaira Ruiz**, fue víctima del hurto de teléfono. Uno personal y el otro empresarial. Este hecho, que pareciera ordinario, sucedió el pasado 10 de junio en el prestigioso **Hotel El Prado**, hoy se transformó en un **delito mayor**. La comunicadora social ahora es víctima de amenazas de muerte y extorsión.
@@ -19,7 +19,7 @@ Rosmaira Ruiz, comunicadora social periodista, vivió una historia dramática de
 
 Lo doloroso de este hecho ordinario, como es concebido como un delito menor, la institucionalidad que está para proteger a la ciudadanía no lo hace. Hubo un fallo de la atención de la Policía Nacional, la Fiscalía y la URI. Incluso, la administración del hotel El Prado, no le hizo acompañamiento a la víctima del hurto que ocurrió en su interior.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/como-el-hurto-de-telefono-en-el-hotel-el-prado-se-transforma-en-extorsion/abogada-bianith-bohorquez-pinto_6070854_20220406124447.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/06/como-el-hurto-de-telefono-en-el-hotel-el-prado-se-transforma-en-extorsion/abogada-bianith-bohorquez-pinto_6070854_20220406124447.jpg)
 *La representante legal del Hotel El Prado, Bianith Bohórquez Pinto, hasta ahora no se ha referido sobre el hecho. Cortesía.*
 
 Al respecto, estuvimos buscando declaraciones de la gerencia del hotel con el fin de aclarar sobre su negligencia para preservar la seguridad interna. Pero no hubo forma para contactar a su representante legal, **Bianith Bohórquez Pinto**. Esta funcionaria debería dar respuesta a los interrogantes que surgen de la comisión de este delito al interior del hotel. En el saló

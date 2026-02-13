@@ -5,7 +5,7 @@ pubDate: "2022-06-12 17:52:09"
 author: "Lucio"
 categories: ["Análisis","Política","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/petro-puede-ganar-la-presidencia-con-el-perdon-moral/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/06/petro-puede-ganar-la-presidencia-con-el-perdon-moral/hero.jpg
 ---
 
 Si Gustavo Petro quiere ganar la presidencia en forma ética, **debería pedir perdón moral a la sociedad colombiana por los métodos igualados a las campañas que tienen el sello del uribismo.** De ello dependerá el verdadero cambio de su eventual gobierno. Una lectura alternativa de las últimas encuestas infieren que el imperativo moral marcará la diferencia para esa victoria.
@@ -18,7 +18,7 @@ Mientras tanto, entramos en la recta final de las elecciones presidenciales 2022
 
 A pesar de ese enrarecido ambiente, el candidato **Gustavo Petro** se mantiene en su firme aspiración de ganar la presidencia. Aunque ya no con el favoritismo de la primera vuelta. De las tres encuestas nacionales que se dieron a conocer entre el viernes y el sábado (10 y 11 de junio), dos (Invamer y Yarumo-Analítica) presentan un empate técnico a favor de Rodolfo: En tanto que la de Yanhass le da una ventaja de 10 puntos a Petro. El Centro Nacional de Consultoría (CNC) en la primera semana de junio publicó una encuesta realizada el 30 y 31 de mayo también dió empate técnico favorable al ingeniero.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/petro-puede-ganar-la-presidencia-con-el-perdon-moral/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/06/petro-puede-ganar-la-presidencia-con-el-perdon-moral/hero.jpg)
 *Encuesta CNC(Centro Nacional de Consultorias)*
 
 El pasado jueves 9 de junio la revista Semana comenzó a publicar una serie de videos que supuestamente un miembro del Pacto Histórico filtró asqueado por los métodos inmorales para acabar con los rivales electorales. Petro dijo que es una chuzada a su campaña.
@@ -35,7 +35,7 @@ Sin embargo, del dicho al hecho hay mucho trecho. La campaña de Rodolfo Hernán
 
 Según INVAMER, la intención de voto de Petro es del **47,2%** y la de Hernández del **48,2%**. El voto en blanco es de 4,7%. La ventaja del ingeniero es 1 punto. La ficha técnica dice que el margen de error es de 2,69%. Esto es, un **empate técnico**.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/petro-puede-ganar-la-presidencia-con-el-perdon-moral/invamer.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/06/petro-puede-ganar-la-presidencia-con-el-perdon-moral/invamer.jpg)
 
 La muestra fue recogida entre el 3 y 7 de junio. Por tanto, fue antes de los escándalos de los petrovideos y de las amenazas que llevó al candidato Hernández a irse a Miami. Desde allá anunció su regreso este domingo.
 
@@ -59,7 +59,7 @@ Gustavo Petro subió tres puntos respecto al sondeo anterior de dicha encuestado
 
 En la región Caribe, Petro pasó del 47 % al 55 % y Hernández pasó de un 36 % a un 26 %. A diferencia del sondeo de Mediciones Estratégicas Estratégicas que le da un 39%.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/06/petro-puede-ganar-la-presidencia-con-el-perdon-moral/FU_nn4_XEAIA0kz.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/06/petro-puede-ganar-la-presidencia-con-el-perdon-moral/FU_nn4_XEAIA0kz.jpg)
 
 ## Para reflexionar
 

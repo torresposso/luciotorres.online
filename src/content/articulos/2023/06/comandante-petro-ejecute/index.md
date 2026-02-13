@@ -5,10 +5,10 @@ pubDate: "2023-06-09 02:32:19"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/comandante-petro-ejecute/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/06/comandante-petro-ejecute/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/comandante-petro-ejecute/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/06/comandante-petro-ejecute/hero.jpg)
 *«Comandante Petro»: ¡Ejecute! /Fotomontaje/Cortesía).*
 
 Pareció que el 7 de junio habló en las calles el **«**Comandante Petro**»** y no el presidente de los colombianos. **«**Están advertidos**»**, fue la sentencia dirigida a sus ministros, pero para que le escuchara el país de que quien manda es el comandante en jefe de las Fuerzas Armadas. **Un golpe de Estado blando** no se previene con discursos de confrontación ni con bravuconadas. Por el contrario, lo precipita. Al presidente **Pedro Castillo, del Perú, lo tumbó su incapacidad de gobernar** y, al final, a su pose megalómana que quiso disolver el congreso sin capacidad constitucional, política y social para hacerlo. **Un golpe blando, por tanto, tiene una vacuna: hechos administrativos que se traduzcan en hechos sociales y políticos.**

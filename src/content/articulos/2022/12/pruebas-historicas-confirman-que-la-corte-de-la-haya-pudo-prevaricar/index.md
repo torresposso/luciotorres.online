@@ -5,17 +5,17 @@ pubDate: "2022-12-04 01:26:05"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/hero.jpg
 ---
 
-![Desde el 5 de diciembre otra vez Colombia fue sentada por Nicaragua. Pruebas históricas confirman nuestra soberanía sobre San Andrés](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/hero.jpg)
+![Desde el 5 de diciembre otra vez Colombia fue sentada por Nicaragua. Pruebas históricas confirman nuestra soberanía sobre San Andrés](s3://bundled-saddlebag-tnqki7w/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/hero.jpg)
 *Desde el 5 de diciembre otra vez Colombia será sentada por Nicaragua. Pruebas históricas confirman nuestra soberanía sobre San Andrés*
 
 Existen pruebas históricas —desconocidas por la Corte Internacional de Justicia (CIJ) en su fallo del 2012— que confirman la soberanía colombiana sobre las islas de San Andrés, Providencia y Santa catalina. Esto implica que, según algunos juristas y expertos internacionalistas, la CIJ al aducir la carencia de pruebas, **debió practicarlas o en su defecto declararse inhibida para fallar.** Por tanto, la delegación colombiana debe solicitarle a la CIJ que se pronuncie sobre las **nuevas pruebas sobrevinientes** que adjuntó el historiador **Juan Roberto Serrano Ochoa** en correo enviado a la corte el pasado 18 de noviembre.
 
 En ese sentido, el jurista colombiano y doctorante en Ciencias Políticas, **Jorge Luis Horta Orozco**, le envió un derecho de petición al **presidente Gustavo Petro** para que la nación coadyuve la solicitud presentada por el ciudadano cartagenero Serrano Ochoa. Al mismo tiempo, solicita que la delegación oficial, que se presentará desde el 5 de diciembre en La Haya, **no aborde un tema diferente a la consideración de esa petición**.
 
-![Esta fue la presentación de las nuevas pruebas históricas presentadas por Juan Roberto Serrano a la CIJ.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/Juan-Serrano-derecho-de-peticion1.jpg)
+![Esta fue la presentación de las nuevas pruebas históricas presentadas por Juan Roberto Serrano a la CIJ.](s3://bundled-saddlebag-tnqki7w/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/Juan-Serrano-derecho-de-peticion1.jpg)
 *Facsímil de la carta de presentación de las nuevas pruebas históricas adjuntadas por Juan Roberto Serrano a la CIJ.*
 
 Ello implicaría que hasta tanto no se pronuncie la Corte sobre dicha solicitud, que oficiosamente presentó ante de la expiración del término de diez años para la revisión del fallo, el gobierno colombiano deberá solicitar la suspensión del trámite de la queja que se iniciará el 5 de diciembre. Para ello, la delegación nacional ante La Haya deberá coadyuvar la petición ciudadana. Esto reviviría los términos de la revisión del fallo del 2012, la cual se tomó cometiendo una gran omisión de las pruebas históricas que aduce Serrano Ochoa
@@ -48,7 +48,7 @@ De acuerdo con este concepto, es demasiado evidente el error de la defensa y, po
 
 ## Análisis comparativo de las pruebas históricas
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/Mapa_No_1.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/Mapa_No_1.jpg)
 *Mapa No 1. Interpretación de Juan Roberto Serrano.*
 
 Ahora bien, al comparar las dos **Reales Órdenes** citadas, nos encontramos que se presentan dos hallazgos que se pueden constituir en **pruebas históricas sobrevivinientes** para resolver el diferendo terrestre y marítimo de las dos naciones.
@@ -87,7 +87,7 @@ La Real Orden de 20 de noviembre de 1803, **transfirió formalmente** la Costa d
 
 ## Nuevos horizontes
 
-![El anterior equipo de Colombia liderado por el agente Carlos Gustavo Arrieta y coagente a Manuel José Cepeda, parece que fueron a calentar las sillas a La Haya. Su actuación fue improductiva de todo punto de vista, dicen los expertos.No presentaron las pruebas históricas.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/cepeda-y-carlos-gustavo-arrieta.jpg)
+![El anterior equipo de Colombia liderado por el agente Carlos Gustavo Arrieta y coagente a Manuel José Cepeda, parece que fueron a calentar las sillas a La Haya. Su actuación fue improductiva de todo punto de vista, dicen los expertos.No presentaron las pruebas históricas.](s3://bundled-saddlebag-tnqki7w/2022/12/pruebas-historicas-confirman-que-la-corte-de-la-haya-pudo-prevaricar/cepeda-y-carlos-gustavo-arrieta.jpg)
 *El anterior equipo de Colombia liderado por el agente Carlos Gustavo Arrieta y coagente a Manuel José Cepeda, parece que fueron a calentar las sillas a La Haya. Su actuación fue improductiva de todo punto de vista, dicen los expertos.*
 
 De hecho, este 5 de diciembre surge la oportunidad para que se haga una rectificación en la estrategia de defensa de Colombia. Se podría corregir las fallas en la estrategia defensiva frente a Nicaragua que dio como resultado el fallo adverso. Si bien es cierto que el lunes 5 de diciembre de 2022 se inician las audiencias orales sobre la queja que presentó Nicaragua en 2013, surge la oportunidad para que se produzca un giro en el debate presentado por las exigencias del presidente Daniel Ortega contra el Estado colombiano.

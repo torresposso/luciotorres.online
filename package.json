@@ -11,16 +11,22 @@
     "preview": "astro preview",
     "start": "bun x serve dist -p ${PORT:-8080}",
     "astro": "astro",
-    "upload-images": "node scripts/upload-images-to-bucket.js",
-    "update-urls": "node scripts/update-image-urls.js"
+    "update-urls": "bun run scripts/update-image-urls.js"
   },
   "dependencies": {
+    "@alpinejs/intersect": "^3.15.8",
+    "@astrojs/alpinejs": "^0.4.9",
     "@astrojs/mdx": "^4.3.13",
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.7.0",
     "@aws-sdk/client-s3": "^3.988.0",
+    "@tailwindcss/typography": "^0.5.19",
+    "@tailwindcss/vite": "4.1.18",
+    "alpinejs": "^3.15.8",
     "astro": "^5.17.1",
-    "sharp": "^0.34.3"
+    "daisyui": "5.5.18",
+    "sharp": "^0.34.3",
+    "tailwindcss": "4.1.18"
   },
   "devDependencies": {
     "glob": "^13.0.2"

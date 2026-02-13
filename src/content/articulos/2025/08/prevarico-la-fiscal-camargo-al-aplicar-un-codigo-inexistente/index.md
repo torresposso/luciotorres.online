@@ -5,10 +5,10 @@ pubDate: "2025-08-30 02:01:50"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/08/prevarico-la-fiscal-camargo-al-aplicar-un-codigo-inexistente/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/08/prevarico-la-fiscal-camargo-al-aplicar-un-codigo-inexistente/hero.jpg
 ---
 
-![La fiscal Luz Adriana Camargo Garzón enfrenta una denuncia por prevaricato presentada por el ciudadano canadiense Glenn Ross. La Comisión Nacional de Acusaciones abocó la investigación y citó al denunciante para escucharlo en audiencia..](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/08/prevarico-la-fiscal-camargo-al-aplicar-un-codigo-inexistente/hero.jpg)
+![La fiscal Luz Adriana Camargo Garzón enfrenta una denuncia por prevaricato presentada por el ciudadano canadiense Glenn Ross. La Comisión Nacional de Acusaciones abocó la investigación y citó al denunciante para escucharlo en audiencia..](s3://bundled-saddlebag-tnqki7w/2025/08/prevarico-la-fiscal-camargo-al-aplicar-un-codigo-inexistente/hero.jpg)
 *¿Prevaricó la Fiscal Camargo al aplicar un Código inexistente? La denuncia del ciudadano canadiense Glenn Ross dice que sí. La Comisión Nacional de Acusaciones abocó la investigación y citó al denunciante para escucharlo en audiencia..*
 
 En Colombia, desde el punto de vista de la legalidad, nadie puede ser juzgado sin ley previa. ¿Si te dijera que la Ley 599 de 2000 fue concebido sin firmas y con vicio de trámite en el proceso de la sanción presidencial? ¿Prevaricó la Fiscal Camargo?
@@ -17,7 +17,7 @@ Esas preguntas las resolverá la Comisión de Acusaciones de la Cámara de Repre
 
 ## ¿Prevaricó la Fiscal Camargo?
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/08/prevarico-la-fiscal-camargo-al-aplicar-un-codigo-inexistente/comision_de_acusaciones.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/08/prevarico-la-fiscal-camargo-al-aplicar-un-codigo-inexistente/comision_de_acusaciones.jpg)
 
 ¿Prevaricó la Fiscal Camargo? De acuerdo con el ciudadano canadiense residente en Cartagena de Indias, **Glenn Ross**, si prevaricó. Manifiesta que el Código Penal Colombiano no tiene vida jurídica, por tanto, no existe. En el concepto del ciudadano canadiense, el proyecto de ley no fue firmado en la publicación de la Gaceta del Congreso ni en el Diario Oficial. Pero viene siendo utilizado por la Fiscalía General de la Nación para investigar y procesar.
 

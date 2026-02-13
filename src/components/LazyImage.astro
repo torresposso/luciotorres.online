@@ -1,5 +1,6 @@
 ---
 import FallbackImage from "../assets/blog-placeholder-1.jpg";
+import { getImgproxyUrl } from "../utils/imgproxy";
 
 interface Props {
   src: any;
@@ -16,16 +17,19 @@ const { src, alt, width, height, class: className, priority = false, aspectRatio
 // Use fallback if src is undefined or invalid
 let imgSrc = typeof src === 'string' ? src : src?.src;
 if (!imgSrc || imgSrc.includes('undefined')) {
-  imgSrc = FallbackImage;
+  imgSrc = (FallbackImage as any).src || FallbackImage;
 }
 
 const imgWidth = width || (typeof src === 'object' ? src?.width : undefined);
 const imgHeight = height || (typeof src === 'object' ? src?.height : undefined);
+
+// Generate optimized URL via imgproxy
+const optimizedSrc = getImgproxyUrl(imgSrc, imgWidth, imgHeight);
 ---
 
 <div class={`lazy-image-wrapper ${className || ''}`} style={`aspect-ratio: ${aspectRatio};`}>
   <img
-    src={imgSrc}
+    src={optimizedSrc || imgSrc}
     alt={alt}
     width={imgWidth}
     height={imgHeight}

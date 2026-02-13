@@ -5,10 +5,10 @@ pubDate: "2021-09-01 18:53:12"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/atentado-criminal-contra-lider-social-del-canal-del-dique/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/09/atentado-criminal-contra-lider-social-del-canal-del-dique/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/09/atentado-criminal-contra-lider-social-del-canal-del-dique/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/09/atentado-criminal-contra-lider-social-del-canal-del-dique/hero.jpg)
 *En este evento realizado el pasado mes de julio, Onilson Amaranto Caraballo fue uno de los líderes que denunciaron las irregularidades en las consultas previas. Es un atentado criminal que debe ser investigado.*
 
 Un atentado criminal contra su integridad física, del cual salió ileso, denunció **Onilson Amaranto Caraballo.** El líder social, a través de este medio, había denunciado las presuntas irregularidades que se están registrando con motivo de las **consultas previas del macroproyecto Restauración de los Sistemas Degradados del Canal del Dique**. 

@@ -5,10 +5,10 @@ pubDate: "2022-08-13 03:31:54"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/plan-de-manejo-ambiental-a-canal-del-dique/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/08/plan-de-manejo-ambiental-a-canal-del-dique/hero.jpg
 ---
 
-![Plan de Manejo Ambiental y Consulta Previa a Canal del Dique.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/08/plan-de-manejo-ambiental-a-canal-del-dique/hero.jpg)
+![Plan de Manejo Ambiental y Consulta Previa a Canal del Dique.](s3://bundled-saddlebag-tnqki7w/2022/08/plan-de-manejo-ambiental-a-canal-del-dique/hero.jpg)
 *Plan de Manejo Ambiental a Canal del Dique.*
 
 Con las dos objeciones planteadas hoy por la ministra del Medio Ambiente, **Susana Muhamad**, como el **Plan de Manejo Ambiental**, el macroproyecto se retrasaría un poco más de seis meses. Pero, podrían corregir dos errores estructurales de la iniciativa que **hacen nulo el proceso licitatorio**: **las consultas previas y la licencia ambiental.** Aprovechando un espacio del Congreso Nacional de la ANDI que se celebró en Cartagena de Indias, la Minambiente se refirió en esos términos al macroproyecto.

@@ -5,7 +5,7 @@ pubDate: "2018-11-16 03:30:14"
 author: "Lucio"
 categories: ["Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/sigue-marcha-por-la-educacion-de-estudiantes-y-profesores-universitarios/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2018/11/sigue-marcha-por-la-educacion-de-estudiantes-y-profesores-universitarios/hero.jpg
 ---
 
 (./IMG_7114-scaled-1.jpg)

@@ -5,17 +5,17 @@ pubDate: "2024-11-05 17:40:05"
 author: "Lucio"
 categories: ["Destacadas","Opinión"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/kamala-harris-una-mujer-presidenta-de-e-u-papel-de-los-cristianos/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/11/kamala-harris-una-mujer-presidenta-de-e-u-papel-de-los-cristianos/hero.jpg
 ---
 
 Kamala Harris: ¿Una mujer presidenta de E.U? ¿Cuál es el papel de los cristianos en estas elecciones? ¿Volverán a votar por Trump? **John Biden** ganará sobradamente la presidencia de E.U. Lo que se prevé es la carrera a la presidencia de la primera mujer norteamericana. En tanto, que hace unos meses Trump era el ganador, le reconocían el auge de la economía.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/kamala-harris-una-mujer-presidenta-de-e-u-papel-de-los-cristianos/Kamala_.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/11/kamala-harris-una-mujer-presidenta-de-e-u-papel-de-los-cristianos/Kamala_.jpeg)
 *Kamala Harris ¿Una mujer Presidenta de E.U? Papel de los cristianos.*
 
 > «Profesan conocer a Dios, pero con los hechos lo niegan, siendo abominables y rebeldes, reprobados en cuanto a toda buena obra». Tito, 1:16
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/kamala-harris-una-mujer-presidenta-de-e-u-papel-de-los-cristianos/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/11/kamala-harris-una-mujer-presidenta-de-e-u-papel-de-los-cristianos/hero.jpg)
 
 > _Este artículo redactado por el abogado y de fe cristiana, **Héctor Pérez Fernández**, pronosticó la elección de una presidenta. Fue publicado exactamente hace 4 años. No se le cambió una sola coma._
 

@@ -5,10 +5,10 @@ pubDate: "2020-09-15 23:27:05"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/09/se-reacomodan-las-placas-tectonicas-de-la-era-virtual/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2020/09/se-reacomodan-las-placas-tectonicas-de-la-era-virtual/hero.jpg
 ---
 
-\[caption id="attachment\_12715" align="aligncenter" width="702"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/09/se-reacomodan-las-placas-tectonicas-de-la-era-virtual/hero.jpg) El mundo en tus manos. En la Era Virtual podemos construir el mejor de los mundos.\[/caption\] El mundo experimenta una transformación sustantiva. **Se reacomodan las placas tectónicas de la economía.** **Irrumpe con fuerza la Era Virtual.** La Era Industrial está agonizando. Pero algo diferente está sucediendo. La cuarentena por la Covid—19 puso al descubierto lo que ya sabíamos. Que la humanidad está cambiando de Era. El encierro de **2.5 mil millones de personas,** por el miedo al coronavirus, causó un gran impacto en la economía mundial. También en la cultura, en la Salud y en la vida. En fin, en las relaciones sociales y políticas. Una investigación realizada por el **Deutsche Bank** indica que estamos asistiendo a un cambio profundo. Es decir, a la aparición de una nueva Era que en los 10 años venideros se caracterizará por el imperio del desorden.
+\[caption id="attachment\_12715" align="aligncenter" width="702"\]![](s3://bundled-saddlebag-tnqki7w/2020/09/se-reacomodan-las-placas-tectonicas-de-la-era-virtual/hero.jpg) El mundo en tus manos. En la Era Virtual podemos construir el mejor de los mundos.\[/caption\] El mundo experimenta una transformación sustantiva. **Se reacomodan las placas tectónicas de la economía.** **Irrumpe con fuerza la Era Virtual.** La Era Industrial está agonizando. Pero algo diferente está sucediendo. La cuarentena por la Covid—19 puso al descubierto lo que ya sabíamos. Que la humanidad está cambiando de Era. El encierro de **2.5 mil millones de personas,** por el miedo al coronavirus, causó un gran impacto en la economía mundial. También en la cultura, en la Salud y en la vida. En fin, en las relaciones sociales y políticas. Una investigación realizada por el **Deutsche Bank** indica que estamos asistiendo a un cambio profundo. Es decir, a la aparición de una nueva Era que en los 10 años venideros se caracterizará por el imperio del desorden.
 
 ## ¿Por qué una Era Virtual?
 

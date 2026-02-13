@@ -5,10 +5,10 @@ pubDate: "2021-12-19 00:52:55"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/Del-Cielo-al-infierno.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/Del-Cielo-al-infierno.jpeg)
 *Del cielo al infierno fue la caída de Tecnoglass en Nasdaq, la bolsa de Nueva York. Cristian Daes,*
 
 Del cielo al infierno, es la brusca caída de Tecnoglass en Nasdaq. Mientras la empresa barranquillera hace todo lo posible para enfrentar las fluctuaciones críticas del mercado bursátil de Nueva York, definió su estrategia de defensa para recuperarse de la brusca caída de sus acciones. Pero, sobre todo, pretende defenderse de la amenaza de siete bufetes de abogados de los Estados Unidos que representarán a los inversores afectados.
@@ -27,7 +27,7 @@ Esas aguas turbulentas, que solo se pueden comparar con las de **Bocas de Ceniza
 
 ## Reconstruir la confianza
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/hero.jpg)
 *Samuel Azout Papu, el CEO de Tecnoglas, el popular Sammy, quien juega como James en el mundo empresarial.*
 
 Para enfrentar esta nueva situación, los CEOs de Tecnoglass se vieron en la necesidad de estructurar un **Comité Especial** integrado por directores externos de su firma con el fin de reconstruir la confianza vuelta añicos por la compañía **Hindenburg Research** (HR) con su informe que tiene una gran influencia en los medios bursátiles de Nueva York. 
@@ -50,7 +50,7 @@ El ascenso vertiginoso e impecable de Tecnoglass fue golpeado inicialmente en el
 
 ## Un antecedente
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/karen-y-regalos.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/karen-y-regalos.jpeg)
 *Karen Abudinen y sus regalos de Navidad.*
 
 Cuando se produjo el primer golpe titulamos el análisis de ese momento [Los 7 días que estremecieron a Tecnoglass en Nasdaq](/articulos/los-7-dias-que-estremecieron-a-tecnoglass-en-nasdaq-y-mintic/). En ese instante, la curva de sus acciones se volvió loca. Y fue su primera caída que duró una semana. Pocos se habían explicado las causas de este hecho. Pero lo cierto es que se produjo por el escándalo de **Mintic. Karen Abudinen Abuchaibe** es socia de sus primos Daes Abuchaibe. De alguna manera Tecnoglass sufrió el coletazo del escándalo que estalló en el mes de agosto de 2021. 
@@ -63,7 +63,7 @@ De pronto, el 11 de agosto, las acciones de Tecnoglass — que costaban más de 
 
 ## La recuperación
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/TECNOGLASS-ACCIONES.png)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/del-cielo-al-infierno-la-verdad-de-tecnoglass-en-nasdaq-iii/TECNOGLASS-ACCIONES.png)
 *Del cielo al infierno. A 24.21 dólares cerro esta semana Tecnoglass. Muy lejos de los 34 dólares que había alcanzado antes de que se desplomaran por segunda vez.*
 
 No obstante, desde el pasado 7 de septiembre comenzó una recuperación hasta sobrepasar el nivel que tenía antes del escándalo de Mintic. Ese día sus acciones alcanzaron 26 dólares hasta llegar a 34 dólares poco antes de su segundo desplome.

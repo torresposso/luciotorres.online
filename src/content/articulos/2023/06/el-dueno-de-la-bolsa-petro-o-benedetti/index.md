@@ -5,10 +5,10 @@ pubDate: "2023-06-06 02:02:10"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/el-dueno-de-la-bolsa-petro-o-benedetti/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/06/el-dueno-de-la-bolsa-petro-o-benedetti/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/el-dueno-de-la-bolsa-petro-o-benedetti/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/06/el-dueno-de-la-bolsa-petro-o-benedetti/hero.jpg)
 *El dueño de la bolsa ¿Petro o Benedetti?*
 
 ¿Quién es el dueño de la bolsa de dólares que se perdió en casa de Laura Sarabia, exjefa de gabinete de presidencia? ¿Petro o Benedetti? Tal es la pregunta que surgió en el avance de la _bola de nieve_ que engulle todo a su paso en el gobierno compartido de izquierda. En tanto, en la tarde de hoy lunes, el presidente Gustavo Petro reiteraba la existencia de lo que llamó «**un simple intento de golpe blando para detener la lucha contra la impunidad»**. Y, al mismo tiempo, publicaba un pantallazo del último tuiter de Armando _Terminator_ Benedetti, quien reconoció que se dejó **"llevar por la rabia y el trago»**. Es el mismo que había amenazado con incendiar la Casa de Nariño, incluso, con él adentro. Esta fue su amenaza:
@@ -33,7 +33,7 @@ De modo que esta es una reacción lógica de la derecha colombiana ante semejant
 
 ## El desbordado enfado
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/06/el-dueno-de-la-bolsa-petro-o-benedetti/Gustavo-Petro_benedetti.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/06/el-dueno-de-la-bolsa-petro-o-benedetti/Gustavo-Petro_benedetti.jpg)
 
 Recordemos que el jueves 1 de junio, el presidente Gustavo Petro solo vino a atender al entonces embajador de Colombia en Venezuela ya entrada la noche. Luego de una prolongada espera, lo que le emputó a Benedetti es que el presidente no le creyó a él sino a su jefe de gabinete Laura Sarabia.
 

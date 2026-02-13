@@ -5,12 +5,12 @@ pubDate: "2022-04-11 00:59:14"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/macron-y-le-pen-francia-acorralada/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/04/macron-y-le-pen-francia-acorralada/hero.jpg
 ---
 
 La Francia acorralada por la disyuntiva electoral Macron o Le Pen. Al término de la jornada del día, los resultados electorales de 2022 favorecieron al actual presidente de Francia, Emmanuel Macron (centroderecha) y Marina Le Pen (derecha), quienes pasaron a la segunda vuelta. La **Francia Insumisa de Jean—Luc Mélechon** (izquierda) quedó eliminada de una reñida primera vuelta.
 
-![Francia se queda con la centro derecha. Macron y Le Pen: ¡Francia acorralada!](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/macron-y-le-pen-francia-acorralada/hero.jpg)
+![Francia se queda con la centro derecha. Macron y Le Pen: ¡Francia acorralada!](s3://bundled-saddlebag-tnqki7w/2022/04/macron-y-le-pen-francia-acorralada/hero.jpg)
 *Macron y Le Pen: ¡Francia acorralada!*
 
 La primera enseñanza que nos deja este resultado es la tendencia a la supresión del viejo dilema de la izquierda y derecha. Hoy, la derecha ha retomado banderas ideológicas de la izquierda. Al mismo tiempo, ésta se ha vuelto más conservadora.
@@ -23,7 +23,7 @@ El hecho de que el candidato de izquierda esté por fuera del baloto presidencia
 
 ## La Francia insumisa
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/macron-y-le-pen-francia-acorralada/francia-insumisa.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/04/macron-y-le-pen-francia-acorralada/francia-insumisa.jpg)
 *Una de las visitas que hizo Jean-Luc Mélechon en América Latina fue al expresidente Lula Da Silva, quien probablemente en los próximos días presentará como su fórmula vicepresidencial a Geraldo Alckmin, de centro derecha.*
 
 La Sexta República de la Francia Insumisa —según Mélechon— permitiría pasar a un sistema parlamentario y repartir mejor el poder entre el presidente, el Parlamento y los ciudadanos. Ese planteamiento lo expuso ante una manifestación de **100 mil franceses** que se congregaron en la última marcha realizada el pasado 20 de marzo. Pero todo fue vano para alcanzar a pasar a la segunda vuelta e impedir que se repitiera la misma disyuntiva de las elecciones pasadas.
@@ -36,7 +36,7 @@ La profunda crisis de la izquierda impidió que hoy Mélechon esté por fuera de
 
 ## Macron coqueteó con la izquierda
 
-![El presidente Emmanuel Macron quiere conservar el puesto volcándose hacia la izquierda. Francia acorralada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/macron-y-le-pen-francia-acorralada/Emmanuel-Macron.jpg)
+![El presidente Emmanuel Macron quiere conservar el puesto volcándose hacia la izquierda. Francia acorralada.](s3://bundled-saddlebag-tnqki7w/2022/04/macron-y-le-pen-francia-acorralada/Emmanuel-Macron.jpg)
 *El presidente Emmanuel Macron quiere conservar el puesto volcándose hacia la izquierda. Francia acorralada.*
 
 Con el fin de conquistar votos de la izquierda, Macrón en su discurso centrista hizo un giro de izquierda, según versiones de France-24. Por ejemplo, avivó el eslogan del Nuevo Partido Anticapitalista de tendencia trotskista (NPA), cuyo candidato [Philippe Poutou](/articulos/kgs/hoZaDQ), solo obtuvo el 0,8% de los votos: 
@@ -47,7 +47,7 @@ Podría considerarse que el presidente de Francia —quien hasta hace poco no te
 
 ## Marina Le Pen
 
-![Marine Le Pen ¿puede reunir toda la derecha y gran parte de la centro derecha para ser la presidenta de Francia? Francia acorralada en un dilema. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/macron-y-le-pen-francia-acorralada/Marine-Le-Pen.jpg)
+![Marine Le Pen ¿puede reunir toda la derecha y gran parte de la centro derecha para ser la presidenta de Francia? Francia acorralada en un dilema. ](s3://bundled-saddlebag-tnqki7w/2022/04/macron-y-le-pen-francia-acorralada/Marine-Le-Pen.jpg)
 *Marine Le Pen ¿puede reunir toda la derecha y gran parte de la centro derecha para ser la presidenta de Francia? Francia acorralada en un dilema.*
 
 El crecimiento de Marina Le Pen (24,6%) permitió desplazar a la izquierda como hace cinco años. ¿La causa? El partido Agrupación Nacional comenzó a disputarle las bases sociales al Partido Socialista (PS), de la izquierda dominante. 

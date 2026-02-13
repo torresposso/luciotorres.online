@@ -5,10 +5,10 @@ pubDate: "2022-04-20 01:05:39"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/proteccion-al-consumidor-en-linea-sera-una-realidad/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/04/proteccion-al-consumidor-en-linea-sera-una-realidad/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/proteccion-al-consumidor-en-linea-sera-una-realidad/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/04/proteccion-al-consumidor-en-linea-sera-una-realidad/hero.jpg)
 *Nadia Blel Scaff destacada entre las senadoras de la Comisión VII. Es la creadora del proyecto de ley para la protección del consumidor. Cortesía.*
 
 ¿Cuántas veces fuiste engañado comprando en línea y sin tener los medios para defenderte? Desde la cuarentena el comercio electrónico se disparó creciendo 300%, según la Cámara de Comercio Electrónico. Pero este crecimiento no ha sido concomitante con la protección del consumidor final.
@@ -35,7 +35,7 @@ El proyecto contempla crear herramientas jurídicas para proteger a los comprado
 
 ## Dientes a la protección del consumidor
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/04/proteccion-al-consumidor-en-linea-sera-una-realidad/nidia-marcela-osorio.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/04/proteccion-al-consumidor-en-linea-sera-una-realidad/nidia-marcela-osorio.jpg)
 *Nidia Marcela Osorio*
 
 La ponente del proyecto en la cámara de Representante, **Nidia Marcela Osorio**, consideró que el crecimiento del comercio electrónico dejó en evidencia que los consumidores del comercio electrónico actualmente están desprotegidos. La parlamentaria dijo:

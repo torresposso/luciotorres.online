@@ -5,10 +5,10 @@ pubDate: "2024-06-18 04:14:49"
 author: "Lucio"
 categories: ["Destacadas","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/cuidado-estafan-vendiendo-tierra-despojada-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/06/cuidado-estafan-vendiendo-tierra-despojada-ii/hero.jpg
 ---
 
-![Al norte de Cartagena, kilómetro 21, tierra despojada. Son 12,5 hectáreas despojadas a Eddy Marina Aguacha de López, y las tienen a la venta.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/cuidado-estafan-vendiendo-tierra-despojada-ii/hero.jpg)
+![Al norte de Cartagena, kilómetro 21, tierra despojada. Son 12,5 hectáreas despojadas a Eddy Marina Aguacha de López, y las tienen a la venta.](s3://bundled-saddlebag-tnqki7w/2024/06/cuidado-estafan-vendiendo-tierra-despojada-ii/hero.jpg)
 *Al norte de Cartagena, kilómetro 21, tierra despojada. Son 12,5 hectáreas despojadas a Eddy Marina Aguacha de López, y las tienen a la venta.*
 
 Tenga mucho cuidado. Si quiere comprar propiedades en Cartagena, fíjese que no sea tierra despojada que le cause un grave problema y le quite su tranquilidad. Esta historia se refiere al caso de un grupo de usurpadores que se concertaron en una supuesta empresa asociativa de campesinos para despojar a sus legítimos dueños de **12,5 hectáreas** de tierra en jurisdicción del corregimiento **Arroyo de Piedra** (Cartagena). Ahora sus hijos ―continuando con el legado criminal de sus padres― las están vendiendo a terceros sin anotar que es un predio despojado, objeto de dos visitas por una demanda radicada en la **Unidad de Restitución de Tierras (URT)**.
@@ -21,7 +21,7 @@ Ahora cuentan con la asesoría de nuevos abogados que le dan apariencia legal a 
 
 ## El despojo
 
-![En el fondo aparece la vivienda construida por Eddy Marina Aguacha de López. Aquí están las 12,5 hectáreas (tierra despojada) que colinda entre la carretera Vía al Mar y el Mar Caribe./VoxPopuli.Digital.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/cuidado-estafan-vendiendo-tierra-despojada-ii/12-hectareas_lucio-1024x471.jpg)
+![En el fondo aparece la vivienda construida por Eddy Marina Aguacha de López. Aquí están las 12,5 hectáreas (tierra despojada) que colinda entre la carretera Vía al Mar y el Mar Caribe./VoxPopuli.Digital.](s3://bundled-saddlebag-tnqki7w/2024/06/cuidado-estafan-vendiendo-tierra-despojada-ii/12-hectareas_lucio-1024x471.jpg)
 *En el fondo aparece la vivienda construida por Eddy Marina Aguacha de López. Aquí están las 12,5 hectáreas (tierra despojada) que colinda entre la carretera Vía al Mar y el Mar Caribe./VoxPopuli.Digital.*
 
 Como lo documentamos en la primera entrega de este seriado, la primera generación de despojadores fue orientada jurídicamente por el ya desaparecido **Álvaro Perea Castro**, la _oveja negra_ de la prestante familia de **Napoleón Perea Castro**, legendario locutor de los 80 y 90. El mentado abogado tuvo problemas policiales y judiciales por su forma ilícita para adquirir tierra. Para materializar estos hechos, alentaba a nativos de _mala conducta_ a invadir las tierras y sacar por la fuerza a sus legítimos dueños, tal como lo hicieron en 1992 con la señora **Eddy Marina Aguacha de López**, quien hoy tiene 70 años.
@@ -65,7 +65,7 @@ Cuando estaba en la casa de **Miguel Arcángel Gómez Teherán**, vicepresidente
 
 ## Amenaza contra el periodista
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/06/cuidado-estafan-vendiendo-tierra-despojada-ii/Miguel-arcangel-1024x637.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2024/06/cuidado-estafan-vendiendo-tierra-despojada-ii/Miguel-arcangel-1024x637.jpg)
 *Uno de los pocos sobrevivientes de la Empresa Asociativa Campesina de Arroyo de Piedra, Miguel Arcángel Gómez Teherán que quiere terminar a bien con ese pleito./VoxPopuli Digital.*
 
 Para escribir esta entrega, debí visitar los predios de las **12,5 hectáreas** y entrevistar a testigos que me aseguraron que Eddy Marina Aguancha es la legítima dueña, pues, se la compró en buena forma a la Empresas Asociativa. Algunos me manifestaron que esos directivos campesinos «son unos bandidos que han vivido ilícitamente de esas tierra en perjuicio de los campesinos de bien de Arroyo de Piedra».

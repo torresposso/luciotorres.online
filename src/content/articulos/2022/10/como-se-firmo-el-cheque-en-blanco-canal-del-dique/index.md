@@ -5,10 +5,10 @@ pubDate: "2022-10-09 17:19:03"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/como-se-firmo-el-cheque-en-blanco-canal-del-dique/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/10/como-se-firmo-el-cheque-en-blanco-canal-del-dique/hero.jpg
 ---
 
-![¿Cómo se firmó el cheque en blanco?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/como-se-firmo-el-cheque-en-blanco-canal-del-dique/hero.jpg)
+![¿Cómo se firmó el cheque en blanco?](s3://bundled-saddlebag-tnqki7w/2022/10/como-se-firmo-el-cheque-en-blanco-canal-del-dique/hero.jpg)
 *Aquí el cheque ya se había firmado y la seño había "dejado el pelero". ¿Cómo se firmó el cheque en blanco?*
 
 ¿Cómo se firmó el "Cheque en blanco" del Canal del Dique? Fue una maniobra cocinada desde las altas esferas del gobierno nacional. A través del Ministerio de Transporte, la Agencia Nacional de Infraestructura-ANI y Sacyr (beneficiarios del cheque), crearon el 4 de octubre un verdadero teatro titulado **"Acuerdos de Voluntades"**. Este acuerdo no habla de lo esencial: **el licenciamiento social y ambiental que es un proceso previo al pliego de condiciones y, por tanto, **a la adjudicación**.**
@@ -33,7 +33,7 @@ En otro artículo publicado por este medio nos preguntábamos si la ministra de 
 
 ## Reacción negativa al "cheque en blanco"
 
-![Aspecto de la reunión de la Asociación Campesinos y Pequeños Ganaderos de Mahates Bolívar que trató el tema. ¿Cómo se firmó ese "cheque en blanco".](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/como-se-firmo-el-cheque-en-blanco-canal-del-dique/Mahates-asociacion.jpg)
+![Aspecto de la reunión de la Asociación Campesinos y Pequeños Ganaderos de Mahates Bolívar que trató el tema. ¿Cómo se firmó ese "cheque en blanco".](s3://bundled-saddlebag-tnqki7w/2022/10/como-se-firmo-el-cheque-en-blanco-canal-del-dique/Mahates-asociacion.jpg)
 *Aspecto de la reunión de la Asociación de Campesinos y Pequeños Ganaderos de Mahates Bolívar que trató el tema. ¿Cómo se firmó ese "cheque en blanco".*
 
 Por ejemplo, respecto al caso de la conducta de **Danit Escorcia Ortíz**, representante legal del consejo comunitario Los Olivos, quien firmó el desistimiento de la tutela, existen muchas reacciones contrarias. Algunos líderes de Hato Viejo y de otras zonas del Canal del Dique expresaron su inconformismo frente a la firma de ese "cheque en blanco". Otro profesor de ese corregimiento, cuyo nombre omito a pedido de él, le manifestó al periodista que tal firma no fue socializada ni consultada con la comunidad.

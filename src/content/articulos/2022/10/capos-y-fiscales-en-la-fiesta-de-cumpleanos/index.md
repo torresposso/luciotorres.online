@@ -5,10 +5,10 @@ pubDate: "2022-10-28 20:37:25"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/capos-y-fiscales-en-la-fiesta-de-cumpleanos/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/10/capos-y-fiscales-en-la-fiesta-de-cumpleanos/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/capos-y-fiscales-en-la-fiesta-de-cumpleanos/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/10/capos-y-fiscales-en-la-fiesta-de-cumpleanos/hero.jpg)
 *¿Capos y fiscales en la fiesta de cumpleaños? Aquí Jonathan Ospino Illera había cumplido 22 años. Un año más tarde pereció en su fiesta de cumpleaños 23, luego de asesinar a sangre fría al escolta de Vega Daza.*
 
 ¿Capos y fiscales en la fiesta de cumpleaños? Entre los invitados a la fiesta de cumpleaños del hoy occiso, **Jonattan José Ospino Illera**, al parecer, había capos de la mafia, fiscales y funcionarios públicos. En el Mediterrané (finca ubicada en Salgar propiedad de **Mauricio Gerlein Echeverría**) estarían varios funcionarios públicos, incluso de la Fiscalía, que ahora quieren pasar desapercibidos. Al mismo tiempo, se destaca la presencia de algunos **«peces gordos» del tráfico de droga** y empresarios emergentes vinculados al comercio de la droga de Barranquilla, Santa Marta y de La Guajira que, al parecer, realizaban paralelamente una cumbre para llegar a un **acuerdo de no agresión**.
@@ -27,7 +27,7 @@ Ese atentado, de acuerdo con el comandante de la **Policía Metropolitana de Bar
 
 ## Indicios sospechosos
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/capos-y-fiscales-en-la-fiesta-de-cumpleanos/Jorge-Antonio-Urquijo-comandante-2-cortesia2.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/10/capos-y-fiscales-en-la-fiesta-de-cumpleanos/Jorge-Antonio-Urquijo-comandante-2-cortesia2.jpg)
 *Coronel Jorge Urquijo, dio explicaciones baladíes. ¿Capos y fiscales en la fiesta de cumpleaños?*
 
 Volvamos a la pregunta inicial. ¿Capos y fiscales en la fiesta de cumpleaños? Existen varios indicios que indican que la fiesta de cumpleaños fue la mascarada para una cumbre de capos del narcotráfico que controlan el mercado de Barranquilla. Y se indica que las autoridades lo sabían. El primer indicio que los investigadores se podría topar es con la **conducta sospechosa de la misma Policía**. Es el caso de la detención y la liberación inmediata de **Roberto Vega Daza y de su hijo** al momento de salir de la fiesta de cumpleaños en la camioneta **Toyota Lexus color blanca blindada**, la cual recibió 42 impactos de bala. No solo fueron dos sino cuatro los detenidos. Esta información fue entregada por fuentes policivas a El Heraldo.

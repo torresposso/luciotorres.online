@@ -5,10 +5,10 @@ pubDate: "2021-12-12 18:38:35"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/hindenburg-research-denuncia-ingresos-ficticios-de-tecnoglass-en-nasdaq/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/12/hindenburg-research-denuncia-ingresos-ficticios-de-tecnoglass-en-nasdaq/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/12/hindenburg-research-denuncia-ingresos-ficticios-de-tecnoglass-en-nasdaq/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/12/hindenburg-research-denuncia-ingresos-ficticios-de-tecnoglass-en-nasdaq/hero.jpg)
 *Aquí Cristian Daes aparece en una de las secciones de la fabrica de Tecnoglass. Foto cortesía.*
 
 Tecnoglass es un productor de vidrio para edificios residenciales y comerciales con sede en Colombia. Fundada en 1984 por dos hermanos, **José Daes y Christian Daes**, quienes actualmente se desempeñan como directores y CEO y COO, respectivamente.

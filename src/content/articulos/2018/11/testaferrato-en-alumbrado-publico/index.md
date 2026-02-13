@@ -5,10 +5,10 @@ pubDate: "2018-11-06 13:48:16"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/testaferrato-en-alumbrado-publico/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2018/11/testaferrato-en-alumbrado-publico/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/testaferrato-en-alumbrado-publico/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2018/11/testaferrato-en-alumbrado-publico/hero.jpg)
 *Ricardo Vélez Pareja fue notario entre el 22 de febrero de 2006 al 31 de octubre de 2008. Por lo tanto, podría autenticar un documento en octubre del 2002.*
 
 ¿Hay testaferrato en el alumbrado público de Cartagena? Para responder a esta pregunta debemos contar la historia del caso de **Javier Gómez Izquierdo y Juan Bautista Rodriguez Franco.** Los dos hacían parte del círculo íntimo de los Curi en los 90, cuando se concedió el alumbrado público de esta ciudad azotada por los escándalos. Nicolás Curi era el alcalde de ese entonces.
@@ -25,7 +25,7 @@ Los documentos autenticados ante la Notaría Tercera del Círculo de Cartagena c
 
 Como periodista de investigación es mi deber verificar en lo posible la autenticidad de los documentos que me entregan. Esto lo hago con el fin de evitar daños a terceros o al colectivo. Mi vocación es la verdad y el periodismo que hacemos en **www.voxpopuli.digital** no está al servicio de nadie sino de la sociedad.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/testaferrato-en-alumbrado-publico/notario-alumbrado-publico-2.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2018/11/testaferrato-en-alumbrado-publico/notario-alumbrado-publico-2.jpg)
 *Este es el documento que el arquitecto Javier Gómez izquierdo blande para reclamar el 10% de las acciones del alumbrado público de Cartagena. El documento está fechado el 23 de octubre de 2002 y firmado por Vélez Pareja, quien todavía en esa época no era notario.*
 
 ##   
@@ -35,7 +35,7 @@ En la entrega anterior se presentó un documento donde Juan Rodriguez le cede a 
 
 El testaferrato en alumbrado público de Cartagena era pura murmuración callejera, pero ahora con estas pruebas deja de ser un rumor para pasar a una realidad. En uno de esos documentos **Juan Rodriguez Franco,** con cédula de ciudadanía No 9084450, certifica que ha cedido a **Javier Gómez Izquierdo**, con cédula de ciudadanía No 73.105.603, el 10% de las cuotas partes que posee en Electroconstrucciones Ltda. Consulté a Gómez Izquierdo sobre el concepto del titular actual de la Notaría Tercera en el sentido que Vélez Pareja no estaba en la fecha en que fue firmado el documento. **Su respuesta fue que el año del documento es del 2012**, pero como se puede verificar en la respuesta de autenticidad, Pareja fue notario en el período del 22 de febrero de 2006 al 31 de octubre de 2008.
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/testaferrato-en-alumbrado-publico/juan-rodriguez-franco.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2018/11/testaferrato-en-alumbrado-publico/juan-rodriguez-franco.jpg)
 *Juan Bautista Rodriguez Franco titular del 10% de las acciones que Javier Gómez Izquierdo reclama. ¿Las tiene José Villalba?*
 
 Pero en el otro documento donde **Juan Rodriguez** le da poder a Javier Gómez para que actúe en su nombre en la junta de socios de Electroconstrucciones y le cede sus cuotas, se puede ver claramente que está fechado el 23 de octubre de 2002. ¿Cómo puedo reclamar a terceros con un documento que carece de autenticidad? Legalmente no es posible y por eso se cae la reclamación. El primer apoderado de Gómez, el abogado Henri Lefranc dio la reculada del ovejo y se retractó de todas las acciones que había ejecutado a nombre de Gómez Izquierdo en 2009, porque no tenía un documento con justo derecho para reclamar las acciones.

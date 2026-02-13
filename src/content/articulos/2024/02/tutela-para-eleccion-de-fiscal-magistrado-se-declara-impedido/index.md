@@ -5,10 +5,10 @@ pubDate: "2024-02-20 02:38:57"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Corte Suprema de Justicia","Gustavo Petro"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/tutela-para-eleccion-de-fiscal-magistrado-se-declara-impedido/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/02/tutela-para-eleccion-de-fiscal-magistrado-se-declara-impedido/hero.jpg
 ---
 
-![Tutela para elección de fiscal, magistrado se declara impedido .](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/02/tutela-para-eleccion-de-fiscal-magistrado-se-declara-impedido/Luis-Rico-Puerta.jpeg)
+![Tutela para elección de fiscal, magistrado se declara impedido .](s3://bundled-saddlebag-tnqki7w/2024/02/tutela-para-eleccion-de-fiscal-magistrado-se-declara-impedido/Luis-Rico-Puerta.jpeg)
 *Luis Alonso Rico Puerta. En la tutela para elección de fiscal, el magistrado se declara impedido.*
 
 El magistrado de la Sala de Casación Civil de la Corte Suprema de Justicia, **Luis Alonso Rico Puerta**, se declaró impedido para conocer la acción de tutela presentada por el ciudadano veedor de Cartagena, **Alcides Arrieta Meza**, contra la Sala Plena para que elija fiscal en la sesión del **22 de febrero de 2024**. Es el primer escollo de esa acción judicial, cuya admisión coincidiría con la sesión de este jueves.

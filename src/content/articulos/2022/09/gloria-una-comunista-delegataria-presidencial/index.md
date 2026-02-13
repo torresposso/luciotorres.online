@@ -5,10 +5,10 @@ pubDate: "2022-09-18 12:35:52"
 author: "Lucio"
 categories: ["Análisis","Política"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/gloria-una-comunista-delegataria-presidencial/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/09/gloria-una-comunista-delegataria-presidencial/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/gloria-una-comunista-delegataria-presidencial/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/09/gloria-una-comunista-delegataria-presidencial/hero.jpg)
 
 Acaba de ser designada una comunista delegataria presidencial: **Gloria Inés Ramírez**. Tendrá cinco días de gloria. Sin duda, este hecho es histórico. Y es un desafío a la oposición de extrema derecha del país y de la izquierda tradicional.
 
@@ -30,7 +30,7 @@ Además, la delegación colombiana estará compuesta por la embajadora de Colomb
 
 ## Gloria Inés Ramírez, una comunista delegataria presidencial
 
-![Una comunista delegataria presidencial](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/09/gloria-una-comunista-delegataria-presidencial/gloria_ines.jpg)
+![Una comunista delegataria presidencial](s3://bundled-saddlebag-tnqki7w/2022/09/gloria-una-comunista-delegataria-presidencial/gloria_ines.jpg)
 *Una comunista delegataria presidencial*
 
 El hecho de que Gloria Inés Ramírez sea una comunista delegataria presidencial, se constituye en sí mismo, un verdadero desafío a los líderes de la extrema derecha colombiana. En consecuencia, es un acto que provocará más de una declaración de los sectores extremos del país. La extrema izquierda se llenará de júbilo. La extrema derecha se indignará. Pero esto le gusta a Petro, desafiar, debatir, confrontar y construir opinión pública a contrapelo.

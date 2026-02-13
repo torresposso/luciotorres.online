@@ -5,10 +5,10 @@ pubDate: "2023-02-07 13:00:15"
 author: "Lucio"
 categories: ["Análisis","Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/la-pronosticada-renuncia-de-arturo-char-y-la-caida-de-casa-blanca/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/02/la-pronosticada-renuncia-de-arturo-char-y-la-caida-de-casa-blanca/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/la-pronosticada-renuncia-de-arturo-char-y-la-caida-de-casa-blanca/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/02/la-pronosticada-renuncia-de-arturo-char-y-la-caida-de-casa-blanca/hero.jpg)
 *La renuncia de Arturo Char puede ser una estrategia para eludir la cárcel.*
 
 En la segunda entrega de **«Casa Blanca»** pronosticamos la renuncia de Arturo Char Chaljub del Congreso de la República de Colombia como una **estrategia jurídica** para eludir algo seguro que le espera en la **Corte Suprema de Justicia**: la cárcel. Se dijo que los escombros de la condena contra Aida Merlano terminarán por impactar negativamente al **imperio Daes—Char**. Aún más, ya en 2019, se señaló que el **Aidaescándalo** marcaría el inicio del fin de ese entramado de corrupción que domina a Barranquilla y a gran parte de la Costa Caribe.
@@ -35,14 +35,14 @@ En aquél momento se hizo una pregunta:
 
 ## La **_Sugar Baby_** del imperio
 
-![Aida Merlano tendría la misma edad de la que hoy tiene su hija Aida Victoria cuando entró a la política como la Sugar Baby del imperio Daeschariano.  La renuncia de Arturo Char](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/la-pronosticada-renuncia-de-arturo-char-y-la-caida-de-casa-blanca/aida-victoria.jpg)
+![Aida Merlano tendría la misma edad de la que hoy tiene su hija Aida Victoria cuando entró a la política como la Sugar Baby del imperio Daeschariano.  La renuncia de Arturo Char](s3://bundled-saddlebag-tnqki7w/2023/02/la-pronosticada-renuncia-de-arturo-char-y-la-caida-de-casa-blanca/aida-victoria.jpg)
 *Aida Merlano tendría la misma edad de la que hoy tiene su hija Aida Victoria cuando entró a la política como la Sugar Baby del imperio Daeschariano.*
 
 La protagonista de esta historia era una joven bella, ambiciosa, sin escrúpulos y sin límites. Subyugó sentimentalmente al hijo del califa para entrar en el núcleo del califato. De la misma manera, lo hizo con el _**viejo zorro**_ de **Julio Gerlein**, quien cayó seducido por sus encantos. Roberto Gerlein murió con la pena de que su hermano prefirió a su **_Sugar Baby_** antes que mantener la alianza política de 50 años en el congreso.
 
 **Aida Merlano Rebolledo** era la típica **_Sugar Baby_** del imperio Daeschariano. Pero ella tenía sus propios intereses. De alguna manera había recibido una formación política de su esposo **Carlos Rojano Llinás**, de quien se separó en 2011. Él fue un líder de la AD—M19. Posteriormente se convirtió en concejal por el partido Liberal. En marzo de 2022, fue candidato a senado por esta organización.
 
-![Ellos se juntan. Alejandro Char, hermano de Arturo, junto con Carlos Llinás, el otro ex de Aida Merlano. La renuncia de Arturo Char](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/la-pronosticada-renuncia-de-arturo-char-y-la-caida-de-casa-blanca/Alejandro-Char_Carlos-Llinas.jpg)
+![Ellos se juntan. Alejandro Char, hermano de Arturo, junto con Carlos Llinás, el otro ex de Aida Merlano. La renuncia de Arturo Char](s3://bundled-saddlebag-tnqki7w/2023/02/la-pronosticada-renuncia-de-arturo-char-y-la-caida-de-casa-blanca/Alejandro-Char_Carlos-Llinas.jpg)
 *Ellos se juntan. Alejandro Char, hermano de Arturo, en marzo de 2022 junto con Carlos Llinás, el otro ex de Aida Merlano.*
 
 El actual representante a la cámara, **Dolcey Torres**, hermano de Euclides y Camilo Torres, fue su fórmula a la cámara en el Atlántico. Pero Rojano Llinás no alcanzó a ser elegido. Tuvo dos elementos en su contra. Su pasado de ser esposo de la **_Sugar Baby_** y, por otra parte, los hermanos Torres estaban impulsando a **Pedro Flórez** al senado de la lista del **Pacto Histórico**. Con Euclides interactúe muchas veces cuando comenzó a frecuentar el Rincón Latino en 1992.

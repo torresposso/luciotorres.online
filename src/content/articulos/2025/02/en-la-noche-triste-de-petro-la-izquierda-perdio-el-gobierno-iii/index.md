@@ -5,10 +5,10 @@ pubDate: "2025-02-09 19:13:20"
 author: "Lucio"
 categories: ["Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/en-la-noche-triste-de-petro-la-izquierda-perdio-el-gobierno-iii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/02/en-la-noche-triste-de-petro-la-izquierda-perdio-el-gobierno-iii/hero.jpg
 ---
 
-![n la «noche triste» de Petro, la izquierda perdió el gobierno, Euclides y sus socios los Alcocer, se tomaron el poder](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/02/en-la-noche-triste-de-petro-la-izquierda-perdio-el-gobierno-iii/hero.jpg)
+![n la «noche triste» de Petro, la izquierda perdió el gobierno, Euclides y sus socios los Alcocer, se tomaron el poder](s3://bundled-saddlebag-tnqki7w/2025/02/en-la-noche-triste-de-petro-la-izquierda-perdio-el-gobierno-iii/hero.jpg)
 *En la «noche triste» de Petro, la izquierda perdió el gobierno, Euclides y sus socios los Alcocer, se tomaron el poder. (Cortesía Razón Pública).*
 
 La izquierda perdió el gobierno en la «noche triste» del 4 de febrero de 2025. Mientras la luz de la cámara enfocaba a la vicepresidenta **Francia Márquez**, a su lado, brillaba el costoso reloj Cartier Must Ronde de la nueva canciller **Laura Sarabia.** Era el último Consejo de Ministro del Gobierno del Cambio. La última vez que los ministros progresistas se sentaban en la mesa rectangular junto con su presidente **Gustavo Petro**.

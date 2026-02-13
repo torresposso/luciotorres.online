@@ -5,10 +5,10 @@ pubDate: "2022-03-08 11:21:20"
 author: "Lucio"
 categories: ["Análisis","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/queremos-trabajar-mototaxistas-luchan-por-la-confianza-legitima/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/03/queremos-trabajar-mototaxistas-luchan-por-la-confianza-legitima/hero.jpg
 ---
 
-![¡Queremos trabajar! dicen los mototaxistas.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/queremos-trabajar-mototaxistas-luchan-por-la-confianza-legitima/hero.jpg)
+![¡Queremos trabajar! dicen los mototaxistas.](s3://bundled-saddlebag-tnqki7w/2022/03/queremos-trabajar-mototaxistas-luchan-por-la-confianza-legitima/hero.jpg)
 *¡Queremos trabajar!*
 
 **_«¡No somos terroristas! ¡Queremos trabajar!»,_** gritaron los mototrabajadores en Cartagena. Les exigen al alcalde **William Dau Chamat** el respeto por el **derecho al trabajo y a la confianza legítima.** 
@@ -27,7 +27,7 @@ A pesar de las solicitudes de líderes de este movimiento popular, las organizac
 
 ## La confianza legítima
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/03/queremos-trabajar-mototaxistas-luchan-por-la-confianza-legitima/Captura-de-pantalla-2-1.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/03/queremos-trabajar-mototaxistas-luchan-por-la-confianza-legitima/Captura-de-pantalla-2-1.jpg)
 *¡Queremos trabajar! Gritaron hoy los mototaxistas y le exigieron sus derechos a la administración de William Dau.*
 
 Desde el punto de vista de la teoría de los derechos humanos aplicada al fenómeno del mototaxismo, podemos decir que existe una **tensión entre el interés particular y el interés genera**l. Por otro lado, una contradicción entre **el derecho al trabajo y a la igualdad de los propietarios y trabajadores del mototaxismo** y la necesidad de ordenar y organizar la movilidad de esos medios de transporte privado por parte del Estado.

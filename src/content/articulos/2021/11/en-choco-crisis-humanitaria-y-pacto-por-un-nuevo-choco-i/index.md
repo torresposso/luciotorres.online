@@ -5,10 +5,10 @@ pubDate: "2021-11-01 23:53:17"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/en-choco-crisis-humanitaria-y-pacto-por-un-nuevo-choco-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/11/en-choco-crisis-humanitaria-y-pacto-por-un-nuevo-choco-i/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/en-choco-crisis-humanitaria-y-pacto-por-un-nuevo-choco-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2021/11/en-choco-crisis-humanitaria-y-pacto-por-un-nuevo-choco-i/hero.jpg)
 *La esperanza pintada en el rostro de esta emberá. Foto Jennifer Rueda/Cortesía Nuevo Arco Iris.*
 
 Chocó soporta una de las peores crisis humanitarias que le hace plantear a los estamentos sociales  y a los nuevos empoderamientos políticos un **Pacto por un Nuevo Chocó para buscar un Rumbo Cierto**. Son tres crisis que padece este olvidado departamento del Pacífico colombiano. **Crisis Alimentaria y Ambiental. Crisis Política y de Moralidad Pública. Crisis de Seguridad y de Institucionalidad.** Los recursos destinados para resolver la crisis humanitaria nunca llegan a la gente. Ese dinero se queda en la burocracia nacional con la complicidad de agentes estatales locales que capturaron el Estado para ponerlo al servicio de las mafias locales.
@@ -17,7 +17,7 @@ Chocó soporta una de las peores crisis humanitarias que le hace plantear a los 
 
 ## Gran Veeduría Internacional para el Chocó
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/en-choco-crisis-humanitaria-y-pacto-por-un-nuevo-choco-i/armando-palacios-2.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/11/en-choco-crisis-humanitaria-y-pacto-por-un-nuevo-choco-i/armando-palacios-2.jpeg)
 *Armando Palacios Perea, presidente de la Gran Veeduría Internacional. promotor del proyecto Justo Rumbo Cierto.*
 
 El presidente de la Gran Veeduría Internacional para la Nación Colombia, **Armando Palacios Perea**, en reunión con [**VoxPopuli Digital**](/articulos/) se hizo un análisis de esta crisis humanitaria. Recordó que desde los estamentos sociales se está proponiendo un Pacto de Transparencia desde el 2015. Participan en este proyecto la Contraloría General de la República (CGR), Defensoría del Pueblo, Procuraduría General de República.  Se debe reactivar la circular nacional de la Procuraduría General No 002 del 6 de enero de 2021. También las alertas tempranos 2018, 2019 y 2020, de Carlos Negret, el anterior Defensor del Pueblo.
@@ -66,7 +66,7 @@ Lo cierto es que más que un fenómeno de causalidad es un problema esencialment
 
 ## La población indígena
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/en-choco-crisis-humanitaria-y-pacto-por-un-nuevo-choco-i/embera-chami.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/11/en-choco-crisis-humanitaria-y-pacto-por-un-nuevo-choco-i/embera-chami.jpeg)
 *El pueblo emberá chamí en el Chocó ha resistido en casi 200 años de vida republicana. Foto Jennifer Rueda/Cortesía Nuevo Arco Iris.*
 
 En el Chocó están los Pueblos Indígenas Embara Dóbida, Chamí, Katío, Wounnan, Zenu y Tule. Son víctimas de múltiples violaciones de derechos humanos y graves infracciones al Derecho Internacional Humanitario por el accionar de los actores armados. Es necesario lanzar un SOS por Chocó.

@@ -5,10 +5,10 @@ pubDate: "2024-11-08 03:46:08"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/que-hay-detras-del-atentado-contra-el-jefe-de-los-piloneros/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/11/que-hay-detras-del-atentado-contra-el-jefe-de-los-piloneros/hero.jpg
 ---
 
-![Victor Reales, el supuesto jefe de «Los Piloneros», en una de las presentaciones de Diomedes Díaz en Valencia, Venezuela.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/que-hay-detras-del-atentado-contra-el-jefe-de-los-piloneros/hero.jpg)
+![Victor Reales, el supuesto jefe de «Los Piloneros», en una de las presentaciones de Diomedes Díaz en Valencia, Venezuela.](s3://bundled-saddlebag-tnqki7w/2024/11/que-hay-detras-del-atentado-contra-el-jefe-de-los-piloneros/hero.jpg)
 *Victor Reales (sombrero vueltiao), el supuesto jefe de «Los Piloneros», en una de las presentaciones de Diomedes Díaz en Valencia, Venezuela.*
 
 **Víctor Rafael Reales Hoyos**, el supuesto jefe de **«Los Piloneros»**, y socio de **Álvaro Ospino**, conocido de auto como **«La Negra Dominga»**, andaba discretamente como _Pedro por su casa_ en Cartagena de Indias. Era un desafío al señalamiento de que su grupo exterminó a la banda delincuencial de **Los Vegas**, de Barranquilla. Hoy, yace mal herido, junto a la esposa de un reconocido ganadero de Calamar, en una cama del **Hospital Serena del Mar**, a raíz del atentado de anoche 6 de noviembre en la Avenida Santander del barrio Marbella de Cartagena.
@@ -19,7 +19,7 @@ El atentado, donde hirieron mortalmente a tres personas, sucedió cerca a la gas
 
 ## El que a hierro mata
 
-![Sangre en Marbella. Momento en que es capturado el sicario con la pistola Glock G20, a la altura del hotel Mar del Norte, frente a las playas de Marbella](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/que-hay-detras-del-atentado-contra-el-jefe-de-los-piloneros/Atentado_victor_Reales-909x1024.jpg)
+![Sangre en Marbella. Momento en que es capturado el sicario con la pistola Glock G20, a la altura del hotel Mar del Norte, frente a las playas de Marbella](s3://bundled-saddlebag-tnqki7w/2024/11/que-hay-detras-del-atentado-contra-el-jefe-de-los-piloneros/Atentado_victor_Reales-909x1024.jpg)
 *Sangre en Marbella. Momento en que es capturado el sicario con la pistola Glock G20, a la altura del hotel Mar del Norte, frente a las playas de Marbella.*
 
 >  **«**(...) porque el que a hierro mata, a hierro muere**»**.
@@ -52,7 +52,7 @@ Cuando asesinaron al Beto Vega, en la masacre de tres colombianos ocurrida en Va
 
 ## **La venganza de «La Negra Dominga»**
 
-![La venganza de «La Negra Dominga». A la izquierda, uno de los Vega con su fusil de asalto. A la derecha, Álvaro Ospino con su sobrino.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/11/que-hay-detras-del-atentado-contra-el-jefe-de-los-piloneros/Beto_negra_Jonathan.jpg)
+![La venganza de «La Negra Dominga». A la izquierda, uno de los Vega con su fusil de asalto. A la derecha, Álvaro Ospino con su sobrino.](s3://bundled-saddlebag-tnqki7w/2024/11/que-hay-detras-del-atentado-contra-el-jefe-de-los-piloneros/Beto_negra_Jonathan.jpg)
 *La venganza de «La Negra Dominga». A la izquierda, uno de los Vega con su fusil de asalto. A la derecha, Álvaro Ospino con su sobrino.*
 
 Los Reales y Ospino trabajan tranquilos después de regresar de Venezuela donde juntos pagaron cárcel. Todo indica que se volvieron ricos con el modelo de negocios que le dejó **Walid Makled**, el poderoso narco venezolano alias El Turco. Cuando éste cayó en desgracia, la sociedad Reales―Ospino se hizo más fuerte y poderosa. Atrás quedó un pasado de asaltadores de camiones transportadores de mercancías que luego vendían en el sector de Los Guajiros, Valencia, Estado de Carabobo.

@@ -5,10 +5,10 @@ pubDate: "2021-05-09 16:26:16"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/insolito-duque-gira-60-billones-a-eps-y-sin-camas-uci-covid-19/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/05/insolito-duque-gira-60-billones-a-eps-y-sin-camas-uci-covid-19/hero.jpg
 ---
 
-\[caption id="attachment\_14906" align="aligncenter" width="1280"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/insolito-duque-gira-60-billones-a-eps-y-sin-camas-uci-covid-19/Johana-Bueno-vacunas-covid-DADIS.jpeg) Dadis y alcaldía de cartagena declararon **¡por fin! la alerta roja**. Una crisis de camas UCI—Covid—19 vive el país.\[/caption\]
+\[caption id="attachment\_14906" align="aligncenter" width="1280"\]![](s3://bundled-saddlebag-tnqki7w/2021/05/insolito-duque-gira-60-billones-a-eps-y-sin-camas-uci-covid-19/Johana-Bueno-vacunas-covid-DADIS.jpeg) Dadis y alcaldía de cartagena declararon **¡por fin! la alerta roja**. Una crisis de camas UCI—Covid—19 vive el país.\[/caption\]
 
 **Una crisis de camas UCI—Covid—19 se presenta en las principales ciudades de Colombia como Bogotá, Cali, Medellín y Barranquilla.** En Cartagena se acaba de declarar la **alerta roja**. Esta situación se registra muy a pesar de que el gobierno del presidente Duque le gira a las aseguradoras de Salud (EPS) la suma de **$60 billones anualmente.**
 
@@ -26,7 +26,7 @@ Se debe aclarar que la clínica Nazareth tiene 33 camas disponibles para Covid. 
 
 ## Veedor pidió declarar la alerta roja
 
-\[caption id="attachment\_14905" align="aligncenter" width="712"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/insolito-duque-gira-60-billones-a-eps-y-sin-camas-uci-covid-19/hero.jpg) **Gerald Meza Valdez.** Tiene 33 camas UCI—Covid—19 en su clínica Nazareth.\[/caption\]
+\[caption id="attachment\_14905" align="aligncenter" width="712"\]![](s3://bundled-saddlebag-tnqki7w/2021/05/insolito-duque-gira-60-billones-a-eps-y-sin-camas-uci-covid-19/hero.jpg) **Gerald Meza Valdez.** Tiene 33 camas UCI—Covid—19 en su clínica Nazareth.\[/caption\]
 
 Ante el hecho de que se llegó al techo de la ocupación UCI, el veedor César Cárcamo solicitó a la directora del Dadis y al alcalde de Cartagena que declaren la alerta roja. Y así se pueda atender las contingencias que demanda la ocupación del 100% de las camas UCI destinadas para Covid. En el día de hoy la administracion **declaró la alerta roja**.
 
@@ -50,7 +50,7 @@ Ahora con la crisis del Coronavirus la situación hizo aguas en el Sistema de Sa
 
 Veamos el siguiente cuadro de pagos en Cartagena: 
 
-\[caption id="attachment\_14902" align="aligncenter" width="1312"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/05/insolito-duque-gira-60-billones-a-eps-y-sin-camas-uci-covid-19/LISTADO-DE-PAGOS.png) Lista de pagos a clínicas.\[/caption\]
+\[caption id="attachment\_14902" align="aligncenter" width="1312"\]![](s3://bundled-saddlebag-tnqki7w/2021/05/insolito-duque-gira-60-billones-a-eps-y-sin-camas-uci-covid-19/LISTADO-DE-PAGOS.png) Lista de pagos a clínicas.\[/caption\]
 
 ## Las tarifas UCI—Covid—19
 

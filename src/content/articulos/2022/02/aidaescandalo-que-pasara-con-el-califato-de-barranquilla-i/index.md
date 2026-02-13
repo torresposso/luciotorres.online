@@ -5,10 +5,10 @@ pubDate: "2022-02-22 14:14:37"
 author: "Lucio"
 categories: ["Análisis","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/aidaescandalo-que-pasara-con-el-califato-de-barranquilla-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/02/aidaescandalo-que-pasara-con-el-califato-de-barranquilla-i/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/aidaescandalo-que-pasara-con-el-califato-de-barranquilla-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/02/aidaescandalo-que-pasara-con-el-califato-de-barranquilla-i/hero.jpg)
 *Cortesía de Semana. Estas fotos las aportó Aida Merlano a la Corte Suprema de Justicia*
 
 **«El califato de Barranquilla»** parece indestructible. Ahora en su esplendor se tambalea con el **Aidaescándalo**. Este imperio **Daeschariano**, liderado por dos poderosas familias sirio libanés-palestinas (Char y Daes), está en decadencia. Es víctima de una mezcla de poder, corrupción, amor, sexo infidelidades. Son las mismas causas que produjeron la caída de los imperios que la humanidad ha conocido en toda su historia. Por ejemplo, el **imperio Romano** o el **imperio Otomano**.
@@ -17,7 +17,7 @@ Dos décadas en el poder absoluto del Atlántico, le ha servido al Daescharismo 
 
 ## **La génesis** del Aidaescándalo
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/02/aidaescandalo-que-pasara-con-el-califato-de-barranquilla-i/aida-merlano-conservadora.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/02/aidaescandalo-que-pasara-con-el-califato-de-barranquilla-i/aida-merlano-conservadora.jpg)
 *Aida Merlano, siguiendo la alianza con William Montes, usó el mismo entramado corrupto para elegir al parlamentario Emeterio Montes, y al diputado Andrés Montes, quien ahora tomará la posta de su primo.*
 
 Como en los antiguos imperios, la causa de su eventual caída es la mezcla del amor pasional con el poder, el sexo y las drogas. Es un coctel muy explosivo. En este sentido debemos entender lo que ahora se podría conocer como el **_Aidaescándalo_**. La exsenadora Aida Merlano, la seductora del poder, prometió que no quedará títere sin cabeza. Si lo que dice es verdad, deberá presentar pruebas concretas a la Corte Suprema de Justicia, y esta debe compulsar copias a la Fiscalía para que haga lo propio.

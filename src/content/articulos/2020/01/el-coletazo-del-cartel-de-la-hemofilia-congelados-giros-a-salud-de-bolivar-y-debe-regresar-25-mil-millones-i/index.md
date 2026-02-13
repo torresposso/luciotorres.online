@@ -5,10 +5,10 @@ pubDate: "2020-01-08 03:59:52"
 author: "Lucio"
 categories: ["Investigación"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/01/el-coletazo-del-cartel-de-la-hemofilia-congelados-giros-a-salud-de-bolivar-y-debe-regresar-25-mil-millones-i/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2020/01/el-coletazo-del-cartel-de-la-hemofilia-congelados-giros-a-salud-de-bolivar-y-debe-regresar-25-mil-millones-i/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2020/01/el-coletazo-del-cartel-de-la-hemofilia-congelados-giros-a-salud-de-bolivar-y-debe-regresar-25-mil-millones-i/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2020/01/el-coletazo-del-cartel-de-la-hemofilia-congelados-giros-a-salud-de-bolivar-y-debe-regresar-25-mil-millones-i/hero.jpg)
 *Este es el equipo de gobierno de Vicentico Blel, gobernador de Bolívar. El Ministerio de Hacienda le dio una bienvenida cálida: le congelaron los fondos de la Secretaría de Salud para atender a los más pobres del sistema. Cortesía.*
 
 Sin duda esta historia que les voy a contar es el coletazo del **_Cartel de la Hemofilia_**. El gobernador de Bolívar **Vicente Blel** recibió una cálida bienvenida: La Secretaría de Salud de Bolívar fue objeto de una sanción del Ministerio de Hacienda que le congeló los giros destinados a los pacientes más pobres del departamento y debe devolver la suma de $25 mil millones que le pagaron indebidamente -mediante tutela- a Ips vinculadas con el **Cartel de la Hemofilia**.

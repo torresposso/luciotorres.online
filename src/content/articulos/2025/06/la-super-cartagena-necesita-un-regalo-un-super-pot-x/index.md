@@ -5,10 +5,10 @@ pubDate: "2025-06-01 17:10:18"
 author: "Lucio"
 categories: ["Análisis","Cartagena","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/la-super-cartagena-necesita-un-regalo-un-super-pot-x/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/06/la-super-cartagena-necesita-un-regalo-un-super-pot-x/hero.jpg
 ---
 
-![¡Feliz Año! La Super Cartagena necesita un regalo: un super POT. ¿Dumek pasará a la historia por ser el super alcalde? VoxPopuli Digital cumplirá 25 años en noviembre 2025](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/la-super-cartagena-necesita-un-regalo-un-super-pot-x/hero.jpg)
+![¡Feliz Año! La Super Cartagena necesita un regalo: un super POT. ¿Dumek pasará a la historia por ser el super alcalde? VoxPopuli Digital cumplirá 25 años en noviembre 2025](s3://bundled-saddlebag-tnqki7w/2025/06/la-super-cartagena-necesita-un-regalo-un-super-pot-x/hero.jpg)
 *¡Feliz Año! La Super Cartagena necesita un regalo: un super POT. ¿Dumek pasará a la historia por ser el super alcalde? VoxPopuli Digital cumplirá 25 años en noviembre 2025.*
 
 Para un gobernante de la nación, pensar en grande es pensar en la Super Colombia. En el caso particular del alcalde **Dumek José Turbay Paz**, es pensar en la **Super Cartagena**. ¿Cuáles son las tres clave para que el pensamiento grande se traduzca en la Super Cartagena que deseamos? ¿Cuál sería el regalo que le daríamos a nuestra ciudad en su cumpleaños de fundada? **Una Superciudad necesita un Super POT.**

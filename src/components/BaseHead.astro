@@ -14,6 +14,11 @@ interface Props {
 const { title, description, image = FallbackImage, schema } = Astro.props;
 
 const site = Astro.site || Astro.url.origin;
+
+// Open Graph Image
+const ogImage = new URL(image.src, site);
+
+// Canonical URL
 const canonicalURL = new URL(Astro.url.pathname, site);
 ---
 
@@ -31,14 +36,10 @@ const canonicalURL = new URL(Astro.url.pathname, site);
 />
 <meta name="generator" content={Astro.generator} />
 
-<!-- Font preloads -->
+<!-- Font Connections -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<!-- Font preloads (DM Sans / DM Serif handled by global.css import) -->
-
-<!-- Alpine.js -->
-<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"
-></script>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
@@ -61,7 +62,7 @@ const canonicalURL = new URL(Astro.url.pathname, site);
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={new URL(image.src, Astro.url)} />
+<meta property="og:image" content={ogImage} />
 <meta property="og:site_name" content="Lucio Torres 2026" />
 <meta property="og:locale" content="es_CO" />
 
@@ -70,7 +71,7 @@ const canonicalURL = new URL(Astro.url.pathname, site);
 <meta property="twitter:url" content={Astro.url} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={new URL(image.src, Astro.url)} />
+<meta property="twitter:image" content={ogImage} />
 
 <!-- Structured Data (Schema.org) -->
 {

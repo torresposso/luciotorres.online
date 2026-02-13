@@ -5,24 +5,24 @@ pubDate: "2025-07-14 03:31:50"
 author: "Lucio"
 categories: ["Destacadas","Investigación","Poder"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/hero.jpg)
 *Narly Tatiana Patiño Pascuas con su perrito preferido.*
 
 El «pequeño error****_»_**** de la fiscal 15 **Especializada de Cartagena, Narly Tatiana Patiño Pascuas**, se produjo cuando con su varita mágica (¡plin!) convirtió a **José Nibardo Marín**, alias ****_«_el Abogado_»_****, en un **_«_mafioso invisible_»_**. El año pasado lo descuartizaron **Los Pachenca** por haber desaparecido un cargamento de droga en Santa Marta. **El Clan del Golfo** lo había sentenciado a muerte junto al **«Paty Paty»**, porque se habían tumbado dos toneladas de cocaína de unos poderosos narcos en el puerto de Cartagena. Pero, la fiscal en vez de corregir ese «pequeño error****_»_****, ingenua o dolosamente, lo siguió tapando.
 
 Esa conducta, tal vez prevaricadora, produjo daño moral y material al comerciante **Álvaro José Barrios Díaz**, a quien hicieron pasar como si fuera alias ****_«_el Abogado_»_****. El tiempo que duró en La Picota fue el mismo que el mafioso andaba libre sin que nadie lo buscara. Supuestamente estaba preso. Con la captura y posterior extradición de Babalao, el jefe financiero en el Caribe, se desató una guerra sangrienta que produjo **1.039 homicidios**. Además, la exportación de **más de una tonelada de cocaína** en el período 2021―2023. Esta información la entregó la **Sijin** cuando capturó al sanguinario mafioso.
 
-![El «pequeño error» de la fiscal que incentivó la guerra mafiosa en Cartagena](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/EL-ERROR-DE-LA-FISCAL.jpg)
+![El «pequeño error» de la fiscal que incentivó la guerra mafiosa en Cartagena](s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/EL-ERROR-DE-LA-FISCAL.jpg)
 *El «pequeño error» de la fiscal que incentivó la guerra mafiosa en Cartagena.*
 
 Lo paradójico de esta historia fue el asesinato (7 de febrero 2025) del subintendente de la policía **Francisco Javier Bertel Pérez**. El investigador de la Dirección de Investigación Criminal e Interpol (**Dijin**), conocía sus andanzas y de sus conexiones. Sus compañeros de la Seccional de Investigación Criminal (**Sijin**) de Cartagena que trabajan con la Fiscal 15 Especializada, también sabían los pasos criminales del **_«_mafioso invisible_»_**. Junto a alias **«Paty Paty»**, creó la estructura ilegal llamada **La Heroica** responsable de gran parte de esos asesinatos.
 
 Con el informe de inteligencia **No S13 del 15** de junio de 2020 de **Deudedith Correa Carranza** se abrió el proceso No **130016001129201800136** bajo la dirección de **Pedro Diaz Pacheco**, Fiscal Primero Único Especializado del Gaula contra **Álvaro José Barrios Díaz**.
 
-![Estos son los investigadores que deben investigar porque son parte del «pequeño error» de la fiscal](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/Investigadores_-1024x298.jpg)
+![Estos son los investigadores que deben investigar porque son parte del «pequeño error» de la fiscal](s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/Investigadores_-1024x298.jpg)
 *Estos son los investigadores que deben investigar porque son parte del «pequeño error» de la fiscal. Esto aparece en el expediente.*
 
 Pero cuando entró la fiscal No 15 sufrió varias rupturas. Entre ellas las 1100160000002021026770 y 110016099144202100015.
@@ -31,7 +31,7 @@ Pero cuando entró la fiscal No 15 sufrió varias rupturas. Entre ellas las 1100
 
 ## Comerciante guajiro, el sacrificado
 
-![Alvaro José Barrios en uno de sus negocios en 2011. El comerciante guajiro víctima del  «pequeño error» de la fiscal Patiño Pascuas.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/alvaro-barrios-1-989x1024.jpg)
+![Alvaro José Barrios en uno de sus negocios en 2011. El comerciante guajiro víctima del  «pequeño error» de la fiscal Patiño Pascuas.](s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/alvaro-barrios-1-989x1024.jpg)
 *Álvaro José Barrios Díaz, el comerciante guajiro víctima del «pequeño error» de la fiscal Patiño Pascuas.*
 
 Llama la atención que a Bertel Pérez lo habían solicitado como testigo en el juicio que se le seguiría al comerciante guajiro, **Álvaro José Barrios Díaz**. La fiscal **Patiño Pascuas**, con esa misma varita mágica, (¡plin!) transformó al comerciante en alias ****_«_el Abogado_»_****.
@@ -52,7 +52,7 @@ Le corresponderán a las autoridades competentes investigar si son errores o act
 
 ## ****_«_****El pequeño error****_»_**** de la fiscal
 
-![José Nibardo Marín (alias «El  abogado», «Top», «Jota Indio» cuando fue capturado el 23 de octubre de 2023. (Policía Nacional). «El pequeño error» ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/Nirbardo_mafioso_alias_abogado.jpg)
+![José Nibardo Marín (alias «El  abogado», «Top», «Jota Indio» cuando fue capturado el 23 de octubre de 2023. (Policía Nacional). «El pequeño error» ](s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/Nirbardo_mafioso_alias_abogado.jpg)
 *José Nibardo Marín (alias «El abogado», «Top», «Jota Indio» cuando fue capturado el 23 de octubre de 2023. (Policía Nacional)*
 
 ****_«_****El pequeño error****_»_**** de la fiscal fue copiar el expediente del mafioso **José Nibardo Marín** (alias ****_«_el abogado_»_****_,_ **_«_**Top_»_, _«_Jota Indio_»_**** _o_ ****_«_Don José_»_****) y sembrarlo a **Álvaro José Barrios Díaz**. Es un comerciante capturado en el 2021 por pedido del **Fiscal Primero Único Especializado del Gaula de Cartagena**, **Pedro Diaz Pacheco**. La Fiscalía y la Policía lo presentaron como alias ****_«_el abogado_»_**** sin serlo. La captura se produjo gracias al informe de inteligencia firmado por **Deudedith Correa Carranza**, subintendente de la Policía.
@@ -73,7 +73,7 @@ La fiscal Patiño Pascuas está mal ubicada en este proceso. Al parecer, actuó 
 
 La conducta errática de la fiscalía contribuyó a la consolidación de la estructura criminal **La Heroica** derivada del Clan del Golfo. Se aprovechó un vacío de poder creado por la falta de coordinación de la Fiscalía Seccional, la alcaldía de Cartagena en manos de William Dau y la MECAR.
 
-![José Nibardo Marín y a su esposa Saudi Karina Cotes ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/Alias-el-abogado.jpg)
+![José Nibardo Marín y a su esposa Saudi Karina Cotes ](s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/Alias-el-abogado.jpg)
 *José Nibardo Marín y a su esposa Saudi Karina Cotes*
 
 En el período señalado, como es recurrente en ella, no persiguió al verdadero mafioso líder de esta estructura criminal, alias **_«_**Top_»_****, que estaba en guerra contras estructuras criminales. Persiguió al comerciante guajiro que le sembraron el expediente de ese **jefe mafioso**.
@@ -82,7 +82,7 @@ En el período señalado, como es recurrente en ella, no persiguió al verdadero
 
 ## La Heroica
 
-![Armando Elías Buelvas Sepúlveda, alias «Paty Paty», cuando fue capturado en diciembre 2022.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/Captura-de-pantalla-2025-07-12-165556.png)
+![Armando Elías Buelvas Sepúlveda, alias «Paty Paty», cuando fue capturado en diciembre 2022.](s3://bundled-saddlebag-tnqki7w/2025/07/el-pequeno-error-de-la-fiscal-que-incentivo-la-guerra-mafiosa-en-cartagena-ii/Captura-de-pantalla-2025-07-12-165556.png)
 *Armando Elías Buelvas Sepúlveda, alias «Paty Paty», en Manizales, cuando fue capturado en diciembre 2022.*
 
 De acuerdo con información de inteligencia, La Heroica la creó **José Nibardo Marín**_, alias_ ****_«_El abogado_»_****_,_ **_«_**Top_»_, _«_Jota Indio_»_**** _o_ ****_«_Don José_»_****, y **Armando Elías Buelvas Sepúlveda**, alias **«Paty Paty»**_._ El primero lo asesinaron los Pachenca en el 2024. El segundo, lo capturaron en Caldas en diciembre de 2023, cuando huía de una muerte segura en Cartagena, porque estaba sentenciado por el Clan del Golfo. La MECAR lo presentó el 2 de enero de 2023.

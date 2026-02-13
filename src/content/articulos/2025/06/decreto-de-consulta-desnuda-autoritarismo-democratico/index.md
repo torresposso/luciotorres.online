@@ -5,10 +5,10 @@ pubDate: "2025-06-13 02:20:53"
 author: "Lucio"
 categories: ["Poder"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/decreto-de-consulta-desnuda-autoritarismo-democratico/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2025/06/decreto-de-consulta-desnuda-autoritarismo-democratico/hero.jpg
 ---
 
-![«Autoritarismo democrático» , el peligro del decreto de consulta popular.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2025/06/decreto-de-consulta-desnuda-autoritarismo-democratico/hero.jpg)
+![«Autoritarismo democrático» , el peligro del decreto de consulta popular.](s3://bundled-saddlebag-tnqki7w/2025/06/decreto-de-consulta-desnuda-autoritarismo-democratico/hero.jpg)
 *«Autoritarismo democrático» , el peligro del decreto de consulta popular.*
 
 **El presidente Gustavo Petro** firmó el decreto problemático **No 0639 del 11 de junio de 2025** que convoca la **consulta popular**. Una consulta prevista para el **7 de agosto**, donde no es el pueblo el que hace las 12 preguntas sino el gobierno. Esto denotaría la existencia de un **«autoritarismo democrático»** como **salida desesperada** ante el acorralamiento y debilitamiento político por las continuas derrotas en el seno del congreso.

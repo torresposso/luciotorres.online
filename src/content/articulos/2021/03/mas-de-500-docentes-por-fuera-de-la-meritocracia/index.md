@@ -5,10 +5,10 @@ pubDate: "2021-03-26 19:56:52"
 author: "Lucio"
 categories: ["Análisis","Mi País"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/hero.jpg
 ---
 
-\[caption id="attachment\_14349" align="aligncenter" width="960"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/docentes-que-perdieron-concurso.jpeg) Son más de 500 docentes que perdieron el concurso en los territorios de paz. Aquí yacen encadenados frente al CAB en Turbaco.\[/caption\]
+\[caption id="attachment\_14349" align="aligncenter" width="960"\]![](s3://bundled-saddlebag-tnqki7w/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/docentes-que-perdieron-concurso.jpeg) Son más de 500 docentes que perdieron el concurso en los territorios de paz. Aquí yacen encadenados frente al CAB en Turbaco.\[/caption\]
 
 ¿Por qué no se aplicó el enfoque territorial de la meritocracia? En los territorios de paz del país, centenares de docentes provisionales quedaron por fuera de la meritocracia de un concurso que hizo el Ministerio de Educación con la Comisión Nacional del Servicio Civil. La mayoría de ellos fueron reemplazados por maestros bisoños y sin ninguna experiencia.
 
@@ -18,7 +18,7 @@ El concurso se hizo con base en el [decreto 882 de 2017](/articulos/eva/gestorno
 
 ## Por fuera de la meritocracia en Bolívar
 
-\[caption id="attachment\_14358" align="aligncenter" width="630"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/hero.jpg) Verónica Monterroza creó espacios de interlocución con los docentes.\[/caption\]
+\[caption id="attachment\_14358" align="aligncenter" width="630"\]![](s3://bundled-saddlebag-tnqki7w/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/hero.jpg) Verónica Monterroza creó espacios de interlocución con los docentes.\[/caption\]
 
 En el caso de Bolívar, el remezón fue más grande, porque casi todos los maestros de territorio de paz quedaron por fuera de la meritocracia. ¿Qué se va a hacer con ellos? La Secretaría de Educación de Bolívar, Verónica Monterroza, a través de la oficina de prensa de la gobernación, señaló:
 
@@ -28,7 +28,7 @@ Agregó que la Secretaría de Educación simplemente le está dando cumplimiento
 
 ##  ¿Qué pasó?
 
-\[caption id="attachment\_14351" align="aligncenter" width="1170"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/docentes-encanenados.jpg) Docentes encadenados por la meritocracia.\[/caption\]
+\[caption id="attachment\_14351" align="aligncenter" width="1170"\]![](s3://bundled-saddlebag-tnqki7w/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/docentes-encanenados.jpg) Docentes encadenados por la meritocracia.\[/caption\]
 
 ¿Por qué perdieron la prueba de selección? ¿Realmente qué pasó? ¿No se aplicó el enfoque territorial?
 
@@ -50,7 +50,7 @@ Allí se contempla la implementación del Plan Especial de Educación Rural (PEE
 
 ## La meritocracia
 
-\[caption id="attachment\_14359" align="aligncenter" width="900"\]![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/vicente-blel.jpg) El gobernador de Bolívar Vicente Blel busca alternativa.\[/caption\]
+\[caption id="attachment\_14359" align="aligncenter" width="900"\]![](s3://bundled-saddlebag-tnqki7w/2021/03/mas-de-500-docentes-por-fuera-de-la-meritocracia/vicente-blel.jpg) El gobernador de Bolívar Vicente Blel busca alternativa.\[/caption\]
 
 La meritocracia es el único camino para hacer carrera administrativa con el Estado. El papel del maestro de zonas de conflictos y ahora zonas de paz debió ser tenido en cuenta en un concurso con enfoque territorial. No es lo mismo un docente que acaba de salir con los conocimientos frescos que un normalista confinado en los últimos años en zonas rurales apartadas. 
 

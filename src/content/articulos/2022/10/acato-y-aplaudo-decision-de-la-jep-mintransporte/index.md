@@ -5,10 +5,10 @@ pubDate: "2022-10-23 23:14:06"
 author: "Lucio"
 categories: ["Análisis","Mi País","Podcast","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/acato-y-aplaudo-decision-de-la-jep-mintransporte/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/10/acato-y-aplaudo-decision-de-la-jep-mintransporte/hero.jpg
 ---
 
-![Momento de la entrevista con el ministro de Transporte al momento de concluir la audiencia con la JEP.  «Acato y aplaudo decisión de la JEP», fue su primera frase con una sonrisa de oreja a oreja.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/acato-y-aplaudo-decision-de-la-jep-mintransporte/hero.jpg)
+![Momento de la entrevista con el ministro de Transporte al momento de concluir la audiencia con la JEP.  «Acato y aplaudo decisión de la JEP», fue su primera frase con una sonrisa de oreja a oreja.](s3://bundled-saddlebag-tnqki7w/2022/10/acato-y-aplaudo-decision-de-la-jep-mintransporte/hero.jpg)
 *Momento de la entrevista con el ministro de Transporte al momento de concluir la audiencia con la JEP. «Acato y aplaudo decisión de la JEP», fue su primera frase con una sonrisa de oreja a oreja.*
 
 **«Acato y aplaudo decisión de la JEP»**, una frase que sintetiza el buen agrado del gobierno central frente a los resultados de la audiencia de justicia restaurativa del Canal del Dique. Cuando se pensaba que de ella haría abortar el proceso de licitación del macroproyecto Canal del Dique, sorpresivamente le mandó un salvavidas. Y acogió casi que íntegramente el discurso del ministro de Transporte, **Guillermo Reyes**, quien reconoció la inexistencia de un **Protocolo de Exhumación de Víctimas** en el pliego de condiciones de la licitación. Pero la JEP advirtió que **todas las órdenes decretadas en estrado son vinculantes y deben ser incluidas en dicho pliego de condiciones.**
@@ -17,7 +17,7 @@ Sin embargo, no todo fue risa. Varios líderes sociales de víctimas del Canal d
 
 ## «Acato y aplaudo decisión de la JEP»
 
-![«Acato y aplaudo decisión de la JEP», dijo el ministro de Transporte, Guillermo Reyes. Sesión del viernes 21 de octubre 2022. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/acato-y-aplaudo-decision-de-la-jep-mintransporte/Jep3-scaled-1.jpg)
+![«Acato y aplaudo decisión de la JEP», dijo el ministro de Transporte, Guillermo Reyes. Sesión del viernes 21 de octubre 2022. ](s3://bundled-saddlebag-tnqki7w/2022/10/acato-y-aplaudo-decision-de-la-jep-mintransporte/Jep3-scaled-1.jpg)
 *«Acato y aplaudo decisión de la JEP», dijo el ministro de Transporte, Guillermo Reyes. Sesión del viernes 21 de octubre 2022.*
 
 Al término del evento, uno de los que salió con una sonrisa de oreja a oreja fue el mismo ministro de Transporte, Guillermo Reyes, quien compareció ante ese tribunal de justicia alternativa. **VoxPopuli Digital** lo entrevistó. Lo primero que dijo:

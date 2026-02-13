@@ -5,10 +5,10 @@ pubDate: "2022-07-20 02:57:51"
 author: "Lucio"
 categories: ["Análisis","Podcast"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/navarro-un-veterano-de-la-paz-en-mindefensa/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/07/navarro-un-veterano-de-la-paz-en-mindefensa/hero.jpg
 ---
 
-![Antonio Navarro ¿Un veterano de la paz en MinDefensa?  Aquí uniendo su fuerza con el expresidente Betancur.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/navarro-un-veterano-de-la-paz-en-mindefensa/hero.jpg)
+![Antonio Navarro ¿Un veterano de la paz en MinDefensa?  Aquí uniendo su fuerza con el expresidente Betancur.](s3://bundled-saddlebag-tnqki7w/2022/07/navarro-un-veterano-de-la-paz-en-mindefensa/hero.jpg)
 *Antonio Navarro ¿Un veterano de la paz en MinDefensa? Aquí uniendo su fuerza con el expresidente Betancur.*
 
 Antonio Navarro es un verdadero **veterano de la paz**. Siguiendo la línea estratégica del presidente electo de no improvisar, el firme candidato para ser ministro de la **Defensa Nacional es Antonio Navarro Wolf**. Es un veterano de mil batallas por la paz. Sobreviviente del M-19 histórico. Copresidente de la Asamblea Nacional de 1991 y padre político del presidente electo Gustavo Petro Urrego.
@@ -37,7 +37,7 @@ De manera que es tan dañina la ideología de derecha como de izquierda. **Y Nav
 
 ## Navarro y su vocación de paz
 
-![¿Un veterano de la paz en MinDefensa? Más que una designación audaz, es un reconocimiento a los esfuerzos de paz. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/07/navarro-un-veterano-de-la-paz-en-mindefensa/antonio_navarro_guerrilla_la-paz.jpg)
+![¿Un veterano de la paz en MinDefensa? Más que una designación audaz, es un reconocimiento a los esfuerzos de paz. Cortesía.](s3://bundled-saddlebag-tnqki7w/2022/07/navarro-un-veterano-de-la-paz-en-mindefensa/antonio_navarro_guerrilla_la-paz.jpg)
 *¿Un veterano de la paz en MinDefensa? Más que una designación audaz, es un reconocimiento a los esfuerzos de paz. Cortesía.*
 
 De hecho, el ingeniero pastuso representa a ese grupo de jóvenes que en la década de los 70s no vieron otra salida de su frustración política sino las armas. El gran chocorazo de las elecciones de 1970 es un marco histórico diferentes a las guerrillas de tendencia marxista de la década de los 60. El Eme, como se solía decir al M-19, contrario a sus antecesoras, era de tendencia nacionalista que rompía con la izquierda tradicional.

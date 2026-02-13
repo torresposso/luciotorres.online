@@ -5,10 +5,10 @@ pubDate: "2022-10-02 16:10:12"
 author: "Lucio"
 categories: ["Análisis","Política"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/brasil-la-resurreccion-politica-de-lula/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/10/brasil-la-resurreccion-politica-de-lula/hero.jpg
 ---
 
-![¿La resurrección política de Lula?](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/brasil-la-resurreccion-politica-de-lula/hero.jpg)
+![¿La resurrección política de Lula?](s3://bundled-saddlebag-tnqki7w/2022/10/brasil-la-resurreccion-politica-de-lula/hero.jpg)
 *Hoy es el Día de la Democracia, dice Lula al depositar su voto muy temprano. ¿La resurrección política de Lula? Cortesía.*
 
 **¿La resurrección política de Lula?** Los brasileros decidirán si hoy es la resurrección política de Lula da Silva. Al final del día 156 millones de votantes decidirán la suerte de este país en medio de una polarización de discursos de los dos candidatos con mayor intención de votos: el presidente Jair Bolsonaro y el expresidente **Luiz Inácio Lula da Silva**.

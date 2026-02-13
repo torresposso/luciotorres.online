@@ -5,10 +5,10 @@ pubDate: "2022-10-20 18:37:05"
 author: "Lucio"
 categories: ["Análisis","Investigación","Videos"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/conspiradores-narcopoliticos-pies-en-polvorosa/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/10/conspiradores-narcopoliticos-pies-en-polvorosa/hero.jpg
 ---
 
-![¿Conspiradores narcopolíticos? Caso Gloria Estrada.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/10/conspiradores-narcopoliticos-pies-en-polvorosa/hero.jpg)
+![¿Conspiradores narcopolíticos? Caso Gloria Estrada.](s3://bundled-saddlebag-tnqki7w/2022/10/conspiradores-narcopoliticos-pies-en-polvorosa/hero.jpg)
 *¿Conspiradores narcopolíticos? Caso Gloria Estrada.*
 
 El primero de los presuntos conspiradores narcopolíticos del **Caso Gloria Estrada** en huir fue **Mauro Martínez de la Puente.** Todo indica que está en Estados Unidos. Ahora quien está "desaparecido" es el agente **Alexander Salas Mercado**, quien después de ser destituido de la Policía Nacional, al parecer, "puso los pies en polvorosa". Esta situación se evidenció en la frustrada audiencia del 13 de octubre donde se le iba a dictar medida de aseguramiento.

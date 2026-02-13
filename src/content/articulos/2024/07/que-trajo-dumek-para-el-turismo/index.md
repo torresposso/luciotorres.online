@@ -5,10 +5,10 @@ pubDate: "2024-07-07 13:19:17"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 tags: ["Dumek Turbay"]
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/que-trajo-dumek-para-el-turismo/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/07/que-trajo-dumek-para-el-turismo/hero.jpg
 ---
 
-![¿Qué trajo Dumek para el centro histórico? Aquí la delegación cartagenera con el ministro Industria y Turismo de España, Jordi Hereu.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/que-trajo-dumek-para-el-turismo/hero.jpg)
+![¿Qué trajo Dumek para el centro histórico? Aquí la delegación cartagenera con el ministro Industria y Turismo de España, Jordi Hereu.](s3://bundled-saddlebag-tnqki7w/2024/07/que-trajo-dumek-para-el-turismo/hero.jpg)
 *¿Qué trajo Dumek para el centro histórico? Aquí la delegación cartagenera con el ministro Industria y Turismo de España, Jordi Hereu.*
 
 ¿Qué trajo Dumek en sus alforjas? ¿Que trajo la delegación oficial de Cartagena de Indias en su **«**conquista**»** por la capital de la **«madre patria»**? Vino con una **alianza estratégica** **sin precedente** con el ministro de Industria y Turismo de España, **Jordi Hereu**, para transformar el sector turístico de la ciudad y crear oportunidades de negocios para los empresarios de ambos países. Ya están de regreso **Dumek Turbay Paz**, y **David Caballero Rodríguez**, alcalde y presidente del concejo distrital, respectivamente.
@@ -21,7 +21,7 @@ Los acuerdos de Dumek con Jordi presuponen un gran desafío para esta Cartagena 
 
 ## ¿Qué trajo Dumek? El Plan
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/que-trajo-dumek-para-el-turismo/Dumek_ministro_maria_tere.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2024/07/que-trajo-dumek-para-el-turismo/Dumek_ministro_maria_tere.jpeg)
 
 De acuerdo a la agencia **Ibero.News**, el principal acuerdo de los dos funcionarios fue la creación de un ambicioso plan para transformar el sector turístico de Cartagena, especialmente **Ciudad Antigua**.
 
@@ -53,7 +53,7 @@ El héroe de aquél momento fue **Blas de Lezo**.  Sus heridas de guerra: tuert
 
 ## El plan y la UNESCO
 
-![eresa Londoño Zurek es la Secretaria de Turismo de Cartagena que se encargará de dirigir la concreción de la alianza estratégica con el gobierno español.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/que-trajo-dumek-para-el-turismo/teresa_londono.jpeg)
+![eresa Londoño Zurek es la Secretaria de Turismo de Cartagena que se encargará de dirigir la concreción de la alianza estratégica con el gobierno español.](s3://bundled-saddlebag-tnqki7w/2024/07/que-trajo-dumek-para-el-turismo/teresa_londono.jpeg)
 *Teresa Londoño Zurek es la Secretaria de Turismo de Cartagena que se encargará de dirigir la concreción de la alianza estratégica con el gobierno español.*
 
 Este plan se presentará en el próximo Consejo Ejecutivo de la ONU-Turismo a realizarse en nuestra querida ciudad La Heroica. Pero existe un hecho problemático para la conmemoración de los **500 años de Cartagena**. Se pensaría que ahora Dumek debe resolverlo. **El Sitio de 1815**. ¿Quiénes son los héroes? ¿Quiénes los villanos? Según el punto de vista que se asuma, así será la opinión que se tenga del mismo hecho. Para nosotros, los de la Nueva Granada, fue un genocidio. De hecho lo fue. Acabaron con la tercera parte de la población cartagenera. Después de 105 días de sitio, la gente se moría de hambre.

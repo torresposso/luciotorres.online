@@ -5,10 +5,10 @@ pubDate: "2018-11-24 04:48:37"
 author: "Lucio"
 categories: ["Mi Ciudad"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/el-pes-en-el-habitad-acerca-la-oferta-oficial-a-los-mas-pobres-de-cartagena/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2018/11/el-pes-en-el-habitad-acerca-la-oferta-oficial-a-los-mas-pobres-de-cartagena/hero.jpg
 ---
 
-![Jornada de Atención.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2018/11/el-pes-en-el-habitad-acerca-la-oferta-oficial-a-los-mas-pobres-de-cartagena/hero.jpg)
+![Jornada de Atención.](s3://bundled-saddlebag-tnqki7w/2018/11/el-pes-en-el-habitad-acerca-la-oferta-oficial-a-los-mas-pobres-de-cartagena/hero.jpg)
 *Una de las atenciones en las zonas de miseria. Al frente del PES, Javier Posada Meola.*
 
 El PES en el habitad. Tal sería la denominación que se le podría dar a las jornadas de atención masiva que el Distrito realiza. La crisis humanitaria de Cartagena es tan diciente que en medio de la crisis institucional el Plan de Emergencia Social (PES) hizo de _**tripas corazones**_ con sus jornadas de atención masiva para estirar un lánguido presupuesto de **$200 millones** que le dejó **Sergio Londoño**.

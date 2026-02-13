@@ -5,10 +5,10 @@ pubDate: "2024-07-29 12:06:37"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/por-difamador-expulsan-a-expresidente-de-filial-de-fecode/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/07/por-difamador-expulsan-a-expresidente-de-filial-de-fecode/hero.jpg
 ---
 
-![Por difamador, expulsado Alberto Ortiz de la ADEA](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/por-difamador-expulsan-a-expresidente-de-filial-de-fecode/hero.jpg)
+![Por difamador, expulsado Alberto Ortiz de la ADEA](s3://bundled-saddlebag-tnqki7w/2024/07/por-difamador-expulsan-a-expresidente-de-filial-de-fecode/hero.jpg)
 *Marinelda Salas Contreras, en un mitin, es la principal abanderada de la expulsión de Alberto Ortiz.*
 
 ¿Es un difamador de sus propios compañeros el expresidente y directivo sindical, Alberto Ortiz? La junta directiva de la Asociación de Educadores del Atlántico**―**Adea**―** filial de Fecode, expulsó al dirigente docente de Barranquilla. Lo acusó de violentar flagrantemente el mandato estatutario. Este hecho sin precedentes, ocurrió a 6 días de las elecciones para cargos directivos y delegados previstas para el 31 de julio.
@@ -38,7 +38,7 @@ Ante esa situación, al juez no le quedó otra salida sino desestimar la pretens
 
 ## La expulsión por difamador
 
-![Por difamador, expulsado expresidente de la ADEA. ](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/07/por-difamador-expulsan-a-expresidente-de-filial-de-fecode/Alberto-Ortiz-Saldarriaga-Asociacion-de-Educadores-de-America-ADEA-696x464-1.jpeg)
+![Por difamador, expulsado expresidente de la ADEA. ](s3://bundled-saddlebag-tnqki7w/2024/07/por-difamador-expulsan-a-expresidente-de-filial-de-fecode/Alberto-Ortiz-Saldarriaga-Asociacion-de-Educadores-de-America-ADEA-696x464-1.jpeg)
 *Por difamador, expulsado expresidente de la ADEA.*
 
 El fallo de tutela le dio piso jurídico a la junta directiva para continuar con el **proceso disciplinario** que concluyó el pasado 24 de julio con la resolución de expulsión del procesado a la luz de los estatutos. En cuyo resuelve se dice taxativamente:

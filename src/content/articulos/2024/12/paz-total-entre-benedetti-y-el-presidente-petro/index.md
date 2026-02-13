@@ -5,10 +5,10 @@ pubDate: "2024-12-02 03:22:35"
 author: "Lucio"
 categories: ["Análisis","Destacadas"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/paz-total-entre-benedetti-y-el-presidente-petro/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2024/12/paz-total-entre-benedetti-y-el-presidente-petro/hero.jpg
 ---
 
-![¿«Paz Total» entre Benedetti y el presidente Petro? Esta fue la foto filtrada a los medios de comunicación, en especial a Semana. El presidente, desparramado en su sillón. Laura, en atenta escucha. Benedetti, contando lo que va hacer, al parecer. Cortesía.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/paz-total-entre-benedetti-y-el-presidente-petro/Petro_benedetti_laura_portada-1024x513.jpeg)
+![¿«Paz Total» entre Benedetti y el presidente Petro? Esta fue la foto filtrada a los medios de comunicación, en especial a Semana. El presidente, desparramado en su sillón. Laura, en atenta escucha. Benedetti, contando lo que va hacer, al parecer. Cortesía.](s3://bundled-saddlebag-tnqki7w/2024/12/paz-total-entre-benedetti-y-el-presidente-petro/Petro_benedetti_laura_portada-1024x513.jpeg)
 *¿«Paz Total» entre Benedetti y el presidente Petro? Esta fue la foto filtrada a los medios de comunicación, en especial a Semana. El presidente, desparramado en su sillón. Laura, en atenta escucha. Benedetti, contando lo que va hacer, al parecer. Cortesía.*
 
 Estar en el _cuarto de al lado_ del presidente **Gustavo Petro** sería el primer **«**acuerdo de **Paz Total»** entre el gobierno y su «enemigo interno», **Armando Benedetti**. Algunos críticos de esta decisión consideraron que el exembajador solo quería cumplir el papel que por muchos años cumplió **Jesusita**, la eterna secretaria de Petro parlamentario que no pudo disfrutar las mieles del poder. Sin embargo, el problema es más complejo de lo que se cree. Con Benedetti adentro, evitaría que tumbe «Las Torres Gemelas» de la campaña presidencial.
@@ -25,7 +25,7 @@ https://youtu.be/mSea0hsYicM
 
 Por tanto, el presidente Petro y el gobierno estaban en una encrucijada. ¿Si excluían a Benedetti del gobierno, se caería el presidente? Tal sería la pregunta resultante de las amenazas de una guerra total declarada por **«El Terminator»** Benedetti en junio de 2023. Ese día no fue atendido por el presidente, luego de su paso por la embajada de Venezuela. Según mensajes de audio y textos que publicó la **revista Semana** el 4 de junio de 2023, Benedetti se sentía como **«**un tigre acorralado» que se podría lanzar hasta contra el mismo presidente.
 
-![El DAPRE subió la hoja de vida de Armando Benedetti el 27 de noviembre de 2024](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2024/12/paz-total-entre-benedetti-y-el-presidente-petro/hero.jpg)
+![El DAPRE subió la hoja de vida de Armando Benedetti el 27 de noviembre de 2024](s3://bundled-saddlebag-tnqki7w/2024/12/paz-total-entre-benedetti-y-el-presidente-petro/hero.jpg)
 *La hoja de vida de Armando Benedetti fui subida por el DAPRE el pasado 27 de noviembre de 2024.*
 
 Sin duda, esos audios y mensajes de textos fueron cabeza de proceso para que la Fiscalía iniciara una investigación que, de acuerdo con un comunicado emitido en ese momento, tenía como objetivo establecer si se violaron los topes de financiación, financiación ilegal y otros delitos.

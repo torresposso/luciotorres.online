@@ -5,14 +5,14 @@ pubDate: "2019-12-07 21:03:17"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/12/mayelis-chamorro-procuradora-ambiental-aclara-que-actuo-con-transparencia-en-sin-pensar/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2019/12/mayelis-chamorro-procuradora-ambiental-aclara-que-actuo-con-transparencia-en-sin-pensar/hero.jpg
 ---
 
 > "_Los periodistas tienen una **seria responsabilidad** no sólo con su audiencia, sino **con la sociedad y el Estado** , pues el ejercicio de su actividad, según sea desarrollada por ellos, **puede contribuir efectivamente a la consolidación de la democracia** o convertirse en un obstáculo insalvable (...)"._
 > 
 > Corte Constitucional, **Sentencia T-368/98** .
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2019/12/mayelis-chamorro-procuradora-ambiental-aclara-que-actuo-con-transparencia-en-sin-pensar/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2019/12/mayelis-chamorro-procuradora-ambiental-aclara-que-actuo-con-transparencia-en-sin-pensar/hero.jpg)
 *Mayelis Chamorro Ruiz, Procuradora Ambiental y Agraria de Bolívar. Cortesía.*
 
 **Mayelis Chamarro Ruiz**, Procuradora Ambiental y Agraria de Bolívar, en solicitud de rectificación hecha a este periodista aclaró que su actuación dentro del proceso del relleno sanitario Sin Pensar de El Carmen de Bolívar, **fue conforme a la ley y a los derechos colectivos de la comunidad** y que no tiene ningún nexo con los propietarios de Bioger, de la familia Hilsaca.

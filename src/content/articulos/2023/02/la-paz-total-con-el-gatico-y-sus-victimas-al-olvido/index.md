@@ -5,10 +5,10 @@ pubDate: "2023-02-09 03:36:24"
 author: "Lucio"
 categories: ["Análisis","Post Conflicto"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/la-paz-total-con-el-gatico-y-sus-victimas-al-olvido/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/02/la-paz-total-con-el-gatico-y-sus-victimas-al-olvido/hero.jpg
 ---
 
-![La «Paz Total» con «el Gatico», y sus víctimas, al olvido. Danilo Rueda está detrás de la rehabilitación del genocida «Jorge 40». Quiere poner en libertad a los genocidas del paramilitarismo.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/la-paz-total-con-el-gatico-y-sus-victimas-al-olvido/hero.jpg)
+![La «Paz Total» con «el Gatico», y sus víctimas, al olvido. Danilo Rueda está detrás de la rehabilitación del genocida «Jorge 40». Quiere poner en libertad a los genocidas del paramilitarismo.](s3://bundled-saddlebag-tnqki7w/2023/02/la-paz-total-con-el-gatico-y-sus-victimas-al-olvido/hero.jpg)
 *La «Paz Total» con «el Gatico», y sus víctimas, al olvido. Danilo Rueda está detrás de la rehabilitación del genocida «Jorge 40». Quiere poner en libertad a los genocidas del paramilitarismo.*
 
 La «Paz Total» está cumpliendo con «el Gatico». Pero no cumple con sus víctimas, condenadas al olvido como los Buendía de Cien Años de Soledad. La Gran Prensa puso el grito en el cielo. La «Paz Total» le dio la libertad a **Jorge Luis Alfonso López**, hijo de la empresaria magangueleña **Enilce López Romero**. Ella yace enferma cumpliendo una pena de 37 años de cárcel.
@@ -41,7 +41,7 @@ El 19 de febrero de 2023 se cumplirán 18 años del asesinato de rafael Prins. A
 
 ## La boleta de libertad de «el Gatico»
 
-![La boleta de libertad de «el Gatico». Cortesía Opinión Caribe.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/la-paz-total-con-el-gatico-y-sus-victimas-al-olvido/jorge-luis-alfonso_boleta-de-libertad.jpg)
+![La boleta de libertad de «el Gatico». Cortesía Opinión Caribe.](s3://bundled-saddlebag-tnqki7w/2023/02/la-paz-total-con-el-gatico-y-sus-victimas-al-olvido/jorge-luis-alfonso_boleta-de-libertad.jpg)
 *La boleta de libertad de «el Gatico». Cortesía Opinión Caribe.*
 
 En la mañana de hoy miércoles fue tramitada una **boleta de libertad** de Jorge Luis Alfonso ante el INPEC de la cárcel de El Bosque de Barranquilla. El juez Quinto Penal de Ejecuciones de Penas y Medidas de Seguridad de Barranquilla, **Orlando José Petro Vanderbil**t, ordenó la libertad de Alfonso López («el Gatico»). ¿Por qué razón? En diciembre había sido nombrado por el gobierno de Gustavo Petro como gestor de paz. Así lo señaló el mismo juez en el auto que tomó esa decisión.
@@ -56,7 +56,7 @@ Por esta razón, el comunicado de la OACP destila pura hipocresía. Es una posic
 
 ## «La Paz Total no puede ser tramposa»
 
-![«La Paz Total no puede ser tramposa», dice el fiscal Francisco Barbosa.](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/02/la-paz-total-con-el-gatico-y-sus-victimas-al-olvido/francisco-Barbosa_fiscal.jpg)
+![«La Paz Total no puede ser tramposa», dice el fiscal Francisco Barbosa.](s3://bundled-saddlebag-tnqki7w/2023/02/la-paz-total-con-el-gatico-y-sus-victimas-al-olvido/francisco-Barbosa_fiscal.jpg)
 *«La Paz Total no puede ser tramposa», dice el fiscal Francisco Barbosa.*
 
 Razón le cabe al fiscal cuando dice que «La Paz Total no puede ser tramposa». El gobierno del presidente Gustavo Petro está desfigurando el sentido de la gestión de paz. Los otroras genocidas están haciendo turno para convertirse en «gestores de paz». En la cola se encuentran **«Jorge 40»**, «Marquito» Figueroa, «Kiko» Gómez, entre muchos otros que están pidiendo pista en la Paz Total.

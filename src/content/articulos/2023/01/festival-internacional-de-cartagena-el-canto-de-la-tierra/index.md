@@ -5,10 +5,10 @@ pubDate: "2023-01-07 02:03:41"
 author: "Lucio"
 categories: ["Cultura"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/festival-internacional-de-cartagena-el-canto-de-la-tierra/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2023/01/festival-internacional-de-cartagena-el-canto-de-la-tierra/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/festival-internacional-de-cartagena-el-canto-de-la-tierra/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/01/festival-internacional-de-cartagena-el-canto-de-la-tierra/hero.jpg)
 *El Canto de la Tierra, es el lema del XII Festival Internacional de Música de Cartagena.*
 
 Comenzó El Canto de la Tierra. Son varios años sin ver a **Julia Salv**i. Ella es el alma de este encuentro cultural cosmopolita llamado **Festival Internacional de Música de Cartagena.** El covid-19 nos hizo recordar que los reencuentros son mejores, porque están cargados de emociones y afectos que la música los comprime en una melodía. Esta versión XVII de 2023 reactiva los sentimientos de redención de la identidad política, territorial y cultural de la Europa dominada por dos imperios: **el ruso y el austrohúngaro**.
@@ -17,7 +17,7 @@ Precisamente, la versión de este año se inició en el teatro **Adolfo Mejía**
 
 ## El Canto de la Tierra para los Ardila Lülle
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/festival-internacional-de-cartagena-el-canto-de-la-tierra/Screenshot_20230107_073907_Chrome.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/01/festival-internacional-de-cartagena-el-canto-de-la-tierra/Screenshot_20230107_073907_Chrome.jpg)
 *María Eugenia Gaviria y Carlos Ardila Lülle duraron 70 años juntos. Los dos murieron en 2021.*
 
 El Canto de la Tierra expresa el encuentro de los sentimientos nacionalistas con los cosmopolitas. De manera, que se podría extrapolar el **in memoriam** inaugural a dos mecenas que tuvo el festival en estos 16 años y que trascendieron a otra dimensión en 2021. Se trata de **María Eugenia Gaviria Londoño** y de su esposo, el industrial **Carlos Ardila Lülle**. Ella murió en mayo. Él en agosto. La muerte los separó desde que se unieron en matrimonio en 1951. Fueron amantes de la música clásica. No dudaron en respaldar a Julia Salvi en su «alocado» proyecto de convertir a Cartagena en una plaza fuerte de la música cosmopolita.
@@ -36,7 +36,7 @@ Cuando esto escribo, programé una selección musical clásica de fin y comienzo
 
 ## El Canto de la Tierra
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2023/01/festival-internacional-de-cartagena-el-canto-de-la-tierra/Screenshot_20230107_073155_Chrome-1.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2023/01/festival-internacional-de-cartagena-el-canto-de-la-tierra/Screenshot_20230107_073155_Chrome-1.jpg)
 *La bella e inteligente Julia Salvi, el motor del Festival Internacional de Música de Cartagena. Cortesía.*
 
 Sin embargo, la música pervivió frente a la voracidad expansionista de los imperios. Esos imperios llegaron con su música para someter las otras músicas o incorporarlas en sus repertorios para prolongar su fominio. Así, ya desnaturalizadas, ya vacía de esos sentimientos de rebeldía de los pueblos sometidos, las músicas se convertían en instrumentos de dominación cultural.

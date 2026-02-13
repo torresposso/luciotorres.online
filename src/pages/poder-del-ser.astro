@@ -1,10 +1,9 @@
 ---
-import BaseHead from "../components/BaseHead.astro";
-import Footer from "../components/Footer.astro";
-import Header from "../components/Header.astro";
+import Layout from "../layouts/Layout.astro";
 import LazyImage from "../components/LazyImage.astro";
 import FallbackImage from "../assets/blog-placeholder-about.jpg";
 import { getCollection } from "astro:content";
+import { getImgproxyUrl } from "../utils/imgproxy";
 
 const allPosts = (await getCollection("articulos")).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
@@ -20,7 +19,8 @@ const schema = {
 		"@type": "Person",
 		name: "Edison Lucio Torres",
 	},
-	description: "Filosofía y mensaje de Lucio Torres sobre El Poder del Ser. Una revolución espiritual y política para Colombia.",
+	description:
+		"Filosofía y mensaje de Lucio Torres sobre El Poder del Ser. Una revolución espiritual y política para Colombia.",
 };
 
 function extractSlugFromPath(id: string): string {
@@ -29,527 +29,228 @@ function extractSlugFromPath(id: string): string {
 }
 ---
 
-<!doctype html>
-<html lang="es">
-	<head>
-		<BaseHead
-			title="El Poder del Ser - Filosofía"
-			description="El Poder del Ser - Filosofía y mensaje de Lucio Torres. Una revolución espiritual y política para Colombia."
-			image={FallbackImage}
-			schema={schema}
-		/>
-	</head>
-	<body>
-		<Header />
-		<main class="pds-page">
-			<section class="pds-hero">
-				<div class="container">
-					<div class="sec-label">
-						<div class="dot"></div><span>Filosofía</span>
-					</div>
-					<h1>El Poder del Ser</h1>
-					<p class="pds-lead">
-						La revolución que comienza dentro de ti. Descubre el poder transformador del Ser.
-					</p>
+<Layout
+	title="El Poder del Ser - Filosofía"
+	description="El Poder del Ser - Filosofía y mensaje de Lucio Torres. Una revolución espiritual y política para Colombia."
+	ogImage={FallbackImage.src}
+	schema={schema}
+>
+	<!-- HERO SECTION -->
+	<section
+		class="py-32 bg-white relative overflow-hidden px-6 lg:px-12 border-b border-base-300"
+	>
+		<div class="max-w-7xl mx-auto text-center">
+			<div class="flex items-center justify-center gap-4 mb-12">
+				<div
+					class="flag-separator w-16 h-2 rounded-full overflow-hidden"
+				>
+					<div class="y"></div>
+					<div class="b"></div>
+					<div class="r"></div>
 				</div>
-			</section>
-
-			<section class="pds-intro">
-				<div class="container">
-					<div class="intro-content">
-						<h2>Una Nueva Visión</h2>
-						<p>
-							El mundo político padecen la misma enfermedad trágica que encarnan dos reconocidos gemelos: 
-							José Arcadio y Aureliano Buendía. El primero, machote y extrovertido, asume la violencia 
-							a flor de piel, sin justificación política. El segundo, con una aparente serenidad, la 
-							violencia la internaliza como ideología.
-						</p>
-						<p>
-							Los dos surgen desde el mismo tronco: el <strong>Ego</strong>. Si seguimos esta dinámica, 
-							jamás encontraremos paz y felicidad.
-						</p>
-						<blockquote class="pds-quote">
-							Para no seguir atados a esta tragedia de "los Buendía", hay que inmanifestar lo que 
-							hasta ahora no se ha manifestado: el Ser que está dentro de ti.
-						</blockquote>
-					</div>
+				<span
+					class="text-xs font-black uppercase tracking-[0.5em] text-neutral"
+					>FILOSOFÍA</span
+				>
+				<div
+					class="flag-separator w-16 h-2 rounded-full overflow-hidden"
+				>
+					<div class="y"></div>
+					<div class="b"></div>
+					<div class="r"></div>
 				</div>
-			</section>
+			</div>
 
-			<section class="pds-principles">
-				<div class="container">
-					<h2>Principios Fundamentales</h2>
-					<div class="principles-grid">
-						<div class="principle-card">
-							<div class="principle-num">01</div>
-							<h3>Respeto</h3>
-							<p>El respeto es la base de toda transformación. Respeto por uno mismo, por los demás y por el planeta.</p>
-						</div>
-						<div class="principle-card">
-							<div class="principle-num">02</div>
-							<h3>Solidaridad</h3>
-							<p>La solidaridad es el puente que conecta el Ego con el Ser. Juntos somos más fuertes.</p>
-						</div>
-						<div class="principle-card">
-							<div class="principle-num">03</div>
-							<h3>Consciencia</h3>
-							<p>El verdadero cambio comienza en la consciencia. Aquí y ahora. No hay otro momento que el presente.</p>
-						</div>
-						<div class="principle-card">
-							<div class="principle-num">04</div>
-							<h3>Transformación</h3>
-							<p>La transformación no es un destino, es un viaje continuo de crecimiento y evolución.</p>
-						</div>
-					</div>
-				</div>
-			</section>
+			<h1
+				class="text-5xl sm:text-7xl md:text-[10rem] font-editorial font-black leading-[0.9] text-neutral uppercase tracking-tighter mb-8 md:mb-12"
+			>
+				EL PODER <br />
+				<span class="text-secondary">DEL SER.</span>
+			</h1>
 
-			<section class="pds-quote-section">
-				<div class="container">
-					<blockquote class="big-quote">
-						"La Gran Colombia se forja desde tu corazón, desde el Yo Soy. <br/>
-						<span class="quote-sub">Quien comprende esto sabe que el verdadero voto no ocurre en las urnas: ocurre en la conciencia.</span>"
-					</blockquote>
-				</div>
-			</section>
+			<p
+				class="text-3xl md:text-4xl font-editorial font-bold text-neutral/80 leading-tight max-w-4xl mx-auto italic"
+			>
+				"La revolución que comienza dentro de ti. Descubre el poder
+				transformador de la consciencia."
+			</p>
+		</div>
+	</section>
 
-			<section class="pds-articles">
-				<div class="container">
-					<div class="section-head">
-						<div>
-							<div class="sec-label">
-								<div class="dot"></div><span>Artículos</span>
-							</div>
-							<h2>Últimos Escritos</h2>
-						</div>
-						<a href="/articulos">Ver todos →</a>
-					</div>
-					<div class="articles-grid">
+	<!-- INTRO SECTION -->
+	<section class="py-32 bg-white px-6 lg:px-12">
+		<div class="max-w-3xl mx-auto prose-journal">
+			<h2
+				class="text-4xl sm:text-5xl font-editorial font-black text-neutral uppercase tracking-tight mb-8 md:mb-12"
+			>
+				Una Nueva Visión
+			</h2>
+			<p>
+				El mundo político padecen la misma enfermedad trágica que
+				encarnan dos reconocidos gemelos: José Arcadio y Aureliano
+				Buendía. El primero, machote y extrovertido, asume la violencia
+				a flor de piel, sin justificación política. El segundo, con una
+				aparente serenidad, la violencia la internaliza como ideología.
+			</p>
+			<p>
+				Los dos surgen desde el mismo tronco: el <strong>Ego</strong>.
+				Si seguimos esta dinámica, jamás encontraremos paz y felicidad.
+			</p>
+			<blockquote
+				class="text-3xl font-editorial font-black text-secondary italic my-12 border-l-8 border-primary pl-8"
+			>
+				Para no seguir atados a esta tragedia de "los Buendía", hay que
+				inmanifestar lo que hasta ahora no se ha manifestado: el Ser que
+				está dentro de ti.
+			</blockquote>
+		</div>
+	</section>
+
+	<!-- PRINCIPLES -->
+	<section
+		class="py-32 bg-base-200/30 px-6 lg:px-12 border-y border-base-300"
+	>
+		<div class="max-w-screen-2xl mx-auto">
+			<div class="grid grid-cols-1 md:grid-cols-4 gap-12">
+				{
+					[
 						{
-							recentPosts.map((post) => (
+							num: "01",
+							title: "Respeto",
+							desc: "La base de toda transformación. Por uno mismo, por los demás y por el planeta.",
+						},
+						{
+							num: "02",
+							title: "Solidaridad",
+							desc: "El puente que conecta el Ego con el Ser. Juntos somos más fuertes.",
+						},
+						{
+							num: "03",
+							title: "Consciencia",
+							desc: "El verdadero cambio comienza en el momento presente. Aquí y ahora.",
+						},
+						{
+							num: "04",
+							title: "Transformación",
+							desc: "Un viaje continuo de crecimiento y evolución hacia la soberanía personal.",
+						},
+					].map((item) => (
+						<div class="bg-white p-12 border border-base-300 transition-all duration-500 hover:shadow-2xl">
+							<div class="text-5xl font-editorial font-black text-primary/30 mb-6 italic">
+								{item.num}
+							</div>
+							<h3 class="text-xl sm:text-2xl font-editorial font-black text-neutral uppercase tracking-tight mb-4">
+								{item.title}
+							</h3>
+							<p class="text-neutral/60 font-medium leading-relaxed">
+								{item.desc}
+							</p>
+						</div>
+					))
+				}
+			</div>
+		</div>
+	</section>
+
+	<!-- BIG QUOTE -->
+	<section class="py-40 bg-white px-6 lg:px-12">
+		<div class="max-w-5xl mx-auto text-center">
+			<blockquote
+				class="text-4xl md:text-6xl font-editorial font-black text-neutral leading-[1.1] tracking-tighter uppercase italic"
+			>
+				"La Gran Colombia se forja desde tu corazón, desde el <span
+					class="text-highlight">Yo Soy.</span
+				>"
+			</blockquote>
+			<p
+				class="text-xl font-black uppercase tracking-[0.4em] text-secondary mt-12"
+			>
+				EL VOTO OCURRE EN LA CONCIENCIA
+			</p>
+		</div>
+	</section>
+
+	<!-- ARTICLES SECTION -->
+	<section
+		class="py-32 bg-base-200/50 px-6 lg:px-12 border-t border-base-300"
+	>
+		<div class="max-w-screen-2xl mx-auto">
+			<div class="flex justify-between items-end mb-20">
+				<h2
+					class="text-5xl font-editorial font-black text-neutral uppercase tracking-tighter"
+				>
+					ÚLTIMOS <br /><span class="text-accent">ESCRITOS.</span>
+				</h2>
+				<a
+					href="/articulos"
+					class="text-xs font-black uppercase tracking-widest border-b-2 border-primary pb-1 hover:text-secondary transition-colors"
+					>VER TODO</a
+				>
+			</div>
+			<div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+				{
+					recentPosts.map((post) => (
+						<article class="bg-white border border-base-300 group transition-all duration-500 hover:shadow-2xl">
+							<figure class="aspect-16/10 overflow-hidden grayscale group-hover:grayscale-0 transition-all duration-700">
+								{post.data.heroImage ? (
+									<img
+										src={getImgproxyUrl(
+											post.data.heroImage,
+											600,
+											375,
+										)}
+										alt={post.data.title}
+										class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000"
+									/>
+								) : (
+									<div class="w-full h-full bg-base-200" />
+								)}
+							</figure>
+							<div class="p-10">
+								<h3 class="text-2xl font-editorial font-black mb-4 leading-tight group-hover:text-secondary transition-colors uppercase">
+									<a
+										href={`/articulos/${extractSlugFromPath(post.id)}/`}
+									>
+										{post.data.title}
+									</a>
+								</h3>
+								<p class="text-neutral/60 line-clamp-2 text-sm font-medium italic mb-6">
+									{post.data.description}
+								</p>
 								<a
 									href={`/articulos/${extractSlugFromPath(post.id)}/`}
-									class="article-card"
+									class="text-[10px] font-black uppercase tracking-widest text-accent"
 								>
-									<div class="article-image">
-										{post.data.heroImage ? (
-											<LazyImage
-												src={post.data.heroImage}
-												alt={post.data.title}
-												width={600}
-												height={375}
-												aspectRatio="16/10"
-											/>
-										) : (
-											<div class="placeholder-img" />
-										)}
-									</div>
-									<div class="article-content">
-										<h3>{post.data.title}</h3>
-										<p class="excerpt">{post.data.description}</p>
-										<span class="read-more">Leer →</span>
-									</div>
+									LEER MÁS →
 								</a>
-							))
-						}
-					</div>
-				</div>
-			</section>
+							</div>
+						</article>
+					))
+				}
+			</div>
+		</div>
+	</section>
 
-			<section class="pds-cta">
-				<div class="cta-inner">
-					<h2>Únete a la <span class="gold">Revolución del Ser</span></h2>
-					<p class="sub">El cambio que buscas está dentro de ti.</p>
-					<div class="cta-btns">
-						<a href="/gran-colombia" class="btn btn-gold">La Gran Colombia</a>
-						<a href="/" class="btn btn-r">Volver al Inicio</a>
-					</div>
-				</div>
-			</section>
-		</main>
-		<Footer />
-	</body>
-</html>
-
-<style is:global>
-	.pds-page {
-		width: 100% !important;
-		max-width: 100% !important;
-		margin: 0 !important;
-		padding: 0 !important;
-	}
-</style>
-
-<style>
-	.container {
-		max-width: 1200px;
-		margin: 0 auto;
-		padding: 0 1.5rem;
-	}
-
-	.section-head {
-		display: flex;
-		justify-content: space-between;
-		align-items: flex-end;
-		margin-bottom: 3rem;
-		padding-bottom: 1.25rem;
-		border-bottom: 2px solid var(--text);
-	}
-	.section-head h2 {
-		font-family: var(--font-heading);
-		font-size: 2.5rem;
-		font-weight: 400;
-	}
-	.section-head a {
-		font-size: 0.85rem;
-		font-weight: 700;
-		color: var(--colombia-gold);
-		text-decoration: none;
-		padding: 0.6rem 1.5rem;
-		border-radius: 50px;
-		border: 1.5px solid var(--colombia-gold);
-		transition: all 0.2s;
-		text-transform: uppercase;
-		letter-spacing: 0.05em;
-	}
-	.section-head a:hover {
-		background: var(--colombia-gold);
-		color: #fff;
-	}
-
-	.sec-label {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		gap: 0.75rem;
-		margin-bottom: 1.5rem;
-	}
-	.sec-label .dot {
-		width: 10px;
-		height: 10px;
-		border-radius: 50%;
-		background: var(--colombia-y);
-	}
-	.sec-label span {
-		font-size: 0.75rem;
-		font-weight: 700;
-		text-transform: uppercase;
-		letter-spacing: 0.15em;
-		color: var(--colombia-y);
-	}
-
-	/* Hero */
-	.pds-hero {
-		background: var(--gradient-hero);
-		padding: 12rem 0 8rem;
-		text-align: center;
-		position: relative;
-	}
-	.pds-hero::before {
-		content: "";
-		position: absolute;
-		inset: 0;
-		background: radial-gradient(circle at 50% 30%, rgba(245, 158, 11, 0.15) 0%, transparent 60%);
-	}
-	.pds-hero .container {
-		position: relative;
-		z-index: 2;
-		color: #fff;
-	}
-	.pds-hero h1 {
-		font-family: var(--font-heading);
-		font-size: clamp(3rem, 8vw, 5rem);
-		font-weight: 400;
-		line-height: 1;
-		margin-bottom: 1.5rem;
-	}
-	.pds-lead {
-		font-size: 1.5rem;
-		color: rgba(255, 255, 255, 0.9);
-	}
-
-	/* Intro */
-	.pds-intro {
-		padding: 8rem 0;
-		background: var(--bg);
-	}
-	.intro-content {
-		max-width: 700px;
-		margin: 0 auto;
-		text-align: center;
-	}
-	.intro-content h2 {
-		font-family: var(--font-heading);
-		font-size: 2.5rem;
-		font-weight: 400;
-		margin-bottom: 2rem;
-		color: var(--text);
-	}
-	.intro-content p {
-		font-size: 1.15rem;
-		line-height: 1.9;
-		color: var(--text);
-		margin-bottom: 1.5rem;
-	}
-	.pds-quote {
-		font-family: var(--font-heading);
-		font-size: 1.5rem;
-		font-style: italic;
-		color: var(--colombia-gold);
-		padding: 2rem;
-		background: rgba(245, 158, 11, 0.08);
-		border-radius: 16px;
-		margin-top: 2rem;
-	}
-
-	/* Principles */
-	.pds-principles {
-		padding: 8rem 0;
-		background: linear-gradient(180deg, var(--bg) 0%, #f8fafc 100%);
-	}
-	.pds-principles h2 {
-		font-family: var(--font-heading);
-		font-size: 2.5rem;
-		font-weight: 400;
-		text-align: center;
-		margin-bottom: 3rem;
-		color: var(--text);
-	}
-	.principles-grid {
-		display: grid;
-		grid-template-columns: repeat(4, 1fr);
-		gap: 2rem;
-	}
-	.principle-card {
-		background: var(--surface);
-		border: 1px solid var(--border);
-		border-radius: 20px;
-		padding: 2.5rem 2rem;
-		text-align: center;
-		transition: all 0.3s;
-	}
-	.principle-card:hover {
-		transform: translateY(-6px);
-		box-shadow: 0 15px 40px rgba(0, 0, 0, 0.05);
-	}
-	.principle-num {
-		font-family: var(--font-heading);
-		font-size: 2.5rem;
-		color: var(--colombia-gold);
-		margin-bottom: 1rem;
-	}
-	.principle-card h3 {
-		font-family: var(--font-heading);
-		font-size: 1.25rem;
-		font-weight: 400;
-		margin-bottom: 0.75rem;
-		color: var(--text);
-	}
-	.principle-card p {
-		font-size: 0.95rem;
-		color: var(--text-muted);
-		line-height: 1.6;
-	}
-
-	/* Quote Section */
-	.pds-quote-section {
-		padding: 8rem 0;
-		background: #f8fafc;
-	}
-	.big-quote {
-		font-family: var(--font-heading);
-		font-size: 2rem;
-		font-style: italic;
-		color: var(--text);
-		text-align: center;
-		line-height: 1.6;
-		padding: 3rem;
-		background: var(--surface);
-		border-radius: 24px;
-		border: 2px solid var(--colombia-gold);
-	}
-	.quote-sub {
-		display: block;
-		font-size: 1.25rem;
-		color: var(--colombia-gold);
-		margin-top: 1rem;
-	}
-
-	/* Articles */
-	.pds-articles {
-		padding: 8rem 0;
-		background: var(--bg);
-	}
-	.articles-grid {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-		gap: 2rem;
-	}
-	.article-card {
-		background: var(--surface);
-		border: 1px solid var(--border);
-		border-radius: 16px;
-		overflow: hidden;
-		text-decoration: none;
-		color: inherit;
-		transition: all 0.3s;
-		display: flex;
-		flex-direction: column;
-	}
-	.article-card:hover {
-		transform: translateY(-4px);
-		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
-	}
-	.article-image {
-		width: 100%;
-		aspect-ratio: 16/10;
-		overflow: hidden;
-	}
-	.article-image img {
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-	}
-	.placeholder-img {
-		width: 100%;
-		height: 100%;
-		background: linear-gradient(135deg, var(--colombia-y), var(--colombia-r));
-		opacity: 0.3;
-	}
-	.article-content {
-		padding: 1.5rem;
-		flex: 1;
-		display: flex;
-		flex-direction: column;
-	}
-	.article-content h3 {
-		font-family: var(--font-heading);
-		font-size: 1.1rem;
-		font-weight: 400;
-		margin-bottom: 0.75rem;
-		color: var(--text);
-		line-height: 1.3;
-	}
-	.excerpt {
-		font-size: 0.9rem;
-		color: var(--text-muted);
-		line-height: 1.5;
-		flex: 1;
-		display: -webkit-box;
-		-webkit-line-clamp: 2;
-		-webkit-box-orient: vertical;
-		overflow: hidden;
-	}
-	.read-more {
-		font-size: 0.85rem;
-		font-weight: 600;
-		color: var(--colombia-gold);
-		margin-top: 1rem;
-	}
-
-	/* CTA */
-	.pds-cta {
-		padding: 8rem 2rem;
-		text-align: center;
-		position: relative;
-		overflow: hidden;
-		background: var(--gradient-hero);
-		color: #fff;
-	}
-	.pds-cta::before {
-		content: "";
-		position: absolute;
-		inset: 0;
-		background: radial-gradient(circle at 50% 50%, rgba(245, 158, 11, 0.12) 0%, transparent 60%);
-	}
-	.cta-inner {
-		position: relative;
-		max-width: 700px;
-		margin: 0 auto;
-		z-index: 2;
-	}
-	.cta-inner h2 {
-		font-family: var(--font-heading);
-		font-size: clamp(2rem, 5vw, 3rem);
-		line-height: 1.2;
-		margin-bottom: 1.5rem;
-		font-weight: 400;
-	}
-	.cta-inner h2 .gold {
-		color: var(--colombia-y);
-	}
-	.cta-inner .sub {
-		font-size: 1.25rem;
-		color: rgba(255, 255, 255, 0.7);
-		margin-bottom: 3rem;
-	}
-	.cta-btns {
-		display: flex;
-		gap: 1.5rem;
-		justify-content: center;
-		flex-wrap: wrap;
-	}
-
-	/* Buttons */
-	.btn {
-		display: inline-flex;
-		align-items: center;
-		gap: 0.6rem;
-		padding: 0.9rem 2rem;
-		border-radius: 50px;
-		font-weight: 700;
-		font-size: 0.95rem;
-		text-decoration: none;
-		border: none;
-		cursor: pointer;
-		transition: all 0.3s;
-		line-height: 1;
-		font-family: var(--font-body);
-		text-transform: uppercase;
-		letter-spacing: 0.05em;
-	}
-	.btn-gold {
-		background: var(--colombia-y);
-		color: var(--text);
-	}
-	.btn-gold:hover {
-		background: #fff;
-		transform: translateY(-2px);
-		box-shadow: 0 10px 30px rgba(245, 158, 11, 0.35);
-	}
-	.btn-r {
-		background: var(--colombia-r);
-		color: #fff;
-	}
-	.btn-r:hover {
-		transform: translateY(-2px);
-		box-shadow: 0 10px 30px rgba(239, 68, 68, 0.35);
-	}
-
-	@media (max-width: 1024px) {
-		.principles-grid {
-			grid-template-columns: repeat(2, 1fr);
-		}
-		.articles-grid {
-			grid-template-columns: repeat(2, 1fr);
-		}
-	}
-	@media (max-width: 768px) {
-		.pds-hero {
-			padding: 10rem 0 6rem;
-		}
-		.pds-hero h1 {
-			font-size: 2.5rem;
-		}
-		.principles-grid {
-			grid-template-columns: 1fr;
-		}
-		.articles-grid {
-			grid-template-columns: 1fr;
-		}
-		.big-quote {
-			font-size: 1.35rem;
-			padding: 2rem 1.5rem;
-		}
-	}
-</style>
+	<!-- CTA FINAL -->
+	<section class="py-40 bg-neutral text-white text-center px-6">
+		<div class="max-w-4xl mx-auto">
+			<h2
+				class="text-5xl sm:text-7xl md:text-[8rem] font-editorial font-black mb-12 uppercase tracking-tighter leading-none"
+			>
+				SÉ EL <br />
+				<span class="text-primary italic text-highlight">CAMBIO.</span>
+			</h2>
+			<div class="flex flex-wrap gap-8 justify-center mt-16">
+				<a href="/gran-colombia" class="btn-hero-primary">
+					LA GRAN COLOMBIA
+				</a>
+				<a
+					href="/"
+					class="btn-hero-secondary text-white! border-white! hover:bg-white! hover:text-neutral!"
+				>
+					VOLVER AL INICIO
+				</a>
+			</div>
+		</div>
+	</section>
+</Layout>

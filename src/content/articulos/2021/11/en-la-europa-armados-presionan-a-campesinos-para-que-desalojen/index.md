@@ -5,10 +5,10 @@ pubDate: "2021-11-13 23:36:02"
 author: "Lucio"
 categories: ["Análisis"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/en-la-europa-armados-presionan-a-campesinos-para-que-desalojen/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2021/11/en-la-europa-armados-presionan-a-campesinos-para-que-desalojen/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/en-la-europa-armados-presionan-a-campesinos-para-que-desalojen/civil-armado.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/11/en-la-europa-armados-presionan-a-campesinos-para-que-desalojen/civil-armado.jpeg)
 *Este es uno de los sujetos que aparecieron en los predios de La Europa donde se encuentran los campesinos. Llegaron con una actitud amenazante.*
 
 A las 2:30 de la tarde de hoy un grupo de tres hombres armados llegaron al predio La Europa con el objetivo de presionar a los campesinos para que la desalojen. Desde hace más de una semana los labriegos retornaron el inmueble, luego de que fueran desalojados irregularmente. Hoy se pudo conocer que la finca pertenece a **Dolly Álvarez, quien es objeto de extinción de dominio por la finca Cachenche que tiene la SAE.** 
@@ -25,7 +25,7 @@ Sorprende que La Europa, siendo adquirida en las mismas condiciones de Cachenche
 
 ## Hombres armados
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2021/11/en-la-europa-armados-presionan-a-campesinos-para-que-desalojen/armado.jpeg)
+![](s3://bundled-saddlebag-tnqki7w/2021/11/en-la-europa-armados-presionan-a-campesinos-para-que-desalojen/armado.jpeg)
 *Este jinete está armado, según los campesinos de La Europa.*
 
 El hecho de que en el día de hoy hombres armados se hayan presentado para desalojar a los campesinos, indica que se está utilizando justicia por cuenta propia por parte de los presuntos propietarios del predio. De la misma manera como actúo la policía para desalojar a los campesinos sin tener en cuenta las disposiciones de la Procuraduría General de la Nación y de la ley en estos casos.

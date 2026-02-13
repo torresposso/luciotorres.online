@@ -5,10 +5,10 @@ pubDate: "2022-05-16 19:41:27"
 author: "Lucio"
 categories: ["Cartagena"]
 
-heroImage: https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/investigacion-express-audiencia-en-vivo-caso-gloria-estrada/hero.jpg
+heroImage: s3://bundled-saddlebag-tnqki7w/2022/05/investigacion-express-audiencia-en-vivo-caso-gloria-estrada/hero.jpg
 ---
 
-![](https://cdn.luciotorres.online/unsafe/plain/s3://bundled-saddlebag-tnqki7w/2022/05/investigacion-express-audiencia-en-vivo-caso-gloria-estrada/hero.jpg)
+![](s3://bundled-saddlebag-tnqki7w/2022/05/investigacion-express-audiencia-en-vivo-caso-gloria-estrada/hero.jpg)
 
 AUDIENCIA DEL KILO DE COCAÍNA (2° SESIÓN)
 
