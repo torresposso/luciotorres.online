@@ -1,0 +1,93 @@
+# The Caddyfile is an easy way to configure FrankenPHP and the Caddy web server.
+#
+# https://frankenphp.dev/docs/config
+# https://caddyserver.com/docs/caddyfile
+{
+	skip_install_trust
+	auto_https off
+
+	{$CADDY_GLOBAL_OPTIONS}
+
+	frankenphp {
+		num_threads 1
+		max_threads 4
+		max_requests 1000
+		php_ini memory_limit 128M
+		php_ini max_execution_time 30
+		php_ini max_input_vars 5000
+
+		# Optimización de OPcache y Preloading
+		php_ini opcache.enable 1
+		php_ini opcache.enable_cli 1
+		php_ini opcache.memory_consumption 64
+		php_ini opcache.interned_strings_buffer 8
+		php_ini opcache.max_accelerated_files 30000
+		php_ini opcache.revalidate_freq 0
+
+		# Optimización para el alto volumen de lectura SQLite
+		php_ini realpath_cache_size 4096K
+		php_ini realpath_cache_ttl 600
+	}
+}
+
+{$CADDY_EXTRA_CONFIG}
+:{$PORT} {
+	root {$SERVER_ROOT:public/}
+	encode zstd br gzip
+
+	# Hashed build assets: immutable (content-addressed filenames never change)
+	@hashed_assets {
+		path */build/assets/*
+	}
+	header @hashed_assets Cache-Control "public, max-age=31536000, immutable"
+
+	# Uploaded images: moderate cache
+	@uploads {
+		path */uploads/*
+	}
+	header @uploads Cache-Control "public, max-age=86400"
+
+	# HTML pages: always revalidate (news site — latest content each visit)
+	header ?Cache-Control "no-cache, must-revalidate"
+
+	# Security headers
+	header {
+		X-Content-Type-Options "nosniff"
+		X-Frame-Options "DENY"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		Strict-Transport-Security "max-age=86400; includeSubDomains"
+		Cross-Origin-Opener-Policy "same-origin-allow-popups"
+		Content-Security-Policy-Report-Only "default-src 'self'; script-src 'self' 'unsafe-inline' https://connect.facebook.net https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com https://connect.facebook.net; frame-ancestors 'none'; base-uri 'self'; form-action 'self'"
+		Permissions-Policy "camera=(), geolocation=(), microphone=()"
+	}
+
+	# Block public access to SQLite database files and database directories
+	@db_blocked {
+		path */uploads/database/*
+		path */storage/database/*
+		path *.sqlite
+		path *.db
+	}
+	respond @db_blocked "Access Denied" 403
+
+	# Block debug logs, cache dirs, and dotfiles under web root
+	@blocked_paths {
+		path *.log
+		path /app/cache/*
+		path /app/debug.log
+	}
+	respond @blocked_paths "Access Denied" 403
+
+	# Block PHP execution in uploads
+	@php_in_uploads {
+		path */uploads/*.php
+		path */uploads/*/*.php
+	}
+	respond @php_in_uploads "Access Denied" 403
+
+	{$CADDY_SERVER_EXTRA_DIRECTIVES}
+
+	php_server
+}
+
+import Caddyfile.d/*.caddyfile

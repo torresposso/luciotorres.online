@@ -1,0 +1,8 @@
+{
+  "name": "luciotorres-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix web/app/themes/luciotorres install && npm --prefix web/app/themes/luciotorres run dev",
+    "build": "npm --prefix web/app/themes/luciotorres install && npm --prefix web/app/themes/luciotorres run build"
+  }
+}
