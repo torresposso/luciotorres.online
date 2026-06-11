@@ -3,9 +3,9 @@
 @section('content')
   @include('partials.page-header')
 
-  <x-alert type="warning">
-    {!! __('Sorry, but the page you are trying to view does not exist.', 'luciotorres') !!}
-  </x-alert>
+  <div class="alert alert-warning my-4">
+    {!! __('Lo siento, pero la página que intentas ver no existe.', 'luciotorres') !!}
+  </div>
 
   {!! get_search_form(false) !!}
 @endsection

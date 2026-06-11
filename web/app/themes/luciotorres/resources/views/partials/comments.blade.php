@@ -29,9 +29,9 @@
     @endif
 
     @if ($closed())
-      <x-alert type="warning">
-        {!! __('Comments are closed.', 'luciotorres') !!}
-      </x-alert>
+      <div class="alert alert-warning my-4">
+        {!! __('Los comentarios están cerrados.', 'luciotorres') !!}
+      </div>
     @endif
 
     @php(comment_form())
