@@ -46,3 +46,7 @@ missing-batch-*.json
 
 # Reportes de gestión
 /reportes/
+
+# Importer and scraped content
+import.php
+/output/

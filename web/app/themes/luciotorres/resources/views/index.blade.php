@@ -1,29 +1,26 @@
 @extends('layouts.app')
 
 @section('content')
-  <x-hero />
+  @include('partials.page-header')
 
-  <div class="divide-y divide-base-300">
-    @foreach ($sections as $section)
-      @if (! empty($section['posts']))
-        <x-section-block
-          :slug="$section['slug']"
-          :name="$section['name']"
-          :description="$section['desc']"
-          :icon="$section['icon']"
-          :posts="$section['posts']"
-          :alternate="$loop->iteration % 2 === 0"
-        />
-      @endif
-    @endforeach
-  </div>
-
-  <div class="bg-base-100 py-12 lg:py-16">
-    <div class="max-w-6xl mx-auto px-4 text-center">
-      <a href="{{ home_url('/category/destacadas/') }}"
-         class="btn btn-primary rounded-full px-8 font-sans text-xs font-extrabold tracking-wider">
-        Ver más artículos
-      </a>
+  @if (! have_posts())
+    <div class="alert alert-warning my-4">
+      {!! __('Lo siento, no se encontraron resultados.', 'luciotorres') !!}
     </div>
+    {!! get_search_form(false) !!}
+  @endif
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 my-8">
+    @while(have_posts()) @php(the_post())
+      @includeFirst(['partials.content-' . get_post_type(), 'partials.content'])
+    @endwhile
   </div>
+
+  <div class="my-8">
+    {!! get_the_posts_navigation() !!}
+  </div>
+@endsection
+
+@section('sidebar')
+  @include('sections.sidebar')
 @endsection
