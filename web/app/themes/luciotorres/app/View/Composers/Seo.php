@@ -5,10 +5,16 @@ namespace App\View\Composers;
 use App\Seo\JsonLd;
 use App\Seo\MetaRenderer;
 use App\Seo\SeoMeta;
+use Illuminate\Support\Facades\Vite;
 use Roots\Acorn\View\Composer;
 
 class Seo extends Composer
 {
+    /**
+     * Default OG image path (relative to theme resources).
+     */
+    private const DEFAULT_OG_IMAGE = 'resources/images/og-home.jpg';
+
     /**
      * List of views served by this composer.
      *
@@ -52,6 +58,9 @@ class Seo extends Composer
                 'post_title' => get_bloginfo('name'),
                 'post_url' => home_url('/'),
                 'meta_desc' => $desc,
+                'og_title' => get_bloginfo('name') . ' — ' . $desc,
+                'og_desc' => $desc,
+                'og_image_url' => Vite::asset(self::DEFAULT_OG_IMAGE),
                 'is_home' => true,
                 'canonical' => home_url('/'),
             ];
