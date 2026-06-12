@@ -10,16 +10,6 @@ class Index extends Composer
         'index',
     ];
 
-    /**
-     * Safely and surgically bust the composer cache without side effects.
-     *
-     * @return void
-     */
-    public function bustCache(): void
-    {
-        \Illuminate\Support\Facades\Cache::forget('luciotorres_homepage_sections_ids');
-    }
-
     public function with()
     {
         $sections = $this->getSections();

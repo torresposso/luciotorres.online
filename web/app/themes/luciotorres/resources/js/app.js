@@ -12,3 +12,38 @@ document.addEventListener('keydown', (e) => {
     }
   }
 });
+
+// Navbar scroll compression
+const navbar = document.querySelector('.navbar');
+if (navbar) {
+  // Check initial scroll position on load
+  if (window.scrollY > 50) {
+    navbar.classList.add('navbar-scrolled');
+  }
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 50) {
+      navbar.classList.add('navbar-scrolled');
+    } else {
+      navbar.classList.remove('navbar-scrolled');
+    }
+  }, { passive: true });
+}
+
+// Scroll reveal animations observer
+const revealElements = document.querySelectorAll('.reveal');
+if (revealElements.length > 0) {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('reveal-active');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, {
+    threshold: 0.1,
+    rootMargin: '0px 0px -40px 0px'
+  });
+  revealElements.forEach((el) => observer.observe(el));
+}
+
+

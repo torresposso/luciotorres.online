@@ -31,7 +31,10 @@ export default defineConfig({
         'resources/css/editor.css',
         'resources/js/editor.js',
       ],
-      refresh: true,
+      refresh: [
+        'app/**/*.php',
+        'resources/views/**/*.blade.php',
+      ],
       assets: ['resources/images/**', 'resources/fonts/**'],
     }),
 

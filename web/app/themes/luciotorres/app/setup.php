@@ -21,8 +21,7 @@ app()->singleton(\Roots\Acorn\Assets\Vite::class, fn() => $vite);
 app()->singleton(\Illuminate\Foundation\Vite::class, fn() => $vite);
 app()->singleton('assets.vite', fn() => $vite);
 
-// Register class-based Blade components explicitly
-\Illuminate\Support\Facades\Blade::component(\App\View\Components\Hero::class, 'hero');
+
 
 /**
  * Inject styles into the block editor.
@@ -214,17 +213,7 @@ add_action('save_post', function ($post_id) {
     update_post_meta($post_id, 'vp_reading_time', $reading_time);
 }, 10, 1);
 
-/**
- * Invalidate Hero and Homepage sections caches when a post is saved or deleted.
- */
-add_action('save_post', function () {
-    delete_transient(\App\View\Components\Hero::getCacheKey());
-    (new \App\View\Composers\Index())->bustCache();
-});
-add_action('deleted_post', function () {
-    delete_transient(\App\View\Components\Hero::getCacheKey());
-    (new \App\View\Composers\Index())->bustCache();
-});
+
 
 /**
  * Inyectar Google Analytics (GA4) y Meta Pixel (Facebook/Instagram) de forma segura en producción
