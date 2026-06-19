@@ -8,18 +8,17 @@ namespace App;
 
 use Illuminate\Support\Facades\Vite;
 
-// Register our custom Vite class to dynamically rewrite Hot Asset URLs in memory
-$vite = new \App\Vite();
+use App\Services\ReadingTime;
+use App\Vite as AppVite;
+use Roots\Acorn\Assets\Vite as AcornVite;
+use Illuminate\Foundation\Vite as FoundationVite;
+
+$vite = new AppVite();
 $vite->useHotFile(__DIR__ . '/../public/hot');
 
-// Set both bindings and instances to override any previously resolved instances in Acorn/Laravel
-app()->instance(\Roots\Acorn\Assets\Vite::class, $vite);
-app()->instance(\Illuminate\Foundation\Vite::class, $vite);
+app()->instance(AcornVite::class, $vite);
+app()->instance(FoundationVite::class, $vite);
 app()->instance('assets.vite', $vite);
-
-app()->singleton(\Roots\Acorn\Assets\Vite::class, fn() => $vite);
-app()->singleton(\Illuminate\Foundation\Vite::class, fn() => $vite);
-app()->singleton('assets.vite', fn() => $vite);
 
 
 
@@ -64,6 +63,10 @@ add_action('admin_head', function () {
 
     if (! Vite::isRunningHot()) {
         $dependencies = json_decode(Vite::content('editor.deps.json'));
+
+        if (!is_array($dependencies)) {
+            return;
+        }
 
         foreach ($dependencies as $dependency) {
             if (! wp_script_is($dependency)) {
@@ -197,76 +200,23 @@ add_action('widgets_init', function () {
 /**
  * Calculate and save word count and reading time on post save.
  */
-add_action('save_post', function ($post_id) {
+add_action('save_post', function ($postId) {
     if (defined('DOING_AUTOSAVE') && DOING_AUTOSAVE) {
         return;
     }
-    if (wp_is_post_revision($post_id)) {
+    if (wp_is_post_revision($postId)) {
         return;
     }
 
-    $content = get_post_field('post_content', $post_id);
-    $word_count = str_word_count(strip_tags($content));
-    $reading_time = max(1, ceil($word_count / 200));
+    $content = get_post_field('post_content', $postId);
+    $wordCount = str_word_count(strip_tags($content));
+    $readingTime = ReadingTime::calculate($wordCount);
+    $wordCount = (int) $wordCount;
 
-    update_post_meta($post_id, 'vp_word_count', $word_count);
-    update_post_meta($post_id, 'vp_reading_time', $reading_time);
+    update_post_meta($postId, 'vp_word_count', $wordCount);
+    update_post_meta($postId, 'vp_reading_time', $readingTime);
 }, 10, 1);
 
 
 
-/**
- * Inyectar Google Analytics (GA4) y Meta Pixel (Facebook/Instagram) de forma segura en producción
- */
-add_action('wp_head', function () {
-    // 1. Cargar las credenciales desde las variables de entorno de Bedrock
-    $ga_id = env('GOOGLE_ANALYTICS_ID');
-    $meta_id = env('META_PIXEL_ID');
 
-    // Meta Domain Verification (requerido por Facebook para validar la propiedad del dominio)
-    echo "
-    <!-- Meta Domain Verification -->
-    <meta name=\"facebook-domain-verification\" content=\"pl4dsq30p15llps9quh6k37uq6l8hn\" />
-    ";
-
-    // 2. Solo cargar en producción y si el usuario no está logueado para no ensuciar métricas
-    if (WP_ENV === 'production' && !is_user_logged_in()) {
-
-        // Google Analytics (GA4)
-        if ($ga_id) {
-            echo "
-            <!-- Google tag (gtag.js) -->
-            <script async src=\"https://www.googletagmanager.com/gtag/js?id={$ga_id}\"></script>
-            <script>
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', '{$ga_id}', { 'anonymize_ip': true });
-            </script>
-            ";
-        }
-
-        // Meta Pixel (Facebook / Instagram)
-        if ($meta_id) {
-            echo "
-            <!-- Meta Pixel Code -->
-            <script>
-            !function(f,b,e,v,n,t,s)
-            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-            n.queue=[];t=b.createElement(e);t.async=!0;
-            t.src=v;s=b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t,s)}(window, document,'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-            fbq('init', '{$meta_id}');
-            fbq('track', 'PageView');
-            </script>
-            <noscript><img height=\"1\" width=\"1\" style=\"display:none\"
-            src=\"https://www.facebook.com/tr?id={$meta_id}&ev=PageView&noscript=1\"
-            /></noscript>
-            <!-- End Meta Pixel Code -->
-            ";
-        }
-    }
-}, 1); // Prioridad 1 para cargar al inicio del <head>

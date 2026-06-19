@@ -1,6 +1,8 @@
 <?php
 
+use App\Providers\AnalyticsServiceProvider;
 use App\Providers\SeoServiceProvider;
+use App\Providers\SitemapServiceProvider;
 use Roots\Acorn\Application;
 use Roots\Acorn\Sage\SageServiceProvider;
 
@@ -14,7 +16,9 @@ $app = Application::configure()
     ->withRouting(wordpress: true)
     ->withProviders([
         SageServiceProvider::class,
+        AnalyticsServiceProvider::class,
         SeoServiceProvider::class,
+        SitemapServiceProvider::class,
     ])
     ->boot();
 

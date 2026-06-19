@@ -14,16 +14,20 @@ class JsonLd
      * Build an Organization schema.
      *
      * @param  array<string, mixed>  $config
+     * @param  bool  $includeContext  Whether to include @context (false for @graph items)
      * @return array<string, mixed>
      */
-    public function organization(array $config): array
+    public function organization(array $config, bool $includeContext = true): array
     {
         $schema = [
-            '@context' => 'https://schema.org',
             '@type' => 'Organization',
             'name' => $config['name'] ?? '',
             'url' => $config['url'] ?? '',
         ];
+
+        if ($includeContext) {
+            $schema['@context'] = 'https://schema.org';
+        }
 
         if (! empty($config['logo'])) {
             $schema['logo'] = $config['logo'];
@@ -40,16 +44,20 @@ class JsonLd
      * Build a WebSite schema with optional SearchAction.
      *
      * @param  array<string, mixed>  $config
+     * @param  bool  $includeContext  Whether to include @context (false for @graph items)
      * @return array<string, mixed>
      */
-    public function website(array $config): array
+    public function website(array $config, bool $includeContext = true): array
     {
         $schema = [
-            '@context' => 'https://schema.org',
             '@type' => 'WebSite',
             'name' => $config['name'] ?? '',
             'url' => $config['url'] ?? '',
         ];
+
+        if ($includeContext) {
+            $schema['@context'] = 'https://schema.org';
+        }
 
         if (! empty($config['search_url'])) {
             $schema['potentialAction'] = [
@@ -69,15 +77,21 @@ class JsonLd
      * Build an Article schema.
      *
      * @param  array<string, mixed>  $data
+     * @param  bool  $includeContext  Whether to include @context (false for @graph items)
      * @return array<string, mixed>
      */
-    public function article(array $data): array
+    public function article(array $data, bool $includeContext = true): array
     {
-        return array_merge([
-            '@context' => 'https://schema.org',
+        $schema = [
             '@type' => 'Article',
             'headline' => $data['headline'] ?? '',
-        ], array_filter([
+        ];
+
+        if ($includeContext) {
+            $schema['@context'] = 'https://schema.org';
+        }
+
+        return array_merge($schema, array_filter([
             'description' => $data['description'] ?? null,
             'datePublished' => $data['datePublished'] ?? null,
             'dateModified' => $data['dateModified'] ?? null,
@@ -97,9 +111,10 @@ class JsonLd
      * Build a BreadcrumbList schema.
      *
      * @param  array<int, array<string, string>>  $items  Array of ['name' => ..., 'url' => ...]
+     * @param  bool  $includeContext  Whether to include @context (false for @graph items)
      * @return array<string, mixed>
      */
-    public function breadcrumbList(array $items): array
+    public function breadcrumbList(array $items, bool $includeContext = true): array
     {
         $listElements = [];
         $position = 1;
@@ -114,11 +129,16 @@ class JsonLd
             $position++;
         }
 
-        return [
-            '@context' => 'https://schema.org',
+        $schema = [
             '@type' => 'BreadcrumbList',
             'itemListElement' => $listElements,
         ];
+
+        if ($includeContext) {
+            $schema['@context'] = 'https://schema.org';
+        }
+
+        return $schema;
     }
 
     /**

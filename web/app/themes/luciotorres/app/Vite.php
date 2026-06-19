@@ -18,10 +18,9 @@ class Vite extends SageVite
     {
         $url = parent::hotAsset($asset);
 
-        if (isset($_SERVER['HTTP_HOST'])) {
+        if (isset($_SERVER['HTTP_HOST']) && is_allowed_dev_host($_SERVER['HTTP_HOST'])) {
             $requestHost = $_SERVER['HTTP_HOST'];
 
-            // Remove port from host if it exists to get just the hostname/IP
             $requestHostName = parse_url('http://' . $requestHost, PHP_URL_HOST);
 
             if ($requestHostName) {

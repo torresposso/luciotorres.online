@@ -24,18 +24,13 @@ class Seo extends Composer
         'layouts.app',
     ];
 
-    /**
-     * Provide SEO data to the view.
-     *
-     * @return array<string, mixed>
-     */
     public function with(): array
     {
         $seoMeta = $this->resolveSeoMeta();
 
         return [
-            'seoMetaTags' => $this->renderMetaTags($seoMeta),
-            'seoJsonLd' => $this->renderJsonLd($seoMeta),
+            'seoMeta' => $seoMeta,
+            'jsonLdGraph' => $this->buildJsonLdGraph($seoMeta),
         ];
     }
 
@@ -102,20 +97,7 @@ class Seo extends Composer
         ];
     }
 
-    /**
-     * Render HTML meta tags.
-     */
-    private function renderMetaTags(SeoMeta $seoMeta): string
-    {
-        $renderer = new MetaRenderer($seoMeta);
-
-        return $renderer->render();
-    }
-
-    /**
-     * Render JSON-LD scripts.
-     */
-    private function renderJsonLd(SeoMeta $seoMeta): string
+    private function buildJsonLdGraph(SeoMeta $seoMeta): array
     {
         $jsonld = app(JsonLd::class);
         $graph = [];
@@ -123,7 +105,6 @@ class Seo extends Composer
         $siteUrl = home_url();
         $siteName = get_bloginfo('name');
 
-        // Organization
         $orgConfig = apply_filters('luciotorres/seo/organization', [
             'name' => $siteName,
             'logo' => get_theme_mod('custom_logo')
@@ -133,22 +114,16 @@ class Seo extends Composer
             'sameAs' => [],
         ]);
 
-        $org = $jsonld->organization($orgConfig);
-        unset($org['@context']);
-        $graph[] = $org;
+        $graph[] = $jsonld->organization($orgConfig, false);
 
-        // WebSite
         $siteConfig = apply_filters('luciotorres/seo/social', [
             'name' => $siteName,
             'url' => $siteUrl,
             'search_url' => $siteUrl . '/?s={search_term_string}',
         ]);
 
-        $site = $jsonld->website($siteConfig);
-        unset($site['@context']);
-        $graph[] = $site;
+        $graph[] = $jsonld->website($siteConfig, false);
 
-        // Article (only on single posts)
         if (is_singular('post') && ! $seoMeta->isHome()) {
             $articleData = [
                 'headline' => $seoMeta->getPostTitle() ?? '',
@@ -160,23 +135,13 @@ class Seo extends Composer
                 'url' => $seoMeta->getPostUrl() ?? '',
             ];
 
-            $article = $jsonld->article($articleData);
-            unset($article['@context']);
-            $graph[] = $article;
+            $graph[] = $jsonld->article($articleData, false);
         }
 
-        // BreadcrumbList
         $breadcrumbs = $this->buildBreadcrumbs($seoMeta);
-        $breadcrumbList = $jsonld->breadcrumbList($breadcrumbs);
-        unset($breadcrumbList['@context']);
-        $graph[] = $breadcrumbList;
+        $graph[] = $jsonld->breadcrumbList($breadcrumbs, false);
 
-        $combined = [
-            '@context' => 'https://schema.org',
-            '@graph' => $graph,
-        ];
-
-        return JsonLd::toScript($combined);
+        return $graph;
     }
 
     /**

@@ -60,16 +60,13 @@ class SeoMeta
         $this->isHome = (bool) ($data['is_home'] ?? false);
 
         if ($fallbackToPost) {
-            $this->applyFallbacks();
+            $this->applyFallback();
         }
 
         $this->validate();
     }
 
-    /**
-     * Apply fallbacks from post data for OG fields.
-     */
-    private function applyFallbacks(): void
+    private function applyFallback(): void
     {
         if ($this->ogTitle === null && $this->postTitle !== null) {
             $this->ogTitle = $this->postTitle;

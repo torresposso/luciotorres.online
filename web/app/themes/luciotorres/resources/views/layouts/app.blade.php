@@ -12,6 +12,7 @@
     </noscript>
     <link rel="icon" type="image/svg+xml" href="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/favicon.svg') }}">
     <?php do_action('get_header'); ?>
+    @include('partials.seo-head')
     <?php wp_head(); ?>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     @stack('styles')

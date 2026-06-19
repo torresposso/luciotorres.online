@@ -2,6 +2,7 @@
 
 namespace App\View\Composers;
 
+use App\Services\ReadingTime;
 use Roots\Acorn\View\Composer;
 
 class Post extends Composer
@@ -85,24 +86,20 @@ class Post extends Composer
         ];
     }
 
-    /**
-     * Retrieve the estimated reading time.
-     */
     public function readingTime(): string
     {
-        $post_id = get_the_ID();
-        $minutes = get_post_meta($post_id, 'vp_reading_time', true);
+        $postId = get_the_ID();
 
-        if (!$minutes) {
-            $content = get_post_field('post_content', $post_id);
-            $wordCount = str_word_count(strip_tags($content));
-            $wordsPerMinute = 200; // Average reading speed
-            $minutes = max(1, ceil($wordCount / $wordsPerMinute));
+        $minutes = ReadingTime::fromPostMeta($postId);
+
+        if ($minutes === null) {
+            $content = get_post_field('post_content', $postId);
+            $minutes = ReadingTime::fromContent($content);
         }
 
         return sprintf(
-            _n('%d min de lectura', '%d min de lectura', (int) $minutes, 'luciotorres'),
-            (int) $minutes,
+            _n('%d min de lectura', '%d min de lectura', $minutes, 'luciotorres'),
+            $minutes,
         );
     }
 
