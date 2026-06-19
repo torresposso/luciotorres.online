@@ -1,0 +1,6 @@
+{
+  "files": ["web/app/themes/luciotorres/resources/views/layouts/app.blade.php"],
+  "insertBefore": "</body>",
+  "commentSyntax": "html",
+  "cspChecked": true
+}

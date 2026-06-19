@@ -1,29 +1,3 @@
-# Project Context & Architecture Guidelines (luciotorres.online)
-
-This repository is a WordPress site powered by Bedrock and Roots Sage 11.
-
-## Tech Stack & Conventions
-- **Framework**: Roots Acorn (Laravel components in WordPress: View Composers, Service Providers, Blade templates).
-- **View Composers**: Located in `web/app/themes/luciotorres/app/View/Composers/`. Bind data to templates. Register them in Service Providers or theme setup hooks.
-- **Blade Components**: Explicitly register class-based Blade components in `app/setup.php`. The class MUST actually exist in the project to avoid container resolution failures.
-- **Services & CLI**: Custom services and WP-CLI commands (located under `app/Seo/`) must be registered in Laravel-style Service Providers under `app/Providers/`.
-- **Bundler**: Vite is used for asset compilation and hot reloading.
-- **Design System & Colors (Strict OKLCH)**: We strictly use only two base brand colors: **Midnight** and **Orange**, both defined and manipulated using **OKLCH** coordinates. All other semantic values (hover states, texts, bases) are derived by adjusting the lightness or chroma of these two colors. Never introduce new base colors (like Gold or Slate) or hardcoded hex colors. Refer to [brandbook.md](file:///home/erick/Projects/webs/luciotorres.online/brandbook.md) for specs.
-
-## Docker Dev Environment (Host Isolation - MANDATORY)
-All dependencies and the stack are strictly managed by Docker. Do NOT run PHP, Composer, Node, npm, or WP-CLI tools directly on the host machine.
-
-- **Start Environment**: `docker compose up -d`
-- **Stop Environment**: `docker compose down`
-- **Composer (Root)**: `docker compose exec app composer install` or `docker compose exec app composer require <package>`
-- **Composer (Theme)**: `docker compose exec app composer --working-dir=web/app/themes/luciotorres install`
-- **Node / NPM**: `docker compose run --rm node npm install` or `docker compose run --rm node npm run dev`
-- **WP-CLI**: `docker compose exec app wp <command>`
-- **Laravel Pint (Code Formatting)**: Managed inside Docker via `.docker/pint.sh` wrapper, which translates host paths to container paths (`/app`) for seamless VS Code integration.
-- **PHP Validation & Linting**: Local PHP validation is disabled (`php.validate.enable: false` in `.vscode/settings.json`) to prevent host dependency issues. Rely on the Docker environment for linting and execution.
-
----
-
 <!-- gitnexus:start -->
 # GitNexus — Code Intelligence
 
