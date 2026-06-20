@@ -6,6 +6,5 @@
 <x-home.biography />
 <x-home.project />
 <x-home.skills />
-<x-home.register />
 @endsection
 
