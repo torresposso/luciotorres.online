@@ -3,6 +3,7 @@
 use App\Providers\AnalyticsServiceProvider;
 use App\Providers\SeoServiceProvider;
 use App\Providers\SitemapServiceProvider;
+use App\Providers\SumateServiceProvider;
 use Roots\Acorn\Application;
 use Roots\Acorn\Sage\SageServiceProvider;
 
@@ -19,6 +20,7 @@ $app = Application::configure()
         AnalyticsServiceProvider::class,
         SeoServiceProvider::class,
         SitemapServiceProvider::class,
+        SumateServiceProvider::class,
     ])
     ->boot();
 
