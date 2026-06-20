@@ -1,3 +1,3 @@
-<div class="page-header">
-  <h1>{!! $title !!}</h1>
+<div class="page-header" aria-hidden="true">
+  <span class="sr-only">{!! $title !!}</span>
 </div>

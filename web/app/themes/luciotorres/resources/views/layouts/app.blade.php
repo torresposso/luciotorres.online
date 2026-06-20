@@ -11,6 +11,7 @@
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700;800&display=swap">
     </noscript>
     <link rel="icon" type="image/svg+xml" href="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/favicon.svg') }}">
+    <meta name="description" content="Periodismo independiente de investigación, análisis y opinión desde el Caribe colombiano. Rigor técnico y mirada progresista.">
     <?php do_action('get_header'); ?>
     @include('partials.seo-head')
     <?php wp_head(); ?>

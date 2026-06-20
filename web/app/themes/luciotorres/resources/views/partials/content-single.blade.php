@@ -36,7 +36,9 @@
     </footer>
   @endif
 
-  <div class="comments-section mt-12">
-    @php(comments_template())
-  </div>
+  @if (comments_open())
+    <div class="comments-section mt-12">
+      @php(comments_template())
+    </div>
+  @endif
 </article>

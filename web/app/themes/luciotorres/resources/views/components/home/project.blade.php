@@ -1,53 +1,86 @@
-<!-- Project section -->
-<section class="bg-base-100 text-base-content w-full py-16 md:py-24 lg:py-32 px-6 md:px-12 lg:px-24">
-  <div class="max-w-7xl mx-auto w-full flex flex-col md:flex-row-reverse gap-12 md:gap-16 items-center">
-    <!-- Left Side: Journalistic Video Showcase -->
-    <div class="w-full md:w-1/2 flex flex-col items-center gap-4 max-w-md reveal">
-      <div class="relative rounded-2xl overflow-hidden shadow-premium border border-primary/5 group w-full">
-        <a href="https://www.youtube.com/watch?v=oawg0bpWsZM" target="_blank" class="block relative w-full">
-          <!-- Glow backdrop -->
-          <div class="absolute -inset-1 bg-secondary/5 rounded-2xl blur-xl opacity-0 group-hover:opacity-100 transition duration-500 pointer-events-none"></div>
-          <img 
-            src="/app/uploads/2025/10/foto-la-gran-colombia.jpg" 
-            alt="Video explicativo La Gran Colombia" 
-            class="relative rounded-2xl w-full object-cover transition-transform duration-500 group-hover:scale-[1.02]" 
-          />
-          <!-- Video Play Overlay -->
-          <div class="absolute inset-0 bg-primary/40 flex items-center justify-center group-hover:bg-primary/25 transition-all duration-300 rounded-2xl">
-            <span class="w-16 h-16 rounded-full bg-secondary text-white flex items-center justify-center shadow-lg group-hover:scale-110 transition-all duration-300 font-bold text-lg">
-              ▶
-            </span>
+{{--
+  La Gran Colombia — Chapter III.
+  The documentary is the dominant image. The manifesto quote is the spine.
+  Chapter numeral as the voice element. Single CTA.
+--}}
+<section id="gran-colombia" class="bg-primary text-white relative overflow-hidden">
+
+  <div class="max-w-7xl mx-auto w-full px-6 md:px-12 lg:px-24 py-20 md:py-28 lg:py-36 relative">
+
+    {{-- Chapter mark --}}
+    <div class="flex items-end gap-6 md:gap-8 mb-12 md:mb-16 reveal-immediate">
+      <span class="chapter-numeral chapter-numeral--dark" aria-hidden="true">III</span>
+      <div class="flex flex-col gap-2 pb-2 md:pb-3">
+        <div class="chapter-rule chapter-rule--dark" aria-hidden="true"></div>
+        <span class="running-head running-head--inverted">Iniciativa de Nación</span>
+      </div>
+    </div>
+
+    <div class="grid lg:grid-cols-12 gap-12 lg:gap-16 items-center">
+
+      {{-- Left: title + manifesto (6 cols) --}}
+      <div class="lg:col-span-6 flex flex-col gap-8 reveal-immediate-d200">
+
+        <h2 class="font-display font-black text-white leading-[0.95] tracking-[-0.035em] text-[clamp(2.5rem,7vw,5.5rem)] text-balance">
+          La Gran
+          <span class="block text-secondary">Colombia.</span>
+        </h2>
+
+        <p class="font-sans text-primary-content/90 text-base md:text-lg leading-relaxed max-w-xl text-pretty">
+          Esta es la oportunidad para comenzar un buen día y nacer de nuevo en el Ser y crear el Gran Macondo que está dentro de mí. —Se dijo a sí mismo con su frente sudorosa y su camisilla empapada en este amanecer Caribe lleno de luz y calor.
+        </p>
+
+        <blockquote class="relative pl-6 md:pl-8 font-display text-primary-content text-xl md:text-2xl leading-[1.3] tracking-[-0.01em] max-w-xl text-balance">
+          <span class="absolute left-0 top-0 text-secondary/40 text-5xl md:text-6xl font-serif leading-none select-none" aria-hidden="true">&ldquo;</span>
+          <span class="relative z-10">La Gran Colombia se forja desde tu corazón, desde el Yo Soy. El verdadero voto no ocurre en las urnas: ocurre en la conciencia.</span>
+        </blockquote>
+
+        <a href="/la-gran-colombia/"
+          class="btn btn-secondary rounded-2xl text-white font-display font-bold px-8 py-4 text-base hover:scale-[1.03] transition-transform duration-300 shadow-premium border-0 mt-2 min-h-[48px]">
+          Explorar la iniciativa
+          <span class="ml-2" aria-hidden="true">→</span>
+        </a>
+      </div>
+
+      {{-- Right: the documentary video poster (6 cols) — full cinematic, not a card --}}
+      <div class="lg:col-span-6 relative reveal-immediate-d400">
+        <a href="https://www.youtube.com/watch?v=oawg0bpWsZM" target="_blank" rel="noopener" aria-label="Reproducir documental: El despertar de la conciencia"
+          class="group block relative rounded-2xl overflow-hidden shadow-cinema border border-white/5">
+
+          <div class="relative aspect-video">
+            <img
+              src="/app/uploads/2025/10/foto-la-gran-colombia.jpg"
+              alt="Documental: El despertar de la conciencia y la propuesta de La Gran Colombia"
+              width="800" height="450" loading="lazy" decoding="async"
+              class="w-full h-full object-cover group-hover:scale-[1.04] transition-transform duration-700 ease-out"
+            />
+
+            {{-- Cinematic dim layer — derives from brand midnight, no hardcoded colors --}}
+            <div class="absolute inset-0 cinematic-overlay group-hover:opacity-80 transition-opacity duration-500"></div>
+
+            {{-- Center play affordance — bigger, more poster-like --}}
+            <div class="absolute inset-0 flex items-center justify-center">
+              <div class="relative">
+                <div class="absolute inset-0 rounded-full bg-secondary/30 blur-2xl scale-150 group-hover:scale-[2] transition-transform duration-700" aria-hidden="true"></div>
+                <div class="relative w-24 h-24 md:w-28 md:h-28 rounded-full bg-secondary text-white flex items-center justify-center shadow-cinema group-hover:scale-110 transition-transform duration-500">
+                  <svg class="w-9 h-9 md:w-10 md:h-10 ml-1" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                    <path d="M8 5v14l11-7z" />
+                  </svg>
+                </div>
+              </div>
+            </div>
+
+            {{-- Lower-third title --}}
+            <div class="absolute bottom-0 left-0 right-0 p-6 md:p-10 flex flex-col gap-2">
+              <span class="text-secondary text-[0.65rem] md:text-xs font-sans font-bold tracking-[0.3em] uppercase">Documental · 2025</span>
+              <h3 class="font-display font-black text-white text-2xl md:text-4xl leading-[1.05] tracking-[-0.02em] text-balance">
+                El despertar de la conciencia
+              </h3>
+            </div>
           </div>
         </a>
       </div>
-      <p class="text-xs text-base-content/60 italic text-center font-sans leading-relaxed max-w-xs px-4">
-        Documental: El despertar de la conciencia y la propuesta de La Gran Colombia.
-      </p>
-    </div>
 
-    <!-- Right Side: Project Narrative -->
-    <div class="w-full md:w-1/2 flex flex-col items-start gap-6 reveal reveal-delay-200">
-      <span class="text-secondary font-display font-bold text-xs uppercase tracking-widest bg-secondary/10 py-1.5 px-4 rounded-full">
-        Iniciativa de Nación
-      </span>
-      
-      <h2 class="text-3xl md:text-4xl font-display font-black text-base-content leading-tight">
-        La Gran Colombia
-      </h2>
-      
-      <p class="text-base-content/70 text-base leading-relaxed font-sans max-w-xl">
-        Esta es la oportunidad para comenzar un buen día y nacer de nuevo en el Ser y crear el Gran Macondo que está dentro de mí. —Se dijo a sí mismo con su frente sudorosa y su camisilla empapada en este amanecer Caribe lleno de luz y calor.
-      </p>
-      
-      <blockquote class="relative pl-6 italic text-base-content my-6 font-display text-lg leading-relaxed max-w-xl">
-        <span class="absolute left-0 top-0 text-secondary text-3xl font-serif leading-none select-none">“</span>
-        La Gran Colombia se forja desde tu corazón, desde el Yo Soy. Quien comprende esto sabe que el verdadero voto no ocurre en las urnas: ocurre en la conciencia.
-      </blockquote>
-
-      <!-- Premium Action Button -->
-      <a href="/la-gran-colombia/" class="btn btn-secondary text-white rounded-2xl hover:scale-[1.03] shadow-lg shadow-secondary/15 transition-all duration-300 px-8 py-3.5 mt-2 font-display font-bold text-sm">
-        Explorar Proyecto
-      </a>
     </div>
   </div>
 </section>
