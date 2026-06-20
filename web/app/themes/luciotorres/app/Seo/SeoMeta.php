@@ -2,13 +2,15 @@
 
 namespace App\Seo;
 
+use App\Seo\Contracts\SeoMetaInterface;
+
 /**
  * Data class holding per-post SEO metadata.
  *
  * Resolves from a data array (typically from _luciotorres_* postmeta).
  * Falls back to post data when configured.
  */
-class SeoMeta
+class SeoMeta implements SeoMetaInterface
 {
     private ?string $metaDesc = null;
 

@@ -2,13 +2,15 @@
 
 namespace App\Seo;
 
+use App\Seo\Contracts\SitemapInterface;
+
 /**
  * Virtual XML sitemap generator.
  *
  * Generates sitemap XML from an array of URL entries.
  * No file is written — the XML is generated on-the-fly.
  */
-class Sitemap
+class Sitemap implements SitemapInterface
 {
     /**
      * URL entries for the sitemap.

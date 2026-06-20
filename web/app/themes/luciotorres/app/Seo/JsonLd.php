@@ -2,13 +2,15 @@
 
 namespace App\Seo;
 
+use App\Seo\Contracts\JsonLdInterface;
+
 /**
  * Builder for JSON-LD structured data schemas.
  *
  * Generates Organization, WebSite, Article, and BreadcrumbList
  * schemas as associative arrays ready for JSON serialization.
  */
-class JsonLd
+class JsonLd implements JsonLdInterface
 {
     /**
      * Build an Organization schema.
