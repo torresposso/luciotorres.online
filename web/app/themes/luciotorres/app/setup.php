@@ -7,7 +7,6 @@
 namespace App;
 
 use Illuminate\Support\Facades\Vite;
-
 use App\Services\ReadingTime;
 use App\Vite as AppVite;
 use Roots\Acorn\Assets\Vite as AcornVite;
@@ -174,6 +173,19 @@ add_action('after_setup_theme', function () {
 }, 20);
 
 /**
+ * Disable comments on posts (no formularios).
+ *
+ * @return void
+ */
+add_filter('comments_open', function ($open, $post_id) {
+    return get_post_type($post_id) === 'post' ? false : $open;
+}, 10, 2);
+
+add_filter('pings_open', function ($open, $post_id) {
+    return get_post_type($post_id) === 'post' ? false : $open;
+}, 10, 2);
+
+/**
  * Register the theme sidebars.
  *
  * @return void
@@ -216,7 +228,3 @@ add_action('save_post', function ($postId) {
     update_post_meta($postId, 'vp_word_count', $wordCount);
     update_post_meta($postId, 'vp_reading_time', $readingTime);
 }, 10, 1);
-
-
-
-
